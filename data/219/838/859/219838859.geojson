@@ -2,13 +2,14 @@
   "id": 219838859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.260417,55.840755,-4.260417,55.840755",
     "geom:latitude":55.840755,
     "geom:longitude":-4.260417,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Butterbiggins Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219838859,
-    "wof:lastmodified":1449070817,
+    "wof:lastmodified":1466264334,
     "wof:name":"Scottish Ambulance Service NHS Trust",
     "wof:parent_id":85792495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "ambulance"
     ]
 },
-  "bbox": [-4.260417,55.840755,-4.260417,55.840755],
+  "bbox": [
+    -4.260417,
+    55.840755,
+    -4.260417,
+    55.840755
+],
   "geometry": {"coordinates":[-4.260417,55.840755],"type":"Point"}
 }

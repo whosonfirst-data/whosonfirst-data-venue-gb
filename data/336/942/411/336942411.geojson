@@ -2,13 +2,14 @@
   "id": 336942411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.186412,55.972698,-3.186412,55.972698",
     "geom:latitude":55.972698,
     "geom:longitude":-3.186412,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Graham Street, Leith",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336942411,
-    "wof:lastmodified":1448997445,
+    "wof:lastmodified":1466280924,
     "wof:name":"Peter Craig (Shopfitters)",
     "wof:parent_id":85792709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shopfitters"
     ]
 },
-  "bbox": [-3.186412,55.972698,-3.186412,55.972698],
+  "bbox": [
+    -3.186412,
+    55.972698,
+    -3.186412,
+    55.972698
+],
   "geometry": {"coordinates":[-3.186412,55.972698],"type":"Point"}
 }

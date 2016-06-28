@@ -2,13 +2,14 @@
   "id": 202826519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.002987,50.753635,-2.002987,50.753635",
     "geom:latitude":50.753635,
     "geom:longitude":-2.002987,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Lytchett Drive",
     "sg:city":"Broadstone",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202826519,
-    "wof:lastmodified":1449061945,
+    "wof:lastmodified":1466259506,
     "wof:name":"Miles Associates Ltd.",
     "wof:parent_id":85861239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "business"
     ]
 },
-  "bbox": [-2.002987,50.753635,-2.002987,50.753635],
+  "bbox": [
+    -2.002987,
+    50.753635,
+    -2.002987,
+    50.753635
+],
   "geometry": {"coordinates":[-2.002987,50.753635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220075035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.55238,51.46114,-2.55238,51.46114",
     "geom:latitude":51.46114,
     "geom:longitude":-2.55238,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 Bush Trading Estate, Hammersmith Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220075035,
-    "wof:lastmodified":1449074492,
+    "wof:lastmodified":1466254223,
     "wof:name":"Courtaulds Coatings",
     "wof:parent_id":85791633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-2.55238,51.46114,-2.55238,51.46114],
+  "bbox": [
+    -2.55238,
+    51.46114,
+    -2.55238,
+    51.46114
+],
   "geometry": {"coordinates":[-2.55238,51.46114],"type":"Point"}
 }

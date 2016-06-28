@@ -2,13 +2,14 @@
   "id": 253739731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.762109,55.949265,-4.762109,55.949265",
     "geom:latitude":55.949265,
     "geom:longitude":-4.762109,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 West Stewart Street",
     "sg:city":"Greenock",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253739731,
-    "wof:lastmodified":1449064071,
+    "wof:lastmodified":1466275601,
     "wof:name":"Simpson Photographers",
     "wof:parent_id":85791237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-4.762109,55.949265,-4.762109,55.949265],
+  "bbox": [
+    -4.762109,
+    55.949265,
+    -4.762109,
+    55.949265
+],
   "geometry": {"coordinates":[-4.762109,55.949265],"type":"Point"}
 }

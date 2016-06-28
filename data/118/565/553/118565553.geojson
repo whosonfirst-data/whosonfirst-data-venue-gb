@@ -2,13 +2,14 @@
   "id": 118565553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.473,53.552486,-1.473,53.552486",
     "geom:latitude":53.552486,
     "geom:longitude":-1.473,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Windermere Rd",
     "sg:city":"Barnsley",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118565553,
-    "wof:lastmodified":1449054422,
+    "wof:lastmodified":1466255167,
     "wof:name":"Oakwell Windows",
     "wof:parent_id":85793253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.473,53.552486,-1.473,53.552486],
+  "bbox": [
+    -1.473,
+    53.552486,
+    -1.473,
+    53.552486
+],
   "geometry": {"coordinates":[-1.473,53.552486],"type":"Point"}
 }

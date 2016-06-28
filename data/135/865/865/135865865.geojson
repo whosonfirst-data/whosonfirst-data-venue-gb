@@ -2,13 +2,14 @@
   "id": 135865865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.44623,52.675449,-2.44623,52.675449",
     "geom:latitude":52.675449,
     "geom:longitude":-2.44623,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Upper Chambers, 37 Sherwood Row, Telford Centre",
     "sg:city":"Telford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135865865,
-    "wof:lastmodified":1449023284,
+    "wof:lastmodified":1466287961,
     "wof:name":"Extra Personnel",
     "wof:parent_id":101751611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.44623,52.675449,-2.44623,52.675449],
+  "bbox": [
+    -2.44623,
+    52.675449,
+    -2.44623,
+    52.675449
+],
   "geometry": {"coordinates":[-2.44623,52.675449],"type":"Point"}
 }

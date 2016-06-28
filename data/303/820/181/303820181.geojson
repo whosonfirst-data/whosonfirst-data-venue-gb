@@ -2,13 +2,14 @@
   "id": 303820181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.129075,52.929436,-1.129075,52.929436",
     "geom:latitude":52.929436,
     "geom:longitude":-1.129075,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Byron Road, West Bridgford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303820181,
-    "wof:lastmodified":1448999383,
+    "wof:lastmodified":1466283340,
     "wof:name":"T R A C E",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.129075,52.929436,-1.129075,52.929436],
+  "bbox": [
+    -1.129075,
+    52.929436,
+    -1.129075,
+    52.929436
+],
   "geometry": {"coordinates":[-1.129075,52.929436],"type":"Point"}
 }

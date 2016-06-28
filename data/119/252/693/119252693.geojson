@@ -2,13 +2,14 @@
   "id": 119252693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.110085,52.629219,-1.110085,52.629219",
     "geom:latitude":52.629219,
     "geom:longitude":-1.110085,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"81 St Peters Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":119252693,
-    "wof:lastmodified":1449041183,
+    "wof:lastmodified":1466275084,
     "wof:name":"Norton House Ltd.",
     "wof:parent_id":85861117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.110085,52.629219,-1.110085,52.629219],
+  "bbox": [
+    -1.110085,
+    52.629219,
+    -1.110085,
+    52.629219
+],
   "geometry": {"coordinates":[-1.110085,52.629219],"type":"Point"}
 }

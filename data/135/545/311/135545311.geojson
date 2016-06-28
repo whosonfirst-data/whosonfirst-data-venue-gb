@@ -2,13 +2,14 @@
   "id": 135545311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.885078,52.558418,-1.885078,52.558418",
     "geom:latitude":52.558418,
     "geom:longitude":-1.885078,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Esher Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135545311,
-    "wof:lastmodified":1449021713,
+    "wof:lastmodified":1466279313,
     "wof:name":"A Perrins",
     "wof:parent_id":101750467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.885078,52.558418,-1.885078,52.558418],
+  "bbox": [
+    -1.885078,
+    52.558418,
+    -1.885078,
+    52.558418
+],
   "geometry": {"coordinates":[-1.885078,52.558418],"type":"Point"}
 }

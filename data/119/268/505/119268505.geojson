@@ -2,13 +2,14 @@
   "id": 119268505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.009209,53.116806,-2.009209,53.116806",
     "geom:latitude":53.116806,
     "geom:longitude":-2.009209,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Haregate Rd",
     "sg:city":"Leek",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119268505,
-    "wof:lastmodified":1449042380,
+    "wof:lastmodified":1466276805,
     "wof:name":"Leek Ambulance Station",
     "wof:parent_id":85683943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.009209,53.116806,-2.009209,53.116806],
+  "bbox": [
+    -2.009209,
+    53.116806,
+    -2.009209,
+    53.116806
+],
   "geometry": {"coordinates":[-2.009209,53.116806],"type":"Point"}
 }

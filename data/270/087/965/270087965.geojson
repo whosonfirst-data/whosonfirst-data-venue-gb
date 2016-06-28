@@ -2,13 +2,14 @@
   "id": 270087965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.18033,55.940456,-3.18033,55.940456",
     "geom:latitude":55.940456,
     "geom:longitude":-3.18033,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 South Clerk Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":270087965,
-    "wof:lastmodified":1449009769,
+    "wof:lastmodified":1466263088,
     "wof:name":"Newington Stationers",
     "wof:parent_id":85789383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-3.18033,55.940456,-3.18033,55.940456],
+  "bbox": [
+    -3.18033,
+    55.940456,
+    -3.18033,
+    55.940456
+],
   "geometry": {"coordinates":[-3.18033,55.940456],"type":"Point"}
 }

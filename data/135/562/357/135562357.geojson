@@ -2,13 +2,14 @@
   "id": 135562357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.442719,50.568039,-2.442719,50.568039",
     "geom:latitude":50.568039,
     "geom:longitude":-2.442719,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Castletown",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135562357,
-    "wof:lastmodified":1449022611,
+    "wof:lastmodified":1466280036,
     "wof:name":"The Green Shutters",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.442719,50.568039,-2.442719,50.568039],
+  "bbox": [
+    -2.442719,
+    50.568039,
+    -2.442719,
+    50.568039
+],
   "geometry": {"coordinates":[-2.442719,50.568039],"type":"Point"}
 }

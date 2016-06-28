@@ -2,13 +2,14 @@
   "id": 135529817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.147493,52.954781,-1.147493,52.954781",
     "geom:latitude":52.954781,
     "geom:longitude":-1.147493,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Clumber Street",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135529817,
-    "wof:lastmodified":1449022337,
+    "wof:lastmodified":1466278008,
     "wof:name":"Lillywhites",
     "wof:parent_id":85793185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.147493,52.954781,-1.147493,52.954781],
+  "bbox": [
+    -1.147493,
+    52.954781,
+    -1.147493,
+    52.954781
+],
   "geometry": {"coordinates":[-1.147493,52.954781],"type":"Point"}
 }

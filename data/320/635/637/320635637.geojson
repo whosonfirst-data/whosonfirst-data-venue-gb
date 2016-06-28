@@ -2,13 +2,14 @@
   "id": 320635637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.176411,52.956024,-1.176411,52.956024",
     "geom:latitude":52.956024,
     "geom:longitude":-1.176411,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Forster Street, Radford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320635637,
-    "wof:lastmodified":1449012867,
+    "wof:lastmodified":1466283143,
     "wof:name":"William Sutton Housing Association Ltd.",
     "wof:parent_id":85790001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "housing"
     ]
 },
-  "bbox": [-1.176411,52.956024,-1.176411,52.956024],
+  "bbox": [
+    -1.176411,
+    52.956024,
+    -1.176411,
+    52.956024
+],
   "geometry": {"coordinates":[-1.176411,52.956024],"type":"Point"}
 }

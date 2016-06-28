@@ -2,13 +2,14 @@
   "id": 119528409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.775204,55.955612,-2.775204,55.955612",
     "geom:latitude":55.955612,
     "geom:longitude":-2.775204,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"92 High Street",
     "sg:city":"Haddington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119528409,
-    "wof:lastmodified":1449041501,
+    "wof:lastmodified":1466287600,
     "wof:name":"James P Jackson",
     "wof:parent_id":101872461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.775204,55.955612,-2.775204,55.955612],
+  "bbox": [
+    -2.775204,
+    55.955612,
+    -2.775204,
+    55.955612
+],
   "geometry": {"coordinates":[-2.775204,55.955612],"type":"Point"}
 }

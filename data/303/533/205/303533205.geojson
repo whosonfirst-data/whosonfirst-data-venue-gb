@@ -2,13 +2,14 @@
   "id": 303533205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.88316,53.200951,-2.88316,53.200951",
     "geom:latitude":53.200951,
     "geom:longitude":-2.88316,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"First Floor Flat, 115 Ermine Road",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303533205,
-    "wof:lastmodified":1448998086,
+    "wof:lastmodified":1466278940,
     "wof:name":"Hellenic Communications Ltd",
     "wof:parent_id":85788311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-2.88316,53.200951,-2.88316,53.200951],
+  "bbox": [
+    -2.88316,
+    53.200951,
+    -2.88316,
+    53.200951
+],
   "geometry": {"coordinates":[-2.88316,53.200951],"type":"Point"}
 }

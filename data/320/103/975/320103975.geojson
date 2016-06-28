@@ -2,13 +2,14 @@
   "id": 320103975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.813567,52.479053,-1.813567,52.479053",
     "geom:latitude":52.479053,
     "geom:longitude":-1.813567,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Richmond Road, Stechford",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":320103975,
-    "wof:lastmodified":1449013586,
+    "wof:lastmodified":1466271257,
     "wof:name":"Richmond Communications",
     "wof:parent_id":85790717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-1.813567,52.479053,-1.813567,52.479053],
+  "bbox": [
+    -1.813567,
+    52.479053,
+    -1.813567,
+    52.479053
+],
   "geometry": {"coordinates":[-1.813567,52.479053],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136239065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.135713,52.92321,-1.135713,52.92321",
     "geom:latitude":52.92321,
     "geom:longitude":-1.135713,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Loughborough Road, West Bridgford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136239065,
-    "wof:lastmodified":1449075025,
+    "wof:lastmodified":1466263059,
     "wof:name":"Manor Pharmacy Ltd",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.135713,52.92321,-1.135713,52.92321],
+  "bbox": [
+    -1.135713,
+    52.92321,
+    -1.135713,
+    52.92321
+],
   "geometry": {"coordinates":[-1.135713,52.92321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135299771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.608179,55.975948,-3.608179,55.975948",
     "geom:latitude":55.975948,
     "geom:longitude":-3.608179,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"271 High Street",
     "sg:city":"Linlithgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135299771,
-    "wof:lastmodified":1449021758,
+    "wof:lastmodified":1466277078,
     "wof:name":"Port Cullis",
     "wof:parent_id":85684249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.608179,55.975948,-3.608179,55.975948],
+  "bbox": [
+    -3.608179,
+    55.975948,
+    -3.608179,
+    55.975948
+],
   "geometry": {"coordinates":[-3.608179,55.975948],"type":"Point"}
 }

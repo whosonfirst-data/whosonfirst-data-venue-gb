@@ -2,13 +2,14 @@
   "id": 270083585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.566736,51.475342,-2.566736,51.475342",
     "geom:latitude":51.475342,
     "geom:longitude":-2.566736,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Glenfrome Road, Eastville",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270083585,
-    "wof:lastmodified":1449009797,
+    "wof:lastmodified":1466262936,
     "wof:name":"Eastgate Electrical",
     "wof:parent_id":85861345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-2.566736,51.475342,-2.566736,51.475342],
+  "bbox": [
+    -2.566736,
+    51.475342,
+    -2.566736,
+    51.475342
+],
   "geometry": {"coordinates":[-2.566736,51.475342],"type":"Point"}
 }

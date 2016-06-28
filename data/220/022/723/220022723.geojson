@@ -2,13 +2,14 @@
   "id": 220022723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.445173,53.584095,-2.445173,53.584095",
     "geom:latitude":53.584095,
     "geom:longitude":-2.445173,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Mortfield Lane",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220022723,
-    "wof:lastmodified":1449074286,
+    "wof:lastmodified":1466253326,
     "wof:name":"The Treatment Room",
     "wof:parent_id":85792981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "physiotherapist"
     ]
 },
-  "bbox": [-2.445173,53.584095,-2.445173,53.584095],
+  "bbox": [
+    -2.445173,
+    53.584095,
+    -2.445173,
+    53.584095
+],
   "geometry": {"coordinates":[-2.445173,53.584095],"type":"Point"}
 }

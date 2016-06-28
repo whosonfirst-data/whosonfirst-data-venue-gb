@@ -2,13 +2,14 @@
   "id": 136072303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.128434,52.072906,-3.128434,52.072906",
     "geom:latitude":52.072906,
     "geom:longitude":-3.128434,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Archenfield, Hay-on-wye",
     "sg:city":"Hereford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136072303,
-    "wof:lastmodified":1449075618,
+    "wof:lastmodified":1466253935,
     "wof:name":"White House Farm",
     "wof:parent_id":101853109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.128434,52.072906,-3.128434,52.072906],
+  "bbox": [
+    -3.128434,
+    52.072906,
+    -3.128434,
+    52.072906
+],
   "geometry": {"coordinates":[-3.128434,52.072906],"type":"Point"}
 }

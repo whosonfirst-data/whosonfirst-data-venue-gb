@@ -2,13 +2,14 @@
   "id": 119249889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.290988,52.766521,-1.290988,52.766521",
     "geom:latitude":52.766521,
     "geom:longitude":-1.290988,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Sullington Road, Shepshed",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119249889,
-    "wof:lastmodified":1449041016,
+    "wof:lastmodified":1466274765,
     "wof:name":"James Hill",
     "wof:parent_id":85683891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.290988,52.766521,-1.290988,52.766521],
+  "bbox": [
+    -1.290988,
+    52.766521,
+    -1.290988,
+    52.766521
+],
   "geometry": {"coordinates":[-1.290988,52.766521],"type":"Point"}
 }

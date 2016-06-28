@@ -2,13 +2,14 @@
   "id": 119425697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.971254,55.972324,-3.971254,55.972324",
     "geom:latitude":55.972324,
     "geom:longitude":-3.971254,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Napier Way, Wardpark North",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119425697,
-    "wof:lastmodified":1449041726,
+    "wof:lastmodified":1466285870,
     "wof:name":"Scot Foil Ltd",
     "wof:parent_id":101750633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.971254,55.972324,-3.971254,55.972324],
+  "bbox": [
+    -3.971254,
+    55.972324,
+    -3.971254,
+    55.972324
+],
   "geometry": {"coordinates":[-3.971254,55.972324],"type":"Point"}
 }

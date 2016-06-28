@@ -2,13 +2,14 @@
   "id": 320721631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.446538,52.536083,-1.446538,52.536083",
     "geom:latitude":52.536083,
     "geom:longitude":-1.446538,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72 St Nicholas Park Drive",
     "sg:city":"Nuneaton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320721631,
-    "wof:lastmodified":1449014955,
+    "wof:lastmodified":1466284093,
     "wof:name":"Collins Ladies & Gents",
     "wof:parent_id":85785407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.446538,52.536083,-1.446538,52.536083],
+  "bbox": [
+    -1.446538,
+    52.536083,
+    -1.446538,
+    52.536083
+],
   "geometry": {"coordinates":[-1.446538,52.536083],"type":"Point"}
 }

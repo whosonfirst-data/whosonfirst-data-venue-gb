@@ -2,13 +2,14 @@
   "id": 136039489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.156325,52.952572,-1.156325,52.952572",
     "geom:latitude":52.952572,
     "geom:longitude":-1.156325,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Park Row",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136039489,
-    "wof:lastmodified":1449076100,
+    "wof:lastmodified":1466277293,
     "wof:name":"East Midlands Shape Ltd",
     "wof:parent_id":85793185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.156325,52.952572,-1.156325,52.952572],
+  "bbox": [
+    -1.156325,
+    52.952572,
+    -1.156325,
+    52.952572
+],
   "geometry": {"coordinates":[-1.156325,52.952572],"type":"Point"}
 }

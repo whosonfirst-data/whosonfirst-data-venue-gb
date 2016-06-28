@@ -2,13 +2,14 @@
   "id": 119121513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.091427,50.414795,-5.091427,50.414795",
     "geom:latitude":50.414795,
     "geom:longitude":-5.091427,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Tower Rd",
     "sg:city":"Newquay",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119121513,
-    "wof:lastmodified":1449042909,
+    "wof:lastmodified":1466261088,
     "wof:name":"Looking Good",
     "wof:parent_id":85684547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.091427,50.414795,-5.091427,50.414795],
+  "bbox": [
+    -5.091427,
+    50.414795,
+    -5.091427,
+    50.414795
+],
   "geometry": {"coordinates":[-5.091427,50.414795],"type":"Point"}
 }

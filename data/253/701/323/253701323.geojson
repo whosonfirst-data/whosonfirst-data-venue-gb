@@ -2,13 +2,14 @@
   "id": 253701323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.785481,53.768425,-1.785481,53.768425",
     "geom:latitude":53.768425,
     "geom:longitude":-1.785481,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Beacon Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253701323,
-    "wof:lastmodified":1449065142,
+    "wof:lastmodified":1466274319,
     "wof:name":"Beacon Road Off Licence",
     "wof:parent_id":85786133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.785481,53.768425,-1.785481,53.768425],
+  "bbox": [
+    -1.785481,
+    53.768425,
+    -1.785481,
+    53.768425
+],
   "geometry": {"coordinates":[-1.785481,53.768425],"type":"Point"}
 }

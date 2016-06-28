@@ -2,13 +2,14 @@
   "id": 304033553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.340224,52.061203,-1.340224,52.061203",
     "geom:latitude":52.061203,
     "geom:longitude":-1.340224,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Horsefair",
     "sg:city":"Banbury",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":304033553,
-    "wof:lastmodified":1449043672,
+    "wof:lastmodified":1466265262,
     "wof:name":"Davies & Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.340224,52.061203,-1.340224,52.061203],
+  "bbox": [
+    -1.340224,
+    52.061203,
+    -1.340224,
+    52.061203
+],
   "geometry": {"coordinates":[-1.340224,52.061203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135470803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.23928,54.08395,-1.23928,54.08395",
     "geom:latitude":54.08395,
     "geom:longitude":-1.23928,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Aldwark Manor, Aldwark Alne",
     "sg:city":"York",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135470803,
-    "wof:lastmodified":1449021719,
+    "wof:lastmodified":1466271225,
     "wof:name":"Greenkeepers Training Committee",
     "wof:parent_id":85683811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.23928,54.08395,-1.23928,54.08395],
+  "bbox": [
+    -1.23928,
+    54.08395,
+    -1.23928,
+    54.08395
+],
   "geometry": {"coordinates":[-1.23928,54.08395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220135235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.312209,54.564178,-1.312209,54.564178",
     "geom:latitude":54.564178,
     "geom:longitude":-1.312209,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Finkle Street",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220135235,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466255372,
     "wof:name":"Polly Flinders",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "babywear"
     ]
 },
-  "bbox": [-1.312209,54.564178,-1.312209,54.564178],
+  "bbox": [
+    -1.312209,
+    54.564178,
+    -1.312209,
+    54.564178
+],
   "geometry": {"coordinates":[-1.312209,54.564178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135814423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.365097,53.343903,-1.365097,53.343903",
     "geom:latitude":53.343903,
     "geom:longitude":-1.365097,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Halton Court",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135814423,
-    "wof:lastmodified":1449021528,
+    "wof:lastmodified":1466287503,
     "wof:name":"D Walsham",
     "wof:parent_id":85791387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.365097,53.343903,-1.365097,53.343903],
+  "bbox": [
+    -1.365097,
+    53.343903,
+    -1.365097,
+    53.343903
+],
   "geometry": {"coordinates":[-1.365097,53.343903],"type":"Point"}
 }

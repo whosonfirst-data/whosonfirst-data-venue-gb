@@ -2,13 +2,14 @@
   "id": 303495361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.138428,52.06282,1.138428,52.06282",
     "geom:latitude":52.06282,
     "geom:longitude":1.138428,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Bramford Rd",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303495361,
-    "wof:lastmodified":1448999198,
+    "wof:lastmodified":1466277801,
     "wof:name":"Bramford Bakery",
     "wof:parent_id":85861131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [1.138428,52.06282,1.138428,52.06282],
+  "bbox": [
+    1.138428,
+    52.06282,
+    1.138428,
+    52.06282
+],
   "geometry": {"coordinates":[1.138428,52.06282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202982029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.143637,52.953777,-1.143637,52.953777",
     "geom:latitude":52.953777,
     "geom:longitude":-1.143637,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Heathcoat Street",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202982029,
-    "wof:lastmodified":1449060531,
+    "wof:lastmodified":1466262000,
     "wof:name":"Macmarriots",
     "wof:parent_id":85790407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "room"
     ]
 },
-  "bbox": [-1.143637,52.953777,-1.143637,52.953777],
+  "bbox": [
+    -1.143637,
+    52.953777,
+    -1.143637,
+    52.953777
+],
   "geometry": {"coordinates":[-1.143637,52.953777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135289317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.244647,55.861061,-4.244647,55.861061",
     "geom:latitude":55.861061,
     "geom:longitude":-4.244647,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 George Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135289317,
-    "wof:lastmodified":1449023513,
+    "wof:lastmodified":1466276543,
     "wof:name":"Bourbon Street Bar",
     "wof:parent_id":85861551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.244647,55.861061,-4.244647,55.861061],
+  "bbox": [
+    -4.244647,
+    55.861061,
+    -4.244647,
+    55.861061
+],
   "geometry": {"coordinates":[-4.244647,55.861061],"type":"Point"}
 }

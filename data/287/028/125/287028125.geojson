@@ -2,13 +2,14 @@
   "id": 287028125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.903958,50.723389,-1.903958,50.723389",
     "geom:latitude":50.723389,
     "geom:longitude":-1.903958,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"104a Poole Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287028125,
-    "wof:lastmodified":1449001153,
+    "wof:lastmodified":1466263784,
     "wof:name":"New Trends",
     "wof:parent_id":85866817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-1.903958,50.723389,-1.903958,50.723389],
+  "bbox": [
+    -1.903958,
+    50.723389,
+    -1.903958,
+    50.723389
+],
   "geometry": {"coordinates":[-1.903958,50.723389],"type":"Point"}
 }

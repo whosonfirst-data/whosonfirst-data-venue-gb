@@ -2,13 +2,14 @@
   "id": 303633071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.577852,54.896824,-1.577852,54.896824",
     "geom:latitude":54.896824,
     "geom:longitude":-1.577852,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lion House 400 Durham Road, Birtley",
     "sg:city":"Chester-le-street",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":303633071,
-    "wof:lastmodified":1449000546,
+    "wof:lastmodified":1466280669,
     "wof:name":"Manor Care Home Group",
     "wof:parent_id":85787265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-1.577852,54.896824,-1.577852,54.896824],
+  "bbox": [
+    -1.577852,
+    54.896824,
+    -1.577852,
+    54.896824
+],
   "geometry": {"coordinates":[-1.577852,54.896824],"type":"Point"}
 }

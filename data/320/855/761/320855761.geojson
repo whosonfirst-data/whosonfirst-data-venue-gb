@@ -2,13 +2,14 @@
   "id": 320855761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.900723,52.433563,-1.900723,52.433563",
     "geom:latitude":52.433563,
     "geom:longitude":-1.900723,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Avenue Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320855761,
-    "wof:lastmodified":1449014007,
+    "wof:lastmodified":1466285341,
     "wof:name":"B & P Haynes",
     "wof:parent_id":85790735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.900723,52.433563,-1.900723,52.433563],
+  "bbox": [
+    -1.900723,
+    52.433563,
+    -1.900723,
+    52.433563
+],
   "geometry": {"coordinates":[-1.900723,52.433563],"type":"Point"}
 }

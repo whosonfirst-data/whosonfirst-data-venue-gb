@@ -2,13 +2,14 @@
   "id": 135422315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.72905,51.546501,-1.72905,51.546501",
     "geom:latitude":51.546501,
     "geom:longitude":-1.72905,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Liden Library, Barrington Clo",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135422315,
-    "wof:lastmodified":1449021205,
+    "wof:lastmodified":1466265352,
     "wof:name":"Library Support Unit",
     "wof:parent_id":85787057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.72905,51.546501,-1.72905,51.546501],
+  "bbox": [
+    -1.72905,
+    51.546501,
+    -1.72905,
+    51.546501
+],
   "geometry": {"coordinates":[-1.72905,51.546501],"type":"Point"}
 }

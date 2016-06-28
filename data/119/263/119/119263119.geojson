@@ -2,13 +2,14 @@
   "id": 119263119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.014318,50.1591,-5.014318,50.1591",
     "geom:latitude":50.1591,
     "geom:longitude":-5.014318,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Kings Road, St Mawes",
     "sg:city":"Truro",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119263119,
-    "wof:lastmodified":1449043483,
+    "wof:lastmodified":1466276205,
     "wof:name":"The Candy Shoppe",
     "wof:parent_id":85684547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.014318,50.1591,-5.014318,50.1591],
+  "bbox": [
+    -5.014318,
+    50.1591,
+    -5.014318,
+    50.1591
+],
   "geometry": {"coordinates":[-5.014318,50.1591],"type":"Point"}
 }

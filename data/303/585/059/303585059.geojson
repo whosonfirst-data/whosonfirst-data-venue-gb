@@ -2,13 +2,14 @@
   "id": 303585059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.646499,55.01408,-1.646499,55.01408",
     "geom:latitude":55.01408,
     "geom:longitude":-1.646499,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Fawdon Park Road, Tayside",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":303585059,
-    "wof:lastmodified":1448999744,
+    "wof:lastmodified":1466279775,
     "wof:name":"Fawdon Post Office",
     "wof:parent_id":85787373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.646499,55.01408,-1.646499,55.01408],
+  "bbox": [
+    -1.646499,
+    55.01408,
+    -1.646499,
+    55.01408
+],
   "geometry": {"coordinates":[-1.646499,55.01408],"type":"Point"}
 }

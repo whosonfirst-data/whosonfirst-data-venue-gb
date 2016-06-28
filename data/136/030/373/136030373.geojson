@@ -2,13 +2,14 @@
   "id": 136030373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.328891,55.8643,-4.328891,55.8643",
     "geom:latitude":55.8643,
     "geom:longitude":-4.328891,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1-4 Cressy Street, Linthouse",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":136030373,
-    "wof:lastmodified":1449075400,
+    "wof:lastmodified":1466276152,
     "wof:name":"The Reform Club",
     "wof:parent_id":85790307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.328891,55.8643,-4.328891,55.8643],
+  "bbox": [
+    -4.328891,
+    55.8643,
+    -4.328891,
+    55.8643
+],
   "geometry": {"coordinates":[-4.328891,55.8643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236503171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.215789,54.685356,-1.215789,54.685356",
     "geom:latitude":54.685356,
     "geom:longitude":-1.215789,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Victoria Road",
     "sg:city":"Hartlepool",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236503171,
-    "wof:lastmodified":1449005261,
+    "wof:lastmodified":1466265905,
     "wof:name":"Hartlepool Magistrates Court",
     "wof:parent_id":85791503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.215789,54.685356,-1.215789,54.685356],
+  "bbox": [
+    -1.215789,
+    54.685356,
+    -1.215789,
+    54.685356
+],
   "geometry": {"coordinates":[-1.215789,54.685356],"type":"Point"}
 }

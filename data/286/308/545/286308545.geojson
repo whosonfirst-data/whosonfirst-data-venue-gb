@@ -2,13 +2,14 @@
   "id": 286308545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.330852,53.487499,-1.330852,53.487499",
     "geom:latitude":53.487499,
     "geom:longitude":-1.330852,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Highmill Avenue, Swinton",
     "sg:city":"Mexborough",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286308545,
-    "wof:lastmodified":1449018173,
+    "wof:lastmodified":1466263737,
     "wof:name":"Direct Bathrooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "planner"
     ]
 },
-  "bbox": [-1.330852,53.487499,-1.330852,53.487499],
+  "bbox": [
+    -1.330852,
+    53.487499,
+    -1.330852,
+    53.487499
+],
   "geometry": {"coordinates":[-1.330852,53.487499],"type":"Point"}
 }

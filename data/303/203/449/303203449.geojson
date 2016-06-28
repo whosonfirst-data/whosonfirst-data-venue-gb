@@ -2,13 +2,14 @@
   "id": 303203449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.149415,52.894596,-1.149415,52.894596",
     "geom:latitude":52.894596,
     "geom:longitude":-1.149415,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Woodley Street, Ruddington",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":303203449,
-    "wof:lastmodified":1448999205,
+    "wof:lastmodified":1466268902,
     "wof:name":"Woodley House Residential Home",
     "wof:parent_id":85861947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-1.149415,52.894596,-1.149415,52.894596],
+  "bbox": [
+    -1.149415,
+    52.894596,
+    -1.149415,
+    52.894596
+],
   "geometry": {"coordinates":[-1.149415,52.894596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135512711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.730899,51.425201,-1.730899,51.425201",
     "geom:latitude":51.425201,
     "geom:longitude":-1.730899,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Common",
     "sg:city":"Marlborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135512711,
-    "wof:lastmodified":1449023196,
+    "wof:lastmodified":1466275984,
     "wof:name":"Marlborough Golf Club",
     "wof:parent_id":101852737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.730899,51.425201,-1.730899,51.425201],
+  "bbox": [
+    -1.730899,
+    51.425201,
+    -1.730899,
+    51.425201
+],
   "geometry": {"coordinates":[-1.730899,51.425201],"type":"Point"}
 }

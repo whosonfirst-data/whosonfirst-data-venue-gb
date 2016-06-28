@@ -2,13 +2,14 @@
   "id": 135355101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.4502,53.333328,-4.4502,53.333328",
     "geom:latitude":53.333328,
     "geom:longitude":-4.4502,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bod Deiniol, Llanddeusant",
     "sg:city":"Holyhead",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135355101,
-    "wof:lastmodified":1449021852,
+    "wof:lastmodified":1466257788,
     "wof:name":"Davies Bros",
     "wof:parent_id":85683833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.4502,53.333328,-4.4502,53.333328],
+  "bbox": [
+    -4.4502,
+    53.333328,
+    -4.4502,
+    53.333328
+],
   "geometry": {"coordinates":[-4.4502,53.333328],"type":"Point"}
 }

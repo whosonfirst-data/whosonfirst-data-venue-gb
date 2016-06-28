@@ -2,13 +2,14 @@
   "id": 336647865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.255478,55.860004,-4.255478,55.860004",
     "geom:latitude":55.860004,
     "geom:longitude":-4.255478,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Mitchell Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":336647865,
-    "wof:lastmodified":1448997462,
+    "wof:lastmodified":1466274190,
     "wof:name":"Eurocad Structures Limited",
     "wof:parent_id":85792621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.255478,55.860004,-4.255478,55.860004],
+  "bbox": [
+    -4.255478,
+    55.860004,
+    -4.255478,
+    55.860004
+],
   "geometry": {"coordinates":[-4.255478,55.860004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303910591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.734617,53.738297,-2.734617,53.738297",
     "geom:latitude":53.738297,
     "geom:longitude":-2.734617,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Whitebeam Clo, Penwortham",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303910591,
-    "wof:lastmodified":1448999139,
+    "wof:lastmodified":1466284513,
     "wof:name":"Waymax Ltd",
     "wof:parent_id":85785379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.734617,53.738297,-2.734617,53.738297],
+  "bbox": [
+    -2.734617,
+    53.738297,
+    -2.734617,
+    53.738297
+],
   "geometry": {"coordinates":[-2.734617,53.738297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119343305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.489565,51.783985,-1.489565,51.783985",
     "geom:latitude":51.783985,
     "geom:longitude":-1.489565,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Corn Street",
     "sg:city":"Witney",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119343305,
-    "wof:lastmodified":1449042758,
+    "wof:lastmodified":1466282500,
     "wof:name":"The Three Horseshoes",
     "wof:parent_id":101852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.489565,51.783985,-1.489565,51.783985],
+  "bbox": [
+    -1.489565,
+    51.783985,
+    -1.489565,
+    51.783985
+],
   "geometry": {"coordinates":[-1.489565,51.783985],"type":"Point"}
 }

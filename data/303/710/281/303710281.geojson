@@ -2,13 +2,14 @@
   "id": 303710281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.496558,53.319645,-3.496558,53.319645",
     "geom:latitude":53.319645,
     "geom:longitude":-3.496558,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Abbey Street",
     "sg:city":"Rhyl",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303710281,
-    "wof:lastmodified":1448998269,
+    "wof:lastmodified":1466282068,
     "wof:name":"Abbey Vaults",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.496558,53.319645,-3.496558,53.319645],
+  "bbox": [
+    -3.496558,
+    53.319645,
+    -3.496558,
+    53.319645
+],
   "geometry": {"coordinates":[-3.496558,53.319645],"type":"Point"}
 }

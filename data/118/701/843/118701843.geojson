@@ -2,13 +2,14 @@
   "id": 118701843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.134005,53.526505,-2.134005,53.526505",
     "geom:latitude":53.526505,
     "geom:longitude":-2.134005,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Hawksley Street",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118701843,
-    "wof:lastmodified":1449054260,
+    "wof:lastmodified":1466265432,
     "wof:name":"Dave Langley",
     "wof:parent_id":85793081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.134005,53.526505,-2.134005,53.526505],
+  "bbox": [
+    -2.134005,
+    53.526505,
+    -2.134005,
+    53.526505
+],
   "geometry": {"coordinates":[-2.134005,53.526505],"type":"Point"}
 }

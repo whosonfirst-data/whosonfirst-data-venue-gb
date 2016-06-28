@@ -2,13 +2,14 @@
   "id": 102710081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.083509,52.509521,-2.083509,52.509521",
     "geom:latitude":52.509521,
     "geom:longitude":-2.083509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Churchfield Ho, 36 Vicar St",
     "sg:city":"Dudley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102710081,
-    "wof:lastmodified":1449067939,
+    "wof:lastmodified":1466256746,
     "wof:name":"Runway Travel Ltd",
     "wof:parent_id":85789279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.083509,52.509521,-2.083509,52.509521],
+  "bbox": [
+    -2.083509,
+    52.509521,
+    -2.083509,
+    52.509521
+],
   "geometry": {"coordinates":[-2.083509,52.509521],"type":"Point"}
 }

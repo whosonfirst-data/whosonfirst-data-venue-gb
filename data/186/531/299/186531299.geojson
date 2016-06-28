@@ -2,13 +2,14 @@
   "id": 186531299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.953222,50.718056,-1.953222,50.718056",
     "geom:latitude":50.718056,
     "geom:longitude":-1.953222,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Western Point Boatyard, Turks Lane, Parkstone",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186531299,
-    "wof:lastmodified":1449051035,
+    "wof:lastmodified":1466259809,
     "wof:name":"Latham's Boatyard",
     "wof:parent_id":85789727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "builder"
     ]
 },
-  "bbox": [-1.953222,50.718056,-1.953222,50.718056],
+  "bbox": [
+    -1.953222,
+    50.718056,
+    -1.953222,
+    50.718056
+],
   "geometry": {"coordinates":[-1.953222,50.718056],"type":"Point"}
 }

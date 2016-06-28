@@ -2,13 +2,14 @@
   "id": 186210777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.953509,51.695347,-1.953509,51.695347",
     "geom:latitude":51.695347,
     "geom:longitude":-1.953509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Bowly Crescent",
     "sg:city":"Cirencester",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186210777,
-    "wof:lastmodified":1449051301,
+    "wof:lastmodified":1466254887,
     "wof:name":"Cooks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cab"
     ]
 },
-  "bbox": [-1.953509,51.695347,-1.953509,51.695347],
+  "bbox": [
+    -1.953509,
+    51.695347,
+    -1.953509,
+    51.695347
+],
   "geometry": {"coordinates":[-1.953509,51.695347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119066421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.481617,51.791199,-1.481617,51.791199",
     "geom:latitude":51.791199,
     "geom:longitude":-1.481617,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 West End",
     "sg:city":"Witney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119066421,
-    "wof:lastmodified":1449041550,
+    "wof:lastmodified":1466255015,
     "wof:name":"The Elm Tree",
     "wof:parent_id":101852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.481617,51.791199,-1.481617,51.791199],
+  "bbox": [
+    -1.481617,
+    51.791199,
+    -1.481617,
+    51.791199
+],
   "geometry": {"coordinates":[-1.481617,51.791199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303290347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.457135,51.404064,-2.457135,51.404064",
     "geom:latitude":51.404064,
     "geom:longitude":-2.457135,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Norman Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303290347,
-    "wof:lastmodified":1448999170,
+    "wof:lastmodified":1466271557,
     "wof:name":"Dr P B Veale",
     "wof:parent_id":85861079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.457135,51.404064,-2.457135,51.404064],
+  "bbox": [
+    -2.457135,
+    51.404064,
+    -2.457135,
+    51.404064
+],
   "geometry": {"coordinates":[-2.457135,51.404064],"type":"Point"}
 }

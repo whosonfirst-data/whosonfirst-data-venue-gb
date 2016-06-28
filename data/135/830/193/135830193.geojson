@@ -2,13 +2,14 @@
   "id": 135830193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.712956,52.05666,-2.712956,52.05666",
     "geom:latitude":52.05666,
     "geom:longitude":-2.712956,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Union Street",
     "sg:city":"Hereford",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135830193,
-    "wof:lastmodified":1449021622,
+    "wof:lastmodified":1466287706,
     "wof:name":"The Salad Bowl",
     "wof:parent_id":101750451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.712956,52.05666,-2.712956,52.05666],
+  "bbox": [
+    -2.712956,
+    52.05666,
+    -2.712956,
+    52.05666
+],
   "geometry": {"coordinates":[-2.712956,52.05666],"type":"Point"}
 }

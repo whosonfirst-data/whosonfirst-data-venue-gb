@@ -2,13 +2,14 @@
   "id": 118895001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.332061,53.508083,-2.332061,53.508083",
     "geom:latitude":53.508083,
     "geom:longitude":-2.332061,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"247 Manchester Road, Swinton",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118895001,
-    "wof:lastmodified":1449053727,
+    "wof:lastmodified":1466279083,
     "wof:name":"S & S Wong",
     "wof:parent_id":85790867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.332061,53.508083,-2.332061,53.508083],
+  "bbox": [
+    -2.332061,
+    53.508083,
+    -2.332061,
+    53.508083
+],
   "geometry": {"coordinates":[-2.332061,53.508083],"type":"Point"}
 }

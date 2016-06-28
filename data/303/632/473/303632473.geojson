@@ -2,13 +2,14 @@
   "id": 303632473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.667976,53.657349,-1.667976,53.657349",
     "geom:latitude":53.657349,
     "geom:longitude":-1.667976,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Scopsley Lane, Whitley",
     "sg:city":"Dewsbury",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303632473,
-    "wof:lastmodified":1448999678,
+    "wof:lastmodified":1466280433,
     "wof:name":"Whitley Engineering Ltd.",
     "wof:parent_id":85788741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.667976,53.657349,-1.667976,53.657349],
+  "bbox": [
+    -1.667976,
+    53.657349,
+    -1.667976,
+    53.657349
+],
   "geometry": {"coordinates":[-1.667976,53.657349],"type":"Point"}
 }

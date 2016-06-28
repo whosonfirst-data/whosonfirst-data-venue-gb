@@ -2,13 +2,14 @@
   "id": 303855637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.256349,52.934223,-1.256349,52.934223",
     "geom:latitude":52.934223,
     "geom:longitude":-1.256349,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"255-261 Derby Road, Bramcote",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303855637,
-    "wof:lastmodified":1448999920,
+    "wof:lastmodified":1466283611,
     "wof:name":"Nottingham Audio Visual Services Ltd.",
     "wof:parent_id":85785929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "audio-visual"
     ]
 },
-  "bbox": [-1.256349,52.934223,-1.256349,52.934223],
+  "bbox": [
+    -1.256349,
+    52.934223,
+    -1.256349,
+    52.934223
+],
   "geometry": {"coordinates":[-1.256349,52.934223],"type":"Point"}
 }

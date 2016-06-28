@@ -2,13 +2,14 @@
   "id": 203236609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.542129,53.798618,-1.542129,53.798618",
     "geom:latitude":53.798618,
     "geom:longitude":-1.542129,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Briggate",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203236609,
-    "wof:lastmodified":1449025144,
+    "wof:lastmodified":1466256697,
     "wof:name":"Dune",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "footwear"
     ]
 },
-  "bbox": [-1.542129,53.798618,-1.542129,53.798618],
+  "bbox": [
+    -1.542129,
+    53.798618,
+    -1.542129,
+    53.798618
+],
   "geometry": {"coordinates":[-1.542129,53.798618],"type":"Point"}
 }

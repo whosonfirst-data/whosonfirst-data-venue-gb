@@ -2,13 +2,14 @@
   "id": 202422235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.720715,51.149624,-2.720715,51.149624",
     "geom:latitude":51.149624,
     "geom:longitude":-2.720715,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Northload Street",
     "sg:city":"Glastonbury",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202422235,
-    "wof:lastmodified":1449060283,
+    "wof:lastmodified":1466252948,
     "wof:name":"The Corner Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.720715,51.149624,-2.720715,51.149624],
+  "bbox": [
+    -2.720715,
+    51.149624,
+    -2.720715,
+    51.149624
+],
   "geometry": {"coordinates":[-2.720715,51.149624],"type":"Point"}
 }

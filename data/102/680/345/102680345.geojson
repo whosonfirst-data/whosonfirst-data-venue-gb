@@ -2,13 +2,14 @@
   "id": 102680345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.987374,55.86911,-3.987374,55.86911",
     "geom:latitude":55.86911,
     "geom:longitude":-3.987374,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Mitchell Street",
     "sg:city":"Airdrie",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102680345,
-    "wof:lastmodified":1449069485,
+    "wof:lastmodified":1466255658,
     "wof:name":"John Smith Court",
     "wof:parent_id":85792553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.987374,55.86911,-3.987374,55.86911],
+  "bbox": [
+    -3.987374,
+    55.86911,
+    -3.987374,
+    55.86911
+],
   "geometry": {"coordinates":[-3.987374,55.86911],"type":"Point"}
 }

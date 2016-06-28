@@ -2,13 +2,14 @@
   "id": 336838827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.06925,50.06459,-5.06925,50.06459",
     "geom:latitude":50.06459,
     "geom:longitude":-5.06925,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Porth Kerris, St Keverne",
     "sg:city":"Helston",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336838827,
-    "wof:lastmodified":1448997059,
+    "wof:lastmodified":1466279342,
     "wof:name":"Porth Kerris Divers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diver"
     ]
 },
-  "bbox": [-5.06925,50.06459,-5.06925,50.06459],
+  "bbox": [
+    -5.06925,
+    50.06459,
+    -5.06925,
+    50.06459
+],
   "geometry": {"coordinates":[-5.06925,50.06459],"type":"Point"}
 }

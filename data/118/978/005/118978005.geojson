@@ -2,13 +2,14 @@
   "id": 118978005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.319761,55.809093,-4.319761,55.809093",
     "geom:latitude":55.809093,
     "geom:longitude":-4.319761,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Kiloran Street, Thornliebank",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118978005,
-    "wof:lastmodified":1449053961,
+    "wof:lastmodified":1466282801,
     "wof:name":"Peter Kernachan",
     "wof:parent_id":85792511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.319761,55.809093,-4.319761,55.809093],
+  "bbox": [
+    -4.319761,
+    55.809093,
+    -4.319761,
+    55.809093
+],
   "geometry": {"coordinates":[-4.319761,55.809093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236830305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.500897,50.715019,-3.500897,50.715019",
     "geom:latitude":50.715019,
     "geom:longitude":-3.500897,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Pellew House, Dryden Road",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236830305,
-    "wof:lastmodified":1449002202,
+    "wof:lastmodified":1466272265,
     "wof:name":"Ministry of Defence",
     "wof:parent_id":85790623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "reserve"
     ]
 },
-  "bbox": [-3.500897,50.715019,-3.500897,50.715019],
+  "bbox": [
+    -3.500897,
+    50.715019,
+    -3.500897,
+    50.715019
+],
   "geometry": {"coordinates":[-3.500897,50.715019],"type":"Point"}
 }

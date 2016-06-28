@@ -2,13 +2,14 @@
   "id": 135702959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.603439,54.637119,-2.603439,54.637119",
     "geom:latitude":54.637119,
     "geom:longitude":-2.603439,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Barn Croft Surgery, Temple Sowerby",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135702959,
-    "wof:lastmodified":1449022522,
+    "wof:lastmodified":1466285961,
     "wof:name":"Barn Croft Surgery",
     "wof:parent_id":85683641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.603439,54.637119,-2.603439,54.637119],
+  "bbox": [
+    -2.603439,
+    54.637119,
+    -2.603439,
+    54.637119
+],
   "geometry": {"coordinates":[-2.603439,54.637119],"type":"Point"}
 }

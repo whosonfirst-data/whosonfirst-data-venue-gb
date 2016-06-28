@@ -2,13 +2,14 @@
   "id": 135679753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.448394,51.661896,-3.448394,51.661896",
     "geom:latitude":51.661896,
     "geom:longitude":-3.448394,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"59 High Street",
     "sg:city":"Ferndale",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135679753,
-    "wof:lastmodified":1449022953,
+    "wof:lastmodified":1466285631,
     "wof:name":"Ferndale Post Office",
     "wof:parent_id":85683991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.448394,51.661896,-3.448394,51.661896],
+  "bbox": [
+    -3.448394,
+    51.661896,
+    -3.448394,
+    51.661896
+],
   "geometry": {"coordinates":[-3.448394,51.661896],"type":"Point"}
 }

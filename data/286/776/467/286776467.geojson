@@ -2,13 +2,14 @@
   "id": 286776467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.46014,56.4006,-3.46014,56.4006",
     "geom:latitude":56.4006,
     "geom:longitude":-3.46014,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111a Rannoch Rd",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286776467,
-    "wof:lastmodified":1449015814,
+    "wof:lastmodified":1466278059,
     "wof:name":"Perthshire Driving Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.46014,56.4006,-3.46014,56.4006],
+  "bbox": [
+    -3.46014,
+    56.4006,
+    -3.46014,
+    56.4006
+],
   "geometry": {"coordinates":[-3.46014,56.4006],"type":"Point"}
 }

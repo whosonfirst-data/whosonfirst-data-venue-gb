@@ -2,13 +2,14 @@
   "id": 303206313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.012944,51.518398,0.012944,51.518398",
     "geom:latitude":51.518398,
     "geom:longitude":0.012944,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Hermit Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303206313,
-    "wof:lastmodified":1448999779,
+    "wof:lastmodified":1466269018,
     "wof:name":"Orbin Wines",
     "wof:parent_id":85785815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wines"
     ]
 },
-  "bbox": [0.012944,51.518398,0.012944,51.518398],
+  "bbox": [
+    0.012944,
+    51.518398,
+    0.012944,
+    51.518398
+],
   "geometry": {"coordinates":[0.012944,51.518398],"type":"Point"}
 }

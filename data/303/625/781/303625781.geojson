@@ -2,13 +2,14 @@
   "id": 303625781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.257647,53.104691,-1.257647,53.104691",
     "geom:latitude":53.104691,
     "geom:longitude":-1.257647,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Occupation Lane, Kirkby In Ashfield",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303625781,
-    "wof:lastmodified":1449000604,
+    "wof:lastmodified":1466280341,
     "wof:name":"J Flint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-1.257647,53.104691,-1.257647,53.104691],
+  "bbox": [
+    -1.257647,
+    53.104691,
+    -1.257647,
+    53.104691
+],
   "geometry": {"coordinates":[-1.257647,53.104691],"type":"Point"}
 }

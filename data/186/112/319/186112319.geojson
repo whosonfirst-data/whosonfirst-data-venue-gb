@@ -2,13 +2,14 @@
   "id": 186112319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.531525,52.291481,-1.531525,52.291481",
     "geom:latitude":52.291481,
     "geom:longitude":-1.531525,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Clarendon Street",
     "sg:city":"Leamington Spa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186112319,
-    "wof:lastmodified":1449051606,
+    "wof:lastmodified":1466253479,
     "wof:name":"Spa Computer Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "software"
     ]
 },
-  "bbox": [-1.531525,52.291481,-1.531525,52.291481],
+  "bbox": [
+    -1.531525,
+    52.291481,
+    -1.531525,
+    52.291481
+],
   "geometry": {"coordinates":[-1.531525,52.291481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135271681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.050401,51.451286,0.050401,51.451286",
     "geom:latitude":51.451286,
     "geom:longitude":0.050401,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39-41 Eltham High Street",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135271681,
-    "wof:lastmodified":1449022596,
+    "wof:lastmodified":1466263331,
     "wof:name":"Eltham Service Station",
     "wof:parent_id":85787281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.050401,51.451286,0.050401,51.451286],
+  "bbox": [
+    0.050401,
+    51.451286,
+    0.050401,
+    51.451286
+],
   "geometry": {"coordinates":[0.050401,51.451286],"type":"Point"}
 }

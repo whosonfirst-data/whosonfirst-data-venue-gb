@@ -2,13 +2,14 @@
   "id": 219881513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.256187,55.856159,-4.256187,55.856159",
     "geom:latitude":55.856159,
     "geom:longitude":-4.256187,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"298 Clyde St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219881513,
-    "wof:lastmodified":1449072430,
+    "wof:lastmodified":1466265117,
     "wof:name":"The BIS Ltd",
     "wof:parent_id":85792625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "business"
     ]
 },
-  "bbox": [-4.256187,55.856159,-4.256187,55.856159],
+  "bbox": [
+    -4.256187,
+    55.856159,
+    -4.256187,
+    55.856159
+],
   "geometry": {"coordinates":[-4.256187,55.856159],"type":"Point"}
 }

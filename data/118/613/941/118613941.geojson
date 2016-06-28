@@ -2,13 +2,14 @@
   "id": 118613941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.299079,50.790588,0.299079,50.790588",
     "geom:latitude":50.790588,
     "geom:longitude":0.299079,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 22b 40 Hawthorn Rd",
     "sg:city":"Eastbourne",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118613941,
-    "wof:lastmodified":1449053793,
+    "wof:lastmodified":1466258740,
     "wof:name":"Jarvis Of Eastbourne",
     "wof:parent_id":101750315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.299079,50.790588,0.299079,50.790588],
+  "bbox": [
+    0.299079,
+    50.790588,
+    0.299079,
+    50.790588
+],
   "geometry": {"coordinates":[0.299079,50.790588],"type":"Point"}
 }

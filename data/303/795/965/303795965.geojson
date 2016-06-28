@@ -2,13 +2,14 @@
   "id": 303795965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.100057,52.995052,-1.100057,52.995052",
     "geom:latitude":52.995052,
     "geom:longitude":-1.100057,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Copplestone Drive, Mapperley Plains",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303795965,
-    "wof:lastmodified":1448999568,
+    "wof:lastmodified":1466282974,
     "wof:name":"Martunique Ltd",
     "wof:parent_id":85861941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.100057,52.995052,-1.100057,52.995052],
+  "bbox": [
+    -1.100057,
+    52.995052,
+    -1.100057,
+    52.995052
+],
   "geometry": {"coordinates":[-1.100057,52.995052],"type":"Point"}
 }

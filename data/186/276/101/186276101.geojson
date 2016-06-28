@@ -2,13 +2,14 @@
   "id": 186276101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.717534,51.481354,-3.717534,51.481354",
     "geom:latitude":51.481354,
     "geom:longitude":-3.717534,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Locks Common",
     "sg:city":"Porthcawl",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186276101,
-    "wof:lastmodified":1449050372,
+    "wof:lastmodified":1466255742,
     "wof:name":"Monkstone House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-3.717534,51.481354,-3.717534,51.481354],
+  "bbox": [
+    -3.717534,
+    51.481354,
+    -3.717534,
+    51.481354
+],
   "geometry": {"coordinates":[-3.717534,51.481354],"type":"Point"}
 }

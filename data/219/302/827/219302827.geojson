@@ -2,13 +2,14 @@
   "id": 219302827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.040078,53.821445,-3.040078,53.821445",
     "geom:latitude":53.821445,
     "geom:longitude":-3.040078,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Caunce Street",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219302827,
-    "wof:lastmodified":1449071591,
+    "wof:lastmodified":1466255351,
     "wof:name":"Selbourne Wine Stores",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wines"
     ]
 },
-  "bbox": [-3.040078,53.821445,-3.040078,53.821445],
+  "bbox": [
+    -3.040078,
+    53.821445,
+    -3.040078,
+    53.821445
+],
   "geometry": {"coordinates":[-3.040078,53.821445],"type":"Point"}
 }

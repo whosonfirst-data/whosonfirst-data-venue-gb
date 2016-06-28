@@ -2,13 +2,14 @@
   "id": 118492109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.09677,53.953194,-1.09677,53.953194",
     "geom:latitude":53.953194,
     "geom:longitude":-1.09677,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Mount Terrace",
     "sg:city":"York",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":118492109,
-    "wof:lastmodified":1449053151,
+    "wof:lastmodified":1466255056,
     "wof:name":"St.John Ambulance",
     "wof:parent_id":85787081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.09677,53.953194,-1.09677,53.953194],
+  "bbox": [
+    -1.09677,
+    53.953194,
+    -1.09677,
+    53.953194
+],
   "geometry": {"coordinates":[-1.09677,53.953194],"type":"Point"}
 }

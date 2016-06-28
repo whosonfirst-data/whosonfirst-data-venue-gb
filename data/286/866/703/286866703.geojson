@@ -2,13 +2,14 @@
   "id": 286866703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.786219,50.736774,-1.786219,50.736774",
     "geom:latitude":50.736774,
     "geom:longitude":-1.786219,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Barrack Road",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286866703,
-    "wof:lastmodified":1449016584,
+    "wof:lastmodified":1466279771,
     "wof:name":"Dorset Police",
     "wof:parent_id":85788425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "support"
     ]
 },
-  "bbox": [-1.786219,50.736774,-1.786219,50.736774],
+  "bbox": [
+    -1.786219,
+    50.736774,
+    -1.786219,
+    50.736774
+],
   "geometry": {"coordinates":[-1.786219,50.736774],"type":"Point"}
 }

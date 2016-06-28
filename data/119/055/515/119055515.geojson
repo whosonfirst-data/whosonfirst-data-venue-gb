@@ -2,13 +2,14 @@
   "id": 119055515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.825534,50.910225,-1.825534,50.910225",
     "geom:latitude":50.910225,
     "geom:longitude":-1.825534,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Hazel Close, Alderholt",
     "sg:city":"Fordingbridge",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119055515,
-    "wof:lastmodified":1449041400,
+    "wof:lastmodified":1466253859,
     "wof:name":"Mr Clean & Tidy",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.825534,50.910225,-1.825534,50.910225],
+  "bbox": [
+    -1.825534,
+    50.910225,
+    -1.825534,
+    50.910225
+],
   "geometry": {"coordinates":[-1.825534,50.910225],"type":"Point"}
 }

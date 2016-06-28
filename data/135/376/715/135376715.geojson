@@ -2,13 +2,14 @@
   "id": 135376715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.126379,53.257721,-2.126379,53.257721",
     "geom:latitude":53.257721,
     "geom:longitude":-2.126379,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dukes Ct, Mill Street",
     "sg:city":"Macclesfield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135376715,
-    "wof:lastmodified":1449022038,
+    "wof:lastmodified":1466260110,
     "wof:name":"Dukes Coffee Shop",
     "wof:parent_id":101750519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.126379,53.257721,-2.126379,53.257721],
+  "bbox": [
+    -2.126379,
+    53.257721,
+    -2.126379,
+    53.257721
+],
   "geometry": {"coordinates":[-2.126379,53.257721],"type":"Point"}
 }

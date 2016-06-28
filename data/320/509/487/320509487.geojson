@@ -2,13 +2,14 @@
   "id": 320509487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.359552,55.879711,-4.359552,55.879711",
     "geom:latitude":55.879711,
     "geom:longitude":-4.359552,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 7 South St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320509487,
-    "wof:lastmodified":1449011414,
+    "wof:lastmodified":1466281288,
     "wof:name":"Trim Line Systems Glasgow",
     "wof:parent_id":85790197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trimmer"
     ]
 },
-  "bbox": [-4.359552,55.879711,-4.359552,55.879711],
+  "bbox": [
+    -4.359552,
+    55.879711,
+    -4.359552,
+    55.879711
+],
   "geometry": {"coordinates":[-4.359552,55.879711],"type":"Point"}
 }

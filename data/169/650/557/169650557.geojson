@@ -2,13 +2,14 @@
   "id": 169650557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.404535,50.919636,-1.404535,50.919636",
     "geom:latitude":50.919636,
     "geom:longitude":-1.404535,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"59 The Avenue",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169650557,
-    "wof:lastmodified":1449034702,
+    "wof:lastmodified":1466252715,
     "wof:name":"G B Yacht Sales Ltd.",
     "wof:parent_id":85861259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.404535,50.919636,-1.404535,50.919636],
+  "bbox": [
+    -1.404535,
+    50.919636,
+    -1.404535,
+    50.919636
+],
   "geometry": {"coordinates":[-1.404535,50.919636],"type":"Point"}
 }

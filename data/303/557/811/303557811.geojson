@@ -2,13 +2,14 @@
   "id": 303557811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.113935,55.952969,-3.113935,55.952969",
     "geom:latitude":55.952969,
     "geom:longitude":-3.113935,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1c Bath St Lane, Portobello",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303557811,
-    "wof:lastmodified":1448999862,
+    "wof:lastmodified":1466279170,
     "wof:name":"John Parker Coachworks",
     "wof:parent_id":85789915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "car"
     ]
 },
-  "bbox": [-3.113935,55.952969,-3.113935,55.952969],
+  "bbox": [
+    -3.113935,
+    55.952969,
+    -3.113935,
+    55.952969
+],
   "geometry": {"coordinates":[-3.113935,55.952969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303525393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.067013,51.530212,-1.067013,51.530212",
     "geom:latitude":51.530212,
     "geom:longitude":-1.067013,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Grimmer Way, Woodcote",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":303525393,
-    "wof:lastmodified":1449000056,
+    "wof:lastmodified":1466278725,
     "wof:name":"R Warren Printers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-1.067013,51.530212,-1.067013,51.530212],
+  "bbox": [
+    -1.067013,
+    51.530212,
+    -1.067013,
+    51.530212
+],
   "geometry": {"coordinates":[-1.067013,51.530212],"type":"Point"}
 }

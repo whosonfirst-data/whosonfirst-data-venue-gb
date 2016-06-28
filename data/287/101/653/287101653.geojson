@@ -2,13 +2,14 @@
   "id": 287101653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.102812,53.549488,-2.102812,53.549488",
     "geom:latitude":53.549488,
     "geom:longitude":-2.102812,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Shaw Road",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287101653,
-    "wof:lastmodified":1449001134,
+    "wof:lastmodified":1466266084,
     "wof:name":"Garvin Print",
     "wof:parent_id":85793089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-2.102812,53.549488,-2.102812,53.549488],
+  "bbox": [
+    -2.102812,
+    53.549488,
+    -2.102812,
+    53.549488
+],
   "geometry": {"coordinates":[-2.102812,53.549488],"type":"Point"}
 }

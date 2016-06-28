@@ -2,13 +2,14 @@
   "id": 118579343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.987416,51.971378,-1.987416,51.971378",
     "geom:latitude":51.971378,
     "geom:longitude":-1.987416,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Warren Farm, Gopshill Lane, Gretton",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":118579343,
-    "wof:lastmodified":1449053596,
+    "wof:lastmodified":1466256141,
     "wof:name":"Direct Block Paving",
     "wof:parent_id":85683931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.987416,51.971378,-1.987416,51.971378],
+  "bbox": [
+    -1.987416,
+    51.971378,
+    -1.987416,
+    51.971378
+],
   "geometry": {"coordinates":[-1.987416,51.971378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118565593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.204127,53.145523,-1.204127,53.145523",
     "geom:latitude":53.145523,
     "geom:longitude":-1.204127,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 St Johns Place",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118565593,
-    "wof:lastmodified":1449054424,
+    "wof:lastmodified":1466255171,
     "wof:name":"D Brown",
     "wof:parent_id":85787491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.204127,53.145523,-1.204127,53.145523],
+  "bbox": [
+    -1.204127,
+    53.145523,
+    -1.204127,
+    53.145523
+],
   "geometry": {"coordinates":[-1.204127,53.145523],"type":"Point"}
 }

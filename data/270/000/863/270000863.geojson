@@ -2,13 +2,14 @@
   "id": 270000863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.816624,51.287224,-2.816624,51.287224",
     "geom:latitude":51.287224,
     "geom:longitude":-2.816624,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Morecambe House, St Marys Street",
     "sg:city":"Axbridge",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270000863,
-    "wof:lastmodified":1449009022,
+    "wof:lastmodified":1466278192,
     "wof:name":"Sandra Hairstylist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.816624,51.287224,-2.816624,51.287224],
+  "bbox": [
+    -2.816624,
+    51.287224,
+    -2.816624,
+    51.287224
+],
   "geometry": {"coordinates":[-2.816624,51.287224],"type":"Point"}
 }

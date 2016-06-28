@@ -2,13 +2,14 @@
   "id": 135578337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.407449,51.76228,-3.407449,51.76228",
     "geom:latitude":51.76228,
     "geom:longitude":-3.407449,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dan-y-garreg",
     "sg:city":"Merthyr Tydfil",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":135578337,
-    "wof:lastmodified":1449021750,
+    "wof:lastmodified":1466281176,
     "wof:name":"Sam's Taxis",
     "wof:parent_id":85790975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.407449,51.76228,-3.407449,51.76228],
+  "bbox": [
+    -3.407449,
+    51.76228,
+    -3.407449,
+    51.76228
+],
   "geometry": {"coordinates":[-3.407449,51.76228],"type":"Point"}
 }

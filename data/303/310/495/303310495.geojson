@@ -2,13 +2,14 @@
   "id": 303310495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.399195,53.52462,-2.399195,53.52462",
     "geom:latitude":53.52462,
     "geom:longitude":-2.399195,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Bolton Road, Worsley",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303310495,
-    "wof:lastmodified":1448999624,
+    "wof:lastmodified":1466272144,
     "wof:name":"The Print Shop",
     "wof:parent_id":85791831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-2.399195,53.52462,-2.399195,53.52462],
+  "bbox": [
+    -2.399195,
+    53.52462,
+    -2.399195,
+    53.52462
+],
   "geometry": {"coordinates":[-2.399195,53.52462],"type":"Point"}
 }

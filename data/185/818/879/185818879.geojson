@@ -2,13 +2,14 @@
   "id": 185818879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.823118,52.570583,-1.823118,52.570583",
     "geom:latitude":52.570583,
     "geom:longitude":-1.823118,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Lichfield Rd",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185818879,
-    "wof:lastmodified":1449007407,
+    "wof:lastmodified":1466254913,
     "wof:name":"A G Pearce",
     "wof:parent_id":85792011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-1.823118,52.570583,-1.823118,52.570583],
+  "bbox": [
+    -1.823118,
+    52.570583,
+    -1.823118,
+    52.570583
+],
   "geometry": {"coordinates":[-1.823118,52.570583],"type":"Point"}
 }

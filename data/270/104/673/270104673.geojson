@@ -2,13 +2,14 @@
   "id": 270104673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.499109,52.411797,-1.499109,52.411797",
     "geom:latitude":52.411797,
     "geom:longitude":-1.499109,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 9",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":270104673,
-    "wof:lastmodified":1449009654,
+    "wof:lastmodified":1466263637,
     "wof:name":"Whitmore Autos",
     "wof:parent_id":85789723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.499109,52.411797,-1.499109,52.411797],
+  "bbox": [
+    -1.499109,
+    52.411797,
+    -1.499109,
+    52.411797
+],
   "geometry": {"coordinates":[-1.499109,52.411797],"type":"Point"}
 }

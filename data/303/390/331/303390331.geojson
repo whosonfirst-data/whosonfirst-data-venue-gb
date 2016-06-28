@@ -2,13 +2,14 @@
   "id": 303390331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.721119,56.005569,-3.721119,56.005569",
     "geom:latitude":56.005569,
     "geom:longitude":-3.721119,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Bute Place",
     "sg:city":"Grangemouth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303390331,
-    "wof:lastmodified":1449000592,
+    "wof:lastmodified":1466274572,
     "wof:name":"WILLIAM CLARK & ROBINA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-3.721119,56.005569,-3.721119,56.005569],
+  "bbox": [
+    -3.721119,
+    56.005569,
+    -3.721119,
+    56.005569
+],
   "geometry": {"coordinates":[-3.721119,56.005569],"type":"Point"}
 }

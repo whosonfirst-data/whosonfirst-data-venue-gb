@@ -2,13 +2,14 @@
   "id": 119103569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.724254,54.954239,-1.724254,54.954239",
     "geom:latitude":54.954239,
     "geom:longitude":-1.724254,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Church Street, Winlaton",
     "sg:city":"Blaydon-on-tyne",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119103569,
-    "wof:lastmodified":1449042528,
+    "wof:lastmodified":1466259211,
     "wof:name":"Winlaton Library",
     "wof:parent_id":85861875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.724254,54.954239,-1.724254,54.954239],
+  "bbox": [
+    -1.724254,
+    54.954239,
+    -1.724254,
+    54.954239
+],
   "geometry": {"coordinates":[-1.724254,54.954239],"type":"Point"}
 }

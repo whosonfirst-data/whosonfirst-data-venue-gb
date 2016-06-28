@@ -2,13 +2,14 @@
   "id": 135328947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.175297,55.852249,-4.175297,55.852249",
     "geom:latitude":55.852249,
     "geom:longitude":-4.175297,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"843 Shettleston Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135328947,
-    "wof:lastmodified":1449022799,
+    "wof:lastmodified":1466254724,
     "wof:name":"The Town Tavern",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.175297,55.852249,-4.175297,55.852249],
+  "bbox": [
+    -4.175297,
+    55.852249,
+    -4.175297,
+    55.852249
+],
   "geometry": {"coordinates":[-4.175297,55.852249],"type":"Point"}
 }

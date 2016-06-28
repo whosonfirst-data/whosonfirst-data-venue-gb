@@ -2,13 +2,14 @@
   "id": 303981053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.347179,55.909367,-4.347179,55.909367",
     "geom:latitude":55.909367,
     "geom:longitude":-4.347179,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Canniesburn Road, Bearsden",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303981053,
-    "wof:lastmodified":1449000609,
+    "wof:lastmodified":1466285244,
     "wof:name":"Ready Electrics",
     "wof:parent_id":85785547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [-4.347179,55.909367,-4.347179,55.909367],
+  "bbox": [
+    -4.347179,
+    55.909367,
+    -4.347179,
+    55.909367
+],
   "geometry": {"coordinates":[-4.347179,55.909367],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336781243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.10196,53.489365,-2.10196,53.489365",
     "geom:latitude":53.489365,
     "geom:longitude":-2.10196,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2a Berkeley Street",
     "sg:city":"Ashton Under Lyne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336781243,
-    "wof:lastmodified":1448997153,
+    "wof:lastmodified":1466278149,
     "wof:name":"Recon Beds",
     "wof:parent_id":85793057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "blanket"
     ]
 },
-  "bbox": [-2.10196,53.489365,-2.10196,53.489365],
+  "bbox": [
+    -2.10196,
+    53.489365,
+    -2.10196,
+    53.489365
+],
   "geometry": {"coordinates":[-2.10196,53.489365],"type":"Point"}
 }

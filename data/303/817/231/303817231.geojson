@@ -2,13 +2,14 @@
   "id": 303817231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.500448,51.826439,-2.500448,51.826439",
     "geom:latitude":51.826439,
     "geom:longitude":-2.500448,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"75 High Street",
     "sg:city":"Cinderford",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303817231,
-    "wof:lastmodified":1449000087,
+    "wof:lastmodified":1466283328,
     "wof:name":"Soap Launderette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "launderette"
     ]
 },
-  "bbox": [-2.500448,51.826439,-2.500448,51.826439],
+  "bbox": [
+    -2.500448,
+    51.826439,
+    -2.500448,
+    51.826439
+],
   "geometry": {"coordinates":[-2.500448,51.826439],"type":"Point"}
 }

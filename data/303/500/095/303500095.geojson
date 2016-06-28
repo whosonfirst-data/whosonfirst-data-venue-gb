@@ -2,13 +2,14 @@
   "id": 303500095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.352907,51.279041,0.352907,51.279041",
     "geom:latitude":51.279041,
     "geom:longitude":0.352907,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Seven Mile Lane, Borough Grn",
     "sg:city":"Sevenoaks",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303500095,
-    "wof:lastmodified":1448998724,
+    "wof:lastmodified":1466277957,
     "wof:name":"Wrotham Heath Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "course"
     ]
 },
-  "bbox": [0.352907,51.279041,0.352907,51.279041],
+  "bbox": [
+    0.352907,
+    51.279041,
+    0.352907,
+    51.279041
+],
   "geometry": {"coordinates":[0.352907,51.279041],"type":"Point"}
 }

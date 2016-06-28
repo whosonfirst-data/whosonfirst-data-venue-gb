@@ -2,13 +2,14 @@
   "id": 253037263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.835879,53.686256,-1.835879,53.686256",
     "geom:latitude":53.686256,
     "geom:longitude":-1.835879,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"New Hall Works, Lower Edge Rd",
     "sg:city":"Elland",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253037263,
-    "wof:lastmodified":1449065854,
+    "wof:lastmodified":1466258127,
     "wof:name":"Fell Fires",
     "wof:parent_id":85785245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gas"
     ]
 },
-  "bbox": [-1.835879,53.686256,-1.835879,53.686256],
+  "bbox": [
+    -1.835879,
+    53.686256,
+    -1.835879,
+    53.686256
+],
   "geometry": {"coordinates":[-1.835879,53.686256],"type":"Point"}
 }

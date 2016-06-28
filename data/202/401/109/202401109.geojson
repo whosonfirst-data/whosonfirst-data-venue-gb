@@ -2,13 +2,14 @@
   "id": 202401109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.262564,52.589169,-2.262564,52.589169",
     "geom:latitude":52.589169,
     "geom:longitude":-2.262564,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Orchard House, Old Smithy Close, Pattingham",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202401109,
-    "wof:lastmodified":1449062284,
+    "wof:lastmodified":1466252625,
     "wof:name":"Orchard Promotional Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "promotional"
     ]
 },
-  "bbox": [-2.262564,52.589169,-2.262564,52.589169],
+  "bbox": [
+    -2.262564,
+    52.589169,
+    -2.262564,
+    52.589169
+],
   "geometry": {"coordinates":[-2.262564,52.589169],"type":"Point"}
 }

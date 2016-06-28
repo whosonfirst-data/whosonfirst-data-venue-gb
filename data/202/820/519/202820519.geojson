@@ -2,13 +2,14 @@
   "id": 202820519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.082914,52.874416,-1.082914,52.874416",
     "geom:latitude":52.874416,
     "geom:longitude":-1.082914,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Wolds Drive, Keyworth",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202820519,
-    "wof:lastmodified":1449061433,
+    "wof:lastmodified":1466259415,
     "wof:name":"Allwoods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accessory"
     ]
 },
-  "bbox": [-1.082914,52.874416,-1.082914,52.874416],
+  "bbox": [
+    -1.082914,
+    52.874416,
+    -1.082914,
+    52.874416
+],
   "geometry": {"coordinates":[-1.082914,52.874416],"type":"Point"}
 }

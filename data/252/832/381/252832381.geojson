@@ -2,13 +2,14 @@
   "id": 252832381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.298849,55.89579,-4.298849,55.89579",
     "geom:latitude":55.89579,
     "geom:longitude":-4.298849,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1887 Maryhill Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252832381,
-    "wof:lastmodified":1449005405,
+    "wof:lastmodified":1466259485,
     "wof:name":"Trench of Glasgow",
     "wof:parent_id":85789015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-4.298849,55.89579,-4.298849,55.89579],
+  "bbox": [
+    -4.298849,
+    55.89579,
+    -4.298849,
+    55.89579
+],
   "geometry": {"coordinates":[-4.298849,55.89579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135912693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.142162,52.380363,-2.142162,52.380363",
     "geom:latitude":52.380363,
     "geom:longitude":-2.142162,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Drayton, Belbroughton",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135912693,
-    "wof:lastmodified":1449022504,
+    "wof:lastmodified":1466288184,
     "wof:name":"Robin Hood",
     "wof:parent_id":85684259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.142162,52.380363,-2.142162,52.380363],
+  "bbox": [
+    -2.142162,
+    52.380363,
+    -2.142162,
+    52.380363
+],
   "geometry": {"coordinates":[-2.142162,52.380363],"type":"Point"}
 }

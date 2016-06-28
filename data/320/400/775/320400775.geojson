@@ -2,13 +2,14 @@
   "id": 320400775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.857432,53.641563,-1.857432,53.641563",
     "geom:latitude":53.641563,
     "geom:longitude":-1.857432,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Banks Crescent, Golcar",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320400775,
-    "wof:lastmodified":1449011604,
+    "wof:lastmodified":1466279601,
     "wof:name":"P D W Mobile Upholstery",
     "wof:parent_id":85787617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-1.857432,53.641563,-1.857432,53.641563],
+  "bbox": [
+    -1.857432,
+    53.641563,
+    -1.857432,
+    53.641563
+],
   "geometry": {"coordinates":[-1.857432,53.641563],"type":"Point"}
 }

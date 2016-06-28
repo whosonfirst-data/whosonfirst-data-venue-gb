@@ -2,13 +2,14 @@
   "id": 135716577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.433387,53.348213,-1.433387,53.348213",
     "geom:latitude":53.348213,
     "geom:longitude":-1.433387,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Bartle Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135716577,
-    "wof:lastmodified":1449021411,
+    "wof:lastmodified":1466286440,
     "wof:name":"P B Roofing",
     "wof:parent_id":85860935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.433387,53.348213,-1.433387,53.348213],
+  "bbox": [
+    -1.433387,
+    53.348213,
+    -1.433387,
+    53.348213
+],
   "geometry": {"coordinates":[-1.433387,53.348213],"type":"Point"}
 }

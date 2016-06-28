@@ -2,13 +2,14 @@
   "id": 119223967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.207015,55.957142,-3.207015,55.957142",
     "geom:latitude":55.957142,
     "geom:longitude":-3.207015,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 India Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":119223967,
-    "wof:lastmodified":1449041042,
+    "wof:lastmodified":1466271908,
     "wof:name":"Stockbridge Health Centre",
     "wof:parent_id":85861507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.207015,55.957142,-3.207015,55.957142],
+  "bbox": [
+    -3.207015,
+    55.957142,
+    -3.207015,
+    55.957142
+],
   "geometry": {"coordinates":[-3.207015,55.957142],"type":"Point"}
 }

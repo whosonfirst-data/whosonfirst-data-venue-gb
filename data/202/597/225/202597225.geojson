@@ -2,13 +2,14 @@
   "id": 202597225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.928129,55.946918,-4.928129,55.946918",
     "geom:latitude":55.946918,
     "geom:longitude":-4.928129,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Hillfoot Street",
     "sg:city":"Dunoon",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":202597225,
-    "wof:lastmodified":1449062600,
+    "wof:lastmodified":1466255795,
     "wof:name":"White Rabbits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-4.928129,55.946918,-4.928129,55.946918],
+  "bbox": [
+    -4.928129,
+    55.946918,
+    -4.928129,
+    55.946918
+],
   "geometry": {"coordinates":[-4.928129,55.946918],"type":"Point"}
 }

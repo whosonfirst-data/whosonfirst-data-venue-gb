@@ -2,13 +2,14 @@
   "id": 303145403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.227422,52.662537,-1.227422,52.662537",
     "geom:latitude":52.662537,
     "geom:longitude":-1.227422,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Ratby Road, Groby",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303145403,
-    "wof:lastmodified":1448998861,
+    "wof:lastmodified":1466267049,
     "wof:name":"Wilson & Sons",
     "wof:parent_id":85787615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.227422,52.662537,-1.227422,52.662537],
+  "bbox": [
+    -1.227422,
+    52.662537,
+    -1.227422,
+    52.662537
+],
   "geometry": {"coordinates":[-1.227422,52.662537],"type":"Point"}
 }

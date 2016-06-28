@@ -2,13 +2,14 @@
   "id": 135546749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.05249,53.837101,-3.05249,53.837101",
     "geom:latitude":53.837101,
     "geom:longitude":-3.05249,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"56a Holmfield Road",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135546749,
-    "wof:lastmodified":1449020981,
+    "wof:lastmodified":1466279179,
     "wof:name":"Richard",
     "wof:parent_id":85785755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.05249,53.837101,-3.05249,53.837101],
+  "bbox": [
+    -3.05249,
+    53.837101,
+    -3.05249,
+    53.837101
+],
   "geometry": {"coordinates":[-3.05249,53.837101],"type":"Point"}
 }

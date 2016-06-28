@@ -2,13 +2,14 @@
   "id": 320234925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.130419,55.870014,-3.130419,55.870014",
     "geom:latitude":55.870014,
     "geom:longitude":-3.130419,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 St Annes Avenue",
     "sg:city":"Lasswade",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320234925,
-    "wof:lastmodified":1449014752,
+    "wof:lastmodified":1466275088,
     "wof:name":"St Annes Playgroup",
     "wof:parent_id":85787605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "playgroups"
     ]
 },
-  "bbox": [-3.130419,55.870014,-3.130419,55.870014],
+  "bbox": [
+    -3.130419,
+    55.870014,
+    -3.130419,
+    55.870014
+],
   "geometry": {"coordinates":[-3.130419,55.870014],"type":"Point"}
 }

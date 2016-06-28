@@ -2,13 +2,14 @@
   "id": 303842433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.450688,53.394489,-1.450688,53.394489",
     "geom:latitude":53.394489,
     "geom:longitude":-1.450688,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bessemer House, 59 Carlisle St East",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303842433,
-    "wof:lastmodified":1448998298,
+    "wof:lastmodified":1466283475,
     "wof:name":"B T C V Enterprises Ltd.",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.450688,53.394489,-1.450688,53.394489],
+  "bbox": [
+    -1.450688,
+    53.394489,
+    -1.450688,
+    53.394489
+],
   "geometry": {"coordinates":[-1.450688,53.394489],"type":"Point"}
 }

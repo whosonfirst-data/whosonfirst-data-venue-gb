@@ -2,13 +2,14 @@
   "id": 135586037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.361652,55.461601,-4.361652,55.461601",
     "geom:latitude":55.461601,
     "geom:longitude":-4.361652,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Main St, Ochiltree",
     "sg:city":"Cumnock",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135586037,
-    "wof:lastmodified":1449023661,
+    "wof:lastmodified":1466281990,
     "wof:name":"W Graham",
     "wof:parent_id":85684085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.361652,55.461601,-4.361652,55.461601],
+  "bbox": [
+    -4.361652,
+    55.461601,
+    -4.361652,
+    55.461601
+],
   "geometry": {"coordinates":[-4.361652,55.461601],"type":"Point"}
 }

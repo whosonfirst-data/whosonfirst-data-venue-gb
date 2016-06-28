@@ -2,13 +2,14 @@
   "id": 135402609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.405065,53.050224,-1.405065,53.050224",
     "geom:latitude":53.050224,
     "geom:longitude":-1.405065,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Grosvenor Road, Ripley",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135402609,
-    "wof:lastmodified":1449021975,
+    "wof:lastmodified":1466263007,
     "wof:name":"Race Printing",
     "wof:parent_id":101872067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.405065,53.050224,-1.405065,53.050224],
+  "bbox": [
+    -1.405065,
+    53.050224,
+    -1.405065,
+    53.050224
+],
   "geometry": {"coordinates":[-1.405065,53.050224],"type":"Point"}
 }

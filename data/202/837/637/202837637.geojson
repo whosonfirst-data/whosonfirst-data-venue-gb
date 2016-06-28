@@ -2,13 +2,14 @@
   "id": 202837637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.79045,51.522827,-1.79045,51.522827",
     "geom:latitude":51.522827,
     "geom:longitude":-1.79045,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 The Pitchens, Wroughton",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202837637,
-    "wof:lastmodified":1449060499,
+    "wof:lastmodified":1466259680,
     "wof:name":"Christie Cladding",
     "wof:parent_id":85791513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cladding"
     ]
 },
-  "bbox": [-1.79045,51.522827,-1.79045,51.522827],
+  "bbox": [
+    -1.79045,
+    51.522827,
+    -1.79045,
+    51.522827
+],
   "geometry": {"coordinates":[-1.79045,51.522827],"type":"Point"}
 }

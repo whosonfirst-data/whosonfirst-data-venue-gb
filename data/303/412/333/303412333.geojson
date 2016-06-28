@@ -2,13 +2,14 @@
   "id": 303412333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.056,52.510921,-2.056,52.510921",
     "geom:latitude":52.510921,
     "geom:longitude":-2.056,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45-47 Regent Road, Tividale",
     "sg:city":"Smethwick",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303412333,
-    "wof:lastmodified":1448998616,
+    "wof:lastmodified":1466275208,
     "wof:name":"W & G Timms",
     "wof:parent_id":85787099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.056,52.510921,-2.056,52.510921],
+  "bbox": [
+    -2.056,
+    52.510921,
+    -2.056,
+    52.510921
+],
   "geometry": {"coordinates":[-2.056,52.510921],"type":"Point"}
 }

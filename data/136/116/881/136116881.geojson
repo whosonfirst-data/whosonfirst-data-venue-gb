@@ -2,13 +2,14 @@
   "id": 136116881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.11519,52.940701,-1.11519,52.940701",
     "geom:latitude":52.940701,
     "geom:longitude":-1.11519,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Holme Lodge, 1 Julian Road",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136116881,
-    "wof:lastmodified":1449075099,
+    "wof:lastmodified":1466256507,
     "wof:name":"The Leonard Cheshire Foundation",
     "wof:parent_id":85861915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.11519,52.940701,-1.11519,52.940701],
+  "bbox": [
+    -1.11519,
+    52.940701,
+    -1.11519,
+    52.940701
+],
   "geometry": {"coordinates":[-1.11519,52.940701],"type":"Point"}
 }

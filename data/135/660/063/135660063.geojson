@@ -2,13 +2,14 @@
   "id": 135660063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.293382,55.867519,-4.293382,55.867519",
     "geom:latitude":55.867519,
     "geom:longitude":-4.293382,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Old Dumbarton Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135660063,
-    "wof:lastmodified":1449023688,
+    "wof:lastmodified":1466284938,
     "wof:name":"Stirling Castle Bar",
     "wof:parent_id":85787427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.293382,55.867519,-4.293382,55.867519],
+  "bbox": [
+    -4.293382,
+    55.867519,
+    -4.293382,
+    55.867519
+],
   "geometry": {"coordinates":[-4.293382,55.867519],"type":"Point"}
 }

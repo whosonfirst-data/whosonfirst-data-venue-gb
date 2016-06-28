@@ -2,13 +2,14 @@
   "id": 269853613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.285436,55.865273,-4.285436,55.865273",
     "geom:latitude":55.865273,
     "geom:longitude":-4.285436,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1136 Argyle Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269853613,
-    "wof:lastmodified":1449037113,
+    "wof:lastmodified":1466271251,
     "wof:name":"Argyle Drycleaners",
     "wof:parent_id":85792613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alteration"
     ]
 },
-  "bbox": [-4.285436,55.865273,-4.285436,55.865273],
+  "bbox": [
+    -4.285436,
+    55.865273,
+    -4.285436,
+    55.865273
+],
   "geometry": {"coordinates":[-4.285436,55.865273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320768661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.717012,51.147449,-2.717012,51.147449",
     "geom:latitude":51.147449,
     "geom:longitude":-2.717012,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 High St",
     "sg:city":"Glastonbury",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320768661,
-    "wof:lastmodified":1449012715,
+    "wof:lastmodified":1466284422,
     "wof:name":"Glastonbury Galleries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-2.717012,51.147449,-2.717012,51.147449],
+  "bbox": [
+    -2.717012,
+    51.147449,
+    -2.717012,
+    51.147449
+],
   "geometry": {"coordinates":[-2.717012,51.147449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135543473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.123109,53.380741,-2.123109,53.380741",
     "geom:latitude":53.380741,
     "geom:longitude":-2.123109,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"156 London Road, Hazel Gro",
     "sg:city":"Stockport",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135543473,
-    "wof:lastmodified":1449021563,
+    "wof:lastmodified":1466279073,
     "wof:name":"Bridgfords",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.123109,53.380741,-2.123109,53.380741],
+  "bbox": [
+    -2.123109,
+    53.380741,
+    -2.123109,
+    53.380741
+],
   "geometry": {"coordinates":[-2.123109,53.380741],"type":"Point"}
 }

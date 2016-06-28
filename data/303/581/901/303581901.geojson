@@ -2,13 +2,14 @@
   "id": 303581901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.595986,53.754154,-1.595986,53.754154",
     "geom:latitude":53.754154,
     "geom:longitude":-1.595986,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 King George Avenue, Morley",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303581901,
-    "wof:lastmodified":1448998631,
+    "wof:lastmodified":1466279563,
     "wof:name":"A & B Flooring",
     "wof:parent_id":85785585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "floor"
     ]
 },
-  "bbox": [-1.595986,53.754154,-1.595986,53.754154],
+  "bbox": [
+    -1.595986,
+    53.754154,
+    -1.595986,
+    53.754154
+],
   "geometry": {"coordinates":[-1.595986,53.754154],"type":"Point"}
 }

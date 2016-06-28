@@ -2,13 +2,14 @@
   "id": 136228641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.119023,52.923225,-1.119023,52.923225",
     "geom:latitude":52.923225,
     "geom:longitude":-1.119023,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Stamford Road, West Bridgford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136228641,
-    "wof:lastmodified":1449075311,
+    "wof:lastmodified":1466262468,
     "wof:name":"Aspects",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.119023,52.923225,-1.119023,52.923225],
+  "bbox": [
+    -1.119023,
+    52.923225,
+    -1.119023,
+    52.923225
+],
   "geometry": {"coordinates":[-1.119023,52.923225],"type":"Point"}
 }

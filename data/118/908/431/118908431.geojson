@@ -2,13 +2,14 @@
   "id": 118908431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.924794,53.389984,-2.924794,53.389984",
     "geom:latitude":53.389984,
     "geom:longitude":-2.924794,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Smith Down Rd",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118908431,
-    "wof:lastmodified":1449053944,
+    "wof:lastmodified":1466280101,
     "wof:name":"Direct Windows",
     "wof:parent_id":85791397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.924794,53.389984,-2.924794,53.389984],
+  "bbox": [
+    -2.924794,
+    53.389984,
+    -2.924794,
+    53.389984
+],
   "geometry": {"coordinates":[-2.924794,53.389984],"type":"Point"}
 }

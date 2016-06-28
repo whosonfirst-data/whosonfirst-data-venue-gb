@@ -2,13 +2,14 @@
   "id": 320715051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.029076,51.647144,-3.029076,51.647144",
     "geom:latitude":51.647144,
     "geom:longitude":-3.029076,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Beeches, Old Cwmbran",
     "sg:city":"Cwmbran",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320715051,
-    "wof:lastmodified":1449014217,
+    "wof:lastmodified":1466284153,
     "wof:name":"The Beeches Sheltered Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-3.029076,51.647144,-3.029076,51.647144],
+  "bbox": [
+    -3.029076,
+    51.647144,
+    -3.029076,
+    51.647144
+],
   "geometry": {"coordinates":[-3.029076,51.647144],"type":"Point"}
 }

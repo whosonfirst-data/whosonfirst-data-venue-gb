@@ -2,13 +2,14 @@
   "id": 236312823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.116509,55.954464,-3.116509,55.954464",
     "geom:latitude":55.954464,
     "geom:longitude":-3.116509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Portobello High Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236312823,
-    "wof:lastmodified":1449003294,
+    "wof:lastmodified":1466262492,
     "wof:name":"The Galleon Bar",
     "wof:parent_id":85789915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.116509,55.954464,-3.116509,55.954464],
+  "bbox": [
+    -3.116509,
+    55.954464,
+    -3.116509,
+    55.954464
+],
   "geometry": {"coordinates":[-3.116509,55.954464],"type":"Point"}
 }

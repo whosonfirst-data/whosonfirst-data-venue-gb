@@ -2,13 +2,14 @@
   "id": 135511385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.304255,51.290524,0.304255,51.290524",
     "geom:latitude":51.290524,
     "geom:longitude":0.304255,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Garage, The Landway",
     "sg:city":"Sevenoaks",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135511385,
-    "wof:lastmodified":1449022410,
+    "wof:lastmodified":1466275821,
     "wof:name":"Gearwell Gearboxes",
     "wof:parent_id":85684363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.304255,51.290524,0.304255,51.290524],
+  "bbox": [
+    0.304255,
+    51.290524,
+    0.304255,
+    51.290524
+],
   "geometry": {"coordinates":[0.304255,51.290524],"type":"Point"}
 }

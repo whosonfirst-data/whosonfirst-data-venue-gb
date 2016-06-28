@@ -2,13 +2,14 @@
   "id": 336912125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.20121,54.676651,-1.20121,54.676651",
     "geom:latitude":54.676651,
     "geom:longitude":-1.20121,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Cameron Holdings, Mainsforth Terr",
     "sg:city":"Hartlepool",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336912125,
-    "wof:lastmodified":1448997491,
+    "wof:lastmodified":1466280451,
     "wof:name":"B Line Taxis",
     "wof:parent_id":85790229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-1.20121,54.676651,-1.20121,54.676651],
+  "bbox": [
+    -1.20121,
+    54.676651,
+    -1.20121,
+    54.676651
+],
   "geometry": {"coordinates":[-1.20121,54.676651],"type":"Point"}
 }

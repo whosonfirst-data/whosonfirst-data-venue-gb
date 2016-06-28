@@ -2,13 +2,14 @@
   "id": 135368835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.75412,50.516312,-3.75412,50.516312",
     "geom:latitude":50.516312,
     "geom:longitude":-3.75412,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wessex House",
     "sg:city":"Newton Abbot",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135368835,
-    "wof:lastmodified":1449021667,
+    "wof:lastmodified":1466259294,
     "wof:name":"Wessex Associates Ltd.",
     "wof:parent_id":85683773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.75412,50.516312,-3.75412,50.516312],
+  "bbox": [
+    -3.75412,
+    50.516312,
+    -3.75412,
+    50.516312
+],
   "geometry": {"coordinates":[-3.75412,50.516312],"type":"Point"}
 }

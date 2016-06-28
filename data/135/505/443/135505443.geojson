@@ -2,13 +2,14 @@
   "id": 135505443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.151223,50.341675,-5.151223,50.341675",
     "geom:latitude":50.341675,
     "geom:longitude":-5.151223,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 St. Michaels Rd",
     "sg:city":"Perranporth",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135505443,
-    "wof:lastmodified":1449023517,
+    "wof:lastmodified":1466275135,
     "wof:name":"Green Parrot (The)",
     "wof:parent_id":101852403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.151223,50.341675,-5.151223,50.341675],
+  "bbox": [
+    -5.151223,
+    50.341675,
+    -5.151223,
+    50.341675
+],
   "geometry": {"coordinates":[-5.151223,50.341675],"type":"Point"}
 }

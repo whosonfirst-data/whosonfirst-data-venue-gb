@@ -2,13 +2,14 @@
   "id": 135725021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.93586,52.682545,-1.93586,52.682545",
     "geom:latitude":52.682545,
     "geom:longitude":-1.93586,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Water Street, Chase Terrace",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135725021,
-    "wof:lastmodified":1449021723,
+    "wof:lastmodified":1466286539,
     "wof:name":"Hairport",
     "wof:parent_id":85789777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.93586,52.682545,-1.93586,52.682545],
+  "bbox": [
+    -1.93586,
+    52.682545,
+    -1.93586,
+    52.682545
+],
   "geometry": {"coordinates":[-1.93586,52.682545],"type":"Point"}
 }

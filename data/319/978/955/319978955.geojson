@@ -2,13 +2,14 @@
   "id": 319978955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.027363,55.862728,-4.027363,55.862728",
     "geom:latitude":55.862728,
     "geom:longitude":-4.027363,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Main Street",
     "sg:city":"Coatbridge",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":319978955,
-    "wof:lastmodified":1449024534,
+    "wof:lastmodified":1466272461,
     "wof:name":"John Smith",
     "wof:parent_id":85792553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookmaker"
     ]
 },
-  "bbox": [-4.027363,55.862728,-4.027363,55.862728],
+  "bbox": [
+    -4.027363,
+    55.862728,
+    -4.027363,
+    55.862728
+],
   "geometry": {"coordinates":[-4.027363,55.862728],"type":"Point"}
 }

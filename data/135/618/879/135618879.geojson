@@ -2,13 +2,14 @@
   "id": 135618879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.085465,52.569191,-2.085465,52.569191",
     "geom:latitude":52.569191,
     "geom:longitude":-2.085465,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Wellington Road",
     "sg:city":"Bilston",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135618879,
-    "wof:lastmodified":1449022899,
+    "wof:lastmodified":1466283568,
     "wof:name":"Wellington Lodge",
     "wof:parent_id":85787303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.085465,52.569191,-2.085465,52.569191],
+  "bbox": [
+    -2.085465,
+    52.569191,
+    -2.085465,
+    52.569191
+],
   "geometry": {"coordinates":[-2.085465,52.569191],"type":"Point"}
 }

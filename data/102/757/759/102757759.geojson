@@ -2,13 +2,14 @@
   "id": 102757759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.227793,55.870239,-4.227793,55.870239",
     "geom:latitude":55.870239,
     "geom:longitude":-4.227793,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Royston Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102757759,
-    "wof:lastmodified":1449069107,
+    "wof:lastmodified":1466259373,
     "wof:name":"Glasgow North Ltd",
     "wof:parent_id":85792639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.227793,55.870239,-4.227793,55.870239],
+  "bbox": [
+    -4.227793,
+    55.870239,
+    -4.227793,
+    55.870239
+],
   "geometry": {"coordinates":[-4.227793,55.870239],"type":"Point"}
 }

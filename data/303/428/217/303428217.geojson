@@ -2,13 +2,14 @@
   "id": 303428217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.935646,52.429237,-1.935646,52.429237",
     "geom:latitude":52.429237,
     "geom:longitude":-1.935646,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Sycamore Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303428217,
-    "wof:lastmodified":1449000401,
+    "wof:lastmodified":1466275700,
     "wof:name":"Bournville Hairdressing",
     "wof:parent_id":85785883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.935646,52.429237,-1.935646,52.429237],
+  "bbox": [
+    -1.935646,
+    52.429237,
+    -1.935646,
+    52.429237
+],
   "geometry": {"coordinates":[-1.935646,52.429237],"type":"Point"}
 }

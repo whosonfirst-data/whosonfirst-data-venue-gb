@@ -2,13 +2,14 @@
   "id": 303601683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.99996,55.769192,-1.99996,55.769192",
     "geom:latitude":55.769192,
     "geom:longitude":-1.99996,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34-36 Ravensdowne",
     "sg:city":"Berwick Upon Tweed",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303601683,
-    "wof:lastmodified":1448999212,
+    "wof:lastmodified":1466279863,
     "wof:name":"Ravensholmehotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.99996,55.769192,-1.99996,55.769192],
+  "bbox": [
+    -1.99996,
+    55.769192,
+    -1.99996,
+    55.769192
+],
   "geometry": {"coordinates":[-1.99996,55.769192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303390463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.611004,51.415665,-2.611004,51.415665",
     "geom:latitude":51.415665,
     "geom:longitude":-2.611004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18-20 Cater Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303390463,
-    "wof:lastmodified":1449000592,
+    "wof:lastmodified":1466274576,
     "wof:name":"Scott Mechanical Engineering Ltd",
     "wof:parent_id":85785751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.611004,51.415665,-2.611004,51.415665],
+  "bbox": [
+    -2.611004,
+    51.415665,
+    -2.611004,
+    51.415665
+],
   "geometry": {"coordinates":[-2.611004,51.415665],"type":"Point"}
 }

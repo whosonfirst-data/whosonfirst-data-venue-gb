@@ -2,13 +2,14 @@
   "id": 119263231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.609711,50.530048,-3.609711,50.530048",
     "geom:latitude":50.530048,
     "geom:longitude":-3.609711,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Union St",
     "sg:city":"Newton Abbot",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119263231,
-    "wof:lastmodified":1449043484,
+    "wof:lastmodified":1466276214,
     "wof:name":"Spooners",
     "wof:parent_id":101852597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.609711,50.530048,-3.609711,50.530048],
+  "bbox": [
+    -3.609711,
+    50.530048,
+    -3.609711,
+    50.530048
+],
   "geometry": {"coordinates":[-3.609711,50.530048],"type":"Point"}
 }

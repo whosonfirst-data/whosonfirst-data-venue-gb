@@ -2,13 +2,14 @@
   "id": 236976119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.999104,52.628033,-1.999104,52.628033",
     "geom:latitude":52.628033,
     "geom:longitude":-1.999104,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Buxton Road",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236976119,
-    "wof:lastmodified":1449002935,
+    "wof:lastmodified":1466275031,
     "wof:name":"Lower Farm Health Centre",
     "wof:parent_id":85785847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-1.999104,52.628033,-1.999104,52.628033],
+  "bbox": [
+    -1.999104,
+    52.628033,
+    -1.999104,
+    52.628033
+],
   "geometry": {"coordinates":[-1.999104,52.628033],"type":"Point"}
 }

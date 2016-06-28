@@ -2,13 +2,14 @@
   "id": 253133333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.299576,50.765026,-1.299576,50.765026",
     "geom:latitude":50.765026,
     "geom:longitude":-1.299576,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Bath Road",
     "sg:city":"Cowes",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253133333,
-    "wof:lastmodified":1449065255,
+    "wof:lastmodified":1466259961,
     "wof:name":"Eric Mattsson Photography",
     "wof:parent_id":85791461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-1.299576,50.765026,-1.299576,50.765026],
+  "bbox": [
+    -1.299576,
+    50.765026,
+    -1.299576,
+    50.765026
+],
   "geometry": {"coordinates":[-1.299576,50.765026],"type":"Point"}
 }

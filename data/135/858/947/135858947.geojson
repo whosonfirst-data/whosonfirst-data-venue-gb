@@ -2,13 +2,14 @@
   "id": 135858947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.507241,53.350403,-1.507241,53.350403",
     "geom:latitude":53.350403,
     "geom:longitude":-1.507241,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Button Hill",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135858947,
-    "wof:lastmodified":1449021300,
+    "wof:lastmodified":1466287909,
     "wof:name":"Scholes Associates",
     "wof:parent_id":85860933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.507241,53.350403,-1.507241,53.350403],
+  "bbox": [
+    -1.507241,
+    53.350403,
+    -1.507241,
+    53.350403
+],
   "geometry": {"coordinates":[-1.507241,53.350403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102735491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.233899,52.955486,-1.233899,52.955486",
     "geom:latitude":52.955486,
     "geom:longitude":-1.233899,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Trowell Road",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102735491,
-    "wof:lastmodified":1449070158,
+    "wof:lastmodified":1466257789,
     "wof:name":"The Roebuck",
     "wof:parent_id":85785691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.233899,52.955486,-1.233899,52.955486],
+  "bbox": [
+    -1.233899,
+    52.955486,
+    -1.233899,
+    52.955486
+],
   "geometry": {"coordinates":[-1.233899,52.955486],"type":"Point"}
 }

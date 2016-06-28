@@ -2,13 +2,14 @@
   "id": 102602195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.563247,54.900303,-1.563247,54.900303",
     "geom:latitude":54.900303,
     "geom:longitude":-1.563247,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Brightlea, Birtley",
     "sg:city":"Chester-le-street",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102602195,
-    "wof:lastmodified":1449068906,
+    "wof:lastmodified":1466278086,
     "wof:name":"Advanced Windows",
     "wof:parent_id":85787265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.563247,54.900303,-1.563247,54.900303],
+  "bbox": [
+    -1.563247,
+    54.900303,
+    -1.563247,
+    54.900303
+],
   "geometry": {"coordinates":[-1.563247,54.900303],"type":"Point"}
 }

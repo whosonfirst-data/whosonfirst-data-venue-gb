@@ -2,13 +2,14 @@
   "id": 135403455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.813419,53.315655,-3.813419,53.315655",
     "geom:latitude":53.315655,
     "geom:longitude":-3.813419,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Alice Gardens",
     "sg:city":"Llandudno",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135403455,
-    "wof:lastmodified":1449023587,
+    "wof:lastmodified":1466263118,
     "wof:name":"T & M Pritchard",
     "wof:parent_id":101872131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.813419,53.315655,-3.813419,53.315655],
+  "bbox": [
+    -3.813419,
+    53.315655,
+    -3.813419,
+    53.315655
+],
   "geometry": {"coordinates":[-3.813419,53.315655],"type":"Point"}
 }

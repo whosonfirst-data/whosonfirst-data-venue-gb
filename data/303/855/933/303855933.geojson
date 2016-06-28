@@ -2,13 +2,14 @@
   "id": 303855933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.253676,52.935516,-1.253676,52.935516",
     "geom:latitude":52.935516,
     "geom:longitude":-1.253676,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Derby Rd, Bramcote",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303855933,
-    "wof:lastmodified":1448999919,
+    "wof:lastmodified":1466283616,
     "wof:name":"Pick-Kwik Wines & Spirits Discount",
     "wof:parent_id":85785929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.253676,52.935516,-1.253676,52.935516],
+  "bbox": [
+    -1.253676,
+    52.935516,
+    -1.253676,
+    52.935516
+],
   "geometry": {"coordinates":[-1.253676,52.935516],"type":"Point"}
 }

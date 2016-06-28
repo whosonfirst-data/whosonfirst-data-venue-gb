@@ -2,13 +2,14 @@
   "id": 118805291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.515593,53.818306,-1.515593,53.818306",
     "geom:latitude":53.818306,
     "geom:longitude":-1.515593,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Roundhay Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":118805291,
-    "wof:lastmodified":1449053614,
+    "wof:lastmodified":1466273181,
     "wof:name":"Harehills Housing Aid",
     "wof:parent_id":85792871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.515593,53.818306,-1.515593,53.818306],
+  "bbox": [
+    -1.515593,
+    53.818306,
+    -1.515593,
+    53.818306
+],
   "geometry": {"coordinates":[-1.515593,53.818306],"type":"Point"}
 }

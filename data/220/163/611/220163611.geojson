@@ -2,13 +2,14 @@
   "id": 220163611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.926568,55.949497,-4.926568,55.949497",
     "geom:latitude":55.949497,
     "geom:longitude":-4.926568,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Argyll Street",
     "sg:city":"Dunoon",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220163611,
-    "wof:lastmodified":1449074858,
+    "wof:lastmodified":1466255853,
     "wof:name":"The Curiosity Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "jewellery"
     ]
 },
-  "bbox": [-4.926568,55.949497,-4.926568,55.949497],
+  "bbox": [
+    -4.926568,
+    55.949497,
+    -4.926568,
+    55.949497
+],
   "geometry": {"coordinates":[-4.926568,55.949497],"type":"Point"}
 }

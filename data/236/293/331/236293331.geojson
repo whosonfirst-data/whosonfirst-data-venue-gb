@@ -2,13 +2,14 @@
   "id": 236293331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.261649,51.751125,-1.261649,51.751125",
     "geom:latitude":51.751125,
     "geom:longitude":-1.261649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30a Castle Street",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236293331,
-    "wof:lastmodified":1449002163,
+    "wof:lastmodified":1466262121,
     "wof:name":"Staying Put",
     "wof:parent_id":85793243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "counselling"
     ]
 },
-  "bbox": [-1.261649,51.751125,-1.261649,51.751125],
+  "bbox": [
+    -1.261649,
+    51.751125,
+    -1.261649,
+    51.751125
+],
   "geometry": {"coordinates":[-1.261649,51.751125],"type":"Point"}
 }

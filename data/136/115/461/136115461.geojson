@@ -2,13 +2,14 @@
   "id": 136115461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.635816,55.497005,-1.635816,55.497005",
     "geom:latitude":55.497005,
     "geom:longitude":-1.635816,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Golf House, Embleton",
     "sg:city":"Alnwick",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136115461,
-    "wof:lastmodified":1449074907,
+    "wof:lastmodified":1466256431,
     "wof:name":"Dunstanburgh Castle Golf Course",
     "wof:parent_id":85683821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.635816,55.497005,-1.635816,55.497005],
+  "bbox": [
+    -1.635816,
+    55.497005,
+    -1.635816,
+    55.497005
+],
   "geometry": {"coordinates":[-1.635816,55.497005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118582531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.433479,53.238548,-1.433479,53.238548",
     "geom:latitude":53.238548,
     "geom:longitude":-1.433479,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Tennyson Avenue",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118582531,
-    "wof:lastmodified":1449053903,
+    "wof:lastmodified":1466256399,
     "wof:name":"Maccolls",
     "wof:parent_id":85861099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.433479,53.238548,-1.433479,53.238548],
+  "bbox": [
+    -1.433479,
+    53.238548,
+    -1.433479,
+    53.238548
+],
   "geometry": {"coordinates":[-1.433479,53.238548],"type":"Point"}
 }

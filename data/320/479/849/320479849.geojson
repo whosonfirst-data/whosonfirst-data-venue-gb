@@ -2,13 +2,14 @@
   "id": 320479849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.47848,53.564526,-1.47848,53.564526",
     "geom:latitude":53.564526,
     "geom:longitude":-1.47848,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Hartington Drive, Honeywell",
     "sg:city":"Barnsley",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320479849,
-    "wof:lastmodified":1449013826,
+    "wof:lastmodified":1466280949,
     "wof:name":"Holmes Landscapes",
     "wof:parent_id":85793253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-1.47848,53.564526,-1.47848,53.564526],
+  "bbox": [
+    -1.47848,
+    53.564526,
+    -1.47848,
+    53.564526
+],
   "geometry": {"coordinates":[-1.47848,53.564526],"type":"Point"}
 }

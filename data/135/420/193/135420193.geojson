@@ -2,13 +2,14 @@
   "id": 135420193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.59854,50.522793,-3.59854,50.522793",
     "geom:latitude":50.522793,
     "geom:longitude":-3.59854,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Anvil House, 9 Keybury Park",
     "sg:city":"Newton Abbot",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135420193,
-    "wof:lastmodified":1449022463,
+    "wof:lastmodified":1466265081,
     "wof:name":"G Westaway & Son",
     "wof:parent_id":101852597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.59854,50.522793,-3.59854,50.522793],
+  "bbox": [
+    -3.59854,
+    50.522793,
+    -3.59854,
+    50.522793
+],
   "geometry": {"coordinates":[-3.59854,50.522793],"type":"Point"}
 }

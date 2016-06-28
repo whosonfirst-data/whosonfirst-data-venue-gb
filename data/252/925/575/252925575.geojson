@@ -2,13 +2,14 @@
   "id": 252925575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.193671,55.964241,-3.193671,55.964241",
     "geom:latitude":55.964241,
     "geom:longitude":-3.193671,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"83-85 Broughton Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":252925575,
-    "wof:lastmodified":1449005414,
+    "wof:lastmodified":1466261325,
     "wof:name":"The Barony Bar",
     "wof:parent_id":85791361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.193671,55.964241,-3.193671,55.964241],
+  "bbox": [
+    -3.193671,
+    55.964241,
+    -3.193671,
+    55.964241
+],
   "geometry": {"coordinates":[-3.193671,55.964241],"type":"Point"}
 }

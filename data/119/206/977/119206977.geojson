@@ -2,13 +2,14 @@
   "id": 119206977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.810063,55.656521,-4.810063,55.656521",
     "geom:latitude":55.656521,
     "geom:longitude":-4.810063,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Dalry Rd",
     "sg:city":"Ardrossan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119206977,
-    "wof:lastmodified":1449042713,
+    "wof:lastmodified":1466270045,
     "wof:name":"Manor The",
     "wof:parent_id":101872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.810063,55.656521,-4.810063,55.656521],
+  "bbox": [
+    -4.810063,
+    55.656521,
+    -4.810063,
+    55.656521
+],
   "geometry": {"coordinates":[-4.810063,55.656521],"type":"Point"}
 }

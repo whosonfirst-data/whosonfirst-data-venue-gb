@@ -2,13 +2,14 @@
   "id": 202852777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.364453,52.887863,-1.364453,52.887863",
     "geom:latitude":52.887863,
     "geom:longitude":-1.364453,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Main Street, Breaston",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202852777,
-    "wof:lastmodified":1449062231,
+    "wof:lastmodified":1466259946,
     "wof:name":"Dundas Butchers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "butcher"
     ]
 },
-  "bbox": [-1.364453,52.887863,-1.364453,52.887863],
+  "bbox": [
+    -1.364453,
+    52.887863,
+    -1.364453,
+    52.887863
+],
   "geometry": {"coordinates":[-1.364453,52.887863],"type":"Point"}
 }

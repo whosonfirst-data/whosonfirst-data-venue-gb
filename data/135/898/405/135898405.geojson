@@ -2,13 +2,14 @@
   "id": 135898405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.194378,50.797977,-3.194378,50.797977",
     "geom:latitude":50.797977,
     "geom:longitude":-3.194378,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"188 High Street",
     "sg:city":"Honiton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135898405,
-    "wof:lastmodified":1449020916,
+    "wof:lastmodified":1466288102,
     "wof:name":"Amity",
     "wof:parent_id":101852635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.194378,50.797977,-3.194378,50.797977],
+  "bbox": [
+    -3.194378,
+    50.797977,
+    -3.194378,
+    50.797977
+],
   "geometry": {"coordinates":[-3.194378,50.797977],"type":"Point"}
 }

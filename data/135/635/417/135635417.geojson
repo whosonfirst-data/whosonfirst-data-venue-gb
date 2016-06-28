@@ -2,13 +2,14 @@
   "id": 135635417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.714633,52.647697,-1.714633,52.647697",
     "geom:latitude":52.647697,
     "geom:longitude":-1.714633,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Cromwell Road, Coton Green",
     "sg:city":"Tamworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135635417,
-    "wof:lastmodified":1449022319,
+    "wof:lastmodified":1466284127,
     "wof:name":"David Barr",
     "wof:parent_id":101750503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.714633,52.647697,-1.714633,52.647697],
+  "bbox": [
+    -1.714633,
+    52.647697,
+    -1.714633,
+    52.647697
+],
   "geometry": {"coordinates":[-1.714633,52.647697],"type":"Point"}
 }

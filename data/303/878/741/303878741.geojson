@@ -2,13 +2,14 @@
   "id": 303878741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.861433,51.439487,-2.861433,51.439487",
     "geom:latitude":51.439487,
     "geom:longitude":-2.861433,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Hallam Road",
     "sg:city":"Clevedon",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303878741,
-    "wof:lastmodified":1448999398,
+    "wof:lastmodified":1466284067,
     "wof:name":"Jean Reeve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.861433,51.439487,-2.861433,51.439487],
+  "bbox": [
+    -2.861433,
+    51.439487,
+    -2.861433,
+    51.439487
+],
   "geometry": {"coordinates":[-2.861433,51.439487],"type":"Point"}
 }

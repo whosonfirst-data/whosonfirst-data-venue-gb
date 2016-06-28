@@ -2,13 +2,14 @@
   "id": 303116177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.481229,50.941147,-1.481229,50.941147",
     "geom:latitude":50.941147,
     "geom:longitude":-1.481229,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1b Mauretania Road, Nursling",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303116177,
-    "wof:lastmodified":1448998476,
+    "wof:lastmodified":1466266168,
     "wof:name":"Salvesen Food Logistics",
     "wof:parent_id":85790101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "metal"
     ]
 },
-  "bbox": [-1.481229,50.941147,-1.481229,50.941147],
+  "bbox": [
+    -1.481229,
+    50.941147,
+    -1.481229,
+    50.941147
+],
   "geometry": {"coordinates":[-1.481229,50.941147],"type":"Point"}
 }

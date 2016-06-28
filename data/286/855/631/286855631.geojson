@@ -2,13 +2,14 @@
   "id": 286855631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.25163,55.86095,-4.25163,55.86095",
     "geom:latitude":55.86095,
     "geom:longitude":-4.25163,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Curator, Night Number, City Chambers",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286855631,
-    "wof:lastmodified":1449017349,
+    "wof:lastmodified":1466279565,
     "wof:name":"Glasgow City Council",
     "wof:parent_id":85792621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-4.25163,55.86095,-4.25163,55.86095],
+  "bbox": [
+    -4.25163,
+    55.86095,
+    -4.25163,
+    55.86095
+],
   "geometry": {"coordinates":[-4.25163,55.86095],"type":"Point"}
 }

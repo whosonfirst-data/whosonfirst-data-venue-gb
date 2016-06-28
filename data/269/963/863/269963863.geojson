@@ -2,13 +2,14 @@
   "id": 269963863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.103745,51.908413,-2.103745,51.908413",
     "geom:latitude":51.908413,
     "geom:longitude":-2.103745,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Brooklyn Road",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269963863,
-    "wof:lastmodified":1449036379,
+    "wof:lastmodified":1466274634,
     "wof:name":"Chelbuild",
     "wof:parent_id":85793223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "guttering"
     ]
 },
-  "bbox": [-2.103745,51.908413,-2.103745,51.908413],
+  "bbox": [
+    -2.103745,
+    51.908413,
+    -2.103745,
+    51.908413
+],
   "geometry": {"coordinates":[-2.103745,51.908413],"type":"Point"}
 }

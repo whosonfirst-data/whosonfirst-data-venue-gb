@@ -2,13 +2,14 @@
   "id": 303669245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.829015,52.584789,-1.829015,52.584789",
     "geom:latitude":52.584789,
     "geom:longitude":-1.829015,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Milford House, 260 Lichfield Rd",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303669245,
-    "wof:lastmodified":1448998402,
+    "wof:lastmodified":1466281480,
     "wof:name":"Armstrong Burton Group",
     "wof:parent_id":85789067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.829015,52.584789,-1.829015,52.584789],
+  "bbox": [
+    -1.829015,
+    52.584789,
+    -1.829015,
+    52.584789
+],
   "geometry": {"coordinates":[-1.829015,52.584789],"type":"Point"}
 }

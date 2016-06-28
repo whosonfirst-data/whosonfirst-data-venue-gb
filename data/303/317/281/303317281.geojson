@@ -2,13 +2,14 @@
   "id": 303317281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.418244,50.932568,-1.418244,50.932568",
     "geom:latitude":50.932568,
     "geom:longitude":-1.418244,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"342 Hill Lane",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303317281,
-    "wof:lastmodified":1448999239,
+    "wof:lastmodified":1466272368,
     "wof:name":"The White House Dental Surgery",
     "wof:parent_id":85792807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.418244,50.932568,-1.418244,50.932568],
+  "bbox": [
+    -1.418244,
+    50.932568,
+    -1.418244,
+    50.932568
+],
   "geometry": {"coordinates":[-1.418244,50.932568],"type":"Point"}
 }

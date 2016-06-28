@@ -2,13 +2,14 @@
   "id": 136240115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.177571,52.833157,-1.177571,52.833157",
     "geom:latitude":52.833157,
     "geom:longitude":-1.177571,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Manor Farm Castle Hill, East Leake",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136240115,
-    "wof:lastmodified":1449075036,
+    "wof:lastmodified":1466263112,
     "wof:name":"Manor Farm Animal Centre",
     "wof:parent_id":85683849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.177571,52.833157,-1.177571,52.833157],
+  "bbox": [
+    -1.177571,
+    52.833157,
+    -1.177571,
+    52.833157
+],
   "geometry": {"coordinates":[-1.177571,52.833157],"type":"Point"}
 }

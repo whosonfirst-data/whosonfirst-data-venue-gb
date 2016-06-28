@@ -2,13 +2,14 @@
   "id": 303202613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.277783,50.797688,0.277783,50.797688",
     "geom:latitude":50.797688,
     "geom:longitude":0.277783,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Brodrick Close, Hampden Park",
     "sg:city":"Eastbourne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303202613,
-    "wof:lastmodified":1449000246,
+    "wof:lastmodified":1466268870,
     "wof:name":"Park Practice",
     "wof:parent_id":85861235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "practitioners"
     ]
 },
-  "bbox": [0.277783,50.797688,0.277783,50.797688],
+  "bbox": [
+    0.277783,
+    50.797688,
+    0.277783,
+    50.797688
+],
   "geometry": {"coordinates":[0.277783,50.797688],"type":"Point"}
 }

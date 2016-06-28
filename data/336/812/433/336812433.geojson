@@ -2,13 +2,14 @@
   "id": 336812433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.086989,51.468849,-1.086989,51.468849",
     "geom:latitude":51.468849,
     "geom:longitude":-1.086989,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Green Gables, Tidmarsh La, Pangbourne",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336812433,
-    "wof:lastmodified":1448996942,
+    "wof:lastmodified":1466278670,
     "wof:name":"Klarence Kitchens",
     "wof:parent_id":85786147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bedroom"
     ]
 },
-  "bbox": [-1.086989,51.468849,-1.086989,51.468849],
+  "bbox": [
+    -1.086989,
+    51.468849,
+    -1.086989,
+    51.468849
+],
   "geometry": {"coordinates":[-1.086989,51.468849],"type":"Point"}
 }

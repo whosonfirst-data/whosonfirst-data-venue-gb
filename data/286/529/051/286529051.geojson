@@ -2,13 +2,14 @@
   "id": 286529051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.02327,51.396938,0.02327,51.396938",
     "geom:latitude":51.396938,
     "geom:longitude":0.02327,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"B A S I Drug Advice, 111 Masons Hill",
     "sg:city":"Bromley",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286529051,
-    "wof:lastmodified":1449016477,
+    "wof:lastmodified":1466270431,
     "wof:name":"Lewisham & Guys Mental Health Trust",
     "wof:parent_id":85785675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drug"
     ]
 },
-  "bbox": [0.02327,51.396938,0.02327,51.396938],
+  "bbox": [
+    0.02327,
+    51.396938,
+    0.02327,
+    51.396938
+],
   "geometry": {"coordinates":[0.02327,51.396938],"type":"Point"}
 }

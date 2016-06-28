@@ -2,13 +2,14 @@
   "id": 287196763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.995882,53.361935,-2.995882,53.361935",
     "geom:latitude":53.361935,
     "geom:longitude":-2.995882,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 New Ferry Road",
     "sg:city":"Wirral",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":287196763,
-    "wof:lastmodified":1449000865,
+    "wof:lastmodified":1466269067,
     "wof:name":"New Ferry Tools",
     "wof:parent_id":85788897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-2.995882,53.361935,-2.995882,53.361935],
+  "bbox": [
+    -2.995882,
+    53.361935,
+    -2.995882,
+    53.361935
+],
   "geometry": {"coordinates":[-2.995882,53.361935],"type":"Point"}
 }

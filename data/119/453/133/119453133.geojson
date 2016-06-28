@@ -2,13 +2,14 @@
   "id": 119453133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.214212,55.891651,-4.214212,55.891651",
     "geom:latitude":55.891651,
     "geom:longitude":-4.214212,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Balornock Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119453133,
-    "wof:lastmodified":1449042861,
+    "wof:lastmodified":1466286498,
     "wof:name":"The Cairn",
     "wof:parent_id":85793309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.214212,55.891651,-4.214212,55.891651],
+  "bbox": [
+    -4.214212,
+    55.891651,
+    -4.214212,
+    55.891651
+],
   "geometry": {"coordinates":[-4.214212,55.891651],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320513465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.36071,53.681011,-1.36071,53.681011",
     "geom:latitude":53.681011,
     "geom:longitude":-1.36071,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4 Grn Lane Business Park, Purston",
     "sg:city":"Pontefract",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320513465,
-    "wof:lastmodified":1449013743,
+    "wof:lastmodified":1466281377,
     "wof:name":"Purston Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cab"
     ]
 },
-  "bbox": [-1.36071,53.681011,-1.36071,53.681011],
+  "bbox": [
+    -1.36071,
+    53.681011,
+    -1.36071,
+    53.681011
+],
   "geometry": {"coordinates":[-1.36071,53.681011],"type":"Point"}
 }

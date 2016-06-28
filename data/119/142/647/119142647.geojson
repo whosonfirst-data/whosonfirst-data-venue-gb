@@ -2,13 +2,14 @@
   "id": 119142647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.835524,56.484341,-2.835524,56.484341",
     "geom:latitude":56.484341,
     "geom:longitude":-2.835524,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Ardownie St, Monifieth",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119142647,
-    "wof:lastmodified":1449042971,
+    "wof:lastmodified":1466262765,
     "wof:name":"Direct Express Parcels",
     "wof:parent_id":85786079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.835524,56.484341,-2.835524,56.484341],
+  "bbox": [
+    -2.835524,
+    56.484341,
+    -2.835524,
+    56.484341
+],
   "geometry": {"coordinates":[-2.835524,56.484341],"type":"Point"}
 }

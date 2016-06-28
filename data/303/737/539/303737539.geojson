@@ -2,13 +2,14 @@
   "id": 303737539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.324898,52.130341,-2.324898,52.130341",
     "geom:latitude":52.130341,
     "geom:longitude":-2.324898,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Wilmot Road, Malvern Link",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":303737539,
-    "wof:lastmodified":1448998663,
+    "wof:lastmodified":1466282166,
     "wof:name":"Peter Senter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-2.324898,52.130341,-2.324898,52.130341],
+  "bbox": [
+    -2.324898,
+    52.130341,
+    -2.324898,
+    52.130341
+],
   "geometry": {"coordinates":[-2.324898,52.130341],"type":"Point"}
 }

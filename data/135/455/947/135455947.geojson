@@ -2,13 +2,14 @@
   "id": 135455947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.188178,55.95092,-3.188178,55.95092",
     "geom:latitude":55.95092,
     "geom:longitude":-3.188178,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5th Floor 28 North Bridge",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135455947,
-    "wof:lastmodified":1449023536,
+    "wof:lastmodified":1466269379,
     "wof:name":"Follow'up Project",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.188178,55.95092,-3.188178,55.95092],
+  "bbox": [
+    -3.188178,
+    55.95092,
+    -3.188178,
+    55.95092
+],
   "geometry": {"coordinates":[-3.188178,55.95092],"type":"Point"}
 }

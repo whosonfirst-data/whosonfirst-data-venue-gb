@@ -2,13 +2,14 @@
   "id": 336939013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.794313,50.72842,-1.794313,50.72842",
     "geom:latitude":50.72842,
     "geom:longitude":-1.794313,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Tuckton Road, Southbourne",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336939013,
-    "wof:lastmodified":1448997268,
+    "wof:lastmodified":1466281215,
     "wof:name":"Cobwebs",
     "wof:parent_id":85790471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "second-hand"
     ]
 },
-  "bbox": [-1.794313,50.72842,-1.794313,50.72842],
+  "bbox": [
+    -1.794313,
+    50.72842,
+    -1.794313,
+    50.72842
+],
   "geometry": {"coordinates":[-1.794313,50.72842],"type":"Point"}
 }

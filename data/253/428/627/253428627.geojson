@@ -2,13 +2,14 @@
   "id": 253428627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.73128,53.797588,-1.73128,53.797588",
     "geom:latitude":53.797588,
     "geom:longitude":-1.73128,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Porta Kabin, Gilpin Street",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":253428627,
-    "wof:lastmodified":1449065595,
+    "wof:lastmodified":1466266238,
     "wof:name":"Barkerend Taxis",
     "wof:parent_id":85790989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-1.73128,53.797588,-1.73128,53.797588],
+  "bbox": [
+    -1.73128,
+    53.797588,
+    -1.73128,
+    53.797588
+],
   "geometry": {"coordinates":[-1.73128,53.797588],"type":"Point"}
 }

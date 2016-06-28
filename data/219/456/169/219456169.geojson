@@ -2,13 +2,14 @@
   "id": 219456169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.919524,54.548653,-1.919524,54.548653",
     "geom:latitude":54.548653,
     "geom:longitude":-1.919524,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Montalbo Road",
     "sg:city":"Barnard Castle",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219456169,
-    "wof:lastmodified":1449071454,
+    "wof:lastmodified":1466258038,
     "wof:name":"Montalbo Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.919524,54.548653,-1.919524,54.548653],
+  "bbox": [
+    -1.919524,
+    54.548653,
+    -1.919524,
+    54.548653
+],
   "geometry": {"coordinates":[-1.919524,54.548653],"type":"Point"}
 }

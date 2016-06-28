@@ -2,13 +2,14 @@
   "id": 119150245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.603561,51.492596,-2.603561,51.492596",
     "geom:latitude":51.492596,
     "geom:longitude":-2.603561,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Wellington Hill West",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119150245,
-    "wof:lastmodified":1449040913,
+    "wof:lastmodified":1466263608,
     "wof:name":"S Chawda",
     "wof:parent_id":85790479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.603561,51.492596,-2.603561,51.492596],
+  "bbox": [
+    -2.603561,
+    51.492596,
+    -2.603561,
+    51.492596
+],
   "geometry": {"coordinates":[-2.603561,51.492596],"type":"Point"}
 }

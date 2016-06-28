@@ -2,13 +2,14 @@
   "id": 185628947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.135559,53.52227,-1.135559,53.52227",
     "geom:latitude":53.52227,
     "geom:longitude":-1.135559,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hudsons Mews, Printing Office Street",
     "sg:city":"Doncaster",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185628947,
-    "wof:lastmodified":1449007920,
+    "wof:lastmodified":1466277723,
     "wof:name":"P S Taylor Jewellers",
     "wof:parent_id":85789393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "jewellery"
     ]
 },
-  "bbox": [-1.135559,53.52227,-1.135559,53.52227],
+  "bbox": [
+    -1.135559,
+    53.52227,
+    -1.135559,
+    53.52227
+],
   "geometry": {"coordinates":[-1.135559,53.52227],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135813805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.036298,55.775681,-4.036298,55.775681",
     "geom:latitude":55.775681,
     "geom:longitude":-4.036298,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1a, Chapel Street",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135813805,
-    "wof:lastmodified":1449021770,
+    "wof:lastmodified":1466287589,
     "wof:name":"Bakers Oven",
     "wof:parent_id":101750627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.036298,55.775681,-4.036298,55.775681],
+  "bbox": [
+    -4.036298,
+    55.775681,
+    -4.036298,
+    55.775681
+],
   "geometry": {"coordinates":[-4.036298,55.775681],"type":"Point"}
 }

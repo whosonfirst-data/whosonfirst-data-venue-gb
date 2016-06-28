@@ -2,13 +2,14 @@
   "id": 135493295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.320056,50.886524,-1.320056,50.886524",
     "geom:latitude":50.886524,
     "geom:longitude":-1.320056,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Larch Way",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135493295,
-    "wof:lastmodified":1449021964,
+    "wof:lastmodified":1466273667,
     "wof:name":"Woodland Fencing",
     "wof:parent_id":85792803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.320056,50.886524,-1.320056,50.886524],
+  "bbox": [
+    -1.320056,
+    50.886524,
+    -1.320056,
+    50.886524
+],
   "geometry": {"coordinates":[-1.320056,50.886524],"type":"Point"}
 }

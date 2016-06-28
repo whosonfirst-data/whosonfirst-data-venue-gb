@@ -2,13 +2,14 @@
   "id": 135943537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.314305,55.891338,-4.314305,55.891338",
     "geom:latitude":55.891338,
     "geom:longitude":-4.314305,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Dorchester Avenue",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135943537,
-    "wof:lastmodified":1449021798,
+    "wof:lastmodified":1466288326,
     "wof:name":"S Morris",
     "wof:parent_id":85861541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.314305,55.891338,-4.314305,55.891338],
+  "bbox": [
+    -4.314305,
+    55.891338,
+    -4.314305,
+    55.891338
+],
   "geometry": {"coordinates":[-4.314305,55.891338],"type":"Point"}
 }

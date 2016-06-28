@@ -2,13 +2,14 @@
   "id": 119293075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.167632,55.818893,-4.167632,55.818893",
     "geom:latitude":55.818893,
     "geom:longitude":-4.167632,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Main St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119293075,
-    "wof:lastmodified":1449041338,
+    "wof:lastmodified":1466279006,
     "wof:name":"J K Leslie",
     "wof:parent_id":85786177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.167632,55.818893,-4.167632,55.818893],
+  "bbox": [
+    -4.167632,
+    55.818893,
+    -4.167632,
+    55.818893
+],
   "geometry": {"coordinates":[-4.167632,55.818893],"type":"Point"}
 }

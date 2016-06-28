@@ -2,13 +2,14 @@
   "id": 236172889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.782684,53.646954,-1.782684,53.646954",
     "geom:latitude":53.646954,
     "geom:longitude":-1.782684,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Huddersfield District, Civic Centre",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236172889,
-    "wof:lastmodified":1449002890,
+    "wof:lastmodified":1466259784,
     "wof:name":"Registrars Of Births Deaths & Marriages",
     "wof:parent_id":85791183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "births"
     ]
 },
-  "bbox": [-1.782684,53.646954,-1.782684,53.646954],
+  "bbox": [
+    -1.782684,
+    53.646954,
+    -1.782684,
+    53.646954
+],
   "geometry": {"coordinates":[-1.782684,53.646954],"type":"Point"}
 }

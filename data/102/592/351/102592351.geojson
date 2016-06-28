@@ -2,13 +2,14 @@
   "id": 102592351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.64861,54.980778,-1.64861,54.980778",
     "geom:latitude":54.980778,
     "geom:longitude":-1.64861,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Nuns Moor Rd",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102592351,
-    "wof:lastmodified":1449069137,
+    "wof:lastmodified":1466277169,
     "wof:name":"Clyde Chemists",
     "wof:parent_id":85787399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.64861,54.980778,-1.64861,54.980778],
+  "bbox": [
+    -1.64861,
+    54.980778,
+    -1.64861,
+    54.980778
+],
   "geometry": {"coordinates":[-1.64861,54.980778],"type":"Point"}
 }

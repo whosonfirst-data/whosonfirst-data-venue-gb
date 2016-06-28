@@ -2,13 +2,14 @@
   "id": 286733173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.795294,51.528656,-1.795294,51.528656",
     "geom:latitude":51.528656,
     "geom:longitude":-1.795294,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Barcelona Crescent, Wroughton",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286733173,
-    "wof:lastmodified":1449015578,
+    "wof:lastmodified":1466276991,
     "wof:name":"Wroughton Developments",
     "wof:parent_id":85791513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.795294,51.528656,-1.795294,51.528656],
+  "bbox": [
+    -1.795294,
+    51.528656,
+    -1.795294,
+    51.528656
+],
   "geometry": {"coordinates":[-1.795294,51.528656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219440903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.195645,51.249653,-2.195645,51.249653",
     "geom:latitude":51.249653,
     "geom:longitude":-2.195645,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Leigh Close",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219440903,
-    "wof:lastmodified":1449071635,
+    "wof:lastmodified":1466257778,
     "wof:name":"Tony's Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "private"
     ]
 },
-  "bbox": [-2.195645,51.249653,-2.195645,51.249653],
+  "bbox": [
+    -2.195645,
+    51.249653,
+    -2.195645,
+    51.249653
+],
   "geometry": {"coordinates":[-2.195645,51.249653],"type":"Point"}
 }

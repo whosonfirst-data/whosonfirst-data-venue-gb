@@ -2,13 +2,14 @@
   "id": 287200265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.218319,50.377533,-4.218319,50.377533",
     "geom:latitude":50.377533,
     "geom:longitude":-4.218319,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Langdon Down Way",
     "sg:city":"Torpoint",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":287200265,
-    "wof:lastmodified":1449001024,
+    "wof:lastmodified":1466269166,
     "wof:name":"Western Counties Business News",
     "wof:parent_id":85789111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-4.218319,50.377533,-4.218319,50.377533],
+  "bbox": [
+    -4.218319,
+    50.377533,
+    -4.218319,
+    50.377533
+],
   "geometry": {"coordinates":[-4.218319,50.377533],"type":"Point"}
 }

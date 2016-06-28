@@ -2,13 +2,14 @@
   "id": 202816227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.139286,55.932682,-3.139286,55.932682",
     "geom:latitude":55.932682,
     "geom:longitude":-3.139286,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Niddrie Mains Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202816227,
-    "wof:lastmodified":1449061593,
+    "wof:lastmodified":1466259353,
     "wof:name":"Gold Rush Amusements",
     "wof:parent_id":85786847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "activity"
     ]
 },
-  "bbox": [-3.139286,55.932682,-3.139286,55.932682],
+  "bbox": [
+    -3.139286,
+    55.932682,
+    -3.139286,
+    55.932682
+],
   "geometry": {"coordinates":[-3.139286,55.932682],"type":"Point"}
 }

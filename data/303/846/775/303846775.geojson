@@ -2,13 +2,14 @@
   "id": 303846775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.773464,53.775944,-1.773464,53.775944",
     "geom:latitude":53.775944,
     "geom:longitude":-1.773464,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Southfield Lane",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303846775,
-    "wof:lastmodified":1449000014,
+    "wof:lastmodified":1466283775,
     "wof:name":"The Cabbage Patch",
     "wof:parent_id":85791453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.773464,53.775944,-1.773464,53.775944],
+  "bbox": [
+    -1.773464,
+    53.775944,
+    -1.773464,
+    53.775944
+],
   "geometry": {"coordinates":[-1.773464,53.775944],"type":"Point"}
 }

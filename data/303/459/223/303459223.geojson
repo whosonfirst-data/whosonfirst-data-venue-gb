@@ -2,13 +2,14 @@
   "id": 303459223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.51116,52.28022,-1.51116,52.28022",
     "geom:latitude":52.28022,
     "geom:longitude":-1.51116,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"No 4 Weston Close",
     "sg:city":"Leamington Spa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303459223,
-    "wof:lastmodified":1448999113,
+    "wof:lastmodified":1466276750,
     "wof:name":"0001 ABC Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-1.51116,52.28022,-1.51116,52.28022],
+  "bbox": [
+    -1.51116,
+    52.28022,
+    -1.51116,
+    52.28022
+],
   "geometry": {"coordinates":[-1.51116,52.28022],"type":"Point"}
 }

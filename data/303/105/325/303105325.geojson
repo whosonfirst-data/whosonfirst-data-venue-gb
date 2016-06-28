@@ -2,13 +2,14 @@
   "id": 303105325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.271643,52.137085,-1.271643,52.137085",
     "geom:latitude":52.137085,
     "geom:longitude":-1.271643,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Byfield Road, Chipping Warden",
     "sg:city":"Banbury",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303105325,
-    "wof:lastmodified":1448999047,
+    "wof:lastmodified":1466265829,
     "wof:name":"Chipping Warden Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "authority"
     ]
 },
-  "bbox": [-1.271643,52.137085,-1.271643,52.137085],
+  "bbox": [
+    -1.271643,
+    52.137085,
+    -1.271643,
+    52.137085
+],
   "geometry": {"coordinates":[-1.271643,52.137085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186461499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.243642,55.883972,-4.243642,55.883972",
     "geom:latitude":55.883972,
     "geom:longitude":-4.243642,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Finlas Street, Cowlaires Industrial Estate",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186461499,
-    "wof:lastmodified":1449051393,
+    "wof:lastmodified":1466258630,
     "wof:name":"Scottish Books Source",
     "wof:parent_id":85790559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-4.243642,55.883972,-4.243642,55.883972],
+  "bbox": [
+    -4.243642,
+    55.883972,
+    -4.243642,
+    55.883972
+],
   "geometry": {"coordinates":[-4.243642,55.883972],"type":"Point"}
 }

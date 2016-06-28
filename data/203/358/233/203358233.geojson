@@ -2,13 +2,14 @@
   "id": 203358233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.322209,53.426701,-2.322209,53.426701",
     "geom:latitude":53.426701,
     "geom:longitude":-2.322209,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 School Road",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203358233,
-    "wof:lastmodified":1449025721,
+    "wof:lastmodified":1466258832,
     "wof:name":"Greggs Bakery",
     "wof:parent_id":85785369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-2.322209,53.426701,-2.322209,53.426701],
+  "bbox": [
+    -2.322209,
+    53.426701,
+    -2.322209,
+    53.426701
+],
   "geometry": {"coordinates":[-2.322209,53.426701],"type":"Point"}
 }

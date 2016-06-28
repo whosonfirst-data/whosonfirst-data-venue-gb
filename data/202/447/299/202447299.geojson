@@ -2,13 +2,14 @@
   "id": 202447299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.238019,52.904442,-1.238019,52.904442",
     "geom:latitude":52.904442,
     "geom:longitude":-1.238019,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3, Eldon Road Industrial Estate, Attenborough",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202447299,
-    "wof:lastmodified":1449061884,
+    "wof:lastmodified":1466253334,
     "wof:name":"F H Brundle",
     "wof:parent_id":85785397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-1.238019,52.904442,-1.238019,52.904442],
+  "bbox": [
+    -1.238019,
+    52.904442,
+    -1.238019,
+    52.904442
+],
   "geometry": {"coordinates":[-1.238019,52.904442],"type":"Point"}
 }

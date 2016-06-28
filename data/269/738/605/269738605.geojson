@@ -2,13 +2,14 @@
   "id": 269738605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.887409,52.481575,-1.887409,52.481575",
     "geom:latitude":52.481575,
     "geom:longitude":-1.887409,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Albert Street",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269738605,
-    "wof:lastmodified":1449037974,
+    "wof:lastmodified":1466267819,
     "wof:name":"T N T Express (Uk)",
     "wof:parent_id":85861275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-1.887409,52.481575,-1.887409,52.481575],
+  "bbox": [
+    -1.887409,
+    52.481575,
+    -1.887409,
+    52.481575
+],
   "geometry": {"coordinates":[-1.887409,52.481575],"type":"Point"}
 }

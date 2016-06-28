@@ -2,13 +2,14 @@
   "id": 118770135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.295168,55.847725,-4.295168,55.847725",
     "geom:latitude":55.847725,
     "geom:longitude":-4.295168,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Academy Park, Gower Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118770135,
-    "wof:lastmodified":1449054574,
+    "wof:lastmodified":1466270536,
     "wof:name":"Glasgow City Mission",
     "wof:parent_id":85789887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.295168,55.847725,-4.295168,55.847725],
+  "bbox": [
+    -4.295168,
+    55.847725,
+    -4.295168,
+    55.847725
+],
   "geometry": {"coordinates":[-4.295168,55.847725],"type":"Point"}
 }

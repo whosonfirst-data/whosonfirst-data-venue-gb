@@ -2,13 +2,14 @@
   "id": 320635591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.916695,56.468483,-2.916695,56.468483",
     "geom:latitude":56.468483,
     "geom:longitude":-2.916695,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dundee Office, 310 Broughty Ferry Road",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320635591,
-    "wof:lastmodified":1449012870,
+    "wof:lastmodified":1466283143,
     "wof:name":"The Educational Institute of Scotland",
     "wof:parent_id":85791489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trade"
     ]
 },
-  "bbox": [-2.916695,56.468483,-2.916695,56.468483],
+  "bbox": [
+    -2.916695,
+    56.468483,
+    -2.916695,
+    56.468483
+],
   "geometry": {"coordinates":[-2.916695,56.468483],"type":"Point"}
 }

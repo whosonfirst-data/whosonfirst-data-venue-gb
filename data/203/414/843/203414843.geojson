@@ -2,13 +2,14 @@
   "id": 203414843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.3586,50.878994,-1.3586,50.878994",
     "geom:latitude":50.878994,
     "geom:longitude":-1.3586,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Abbey Hill, Netley Abbey",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":203414843,
-    "wof:lastmodified":1449025803,
+    "wof:lastmodified":1466259828,
     "wof:name":"Abbey House Nursing Home",
     "wof:parent_id":85791809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-1.3586,50.878994,-1.3586,50.878994],
+  "bbox": [
+    -1.3586,
+    50.878994,
+    -1.3586,
+    50.878994
+],
   "geometry": {"coordinates":[-1.3586,50.878994],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119099903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.19471,55.936588,-3.19471,55.936588",
     "geom:latitude":55.936588,
     "geom:longitude":-3.19471,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Marchmont Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119099903,
-    "wof:lastmodified":1449042619,
+    "wof:lastmodified":1466258786,
     "wof:name":"Marchmont Take Away",
     "wof:parent_id":85788975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.19471,55.936588,-3.19471,55.936588],
+  "bbox": [
+    -3.19471,
+    55.936588,
+    -3.19471,
+    55.936588
+],
   "geometry": {"coordinates":[-3.19471,55.936588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286279071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.445079,55.009651,-1.445079,55.009651",
     "geom:latitude":55.009651,
     "geom:longitude":-1.445079,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Howard Street",
     "sg:city":"North Shields",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286279071,
-    "wof:lastmodified":1449016541,
+    "wof:lastmodified":1466262850,
     "wof:name":"Alexanders",
     "wof:parent_id":85792733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-1.445079,55.009651,-1.445079,55.009651],
+  "bbox": [
+    -1.445079,
+    55.009651,
+    -1.445079,
+    55.009651
+],
   "geometry": {"coordinates":[-1.445079,55.009651],"type":"Point"}
 }

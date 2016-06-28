@@ -2,13 +2,14 @@
   "id": 303501823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.219368,51.574524,-3.219368,51.574524",
     "geom:latitude":51.574524,
     "geom:longitude":-3.219368,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lawrence House, Cardiff Road",
     "sg:city":"Caerphilly",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303501823,
-    "wof:lastmodified":1449000587,
+    "wof:lastmodified":1466278009,
     "wof:name":"Zeidman & Davis",
     "wof:parent_id":85864249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-3.219368,51.574524,-3.219368,51.574524],
+  "bbox": [
+    -3.219368,
+    51.574524,
+    -3.219368,
+    51.574524
+],
   "geometry": {"coordinates":[-3.219368,51.574524],"type":"Point"}
 }

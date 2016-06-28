@@ -2,13 +2,14 @@
   "id": 219773451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.420509,54.947536,-1.420509,54.947536",
     "geom:latitude":54.947536,
     "geom:longitude":-1.420509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Station Terrace",
     "sg:city":"East Boldon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219773451,
-    "wof:lastmodified":1449070842,
+    "wof:lastmodified":1466263252,
     "wof:name":"Beaumont Wines",
     "wof:parent_id":85793313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.420509,54.947536,-1.420509,54.947536],
+  "bbox": [
+    -1.420509,
+    54.947536,
+    -1.420509,
+    54.947536
+],
   "geometry": {"coordinates":[-1.420509,54.947536],"type":"Point"}
 }

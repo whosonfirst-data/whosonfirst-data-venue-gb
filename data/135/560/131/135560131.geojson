@@ -2,13 +2,14 @@
   "id": 135560131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.293826,53.595257,-1.293826,53.595257",
     "geom:latitude":53.595257,
     "geom:longitude":-1.293826,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10b Exchange Street, South Elmsall",
     "sg:city":"Pontefract",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135560131,
-    "wof:lastmodified":1449023310,
+    "wof:lastmodified":1466279833,
     "wof:name":"Prince of Wales Hospice Shop",
     "wof:parent_id":85683685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.293826,53.595257,-1.293826,53.595257],
+  "bbox": [
+    -1.293826,
+    53.595257,
+    -1.293826,
+    53.595257
+],
   "geometry": {"coordinates":[-1.293826,53.595257],"type":"Point"}
 }

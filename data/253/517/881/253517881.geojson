@@ -2,13 +2,14 @@
   "id": 253517881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.48652,53.389874,-1.48652,53.389874",
     "geom:latitude":53.389874,
     "geom:longitude":-1.48652,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Upperthorpe Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253517881,
-    "wof:lastmodified":1449064514,
+    "wof:lastmodified":1466268447,
     "wof:name":"IMB Electrical",
     "wof:parent_id":85793123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-1.48652,53.389874,-1.48652,53.389874],
+  "bbox": [
+    -1.48652,
+    53.389874,
+    -1.48652,
+    53.389874
+],
   "geometry": {"coordinates":[-1.48652,53.389874],"type":"Point"}
 }

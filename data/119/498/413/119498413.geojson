@@ -2,13 +2,14 @@
   "id": 119498413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.103078,51.016087,-3.103078,51.016087",
     "geom:latitude":51.016087,
     "geom:longitude":-3.103078,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 North Street",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119498413,
-    "wof:lastmodified":1449042864,
+    "wof:lastmodified":1466287088,
     "wof:name":"Hermes Health Studio",
     "wof:parent_id":101751591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.103078,51.016087,-3.103078,51.016087],
+  "bbox": [
+    -3.103078,
+    51.016087,
+    -3.103078,
+    51.016087
+],
   "geometry": {"coordinates":[-3.103078,51.016087],"type":"Point"}
 }

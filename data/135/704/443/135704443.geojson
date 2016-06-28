@@ -2,13 +2,14 @@
   "id": 135704443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.242548,50.973652,-3.242548,50.973652",
     "geom:latitude":50.973652,
     "geom:longitude":-3.242548,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Rockwell Green",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135704443,
-    "wof:lastmodified":1449021785,
+    "wof:lastmodified":1466286079,
     "wof:name":"J.A Padfield",
     "wof:parent_id":101852489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.242548,50.973652,-3.242548,50.973652],
+  "bbox": [
+    -3.242548,
+    50.973652,
+    -3.242548,
+    50.973652
+],
   "geometry": {"coordinates":[-3.242548,50.973652],"type":"Point"}
 }

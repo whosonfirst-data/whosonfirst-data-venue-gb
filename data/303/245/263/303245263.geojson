@@ -2,13 +2,14 @@
   "id": 303245263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.212892,51.725563,-1.212892,51.725563",
     "geom:latitude":51.725563,
     "geom:longitude":-1.212892,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Herschel Cres",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303245263,
-    "wof:lastmodified":1449000487,
+    "wof:lastmodified":1466270210,
     "wof:name":"G Woods",
     "wof:parent_id":85786815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.212892,51.725563,-1.212892,51.725563],
+  "bbox": [
+    -1.212892,
+    51.725563,
+    -1.212892,
+    51.725563
+],
   "geometry": {"coordinates":[-1.212892,51.725563],"type":"Point"}
 }

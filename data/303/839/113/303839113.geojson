@@ -2,13 +2,14 @@
   "id": 303839113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.711764,53.797459,-1.711764,53.797459",
     "geom:latitude":53.797459,
     "geom:longitude":-1.711764,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Leeds Road",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303839113,
-    "wof:lastmodified":1448999590,
+    "wof:lastmodified":1466283416,
     "wof:name":"St.Peters Nursing Home",
     "wof:parent_id":85790989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-1.711764,53.797459,-1.711764,53.797459],
+  "bbox": [
+    -1.711764,
+    53.797459,
+    -1.711764,
+    53.797459
+],
   "geometry": {"coordinates":[-1.711764,53.797459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320725311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.592579,55.053871,-1.592579,55.053871",
     "geom:latitude":55.053871,
     "geom:longitude":-1.592579,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Weetslade Rd, Dudley",
     "sg:city":"Cramlington",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320725311,
-    "wof:lastmodified":1449012169,
+    "wof:lastmodified":1466284349,
     "wof:name":"Dudley People's Centre",
     "wof:parent_id":85791517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "centre"
     ]
 },
-  "bbox": [-1.592579,55.053871,-1.592579,55.053871],
+  "bbox": [
+    -1.592579,
+    55.053871,
+    -1.592579,
+    55.053871
+],
   "geometry": {"coordinates":[-1.592579,55.053871],"type":"Point"}
 }

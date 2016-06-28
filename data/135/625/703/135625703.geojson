@@ -2,13 +2,14 @@
   "id": 135625703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.61591,50.534405,-3.61591,50.534405",
     "geom:latitude":50.534405,
     "geom:longitude":-3.61591,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Old Exeter Road",
     "sg:city":"Newton Abbot",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135625703,
-    "wof:lastmodified":1449024036,
+    "wof:lastmodified":1466283768,
     "wof:name":"Knowles Hill School",
     "wof:parent_id":85683773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.61591,50.534405,-3.61591,50.534405],
+  "bbox": [
+    -3.61591,
+    50.534405,
+    -3.61591,
+    50.534405
+],
   "geometry": {"coordinates":[-3.61591,50.534405],"type":"Point"}
 }

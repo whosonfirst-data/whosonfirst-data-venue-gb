@@ -2,13 +2,14 @@
   "id": 303245023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.592688,55.574574,-4.592688,55.574574",
     "geom:latitude":55.574574,
     "geom:longitude":-4.592688,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Main Street, Dundonald",
     "sg:city":"Kilmarnock",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303245023,
-    "wof:lastmodified":1449000487,
+    "wof:lastmodified":1466270206,
     "wof:name":"SOUTH AYRSHIRE COUNCIL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "room"
     ]
 },
-  "bbox": [-4.592688,55.574574,-4.592688,55.574574],
+  "bbox": [
+    -4.592688,
+    55.574574,
+    -4.592688,
+    55.574574
+],
   "geometry": {"coordinates":[-4.592688,55.574574],"type":"Point"}
 }

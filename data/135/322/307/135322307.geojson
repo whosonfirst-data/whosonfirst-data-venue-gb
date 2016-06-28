@@ -2,13 +2,14 @@
   "id": 135322307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.684241,51.067379,0.684241,51.067379",
     "geom:latitude":51.067379,
     "geom:longitude":0.684241,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"102 High Street",
     "sg:city":"Tenterden",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135322307,
-    "wof:lastmodified":1449020947,
+    "wof:lastmodified":1466253898,
     "wof:name":"Lambert & Foster",
     "wof:parent_id":101854661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.684241,51.067379,0.684241,51.067379],
+  "bbox": [
+    0.684241,
+    51.067379,
+    0.684241,
+    51.067379
+],
   "geometry": {"coordinates":[0.684241,51.067379],"type":"Point"}
 }

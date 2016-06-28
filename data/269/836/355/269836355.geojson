@@ -2,13 +2,14 @@
   "id": 269836355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.190563,55.945583,-3.190563,55.945583",
     "geom:latitude":55.945583,
     "geom:longitude":-3.190563,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Teviot Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269836355,
-    "wof:lastmodified":1449037704,
+    "wof:lastmodified":1466270738,
     "wof:name":"Rusty Zip",
     "wof:parent_id":85861505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "second-hand"
     ]
 },
-  "bbox": [-3.190563,55.945583,-3.190563,55.945583],
+  "bbox": [
+    -3.190563,
+    55.945583,
+    -3.190563,
+    55.945583
+],
   "geometry": {"coordinates":[-3.190563,55.945583],"type":"Point"}
 }

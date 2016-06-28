@@ -2,13 +2,14 @@
   "id": 303245005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.595781,55.578468,-4.595781,55.578468",
     "geom:latitude":55.578468,
     "geom:longitude":-4.595781,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Drybridge Road, Dundonald",
     "sg:city":"Kilmarnock",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303245005,
-    "wof:lastmodified":1449000486,
+    "wof:lastmodified":1466270205,
     "wof:name":"Steven Kanny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "agent"
     ]
 },
-  "bbox": [-4.595781,55.578468,-4.595781,55.578468],
+  "bbox": [
+    -4.595781,
+    55.578468,
+    -4.595781,
+    55.578468
+],
   "geometry": {"coordinates":[-4.595781,55.578468],"type":"Point"}
 }

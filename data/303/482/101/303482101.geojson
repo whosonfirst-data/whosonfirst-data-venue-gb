@@ -2,13 +2,14 @@
   "id": 303482101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.581676,54.805939,-1.581676,54.805939",
     "geom:latitude":54.805939,
     "geom:longitude":-1.581676,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2 Abbey House, Abbeywoods Business Park, Pity Me",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303482101,
-    "wof:lastmodified":1448998987,
+    "wof:lastmodified":1466277327,
     "wof:name":"Garwyn Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "friendly"
     ]
 },
-  "bbox": [-1.581676,54.805939,-1.581676,54.805939],
+  "bbox": [
+    -1.581676,
+    54.805939,
+    -1.581676,
+    54.805939
+],
   "geometry": {"coordinates":[-1.581676,54.805939],"type":"Point"}
 }

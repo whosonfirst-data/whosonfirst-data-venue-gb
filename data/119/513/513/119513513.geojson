@@ -2,13 +2,14 @@
   "id": 119513513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.384139,50.983196,-1.384139,50.983196",
     "geom:latitude":50.983196,
     "geom:longitude":-1.384139,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Hursley Rd, Chandlers Ford",
     "sg:city":"Eastleigh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119513513,
-    "wof:lastmodified":1449042648,
+    "wof:lastmodified":1466287237,
     "wof:name":"Tonymoto",
     "wof:parent_id":85792829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.384139,50.983196,-1.384139,50.983196],
+  "bbox": [
+    -1.384139,
+    50.983196,
+    -1.384139,
+    50.983196
+],
   "geometry": {"coordinates":[-1.384139,50.983196],"type":"Point"}
 }

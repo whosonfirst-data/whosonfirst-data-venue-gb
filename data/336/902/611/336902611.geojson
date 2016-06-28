@@ -2,13 +2,14 @@
   "id": 336902611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.77561,55.67345,-3.77561,55.67345",
     "geom:latitude":55.67345,
     "geom:longitude":-3.77561,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Care Of South Lanarkshire Council, South Vennal",
     "sg:city":"Lanark",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336902611,
-    "wof:lastmodified":1448997734,
+    "wof:lastmodified":1466280292,
     "wof:name":"Victim Support",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "counselling"
     ]
 },
-  "bbox": [-3.77561,55.67345,-3.77561,55.67345],
+  "bbox": [
+    -3.77561,
+    55.67345,
+    -3.77561,
+    55.67345
+],
   "geometry": {"coordinates":[-3.77561,55.67345],"type":"Point"}
 }

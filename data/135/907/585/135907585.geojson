@@ -2,13 +2,14 @@
   "id": 135907585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.306061,50.691246,-1.306061,50.691246",
     "geom:latitude":50.691246,
     "geom:longitude":-1.306061,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Evans Williams Ct, Whitcombe Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135907585,
-    "wof:lastmodified":1449023773,
+    "wof:lastmodified":1466288130,
     "wof:name":"Evans Williams",
     "wof:parent_id":101852311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.306061,50.691246,-1.306061,50.691246],
+  "bbox": [
+    -1.306061,
+    50.691246,
+    -1.306061,
+    50.691246
+],
   "geometry": {"coordinates":[-1.306061,50.691246],"type":"Point"}
 }

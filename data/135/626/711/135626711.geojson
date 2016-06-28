@@ -2,13 +2,14 @@
   "id": 135626711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.123165,55.955154,-3.123165,55.955154",
     "geom:latitude":55.955154,
     "geom:longitude":-3.123165,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Baileyfield Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135626711,
-    "wof:lastmodified":1449023991,
+    "wof:lastmodified":1466283773,
     "wof:name":"Laidlaw Division",
     "wof:parent_id":85789915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.123165,55.955154,-3.123165,55.955154],
+  "bbox": [
+    -3.123165,
+    55.955154,
+    -3.123165,
+    55.955154
+],
   "geometry": {"coordinates":[-3.123165,55.955154],"type":"Point"}
 }

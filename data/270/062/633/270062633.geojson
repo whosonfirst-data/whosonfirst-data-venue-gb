@@ -2,13 +2,14 @@
   "id": 270062633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.11694,55.934582,-3.11694,55.934582",
     "geom:latitude":55.934582,
     "geom:longitude":-3.11694,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6 Eastern Industrial Estate, New Craighall Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270062633,
-    "wof:lastmodified":1449010931,
+    "wof:lastmodified":1466262357,
     "wof:name":"The Print House",
     "wof:parent_id":85861487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-3.11694,55.934582,-3.11694,55.934582],
+  "bbox": [
+    -3.11694,
+    55.934582,
+    -3.11694,
+    55.934582
+],
   "geometry": {"coordinates":[-3.11694,55.934582],"type":"Point"}
 }

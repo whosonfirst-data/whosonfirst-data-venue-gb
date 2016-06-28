@@ -2,13 +2,14 @@
   "id": 203400775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.273598,55.878265,-4.273598,55.878265",
     "geom:latitude":55.878265,
     "geom:longitude":-4.273598,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50-52 Wilton Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":203400775,
-    "wof:lastmodified":1449025121,
+    "wof:lastmodified":1466259573,
     "wof:name":"Wilton Store",
     "wof:parent_id":85792655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-4.273598,55.878265,-4.273598,55.878265],
+  "bbox": [
+    -4.273598,
+    55.878265,
+    -4.273598,
+    55.878265
+],
   "geometry": {"coordinates":[-4.273598,55.878265],"type":"Point"}
 }

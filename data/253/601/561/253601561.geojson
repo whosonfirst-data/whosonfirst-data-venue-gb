@@ -2,13 +2,14 @@
   "id": 253601561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.490517,53.988651,-1.490517,53.988651",
     "geom:latitude":53.988651,
     "geom:longitude":-1.490517,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Dalby Avenue",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253601561,
-    "wof:lastmodified":1449064148,
+    "wof:lastmodified":1466271161,
     "wof:name":"Crawford Bird",
     "wof:parent_id":85790715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glazier"
     ]
 },
-  "bbox": [-1.490517,53.988651,-1.490517,53.988651],
+  "bbox": [
+    -1.490517,
+    53.988651,
+    -1.490517,
+    53.988651
+],
   "geometry": {"coordinates":[-1.490517,53.988651],"type":"Point"}
 }

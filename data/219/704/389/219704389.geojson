@@ -2,13 +2,14 @@
   "id": 219704389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.500144,52.417934,-1.500144,52.417934",
     "geom:latitude":52.417934,
     "geom:longitude":-1.500144,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, Stoney Stanton Rd",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219704389,
-    "wof:lastmodified":1449071320,
+    "wof:lastmodified":1466262123,
     "wof:name":"One Stop",
     "wof:parent_id":85792035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.500144,52.417934,-1.500144,52.417934],
+  "bbox": [
+    -1.500144,
+    52.417934,
+    -1.500144,
+    52.417934
+],
   "geometry": {"coordinates":[-1.500144,52.417934],"type":"Point"}
 }

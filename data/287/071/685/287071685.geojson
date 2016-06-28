@@ -2,13 +2,14 @@
   "id": 287071685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.111536,55.950329,-3.111536,55.950329",
     "geom:latitude":55.950329,
     "geom:longitude":-3.111536,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Windsor Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":287071685,
-    "wof:lastmodified":1449001233,
+    "wof:lastmodified":1466265167,
     "wof:name":"Windsor Windows",
     "wof:parent_id":85789915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glazier"
     ]
 },
-  "bbox": [-3.111536,55.950329,-3.111536,55.950329],
+  "bbox": [
+    -3.111536,
+    55.950329,
+    -3.111536,
+    55.950329
+],
   "geometry": {"coordinates":[-3.111536,55.950329],"type":"Point"}
 }

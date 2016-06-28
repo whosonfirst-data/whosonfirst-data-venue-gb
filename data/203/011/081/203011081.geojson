@@ -2,13 +2,14 @@
   "id": 203011081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.053704,54.609119,-1.053704,54.609119",
     "geom:latitude":54.609119,
     "geom:longitude":-1.053704,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Borough Park, Redcar Lane",
     "sg:city":"Redcar",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203011081,
-    "wof:lastmodified":1449026489,
+    "wof:lastmodified":1466252841,
     "wof:name":"Borough Park Bowling Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-1.053704,54.609119,-1.053704,54.609119],
+  "bbox": [
+    -1.053704,
+    54.609119,
+    -1.053704,
+    54.609119
+],
   "geometry": {"coordinates":[-1.053704,54.609119],"type":"Point"}
 }

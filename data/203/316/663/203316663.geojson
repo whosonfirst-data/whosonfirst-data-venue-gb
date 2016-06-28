@@ -2,13 +2,14 @@
   "id": 203316663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.655248,51.946545,-0.655248,51.946545",
     "geom:latitude":51.946545,
     "geom:longitude":-0.655248,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Thomas Street",
     "sg:city":"Leighton Buzzard",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203316663,
-    "wof:lastmodified":1449026264,
+    "wof:lastmodified":1466258117,
     "wof:name":"Pete Farrar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "garage"
     ]
 },
-  "bbox": [-0.655248,51.946545,-0.655248,51.946545],
+  "bbox": [
+    -0.655248,
+    51.946545,
+    -0.655248,
+    51.946545
+],
   "geometry": {"coordinates":[-0.655248,51.946545],"type":"Point"}
 }

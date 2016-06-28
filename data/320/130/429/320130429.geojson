@@ -2,13 +2,14 @@
   "id": 320130429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.553202,55.836166,-4.553202,55.836166",
     "geom:latitude":55.836166,
     "geom:longitude":-4.553202,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Steeple St",
     "sg:city":"Johnstone",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320130429,
-    "wof:lastmodified":1449012559,
+    "wof:lastmodified":1466272003,
     "wof:name":"John Balchin",
     "wof:parent_id":85792519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.553202,55.836166,-4.553202,55.836166],
+  "bbox": [
+    -4.553202,
+    55.836166,
+    -4.553202,
+    55.836166
+],
   "geometry": {"coordinates":[-4.553202,55.836166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119403425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.231006,52.636875,-1.231006,52.636875",
     "geom:latitude":52.636875,
     "geom:longitude":-1.231006,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"84-86 Main Street, Kirby Muxloe",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119403425,
-    "wof:lastmodified":1449043160,
+    "wof:lastmodified":1466285246,
     "wof:name":"Talking Heads",
     "wof:parent_id":85787615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.231006,52.636875,-1.231006,52.636875],
+  "bbox": [
+    -1.231006,
+    52.636875,
+    -1.231006,
+    52.636875
+],
   "geometry": {"coordinates":[-1.231006,52.636875],"type":"Point"}
 }

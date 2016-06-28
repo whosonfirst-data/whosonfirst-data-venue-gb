@@ -2,13 +2,14 @@
   "id": 203308819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.951584,50.723225,-1.951584,50.723225",
     "geom:latitude":50.723225,
     "geom:longitude":-1.951584,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Station Road, Lower Parkstone",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":203308819,
-    "wof:lastmodified":1449026893,
+    "wof:lastmodified":1466258013,
     "wof:name":"Crown Corner News",
     "wof:parent_id":85789727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.951584,50.723225,-1.951584,50.723225],
+  "bbox": [
+    -1.951584,
+    50.723225,
+    -1.951584,
+    50.723225
+],
   "geometry": {"coordinates":[-1.951584,50.723225],"type":"Point"}
 }

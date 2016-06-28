@@ -2,13 +2,14 @@
   "id": 135581871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.1673,51.022011,-3.1673,51.022011",
     "geom:latitude":51.022011,
     "geom:longitude":-3.1673,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Allerford Cotts, Norton Fitzwarren",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135581871,
-    "wof:lastmodified":1449021619,
+    "wof:lastmodified":1466281618,
     "wof:name":"County Security",
     "wof:parent_id":85684013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.1673,51.022011,-3.1673,51.022011],
+  "bbox": [
+    -3.1673,
+    51.022011,
+    -3.1673,
+    51.022011
+],
   "geometry": {"coordinates":[-3.1673,51.022011],"type":"Point"}
 }

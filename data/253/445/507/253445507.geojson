@@ -2,13 +2,14 @@
   "id": 253445507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.374831,55.914146,-4.374831,55.914146",
     "geom:latitude":55.914146,
     "geom:longitude":-4.374831,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"80-90 Kinfauns Drive",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253445507,
-    "wof:lastmodified":1449063215,
+    "wof:lastmodified":1466266598,
     "wof:name":"Drumchapel Health Centre",
     "wof:parent_id":85785547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "practitioners"
     ]
 },
-  "bbox": [-4.374831,55.914146,-4.374831,55.914146],
+  "bbox": [
+    -4.374831,
+    55.914146,
+    -4.374831,
+    55.914146
+],
   "geometry": {"coordinates":[-4.374831,55.914146],"type":"Point"}
 }

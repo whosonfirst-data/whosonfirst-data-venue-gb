@@ -2,13 +2,14 @@
   "id": 320723925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.747492,53.789524,-1.747492,53.789524",
     "geom:latitude":53.789524,
     "geom:longitude":-1.747492,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Bolling Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320723925,
-    "wof:lastmodified":1449013441,
+    "wof:lastmodified":1466284122,
     "wof:name":"Harris & Greenwood Ltd",
     "wof:parent_id":85788797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "timber"
     ]
 },
-  "bbox": [-1.747492,53.789524,-1.747492,53.789524],
+  "bbox": [
+    -1.747492,
+    53.789524,
+    -1.747492,
+    53.789524
+],
   "geometry": {"coordinates":[-1.747492,53.789524],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202690219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.055374,50.837334,-1.055374,50.837334",
     "geom:latitude":50.837334,
     "geom:longitude":-1.055374,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Chatsworth Avenue, Cosham",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202690219,
-    "wof:lastmodified":1449061452,
+    "wof:lastmodified":1466257299,
     "wof:name":"Wordwrite",
     "wof:parent_id":85861961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "centre"
     ]
 },
-  "bbox": [-1.055374,50.837334,-1.055374,50.837334],
+  "bbox": [
+    -1.055374,
+    50.837334,
+    -1.055374,
+    50.837334
+],
   "geometry": {"coordinates":[-1.055374,50.837334],"type":"Point"}
 }

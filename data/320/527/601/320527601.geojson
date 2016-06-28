@@ -2,13 +2,14 @@
   "id": 320527601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.552345,53.44643,-1.552345,53.44643",
     "geom:latitude":53.44643,
     "geom:longitude":-1.552345,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wharncliffe Service Station, Main Rd, Wharncliffe Side",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320527601,
-    "wof:lastmodified":1449014194,
+    "wof:lastmodified":1466281758,
     "wof:name":"Cloverleaf Car Sales",
     "wof:parent_id":85787791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-1.552345,53.44643,-1.552345,53.44643],
+  "bbox": [
+    -1.552345,
+    53.44643,
+    -1.552345,
+    53.44643
+],
   "geometry": {"coordinates":[-1.552345,53.44643],"type":"Point"}
 }

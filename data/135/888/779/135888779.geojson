@@ -2,13 +2,14 @@
   "id": 135888779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.053405,52.859676,-3.053405,52.859676",
     "geom:latitude":52.859676,
     "geom:longitude":-3.053405,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Leg Street",
     "sg:city":"Oswestry",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135888779,
-    "wof:lastmodified":1449022904,
+    "wof:lastmodified":1466288037,
     "wof:name":"Pizza Two Four",
     "wof:parent_id":101874077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.053405,52.859676,-3.053405,52.859676],
+  "bbox": [
+    -3.053405,
+    52.859676,
+    -3.053405,
+    52.859676
+],
   "geometry": {"coordinates":[-3.053405,52.859676],"type":"Point"}
 }

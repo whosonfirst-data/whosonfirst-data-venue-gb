@@ -2,13 +2,14 @@
   "id": 320707695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.405883,50.911892,-1.405883,50.911892",
     "geom:latitude":50.911892,
     "geom:longitude":-1.405883,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Bedford Place",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320707695,
-    "wof:lastmodified":1449014382,
+    "wof:lastmodified":1466283975,
     "wof:name":"Ted's Fish & Chips",
     "wof:parent_id":85792821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-1.405883,50.911892,-1.405883,50.911892],
+  "bbox": [
+    -1.405883,
+    50.911892,
+    -1.405883,
+    50.911892
+],
   "geometry": {"coordinates":[-1.405883,50.911892],"type":"Point"}
 }

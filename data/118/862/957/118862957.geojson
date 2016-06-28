@@ -2,13 +2,14 @@
   "id": 118862957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.255015,50.864136,-1.255015,50.864136",
     "geom:latitude":50.864136,
     "geom:longitude":-1.255015,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Southampton Rd, Titchfield",
     "sg:city":"Fareham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118862957,
-    "wof:lastmodified":1449054590,
+    "wof:lastmodified":1466277314,
     "wof:name":"Amazon",
     "wof:parent_id":85861211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.255015,50.864136,-1.255015,50.864136],
+  "bbox": [
+    -1.255015,
+    50.864136,
+    -1.255015,
+    50.864136
+],
   "geometry": {"coordinates":[-1.255015,50.864136],"type":"Point"}
 }

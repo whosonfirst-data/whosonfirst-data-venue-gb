@@ -2,13 +2,14 @@
   "id": 303669095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.045518,51.590096,-3.045518,51.590096",
     "geom:latitude":51.590096,
     "geom:longitude":-3.045518,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cefn Road, Rogerstone",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303669095,
-    "wof:lastmodified":1448998400,
+    "wof:lastmodified":1466281322,
     "wof:name":"Rising Sun",
     "wof:parent_id":85785517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "activity"
     ]
 },
-  "bbox": [-3.045518,51.590096,-3.045518,51.590096],
+  "bbox": [
+    -3.045518,
+    51.590096,
+    -3.045518,
+    51.590096
+],
   "geometry": {"coordinates":[-3.045518,51.590096],"type":"Point"}
 }

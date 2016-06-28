@@ -2,13 +2,14 @@
   "id": 270002791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.546949,55.4804,-2.546949,55.4804",
     "geom:latitude":55.4804,
     "geom:longitude":-2.546949,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Castlegate",
     "sg:city":"Jedburgh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270002791,
-    "wof:lastmodified":1449010625,
+    "wof:lastmodified":1466260564,
     "wof:name":"Castlegate Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.546949,55.4804,-2.546949,55.4804],
+  "bbox": [
+    -2.546949,
+    55.4804,
+    -2.546949,
+    55.4804
+],
   "geometry": {"coordinates":[-2.546949,55.4804],"type":"Point"}
 }

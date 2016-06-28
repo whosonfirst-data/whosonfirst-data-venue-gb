@@ -2,13 +2,14 @@
   "id": 303753539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.174854,55.969677,-3.174854,55.969677",
     "geom:latitude":55.969677,
     "geom:longitude":-3.174854,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Tarzan House, 13 Jane St",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303753539,
-    "wof:lastmodified":1448998410,
+    "wof:lastmodified":1466282564,
     "wof:name":"Saltire Quality",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "quality"
     ]
 },
-  "bbox": [-3.174854,55.969677,-3.174854,55.969677],
+  "bbox": [
+    -3.174854,
+    55.969677,
+    -3.174854,
+    55.969677
+],
   "geometry": {"coordinates":[-3.174854,55.969677],"type":"Point"}
 }

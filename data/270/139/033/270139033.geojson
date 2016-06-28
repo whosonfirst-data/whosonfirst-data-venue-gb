@@ -2,13 +2,14 @@
   "id": 270139033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.199638,55.957462,-3.199638,55.957462",
     "geom:latitude":55.957462,
     "geom:longitude":-3.199638,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Dundas Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270139033,
-    "wof:lastmodified":1449008875,
+    "wof:lastmodified":1466264655,
     "wof:name":"William S Mitchell",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "clock"
     ]
 },
-  "bbox": [-3.199638,55.957462,-3.199638,55.957462],
+  "bbox": [
+    -3.199638,
+    55.957462,
+    -3.199638,
+    55.957462
+],
   "geometry": {"coordinates":[-3.199638,55.957462],"type":"Point"}
 }

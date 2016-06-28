@@ -2,13 +2,14 @@
   "id": 320081383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.089938,58.445858,-3.089938,58.445858",
     "geom:latitude":58.445858,
     "geom:longitude":-3.089938,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Henrietta Street",
     "sg:city":"Wick",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320081383,
-    "wof:lastmodified":1449012429,
+    "wof:lastmodified":1466270595,
     "wof:name":"Henrietta's Chip Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "chip"
     ]
 },
-  "bbox": [-3.089938,58.445858,-3.089938,58.445858],
+  "bbox": [
+    -3.089938,
+    58.445858,
+    -3.089938,
+    58.445858
+],
   "geometry": {"coordinates":[-3.089938,58.445858],"type":"Point"}
 }

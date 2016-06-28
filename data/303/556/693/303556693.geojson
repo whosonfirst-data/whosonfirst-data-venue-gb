@@ -2,13 +2,14 @@
   "id": 303556693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.801839,51.076935,-1.801839,51.076935",
     "geom:latitude":51.076935,
     "geom:longitude":-1.801839,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Ashley Road",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303556693,
-    "wof:lastmodified":1448998716,
+    "wof:lastmodified":1466279362,
     "wof:name":"Agricentre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [-1.801839,51.076935,-1.801839,51.076935],
+  "bbox": [
+    -1.801839,
+    51.076935,
+    -1.801839,
+    51.076935
+],
   "geometry": {"coordinates":[-1.801839,51.076935],"type":"Point"}
 }

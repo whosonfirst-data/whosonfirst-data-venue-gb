@@ -2,13 +2,14 @@
   "id": 135620965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.516295,50.750389,-2.516295,50.750389",
     "geom:latitude":50.750389,
     "geom:longitude":-2.516295,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Dorchester Road, Frumpton",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135620965,
-    "wof:lastmodified":1449023746,
+    "wof:lastmodified":1466283623,
     "wof:name":"Park View Garage Doors",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.516295,50.750389,-2.516295,50.750389],
+  "bbox": [
+    -2.516295,
+    50.750389,
+    -2.516295,
+    50.750389
+],
   "geometry": {"coordinates":[-2.516295,50.750389],"type":"Point"}
 }

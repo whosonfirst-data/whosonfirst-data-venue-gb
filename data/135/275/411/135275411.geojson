@@ -2,13 +2,14 @@
   "id": 135275411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.371276,53.770832,-1.371276,53.770832",
     "geom:latitude":53.770832,
     "geom:longitude":-1.371276,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Westfield Lane, Kippax",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135275411,
-    "wof:lastmodified":1449021978,
+    "wof:lastmodified":1466267833,
     "wof:name":"Leeds City Council",
     "wof:parent_id":85684321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.371276,53.770832,-1.371276,53.770832],
+  "bbox": [
+    -1.371276,
+    53.770832,
+    -1.371276,
+    53.770832
+],
   "geometry": {"coordinates":[-1.371276,53.770832],"type":"Point"}
 }

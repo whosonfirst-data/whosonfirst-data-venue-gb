@@ -2,13 +2,14 @@
   "id": 220062909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.210645,53.786961,-2.210645,53.786961",
     "geom:latitude":53.786961,
     "geom:longitude":-2.210645,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Pike Hill Post Office, 2 Brownside Road",
     "sg:city":"Burnley",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":220062909,
-    "wof:lastmodified":1449074834,
+    "wof:lastmodified":1466254030,
     "wof:name":"Pikehill Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.210645,53.786961,-2.210645,53.786961],
+  "bbox": [
+    -2.210645,
+    53.786961,
+    -2.210645,
+    53.786961
+],
   "geometry": {"coordinates":[-2.210645,53.786961],"type":"Point"}
 }

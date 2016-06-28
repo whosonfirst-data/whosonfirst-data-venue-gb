@@ -2,13 +2,14 @@
   "id": 303459715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.508849,52.279671,-1.508849,52.279671",
     "geom:latitude":52.279671,
     "geom:longitude":-1.508849,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Pennystone Clo",
     "sg:city":"Leamington Spa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303459715,
-    "wof:lastmodified":1448999115,
+    "wof:lastmodified":1466276776,
     "wof:name":"A B C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [-1.508849,52.279671,-1.508849,52.279671],
+  "bbox": [
+    -1.508849,
+    52.279671,
+    -1.508849,
+    52.279671
+],
   "geometry": {"coordinates":[-1.508849,52.279671],"type":"Point"}
 }

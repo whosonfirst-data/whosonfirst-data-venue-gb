@@ -2,13 +2,14 @@
   "id": 118835095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.487034,50.715614,-3.487034,50.715614",
     "geom:latitude":50.715614,
     "geom:longitude":-3.487034,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Spinney Close, Broadsfields",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118835095,
-    "wof:lastmodified":1449053345,
+    "wof:lastmodified":1466275364,
     "wof:name":"Andy Way",
     "wof:parent_id":85790627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.487034,50.715614,-3.487034,50.715614],
+  "bbox": [
+    -3.487034,
+    50.715614,
+    -3.487034,
+    50.715614
+],
   "geometry": {"coordinates":[-3.487034,50.715614],"type":"Point"}
 }

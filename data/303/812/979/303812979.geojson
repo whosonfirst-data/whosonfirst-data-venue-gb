@@ -2,13 +2,14 @@
   "id": 303812979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.047159,53.778477,-3.047159,53.778477",
     "geom:latitude":53.778477,
     "geom:longitude":-3.047159,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Squires Gate Lane",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303812979,
-    "wof:lastmodified":1448998186,
+    "wof:lastmodified":1466283298,
     "wof:name":"Squires Cafe",
     "wof:parent_id":85789011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "room"
     ]
 },
-  "bbox": [-3.047159,53.778477,-3.047159,53.778477],
+  "bbox": [
+    -3.047159,
+    53.778477,
+    -3.047159,
+    53.778477
+],
   "geometry": {"coordinates":[-3.047159,53.778477],"type":"Point"}
 }

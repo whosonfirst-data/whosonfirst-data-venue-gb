@@ -2,13 +2,14 @@
   "id": 119257255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.519915,50.730328,-2.519915,50.730328",
     "geom:latitude":50.730328,
     "geom:longitude":-2.519915,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Park House, Martinstown",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119257255,
-    "wof:lastmodified":1449041557,
+    "wof:lastmodified":1466275577,
     "wof:name":"Park House Residential & Retirement Home",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.519915,50.730328,-2.519915,50.730328],
+  "bbox": [
+    -2.519915,
+    50.730328,
+    -2.519915,
+    50.730328
+],
   "geometry": {"coordinates":[-2.519915,50.730328],"type":"Point"}
 }

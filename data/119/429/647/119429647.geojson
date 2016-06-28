@@ -2,13 +2,14 @@
   "id": 119429647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.156129,53.468666,-2.156129,53.468666",
     "geom:latitude":53.468666,
     "geom:longitude":-2.156129,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Chapman Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119429647,
-    "wof:lastmodified":1449043415,
+    "wof:lastmodified":1466285792,
     "wof:name":"The Candy Box",
     "wof:parent_id":85785179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.156129,53.468666,-2.156129,53.468666],
+  "bbox": [
+    -2.156129,
+    53.468666,
+    -2.156129,
+    53.468666
+],
   "geometry": {"coordinates":[-2.156129,53.468666],"type":"Point"}
 }

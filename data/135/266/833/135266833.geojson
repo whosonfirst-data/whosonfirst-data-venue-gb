@@ -2,13 +2,14 @@
   "id": 135266833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.78503,53.665565,-1.78503,53.665565",
     "geom:latitude":53.665565,
     "geom:longitude":-1.78503,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Hammerton Road, Fartown",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135266833,
-    "wof:lastmodified":1449021065,
+    "wof:lastmodified":1466255013,
     "wof:name":"Artexco",
     "wof:parent_id":85787365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.78503,53.665565,-1.78503,53.665565],
+  "bbox": [
+    -1.78503,
+    53.665565,
+    -1.78503,
+    53.665565
+],
   "geometry": {"coordinates":[-1.78503,53.665565],"type":"Point"}
 }

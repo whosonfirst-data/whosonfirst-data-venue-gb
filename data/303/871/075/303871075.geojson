@@ -2,13 +2,14 @@
   "id": 303871075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.529159,53.858742,-1.529159,53.858742",
     "geom:latitude":53.858742,
     "geom:longitude":-1.529159,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Highlands, 622 Harrogate Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303871075,
-    "wof:lastmodified":1448998920,
+    "wof:lastmodified":1466283981,
     "wof:name":"The Highland",
     "wof:parent_id":85785301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-1.529159,53.858742,-1.529159,53.858742],
+  "bbox": [
+    -1.529159,
+    53.858742,
+    -1.529159,
+    53.858742
+],
   "geometry": {"coordinates":[-1.529159,53.858742],"type":"Point"}
 }

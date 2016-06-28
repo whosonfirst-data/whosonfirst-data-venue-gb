@@ -2,13 +2,14 @@
   "id": 319828799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.423365,56.040871,-3.423365,56.040871",
     "geom:latitude":56.040871,
     "geom:longitude":-3.423365,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Aberlour Street, Rosyth",
     "sg:city":"Dunfermline",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":319828799,
-    "wof:lastmodified":1449024490,
+    "wof:lastmodified":1466267873,
     "wof:name":"North Rosyth Post Office",
     "wof:parent_id":85791133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.423365,56.040871,-3.423365,56.040871],
+  "bbox": [
+    -3.423365,
+    56.040871,
+    -3.423365,
+    56.040871
+],
   "geometry": {"coordinates":[-3.423365,56.040871],"type":"Point"}
 }

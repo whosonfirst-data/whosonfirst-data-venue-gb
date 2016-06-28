@@ -2,13 +2,14 @@
   "id": 253542053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.329029,52.109558,-2.329029,52.109558",
     "geom:latitude":52.109558,
     "geom:longitude":-2.329029,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Abbey Road",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253542053,
-    "wof:lastmodified":1449065088,
+    "wof:lastmodified":1466269194,
     "wof:name":"Great Malvern Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.329029,52.109558,-2.329029,52.109558],
+  "bbox": [
+    -2.329029,
+    52.109558,
+    -2.329029,
+    52.109558
+],
   "geometry": {"coordinates":[-2.329029,52.109558],"type":"Point"}
 }

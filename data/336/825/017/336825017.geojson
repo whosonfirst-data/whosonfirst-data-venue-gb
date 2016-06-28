@@ -2,13 +2,14 @@
   "id": 336825017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.051503,53.848934,-3.051503,53.848934",
     "geom:latitude":53.848934,
     "geom:longitude":-3.051503,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35-37 Hesketh Avenue",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":336825017,
-    "wof:lastmodified":1448996953,
+    "wof:lastmodified":1466279091,
     "wof:name":"The Julian",
     "wof:parent_id":85785755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.051503,53.848934,-3.051503,53.848934],
+  "bbox": [
+    -3.051503,
+    53.848934,
+    -3.051503,
+    53.848934
+],
   "geometry": {"coordinates":[-3.051503,53.848934],"type":"Point"}
 }

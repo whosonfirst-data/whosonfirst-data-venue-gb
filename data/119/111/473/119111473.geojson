@@ -2,13 +2,14 @@
   "id": 119111473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.511238,53.990261,-1.511238,53.990261",
     "geom:latitude":53.990261,
     "geom:longitude":-1.511238,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Langdale House, 105b Wetherby Road",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119111473,
-    "wof:lastmodified":1449043593,
+    "wof:lastmodified":1466260073,
     "wof:name":"Northern Medical Services",
     "wof:parent_id":85790715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.511238,53.990261,-1.511238,53.990261],
+  "bbox": [
+    -1.511238,
+    53.990261,
+    -1.511238,
+    53.990261
+],
   "geometry": {"coordinates":[-1.511238,53.990261],"type":"Point"}
 }

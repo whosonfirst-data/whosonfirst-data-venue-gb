@@ -2,13 +2,14 @@
   "id": 303692215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.535265,53.995689,-1.535265,53.995689",
     "geom:latitude":53.995689,
     "geom:longitude":-1.535265,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Dragon Parade",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303692215,
-    "wof:lastmodified":1448998762,
+    "wof:lastmodified":1466281479,
     "wof:name":"Askern Guest House",
     "wof:parent_id":85790715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "guest"
     ]
 },
-  "bbox": [-1.535265,53.995689,-1.535265,53.995689],
+  "bbox": [
+    -1.535265,
+    53.995689,
+    -1.535265,
+    53.995689
+],
   "geometry": {"coordinates":[-1.535265,53.995689],"type":"Point"}
 }

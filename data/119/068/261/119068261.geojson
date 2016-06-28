@@ -2,13 +2,14 @@
   "id": 119068261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.313796,49.914959,-6.313796,49.914959",
     "geom:latitude":49.914959,
     "geom:longitude":-6.313796,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lower Strand",
     "sg:city":"St Marys",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119068261,
-    "wof:lastmodified":1449042208,
+    "wof:lastmodified":1466255232,
     "wof:name":"Strand House",
     "wof:parent_id":101852301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.313796,49.914959,-6.313796,49.914959],
+  "bbox": [
+    -6.313796,
+    49.914959,
+    -6.313796,
+    49.914959
+],
   "geometry": {"coordinates":[-6.313796,49.914959],"type":"Point"}
 }

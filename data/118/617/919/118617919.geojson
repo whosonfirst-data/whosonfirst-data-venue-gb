@@ -2,13 +2,14 @@
   "id": 118617919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.487575,50.918575,-1.487575,50.918575",
     "geom:latitude":50.918575,
     "geom:longitude":-1.487575,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Junction Road, Totton",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118617919,
-    "wof:lastmodified":1449053189,
+    "wof:lastmodified":1466259031,
     "wof:name":"Optique",
     "wof:parent_id":85792825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.487575,50.918575,-1.487575,50.918575],
+  "bbox": [
+    -1.487575,
+    50.918575,
+    -1.487575,
+    50.918575
+],
   "geometry": {"coordinates":[-1.487575,50.918575],"type":"Point"}
 }

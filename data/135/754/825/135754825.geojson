@@ -2,13 +2,14 @@
   "id": 135754825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.123104,52.587147,-2.123104,52.587147",
     "geom:latitude":52.587147,
     "geom:longitude":-2.123104,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 4 Chubb Building",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135754825,
-    "wof:lastmodified":1449022982,
+    "wof:lastmodified":1466286736,
     "wof:name":"The Light Bar Ltd.",
     "wof:parent_id":85789157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.123104,52.587147,-2.123104,52.587147],
+  "bbox": [
+    -2.123104,
+    52.587147,
+    -2.123104,
+    52.587147
+],
   "geometry": {"coordinates":[-2.123104,52.587147],"type":"Point"}
 }

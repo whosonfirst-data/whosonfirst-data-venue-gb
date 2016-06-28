@@ -2,13 +2,14 @@
   "id": 269841973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.080356,51.024597,-3.080356,51.024597",
     "geom:latitude":51.024597,
     "geom:longitude":-3.080356,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Admiralty Way, Creechbarrow",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269841973,
-    "wof:lastmodified":1449036655,
+    "wof:lastmodified":1466270875,
     "wof:name":"UK Hydrographic Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-3.080356,51.024597,-3.080356,51.024597],
+  "bbox": [
+    -3.080356,
+    51.024597,
+    -3.080356,
+    51.024597
+],
   "geometry": {"coordinates":[-3.080356,51.024597],"type":"Point"}
 }

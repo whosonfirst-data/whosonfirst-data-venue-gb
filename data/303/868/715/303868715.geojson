@@ -2,13 +2,14 @@
   "id": 303868715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.464234,56.07262,-3.464234,56.07262",
     "geom:latitude":56.07262,
     "geom:longitude":-3.464234,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Bruce Street",
     "sg:city":"Dunfermline",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303868715,
-    "wof:lastmodified":1448998229,
+    "wof:lastmodified":1466283961,
     "wof:name":"Home Start Dumfermline",
     "wof:parent_id":85791133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.464234,56.07262,-3.464234,56.07262],
+  "bbox": [
+    -3.464234,
+    56.07262,
+    -3.464234,
+    56.07262
+],
   "geometry": {"coordinates":[-3.464234,56.07262],"type":"Point"}
 }

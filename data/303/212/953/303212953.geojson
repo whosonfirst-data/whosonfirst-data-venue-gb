@@ -2,13 +2,14 @@
   "id": 303212953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.15306,55.937061,-4.15306,55.937061",
     "geom:latitude":55.937061,
     "geom:longitude":-4.15306,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Townhead",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303212953,
-    "wof:lastmodified":1448999701,
+    "wof:lastmodified":1466269228,
     "wof:name":"Woks Cuisine",
     "wof:parent_id":85786143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "take"
     ]
 },
-  "bbox": [-4.15306,55.937061,-4.15306,55.937061],
+  "bbox": [
+    -4.15306,
+    55.937061,
+    -4.15306,
+    55.937061
+],
   "geometry": {"coordinates":[-4.15306,55.937061],"type":"Point"}
 }

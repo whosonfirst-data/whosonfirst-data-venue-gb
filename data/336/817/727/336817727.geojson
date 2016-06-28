@@ -2,13 +2,14 @@
   "id": 336817727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.731047,53.412975,-2.731047,53.412975",
     "geom:latitude":53.412975,
     "geom:longitude":-2.731047,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Preston St",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336817727,
-    "wof:lastmodified":1448997819,
+    "wof:lastmodified":1466278765,
     "wof:name":"G-upholstery",
     "wof:parent_id":85793311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-2.731047,53.412975,-2.731047,53.412975],
+  "bbox": [
+    -2.731047,
+    53.412975,
+    -2.731047,
+    53.412975
+],
   "geometry": {"coordinates":[-2.731047,53.412975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336865461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.64264,54.955692,-1.64264,54.955692",
     "geom:latitude":54.955692,
     "geom:longitude":-1.64264,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Wellington Road",
     "sg:city":"Gateshead",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336865461,
-    "wof:lastmodified":1448997759,
+    "wof:lastmodified":1466279789,
     "wof:name":"Wellington News",
     "wof:parent_id":85787115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.64264,54.955692,-1.64264,54.955692],
+  "bbox": [
+    -1.64264,
+    54.955692,
+    -1.64264,
+    54.955692
+],
   "geometry": {"coordinates":[-1.64264,54.955692],"type":"Point"}
 }

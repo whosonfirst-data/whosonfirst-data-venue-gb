@@ -2,13 +2,14 @@
   "id": 320840673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.15676,53.089535,-1.15676,53.089535",
     "geom:latitude":53.089535,
     "geom:longitude":-1.15676,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Ashford Drive, Ravenshead",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":320840673,
-    "wof:lastmodified":1449014121,
+    "wof:lastmodified":1466285219,
     "wof:name":"Balloons by Occasions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "novelty"
     ]
 },
-  "bbox": [-1.15676,53.089535,-1.15676,53.089535],
+  "bbox": [
+    -1.15676,
+    53.089535,
+    -1.15676,
+    53.089535
+],
   "geometry": {"coordinates":[-1.15676,53.089535],"type":"Point"}
 }

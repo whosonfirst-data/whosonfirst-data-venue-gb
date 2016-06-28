@@ -2,13 +2,14 @@
   "id": 202481275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.333763,50.575779,-4.333763,50.575779",
     "geom:latitude":50.575779,
     "geom:longitude":-4.333763,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Treburley Abbatoir, Treburley",
     "sg:city":"Launceston",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202481275,
-    "wof:lastmodified":1449062332,
+    "wof:lastmodified":1466253864,
     "wof:name":"Jaspers (Treburley) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "abattoir"
     ]
 },
-  "bbox": [-4.333763,50.575779,-4.333763,50.575779],
+  "bbox": [
+    -4.333763,
+    50.575779,
+    -4.333763,
+    50.575779
+],
   "geometry": {"coordinates":[-4.333763,50.575779],"type":"Point"}
 }

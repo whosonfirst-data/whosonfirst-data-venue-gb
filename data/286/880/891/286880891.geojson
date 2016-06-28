@@ -2,13 +2,14 @@
   "id": 286880891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.23021,53.4753,-2.23021,53.4753",
     "geom:latitude":53.4753,
     "geom:longitude":-2.23021,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Manchester City Magistrates Cour, Crown Square, Crown Square",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286880891,
-    "wof:lastmodified":1449018109,
+    "wof:lastmodified":1466280215,
     "wof:name":"Witness Service",
     "wof:parent_id":85792993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "counselling"
     ]
 },
-  "bbox": [-2.23021,53.4753,-2.23021,53.4753],
+  "bbox": [
+    -2.23021,
+    53.4753,
+    -2.23021,
+    53.4753
+],
   "geometry": {"coordinates":[-2.23021,53.4753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118888077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.572633,55.943848,-4.572633,55.943848",
     "geom:latitude":55.943848,
     "geom:longitude":-4.572633,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"139 High Street",
     "sg:city":"Dumbarton",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":118888077,
-    "wof:lastmodified":1449054032,
+    "wof:lastmodified":1466278677,
     "wof:name":"Lennox Bar",
     "wof:parent_id":85684111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.572633,55.943848,-4.572633,55.943848],
+  "bbox": [
+    -4.572633,
+    55.943848,
+    -4.572633,
+    55.943848
+],
   "geometry": {"coordinates":[-4.572633,55.943848],"type":"Point"}
 }

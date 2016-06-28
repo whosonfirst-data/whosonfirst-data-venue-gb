@@ -2,13 +2,14 @@
   "id": 118624721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.255943,55.871044,-4.255943,55.871044",
     "geom:latitude":55.871044,
     "geom:longitude":-4.255943,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Speirs Warf",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118624721,
-    "wof:lastmodified":1449054106,
+    "wof:lastmodified":1466259496,
     "wof:name":"Fraser Brown Newman",
     "wof:parent_id":85792605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.255943,55.871044,-4.255943,55.871044],
+  "bbox": [
+    -4.255943,
+    55.871044,
+    -4.255943,
+    55.871044
+],
   "geometry": {"coordinates":[-4.255943,55.871044],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253365299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.14416,52.651508,-1.14416,52.651508",
     "geom:latitude":52.651508,
     "geom:longitude":-1.14416,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 7, Forest Park Business Centre, 47 Parker Drive",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253365299,
-    "wof:lastmodified":1449063292,
+    "wof:lastmodified":1466264661,
     "wof:name":"Hanson Cabs",
     "wof:parent_id":85860905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-1.14416,52.651508,-1.14416,52.651508],
+  "bbox": [
+    -1.14416,
+    52.651508,
+    -1.14416,
+    52.651508
+],
   "geometry": {"coordinates":[-1.14416,52.651508],"type":"Point"}
 }

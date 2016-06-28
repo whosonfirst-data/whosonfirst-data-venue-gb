@@ -2,13 +2,14 @@
   "id": 320172927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.123112,55.934784,-4.123112,55.934784",
     "geom:latitude":55.934784,
     "geom:longitude":-4.123112,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Glen Luggie Road, Kirkintilloch",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":320172927,
-    "wof:lastmodified":1449012772,
+    "wof:lastmodified":1466278235,
     "wof:name":"Stuarts School of Motoring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.123112,55.934784,-4.123112,55.934784],
+  "bbox": [
+    -4.123112,
+    55.934784,
+    -4.123112,
+    55.934784
+],
   "geometry": {"coordinates":[-4.123112,55.934784],"type":"Point"}
 }

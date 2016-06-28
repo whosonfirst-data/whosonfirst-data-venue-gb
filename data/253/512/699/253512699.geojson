@@ -2,13 +2,14 @@
   "id": 253512699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.095838,53.952679,-1.095838,53.952679",
     "geom:latitude":53.952679,
     "geom:longitude":-1.095838,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"132 The Mount",
     "sg:city":"York",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":253512699,
-    "wof:lastmodified":1449064976,
+    "wof:lastmodified":1466268299,
     "wof:name":"Westgate Hotel",
     "wof:parent_id":85787081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.095838,53.952679,-1.095838,53.952679],
+  "bbox": [
+    -1.095838,
+    53.952679,
+    -1.095838,
+    53.952679
+],
   "geometry": {"coordinates":[-1.095838,53.952679],"type":"Point"}
 }

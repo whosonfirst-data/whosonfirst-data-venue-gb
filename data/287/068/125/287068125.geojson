@@ -2,13 +2,14 @@
   "id": 287068125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.380505,51.389343,1.380505,51.389343",
     "geom:latitude":51.389343,
     "geom:longitude":1.380505,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 High Street",
     "sg:city":"Margate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287068125,
-    "wof:lastmodified":1449001118,
+    "wof:lastmodified":1466265044,
     "wof:name":"Country Wines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [1.380505,51.389343,1.380505,51.389343],
+  "bbox": [
+    1.380505,
+    51.389343,
+    1.380505,
+    51.389343
+],
   "geometry": {"coordinates":[1.380505,51.389343],"type":"Point"}
 }

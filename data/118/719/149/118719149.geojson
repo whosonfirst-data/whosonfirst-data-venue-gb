@@ -2,13 +2,14 @@
   "id": 118719149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.242001,51.749035,-1.242001,51.749035",
     "geom:latitude":51.749035,
     "geom:longitude":-1.242001,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Cowley Road",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118719149,
-    "wof:lastmodified":1449053323,
+    "wof:lastmodified":1466266777,
     "wof:name":"Oxford Mind",
     "wof:parent_id":85793243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.242001,51.749035,-1.242001,51.749035],
+  "bbox": [
+    -1.242001,
+    51.749035,
+    -1.242001,
+    51.749035
+],
   "geometry": {"coordinates":[-1.242001,51.749035],"type":"Point"}
 }

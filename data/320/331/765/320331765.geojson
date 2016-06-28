@@ -2,13 +2,14 @@
   "id": 320331765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.23533,53.478184,-2.23533,53.478184",
     "geom:latitude":53.478184,
     "geom:longitude":-2.23533,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Richmond Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320331765,
-    "wof:lastmodified":1449013522,
+    "wof:lastmodified":1466278089,
     "wof:name":"Gillett & Bevan Ltd",
     "wof:parent_id":85792993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-2.23533,53.478184,-2.23533,53.478184],
+  "bbox": [
+    -2.23533,
+    53.478184,
+    -2.23533,
+    53.478184
+],
   "geometry": {"coordinates":[-2.23533,53.478184],"type":"Point"}
 }

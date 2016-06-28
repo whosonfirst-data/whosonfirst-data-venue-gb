@@ -2,13 +2,14 @@
   "id": 303275657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.910009,55.754444,-3.910009,55.754444",
     "geom:latitude":55.754444,
     "geom:longitude":-3.910009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Gillview, Horsley Brae",
     "sg:city":"Wishaw",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303275657,
-    "wof:lastmodified":1448998901,
+    "wof:lastmodified":1466271100,
     "wof:name":"Lennox Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "road"
     ]
 },
-  "bbox": [-3.910009,55.754444,-3.910009,55.754444],
+  "bbox": [
+    -3.910009,
+    55.754444,
+    -3.910009,
+    55.754444
+],
   "geometry": {"coordinates":[-3.910009,55.754444],"type":"Point"}
 }

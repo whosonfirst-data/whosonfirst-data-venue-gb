@@ -2,13 +2,14 @@
   "id": 303477041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.801862,54.049805,-2.801862,54.049805",
     "geom:latitude":54.049805,
     "geom:longitude":-2.801862,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"67-71 Church St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303477041,
-    "wof:lastmodified":1448998537,
+    "wof:lastmodified":1466277226,
     "wof:name":"LRS Solicitors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-2.801862,54.049805,-2.801862,54.049805],
+  "bbox": [
+    -2.801862,
+    54.049805,
+    -2.801862,
+    54.049805
+],
   "geometry": {"coordinates":[-2.801862,54.049805],"type":"Point"}
 }

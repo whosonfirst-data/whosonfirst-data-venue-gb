@@ -2,13 +2,14 @@
   "id": 136003543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.004114,51.453911,-1.004114,51.453911",
     "geom:latitude":51.453911,
     "geom:longitude":-1.004114,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Wantage Road",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136003543,
-    "wof:lastmodified":1449076164,
+    "wof:lastmodified":1466256570,
     "wof:name":"The Off Licence",
     "wof:parent_id":85791053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.004114,51.453911,-1.004114,51.453911],
+  "bbox": [
+    -1.004114,
+    51.453911,
+    -1.004114,
+    51.453911
+],
   "geometry": {"coordinates":[-1.004114,51.453911],"type":"Point"}
 }

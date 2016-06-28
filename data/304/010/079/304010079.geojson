@@ -2,13 +2,14 @@
   "id": 304010079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.389867,53.872665,-2.389867,53.872665",
     "geom:latitude":53.872665,
     "geom:longitude":-2.389867,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Wellgate Court, Wellgate",
     "sg:city":"Clitheroe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304010079,
-    "wof:lastmodified":1449043957,
+    "wof:lastmodified":1466264516,
     "wof:name":"King Lane Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.389867,53.872665,-2.389867,53.872665],
+  "bbox": [
+    -2.389867,
+    53.872665,
+    -2.389867,
+    53.872665
+],
   "geometry": {"coordinates":[-2.389867,53.872665],"type":"Point"}
 }

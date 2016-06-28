@@ -2,13 +2,14 @@
   "id": 135327669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.219273,55.859196,-4.219273,55.859196",
     "geom:latitude":55.859196,
     "geom:longitude":-4.219273,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Whitehill Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":135327669,
-    "wof:lastmodified":1449021225,
+    "wof:lastmodified":1466254560,
     "wof:name":"Alex McBain",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.219273,55.859196,-4.219273,55.859196],
+  "bbox": [
+    -4.219273,
+    55.859196,
+    -4.219273,
+    55.859196
+],
   "geometry": {"coordinates":[-4.219273,55.859196],"type":"Point"}
 }

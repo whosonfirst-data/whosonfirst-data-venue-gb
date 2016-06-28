@@ -2,13 +2,14 @@
   "id": 135933725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.0047,51.540501,0.0047,51.540501",
     "geom:latitude":51.540501,
     "geom:longitude":0.0047,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Elderflower Way, Stratford",
     "sg:city":"London",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":135933725,
-    "wof:lastmodified":1449021596,
+    "wof:lastmodified":1466288269,
     "wof:name":"Ed Furst",
     "wof:parent_id":85790801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.0047,51.540501,0.0047,51.540501],
+  "bbox": [
+    0.0047,
+    51.540501,
+    0.0047,
+    51.540501
+],
   "geometry": {"coordinates":[0.0047,51.540501],"type":"Point"}
 }

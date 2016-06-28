@@ -2,13 +2,14 @@
   "id": 270161387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.0584,51.450691,0.0584,51.450691",
     "geom:latitude":51.450691,
     "geom:longitude":0.0584,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 The Arcade, Eltham High Street",
     "sg:city":"London",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270161387,
-    "wof:lastmodified":1449009597,
+    "wof:lastmodified":1466265307,
     "wof:name":"Eltham Service Centre",
     "wof:parent_id":85787281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.0584,51.450691,0.0584,51.450691],
+  "bbox": [
+    0.0584,
+    51.450691,
+    0.0584,
+    51.450691
+],
   "geometry": {"coordinates":[0.0584,51.450691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219749295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.608277,54.981373,-1.608277,54.981373",
     "geom:latitude":54.981373,
     "geom:longitude":-1.608277,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Jesmond Road West",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219749295,
-    "wof:lastmodified":1449071412,
+    "wof:lastmodified":1466262842,
     "wof:name":"Applied Client Server Ltd.",
     "wof:parent_id":85861867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "software"
     ]
 },
-  "bbox": [-1.608277,54.981373,-1.608277,54.981373],
+  "bbox": [
+    -1.608277,
+    54.981373,
+    -1.608277,
+    54.981373
+],
   "geometry": {"coordinates":[-1.608277,54.981373],"type":"Point"}
 }

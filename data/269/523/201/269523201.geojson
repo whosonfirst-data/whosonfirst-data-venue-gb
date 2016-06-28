@@ -2,13 +2,14 @@
   "id": 269523201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.289688,52.775444,-1.289688,52.775444",
     "geom:latitude":52.775444,
     "geom:longitude":-1.289688,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Brooklyn House, 44 Brook Street, Shepshed",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269523201,
-    "wof:lastmodified":1449037521,
+    "wof:lastmodified":1466261176,
     "wof:name":"Movements Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "car"
     ]
 },
-  "bbox": [-1.289688,52.775444,-1.289688,52.775444],
+  "bbox": [
+    -1.289688,
+    52.775444,
+    -1.289688,
+    52.775444
+],
   "geometry": {"coordinates":[-1.289688,52.775444],"type":"Point"}
 }

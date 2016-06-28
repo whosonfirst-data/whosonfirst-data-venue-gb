@@ -2,13 +2,14 @@
   "id": 219800141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.13105,51.45528,0.13105,51.45528",
     "geom:latitude":51.45528,
     "geom:longitude":0.13105,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"P O Box 379",
     "sg:city":"Bexleyheath",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219800141,
-    "wof:lastmodified":1449070666,
+    "wof:lastmodified":1466263675,
     "wof:name":"Sureway Parking",
     "wof:parent_id":85860127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "park"
     ]
 },
-  "bbox": [0.13105,51.45528,0.13105,51.45528],
+  "bbox": [
+    0.13105,
+    51.45528,
+    0.13105,
+    51.45528
+],
   "geometry": {"coordinates":[0.13105,51.45528],"type":"Point"}
 }

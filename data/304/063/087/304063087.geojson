@@ -2,13 +2,14 @@
   "id": 304063087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.162888,55.761101,-4.162888,55.761101",
     "geom:latitude":55.761101,
     "geom:longitude":-4.162888,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Loch Goil, East Kilbride",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":304063087,
-    "wof:lastmodified":1449043615,
+    "wof:lastmodified":1466266137,
     "wof:name":"James Boyd",
     "wof:parent_id":85792549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-4.162888,55.761101,-4.162888,55.761101],
+  "bbox": [
+    -4.162888,
+    55.761101,
+    -4.162888,
+    55.761101
+],
   "geometry": {"coordinates":[-4.162888,55.761101],"type":"Point"}
 }

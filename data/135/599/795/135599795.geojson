@@ -2,13 +2,14 @@
   "id": 135599795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.696423,51.482056,-3.696423,51.482056",
     "geom:latitude":51.482056,
     "geom:longitude":-3.696423,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"119 New Road",
     "sg:city":"Porthcawl",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135599795,
-    "wof:lastmodified":1449022418,
+    "wof:lastmodified":1466282731,
     "wof:name":"New Road Post Office",
     "wof:parent_id":101852765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.696423,51.482056,-3.696423,51.482056],
+  "bbox": [
+    -3.696423,
+    51.482056,
+    -3.696423,
+    51.482056
+],
   "geometry": {"coordinates":[-3.696423,51.482056],"type":"Point"}
 }

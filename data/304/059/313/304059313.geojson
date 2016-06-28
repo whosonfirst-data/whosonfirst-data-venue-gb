@@ -2,13 +2,14 @@
   "id": 304059313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.60995,51.45488,-2.60995,51.45488",
     "geom:latitude":51.45488,
     "geom:longitude":-2.60995,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Old Schoolhouse, 75a Jacobs Wells Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":304059313,
-    "wof:lastmodified":1449043707,
+    "wof:lastmodified":1466266043,
     "wof:name":"Acorn Insulations (Bristol) Ltd",
     "wof:parent_id":85861357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "installers"
     ]
 },
-  "bbox": [-2.60995,51.45488,-2.60995,51.45488],
+  "bbox": [
+    -2.60995,
+    51.45488,
+    -2.60995,
+    51.45488
+],
   "geometry": {"coordinates":[-2.60995,51.45488],"type":"Point"}
 }

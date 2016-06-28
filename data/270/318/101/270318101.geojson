@@ -2,13 +2,14 @@
   "id": 270318101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.286907,55.843178,-4.286907,55.843178",
     "geom:latitude":55.843178,
     "geom:longitude":-4.286907,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Aytoun Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270318101,
-    "wof:lastmodified":1449009157,
+    "wof:lastmodified":1466270025,
     "wof:name":"UNICEF Scotland",
     "wof:parent_id":85789887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-4.286907,55.843178,-4.286907,55.843178],
+  "bbox": [
+    -4.286907,
+    55.843178,
+    -4.286907,
+    55.843178
+],
   "geometry": {"coordinates":[-4.286907,55.843178],"type":"Point"}
 }

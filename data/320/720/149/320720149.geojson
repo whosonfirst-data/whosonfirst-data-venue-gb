@@ -2,13 +2,14 @@
   "id": 320720149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.142004,52.984608,-1.142004,52.984608",
     "geom:latitude":52.984608,
     "geom:longitude":-1.142004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Trevose Gardens",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320720149,
-    "wof:lastmodified":1449012155,
+    "wof:lastmodified":1466284275,
     "wof:name":"A Storrey",
     "wof:parent_id":85790293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-1.142004,52.984608,-1.142004,52.984608],
+  "bbox": [
+    -1.142004,
+    52.984608,
+    -1.142004,
+    52.984608
+],
   "geometry": {"coordinates":[-1.142004,52.984608],"type":"Point"}
 }

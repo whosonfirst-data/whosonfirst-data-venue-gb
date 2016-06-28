@@ -2,13 +2,14 @@
   "id": 203120535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.60747,53.741199,-1.60747,53.741199",
     "geom:latitude":53.741199,
     "geom:longitude":-1.60747,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hygienist, Holme Lea, Watson St",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":203120535,
-    "wof:lastmodified":1449026584,
+    "wof:lastmodified":1466254680,
     "wof:name":"S Newcombe",
     "wof:parent_id":85790417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.60747,53.741199,-1.60747,53.741199],
+  "bbox": [
+    -1.60747,
+    53.741199,
+    -1.60747,
+    53.741199
+],
   "geometry": {"coordinates":[-1.60747,53.741199],"type":"Point"}
 }

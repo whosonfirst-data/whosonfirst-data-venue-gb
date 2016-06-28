@@ -2,13 +2,14 @@
   "id": 135602933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.249629,53.401852,-2.249629,53.401852",
     "geom:latitude":53.401852,
     "geom:longitude":-2.249629,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bronington Clo",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135602933,
-    "wof:lastmodified":1449022432,
+    "wof:lastmodified":1466282564,
     "wof:name":"J F Bessell",
     "wof:parent_id":85787573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.249629,53.401852,-2.249629,53.401852],
+  "bbox": [
+    -2.249629,
+    53.401852,
+    -2.249629,
+    53.401852
+],
   "geometry": {"coordinates":[-2.249629,53.401852],"type":"Point"}
 }

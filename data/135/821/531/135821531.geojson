@@ -2,13 +2,14 @@
   "id": 135821531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.24339,55.864281,-4.24339,55.864281",
     "geom:latitude":55.864281,
     "geom:longitude":-4.24339,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"201 St James Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":135821531,
-    "wof:lastmodified":1449022648,
+    "wof:lastmodified":1466287660,
     "wof:name":"Phoenix Centre",
     "wof:parent_id":85861551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.24339,55.864281,-4.24339,55.864281],
+  "bbox": [
+    -4.24339,
+    55.864281,
+    -4.24339,
+    55.864281
+],
   "geometry": {"coordinates":[-4.24339,55.864281],"type":"Point"}
 }

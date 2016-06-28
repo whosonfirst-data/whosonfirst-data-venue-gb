@@ -2,13 +2,14 @@
   "id": 135480991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.213445,53.395283,-2.213445,53.395283",
     "geom:latitude":53.395283,
     "geom:longitude":-2.213445,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"High Street",
     "sg:city":"Cheadle",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135480991,
-    "wof:lastmodified":1449021983,
+    "wof:lastmodified":1466272344,
     "wof:name":"Greenalls Brewery Ltd.",
     "wof:parent_id":85793035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.213445,53.395283,-2.213445,53.395283],
+  "bbox": [
+    -2.213445,
+    53.395283,
+    -2.213445,
+    53.395283
+],
   "geometry": {"coordinates":[-2.213445,53.395283],"type":"Point"}
 }

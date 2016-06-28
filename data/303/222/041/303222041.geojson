@@ -2,13 +2,14 @@
   "id": 303222041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.123946,52.585911,-2.123946,52.585911",
     "geom:latitude":52.585911,
     "geom:longitude":-2.123946,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Queen Street",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303222041,
-    "wof:lastmodified":1448999751,
+    "wof:lastmodified":1466269514,
     "wof:name":"Roger Keith Flatters",
     "wof:parent_id":85789157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "optician"
     ]
 },
-  "bbox": [-2.123946,52.585911,-2.123946,52.585911],
+  "bbox": [
+    -2.123946,
+    52.585911,
+    -2.123946,
+    52.585911
+],
   "geometry": {"coordinates":[-2.123946,52.585911],"type":"Point"}
 }

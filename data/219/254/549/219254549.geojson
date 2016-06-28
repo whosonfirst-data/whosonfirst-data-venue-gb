@@ -2,13 +2,14 @@
   "id": 219254549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.999417,53.465797,-2.999417,53.465797",
     "geom:latitude":53.465797,
     "geom:longitude":-2.999417,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Linacre Road",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219254549,
-    "wof:lastmodified":1449072813,
+    "wof:lastmodified":1466254466,
     "wof:name":"The Cabin",
     "wof:parent_id":85790225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.999417,53.465797,-2.999417,53.465797],
+  "bbox": [
+    -2.999417,
+    53.465797,
+    -2.999417,
+    53.465797
+],
   "geometry": {"coordinates":[-2.999417,53.465797],"type":"Point"}
 }

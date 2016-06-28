@@ -2,13 +2,14 @@
   "id": 320848583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.130618,51.510033,-0.130618,51.510033",
     "geom:latitude":51.510033,
     "geom:longitude":-0.130618,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Leicester Square",
     "sg:city":"Holborn",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320848583,
-    "wof:lastmodified":1449011780,
+    "wof:lastmodified":1466285280,
     "wof:name":"London Electrical Gas",
     "wof:parent_id":85860883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-0.130618,51.510033,-0.130618,51.510033],
+  "bbox": [
+    -0.130618,
+    51.510033,
+    -0.130618,
+    51.510033
+],
   "geometry": {"coordinates":[-0.130618,51.510033],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336790463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.255111,50.779495,0.255111,50.779495",
     "geom:latitude":50.779495,
     "geom:longitude":0.255111,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"183 Victoria Drive",
     "sg:city":"Eastbourne",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336790463,
-    "wof:lastmodified":1448997784,
+    "wof:lastmodified":1466278571,
     "wof:name":"Cavendish Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [0.255111,50.779495,0.255111,50.779495],
+  "bbox": [
+    0.255111,
+    50.779495,
+    0.255111,
+    50.779495
+],
   "geometry": {"coordinates":[0.255111,50.779495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102602999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.748033,52.733013,-1.748033,52.733013",
     "geom:latitude":52.733013,
     "geom:longitude":-1.748033,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Main St",
     "sg:city":"Burton-on-trent",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102602999,
-    "wof:lastmodified":1449068906,
+    "wof:lastmodified":1466278116,
     "wof:name":"The Tudor of Lichfield",
     "wof:parent_id":85683943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.748033,52.733013,-1.748033,52.733013],
+  "bbox": [
+    -1.748033,
+    52.733013,
+    -1.748033,
+    52.733013
+],
   "geometry": {"coordinates":[-1.748033,52.733013],"type":"Point"}
 }

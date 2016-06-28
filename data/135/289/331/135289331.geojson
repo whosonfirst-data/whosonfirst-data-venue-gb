@@ -2,13 +2,14 @@
   "id": 135289331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.245049,55.861111,-4.245049,55.861111",
     "geom:latitude":55.861111,
     "geom:longitude":-4.245049,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"122 George St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135289331,
-    "wof:lastmodified":1449023514,
+    "wof:lastmodified":1466276545,
     "wof:name":"Campus Travel",
     "wof:parent_id":85861551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.245049,55.861111,-4.245049,55.861111],
+  "bbox": [
+    -4.245049,
+    55.861111,
+    -4.245049,
+    55.861111
+],
   "geometry": {"coordinates":[-4.245049,55.861111],"type":"Point"}
 }

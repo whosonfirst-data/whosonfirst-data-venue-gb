@@ -2,13 +2,14 @@
   "id": 186272635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.123967,53.245197,-2.123967,53.245197",
     "geom:latitude":53.245197,
     "geom:longitude":-2.123967,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Sherwood Road",
     "sg:city":"Macclesfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186272635,
-    "wof:lastmodified":1449052847,
+    "wof:lastmodified":1466255699,
     "wof:name":"The Firs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "care"
     ]
 },
-  "bbox": [-2.123967,53.245197,-2.123967,53.245197],
+  "bbox": [
+    -2.123967,
+    53.245197,
+    -2.123967,
+    53.245197
+],
   "geometry": {"coordinates":[-2.123967,53.245197],"type":"Point"}
 }

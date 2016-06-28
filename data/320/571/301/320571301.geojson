@@ -2,13 +2,14 @@
   "id": 320571301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.300108,55.795773,-4.300108,55.795773",
     "geom:latitude":55.795773,
     "geom:longitude":-4.300108,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Greenhill Avenue, Giffnock",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320571301,
-    "wof:lastmodified":1449013823,
+    "wof:lastmodified":1466282255,
     "wof:name":"Giffnock South Parish Church",
     "wof:parent_id":85787597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.300108,55.795773,-4.300108,55.795773],
+  "bbox": [
+    -4.300108,
+    55.795773,
+    -4.300108,
+    55.795773
+],
   "geometry": {"coordinates":[-4.300108,55.795773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118675145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.92407,54.943748,-3.92407,54.943748",
     "geom:latitude":54.943748,
     "geom:longitude":-3.92407,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 New Market Street",
     "sg:city":"Castle Douglas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":118675145,
-    "wof:lastmodified":1449053870,
+    "wof:lastmodified":1466263483,
     "wof:name":"Scottish Woodlands Ltd.",
     "wof:parent_id":101872361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.92407,54.943748,-3.92407,54.943748],
+  "bbox": [
+    -3.92407,
+    54.943748,
+    -3.92407,
+    54.943748
+],
   "geometry": {"coordinates":[-3.92407,54.943748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203185937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.361504,55.944645,-3.361504,55.944645",
     "geom:latitude":55.944645,
     "geom:longitude":-3.361504,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 33, The Gyle Shopping Centre",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203185937,
-    "wof:lastmodified":1449025253,
+    "wof:lastmodified":1466255763,
     "wof:name":"Games",
     "wof:parent_id":85861499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "software"
     ]
 },
-  "bbox": [-3.361504,55.944645,-3.361504,55.944645],
+  "bbox": [
+    -3.361504,
+    55.944645,
+    -3.361504,
+    55.944645
+],
   "geometry": {"coordinates":[-3.361504,55.944645],"type":"Point"}
 }

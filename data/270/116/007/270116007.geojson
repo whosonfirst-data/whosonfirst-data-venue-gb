@@ -2,13 +2,14 @@
   "id": 270116007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.262929,55.866131,-4.262929,55.866131",
     "geom:latitude":55.866131,
     "geom:longitude":-4.262929,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Renfrew St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270116007,
-    "wof:lastmodified":1449008993,
+    "wof:lastmodified":1466263942,
     "wof:name":"Vic Cafe Bar",
     "wof:parent_id":85792605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.262929,55.866131,-4.262929,55.866131],
+  "bbox": [
+    -4.262929,
+    55.866131,
+    -4.262929,
+    55.866131
+],
   "geometry": {"coordinates":[-4.262929,55.866131],"type":"Point"}
 }

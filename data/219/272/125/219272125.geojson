@@ -2,13 +2,14 @@
   "id": 219272125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.221554,50.41011,-4.221554,50.41011",
     "geom:latitude":50.41011,
     "geom:longitude":-4.221554,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Plougastel Drive",
     "sg:city":"Saltash",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219272125,
-    "wof:lastmodified":1449073664,
+    "wof:lastmodified":1466254791,
     "wof:name":"Registration of Births Deaths & Marriages",
     "wof:parent_id":85790593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-4.221554,50.41011,-4.221554,50.41011],
+  "bbox": [
+    -4.221554,
+    50.41011,
+    -4.221554,
+    50.41011
+],
   "geometry": {"coordinates":[-4.221554,50.41011],"type":"Point"}
 }

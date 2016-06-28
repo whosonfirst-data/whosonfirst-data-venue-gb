@@ -2,13 +2,14 @@
   "id": 303751837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.55501,53.809559,-1.55501,53.809559",
     "geom:latitude":53.809559,
     "geom:longitude":-1.55501,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Albion Media Centre, 86 Armley Rd",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303751837,
-    "wof:lastmodified":1448998257,
+    "wof:lastmodified":1466282433,
     "wof:name":"Baker House Publishing Ltd",
     "wof:parent_id":85792925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-1.55501,53.809559,-1.55501,53.809559],
+  "bbox": [
+    -1.55501,
+    53.809559,
+    -1.55501,
+    53.809559
+],
   "geometry": {"coordinates":[-1.55501,53.809559],"type":"Point"}
 }

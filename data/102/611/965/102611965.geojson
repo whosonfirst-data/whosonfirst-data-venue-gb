@@ -2,13 +2,14 @@
   "id": 102611965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.253472,51.400074,-1.253472,51.400074",
     "geom:latitude":51.400074,
     "geom:longitude":-1.253472,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Goose Green Way",
     "sg:city":"Thatcham",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102611965,
-    "wof:lastmodified":1449069675,
+    "wof:lastmodified":1466252895,
     "wof:name":"Simpsons Property Maintenance",
     "wof:parent_id":101852665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.253472,51.400074,-1.253472,51.400074],
+  "bbox": [
+    -1.253472,
+    51.400074,
+    -1.253472,
+    51.400074
+],
   "geometry": {"coordinates":[-1.253472,51.400074],"type":"Point"}
 }

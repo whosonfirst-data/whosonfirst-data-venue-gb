@@ -2,13 +2,14 @@
   "id": 252879225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.24804,55.860203,-4.24804,55.860203",
     "geom:latitude":55.860203,
     "geom:longitude":-4.24804,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 John Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252879225,
-    "wof:lastmodified":1449005418,
+    "wof:lastmodified":1466260444,
     "wof:name":"Cafe Rouge",
     "wof:parent_id":85792629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "french"
     ]
 },
-  "bbox": [-4.24804,55.860203,-4.24804,55.860203],
+  "bbox": [
+    -4.24804,
+    55.860203,
+    -4.24804,
+    55.860203
+],
   "geometry": {"coordinates":[-4.24804,55.860203],"type":"Point"}
 }

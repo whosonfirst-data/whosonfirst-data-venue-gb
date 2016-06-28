@@ -2,13 +2,14 @@
   "id": 135874095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.630297,55.463459,-4.630297,55.463459",
     "geom:latitude":55.463459,
     "geom:longitude":-4.630297,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Newmarket Street",
     "sg:city":"Ayr",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135874095,
-    "wof:lastmodified":1449023810,
+    "wof:lastmodified":1466287971,
     "wof:name":"Matthew Mark & Son",
     "wof:parent_id":101873467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.630297,55.463459,-4.630297,55.463459],
+  "bbox": [
+    -4.630297,
+    55.463459,
+    -4.630297,
+    55.463459
+],
   "geometry": {"coordinates":[-4.630297,55.463459],"type":"Point"}
 }

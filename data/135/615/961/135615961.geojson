@@ -2,13 +2,14 @@
   "id": 135615961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.22651,55.896999,-4.22651,55.896999",
     "geom:latitude":55.896999,
     "geom:longitude":-4.22651,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, Block 1 Hunters Hill Way",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135615961,
-    "wof:lastmodified":1449021961,
+    "wof:lastmodified":1466283317,
     "wof:name":"Ross Auto Electrics",
     "wof:parent_id":85790559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.22651,55.896999,-4.22651,55.896999],
+  "bbox": [
+    -4.22651,
+    55.896999,
+    -4.22651,
+    55.896999
+],
   "geometry": {"coordinates":[-4.22651,55.896999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303698645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.509562,51.095825,-2.509562,51.095825",
     "geom:latitude":51.095825,
     "geom:longitude":-2.509562,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Maggs La",
     "sg:city":"Castle Cary",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303698645,
-    "wof:lastmodified":1449000414,
+    "wof:lastmodified":1466281934,
     "wof:name":"Caryford Community Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.509562,51.095825,-2.509562,51.095825],
+  "bbox": [
+    -2.509562,
+    51.095825,
+    -2.509562,
+    51.095825
+],
   "geometry": {"coordinates":[-2.509562,51.095825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203335001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.224966,52.196285,-2.224966,52.196285",
     "geom:latitude":52.196285,
     "geom:longitude":-2.224966,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Castle Street",
     "sg:city":"Worcester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203335001,
-    "wof:lastmodified":1449026230,
+    "wof:lastmodified":1466258429,
     "wof:name":"Relate Training",
     "wof:parent_id":85861063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "centre"
     ]
 },
-  "bbox": [-2.224966,52.196285,-2.224966,52.196285],
+  "bbox": [
+    -2.224966,
+    52.196285,
+    -2.224966,
+    52.196285
+],
   "geometry": {"coordinates":[-2.224966,52.196285],"type":"Point"}
 }

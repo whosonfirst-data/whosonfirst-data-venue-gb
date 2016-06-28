@@ -2,13 +2,14 @@
   "id": 118510259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.802534,52.572308,-1.802534,52.572308",
     "geom:latitude":52.572308,
     "geom:longitude":-1.802534,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Whitehouse Common Rd",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118510259,
-    "wof:lastmodified":1449054012,
+    "wof:lastmodified":1466275200,
     "wof:name":"Orchard House Nursing Home",
     "wof:parent_id":85792015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.802534,52.572308,-1.802534,52.572308],
+  "bbox": [
+    -1.802534,
+    52.572308,
+    -1.802534,
+    52.572308
+],
   "geometry": {"coordinates":[-1.802534,52.572308],"type":"Point"}
 }

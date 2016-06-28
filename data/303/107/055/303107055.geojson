@@ -2,13 +2,14 @@
   "id": 303107055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.101374,51.144466,-1.101374,51.144466",
     "geom:latitude":51.144466,
     "geom:longitude":-1.101374,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Barton Industrial Estate, Upper Wield",
     "sg:city":"Alresford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303107055,
-    "wof:lastmodified":1448998124,
+    "wof:lastmodified":1466265869,
     "wof:name":"B A S Commercial Spares",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dismantlers"
     ]
 },
-  "bbox": [-1.101374,51.144466,-1.101374,51.144466],
+  "bbox": [
+    -1.101374,
+    51.144466,
+    -1.101374,
+    51.144466
+],
   "geometry": {"coordinates":[-1.101374,51.144466],"type":"Point"}
 }

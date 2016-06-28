@@ -2,13 +2,14 @@
   "id": 135650865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.005295,51.453487,-1.005295,51.453487",
     "geom:latitude":51.453487,
     "geom:longitude":-1.005295,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Waverley Rd",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135650865,
-    "wof:lastmodified":1449022873,
+    "wof:lastmodified":1466284552,
     "wof:name":"Waverley Stores",
     "wof:parent_id":85791053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.005295,51.453487,-1.005295,51.453487],
+  "bbox": [
+    -1.005295,
+    51.453487,
+    -1.005295,
+    51.453487
+],
   "geometry": {"coordinates":[-1.005295,51.453487],"type":"Point"}
 }

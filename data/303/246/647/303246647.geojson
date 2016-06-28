@@ -2,13 +2,14 @@
   "id": 303246647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.033499,51.589558,-0.033499,51.589558",
     "geom:latitude":51.589558,
     "geom:longitude":-0.033499,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Bunyan Rd",
     "sg:city":"Walthamstow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303246647,
-    "wof:lastmodified":1448998287,
+    "wof:lastmodified":1466270249,
     "wof:name":"DiaGnosis",
     "wof:parent_id":85792429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "business"
     ]
 },
-  "bbox": [-0.033499,51.589558,-0.033499,51.589558],
+  "bbox": [
+    -0.033499,
+    51.589558,
+    -0.033499,
+    51.589558
+],
   "geometry": {"coordinates":[-0.033499,51.589558],"type":"Point"}
 }

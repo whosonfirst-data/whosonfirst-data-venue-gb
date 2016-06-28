@@ -2,13 +2,14 @@
   "id": 135840101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.798486,52.537846,-2.798486,52.537846",
     "geom:latitude":52.537846,
     "geom:longitude":-2.798486,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Sandford Avenue",
     "sg:city":"Church Stretton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135840101,
-    "wof:lastmodified":1449023345,
+    "wof:lastmodified":1466287823,
     "wof:name":"South View Residential Home",
     "wof:parent_id":101853633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.798486,52.537846,-2.798486,52.537846],
+  "bbox": [
+    -2.798486,
+    52.537846,
+    -2.798486,
+    52.537846
+],
   "geometry": {"coordinates":[-2.798486,52.537846],"type":"Point"}
 }

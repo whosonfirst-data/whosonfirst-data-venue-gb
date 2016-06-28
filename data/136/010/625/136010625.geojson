@@ -2,13 +2,14 @@
   "id": 136010625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.472649,51.013039,-2.472649,51.013039",
     "geom:latitude":51.013039,
     "geom:longitude":-2.472649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Service Station, Charlton Horethorne",
     "sg:city":"Sherborne",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136010625,
-    "wof:lastmodified":1449075740,
+    "wof:lastmodified":1466262074,
     "wof:name":"D S Purcell",
     "wof:parent_id":85684013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.472649,51.013039,-2.472649,51.013039],
+  "bbox": [
+    -2.472649,
+    51.013039,
+    -2.472649,
+    51.013039
+],
   "geometry": {"coordinates":[-2.472649,51.013039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203172643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.316572,54.548496,-1.316572,54.548496",
     "geom:latitude":54.548496,
     "geom:longitude":-1.316572,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Adam St",
     "sg:city":"Stockton On Tees",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203172643,
-    "wof:lastmodified":1449025683,
+    "wof:lastmodified":1466255502,
     "wof:name":"Adam St Auto Spares",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dismantlers"
     ]
 },
-  "bbox": [-1.316572,54.548496,-1.316572,54.548496],
+  "bbox": [
+    -1.316572,
+    54.548496,
+    -1.316572,
+    54.548496
+],
   "geometry": {"coordinates":[-1.316572,54.548496],"type":"Point"}
 }

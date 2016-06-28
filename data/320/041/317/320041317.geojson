@@ -2,13 +2,14 @@
   "id": 320041317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.470223,53.38081,-1.470223,53.38081",
     "geom:latitude":53.38081,
     "geom:longitude":-1.470223,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Fargate",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320041317,
-    "wof:lastmodified":1449012627,
+    "wof:lastmodified":1466269322,
     "wof:name":"Past Times",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-1.470223,53.38081,-1.470223,53.38081],
+  "bbox": [
+    -1.470223,
+    53.38081,
+    -1.470223,
+    53.38081
+],
   "geometry": {"coordinates":[-1.470223,53.38081],"type":"Point"}
 }

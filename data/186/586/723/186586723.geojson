@@ -2,13 +2,14 @@
   "id": 186586723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.786721,51.538078,-1.786721,51.538078",
     "geom:latitude":51.538078,
     "geom:longitude":-1.786721,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Woodland View, Wroughton",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186586723,
-    "wof:lastmodified":1449052713,
+    "wof:lastmodified":1466260764,
     "wof:name":"Black Horse Cattery",
     "wof:parent_id":85791513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "catteries"
     ]
 },
-  "bbox": [-1.786721,51.538078,-1.786721,51.538078],
+  "bbox": [
+    -1.786721,
+    51.538078,
+    -1.786721,
+    51.538078
+],
   "geometry": {"coordinates":[-1.786721,51.538078],"type":"Point"}
 }

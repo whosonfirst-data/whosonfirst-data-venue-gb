@@ -2,13 +2,14 @@
   "id": 102572297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.25981,51.48185,-0.25981,51.48185",
     "geom:latitude":51.48185,
     "geom:longitude":-0.25981,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Chiswick School, Burlington Lane, Chiswick",
     "sg:city":"London",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102572297,
-    "wof:lastmodified":1449069228,
+    "wof:lastmodified":1466263109,
     "wof:name":"Chiswick Sports Hall",
     "wof:parent_id":85792183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.25981,51.48185,-0.25981,51.48185],
+  "bbox": [
+    -0.25981,
+    51.48185,
+    -0.25981,
+    51.48185
+],
   "geometry": {"coordinates":[-0.25981,51.48185],"type":"Point"}
 }

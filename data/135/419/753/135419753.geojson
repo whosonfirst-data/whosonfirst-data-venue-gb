@@ -2,13 +2,14 @@
   "id": 135419753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.928379,51.678082,-3.928379,51.678082",
     "geom:latitude":51.678082,
     "geom:longitude":-3.928379,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Po Box 305 Morriston",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135419753,
-    "wof:lastmodified":1449023928,
+    "wof:lastmodified":1466265022,
     "wof:name":"McArthur Faull",
     "wof:parent_id":85791885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.928379,51.678082,-3.928379,51.678082],
+  "bbox": [
+    -3.928379,
+    51.678082,
+    -3.928379,
+    51.678082
+],
   "geometry": {"coordinates":[-3.928379,51.678082],"type":"Point"}
 }

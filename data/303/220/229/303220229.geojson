@@ -2,13 +2,14 @@
   "id": 303220229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.505371,54.091396,-1.505371,54.091396",
     "geom:latitude":54.091396,
     "geom:longitude":-1.505371,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Woodleigh Hungate, Bishop Monkton",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303220229,
-    "wof:lastmodified":1449000479,
+    "wof:lastmodified":1466269453,
     "wof:name":"G R Waddington & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-1.505371,54.091396,-1.505371,54.091396],
+  "bbox": [
+    -1.505371,
+    54.091396,
+    -1.505371,
+    54.091396
+],
   "geometry": {"coordinates":[-1.505371,54.091396],"type":"Point"}
 }

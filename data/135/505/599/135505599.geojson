@@ -2,13 +2,14 @@
   "id": 135505599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.97347,53.432873,-2.97347,53.432873",
     "geom:latitude":53.432873,
     "geom:longitude":-2.97347,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Walton Road",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":135505599,
-    "wof:lastmodified":1449023515,
+    "wof:lastmodified":1466275151,
     "wof:name":"Charlie Mac's",
     "wof:parent_id":85787305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.97347,53.432873,-2.97347,53.432873],
+  "bbox": [
+    -2.97347,
+    53.432873,
+    -2.97347,
+    53.432873
+],
   "geometry": {"coordinates":[-2.97347,53.432873],"type":"Point"}
 }

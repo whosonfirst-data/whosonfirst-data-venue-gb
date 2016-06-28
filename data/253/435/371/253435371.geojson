@@ -2,13 +2,14 @@
   "id": 253435371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.146565,52.457283,-2.146565,52.457283",
     "geom:latitude":52.457283,
     "geom:longitude":-2.146565,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"52-53 High Street",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":253435371,
-    "wof:lastmodified":1449065512,
+    "wof:lastmodified":1466266359,
     "wof:name":"Papers & Pens",
     "wof:parent_id":85791731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-2.146565,52.457283,-2.146565,52.457283],
+  "bbox": [
+    -2.146565,
+    52.457283,
+    -2.146565,
+    52.457283
+],
   "geometry": {"coordinates":[-2.146565,52.457283],"type":"Point"}
 }

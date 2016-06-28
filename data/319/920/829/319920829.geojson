@@ -2,13 +2,14 @@
   "id": 319920829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.193653,52.95512,-1.193653,52.95512",
     "geom:latitude":52.95512,
     "geom:longitude":-1.193653,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 178 Wollaton Road",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":319920829,
-    "wof:lastmodified":1449024705,
+    "wof:lastmodified":1466270560,
     "wof:name":"Andrew Price",
     "wof:parent_id":85861907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.193653,52.95512,-1.193653,52.95512],
+  "bbox": [
+    -1.193653,
+    52.95512,
+    -1.193653,
+    52.95512
+],
   "geometry": {"coordinates":[-1.193653,52.95512],"type":"Point"}
 }

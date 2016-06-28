@@ -2,13 +2,14 @@
   "id": 203193955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.487124,51.28677,-2.487124,51.28677",
     "geom:latitude":51.28677,
     "geom:longitude":-2.487124,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Midsomer Enterprise Park, Radstock Rd, Midsomer Norton",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203193955,
-    "wof:lastmodified":1449025251,
+    "wof:lastmodified":1466255899,
     "wof:name":"Sutton Transformers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "transformer"
     ]
 },
-  "bbox": [-2.487124,51.28677,-2.487124,51.28677],
+  "bbox": [
+    -2.487124,
+    51.28677,
+    -2.487124,
+    51.28677
+],
   "geometry": {"coordinates":[-2.487124,51.28677],"type":"Point"}
 }

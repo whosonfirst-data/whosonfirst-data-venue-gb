@@ -2,13 +2,14 @@
   "id": 269529383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.756135,50.733189,-2.756135,50.733189",
     "geom:latitude":50.733189,
     "geom:longitude":-2.756135,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34a East Street",
     "sg:city":"Bridport",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":269529383,
-    "wof:lastmodified":1449037187,
+    "wof:lastmodified":1466261363,
     "wof:name":"A-Z Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-2.756135,50.733189,-2.756135,50.733189],
+  "bbox": [
+    -2.756135,
+    50.733189,
+    -2.756135,
+    50.733189
+],
   "geometry": {"coordinates":[-2.756135,50.733189],"type":"Point"}
 }

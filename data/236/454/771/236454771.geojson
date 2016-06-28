@@ -2,13 +2,14 @@
   "id": 236454771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.487249,53.667202,-1.487249,53.667202",
     "geom:latitude":53.667202,
     "geom:longitude":-1.487249,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Barnsley Road, Sandal",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236454771,
-    "wof:lastmodified":1449004872,
+    "wof:lastmodified":1466265027,
     "wof:name":"John H Dacre",
     "wof:parent_id":85785235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "chemist"
     ]
 },
-  "bbox": [-1.487249,53.667202,-1.487249,53.667202],
+  "bbox": [
+    -1.487249,
+    53.667202,
+    -1.487249,
+    53.667202
+],
   "geometry": {"coordinates":[-1.487249,53.667202],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236111061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.30711,50.933449,-1.30711,50.933449",
     "geom:latitude":50.933449,
     "geom:longitude":-1.30711,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Britannia Gds, Hedge End",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236111061,
-    "wof:lastmodified":1449005378,
+    "wof:lastmodified":1466258623,
     "wof:name":"Ray Dunn Coach Travel",
     "wof:parent_id":85792803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "coach"
     ]
 },
-  "bbox": [-1.30711,50.933449,-1.30711,50.933449],
+  "bbox": [
+    -1.30711,
+    50.933449,
+    -1.30711,
+    50.933449
+],
   "geometry": {"coordinates":[-1.30711,50.933449],"type":"Point"}
 }

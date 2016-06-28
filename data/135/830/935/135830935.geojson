@@ -2,13 +2,14 @@
   "id": 135830935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.1742,52.749744,-1.1742,52.749744",
     "geom:latitude":52.749744,
     "geom:longitude":-1.1742,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Deeming Drive, Quorn",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135830935,
-    "wof:lastmodified":1449021625,
+    "wof:lastmodified":1466287744,
     "wof:name":"WILLIAM H SALMON",
     "wof:parent_id":85683891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.1742,52.749744,-1.1742,52.749744],
+  "bbox": [
+    -1.1742,
+    52.749744,
+    -1.1742,
+    52.749744
+],
   "geometry": {"coordinates":[-1.1742,52.749744],"type":"Point"}
 }

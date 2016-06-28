@@ -2,13 +2,14 @@
   "id": 202456397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.502465,51.462406,-2.502465,51.462406",
     "geom:latitude":51.462406,
     "geom:longitude":-2.502465,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"71 High Street, Kingswood",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202456397,
-    "wof:lastmodified":1449060867,
+    "wof:lastmodified":1466253477,
     "wof:name":"Kingswood Young Homeless Project",
     "wof:parent_id":85789311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-2.502465,51.462406,-2.502465,51.462406],
+  "bbox": [
+    -2.502465,
+    51.462406,
+    -2.502465,
+    51.462406
+],
   "geometry": {"coordinates":[-2.502465,51.462406],"type":"Point"}
 }

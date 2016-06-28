@@ -2,13 +2,14 @@
   "id": 135713651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.535911,50.471642,-3.535911,50.471642",
     "geom:latitude":50.471642,
     "geom:longitude":-3.535911,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Sunbury Terr, Sunbury Hill",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135713651,
-    "wof:lastmodified":1449023719,
+    "wof:lastmodified":1466286514,
     "wof:name":"Nicholas Spray",
     "wof:parent_id":101751577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.535911,50.471642,-3.535911,50.471642],
+  "bbox": [
+    -3.535911,
+    50.471642,
+    -3.535911,
+    50.471642
+],
   "geometry": {"coordinates":[-3.535911,50.471642],"type":"Point"}
 }

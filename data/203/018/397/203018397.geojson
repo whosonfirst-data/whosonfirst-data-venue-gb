@@ -2,13 +2,14 @@
   "id": 203018397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.181209,52.997971,-1.181209,52.997971",
     "geom:latitude":52.997971,
     "geom:longitude":-1.181209,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Sunningdale Road",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203018397,
-    "wof:lastmodified":1449025872,
+    "wof:lastmodified":1466252953,
     "wof:name":"Abbey Fencing",
     "wof:parent_id":85861945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fencing"
     ]
 },
-  "bbox": [-1.181209,52.997971,-1.181209,52.997971],
+  "bbox": [
+    -1.181209,
+    52.997971,
+    -1.181209,
+    52.997971
+],
   "geometry": {"coordinates":[-1.181209,52.997971],"type":"Point"}
 }

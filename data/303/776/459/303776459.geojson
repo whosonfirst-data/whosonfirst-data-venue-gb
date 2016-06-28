@@ -2,13 +2,14 @@
   "id": 303776459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.196324,51.482613,-3.196324,51.482613",
     "geom:latitude":51.482613,
     "geom:longitude":-3.196324,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Kings Road, Canton",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303776459,
-    "wof:lastmodified":1448998647,
+    "wof:lastmodified":1466282794,
     "wof:name":"L J Collins",
     "wof:parent_id":85861447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-3.196324,51.482613,-3.196324,51.482613],
+  "bbox": [
+    -3.196324,
+    51.482613,
+    -3.196324,
+    51.482613
+],
   "geometry": {"coordinates":[-3.196324,51.482613],"type":"Point"}
 }

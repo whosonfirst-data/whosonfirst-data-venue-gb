@@ -2,13 +2,14 @@
   "id": 303056887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.070816,50.326565,-4.070816,50.326565",
     "geom:latitude":50.326565,
     "geom:longitude":-4.070816,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Barton Close, Wembury",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303056887,
-    "wof:lastmodified":1448998815,
+    "wof:lastmodified":1466264131,
     "wof:name":"Wembury Cars",
     "wof:parent_id":85790687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "private"
     ]
 },
-  "bbox": [-4.070816,50.326565,-4.070816,50.326565],
+  "bbox": [
+    -4.070816,
+    50.326565,
+    -4.070816,
+    50.326565
+],
   "geometry": {"coordinates":[-4.070816,50.326565],"type":"Point"}
 }

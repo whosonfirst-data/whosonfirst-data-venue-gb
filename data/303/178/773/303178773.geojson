@@ -2,13 +2,14 @@
   "id": 303178773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.544769,53.993469,-1.544769,53.993469",
     "geom:latitude":53.993469,
     "geom:longitude":-1.544769,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Montpellier Parade",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303178773,
-    "wof:lastmodified":1448999871,
+    "wof:lastmodified":1466268092,
     "wof:name":"Tennants Auctioneers",
     "wof:parent_id":85790715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "auctioneer"
     ]
 },
-  "bbox": [-1.544769,53.993469,-1.544769,53.993469],
+  "bbox": [
+    -1.544769,
+    53.993469,
+    -1.544769,
+    53.993469
+],
   "geometry": {"coordinates":[-1.544769,53.993469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203285801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.018136,51.665321,-4.018136,51.665321",
     "geom:latitude":51.665321,
     "geom:longitude":-4.018136,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Phoenix Way",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203285801,
-    "wof:lastmodified":1449025003,
+    "wof:lastmodified":1466257594,
     "wof:name":"Swansea Couriers",
     "wof:parent_id":85791391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "courier"
     ]
 },
-  "bbox": [-4.018136,51.665321,-4.018136,51.665321],
+  "bbox": [
+    -4.018136,
+    51.665321,
+    -4.018136,
+    51.665321
+],
   "geometry": {"coordinates":[-4.018136,51.665321],"type":"Point"}
 }

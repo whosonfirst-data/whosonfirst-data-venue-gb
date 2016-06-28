@@ -2,13 +2,14 @@
   "id": 303987569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.529584,51.503643,-2.529584,51.503643",
     "geom:latitude":51.503643,
     "geom:longitude":-2.529584,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Commonmead Lane, Hambrook",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303987569,
-    "wof:lastmodified":1448999490,
+    "wof:lastmodified":1466285407,
     "wof:name":"Hambrook Golf Range",
     "wof:parent_id":85787517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "driving"
     ]
 },
-  "bbox": [-2.529584,51.503643,-2.529584,51.503643],
+  "bbox": [
+    -2.529584,
+    51.503643,
+    -2.529584,
+    51.503643
+],
   "geometry": {"coordinates":[-2.529584,51.503643],"type":"Point"}
 }

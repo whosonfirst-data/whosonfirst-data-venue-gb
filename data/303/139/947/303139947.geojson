@@ -2,13 +2,14 @@
   "id": 303139947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.85104,50.728596,-1.85104,50.728596",
     "geom:latitude":50.728596,
     "geom:longitude":-1.85104,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 St Clements Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303139947,
-    "wof:lastmodified":1448998351,
+    "wof:lastmodified":1466266867,
     "wof:name":"Wessex Home Tuition",
     "wof:parent_id":85785869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tuition"
     ]
 },
-  "bbox": [-1.85104,50.728596,-1.85104,50.728596],
+  "bbox": [
+    -1.85104,
+    50.728596,
+    -1.85104,
+    50.728596
+],
   "geometry": {"coordinates":[-1.85104,50.728596],"type":"Point"}
 }

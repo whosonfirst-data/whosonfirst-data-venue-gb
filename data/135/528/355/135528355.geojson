@@ -2,13 +2,14 @@
   "id": 135528355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.24306,51.405483,-1.24306,51.405483",
     "geom:latitude":51.405483,
     "geom:longitude":-1.24306,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Broadmeadow End, Thatcham",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135528355,
-    "wof:lastmodified":1449021815,
+    "wof:lastmodified":1466277838,
     "wof:name":"A & B Signs",
     "wof:parent_id":101852665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.24306,51.405483,-1.24306,51.405483],
+  "bbox": [
+    -1.24306,
+    51.405483,
+    -1.24306,
+    51.405483
+],
   "geometry": {"coordinates":[-1.24306,51.405483],"type":"Point"}
 }

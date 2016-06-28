@@ -2,13 +2,14 @@
   "id": 119460721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.233509,52.80262,-1.233509,52.80262",
     "geom:latitude":52.80262,
     "geom:longitude":-1.233509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Street, Normanton On Soar",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119460721,
-    "wof:lastmodified":1449043401,
+    "wof:lastmodified":1466286473,
     "wof:name":"The Plough Inn",
     "wof:parent_id":85683849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.233509,52.80262,-1.233509,52.80262],
+  "bbox": [
+    -1.233509,
+    52.80262,
+    -1.233509,
+    52.80262
+],
   "geometry": {"coordinates":[-1.233509,52.80262],"type":"Point"}
 }

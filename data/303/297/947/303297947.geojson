@@ -2,13 +2,14 @@
   "id": 303297947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.137303,51.992653,-2.137303,51.992653",
     "geom:latitude":51.992653,
     "geom:longitude":-2.137303,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Tirlebank Way",
     "sg:city":"Tewkesbury",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303297947,
-    "wof:lastmodified":1448999672,
+    "wof:lastmodified":1466271790,
     "wof:name":"Mike Gee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "heating"
     ]
 },
-  "bbox": [-2.137303,51.992653,-2.137303,51.992653],
+  "bbox": [
+    -2.137303,
+    51.992653,
+    -2.137303,
+    51.992653
+],
   "geometry": {"coordinates":[-2.137303,51.992653],"type":"Point"}
 }

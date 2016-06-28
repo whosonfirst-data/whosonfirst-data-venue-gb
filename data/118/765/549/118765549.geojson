@@ -2,13 +2,14 @@
   "id": 118765549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.197291,55.953342,-3.197291,55.953342",
     "geom:latitude":55.953342,
     "geom:longitude":-3.197291,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Hanover Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118765549,
-    "wof:lastmodified":1449053965,
+    "wof:lastmodified":1466270194,
     "wof:name":"Gleeds",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.197291,55.953342,-3.197291,55.953342],
+  "bbox": [
+    -3.197291,
+    55.953342,
+    -3.197291,
+    55.953342
+],
   "geometry": {"coordinates":[-3.197291,55.953342],"type":"Point"}
 }

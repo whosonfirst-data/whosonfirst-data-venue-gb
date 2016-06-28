@@ -2,13 +2,14 @@
   "id": 119000973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.261273,55.858681,-4.261273,55.858681",
     "geom:latitude":55.858681,
     "geom:longitude":-4.261273,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"232 Argyle St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119000973,
-    "wof:lastmodified":1449041246,
+    "wof:lastmodified":1466252693,
     "wof:name":"Argyle Florists",
     "wof:parent_id":85792619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.261273,55.858681,-4.261273,55.858681],
+  "bbox": [
+    -4.261273,
+    55.858681,
+    -4.261273,
+    55.858681
+],
   "geometry": {"coordinates":[-4.261273,55.858681],"type":"Point"}
 }

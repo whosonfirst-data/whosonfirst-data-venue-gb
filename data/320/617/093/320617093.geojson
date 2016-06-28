@@ -2,13 +2,14 @@
   "id": 320617093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.313249,55.87199,-4.313249,55.87199",
     "geom:latitude":55.87199,
     "geom:longitude":-4.313249,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Crow Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":320617093,
-    "wof:lastmodified":1449011384,
+    "wof:lastmodified":1466282839,
     "wof:name":"Cameron & Wright",
     "wof:parent_id":85789735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-4.313249,55.87199,-4.313249,55.87199],
+  "bbox": [
+    -4.313249,
+    55.87199,
+    -4.313249,
+    55.87199
+],
   "geometry": {"coordinates":[-4.313249,55.87199],"type":"Point"}
 }

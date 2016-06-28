@@ -2,13 +2,14 @@
   "id": 135638003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.660196,50.790802,-3.660196,50.790802",
     "geom:latitude":50.790802,
     "geom:longitude":-3.660196,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"114 High Street",
     "sg:city":"Crediton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135638003,
-    "wof:lastmodified":1449021157,
+    "wof:lastmodified":1466284353,
     "wof:name":"Philip Garrard",
     "wof:parent_id":85683773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.660196,50.790802,-3.660196,50.790802],
+  "bbox": [
+    -3.660196,
+    50.790802,
+    -3.660196,
+    50.790802
+],
   "geometry": {"coordinates":[-3.660196,50.790802],"type":"Point"}
 }

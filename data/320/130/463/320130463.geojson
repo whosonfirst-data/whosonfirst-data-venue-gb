@@ -2,13 +2,14 @@
   "id": 320130463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.553077,55.836288,-4.553077,55.836288",
     "geom:latitude":55.836288,
     "geom:longitude":-4.553077,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Steeple Square, Kilbarchan",
     "sg:city":"Johnstone",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":320130463,
-    "wof:lastmodified":1449012558,
+    "wof:lastmodified":1466272005,
     "wof:name":"Kilbarchan Steeple Hall",
     "wof:parent_id":85792519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-4.553077,55.836288,-4.553077,55.836288],
+  "bbox": [
+    -4.553077,
+    55.836288,
+    -4.553077,
+    55.836288
+],
   "geometry": {"coordinates":[-4.553077,55.836288],"type":"Point"}
 }

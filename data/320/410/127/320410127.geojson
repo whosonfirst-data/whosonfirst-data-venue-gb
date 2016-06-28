@@ -2,13 +2,14 @@
   "id": 320410127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.266087,53.427109,-1.266087,53.427109",
     "geom:latitude":53.427109,
     "geom:longitude":-1.266087,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Gaunt Rd, Bramley",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320410127,
-    "wof:lastmodified":1449011311,
+    "wof:lastmodified":1466279530,
     "wof:name":"FireTec",
     "wof:parent_id":85787447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cctv"
     ]
 },
-  "bbox": [-1.266087,53.427109,-1.266087,53.427109],
+  "bbox": [
+    -1.266087,
+    53.427109,
+    -1.266087,
+    53.427109
+],
   "geometry": {"coordinates":[-1.266087,53.427109],"type":"Point"}
 }

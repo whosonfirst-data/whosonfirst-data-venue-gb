@@ -2,13 +2,14 @@
   "id": 269508595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.251456,51.515617,-3.251456,51.515617",
     "geom:latitude":51.515617,
     "geom:longitude":-3.251456,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1a Station Road, Radyr",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269508595,
-    "wof:lastmodified":1449037478,
+    "wof:lastmodified":1466260674,
     "wof:name":"The Patisserie",
     "wof:parent_id":85861439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-3.251456,51.515617,-3.251456,51.515617],
+  "bbox": [
+    -3.251456,
+    51.515617,
+    -3.251456,
+    51.515617
+],
   "geometry": {"coordinates":[-3.251456,51.515617],"type":"Point"}
 }

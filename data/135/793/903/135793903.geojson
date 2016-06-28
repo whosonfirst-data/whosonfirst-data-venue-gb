@@ -2,13 +2,14 @@
   "id": 135793903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.157485,50.729286,-1.157485,50.729286",
     "geom:latitude":50.729286,
     "geom:longitude":-1.157485,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Dover Street",
     "sg:city":"Ryde",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135793903,
-    "wof:lastmodified":1449022665,
+    "wof:lastmodified":1466287333,
     "wof:name":"The Dorset Hotel",
     "wof:parent_id":101852319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.157485,50.729286,-1.157485,50.729286],
+  "bbox": [
+    -1.157485,
+    50.729286,
+    -1.157485,
+    50.729286
+],
   "geometry": {"coordinates":[-1.157485,50.729286],"type":"Point"}
 }

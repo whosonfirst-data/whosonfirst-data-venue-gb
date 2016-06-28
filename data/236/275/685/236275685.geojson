@@ -2,13 +2,14 @@
   "id": 236275685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.460659,55.840359,-4.460659,55.840359",
     "geom:latitude":55.840359,
     "geom:longitude":-4.460659,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Ferguslie",
     "sg:city":"Paisley",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236275685,
-    "wof:lastmodified":1449002558,
+    "wof:lastmodified":1466261783,
     "wof:name":"Millarston Dairy",
     "wof:parent_id":85789101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.460659,55.840359,-4.460659,55.840359],
+  "bbox": [
+    -4.460659,
+    55.840359,
+    -4.460659,
+    55.840359
+],
   "geometry": {"coordinates":[-4.460659,55.840359],"type":"Point"}
 }

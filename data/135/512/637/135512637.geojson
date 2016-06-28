@@ -2,13 +2,14 @@
   "id": 135512637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.192006,55.947189,-3.192006,55.947189",
     "geom:latitude":55.947189,
     "geom:longitude":-3.192006,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Candlemaker Row",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135512637,
-    "wof:lastmodified":1449023196,
+    "wof:lastmodified":1466275974,
     "wof:name":"The Haw House",
     "wof:parent_id":85861505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.192006,55.947189,-3.192006,55.947189],
+  "bbox": [
+    -3.192006,
+    55.947189,
+    -3.192006,
+    55.947189
+],
   "geometry": {"coordinates":[-3.192006,55.947189],"type":"Point"}
 }

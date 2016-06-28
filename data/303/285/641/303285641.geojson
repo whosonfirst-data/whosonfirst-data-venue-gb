@@ -2,13 +2,14 @@
   "id": 303285641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.47919,52.037601,-1.47919,52.037601",
     "geom:latitude":52.037601,
     "geom:longitude":-1.47919,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sibford Gower",
     "sg:city":"Banbury",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303285641,
-    "wof:lastmodified":1448998189,
+    "wof:lastmodified":1466271430,
     "wof:name":"Sibford Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "practitioners"
     ]
 },
-  "bbox": [-1.47919,52.037601,-1.47919,52.037601],
+  "bbox": [
+    -1.47919,
+    52.037601,
+    -1.47919,
+    52.037601
+],
   "geometry": {"coordinates":[-1.47919,52.037601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320080767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.182893,53.018833,-2.182893,53.018833",
     "geom:latitude":53.018833,
     "geom:longitude":-2.182893,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Snow Hill",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320080767,
-    "wof:lastmodified":1449014861,
+    "wof:lastmodified":1466270574,
     "wof:name":"Snow Hill News",
     "wof:parent_id":85787299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.182893,53.018833,-2.182893,53.018833],
+  "bbox": [
+    -2.182893,
+    53.018833,
+    -2.182893,
+    53.018833
+],
   "geometry": {"coordinates":[-2.182893,53.018833],"type":"Point"}
 }

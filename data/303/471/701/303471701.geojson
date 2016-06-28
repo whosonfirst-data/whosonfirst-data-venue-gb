@@ -2,13 +2,14 @@
   "id": 303471701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.068489,52.961514,-1.068489,52.961514",
     "geom:latitude":52.961514,
     "geom:longitude":-1.068489,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit B, Victoria Park Way, Victoria Business Park",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303471701,
-    "wof:lastmodified":1448999102,
+    "wof:lastmodified":1466277077,
     "wof:name":"S & A Removals & Storage",
     "wof:parent_id":85861921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "removal"
     ]
 },
-  "bbox": [-1.068489,52.961514,-1.068489,52.961514],
+  "bbox": [
+    -1.068489,
+    52.961514,
+    -1.068489,
+    52.961514
+],
   "geometry": {"coordinates":[-1.068489,52.961514],"type":"Point"}
 }

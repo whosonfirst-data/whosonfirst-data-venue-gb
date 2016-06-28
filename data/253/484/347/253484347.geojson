@@ -2,13 +2,14 @@
   "id": 253484347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.372088,50.97678,-1.372088,50.97678",
     "geom:latitude":50.97678,
     "geom:longitude":-1.372088,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Mount Drive, Chandler's Ford",
     "sg:city":"Eastleigh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253484347,
-    "wof:lastmodified":1449065625,
+    "wof:lastmodified":1466267599,
     "wof:name":"Chandlers Ford Private Hire",
     "wof:parent_id":85792829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cab"
     ]
 },
-  "bbox": [-1.372088,50.97678,-1.372088,50.97678],
+  "bbox": [
+    -1.372088,
+    50.97678,
+    -1.372088,
+    50.97678
+],
   "geometry": {"coordinates":[-1.372088,50.97678],"type":"Point"}
 }

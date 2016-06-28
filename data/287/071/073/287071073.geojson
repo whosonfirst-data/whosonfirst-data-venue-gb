@@ -2,13 +2,14 @@
   "id": 287071073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.111503,55.952282,-3.111503,55.952282",
     "geom:latitude":55.952282,
     "geom:longitude":-3.111503,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Portobello High Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287071073,
-    "wof:lastmodified":1449001232,
+    "wof:lastmodified":1466265143,
     "wof:name":"Kristoffersen Carpets",
     "wof:parent_id":85789915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "matting"
     ]
 },
-  "bbox": [-3.111503,55.952282,-3.111503,55.952282],
+  "bbox": [
+    -3.111503,
+    55.952282,
+    -3.111503,
+    55.952282
+],
   "geometry": {"coordinates":[-3.111503,55.952282],"type":"Point"}
 }

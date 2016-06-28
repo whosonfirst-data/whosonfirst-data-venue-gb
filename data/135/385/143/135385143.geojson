@@ -2,13 +2,14 @@
   "id": 135385143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.60863,51.4594,-2.60863,51.4594",
     "geom:latitude":51.4594,
     "geom:longitude":-2.60863,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Clifton Down Shopping Centre, Whiteladies Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135385143,
-    "wof:lastmodified":1449022817,
+    "wof:lastmodified":1466260965,
     "wof:name":"Cards",
     "wof:parent_id":85786701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.60863,51.4594,-2.60863,51.4594],
+  "bbox": [
+    -2.60863,
+    51.4594,
+    -2.60863,
+    51.4594
+],
   "geometry": {"coordinates":[-2.60863,51.4594],"type":"Point"}
 }

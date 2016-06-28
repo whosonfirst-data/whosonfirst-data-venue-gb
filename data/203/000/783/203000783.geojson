@@ -2,13 +2,14 @@
   "id": 203000783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.154107,52.996494,-2.154107,52.996494",
     "geom:latitude":52.996494,
     "geom:longitude":-2.154107,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Mason Street",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203000783,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466278133,
     "wof:name":"H N Motor Services",
     "wof:parent_id":85787407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.154107,52.996494,-2.154107,52.996494],
+  "bbox": [
+    -2.154107,
+    52.996494,
+    -2.154107,
+    52.996494
+],
   "geometry": {"coordinates":[-2.154107,52.996494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236162433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.149488,51.475849,-0.149488,51.475849",
     "geom:latitude":51.475849,
     "geom:longitude":-0.149488,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Battersea Park Rd",
     "sg:city":"Battersea",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236162433,
-    "wof:lastmodified":1449004668,
+    "wof:lastmodified":1466259571,
     "wof:name":"Battersea Counselling Centre",
     "wof:parent_id":85785537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "counselling"
     ]
 },
-  "bbox": [-0.149488,51.475849,-0.149488,51.475849],
+  "bbox": [
+    -0.149488,
+    51.475849,
+    -0.149488,
+    51.475849
+],
   "geometry": {"coordinates":[-0.149488,51.475849],"type":"Point"}
 }

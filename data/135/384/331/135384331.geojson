@@ -2,13 +2,14 @@
   "id": 135384331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.127949,53.558273,-2.127949,53.558273",
     "geom:latitude":53.558273,
     "geom:longitude":-2.127949,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Broadway",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135384331,
-    "wof:lastmodified":1449021360,
+    "wof:lastmodified":1466260876,
     "wof:name":"Monarch Filling Station",
     "wof:parent_id":85793093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.127949,53.558273,-2.127949,53.558273],
+  "bbox": [
+    -2.127949,
+    53.558273,
+    -2.127949,
+    53.558273
+],
   "geometry": {"coordinates":[-2.127949,53.558273],"type":"Point"}
 }

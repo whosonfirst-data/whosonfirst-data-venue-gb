@@ -2,13 +2,14 @@
   "id": 119184125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.29322,55.877102,-4.29322,55.877102",
     "geom:latitude":55.877102,
     "geom:longitude":-4.29322,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Loudon Terr",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119184125,
-    "wof:lastmodified":1449041275,
+    "wof:lastmodified":1466267380,
     "wof:name":"Hawthorn",
     "wof:parent_id":85792609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.29322,55.877102,-4.29322,55.877102],
+  "bbox": [
+    -4.29322,
+    55.877102,
+    -4.29322,
+    55.877102
+],
   "geometry": {"coordinates":[-4.29322,55.877102],"type":"Point"}
 }

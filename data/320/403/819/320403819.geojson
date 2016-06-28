@@ -2,13 +2,14 @@
   "id": 320403819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.405278,54.240189,-0.405278,54.240189",
     "geom:latitude":54.240189,
     "geom:longitude":-0.405278,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Reading Rooms, High Street, Cloughton",
     "sg:city":"Scarborough",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":320403819,
-    "wof:lastmodified":1449014451,
+    "wof:lastmodified":1466279451,
     "wof:name":"Burniston & Cloughton Playgroup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "playgroups"
     ]
 },
-  "bbox": [-0.405278,54.240189,-0.405278,54.240189],
+  "bbox": [
+    -0.405278,
+    54.240189,
+    -0.405278,
+    54.240189
+],
   "geometry": {"coordinates":[-0.405278,54.240189],"type":"Point"}
 }

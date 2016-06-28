@@ -2,13 +2,14 @@
   "id": 119403143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.710415,56.501347,-2.710415,56.501347",
     "geom:latitude":56.501347,
     "geom:longitude":-2.710415,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"70 High St",
     "sg:city":"Carnoustie",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":119403143,
-    "wof:lastmodified":1449043162,
+    "wof:lastmodified":1466285223,
     "wof:name":"Johnston,L,",
     "wof:parent_id":101873587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.710415,56.501347,-2.710415,56.501347],
+  "bbox": [
+    -2.710415,
+    56.501347,
+    -2.710415,
+    56.501347
+],
   "geometry": {"coordinates":[-2.710415,56.501347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135947865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.120206,53.351894,-3.120206,53.351894",
     "geom:latitude":53.351894,
     "geom:longitude":-3.120206,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Thurstaston Road, Irby",
     "sg:city":"Wirral",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135947865,
-    "wof:lastmodified":1449023189,
+    "wof:lastmodified":1466288385,
     "wof:name":"The Anchor Inn",
     "wof:parent_id":85793097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.120206,53.351894,-3.120206,53.351894],
+  "bbox": [
+    -3.120206,
+    53.351894,
+    -3.120206,
+    53.351894
+],
   "geometry": {"coordinates":[-3.120206,53.351894],"type":"Point"}
 }

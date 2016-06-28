@@ -2,13 +2,14 @@
   "id": 185895435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.002836,53.643387,-3.002836,53.643387",
     "geom:latitude":53.643387,
     "geom:longitude":-3.002836,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Eastbank St",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185895435,
-    "wof:lastmodified":1449007287,
+    "wof:lastmodified":1466255841,
     "wof:name":"Electrical & Home Lighting",
     "wof:parent_id":85785733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "lighting"
     ]
 },
-  "bbox": [-3.002836,53.643387,-3.002836,53.643387],
+  "bbox": [
+    -3.002836,
+    53.643387,
+    -3.002836,
+    53.643387
+],
   "geometry": {"coordinates":[-3.002836,53.643387],"type":"Point"}
 }

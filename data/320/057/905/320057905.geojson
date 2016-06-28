@@ -2,13 +2,14 @@
   "id": 320057905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.509581,53.377003,-1.509581,53.377003",
     "geom:latitude":53.377003,
     "geom:longitude":-1.509581,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Oak Park",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320057905,
-    "wof:lastmodified":1449013107,
+    "wof:lastmodified":1466269816,
     "wof:name":"ST PELLEGRINO HOTEL",
     "wof:parent_id":85793117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.509581,53.377003,-1.509581,53.377003],
+  "bbox": [
+    -1.509581,
+    53.377003,
+    -1.509581,
+    53.377003
+],
   "geometry": {"coordinates":[-1.509581,53.377003],"type":"Point"}
 }

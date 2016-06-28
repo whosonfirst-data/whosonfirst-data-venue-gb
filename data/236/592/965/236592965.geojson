@@ -2,13 +2,14 @@
   "id": 236592965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.189404,51.580551,0.189404,51.580551",
     "geom:latitude":51.580551,
     "geom:longitude":0.189404,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Gilbert Road",
     "sg:city":"Romford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236592965,
-    "wof:lastmodified":1449003563,
+    "wof:lastmodified":1466267684,
     "wof:name":"Abbotsford Nursing Home",
     "wof:parent_id":85790087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [0.189404,51.580551,0.189404,51.580551],
+  "bbox": [
+    0.189404,
+    51.580551,
+    0.189404,
+    51.580551
+],
   "geometry": {"coordinates":[0.189404,51.580551],"type":"Point"}
 }

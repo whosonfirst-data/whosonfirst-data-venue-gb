@@ -2,13 +2,14 @@
   "id": 118671343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.079823,50.358551,-4.079823,50.358551",
     "geom:latitude":50.358551,
     "geom:longitude":-4.079823,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Dunstone View, Plymstock",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118671343,
-    "wof:lastmodified":1449053462,
+    "wof:lastmodified":1466263169,
     "wof:name":"Don Fraser",
     "wof:parent_id":85787269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.079823,50.358551,-4.079823,50.358551],
+  "bbox": [
+    -4.079823,
+    50.358551,
+    -4.079823,
+    50.358551
+],
   "geometry": {"coordinates":[-4.079823,50.358551],"type":"Point"}
 }

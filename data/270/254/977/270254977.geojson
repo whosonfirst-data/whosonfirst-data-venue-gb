@@ -2,13 +2,14 @@
   "id": 270254977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.663509,55.614021,-4.663509,55.614021",
     "geom:latitude":55.614021,
     "geom:longitude":-4.663509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6-8 High St",
     "sg:city":"Irvine",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270254977,
-    "wof:lastmodified":1449010350,
+    "wof:lastmodified":1466267987,
     "wof:name":"Townhead Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-4.663509,55.614021,-4.663509,55.614021],
+  "bbox": [
+    -4.663509,
+    55.614021,
+    -4.663509,
+    55.614021
+],
   "geometry": {"coordinates":[-4.663509,55.614021],"type":"Point"}
 }

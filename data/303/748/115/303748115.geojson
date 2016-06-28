@@ -2,13 +2,14 @@
   "id": 303748115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.12107,53.378811,-2.12107,53.378811",
     "geom:latitude":53.378811,
     "geom:longitude":-2.12107,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Old Fire Station, Argyle Street, Hazel Grove",
     "sg:city":"Stockport",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303748115,
-    "wof:lastmodified":1448999953,
+    "wof:lastmodified":1466282493,
     "wof:name":"Peak Builders Ltd.",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-2.12107,53.378811,-2.12107,53.378811],
+  "bbox": [
+    -2.12107,
+    53.378811,
+    -2.12107,
+    53.378811
+],
   "geometry": {"coordinates":[-2.12107,53.378811],"type":"Point"}
 }

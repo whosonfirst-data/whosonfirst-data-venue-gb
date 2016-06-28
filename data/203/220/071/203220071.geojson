@@ -2,13 +2,14 @@
   "id": 203220071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.40125,50.914791,-1.40125,50.914791",
     "geom:latitude":50.914791,
     "geom:longitude":-1.40125,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The First Ho, 1a The Avenue",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203220071,
-    "wof:lastmodified":1449026803,
+    "wof:lastmodified":1466256385,
     "wof:name":"Bernard Chill & Axtell",
     "wof:parent_id":85861259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-1.40125,50.914791,-1.40125,50.914791],
+  "bbox": [
+    -1.40125,
+    50.914791,
+    -1.40125,
+    50.914791
+],
   "geometry": {"coordinates":[-1.40125,50.914791],"type":"Point"}
 }

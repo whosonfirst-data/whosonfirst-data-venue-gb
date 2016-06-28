@@ -2,13 +2,14 @@
   "id": 202798515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.730189,53.808819,-1.730189,53.808819",
     "geom:latitude":53.808819,
     "geom:longitude":-1.730189,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"505a Otley Road",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202798515,
-    "wof:lastmodified":1449060579,
+    "wof:lastmodified":1466259077,
     "wof:name":"Bradford Psychotherapy & Counselling Service",
     "wof:parent_id":85791921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-1.730189,53.808819,-1.730189,53.808819],
+  "bbox": [
+    -1.730189,
+    53.808819,
+    -1.730189,
+    53.808819
+],
   "geometry": {"coordinates":[-1.730189,53.808819],"type":"Point"}
 }

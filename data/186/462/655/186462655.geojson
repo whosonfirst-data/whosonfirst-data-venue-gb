@@ -2,13 +2,14 @@
   "id": 186462655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.823018,52.563225,-1.823018,52.563225",
     "geom:latitude":52.563225,
     "geom:longitude":-1.823018,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Lower Parade",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186462655,
-    "wof:lastmodified":1449052938,
+    "wof:lastmodified":1466258649,
     "wof:name":"Sutton Coldfield Library",
     "wof:parent_id":85788959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "local"
     ]
 },
-  "bbox": [-1.823018,52.563225,-1.823018,52.563225],
+  "bbox": [
+    -1.823018,
+    52.563225,
+    -1.823018,
+    52.563225
+],
   "geometry": {"coordinates":[-1.823018,52.563225],"type":"Point"}
 }

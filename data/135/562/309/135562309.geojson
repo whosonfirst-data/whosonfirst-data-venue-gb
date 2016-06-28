@@ -2,13 +2,14 @@
   "id": 135562309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.435866,50.545395,-2.435866,50.545395",
     "geom:latitude":50.545395,
     "geom:longitude":-2.435866,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1-4 Easton Shopping Centre, Easton Square",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135562309,
-    "wof:lastmodified":1449022609,
+    "wof:lastmodified":1466280033,
     "wof:name":"Gifts & Household",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.435866,50.545395,-2.435866,50.545395],
+  "bbox": [
+    -2.435866,
+    50.545395,
+    -2.435866,
+    50.545395
+],
   "geometry": {"coordinates":[-2.435866,50.545395],"type":"Point"}
 }

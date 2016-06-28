@@ -2,13 +2,14 @@
   "id": 303207123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.033462,52.60725,-2.033462,52.60725",
     "geom:latitude":52.60725,
     "geom:longitude":-2.033462,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Coltham Road, Short Heath",
     "sg:city":"Willenhall",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303207123,
-    "wof:lastmodified":1448999828,
+    "wof:lastmodified":1466269046,
     "wof:name":"Colthams Chippy",
     "wof:parent_id":85785623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-2.033462,52.60725,-2.033462,52.60725],
+  "bbox": [
+    -2.033462,
+    52.60725,
+    -2.033462,
+    52.60725
+],
   "geometry": {"coordinates":[-2.033462,52.60725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135376645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.125561,53.257851,-2.125561,53.257851",
     "geom:latitude":53.257851,
     "geom:longitude":-2.125561,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Mill St",
     "sg:city":"Macclesfield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135376645,
-    "wof:lastmodified":1449022035,
+    "wof:lastmodified":1466260104,
     "wof:name":"Macc Fruit",
     "wof:parent_id":101750519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.125561,53.257851,-2.125561,53.257851],
+  "bbox": [
+    -2.125561,
+    53.257851,
+    -2.125561,
+    53.257851
+],
   "geometry": {"coordinates":[-2.125561,53.257851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203240929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.210049,53.015167,-2.210049,53.015167",
     "geom:latitude":53.015167,
     "geom:longitude":-2.210049,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Sackville Street, Basford",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203240929,
-    "wof:lastmodified":1449025136,
+    "wof:lastmodified":1466256763,
     "wof:name":"Allen's of Basford",
     "wof:parent_id":85787299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radio"
     ]
 },
-  "bbox": [-2.210049,53.015167,-2.210049,53.015167],
+  "bbox": [
+    -2.210049,
+    53.015167,
+    -2.210049,
+    53.015167
+],
   "geometry": {"coordinates":[-2.210049,53.015167],"type":"Point"}
 }

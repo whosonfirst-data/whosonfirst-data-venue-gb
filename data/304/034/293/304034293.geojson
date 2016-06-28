@@ -2,13 +2,14 @@
   "id": 304034293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.340294,52.060825,-1.340294,52.060825",
     "geom:latitude":52.060825,
     "geom:longitude":-1.340294,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Horse Fair",
     "sg:city":"Banbury",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":304034293,
-    "wof:lastmodified":1449043619,
+    "wof:lastmodified":1466265278,
     "wof:name":"Lane Fox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.340294,52.060825,-1.340294,52.060825],
+  "bbox": [
+    -1.340294,
+    52.060825,
+    -1.340294,
+    52.060825
+],
   "geometry": {"coordinates":[-1.340294,52.060825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303748089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.123266,53.379772,-2.123266,53.379772",
     "geom:latitude":53.379772,
     "geom:longitude":-2.123266,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Napier Street, Hazel Gro",
     "sg:city":"Stockport",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303748089,
-    "wof:lastmodified":1448999953,
+    "wof:lastmodified":1466282383,
     "wof:name":"J E Dean (Hazel Grove) Ltd.",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-2.123266,53.379772,-2.123266,53.379772],
+  "bbox": [
+    -2.123266,
+    53.379772,
+    -2.123266,
+    53.379772
+],
   "geometry": {"coordinates":[-2.123266,53.379772],"type":"Point"}
 }

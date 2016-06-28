@@ -2,13 +2,14 @@
   "id": 203003513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.269606,55.841911,-4.269606,55.841911",
     "geom:latitude":55.841911,
     "geom:longitude":-4.269606,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Craig House, 64 Darnley Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203003513,
-    "wof:lastmodified":1449026723,
+    "wof:lastmodified":1466252717,
     "wof:name":"Glasgow Plant Hire Ltd.",
     "wof:parent_id":85861543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-4.269606,55.841911,-4.269606,55.841911],
+  "bbox": [
+    -4.269606,
+    55.841911,
+    -4.269606,
+    55.841911
+],
   "geometry": {"coordinates":[-4.269606,55.841911],"type":"Point"}
 }

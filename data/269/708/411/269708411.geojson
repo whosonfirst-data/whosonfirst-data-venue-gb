@@ -2,13 +2,14 @@
   "id": 269708411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.214876,53.157288,-1.214876,53.157288",
     "geom:latitude":53.157288,
     "geom:longitude":-1.214876,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"A S L House, 10 Debdale Lane, Mansfield Woodhouse",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269708411,
-    "wof:lastmodified":1449036522,
+    "wof:lastmodified":1466266919,
     "wof:name":"Agency Sales Ltd.",
     "wof:parent_id":85787491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "software"
     ]
 },
-  "bbox": [-1.214876,53.157288,-1.214876,53.157288],
+  "bbox": [
+    -1.214876,
+    53.157288,
+    -1.214876,
+    53.157288
+],
   "geometry": {"coordinates":[-1.214876,53.157288],"type":"Point"}
 }

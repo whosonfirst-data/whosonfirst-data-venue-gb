@@ -2,13 +2,14 @@
   "id": 202381541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.495747,51.470634,-2.495747,51.470634",
     "geom:latitude":51.470634,
     "geom:longitude":-2.495747,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"132-134 Pound Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202381541,
-    "wof:lastmodified":1449060323,
+    "wof:lastmodified":1466276314,
     "wof:name":"Pound Road News",
     "wof:parent_id":85789311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.495747,51.470634,-2.495747,51.470634],
+  "bbox": [
+    -2.495747,
+    51.470634,
+    -2.495747,
+    51.470634
+],
   "geometry": {"coordinates":[-2.495747,51.470634],"type":"Point"}
 }

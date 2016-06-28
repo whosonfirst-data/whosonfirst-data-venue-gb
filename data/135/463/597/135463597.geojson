@@ -2,13 +2,14 @@
   "id": 135463597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.199708,51.508587,-0.199708,51.508587",
     "geom:latitude":51.508587,
     "geom:longitude":-0.199708,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Notting Hill Gate",
     "sg:city":"London",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135463597,
-    "wof:lastmodified":1449023099,
+    "wof:lastmodified":1466270346,
     "wof:name":"Inner London Probation Service",
     "wof:parent_id":85860773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.199708,51.508587,-0.199708,51.508587],
+  "bbox": [
+    -0.199708,
+    51.508587,
+    -0.199708,
+    51.508587
+],
   "geometry": {"coordinates":[-0.199708,51.508587],"type":"Point"}
 }

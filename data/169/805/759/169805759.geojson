@@ -2,13 +2,14 @@
   "id": 169805759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.634418,51.481239,-2.634418,51.481239",
     "geom:latitude":51.481239,
     "geom:longitude":-2.634418,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Druid Hill",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169805759,
-    "wof:lastmodified":1449033789,
+    "wof:lastmodified":1466254095,
     "wof:name":"Spar Druid Hill",
     "wof:parent_id":85790765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.634418,51.481239,-2.634418,51.481239],
+  "bbox": [
+    -2.634418,
+    51.481239,
+    -2.634418,
+    51.481239
+],
   "geometry": {"coordinates":[-2.634418,51.481239],"type":"Point"}
 }

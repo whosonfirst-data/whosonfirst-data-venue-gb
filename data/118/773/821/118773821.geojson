@@ -2,13 +2,14 @@
   "id": 118773821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.220985,55.946152,-3.220985,55.946152",
     "geom:latitude":55.946152,
     "geom:longitude":-3.220985,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Haymarket Terrace",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":118773821,
-    "wof:lastmodified":1449053317,
+    "wof:lastmodified":1466270826,
     "wof:name":"The Wedding Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.220985,55.946152,-3.220985,55.946152],
+  "bbox": [
+    -3.220985,
+    55.946152,
+    -3.220985,
+    55.946152
+],
   "geometry": {"coordinates":[-3.220985,55.946152],"type":"Point"}
 }

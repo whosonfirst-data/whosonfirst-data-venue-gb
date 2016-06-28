@@ -2,13 +2,14 @@
   "id": 202505667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.267451,56.278873,-3.267451,56.278873",
     "geom:latitude":56.278873,
     "geom:longitude":-3.267451,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 High Street, Auchtermuchty",
     "sg:city":"Cupar",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202505667,
-    "wof:lastmodified":1449062239,
+    "wof:lastmodified":1466254213,
     "wof:name":"Random Restorations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.267451,56.278873,-3.267451,56.278873],
+  "bbox": [
+    -3.267451,
+    56.278873,
+    -3.267451,
+    56.278873
+],
   "geometry": {"coordinates":[-3.267451,56.278873],"type":"Point"}
 }

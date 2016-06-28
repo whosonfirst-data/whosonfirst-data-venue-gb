@@ -2,13 +2,14 @@
   "id": 135571017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.450149,53.585991,-2.450149,53.585991",
     "geom:latitude":53.585991,
     "geom:longitude":-2.450149,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Lukes Vicarage, Chorley Old Road",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":135571017,
-    "wof:lastmodified":1449023060,
+    "wof:lastmodified":1466280764,
     "wof:name":"St Lukes Drop In Centre",
     "wof:parent_id":85792981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.450149,53.585991,-2.450149,53.585991],
+  "bbox": [
+    -2.450149,
+    53.585991,
+    -2.450149,
+    53.585991
+],
   "geometry": {"coordinates":[-2.450149,53.585991],"type":"Point"}
 }

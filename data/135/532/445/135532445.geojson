@@ -2,13 +2,14 @@
   "id": 135532445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.049093,51.427299,0.049093,51.427299",
     "geom:latitude":51.427299,
     "geom:longitude":0.049093,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Framlingham Crescent",
     "sg:city":"London",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":135532445,
-    "wof:lastmodified":1449022022,
+    "wof:lastmodified":1466278574,
     "wof:name":"Tall Trees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.049093,51.427299,0.049093,51.427299],
+  "bbox": [
+    0.049093,
+    51.427299,
+    0.049093,
+    51.427299
+],
   "geometry": {"coordinates":[0.049093,51.427299],"type":"Point"}
 }

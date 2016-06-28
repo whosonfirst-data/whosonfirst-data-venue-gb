@@ -2,13 +2,14 @@
   "id": 135695237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.169215,52.957329,-1.169215,52.957329",
     "geom:latitude":52.957329,
     "geom:longitude":-1.169215,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Ronald St",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135695237,
-    "wof:lastmodified":1449022143,
+    "wof:lastmodified":1466285958,
     "wof:name":"Youngs Alarms",
     "wof:parent_id":85790001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.169215,52.957329,-1.169215,52.957329],
+  "bbox": [
+    -1.169215,
+    52.957329,
+    -1.169215,
+    52.957329
+],
   "geometry": {"coordinates":[-1.169215,52.957329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119351525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.000395,51.587383,-3.000395,51.587383",
     "geom:latitude":51.587383,
     "geom:longitude":-3.000395,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Bridge Street",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119351525,
-    "wof:lastmodified":1449043124,
+    "wof:lastmodified":1466283001,
     "wof:name":"H Moelwyn Hughes",
     "wof:parent_id":85785465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.000395,51.587383,-3.000395,51.587383],
+  "bbox": [
+    -3.000395,
+    51.587383,
+    -3.000395,
+    51.587383
+],
   "geometry": {"coordinates":[-3.000395,51.587383],"type":"Point"}
 }

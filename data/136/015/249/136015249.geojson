@@ -2,13 +2,14 @@
   "id": 136015249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.240396,55.832066,-4.240396,55.832066",
     "geom:latitude":55.832066,
     "geom:longitude":-4.240396,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Prospecthill Circus",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":136015249,
-    "wof:lastmodified":1449075212,
+    "wof:lastmodified":1466264201,
     "wof:name":"Toryglen Community Room",
     "wof:parent_id":85789891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.240396,55.832066,-4.240396,55.832066],
+  "bbox": [
+    -4.240396,
+    55.832066,
+    -4.240396,
+    55.832066
+],
   "geometry": {"coordinates":[-4.240396,55.832066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135906195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.377989,53.505451,-2.377989,53.505451",
     "geom:latitude":53.505451,
     "geom:longitude":-2.377989,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Walkden Road, Worsley",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135906195,
-    "wof:lastmodified":1449022146,
+    "wof:lastmodified":1466288113,
     "wof:name":"Worsley Service Station",
     "wof:parent_id":85791831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.377989,53.505451,-2.377989,53.505451],
+  "bbox": [
+    -2.377989,
+    53.505451,
+    -2.377989,
+    53.505451
+],
   "geometry": {"coordinates":[-2.377989,53.505451],"type":"Point"}
 }

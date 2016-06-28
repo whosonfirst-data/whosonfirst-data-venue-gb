@@ -2,13 +2,14 @@
   "id": 303283389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.155625,51.897106,-1.155625,51.897106",
     "geom:latitude":51.897106,
     "geom:longitude":-1.155625,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4-6 Kings End",
     "sg:city":"Bicester",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303283389,
-    "wof:lastmodified":1448998839,
+    "wof:lastmodified":1466271355,
     "wof:name":"Presentation Convent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organisation"
     ]
 },
-  "bbox": [-1.155625,51.897106,-1.155625,51.897106],
+  "bbox": [
+    -1.155625,
+    51.897106,
+    -1.155625,
+    51.897106
+],
   "geometry": {"coordinates":[-1.155625,51.897106],"type":"Point"}
 }

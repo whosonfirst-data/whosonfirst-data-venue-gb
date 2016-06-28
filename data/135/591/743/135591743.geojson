@@ -2,13 +2,14 @@
   "id": 135591743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.103236,55.79575,-4.103236,55.79575",
     "geom:latitude":55.79575,
     "geom:longitude":-4.103236,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Fernslea Avenue, Blantyre",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":135591743,
-    "wof:lastmodified":1449022629,
+    "wof:lastmodified":1466282020,
     "wof:name":"Dean Mini-Market",
     "wof:parent_id":85786177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.103236,55.79575,-4.103236,55.79575],
+  "bbox": [
+    -4.103236,
+    55.79575,
+    -4.103236,
+    55.79575
+],
   "geometry": {"coordinates":[-4.103236,55.79575],"type":"Point"}
 }

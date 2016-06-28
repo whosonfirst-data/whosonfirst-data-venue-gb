@@ -2,13 +2,14 @@
   "id": 102595051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.04583,53.384731,-3.04583,53.384731",
     "geom:latitude":53.384731,
     "geom:longitude":-3.04583,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Lorne Road, Oxton",
     "sg:city":"Prenton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102595051,
-    "wof:lastmodified":1449069952,
+    "wof:lastmodified":1466277239,
     "wof:name":"Oxton House Nursing Home",
     "wof:parent_id":85786671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.04583,53.384731,-3.04583,53.384731],
+  "bbox": [
+    -3.04583,
+    53.384731,
+    -3.04583,
+    53.384731
+],
   "geometry": {"coordinates":[-3.04583,53.384731],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118785077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.536905,54.005264,-1.536905,54.005264",
     "geom:latitude":54.005264,
     "geom:longitude":-1.536905,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"168-170 Skipton Rd",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118785077,
-    "wof:lastmodified":1449054317,
+    "wof:lastmodified":1466271639,
     "wof:name":"Barclay Electrical",
     "wof:parent_id":85790715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.536905,54.005264,-1.536905,54.005264],
+  "bbox": [
+    -1.536905,
+    54.005264,
+    -1.536905,
+    54.005264
+],
   "geometry": {"coordinates":[-1.536905,54.005264],"type":"Point"}
 }

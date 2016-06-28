@@ -2,13 +2,14 @@
   "id": 203208883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.296633,52.638561,1.296633,52.638561",
     "geom:latitude":52.638561,
     "geom:longitude":1.296633,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Magdalen Street",
     "sg:city":"Norwich",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203208883,
-    "wof:lastmodified":1449025166,
+    "wof:lastmodified":1466256163,
     "wof:name":"The Jolly Baker Norwich",
     "wof:parent_id":85793207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [1.296633,52.638561,1.296633,52.638561],
+  "bbox": [
+    1.296633,
+    52.638561,
+    1.296633,
+    52.638561
+],
   "geometry": {"coordinates":[1.296633,52.638561],"type":"Point"}
 }

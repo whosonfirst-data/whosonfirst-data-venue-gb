@@ -2,13 +2,14 @@
   "id": 253315777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.566658,52.398701,-1.566658,52.398701",
     "geom:latitude":52.398701,
     "geom:longitude":-1.566658,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Torrington Avenue",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253315777,
-    "wof:lastmodified":1449065646,
+    "wof:lastmodified":1466263581,
     "wof:name":"Cotswold Mortgages",
     "wof:parent_id":85786225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-1.566658,52.398701,-1.566658,52.398701],
+  "bbox": [
+    -1.566658,
+    52.398701,
+    -1.566658,
+    52.398701
+],
   "geometry": {"coordinates":[-1.566658,52.398701],"type":"Point"}
 }

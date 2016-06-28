@@ -2,13 +2,14 @@
   "id": 202528493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.25443,55.861801,-4.25443,55.861801",
     "geom:latitude":55.861801,
     "geom:longitude":-4.25443,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Stock Exchange Ho, 7 Nelson Mandela Pl",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202528493,
-    "wof:lastmodified":1449060802,
+    "wof:lastmodified":1466254570,
     "wof:name":"M M I Stockbrokers Ltd",
     "wof:parent_id":85792621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stockbroker"
     ]
 },
-  "bbox": [-4.25443,55.861801,-4.25443,55.861801],
+  "bbox": [
+    -4.25443,
+    55.861801,
+    -4.25443,
+    55.861801
+],
   "geometry": {"coordinates":[-4.25443,55.861801],"type":"Point"}
 }

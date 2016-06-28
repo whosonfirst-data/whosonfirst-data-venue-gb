@@ -2,13 +2,14 @@
   "id": 102591309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.501567,53.376919,-1.501567,53.376919",
     "geom:latitude":53.376919,
     "geom:longitude":-1.501567,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Glossop Road, Broomhill",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102591309,
-    "wof:lastmodified":1449069033,
+    "wof:lastmodified":1466277049,
     "wof:name":"Shelter Charity Shop",
     "wof:parent_id":85793117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.501567,53.376919,-1.501567,53.376919],
+  "bbox": [
+    -1.501567,
+    53.376919,
+    -1.501567,
+    53.376919
+],
   "geometry": {"coordinates":[-1.501567,53.376919],"type":"Point"}
 }

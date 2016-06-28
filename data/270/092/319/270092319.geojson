@@ -2,13 +2,14 @@
   "id": 270092319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.849267,52.60466,-1.849267,52.60466",
     "geom:latitude":52.60466,
     "geom:longitude":-1.849267,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Blake Street, Little Aston",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270092319,
-    "wof:lastmodified":1449010603,
+    "wof:lastmodified":1466263246,
     "wof:name":"Blake Street Autos Ltd.",
     "wof:parent_id":85787497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.849267,52.60466,-1.849267,52.60466],
+  "bbox": [
+    -1.849267,
+    52.60466,
+    -1.849267,
+    52.60466
+],
   "geometry": {"coordinates":[-1.849267,52.60466],"type":"Point"}
 }

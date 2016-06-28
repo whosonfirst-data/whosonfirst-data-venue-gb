@@ -2,13 +2,14 @@
   "id": 118875857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.19377,55.851639,-4.19377,55.851639",
     "geom:latitude":55.851639,
     "geom:longitude":-4.19377,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Parkhead Neighbourhood Office, 125 Westmuir St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":118875857,
-    "wof:lastmodified":1449054187,
+    "wof:lastmodified":1466278455,
     "wof:name":"City Housing Glasgow",
     "wof:parent_id":85792589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.19377,55.851639,-4.19377,55.851639],
+  "bbox": [
+    -4.19377,
+    55.851639,
+    -4.19377,
+    55.851639
+],
   "geometry": {"coordinates":[-4.19377,55.851639],"type":"Point"}
 }

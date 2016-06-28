@@ -2,13 +2,14 @@
   "id": 135313221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.07066,57.11697,-2.07066,57.11697",
     "geom:latitude":57.11697,
     "geom:longitude":-2.07066,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Altec Centre, Minto Dr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135313221,
-    "wof:lastmodified":1449021065,
+    "wof:lastmodified":1466252845,
     "wof:name":"Scottish Telecom",
     "wof:parent_id":85791925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.07066,57.11697,-2.07066,57.11697],
+  "bbox": [
+    -2.07066,
+    57.11697,
+    -2.07066,
+    57.11697
+],
   "geometry": {"coordinates":[-2.07066,57.11697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303794551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.53307,52.406654,-1.53307,52.406654",
     "geom:latitude":52.406654,
     "geom:longitude":-1.53307,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Craven Street",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303794551,
-    "wof:lastmodified":1448999292,
+    "wof:lastmodified":1466283191,
     "wof:name":"The Craven Arms",
     "wof:parent_id":85790551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.53307,52.406654,-1.53307,52.406654],
+  "bbox": [
+    -1.53307,
+    52.406654,
+    -1.53307,
+    52.406654
+],
   "geometry": {"coordinates":[-1.53307,52.406654],"type":"Point"}
 }

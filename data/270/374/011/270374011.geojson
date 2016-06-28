@@ -2,13 +2,14 @@
   "id": 270374011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.26577,51.752617,-1.26577,51.752617",
     "geom:latitude":51.752617,
     "geom:longitude":-1.26577,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Park End St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270374011,
-    "wof:lastmodified":1449009697,
+    "wof:lastmodified":1466271633,
     "wof:name":"Rockingchair",
     "wof:parent_id":85793243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-1.26577,51.752617,-1.26577,51.752617],
+  "bbox": [
+    -1.26577,
+    51.752617,
+    -1.26577,
+    51.752617
+],
   "geometry": {"coordinates":[-1.26577,51.752617],"type":"Point"}
 }

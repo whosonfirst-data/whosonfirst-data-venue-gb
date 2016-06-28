@@ -2,13 +2,14 @@
   "id": 135439625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.3885,53.792965,-1.3885,53.792965",
     "geom:latitude":53.792965,
     "geom:longitude":-1.3885,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Main St",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135439625,
-    "wof:lastmodified":1449021844,
+    "wof:lastmodified":1466267385,
     "wof:name":"Acorn Business Services",
     "wof:parent_id":85860949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.3885,53.792965,-1.3885,53.792965],
+  "bbox": [
+    -1.3885,
+    53.792965,
+    -1.3885,
+    53.792965
+],
   "geometry": {"coordinates":[-1.3885,53.792965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136044863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.386815,55.801846,-4.386815,55.801846",
     "geom:latitude":55.801846,
     "geom:longitude":-4.386815,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Main Street, Barrhead",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136044863,
-    "wof:lastmodified":1449075606,
+    "wof:lastmodified":1466277826,
     "wof:name":"James Taylor",
     "wof:parent_id":85789427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.386815,55.801846,-4.386815,55.801846],
+  "bbox": [
+    -4.386815,
+    55.801846,
+    -4.386815,
+    55.801846
+],
   "geometry": {"coordinates":[-4.386815,55.801846],"type":"Point"}
 }

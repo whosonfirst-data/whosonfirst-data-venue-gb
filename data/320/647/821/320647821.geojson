@@ -2,13 +2,14 @@
   "id": 320647821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.253523,53.40564,-2.253523,53.40564",
     "geom:latitude":53.40564,
     "geom:longitude":-2.253523,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Royle Green Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320647821,
-    "wof:lastmodified":1449013028,
+    "wof:lastmodified":1466283410,
     "wof:name":"House Hair",
     "wof:parent_id":85793033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.253523,53.40564,-2.253523,53.40564],
+  "bbox": [
+    -2.253523,
+    53.40564,
+    -2.253523,
+    53.40564
+],
   "geometry": {"coordinates":[-2.253523,53.40564],"type":"Point"}
 }

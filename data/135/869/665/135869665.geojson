@@ -2,13 +2,14 @@
   "id": 135869665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.003532,55.767746,-2.003532,55.767746",
     "geom:latitude":55.767746,
     "geom:longitude":-2.003532,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Sandgate",
     "sg:city":"Berwick-upon-tweed",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135869665,
-    "wof:lastmodified":1449023764,
+    "wof:lastmodified":1466287953,
     "wof:name":"Berwick Foot Clinic",
     "wof:parent_id":101878327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.003532,55.767746,-2.003532,55.767746],
+  "bbox": [
+    -2.003532,
+    55.767746,
+    -2.003532,
+    55.767746
+],
   "geometry": {"coordinates":[-2.003532,55.767746],"type":"Point"}
 }

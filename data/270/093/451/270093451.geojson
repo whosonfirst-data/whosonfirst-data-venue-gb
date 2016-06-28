@@ -2,13 +2,14 @@
   "id": 270093451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.28386,52.902519,-1.28386,52.902519",
     "geom:latitude":52.902519,
     "geom:longitude":-1.28386,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Breedon Street, Long Eaton",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270093451,
-    "wof:lastmodified":1449008665,
+    "wof:lastmodified":1466263276,
     "wof:name":"Old Vicarage Nursing Home",
     "wof:parent_id":85791095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-1.28386,52.902519,-1.28386,52.902519],
+  "bbox": [
+    -1.28386,
+    52.902519,
+    -1.28386,
+    52.902519
+],
   "geometry": {"coordinates":[-1.28386,52.902519],"type":"Point"}
 }

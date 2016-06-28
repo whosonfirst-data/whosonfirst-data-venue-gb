@@ -2,13 +2,14 @@
   "id": 135588507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.250964,55.909126,-3.250964,55.909126",
     "geom:latitude":55.909126,
     "geom:longitude":-3.250964,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Colinton Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135588507,
-    "wof:lastmodified":1449023429,
+    "wof:lastmodified":1466281846,
     "wof:name":"The Scottish Yeomanry",
     "wof:parent_id":85786739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.250964,55.909126,-3.250964,55.909126],
+  "bbox": [
+    -3.250964,
+    55.909126,
+    -3.250964,
+    55.909126
+],
   "geometry": {"coordinates":[-3.250964,55.909126],"type":"Point"}
 }

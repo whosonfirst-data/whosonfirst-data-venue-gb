@@ -2,13 +2,14 @@
   "id": 135985493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.99459,52.89312,-1.99459,52.89312",
     "geom:latitude":52.89312,
     "geom:longitude":-1.99459,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Woodcroft, Stone Rd",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135985493,
-    "wof:lastmodified":1449022512,
+    "wof:lastmodified":1466288544,
     "wof:name":"Woodcroft Saddlers",
     "wof:parent_id":85683943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.99459,52.89312,-1.99459,52.89312],
+  "bbox": [
+    -1.99459,
+    52.89312,
+    -1.99459,
+    52.89312
+],
   "geometry": {"coordinates":[-1.99459,52.89312],"type":"Point"}
 }

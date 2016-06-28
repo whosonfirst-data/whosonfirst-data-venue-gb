@@ -2,13 +2,14 @@
   "id": 303862483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.305444,51.505844,-0.305444,51.505844",
     "geom:latitude":51.505844,
     "geom:longitude":-0.305444,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 St Marys Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303862483,
-    "wof:lastmodified":1449000628,
+    "wof:lastmodified":1466283729,
     "wof:name":"Ealing Kitchens",
     "wof:parent_id":85866389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-0.305444,51.505844,-0.305444,51.505844],
+  "bbox": [
+    -0.305444,
+    51.505844,
+    -0.305444,
+    51.505844
+],
   "geometry": {"coordinates":[-0.305444,51.505844],"type":"Point"}
 }

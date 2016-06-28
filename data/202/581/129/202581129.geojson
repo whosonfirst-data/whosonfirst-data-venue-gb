@@ -2,13 +2,14 @@
   "id": 202581129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.225893,55.858566,-4.225893,55.858566",
     "geom:latitude":55.858566,
     "geom:longitude":-4.225893,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"289 Duke Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":202581129,
-    "wof:lastmodified":1449060655,
+    "wof:lastmodified":1466255528,
     "wof:name":"Abbey Furniture",
     "wof:parent_id":85792639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.225893,55.858566,-4.225893,55.858566],
+  "bbox": [
+    -4.225893,
+    55.858566,
+    -4.225893,
+    55.858566
+],
   "geometry": {"coordinates":[-4.225893,55.858566],"type":"Point"}
 }

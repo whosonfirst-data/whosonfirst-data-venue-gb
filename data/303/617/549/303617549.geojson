@@ -2,13 +2,14 @@
   "id": 303617549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.404498,55.795315,-4.404498,55.795315",
     "geom:latitude":55.795315,
     "geom:longitude":-4.404498,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bellfield Court, Barrhead",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303617549,
-    "wof:lastmodified":1448998202,
+    "wof:lastmodified":1466280352,
     "wof:name":"Bellfield Court",
     "wof:parent_id":85789427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-4.404498,55.795315,-4.404498,55.795315],
+  "bbox": [
+    -4.404498,
+    55.795315,
+    -4.404498,
+    55.795315
+],
   "geometry": {"coordinates":[-4.404498,55.795315],"type":"Point"}
 }

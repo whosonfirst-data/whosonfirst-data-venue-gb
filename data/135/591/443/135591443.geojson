@@ -2,13 +2,14 @@
   "id": 135591443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.276951,53.32103,-1.276951,53.32103",
     "geom:latitude":53.32103,
     "geom:longitude":-1.276951,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Woodall Lane, Harthill",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135591443,
-    "wof:lastmodified":1449022629,
+    "wof:lastmodified":1466282008,
     "wof:name":"Woodall Lane Surgery",
     "wof:parent_id":85683873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.276951,53.32103,-1.276951,53.32103],
+  "bbox": [
+    -1.276951,
+    53.32103,
+    -1.276951,
+    53.32103
+],
   "geometry": {"coordinates":[-1.276951,53.32103],"type":"Point"}
 }

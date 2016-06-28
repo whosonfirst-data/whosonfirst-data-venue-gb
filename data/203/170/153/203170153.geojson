@@ -2,13 +2,14 @@
   "id": 203170153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.185593,55.948994,-3.185593,55.948994",
     "geom:latitude":55.948994,
     "geom:longitude":-3.185593,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wellgate House, 200 Cowgate",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203170153,
-    "wof:lastmodified":1449025106,
+    "wof:lastmodified":1466255464,
     "wof:name":"Scottish Council for Single Homeless",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.185593,55.948994,-3.185593,55.948994],
+  "bbox": [
+    -3.185593,
+    55.948994,
+    -3.185593,
+    55.948994
+],
   "geometry": {"coordinates":[-3.185593,55.948994],"type":"Point"}
 }

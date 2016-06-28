@@ -2,13 +2,14 @@
   "id": 135401387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.18782,55.955212,-3.18782,55.955212",
     "geom:latitude":55.955212,
     "geom:longitude":-3.18782,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"69 St James Centre",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135401387,
-    "wof:lastmodified":1449023571,
+    "wof:lastmodified":1466262841,
     "wof:name":"John Lewis",
     "wof:parent_id":85861517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.18782,55.955212,-3.18782,55.955212],
+  "bbox": [
+    -3.18782,
+    55.955212,
+    -3.18782,
+    55.955212
+],
   "geometry": {"coordinates":[-3.18782,55.955212],"type":"Point"}
 }

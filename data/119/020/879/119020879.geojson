@@ -2,13 +2,14 @@
   "id": 119020879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.292205,55.839283,-4.292205,55.839283",
     "geom:latitude":55.839283,
     "geom:longitude":-4.292205,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"80 St. Andrews Dr",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119020879,
-    "wof:lastmodified":1449042074,
+    "wof:lastmodified":1466276041,
     "wof:name":"Sherbrooke Translation Training",
     "wof:parent_id":85861553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.292205,55.839283,-4.292205,55.839283],
+  "bbox": [
+    -4.292205,
+    55.839283,
+    -4.292205,
+    55.839283
+],
   "geometry": {"coordinates":[-4.292205,55.839283],"type":"Point"}
 }

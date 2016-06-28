@@ -2,13 +2,14 @@
   "id": 304045431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.336661,51.394077,-1.336661,51.394077",
     "geom:latitude":51.394077,
     "geom:longitude":-1.336661,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Mayfair Drive",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":304045431,
-    "wof:lastmodified":1449044091,
+    "wof:lastmodified":1466265625,
     "wof:name":"Mayfair Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.336661,51.394077,-1.336661,51.394077],
+  "bbox": [
+    -1.336661,
+    51.394077,
+    -1.336661,
+    51.394077
+],
   "geometry": {"coordinates":[-1.336661,51.394077],"type":"Point"}
 }

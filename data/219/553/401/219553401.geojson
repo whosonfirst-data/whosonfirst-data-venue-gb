@@ -2,13 +2,14 @@
   "id": 219553401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.108193,50.815243,-0.108193,50.815243",
     "geom:latitude":50.815243,
     "geom:longitude":-0.108193,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Arundel Place",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219553401,
-    "wof:lastmodified":1449070392,
+    "wof:lastmodified":1466259654,
     "wof:name":"Etheridge Distribution",
     "wof:parent_id":85861333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-0.108193,50.815243,-0.108193,50.815243],
+  "bbox": [
+    -0.108193,
+    50.815243,
+    -0.108193,
+    50.815243
+],
   "geometry": {"coordinates":[-0.108193,50.815243],"type":"Point"}
 }

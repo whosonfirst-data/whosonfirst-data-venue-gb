@@ -2,13 +2,14 @@
   "id": 320423839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.984514,52.002041,-0.984514,52.002041",
     "geom:latitude":52.002041,
     "geom:longitude":-0.984514,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Warden, North End Court, North End Square",
     "sg:city":"Buckingham",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320423839,
-    "wof:lastmodified":1449011879,
+    "wof:lastmodified":1466279772,
     "wof:name":"North End Court Sheltered Accommodation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-0.984514,52.002041,-0.984514,52.002041],
+  "bbox": [
+    -0.984514,
+    52.002041,
+    -0.984514,
+    52.002041
+],
   "geometry": {"coordinates":[-0.984514,52.002041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303092171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.970895,52.047009,-1.970895,52.047009",
     "geom:latitude":52.047009,
     "geom:longitude":-1.970895,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Cheltenham Road, Sedgeberrow",
     "sg:city":"Evesham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303092171,
-    "wof:lastmodified":1449000106,
+    "wof:lastmodified":1466265369,
     "wof:name":"Alan Wilks Scaffolding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "scaffolding"
     ]
 },
-  "bbox": [-1.970895,52.047009,-1.970895,52.047009],
+  "bbox": [
+    -1.970895,
+    52.047009,
+    -1.970895,
+    52.047009
+],
   "geometry": {"coordinates":[-1.970895,52.047009],"type":"Point"}
 }

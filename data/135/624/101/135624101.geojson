@@ -2,13 +2,14 @@
   "id": 135624101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.487318,53.361092,-1.487318,53.361092",
     "geom:latitude":53.361092,
     "geom:longitude":-1.487318,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Montgomery Road, Nether Edge",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135624101,
-    "wof:lastmodified":1449023075,
+    "wof:lastmodified":1466283716,
     "wof:name":"The Lindum Hotel",
     "wof:parent_id":85789271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.487318,53.361092,-1.487318,53.361092],
+  "bbox": [
+    -1.487318,
+    53.361092,
+    -1.487318,
+    53.361092
+],
   "geometry": {"coordinates":[-1.487318,53.361092],"type":"Point"}
 }

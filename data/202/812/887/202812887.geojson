@@ -2,13 +2,14 @@
   "id": 202812887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.068451,51.904518,-2.068451,51.904518",
     "geom:latitude":51.904518,
     "geom:longitude":-2.068451,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Prestbury Rd",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202812887,
-    "wof:lastmodified":1449060169,
+    "wof:lastmodified":1466259285,
     "wof:name":"LTC Business Machines Ltd",
     "wof:parent_id":85785541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "copying"
     ]
 },
-  "bbox": [-2.068451,51.904518,-2.068451,51.904518],
+  "bbox": [
+    -2.068451,
+    51.904518,
+    -2.068451,
+    51.904518
+],
   "geometry": {"coordinates":[-2.068451,51.904518],"type":"Point"}
 }

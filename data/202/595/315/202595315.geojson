@@ -2,13 +2,14 @@
   "id": 202595315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.45279,55.02,-1.45279,55.02",
     "geom:latitude":55.02,
     "geom:longitude":-1.45279,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Front Street, Preston",
     "sg:city":"North Shields",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202595315,
-    "wof:lastmodified":1449062402,
+    "wof:lastmodified":1466255776,
     "wof:name":"Michael Cahill",
     "wof:parent_id":85792733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.45279,55.02,-1.45279,55.02],
+  "bbox": [
+    -1.45279,
+    55.02,
+    -1.45279,
+    55.02
+],
   "geometry": {"coordinates":[-1.45279,55.02],"type":"Point"}
 }

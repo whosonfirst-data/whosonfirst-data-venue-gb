@@ -2,13 +2,14 @@
   "id": 320806249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.346335,55.875519,-4.346335,55.875519",
     "geom:latitude":55.875519,
     "geom:longitude":-4.346335,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Methil Street, Whiteinch",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320806249,
-    "wof:lastmodified":1449011248,
+    "wof:lastmodified":1466285116,
     "wof:name":"A M K Self Drive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "van"
     ]
 },
-  "bbox": [-4.346335,55.875519,-4.346335,55.875519],
+  "bbox": [
+    -4.346335,
+    55.875519,
+    -4.346335,
+    55.875519
+],
   "geometry": {"coordinates":[-4.346335,55.875519],"type":"Point"}
 }

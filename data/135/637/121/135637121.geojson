@@ -2,13 +2,14 @@
   "id": 135637121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.559474,50.444359,-3.559474,50.444359",
     "geom:latitude":50.444359,
     "geom:longitude":-3.559474,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Paris Road",
     "sg:city":"Paignton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135637121,
-    "wof:lastmodified":1449020991,
+    "wof:lastmodified":1466284189,
     "wof:name":"Bishops Removals",
     "wof:parent_id":101750299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.559474,50.444359,-3.559474,50.444359],
+  "bbox": [
+    -3.559474,
+    50.444359,
+    -3.559474,
+    50.444359
+],
   "geometry": {"coordinates":[-3.559474,50.444359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135468025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.631749,51.461224,-3.631749,51.461224",
     "geom:latitude":51.461224,
     "geom:longitude":-3.631749,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Main Road, Ogmore-by-sea",
     "sg:city":"Bridgend",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135468025,
-    "wof:lastmodified":1449023166,
+    "wof:lastmodified":1466270875,
     "wof:name":"Direct Access",
     "wof:parent_id":85683913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.631749,51.461224,-3.631749,51.461224],
+  "bbox": [
+    -3.631749,
+    51.461224,
+    -3.631749,
+    51.461224
+],
   "geometry": {"coordinates":[-3.631749,51.461224],"type":"Point"}
 }

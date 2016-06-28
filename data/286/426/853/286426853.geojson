@@ -2,13 +2,14 @@
   "id": 286426853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.387889,50.988605,-1.387889,50.988605",
     "geom:latitude":50.988605,
     "geom:longitude":-1.387889,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Barratt House, Hursley Road",
     "sg:city":"Eastleigh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286426853,
-    "wof:lastmodified":1449015797,
+    "wof:lastmodified":1466267253,
     "wof:name":"Barratt the Housebuilder",
     "wof:parent_id":85792829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.387889,50.988605,-1.387889,50.988605],
+  "bbox": [
+    -1.387889,
+    50.988605,
+    -1.387889,
+    50.988605
+],
   "geometry": {"coordinates":[-1.387889,50.988605],"type":"Point"}
 }

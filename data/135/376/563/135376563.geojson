@@ -2,13 +2,14 @@
   "id": 135376563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.428486,52.824112,-1.428486,52.824112",
     "geom:latitude":52.824112,
     "geom:longitude":-1.428486,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Derby Road, Melbourne",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135376563,
-    "wof:lastmodified":1449022035,
+    "wof:lastmodified":1466260094,
     "wof:name":"The Wine Man",
     "wof:parent_id":85684075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.428486,52.824112,-1.428486,52.824112],
+  "bbox": [
+    -1.428486,
+    52.824112,
+    -1.428486,
+    52.824112
+],
   "geometry": {"coordinates":[-1.428486,52.824112],"type":"Point"}
 }

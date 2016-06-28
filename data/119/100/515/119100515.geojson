@@ -2,13 +2,14 @@
   "id": 119100515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.948506,51.649738,-3.948506,51.649738",
     "geom:latitude":51.649738,
     "geom:longitude":-3.948506,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"658 Llangyfelach Road, Treboeth",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119100515,
-    "wof:lastmodified":1449042838,
+    "wof:lastmodified":1466258846,
     "wof:name":"D L Williams",
     "wof:parent_id":85789853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.948506,51.649738,-3.948506,51.649738],
+  "bbox": [
+    -3.948506,
+    51.649738,
+    -3.948506,
+    51.649738
+],
   "geometry": {"coordinates":[-3.948506,51.649738],"type":"Point"}
 }

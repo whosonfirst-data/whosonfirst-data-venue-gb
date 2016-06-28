@@ -2,13 +2,14 @@
   "id": 236312893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.117252,55.954762,-3.117252,55.954762",
     "geom:latitude":55.954762,
     "geom:longitude":-3.117252,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Portobello High Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":236312893,
-    "wof:lastmodified":1449003290,
+    "wof:lastmodified":1466262493,
     "wof:name":"Capital Bathrooms",
     "wof:parent_id":85789915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "furnishers"
     ]
 },
-  "bbox": [-3.117252,55.954762,-3.117252,55.954762],
+  "bbox": [
+    -3.117252,
+    55.954762,
+    -3.117252,
+    55.954762
+],
   "geometry": {"coordinates":[-3.117252,55.954762],"type":"Point"}
 }

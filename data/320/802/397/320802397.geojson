@@ -2,13 +2,14 @@
   "id": 320802397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.181211,51.49091,-0.181211,51.49091",
     "geom:latitude":51.49091,
     "geom:longitude":-0.181211,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Old Brompton Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320802397,
-    "wof:lastmodified":1449014267,
+    "wof:lastmodified":1466284919,
     "wof:name":"The Institute of Cancer Research: Royal Cancer Hospital",
     "wof:parent_id":85787143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "research"
     ]
 },
-  "bbox": [-0.181211,51.49091,-0.181211,51.49091],
+  "bbox": [
+    -0.181211,
+    51.49091,
+    -0.181211,
+    51.49091
+],
   "geometry": {"coordinates":[-0.181211,51.49091],"type":"Point"}
 }

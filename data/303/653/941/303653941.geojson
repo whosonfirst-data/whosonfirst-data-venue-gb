@@ -2,13 +2,14 @@
   "id": 303653941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.381448,54.904781,-1.381448,54.904781",
     "geom:latitude":54.904781,
     "geom:longitude":-1.381448,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34-42 Fawcett Street",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303653941,
-    "wof:lastmodified":1448998296,
+    "wof:lastmodified":1466280835,
     "wof:name":"Hair & Beauty Express",
     "wof:parent_id":85788125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.381448,54.904781,-1.381448,54.904781],
+  "bbox": [
+    -1.381448,
+    54.904781,
+    -1.381448,
+    54.904781
+],
   "geometry": {"coordinates":[-1.381448,54.904781],"type":"Point"}
 }

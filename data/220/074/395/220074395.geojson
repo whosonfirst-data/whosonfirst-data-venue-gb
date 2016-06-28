@@ -2,13 +2,14 @@
   "id": 220074395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.295939,50.7001,-1.295939,50.7001",
     "geom:latitude":50.7001,
     "geom:longitude":-1.295939,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Gatehouse, Forest Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220074395,
-    "wof:lastmodified":1449074485,
+    "wof:lastmodified":1466254214,
     "wof:name":"Area Of Outstanding Natural Beauty Project",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-1.295939,50.7001,-1.295939,50.7001],
+  "bbox": [
+    -1.295939,
+    50.7001,
+    -1.295939,
+    50.7001
+],
   "geometry": {"coordinates":[-1.295939,50.7001],"type":"Point"}
 }

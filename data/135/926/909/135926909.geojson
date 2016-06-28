@@ -2,13 +2,14 @@
   "id": 135926909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.630871,57.559765,-2.630871,57.559765",
     "geom:latitude":57.559765,
     "geom:longitude":-2.630871,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cornhill Road, Aberchirder",
     "sg:city":"Huntly",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135926909,
-    "wof:lastmodified":1449022060,
+    "wof:lastmodified":1466288279,
     "wof:name":"GEORGE SIMPSON",
     "wof:parent_id":101873607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.630871,57.559765,-2.630871,57.559765],
+  "bbox": [
+    -2.630871,
+    57.559765,
+    -2.630871,
+    57.559765
+],
   "geometry": {"coordinates":[-2.630871,57.559765],"type":"Point"}
 }

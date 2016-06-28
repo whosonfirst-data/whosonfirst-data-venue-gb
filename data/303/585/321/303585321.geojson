@@ -2,13 +2,14 @@
   "id": 303585321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.66578,55.0121,-1.66578,55.0121",
     "geom:latitude":55.0121,
     "geom:longitude":-1.66578,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Belvedere Retail Park",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303585321,
-    "wof:lastmodified":1448999743,
+    "wof:lastmodified":1466279779,
     "wof:name":"A G Stanley Ltd.",
     "wof:parent_id":85861871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "covering"
     ]
 },
-  "bbox": [-1.66578,55.0121,-1.66578,55.0121],
+  "bbox": [
+    -1.66578,
+    55.0121,
+    -1.66578,
+    55.0121
+],
   "geometry": {"coordinates":[-1.66578,55.0121],"type":"Point"}
 }

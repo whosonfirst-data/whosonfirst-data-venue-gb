@@ -2,13 +2,14 @@
   "id": 270174441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.08511,50.80957,-1.08511,50.80957",
     "geom:latitude":50.80957,
     "geom:longitude":-1.08511,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Warden",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270174441,
-    "wof:lastmodified":1449008978,
+    "wof:lastmodified":1466265666,
     "wof:name":"Grafton Street",
     "wof:parent_id":85861983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-1.08511,50.80957,-1.08511,50.80957],
+  "bbox": [
+    -1.08511,
+    50.80957,
+    -1.08511,
+    50.80957
+],
   "geometry": {"coordinates":[-1.08511,50.80957],"type":"Point"}
 }

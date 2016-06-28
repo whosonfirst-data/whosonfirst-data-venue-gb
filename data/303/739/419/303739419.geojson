@@ -2,13 +2,14 @@
   "id": 303739419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.144985,52.901245,-2.144985,52.901245",
     "geom:latitude":52.901245,
     "geom:longitude":-2.144985,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Lichfield Street",
     "sg:city":"Stone",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303739419,
-    "wof:lastmodified":1448999153,
+    "wof:lastmodified":1466282200,
     "wof:name":"R Mountford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.144985,52.901245,-2.144985,52.901245],
+  "bbox": [
+    -2.144985,
+    52.901245,
+    -2.144985,
+    52.901245
+],
   "geometry": {"coordinates":[-2.144985,52.901245],"type":"Point"}
 }

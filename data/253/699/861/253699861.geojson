@@ -2,13 +2,14 @@
   "id": 253699861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.087859,52.971851,-1.087859,52.971851",
     "geom:latitude":52.971851,
     "geom:longitude":-1.087859,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Westdale Lane",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253699861,
-    "wof:lastmodified":1449063226,
+    "wof:lastmodified":1466274265,
     "wof:name":"C A B Motors",
     "wof:parent_id":85861941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-1.087859,52.971851,-1.087859,52.971851],
+  "bbox": [
+    -1.087859,
+    52.971851,
+    -1.087859,
+    52.971851
+],
   "geometry": {"coordinates":[-1.087859,52.971851],"type":"Point"}
 }

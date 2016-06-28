@@ -2,13 +2,14 @@
   "id": 320015525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.54023,54.911961,-1.54023,54.911961",
     "geom:latitude":54.911961,
     "geom:longitude":-1.54023,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Parsons Ho, Parsons Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320015525,
-    "wof:lastmodified":1449012111,
+    "wof:lastmodified":1466268589,
     "wof:name":"Sunderland Echo",
     "wof:parent_id":85787265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-1.54023,54.911961,-1.54023,54.911961],
+  "bbox": [
+    -1.54023,
+    54.911961,
+    -1.54023,
+    54.911961
+],
   "geometry": {"coordinates":[-1.54023,54.911961],"type":"Point"}
 }

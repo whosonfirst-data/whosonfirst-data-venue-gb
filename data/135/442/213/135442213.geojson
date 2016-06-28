@@ -2,13 +2,14 @@
   "id": 135442213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.155619,53.155251,-1.155619,53.155251",
     "geom:latitude":53.155251,
     "geom:longitude":-1.155619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Crown Farm Way, Forest Town",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135442213,
-    "wof:lastmodified":1449022339,
+    "wof:lastmodified":1466267698,
     "wof:name":"Homefair Ltd.",
     "wof:parent_id":85787491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.155619,53.155251,-1.155619,53.155251],
+  "bbox": [
+    -1.155619,
+    53.155251,
+    -1.155619,
+    53.155251
+],
   "geometry": {"coordinates":[-1.155619,53.155251],"type":"Point"}
 }

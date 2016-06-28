@@ -2,13 +2,14 @@
   "id": 185820253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.55741,51.527142,-2.55741,51.527142",
     "geom:latitude":51.527142,
     "geom:longitude":-2.55741,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Community Hall, Little Stoke Park, Little Stoke Lane",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185820253,
-    "wof:lastmodified":1449007465,
+    "wof:lastmodified":1466254934,
     "wof:name":"Stoke Gifford Parish Council",
     "wof:parent_id":85788815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "centre"
     ]
 },
-  "bbox": [-2.55741,51.527142,-2.55741,51.527142],
+  "bbox": [
+    -2.55741,
+    51.527142,
+    -2.55741,
+    51.527142
+],
   "geometry": {"coordinates":[-2.55741,51.527142],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303433977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.682369,53.5471,-2.682369,53.5471",
     "geom:latitude":53.5471,
     "geom:longitude":-2.682369,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"217 City Road",
     "sg:city":"Wigan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303433977,
-    "wof:lastmodified":1448998404,
+    "wof:lastmodified":1466275896,
     "wof:name":"Johnsons Garage",
     "wof:parent_id":85789781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.682369,53.5471,-2.682369,53.5471],
+  "bbox": [
+    -2.682369,
+    53.5471,
+    -2.682369,
+    53.5471
+],
   "geometry": {"coordinates":[-2.682369,53.5471],"type":"Point"}
 }

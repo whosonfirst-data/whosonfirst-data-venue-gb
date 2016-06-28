@@ -2,13 +2,14 @@
   "id": 135820097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.350514,51.637463,-2.350514,51.637463",
     "geom:latitude":51.637463,
     "geom:longitude":-2.350514,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Long Street",
     "sg:city":"Wotton-under-edge",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135820097,
-    "wof:lastmodified":1449022579,
+    "wof:lastmodified":1466287609,
     "wof:name":"The Clarendon Press",
     "wof:parent_id":85788623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.350514,51.637463,-2.350514,51.637463],
+  "bbox": [
+    -2.350514,
+    51.637463,
+    -2.350514,
+    51.637463
+],
   "geometry": {"coordinates":[-2.350514,51.637463],"type":"Point"}
 }

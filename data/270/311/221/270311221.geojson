@@ -2,13 +2,14 @@
   "id": 270311221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.535851,50.717323,-3.535851,50.717323",
     "geom:latitude":50.717323,
     "geom:longitude":-3.535851,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Grace Rd",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270311221,
-    "wof:lastmodified":1449009205,
+    "wof:lastmodified":1466269766,
     "wof:name":"British Central Electrical Co Ltd",
     "wof:parent_id":85790683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-3.535851,50.717323,-3.535851,50.717323],
+  "bbox": [
+    -3.535851,
+    50.717323,
+    -3.535851,
+    50.717323
+],
   "geometry": {"coordinates":[-3.535851,50.717323],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270488113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.245833,53.482117,-2.245833,53.482117",
     "geom:latitude":53.482117,
     "geom:longitude":-2.245833,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 St. Anns Sq",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":270488113,
-    "wof:lastmodified":1449011083,
+    "wof:lastmodified":1466274987,
     "wof:name":"N Harrison",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.245833,53.482117,-2.245833,53.482117],
+  "bbox": [
+    -2.245833,
+    53.482117,
+    -2.245833,
+    53.482117
+],
   "geometry": {"coordinates":[-2.245833,53.482117],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253612801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.13352,56.127388,-3.13352,56.127388",
     "geom:latitude":56.127388,
     "geom:longitude":-3.13352,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Viewforth Av",
     "sg:city":"Kirkcaldy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253612801,
-    "wof:lastmodified":1449064138,
+    "wof:lastmodified":1466271539,
     "wof:name":"Charles Duncan",
     "wof:parent_id":85787131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [-3.13352,56.127388,-3.13352,56.127388],
+  "bbox": [
+    -3.13352,
+    56.127388,
+    -3.13352,
+    56.127388
+],
   "geometry": {"coordinates":[-3.13352,56.127388],"type":"Point"}
 }

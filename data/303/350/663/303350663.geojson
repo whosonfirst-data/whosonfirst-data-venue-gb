@@ -2,13 +2,14 @@
   "id": 303350663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.043328,53.780945,-3.043328,53.780945",
     "geom:latitude":53.780945,
     "geom:longitude":-3.043328,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Kingston Ave",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303350663,
-    "wof:lastmodified":1448999367,
+    "wof:lastmodified":1466273345,
     "wof:name":"Macauley,Denise,",
     "wof:parent_id":85789011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-3.043328,53.780945,-3.043328,53.780945],
+  "bbox": [
+    -3.043328,
+    53.780945,
+    -3.043328,
+    53.780945
+],
   "geometry": {"coordinates":[-3.043328,53.780945],"type":"Point"}
 }

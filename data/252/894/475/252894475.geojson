@@ -2,13 +2,14 @@
   "id": 252894475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.000902,53.459587,-3.000902,53.459587",
     "geom:latitude":53.459587,
     "geom:longitude":-3.000902,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Knowsley Road",
     "sg:city":"Bootle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252894475,
-    "wof:lastmodified":1449005850,
+    "wof:lastmodified":1466260726,
     "wof:name":"Bridge Bakeries",
     "wof:parent_id":85790225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-3.000902,53.459587,-3.000902,53.459587],
+  "bbox": [
+    -3.000902,
+    53.459587,
+    -3.000902,
+    53.459587
+],
   "geometry": {"coordinates":[-3.000902,53.459587],"type":"Point"}
 }

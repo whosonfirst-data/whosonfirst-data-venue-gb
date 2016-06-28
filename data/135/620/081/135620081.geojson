@@ -2,13 +2,14 @@
   "id": 135620081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.561377,55.943481,-4.561377,55.943481",
     "geom:latitude":55.943481,
     "geom:longitude":-4.561377,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Castlegreen St",
     "sg:city":"Dumbarton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135620081,
-    "wof:lastmodified":1449023746,
+    "wof:lastmodified":1466283576,
     "wof:name":"Castle View",
     "wof:parent_id":101872537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.561377,55.943481,-4.561377,55.943481],
+  "bbox": [
+    -4.561377,
+    55.943481,
+    -4.561377,
+    55.943481
+],
   "geometry": {"coordinates":[-4.561377,55.943481],"type":"Point"}
 }

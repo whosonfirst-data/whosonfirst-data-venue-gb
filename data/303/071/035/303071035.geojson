@@ -2,13 +2,14 @@
   "id": 303071035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.311323,52.994099,-1.311323,52.994099",
     "geom:latitude":52.994099,
     "geom:longitude":-1.311323,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Dovedale Circle",
     "sg:city":"Ilkeston",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303071035,
-    "wof:lastmodified":1448999657,
+    "wof:lastmodified":1466264624,
     "wof:name":"E Williams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.311323,52.994099,-1.311323,52.994099],
+  "bbox": [
+    -1.311323,
+    52.994099,
+    -1.311323,
+    52.994099
+],
   "geometry": {"coordinates":[-1.311323,52.994099],"type":"Point"}
 }

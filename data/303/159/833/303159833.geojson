@@ -2,13 +2,14 @@
   "id": 303159833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.20528,55.944641,-3.20528,55.944641",
     "geom:latitude":55.944641,
     "geom:longitude":-3.20528,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Fountainbridge",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":303159833,
-    "wof:lastmodified":1448998412,
+    "wof:lastmodified":1466267480,
     "wof:name":"The Crofters Cafe Takeaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "room"
     ]
 },
-  "bbox": [-3.20528,55.944641,-3.20528,55.944641],
+  "bbox": [
+    -3.20528,
+    55.944641,
+    -3.20528,
+    55.944641
+],
   "geometry": {"coordinates":[-3.20528,55.944641],"type":"Point"}
 }

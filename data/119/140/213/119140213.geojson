@@ -2,13 +2,14 @@
   "id": 119140213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.707049,52.629368,-1.707049,52.629368",
     "geom:latitude":52.629368,
     "geom:longitude":-1.707049,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bonehill Road",
     "sg:city":"Tamworth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119140213,
-    "wof:lastmodified":1449041206,
+    "wof:lastmodified":1466262497,
     "wof:name":"Brantano",
     "wof:parent_id":85683943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.707049,52.629368,-1.707049,52.629368],
+  "bbox": [
+    -1.707049,
+    52.629368,
+    -1.707049,
+    52.629368
+],
   "geometry": {"coordinates":[-1.707049,52.629368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303774019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.94041,50.705441,-1.94041,50.705441",
     "geom:latitude":50.705441,
     "geom:longitude":-1.94041,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lewis-manning Hospice, 1 Crichel Mount Road",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303774019,
-    "wof:lastmodified":1448999067,
+    "wof:lastmodified":1466282681,
     "wof:name":"Macmillan Lewis-manning Appeal",
     "wof:parent_id":85786213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.94041,50.705441,-1.94041,50.705441],
+  "bbox": [
+    -1.94041,
+    50.705441,
+    -1.94041,
+    50.705441
+],
   "geometry": {"coordinates":[-1.94041,50.705441],"type":"Point"}
 }

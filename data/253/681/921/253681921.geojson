@@ -2,13 +2,14 @@
   "id": 253681921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.230574,52.961208,-1.230574,52.961208",
     "geom:latitude":52.961208,
     "geom:longitude":-1.230574,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 7-8 Glaisdale Parkway, Bilborough",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253681921,
-    "wof:lastmodified":1449064618,
+    "wof:lastmodified":1466273657,
     "wof:name":"The Finished Article Ltd.",
     "wof:parent_id":85785691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "finisher"
     ]
 },
-  "bbox": [-1.230574,52.961208,-1.230574,52.961208],
+  "bbox": [
+    -1.230574,
+    52.961208,
+    -1.230574,
+    52.961208
+],
   "geometry": {"coordinates":[-1.230574,52.961208],"type":"Point"}
 }

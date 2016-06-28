@@ -2,13 +2,14 @@
   "id": 320007207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.9092,50.72411,-1.9092,50.72411",
     "geom:latitude":50.72411,
     "geom:longitude":-1.9092,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Poole Commerce Centre, Poole Rd",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320007207,
-    "wof:lastmodified":1449014330,
+    "wof:lastmodified":1466268319,
     "wof:name":"Christies Fitted Bedroom",
     "wof:parent_id":85785943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bedroom"
     ]
 },
-  "bbox": [-1.9092,50.72411,-1.9092,50.72411],
+  "bbox": [
+    -1.9092,
+    50.72411,
+    -1.9092,
+    50.72411
+],
   "geometry": {"coordinates":[-1.9092,50.72411],"type":"Point"}
 }

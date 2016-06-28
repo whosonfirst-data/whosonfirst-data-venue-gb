@@ -2,13 +2,14 @@
   "id": 303732359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.008515,54.915543,-3.008515,54.915543",
     "geom:latitude":54.915543,
     "geom:longitude":-3.008515,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Forge, Kirkandrews On Eden",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303732359,
-    "wof:lastmodified":1449000643,
+    "wof:lastmodified":1466282285,
     "wof:name":"J Nicholson & Sons",
     "wof:parent_id":85786253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.008515,54.915543,-3.008515,54.915543],
+  "bbox": [
+    -3.008515,
+    54.915543,
+    -3.008515,
+    54.915543
+],
   "geometry": {"coordinates":[-3.008515,54.915543],"type":"Point"}
 }

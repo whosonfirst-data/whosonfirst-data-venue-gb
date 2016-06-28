@@ -2,13 +2,14 @@
   "id": 253581035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.171187,55.962433,-3.171187,55.962433",
     "geom:latitude":55.962433,
     "geom:longitude":-3.171187,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Easter Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253581035,
-    "wof:lastmodified":1449063434,
+    "wof:lastmodified":1466270487,
     "wof:name":"S A Store",
     "wof:parent_id":85792695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-3.171187,55.962433,-3.171187,55.962433],
+  "bbox": [
+    -3.171187,
+    55.962433,
+    -3.171187,
+    55.962433
+],
   "geometry": {"coordinates":[-3.171187,55.962433],"type":"Point"}
 }

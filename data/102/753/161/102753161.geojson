@@ -2,13 +2,14 @@
   "id": 102753161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.774043,51.470783,-2.774043,51.470783",
     "geom:latitude":51.470783,
     "geom:longitude":-2.774043,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Mead Road, North Veston, Portishead",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102753161,
-    "wof:lastmodified":1449068083,
+    "wof:lastmodified":1466259021,
     "wof:name":"B & R Services",
     "wof:parent_id":85785419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.774043,51.470783,-2.774043,51.470783],
+  "bbox": [
+    -2.774043,
+    51.470783,
+    -2.774043,
+    51.470783
+],
   "geometry": {"coordinates":[-2.774043,51.470783],"type":"Point"}
 }

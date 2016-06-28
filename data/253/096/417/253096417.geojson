@@ -2,13 +2,14 @@
   "id": 253096417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.005009,52.319595,-2.005009,52.319595",
     "geom:latitude":52.319595,
     "geom:longitude":-2.005009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"London Lane, Tardebigge",
     "sg:city":"Bromsgrove",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253096417,
-    "wof:lastmodified":1449063782,
+    "wof:lastmodified":1466259242,
     "wof:name":"Tylers Lock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "night"
     ]
 },
-  "bbox": [-2.005009,52.319595,-2.005009,52.319595],
+  "bbox": [
+    -2.005009,
+    52.319595,
+    -2.005009,
+    52.319595
+],
   "geometry": {"coordinates":[-2.005009,52.319595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119023303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.303719,51.857769,-4.303719,51.857769",
     "geom:latitude":51.857769,
     "geom:longitude":-4.303719,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 King Street",
     "sg:city":"Carmarthen",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119023303,
-    "wof:lastmodified":1449043271,
+    "wof:lastmodified":1466276370,
     "wof:name":"Wheeler Wicks & Co",
     "wof:parent_id":101852977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.303719,51.857769,-4.303719,51.857769],
+  "bbox": [
+    -4.303719,
+    51.857769,
+    -4.303719,
+    51.857769
+],
   "geometry": {"coordinates":[-4.303719,51.857769],"type":"Point"}
 }

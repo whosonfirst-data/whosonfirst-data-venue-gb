@@ -2,13 +2,14 @@
   "id": 119065179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.260299,55.848545,-4.260299,55.848545",
     "geom:latitude":55.848545,
     "geom:longitude":-4.260299,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"219-221 Eglinton Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":119065179,
-    "wof:lastmodified":1449043536,
+    "wof:lastmodified":1466254870,
     "wof:name":"Kiloran Bar",
     "wof:parent_id":85861543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.260299,55.848545,-4.260299,55.848545],
+  "bbox": [
+    -4.260299,
+    55.848545,
+    -4.260299,
+    55.848545
+],
   "geometry": {"coordinates":[-4.260299,55.848545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303865225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.043537,52.585705,-2.043537,52.585705",
     "geom:latitude":52.585705,
     "geom:longitude":-2.043537,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Walsall Street",
     "sg:city":"Willenhall",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303865225,
-    "wof:lastmodified":1448999965,
+    "wof:lastmodified":1466283888,
     "wof:name":"The Trading Place of Willenhall",
     "wof:parent_id":85785623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "second-hand"
     ]
 },
-  "bbox": [-2.043537,52.585705,-2.043537,52.585705],
+  "bbox": [
+    -2.043537,
+    52.585705,
+    -2.043537,
+    52.585705
+],
   "geometry": {"coordinates":[-2.043537,52.585705],"type":"Point"}
 }

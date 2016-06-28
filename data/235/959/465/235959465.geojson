@@ -2,13 +2,14 @@
   "id": 235959465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.540125,50.880234,0.540125,50.880234",
     "geom:latitude":50.880234,
     "geom:longitude":0.540125,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Tilebarn Road",
     "sg:city":"St Leonards-on-sea",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235959465,
-    "wof:lastmodified":1449008579,
+    "wof:lastmodified":1466255705,
     "wof:name":"Tile Barn Centre",
     "wof:parent_id":85861225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "authority"
     ]
 },
-  "bbox": [0.540125,50.880234,0.540125,50.880234],
+  "bbox": [
+    0.540125,
+    50.880234,
+    0.540125,
+    50.880234
+],
   "geometry": {"coordinates":[0.540125,50.880234],"type":"Point"}
 }

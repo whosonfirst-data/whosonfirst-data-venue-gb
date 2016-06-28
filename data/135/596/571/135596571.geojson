@@ -2,13 +2,14 @@
   "id": 135596571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.099925,51.882259,-2.099925,51.882259",
     "geom:latitude":51.882259,
     "geom:longitude":-2.099925,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Salisbury Avenue",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135596571,
-    "wof:lastmodified":1449022564,
+    "wof:lastmodified":1466282333,
     "wof:name":"Whyte's Estate Agents",
     "wof:parent_id":85790631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.099925,51.882259,-2.099925,51.882259],
+  "bbox": [
+    -2.099925,
+    51.882259,
+    -2.099925,
+    51.882259
+],
   "geometry": {"coordinates":[-2.099925,51.882259],"type":"Point"}
 }

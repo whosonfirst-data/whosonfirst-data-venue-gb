@@ -2,13 +2,14 @@
   "id": 320216203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.309004,53.486191,-1.309004,53.486191",
     "geom:latitude":53.486191,
     "geom:longitude":-1.309004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Crossland St",
     "sg:city":"Mexborough",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320216203,
-    "wof:lastmodified":1449014536,
+    "wof:lastmodified":1466274528,
     "wof:name":"Emergency Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"
     ]
 },
-  "bbox": [-1.309004,53.486191,-1.309004,53.486191],
+  "bbox": [
+    -1.309004,
+    53.486191,
+    -1.309004,
+    53.486191
+],
   "geometry": {"coordinates":[-1.309004,53.486191],"type":"Point"}
 }

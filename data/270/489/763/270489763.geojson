@@ -2,13 +2,14 @@
   "id": 270489763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.325734,51.399338,-1.325734,51.399338",
     "geom:latitude":51.399338,
     "geom:longitude":-1.325734,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Winchcombe House, 123-126 Bartholomew St",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270489763,
-    "wof:lastmodified":1449009984,
+    "wof:lastmodified":1466275038,
     "wof:name":"Travelogue Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "booking"
     ]
 },
-  "bbox": [-1.325734,51.399338,-1.325734,51.399338],
+  "bbox": [
+    -1.325734,
+    51.399338,
+    -1.325734,
+    51.399338
+],
   "geometry": {"coordinates":[-1.325734,51.399338],"type":"Point"}
 }

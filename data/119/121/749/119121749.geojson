@@ -2,13 +2,14 @@
   "id": 119121749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.086913,50.413975,-5.086913,50.413975",
     "geom:latitude":50.413975,
     "geom:longitude":-5.086913,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Fore Street",
     "sg:city":"Newquay",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119121749,
-    "wof:lastmodified":1449042909,
+    "wof:lastmodified":1466261101,
     "wof:name":"Instore",
     "wof:parent_id":101852409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.086913,50.413975,-5.086913,50.413975],
+  "bbox": [
+    -5.086913,
+    50.413975,
+    -5.086913,
+    50.413975
+],
   "geometry": {"coordinates":[-5.086913,50.413975],"type":"Point"}
 }

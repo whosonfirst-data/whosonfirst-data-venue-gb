@@ -2,13 +2,14 @@
   "id": 119117881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.69513,50.90366,-2.69513,50.90366",
     "geom:latitude":50.90366,
     "geom:longitude":-2.69513,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"High Street, Hardington Mandeville",
     "sg:city":"Yeovil",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119117881,
-    "wof:lastmodified":1449042705,
+    "wof:lastmodified":1466260743,
     "wof:name":"The Mandeville Arms",
     "wof:parent_id":85684013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.69513,50.90366,-2.69513,50.90366],
+  "bbox": [
+    -2.69513,
+    50.90366,
+    -2.69513,
+    50.90366
+],
   "geometry": {"coordinates":[-2.69513,50.90366],"type":"Point"}
 }

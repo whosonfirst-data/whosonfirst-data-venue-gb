@@ -2,13 +2,14 @@
   "id": 270042043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.170573,55.957245,-3.170573,55.957245",
     "geom:latitude":55.957245,
     "geom:longitude":-3.170573,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43-45 Montrose Terrace",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270042043,
-    "wof:lastmodified":1449010484,
+    "wof:lastmodified":1466261726,
     "wof:name":"Edinburgh Denture Clinic",
     "wof:parent_id":85792695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dental"
     ]
 },
-  "bbox": [-3.170573,55.957245,-3.170573,55.957245],
+  "bbox": [
+    -3.170573,
+    55.957245,
+    -3.170573,
+    55.957245
+],
   "geometry": {"coordinates":[-3.170573,55.957245],"type":"Point"}
 }

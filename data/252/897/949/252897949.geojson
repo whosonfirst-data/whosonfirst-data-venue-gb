@@ -2,13 +2,14 @@
   "id": 252897949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.148692,50.547207,-4.148692,50.547207",
     "geom:latitude":50.547207,
     "geom:longitude":-4.148692,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Plymouth Road",
     "sg:city":"Tavistock",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":252897949,
-    "wof:lastmodified":1449006343,
+    "wof:lastmodified":1466260788,
     "wof:name":"Lyndale Residential Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-4.148692,50.547207,-4.148692,50.547207],
+  "bbox": [
+    -4.148692,
+    50.547207,
+    -4.148692,
+    50.547207
+],
   "geometry": {"coordinates":[-4.148692,50.547207],"type":"Point"}
 }

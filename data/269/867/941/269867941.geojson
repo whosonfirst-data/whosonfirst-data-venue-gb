@@ -2,13 +2,14 @@
   "id": 269867941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.168191,55.85981,-3.168191,55.85981",
     "geom:latitude":55.85981,
     "geom:longitude":-3.168191,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Main Street",
     "sg:city":"Roslin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269867941,
-    "wof:lastmodified":1449037171,
+    "wof:lastmodified":1466271723,
     "wof:name":"JOHN STUART",
     "wof:parent_id":85787337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "heating"
     ]
 },
-  "bbox": [-3.168191,55.85981,-3.168191,55.85981],
+  "bbox": [
+    -3.168191,
+    55.85981,
+    -3.168191,
+    55.85981
+],
   "geometry": {"coordinates":[-3.168191,55.85981],"type":"Point"}
 }

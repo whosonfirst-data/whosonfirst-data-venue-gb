@@ -2,13 +2,14 @@
   "id": 286626227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.322127,54.542877,-1.322127,54.542877",
     "geom:latitude":54.542877,
     "geom:longitude":-1.322127,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Preston Farm, Yarm Road",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286626227,
-    "wof:lastmodified":1449018085,
+    "wof:lastmodified":1466273593,
     "wof:name":"Stockton Rover",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-1.322127,54.542877,-1.322127,54.542877],
+  "bbox": [
+    -1.322127,
+    54.542877,
+    -1.322127,
+    54.542877
+],
   "geometry": {"coordinates":[-1.322127,54.542877],"type":"Point"}
 }

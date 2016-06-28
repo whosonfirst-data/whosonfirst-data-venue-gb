@@ -2,13 +2,14 @@
   "id": 336681541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.505404,52.707264,-1.505404,52.707264",
     "geom:latitude":52.707264,
     "geom:longitude":-1.505404,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111 High Street, Measham",
     "sg:city":"Swadlincote",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336681541,
-    "wof:lastmodified":1448997596,
+    "wof:lastmodified":1466275203,
     "wof:name":"W S Hunts Transport (Trent)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "road"
     ]
 },
-  "bbox": [-1.505404,52.707264,-1.505404,52.707264],
+  "bbox": [
+    -1.505404,
+    52.707264,
+    -1.505404,
+    52.707264
+],
   "geometry": {"coordinates":[-1.505404,52.707264],"type":"Point"}
 }

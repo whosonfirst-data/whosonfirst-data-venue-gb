@@ -2,13 +2,14 @@
   "id": 270529591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.158447,55.955547,-3.158447,55.955547",
     "geom:latitude":55.955547,
     "geom:longitude":-3.158447,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2/4 Clockmill Lane",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270529591,
-    "wof:lastmodified":1449009704,
+    "wof:lastmodified":1466276285,
     "wof:name":"Dougie Reid",
     "wof:parent_id":85861527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-3.158447,55.955547,-3.158447,55.955547],
+  "bbox": [
+    -3.158447,
+    55.955547,
+    -3.158447,
+    55.955547
+],
   "geometry": {"coordinates":[-3.158447,55.955547],"type":"Point"}
 }

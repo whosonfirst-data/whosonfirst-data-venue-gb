@@ -2,13 +2,14 @@
   "id": 286900917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.921809,50.756329,-1.921809,50.756329",
     "geom:latitude":50.756329,
     "geom:longitude":-1.921809,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit B, Robert Rose House, Elliott Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286900917,
-    "wof:lastmodified":1449016454,
+    "wof:lastmodified":1466280522,
     "wof:name":"Woodberry Kitchens",
     "wof:parent_id":85792773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-1.921809,50.756329,-1.921809,50.756329],
+  "bbox": [
+    -1.921809,
+    50.756329,
+    -1.921809,
+    50.756329
+],
   "geometry": {"coordinates":[-1.921809,50.756329],"type":"Point"}
 }

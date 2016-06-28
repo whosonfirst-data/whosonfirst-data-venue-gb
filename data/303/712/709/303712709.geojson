@@ -2,13 +2,14 @@
   "id": 303712709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.074952,52.110126,-2.074952,52.110126",
     "geom:latitude":52.110126,
     "geom:longitude":-2.074952,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 High Street",
     "sg:city":"Pershore",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303712709,
-    "wof:lastmodified":1448999166,
+    "wof:lastmodified":1466281968,
     "wof:name":"Nick Green",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.074952,52.110126,-2.074952,52.110126],
+  "bbox": [
+    -2.074952,
+    52.110126,
+    -2.074952,
+    52.110126
+],
   "geometry": {"coordinates":[-2.074952,52.110126],"type":"Point"}
 }

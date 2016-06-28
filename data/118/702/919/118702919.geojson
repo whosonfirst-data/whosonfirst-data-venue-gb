@@ -2,13 +2,14 @@
   "id": 118702919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.648121,54.978001,-1.648121,54.978001",
     "geom:latitude":54.978001,
     "geom:longitude":-1.648121,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12-16 Hadrian Rd",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":118702919,
-    "wof:lastmodified":1449053844,
+    "wof:lastmodified":1466265521,
     "wof:name":"Angus Business Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.648121,54.978001,-1.648121,54.978001],
+  "bbox": [
+    -1.648121,
+    54.978001,
+    -1.648121,
+    54.978001
+],
   "geometry": {"coordinates":[-1.648121,54.978001],"type":"Point"}
 }

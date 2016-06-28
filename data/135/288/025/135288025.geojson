@@ -2,13 +2,14 @@
   "id": 135288025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.508917,52.385513,-1.508917,52.385513",
     "geom:latitude":52.385513,
     "geom:longitude":-1.508917,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Knoll Drive",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135288025,
-    "wof:lastmodified":1449021311,
+    "wof:lastmodified":1466276401,
     "wof:name":"St Thomas More R C Church",
     "wof:parent_id":85790739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.508917,52.385513,-1.508917,52.385513],
+  "bbox": [
+    -1.508917,
+    52.385513,
+    -1.508917,
+    52.385513
+],
   "geometry": {"coordinates":[-1.508917,52.385513],"type":"Point"}
 }

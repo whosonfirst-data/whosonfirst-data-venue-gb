@@ -2,13 +2,14 @@
   "id": 320468357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.417703,53.379478,-1.417703,53.379478",
     "geom:latitude":53.379478,
     "geom:longitude":-1.417703,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51-53 Mather Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320468357,
-    "wof:lastmodified":1449013943,
+    "wof:lastmodified":1466280614,
     "wof:name":"Johal News",
     "wof:parent_id":85786971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.417703,53.379478,-1.417703,53.379478],
+  "bbox": [
+    -1.417703,
+    53.379478,
+    -1.417703,
+    53.379478
+],
   "geometry": {"coordinates":[-1.417703,53.379478],"type":"Point"}
 }

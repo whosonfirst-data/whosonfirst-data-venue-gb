@@ -2,13 +2,14 @@
   "id": 270426593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.181794,55.931206,-3.181794,55.931206",
     "geom:latitude":55.931206,
     "geom:longitude":-3.181794,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5a South Lauder Rd",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270426593,
-    "wof:lastmodified":1449009144,
+    "wof:lastmodified":1466273172,
     "wof:name":"Ian Hall Associates",
     "wof:parent_id":85787675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-3.181794,55.931206,-3.181794,55.931206],
+  "bbox": [
+    -3.181794,
+    55.931206,
+    -3.181794,
+    55.931206
+],
   "geometry": {"coordinates":[-3.181794,55.931206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118548461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.983009,52.579769,0.983009,52.579769",
     "geom:latitude":52.579769,
     "geom:longitude":0.983009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Beaconsfield House, Market Place, Hingham",
     "sg:city":"Norwich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118548461,
-    "wof:lastmodified":1449054111,
+    "wof:lastmodified":1466253829,
     "wof:name":"Test Reliability Ltd",
     "wof:parent_id":101854979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.983009,52.579769,0.983009,52.579769],
+  "bbox": [
+    0.983009,
+    52.579769,
+    0.983009,
+    52.579769
+],
   "geometry": {"coordinates":[0.983009,52.579769],"type":"Point"}
 }

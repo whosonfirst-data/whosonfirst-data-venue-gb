@@ -2,13 +2,14 @@
   "id": 253353805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.836953,50.724846,-1.836953,50.724846",
     "geom:latitude":50.724846,
     "geom:longitude":-1.836953,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Florence Rd, Boscombe",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253353805,
-    "wof:lastmodified":1449063660,
+    "wof:lastmodified":1466264364,
     "wof:name":"Abington House",
     "wof:parent_id":85785869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "care"
     ]
 },
-  "bbox": [-1.836953,50.724846,-1.836953,50.724846],
+  "bbox": [
+    -1.836953,
+    50.724846,
+    -1.836953,
+    50.724846
+],
   "geometry": {"coordinates":[-1.836953,50.724846],"type":"Point"}
 }

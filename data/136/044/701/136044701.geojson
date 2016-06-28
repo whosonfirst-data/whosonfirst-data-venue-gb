@@ -2,13 +2,14 @@
   "id": 136044701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.390351,55.800896,-4.390351,55.800896",
     "geom:latitude":55.800896,
     "geom:longitude":-4.390351,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Main Street, Barrhead",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136044701,
-    "wof:lastmodified":1449075607,
+    "wof:lastmodified":1466277812,
     "wof:name":"Medical Centre",
     "wof:parent_id":85789427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.390351,55.800896,-4.390351,55.800896],
+  "bbox": [
+    -4.390351,
+    55.800896,
+    -4.390351,
+    55.800896
+],
   "geometry": {"coordinates":[-4.390351,55.800896],"type":"Point"}
 }

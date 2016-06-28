@@ -2,13 +2,14 @@
   "id": 203166705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.314417,55.811405,-4.314417,55.811405",
     "geom:latitude":55.811405,
     "geom:longitude":-4.314417,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Boydstone Place, Thornliebank",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":203166705,
-    "wof:lastmodified":1449026016,
+    "wof:lastmodified":1466255414,
     "wof:name":"S Weir Accounting",
     "wof:parent_id":85791009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-4.314417,55.811405,-4.314417,55.811405],
+  "bbox": [
+    -4.314417,
+    55.811405,
+    -4.314417,
+    55.811405
+],
   "geometry": {"coordinates":[-4.314417,55.811405],"type":"Point"}
 }

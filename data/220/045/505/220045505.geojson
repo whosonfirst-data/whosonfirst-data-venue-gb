@@ -2,13 +2,14 @@
   "id": 220045505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.951263,52.408836,-1.951263,52.408836",
     "geom:latitude":52.408836,
     "geom:longitude":-1.951263,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"286 Staple Lodge Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220045505,
-    "wof:lastmodified":1449074781,
+    "wof:lastmodified":1466253726,
     "wof:name":"Castle Construction",
     "wof:parent_id":85791993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.951263,52.408836,-1.951263,52.408836],
+  "bbox": [
+    -1.951263,
+    52.408836,
+    -1.951263,
+    52.408836
+],
   "geometry": {"coordinates":[-1.951263,52.408836],"type":"Point"}
 }

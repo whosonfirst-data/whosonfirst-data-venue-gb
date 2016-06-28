@@ -2,13 +2,14 @@
   "id": 119046995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.389231,55.984753,-3.389231,55.984753",
     "geom:latitude":55.984753,
     "geom:longitude":-3.389231,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Ochil Court",
     "sg:city":"South Queensferry",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":119046995,
-    "wof:lastmodified":1449042328,
+    "wof:lastmodified":1466252904,
     "wof:name":"Ferry Cabs",
     "wof:parent_id":85786851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.389231,55.984753,-3.389231,55.984753],
+  "bbox": [
+    -3.389231,
+    55.984753,
+    -3.389231,
+    55.984753
+],
   "geometry": {"coordinates":[-3.389231,55.984753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303603287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.718096,50.743694,-1.718096,50.743694",
     "geom:latitude":50.743694,
     "geom:longitude":-1.718096,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Smugglers Lane South, Highcliffe",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303603287,
-    "wof:lastmodified":1449000183,
+    "wof:lastmodified":1466279912,
     "wof:name":"Reader Communications",
     "wof:parent_id":85790471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [-1.718096,50.743694,-1.718096,50.743694],
+  "bbox": [
+    -1.718096,
+    50.743694,
+    -1.718096,
+    50.743694
+],
   "geometry": {"coordinates":[-1.718096,50.743694],"type":"Point"}
 }

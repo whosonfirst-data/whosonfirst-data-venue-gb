@@ -2,13 +2,14 @@
   "id": 186582677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.506179,55.608349,-4.506179,55.608349",
     "geom:latitude":55.608349,
     "geom:longitude":-4.506179,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Portland Road",
     "sg:city":"Kilmarnock",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186582677,
-    "wof:lastmodified":1449051823,
+    "wof:lastmodified":1466260699,
     "wof:name":"Springhill Home Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-4.506179,55.608349,-4.506179,55.608349],
+  "bbox": [
+    -4.506179,
+    55.608349,
+    -4.506179,
+    55.608349
+],
   "geometry": {"coordinates":[-4.506179,55.608349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253616161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.501394,51.115238,-1.501394,51.115238",
     "geom:latitude":51.115238,
     "geom:longitude":-1.501394,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"High St",
     "sg:city":"Stockbridge",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253616161,
-    "wof:lastmodified":1449065002,
+    "wof:lastmodified":1466271623,
     "wof:name":"Hampshire Constabulary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "support"
     ]
 },
-  "bbox": [-1.501394,51.115238,-1.501394,51.115238],
+  "bbox": [
+    -1.501394,
+    51.115238,
+    -1.501394,
+    51.115238
+],
   "geometry": {"coordinates":[-1.501394,51.115238],"type":"Point"}
 }

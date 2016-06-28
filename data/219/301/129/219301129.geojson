@@ -2,13 +2,14 @@
   "id": 219301129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.057264,51.52742,-0.057264,51.52742",
     "geom:latitude":51.52742,
     "geom:longitude":-0.057264,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 108, 463 Bethnal Grn Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219301129,
-    "wof:lastmodified":1449071297,
+    "wof:lastmodified":1466255307,
     "wof:name":"Marina Jones Bookings",
     "wof:parent_id":85785657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "make-up"
     ]
 },
-  "bbox": [-0.057264,51.52742,-0.057264,51.52742],
+  "bbox": [
+    -0.057264,
+    51.52742,
+    -0.057264,
+    51.52742
+],
   "geometry": {"coordinates":[-0.057264,51.52742],"type":"Point"}
 }

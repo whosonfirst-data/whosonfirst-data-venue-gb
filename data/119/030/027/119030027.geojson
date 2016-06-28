@@ -2,13 +2,14 @@
   "id": 119030027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.739269,53.974571,-2.739269,53.974571",
     "geom:latitude":53.974571,
     "geom:longitude":-2.739269,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bond Gate Farm, Dolphinholme",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119030027,
-    "wof:lastmodified":1449041752,
+    "wof:lastmodified":1466277301,
     "wof:name":"Bond Gate Farm",
     "wof:parent_id":85683853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.739269,53.974571,-2.739269,53.974571],
+  "bbox": [
+    -2.739269,
+    53.974571,
+    -2.739269,
+    53.974571
+],
   "geometry": {"coordinates":[-2.739269,53.974571],"type":"Point"}
 }

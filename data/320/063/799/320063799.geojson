@@ -2,13 +2,14 @@
   "id": 320063799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.24502,53.480869,-2.24502,53.480869",
     "geom:latitude":53.480869,
     "geom:longitude":-2.24502,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Cross Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320063799,
-    "wof:lastmodified":1449011573,
+    "wof:lastmodified":1466270007,
     "wof:name":"The Carphone Warehouse",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-2.24502,53.480869,-2.24502,53.480869],
+  "bbox": [
+    -2.24502,
+    53.480869,
+    -2.24502,
+    53.480869
+],
   "geometry": {"coordinates":[-2.24502,53.480869],"type":"Point"}
 }

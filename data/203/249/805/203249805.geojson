@@ -2,13 +2,14 @@
   "id": 203249805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.122532,57.143299,-2.122532,57.143299",
     "geom:latitude":57.143299,
     "geom:longitude":-2.122532,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Inverglen House, 6 Albyn Terrace",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203249805,
-    "wof:lastmodified":1449025049,
+    "wof:lastmodified":1466256951,
     "wof:name":"Inverglen Consulting Ltd.",
     "wof:parent_id":85791939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "consultant"
     ]
 },
-  "bbox": [-2.122532,57.143299,-2.122532,57.143299],
+  "bbox": [
+    -2.122532,
+    57.143299,
+    -2.122532,
+    57.143299
+],
   "geometry": {"coordinates":[-2.122532,57.143299],"type":"Point"}
 }

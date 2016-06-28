@@ -2,13 +2,14 @@
   "id": 303716967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.06878,50.155197,-5.06878,50.155197",
     "geom:latitude":50.155197,
     "geom:longitude":-5.06878,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28a Market Street",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303716967,
-    "wof:lastmodified":1448998465,
+    "wof:lastmodified":1466281889,
     "wof:name":"Specsavers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "optician"
     ]
 },
-  "bbox": [-5.06878,50.155197,-5.06878,50.155197],
+  "bbox": [
+    -5.06878,
+    50.155197,
+    -5.06878,
+    50.155197
+],
   "geometry": {"coordinates":[-5.06878,50.155197],"type":"Point"}
 }

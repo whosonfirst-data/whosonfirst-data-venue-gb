@@ -2,13 +2,14 @@
   "id": 202570349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.748193,53.787334,-1.748193,53.787334",
     "geom:latitude":53.787334,
     "geom:longitude":-1.748193,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Fitzwilliam Street",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202570349,
-    "wof:lastmodified":1449061612,
+    "wof:lastmodified":1466255301,
     "wof:name":"Tordoff & Wilkinson",
     "wof:parent_id":85788797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "repair"
     ]
 },
-  "bbox": [-1.748193,53.787334,-1.748193,53.787334],
+  "bbox": [
+    -1.748193,
+    53.787334,
+    -1.748193,
+    53.787334
+],
   "geometry": {"coordinates":[-1.748193,53.787334],"type":"Point"}
 }

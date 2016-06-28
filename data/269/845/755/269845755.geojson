@@ -2,13 +2,14 @@
   "id": 269845755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.033206,52.222122,-1.033206,52.222122",
     "geom:latitude":52.222122,
     "geom:longitude":-1.033206,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Middle Street, Nether Heyford",
     "sg:city":"Northampton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269845755,
-    "wof:lastmodified":1449036529,
+    "wof:lastmodified":1466270974,
     "wof:name":"The Olde Sun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.033206,52.222122,-1.033206,52.222122],
+  "bbox": [
+    -1.033206,
+    52.222122,
+    -1.033206,
+    52.222122
+],
   "geometry": {"coordinates":[-1.033206,52.222122],"type":"Point"}
 }

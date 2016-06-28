@@ -2,13 +2,14 @@
   "id": 202600803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.056112,51.527859,-0.056112,51.527859",
     "geom:latitude":51.527859,
     "geom:longitude":-0.056112,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Paradise Row, Bethnal Grn",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202600803,
-    "wof:lastmodified":1449060349,
+    "wof:lastmodified":1466255852,
     "wof:name":"Positive Care Link",
     "wof:parent_id":85785657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "care"
     ]
 },
-  "bbox": [-0.056112,51.527859,-0.056112,51.527859],
+  "bbox": [
+    -0.056112,
+    51.527859,
+    -0.056112,
+    51.527859
+],
   "geometry": {"coordinates":[-0.056112,51.527859],"type":"Point"}
 }

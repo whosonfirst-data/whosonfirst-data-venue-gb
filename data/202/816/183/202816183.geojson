@@ -2,13 +2,14 @@
   "id": 202816183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.138219,55.932941,-3.138219,55.932941",
     "geom:latitude":55.932941,
     "geom:longitude":-3.138219,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Niddrie Mains Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202816183,
-    "wof:lastmodified":1449061595,
+    "wof:lastmodified":1466259352,
     "wof:name":"The Whitehouse",
     "wof:parent_id":85786847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.138219,55.932941,-3.138219,55.932941],
+  "bbox": [
+    -3.138219,
+    55.932941,
+    -3.138219,
+    55.932941
+],
   "geometry": {"coordinates":[-3.138219,55.932941],"type":"Point"}
 }

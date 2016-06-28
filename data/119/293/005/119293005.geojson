@@ -2,13 +2,14 @@
   "id": 119293005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.468004,51.71946,-3.468004,51.71946",
     "geom:latitude":51.71946,
     "geom:longitude":-3.468004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Laurels, Meirion Street",
     "sg:city":"Aberdare",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119293005,
-    "wof:lastmodified":1449041344,
+    "wof:lastmodified":1466278998,
     "wof:name":"Laurels Residential Home",
     "wof:parent_id":85683991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.468004,51.71946,-3.468004,51.71946],
+  "bbox": [
+    -3.468004,
+    51.71946,
+    -3.468004,
+    51.71946
+],
   "geometry": {"coordinates":[-3.468004,51.71946],"type":"Point"}
 }

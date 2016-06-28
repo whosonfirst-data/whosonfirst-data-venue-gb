@@ -2,13 +2,14 @@
   "id": 219379495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.395458,54.097652,-1.395458,54.097652",
     "geom:latitude":54.097652,
     "geom:longitude":-1.395458,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"High Street, Boroughbridge",
     "sg:city":"York",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219379495,
-    "wof:lastmodified":1449072431,
+    "wof:lastmodified":1466256729,
     "wof:name":"Pybus Newsagents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.395458,54.097652,-1.395458,54.097652],
+  "bbox": [
+    -1.395458,
+    54.097652,
+    -1.395458,
+    54.097652
+],
   "geometry": {"coordinates":[-1.395458,54.097652],"type":"Point"}
 }

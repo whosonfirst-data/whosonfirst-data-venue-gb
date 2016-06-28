@@ -2,13 +2,14 @@
   "id": 336937349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.068114,51.39193,-1.068114,51.39193",
     "geom:latitude":51.39193,
     "geom:longitude":-1.068114,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Reading Road, Burghfield Common",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336937349,
-    "wof:lastmodified":1448997157,
+    "wof:lastmodified":1466280837,
     "wof:name":"Burghfield Pharmacy",
     "wof:parent_id":85786147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chemist"
     ]
 },
-  "bbox": [-1.068114,51.39193,-1.068114,51.39193],
+  "bbox": [
+    -1.068114,
+    51.39193,
+    -1.068114,
+    51.39193
+],
   "geometry": {"coordinates":[-1.068114,51.39193],"type":"Point"}
 }

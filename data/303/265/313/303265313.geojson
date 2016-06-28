@@ -2,13 +2,14 @@
   "id": 303265313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.358079,53.472824,-1.358079,53.472824",
     "geom:latitude":53.472824,
     "geom:longitude":-1.358079,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Hoober Court, Rawmarsh",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303265313,
-    "wof:lastmodified":1448998949,
+    "wof:lastmodified":1466270797,
     "wof:name":"Johnson Associates",
     "wof:parent_id":85787719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "health"
     ]
 },
-  "bbox": [-1.358079,53.472824,-1.358079,53.472824],
+  "bbox": [
+    -1.358079,
+    53.472824,
+    -1.358079,
+    53.472824
+],
   "geometry": {"coordinates":[-1.358079,53.472824],"type":"Point"}
 }

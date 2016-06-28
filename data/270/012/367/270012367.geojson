@@ -2,13 +2,14 @@
   "id": 270012367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.218368,53.015717,-2.218368,53.015717",
     "geom:latitude":53.015717,
     "geom:longitude":-2.218368,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Granville Av",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270012367,
-    "wof:lastmodified":1449010849,
+    "wof:lastmodified":1466260841,
     "wof:name":"Heron, J",
     "wof:parent_id":85789031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-2.218368,53.015717,-2.218368,53.015717],
+  "bbox": [
+    -2.218368,
+    53.015717,
+    -2.218368,
+    53.015717
+],
   "geometry": {"coordinates":[-2.218368,53.015717],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253533823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.481144,53.384705,-1.481144,53.384705",
     "geom:latitude":53.384705,
     "geom:longitude":-1.481144,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Daisey Walk",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253533823,
-    "wof:lastmodified":1449062791,
+    "wof:lastmodified":1466268951,
     "wof:name":"Radford Club",
     "wof:parent_id":85793123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-1.481144,53.384705,-1.481144,53.384705],
+  "bbox": [
+    -1.481144,
+    53.384705,
+    -1.481144,
+    53.384705
+],
   "geometry": {"coordinates":[-1.481144,53.384705],"type":"Point"}
 }

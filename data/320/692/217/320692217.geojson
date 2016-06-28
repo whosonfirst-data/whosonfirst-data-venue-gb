@@ -2,13 +2,14 @@
   "id": 320692217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.523385,50.727341,-3.523385,50.727341",
     "geom:latitude":50.727341,
     "geom:longitude":-3.523385,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Sidwell Street",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320692217,
-    "wof:lastmodified":1449012251,
+    "wof:lastmodified":1466283778,
     "wof:name":"Microcom Communications Ltd.",
     "wof:parent_id":85790623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-3.523385,50.727341,-3.523385,50.727341],
+  "bbox": [
+    -3.523385,
+    50.727341,
+    -3.523385,
+    50.727341
+],
   "geometry": {"coordinates":[-3.523385,50.727341],"type":"Point"}
 }

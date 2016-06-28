@@ -2,13 +2,14 @@
   "id": 220084121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.223293,51.511448,-3.223293,51.511448",
     "geom:latitude":51.511448,
     "geom:longitude":-3.223293,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lord Aberdare House, 27 Church Road, Whitchurch",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220084121,
-    "wof:lastmodified":1449074119,
+    "wof:lastmodified":1466254404,
     "wof:name":"National Council of Y M C A Wales",
     "wof:parent_id":85785717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.223293,51.511448,-3.223293,51.511448],
+  "bbox": [
+    -3.223293,
+    51.511448,
+    -3.223293,
+    51.511448
+],
   "geometry": {"coordinates":[-3.223293,51.511448],"type":"Point"}
 }

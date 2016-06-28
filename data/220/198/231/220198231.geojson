@@ -2,13 +2,14 @@
   "id": 220198231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.202217,55.956448,-3.202217,55.956448",
     "geom:latitude":55.956448,
     "geom:longitude":-3.202217,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23b Howe Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":220198231,
-    "wof:lastmodified":1449074316,
+    "wof:lastmodified":1466256420,
     "wof:name":"Lonsdale & Dutch",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "restoration"
     ]
 },
-  "bbox": [-3.202217,55.956448,-3.202217,55.956448],
+  "bbox": [
+    -3.202217,
+    55.956448,
+    -3.202217,
+    55.956448
+],
   "geometry": {"coordinates":[-3.202217,55.956448],"type":"Point"}
 }

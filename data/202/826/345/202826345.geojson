@@ -2,13 +2,14 @@
   "id": 202826345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.583324,54.969765,-1.583324,54.969765",
     "geom:latitude":54.969765,
     "geom:longitude":-1.583324,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5, Hawick Crescent Ind Est, Byker Newcastle Upon Tyne",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202826345,
-    "wof:lastmodified":1449061944,
+    "wof:lastmodified":1466259501,
     "wof:name":"Safeweld Fabrications",
     "wof:parent_id":85861877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boiler"
     ]
 },
-  "bbox": [-1.583324,54.969765,-1.583324,54.969765],
+  "bbox": [
+    -1.583324,
+    54.969765,
+    -1.583324,
+    54.969765
+],
   "geometry": {"coordinates":[-1.583324,54.969765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303312019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.6975,55.904331,-3.6975,55.904331",
     "geom:latitude":55.904331,
     "geom:longitude":-3.6975,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Bridge Castle, Westfield",
     "sg:city":"Bathgate",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303312019,
-    "wof:lastmodified":1448999354,
+    "wof:lastmodified":1466272195,
     "wof:name":"Kyle Forseyth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "business"
     ]
 },
-  "bbox": [-3.6975,55.904331,-3.6975,55.904331],
+  "bbox": [
+    -3.6975,
+    55.904331,
+    -3.6975,
+    55.904331
+],
   "geometry": {"coordinates":[-3.6975,55.904331],"type":"Point"}
 }

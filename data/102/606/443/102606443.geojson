@@ -2,13 +2,14 @@
   "id": 102606443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.429323,54.359234,-1.429323,54.359234",
     "geom:latitude":54.359234,
     "geom:longitude":-1.429323,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Corber Hill, Brompton",
     "sg:city":"Northallerton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102606443,
-    "wof:lastmodified":1449068173,
+    "wof:lastmodified":1466252704,
     "wof:name":"S.B Chandler",
     "wof:parent_id":85683811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.429323,54.359234,-1.429323,54.359234],
+  "bbox": [
+    -1.429323,
+    54.359234,
+    -1.429323,
+    54.359234
+],
   "geometry": {"coordinates":[-1.429323,54.359234],"type":"Point"}
 }

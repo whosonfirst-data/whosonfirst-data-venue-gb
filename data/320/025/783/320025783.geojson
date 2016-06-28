@@ -2,13 +2,14 @@
   "id": 320025783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.59352,53.747551,-1.59352,53.747551",
     "geom:latitude":53.747551,
     "geom:longitude":-1.59352,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Ackroyd Street, Morley",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320025783,
-    "wof:lastmodified":1449014358,
+    "wof:lastmodified":1466268899,
     "wof:name":"Lexicon Computer Systems",
     "wof:parent_id":85785585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "software"
     ]
 },
-  "bbox": [-1.59352,53.747551,-1.59352,53.747551],
+  "bbox": [
+    -1.59352,
+    53.747551,
+    -1.59352,
+    53.747551
+],
   "geometry": {"coordinates":[-1.59352,53.747551],"type":"Point"}
 }

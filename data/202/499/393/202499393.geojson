@@ -2,13 +2,14 @@
   "id": 202499393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.914161,50.761806,-1.914161,50.761806",
     "geom:latitude":50.761806,
     "geom:longitude":-1.914161,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Poole Lane",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202499393,
-    "wof:lastmodified":1449060593,
+    "wof:lastmodified":1466254130,
     "wof:name":"L S Davey",
     "wof:parent_id":85789483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-1.914161,50.761806,-1.914161,50.761806],
+  "bbox": [
+    -1.914161,
+    50.761806,
+    -1.914161,
+    50.761806
+],
   "geometry": {"coordinates":[-1.914161,50.761806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270083887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.568104,51.476089,-2.568104,51.476089",
     "geom:latitude":51.476089,
     "geom:longitude":-2.568104,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Muller Road, Eastville",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270083887,
-    "wof:lastmodified":1449009796,
+    "wof:lastmodified":1466262948,
     "wof:name":"Eastville Library",
     "wof:parent_id":85861345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-2.568104,51.476089,-2.568104,51.476089],
+  "bbox": [
+    -2.568104,
+    51.476089,
+    -2.568104,
+    51.476089
+],
   "geometry": {"coordinates":[-2.568104,51.476089],"type":"Point"}
 }

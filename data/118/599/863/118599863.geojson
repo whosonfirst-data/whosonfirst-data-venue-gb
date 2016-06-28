@@ -2,13 +2,14 @@
   "id": 118599863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.156748,53.502769,-2.156748,53.502769",
     "geom:latitude":53.502769,
     "geom:longitude":-2.156748,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"129a Lord Lane, Failsworth",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":118599863,
-    "wof:lastmodified":1449053792,
+    "wof:lastmodified":1466257752,
     "wof:name":"Lord Lane Chippy",
     "wof:parent_id":85786941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.156748,53.502769,-2.156748,53.502769],
+  "bbox": [
+    -2.156748,
+    53.502769,
+    -2.156748,
+    53.502769
+],
   "geometry": {"coordinates":[-2.156748,53.502769],"type":"Point"}
 }

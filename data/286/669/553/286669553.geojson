@@ -2,13 +2,14 @@
   "id": 286669553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.43707,54.989296,-1.43707,54.989296",
     "geom:latitude":54.989296,
     "geom:longitude":-1.43707,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Frederick Street",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":286669553,
-    "wof:lastmodified":1449015509,
+    "wof:lastmodified":1466274982,
     "wof:name":"Green Street Post Office",
     "wof:parent_id":85792737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.43707,54.989296,-1.43707,54.989296],
+  "bbox": [
+    -1.43707,
+    54.989296,
+    -1.43707,
+    54.989296
+],
   "geometry": {"coordinates":[-1.43707,54.989296],"type":"Point"}
 }

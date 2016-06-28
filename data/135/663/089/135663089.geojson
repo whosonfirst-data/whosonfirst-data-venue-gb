@@ -2,13 +2,14 @@
   "id": 135663089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.435284,53.194649,-2.435284,53.194649",
     "geom:latitude":53.194649,
     "geom:longitude":-2.435284,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2, Aston Way",
     "sg:city":"Middlewich",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135663089,
-    "wof:lastmodified":1449023220,
+    "wof:lastmodified":1466285259,
     "wof:name":"PTS Ltd",
     "wof:parent_id":101871977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.435284,53.194649,-2.435284,53.194649],
+  "bbox": [
+    -2.435284,
+    53.194649,
+    -2.435284,
+    53.194649
+],
   "geometry": {"coordinates":[-2.435284,53.194649],"type":"Point"}
 }

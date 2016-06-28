@@ -2,13 +2,14 @@
   "id": 119013679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.531522,54.535412,-1.531522,54.535412",
     "geom:latitude":54.535412,
     "geom:longitude":-1.531522,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Gloucester Place",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119013679,
-    "wof:lastmodified":1449042697,
+    "wof:lastmodified":1466267965,
     "wof:name":"Peter Robinson",
     "wof:parent_id":85788013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.531522,54.535412,-1.531522,54.535412],
+  "bbox": [
+    -1.531522,
+    54.535412,
+    -1.531522,
+    54.535412
+],
   "geometry": {"coordinates":[-1.531522,54.535412],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119019651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.299337,55.975967,-3.299337,55.975967",
     "geom:latitude":55.975967,
     "geom:longitude":-3.299337,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Cramond Glebe Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119019651,
-    "wof:lastmodified":1449042393,
+    "wof:lastmodified":1466275778,
     "wof:name":"Cramond Medical Practice",
     "wof:parent_id":85786851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.299337,55.975967,-3.299337,55.975967],
+  "bbox": [
+    -3.299337,
+    55.975967,
+    -3.299337,
+    55.975967
+],
   "geometry": {"coordinates":[-3.299337,55.975967],"type":"Point"}
 }

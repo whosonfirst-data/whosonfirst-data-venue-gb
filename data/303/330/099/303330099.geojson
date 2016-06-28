@@ -2,13 +2,14 @@
   "id": 303330099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.187604,50.727169,-1.187604,50.727169",
     "geom:latitude":50.727169,
     "geom:longitude":-1.187604,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Binstead Hill",
     "sg:city":"Ryde",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303330099,
-    "wof:lastmodified":1448999337,
+    "wof:lastmodified":1466272749,
     "wof:name":"Binstead Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.187604,50.727169,-1.187604,50.727169],
+  "bbox": [
+    -1.187604,
+    50.727169,
+    -1.187604,
+    50.727169
+],
   "geometry": {"coordinates":[-1.187604,50.727169],"type":"Point"}
 }

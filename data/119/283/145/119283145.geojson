@@ -2,13 +2,14 @@
   "id": 119283145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.557349,54.645287,-3.557349,54.645287",
     "geom:latitude":54.645287,
     "geom:longitude":-3.557349,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17-19 Falcon Street",
     "sg:city":"Workington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119283145,
-    "wof:lastmodified":1449041562,
+    "wof:lastmodified":1466278267,
     "wof:name":"City Centre Training",
     "wof:parent_id":101872353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.557349,54.645287,-3.557349,54.645287],
+  "bbox": [
+    -3.557349,
+    54.645287,
+    -3.557349,
+    54.645287
+],
   "geometry": {"coordinates":[-3.557349,54.645287],"type":"Point"}
 }

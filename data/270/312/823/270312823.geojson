@@ -2,13 +2,14 @@
   "id": 270312823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.532175,50.705894,-3.532175,50.705894",
     "geom:latitude":50.705894,
     "geom:longitude":-3.532175,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Marsh Green Road West",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270312823,
-    "wof:lastmodified":1449009874,
+    "wof:lastmodified":1466269826,
     "wof:name":"Exe Valleu Dataset Ltd.",
     "wof:parent_id":85790683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "typesetter"
     ]
 },
-  "bbox": [-3.532175,50.705894,-3.532175,50.705894],
+  "bbox": [
+    -3.532175,
+    50.705894,
+    -3.532175,
+    50.705894
+],
   "geometry": {"coordinates":[-3.532175,50.705894],"type":"Point"}
 }

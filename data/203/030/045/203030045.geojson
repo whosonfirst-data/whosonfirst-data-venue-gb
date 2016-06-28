@@ -2,13 +2,14 @@
   "id": 203030045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.055079,50.26302,-5.055079,50.26302",
     "geom:latitude":50.26302,
     "geom:longitude":-5.055079,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Kenwyn St",
     "sg:city":"Truro",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203030045,
-    "wof:lastmodified":1449025615,
+    "wof:lastmodified":1466253152,
     "wof:name":"National Car Parks Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "park"
     ]
 },
-  "bbox": [-5.055079,50.26302,-5.055079,50.26302],
+  "bbox": [
+    -5.055079,
+    50.26302,
+    -5.055079,
+    50.26302
+],
   "geometry": {"coordinates":[-5.055079,50.26302],"type":"Point"}
 }

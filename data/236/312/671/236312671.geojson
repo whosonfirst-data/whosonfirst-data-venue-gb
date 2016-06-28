@@ -2,13 +2,14 @@
   "id": 236312671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.115314,55.953625,-3.115314,55.953625",
     "geom:latitude":55.953625,
     "geom:longitude":-3.115314,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Portobello High Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236312671,
-    "wof:lastmodified":1449003289,
+    "wof:lastmodified":1466262489,
     "wof:name":"Farmfoods Freezer Centre",
     "wof:parent_id":85789915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "centre"
     ]
 },
-  "bbox": [-3.115314,55.953625,-3.115314,55.953625],
+  "bbox": [
+    -3.115314,
+    55.953625,
+    -3.115314,
+    55.953625
+],
   "geometry": {"coordinates":[-3.115314,55.953625],"type":"Point"}
 }

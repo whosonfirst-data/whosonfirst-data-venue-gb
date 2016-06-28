@@ -2,13 +2,14 @@
   "id": 185659325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.155369,55.93203,-3.155369,55.93203",
     "geom:latitude":55.93203,
     "geom:longitude":-3.155369,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Peffermill Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185659325,
-    "wof:lastmodified":1449006781,
+    "wof:lastmodified":1466252887,
     "wof:name":"Transport Services",
     "wof:parent_id":85792687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dismantlers"
     ]
 },
-  "bbox": [-3.155369,55.93203,-3.155369,55.93203],
+  "bbox": [
+    -3.155369,
+    55.93203,
+    -3.155369,
+    55.93203
+],
   "geometry": {"coordinates":[-3.155369,55.93203],"type":"Point"}
 }

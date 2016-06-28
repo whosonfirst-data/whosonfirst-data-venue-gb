@@ -2,13 +2,14 @@
   "id": 135419285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.884214,52.577286,-1.884214,52.577286",
     "geom:latitude":52.577286,
     "geom:longitude":-1.884214,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Chester Rd",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135419285,
-    "wof:lastmodified":1449023927,
+    "wof:lastmodified":1466264968,
     "wof:name":"Shell Moorcroft",
     "wof:parent_id":85787497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.884214,52.577286,-1.884214,52.577286],
+  "bbox": [
+    -1.884214,
+    52.577286,
+    -1.884214,
+    52.577286
+],
   "geometry": {"coordinates":[-1.884214,52.577286],"type":"Point"}
 }

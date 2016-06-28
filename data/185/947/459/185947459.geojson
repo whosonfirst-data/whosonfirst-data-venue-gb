@@ -2,13 +2,14 @@
   "id": 185947459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.068055,55.802643,-4.068055,55.802643",
     "geom:latitude":55.802643,
     "geom:longitude":-4.068055,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Main Street, Bothwell",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":185947459,
-    "wof:lastmodified":1449007757,
+    "wof:lastmodified":1466256452,
     "wof:name":"Robert Nimmo Menswear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "menswear"
     ]
 },
-  "bbox": [-4.068055,55.802643,-4.068055,55.802643],
+  "bbox": [
+    -4.068055,
+    55.802643,
+    -4.068055,
+    55.802643
+],
   "geometry": {"coordinates":[-4.068055,55.802643],"type":"Point"}
 }

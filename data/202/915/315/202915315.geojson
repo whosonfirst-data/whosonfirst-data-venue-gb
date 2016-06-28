@@ -2,13 +2,14 @@
   "id": 202915315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.250893,55.9645,-3.250893,55.9645",
     "geom:latitude":55.9645,
     "geom:longitude":-3.250893,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Wester Drylaw Park",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202915315,
-    "wof:lastmodified":1449062612,
+    "wof:lastmodified":1466260982,
     "wof:name":"Forth School of Motoring",
     "wof:parent_id":85792727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.250893,55.9645,-3.250893,55.9645],
+  "bbox": [
+    -3.250893,
+    55.9645,
+    -3.250893,
+    55.9645
+],
   "geometry": {"coordinates":[-3.250893,55.9645],"type":"Point"}
 }

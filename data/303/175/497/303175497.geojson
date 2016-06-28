@@ -2,13 +2,14 @@
   "id": 303175497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.254593,52.557831,-2.254593,52.557831",
     "geom:latitude":52.557831,
     "geom:longitude":-2.254593,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Fox Road, Shirley, Pattingham",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303175497,
-    "wof:lastmodified":1448999811,
+    "wof:lastmodified":1466267977,
     "wof:name":"Woodside Boarding Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "catteries"
     ]
 },
-  "bbox": [-2.254593,52.557831,-2.254593,52.557831],
+  "bbox": [
+    -2.254593,
+    52.557831,
+    -2.254593,
+    52.557831
+],
   "geometry": {"coordinates":[-2.254593,52.557831],"type":"Point"}
 }

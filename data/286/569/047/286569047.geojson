@@ -2,13 +2,14 @@
   "id": 286569047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.834546,50.737797,-1.834546,50.737797",
     "geom:latitude":50.737797,
     "geom:longitude":-1.834546,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Littledown Avenue, Queens Park",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286569047,
-    "wof:lastmodified":1449017976,
+    "wof:lastmodified":1466271761,
     "wof:name":"Asphalt & Macadam",
     "wof:parent_id":85785869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-1.834546,50.737797,-1.834546,50.737797],
+  "bbox": [
+    -1.834546,
+    50.737797,
+    -1.834546,
+    50.737797
+],
   "geometry": {"coordinates":[-1.834546,50.737797],"type":"Point"}
 }

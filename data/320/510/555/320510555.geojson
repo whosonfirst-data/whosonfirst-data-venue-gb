@@ -2,13 +2,14 @@
   "id": 320510555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.288487,55.935581,-3.288487,55.935581",
     "geom:latitude":55.935581,
     "geom:longitude":-3.288487,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Broomhall Crescent",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320510555,
-    "wof:lastmodified":1449013501,
+    "wof:lastmodified":1466281317,
     "wof:name":"Sentry Electrics",
     "wof:parent_id":85786779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-3.288487,55.935581,-3.288487,55.935581],
+  "bbox": [
+    -3.288487,
+    55.935581,
+    -3.288487,
+    55.935581
+],
   "geometry": {"coordinates":[-3.288487,55.935581],"type":"Point"}
 }

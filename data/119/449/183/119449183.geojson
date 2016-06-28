@@ -2,13 +2,14 @@
   "id": 119449183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.285846,55.839001,-4.285846,55.839001",
     "geom:latitude":55.839001,
     "geom:longitude":-4.285846,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Glencairn Drive",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119449183,
-    "wof:lastmodified":1449043344,
+    "wof:lastmodified":1466286274,
     "wof:name":"Titwood Bowling Club",
     "wof:parent_id":85789887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.285846,55.839001,-4.285846,55.839001],
+  "bbox": [
+    -4.285846,
+    55.839001,
+    -4.285846,
+    55.839001
+],
   "geometry": {"coordinates":[-4.285846,55.839001],"type":"Point"}
 }

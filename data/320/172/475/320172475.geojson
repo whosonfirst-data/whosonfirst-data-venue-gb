@@ -2,13 +2,14 @@
   "id": 320172475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.201281,55.953033,-3.201281,55.953033",
     "geom:latitude":55.953033,
     "geom:longitude":-3.201281,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77 George Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320172475,
-    "wof:lastmodified":1449012770,
+    "wof:lastmodified":1466273288,
     "wof:name":"The Mortgage Advice Bureau",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-3.201281,55.953033,-3.201281,55.953033],
+  "bbox": [
+    -3.201281,
+    55.953033,
+    -3.201281,
+    55.953033
+],
   "geometry": {"coordinates":[-3.201281,55.953033],"type":"Point"}
 }

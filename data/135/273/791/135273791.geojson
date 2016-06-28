@@ -2,13 +2,14 @@
   "id": 135273791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.436983,51.560314,-2.436983,51.560314",
     "geom:latitude":51.560314,
     "geom:longitude":-2.436983,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"410 North Rd, Yate Bristol",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135273791,
-    "wof:lastmodified":1449022587,
+    "wof:lastmodified":1466267089,
     "wof:name":"Triple Link",
     "wof:parent_id":85684423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.436983,51.560314,-2.436983,51.560314],
+  "bbox": [
+    -2.436983,
+    51.560314,
+    -2.436983,
+    51.560314
+],
   "geometry": {"coordinates":[-2.436983,51.560314],"type":"Point"}
 }

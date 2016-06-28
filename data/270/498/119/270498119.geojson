@@ -2,13 +2,14 @@
   "id": 270498119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.210099,55.952259,-3.210099,55.952259",
     "geom:latitude":55.952259,
     "geom:longitude":-3.210099,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Randolph Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270498119,
-    "wof:lastmodified":1449010480,
+    "wof:lastmodified":1466275305,
     "wof:name":"RAFFAELLI WINES LTD",
     "wof:parent_id":85792719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wines"
     ]
 },
-  "bbox": [-3.210099,55.952259,-3.210099,55.952259],
+  "bbox": [
+    -3.210099,
+    55.952259,
+    -3.210099,
+    55.952259
+],
   "geometry": {"coordinates":[-3.210099,55.952259],"type":"Point"}
 }

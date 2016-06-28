@@ -2,13 +2,14 @@
   "id": 286565425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.415998,55.847126,-4.415998,55.847126",
     "geom:latitude":55.847126,
     "geom:longitude":-4.415998,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Glasgow Road",
     "sg:city":"Paisley",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286565425,
-    "wof:lastmodified":1449017836,
+    "wof:lastmodified":1466271614,
     "wof:name":"Ossian Construction Ltd.",
     "wof:parent_id":85792469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-4.415998,55.847126,-4.415998,55.847126],
+  "bbox": [
+    -4.415998,
+    55.847126,
+    -4.415998,
+    55.847126
+],
   "geometry": {"coordinates":[-4.415998,55.847126],"type":"Point"}
 }

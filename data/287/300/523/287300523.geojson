@@ -2,13 +2,14 @@
   "id": 287300523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.435119,54.977051,-1.435119,54.977051",
     "geom:latitude":54.977051,
     "geom:longitude":-1.435119,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Talbot Road",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287300523,
-    "wof:lastmodified":1449001174,
+    "wof:lastmodified":1466272250,
     "wof:name":"The Charles Young Centre",
     "wof:parent_id":85873783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "centre"
     ]
 },
-  "bbox": [-1.435119,54.977051,-1.435119,54.977051],
+  "bbox": [
+    -1.435119,
+    54.977051,
+    -1.435119,
+    54.977051
+],
   "geometry": {"coordinates":[-1.435119,54.977051],"type":"Point"}
 }

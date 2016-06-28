@@ -2,13 +2,14 @@
   "id": 253531373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.427419,54.986687,-1.427419,54.986687",
     "geom:latitude":54.986687,
     "geom:longitude":-1.427419,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"110a Dean Road",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253531373,
-    "wof:lastmodified":1449063517,
+    "wof:lastmodified":1466268870,
     "wof:name":"A & A News",
     "wof:parent_id":85791571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.427419,54.986687,-1.427419,54.986687],
+  "bbox": [
+    -1.427419,
+    54.986687,
+    -1.427419,
+    54.986687
+],
   "geometry": {"coordinates":[-1.427419,54.986687],"type":"Point"}
 }

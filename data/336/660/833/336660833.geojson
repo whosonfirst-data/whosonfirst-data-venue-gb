@@ -2,13 +2,14 @@
   "id": 336660833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.274809,55.74366,-4.274809,55.74366",
     "geom:latitude":55.74366,
     "geom:longitude":-4.274809,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1d, Pollock Place",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336660833,
-    "wof:lastmodified":1448997905,
+    "wof:lastmodified":1466274543,
     "wof:name":"Mackay Motors",
     "wof:parent_id":85786665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "garage"
     ]
 },
-  "bbox": [-4.274809,55.74366,-4.274809,55.74366],
+  "bbox": [
+    -4.274809,
+    55.74366,
+    -4.274809,
+    55.74366
+],
   "geometry": {"coordinates":[-4.274809,55.74366],"type":"Point"}
 }

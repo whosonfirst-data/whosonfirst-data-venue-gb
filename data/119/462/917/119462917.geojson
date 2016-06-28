@@ -2,13 +2,14 @@
   "id": 119462917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.083819,52.601002,-1.083819,52.601002",
     "geom:latitude":52.601002,
     "geom:longitude":-1.083819,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"67 The Parade, Oadby",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119462917,
-    "wof:lastmodified":1449043460,
+    "wof:lastmodified":1466286256,
     "wof:name":"Oadby Travel",
     "wof:parent_id":85861113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.083819,52.601002,-1.083819,52.601002],
+  "bbox": [
+    -1.083819,
+    52.601002,
+    -1.083819,
+    52.601002
+],
   "geometry": {"coordinates":[-1.083819,52.601002],"type":"Point"}
 }

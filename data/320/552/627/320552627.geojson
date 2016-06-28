@@ -2,13 +2,14 @@
   "id": 320552627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.250896,54.57056,-1.250896,54.57056",
     "geom:latitude":54.57056,
     "geom:longitude":-1.250896,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Lorne St",
     "sg:city":"Middlesbrough",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320552627,
-    "wof:lastmodified":1449012827,
+    "wof:lastmodified":1466282117,
     "wof:name":"Protech",
     "wof:parent_id":85788781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-1.250896,54.57056,-1.250896,54.57056],
+  "bbox": [
+    -1.250896,
+    54.57056,
+    -1.250896,
+    54.57056
+],
   "geometry": {"coordinates":[-1.250896,54.57056],"type":"Point"}
 }

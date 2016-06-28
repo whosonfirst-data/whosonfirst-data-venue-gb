@@ -2,13 +2,14 @@
   "id": 236439831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.898584,53.354042,-2.898584,53.354042",
     "geom:latitude":53.354042,
     "geom:longitude":-2.898584,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 St Marys Road, Garston",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236439831,
-    "wof:lastmodified":1449002376,
+    "wof:lastmodified":1466264753,
     "wof:name":"Garston Butchers",
     "wof:parent_id":85787561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "butcher"
     ]
 },
-  "bbox": [-2.898584,53.354042,-2.898584,53.354042],
+  "bbox": [
+    -2.898584,
+    53.354042,
+    -2.898584,
+    53.354042
+],
   "geometry": {"coordinates":[-2.898584,53.354042],"type":"Point"}
 }

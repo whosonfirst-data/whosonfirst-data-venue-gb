@@ -2,13 +2,14 @@
   "id": 270224375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.572079,52.76392,-1.572079,52.76392",
     "geom:latitude":52.76392,
     "geom:longitude":-1.572079,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Oakland House, 1 Wydale",
     "sg:city":"Swadlincote",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270224375,
-    "wof:lastmodified":1449010446,
+    "wof:lastmodified":1466267084,
     "wof:name":"B D I Cctv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cctv"
     ]
 },
-  "bbox": [-1.572079,52.76392,-1.572079,52.76392],
+  "bbox": [
+    -1.572079,
+    52.76392,
+    -1.572079,
+    52.76392
+],
   "geometry": {"coordinates":[-1.572079,52.76392],"type":"Point"}
 }

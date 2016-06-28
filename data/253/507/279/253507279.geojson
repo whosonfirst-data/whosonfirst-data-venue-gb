@@ -2,13 +2,14 @@
   "id": 253507279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.073925,50.810551,-1.073925,50.810551",
     "geom:latitude":50.810551,
     "geom:longitude":-1.073925,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Winchester Road",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253507279,
-    "wof:lastmodified":1449064341,
+    "wof:lastmodified":1466268133,
     "wof:name":"Sutcliffe House School",
     "wof:parent_id":85861975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [-1.073925,50.810551,-1.073925,50.810551],
+  "bbox": [
+    -1.073925,
+    50.810551,
+    -1.073925,
+    50.810551
+],
   "geometry": {"coordinates":[-1.073925,50.810551],"type":"Point"}
 }

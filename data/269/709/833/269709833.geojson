@@ -2,13 +2,14 @@
   "id": 269709833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.062515,52.361336,-2.062515,52.361336",
     "geom:latitude":52.361336,
     "geom:longitude":-2.062515,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Meadow Road, Catshill",
     "sg:city":"Bromsgrove",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":269709833,
-    "wof:lastmodified":1449036621,
+    "wof:lastmodified":1466266967,
     "wof:name":"Clearway Of Catshill",
     "wof:parent_id":85788771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "min"
     ]
 },
-  "bbox": [-2.062515,52.361336,-2.062515,52.361336],
+  "bbox": [
+    -2.062515,
+    52.361336,
+    -2.062515,
+    52.361336
+],
   "geometry": {"coordinates":[-2.062515,52.361336],"type":"Point"}
 }

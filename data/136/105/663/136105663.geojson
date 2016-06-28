@@ -2,13 +2,14 @@
   "id": 136105663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.244405,55.810925,-4.244405,55.810925",
     "geom:latitude":55.810925,
     "geom:longitude":-4.244405,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Carmunnock Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136105663,
-    "wof:lastmodified":1449075420,
+    "wof:lastmodified":1466255920,
     "wof:name":"B Frew",
     "wof:parent_id":85792529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.244405,55.810925,-4.244405,55.810925],
+  "bbox": [
+    -4.244405,
+    55.810925,
+    -4.244405,
+    55.810925
+],
   "geometry": {"coordinates":[-4.244405,55.810925],"type":"Point"}
 }

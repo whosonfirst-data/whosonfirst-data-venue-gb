@@ -2,13 +2,14 @@
   "id": 320103365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.234203,53.157925,-2.234203,53.157925",
     "geom:latitude":53.157925,
     "geom:longitude":-2.234203,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Newcastle Road",
     "sg:city":"Congleton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320103365,
-    "wof:lastmodified":1449013586,
+    "wof:lastmodified":1466271236,
     "wof:name":"Melton Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "private"
     ]
 },
-  "bbox": [-2.234203,53.157925,-2.234203,53.157925],
+  "bbox": [
+    -2.234203,
+    53.157925,
+    -2.234203,
+    53.157925
+],
   "geometry": {"coordinates":[-2.234203,53.157925],"type":"Point"}
 }

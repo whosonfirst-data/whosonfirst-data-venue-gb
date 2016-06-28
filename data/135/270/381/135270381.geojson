@@ -2,13 +2,14 @@
   "id": 135270381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.51793,51.462551,-2.51793,51.462551",
     "geom:latitude":51.462551,
     "geom:longitude":-2.51793,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Kennard Road, Kingswood",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135270381,
-    "wof:lastmodified":1449021506,
+    "wof:lastmodified":1466262909,
     "wof:name":"House & Patten",
     "wof:parent_id":85790525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.51793,51.462551,-2.51793,51.462551],
+  "bbox": [
+    -2.51793,
+    51.462551,
+    -2.51793,
+    51.462551
+],
   "geometry": {"coordinates":[-2.51793,51.462551],"type":"Point"}
 }

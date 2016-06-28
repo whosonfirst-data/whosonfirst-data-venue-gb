@@ -2,13 +2,14 @@
   "id": 135660007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.288875,55.865559,-4.288875,55.865559",
     "geom:latitude":55.865559,
     "geom:longitude":-4.288875,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Lymburn St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135660007,
-    "wof:lastmodified":1449023690,
+    "wof:lastmodified":1466284933,
     "wof:name":"David Campbell Associates",
     "wof:parent_id":85787427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.288875,55.865559,-4.288875,55.865559],
+  "bbox": [
+    -4.288875,
+    55.865559,
+    -4.288875,
+    55.865559
+],
   "geometry": {"coordinates":[-4.288875,55.865559],"type":"Point"}
 }

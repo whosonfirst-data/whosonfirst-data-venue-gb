@@ -2,13 +2,14 @@
   "id": 135480263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.049273,53.816128,-3.049273,53.816128",
     "geom:latitude":53.816128,
     "geom:longitude":-3.049273,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Albert Road",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135480263,
-    "wof:lastmodified":1449021983,
+    "wof:lastmodified":1466272250,
     "wof:name":"Lancastria Hotel",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.049273,53.816128,-3.049273,53.816128],
+  "bbox": [
+    -3.049273,
+    53.816128,
+    -3.049273,
+    53.816128
+],
   "geometry": {"coordinates":[-3.049273,53.816128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336608393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.994659,53.405029,-2.994659,53.405029",
     "geom:latitude":53.405029,
     "geom:longitude":-2.994659,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Georges Dock Way, Piers Head",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336608393,
-    "wof:lastmodified":1448997408,
+    "wof:lastmodified":1466273018,
     "wof:name":"Arriva Merseyside Ltd",
     "wof:parent_id":85793275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "public"
     ]
 },
-  "bbox": [-2.994659,53.405029,-2.994659,53.405029],
+  "bbox": [
+    -2.994659,
+    53.405029,
+    -2.994659,
+    53.405029
+],
   "geometry": {"coordinates":[-2.994659,53.405029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136203853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.674013,50.594326,-3.674013,50.594326",
     "geom:latitude":50.594326,
     "geom:longitude":-3.674013,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Fore Street",
     "sg:city":"Newton Abbot",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":136203853,
-    "wof:lastmodified":1449075495,
+    "wof:lastmodified":1466261085,
     "wof:name":"Pudding & Pie",
     "wof:parent_id":85683773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.674013,50.594326,-3.674013,50.594326],
+  "bbox": [
+    -3.674013,
+    50.594326,
+    -3.674013,
+    50.594326
+],
   "geometry": {"coordinates":[-3.674013,50.594326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253414257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.469369,55.007389,-1.469369,55.007389",
     "geom:latitude":55.007389,
     "geom:longitude":-1.469369,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Cartington Rd, Balkwell Est",
     "sg:city":"North Shields",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253414257,
-    "wof:lastmodified":1449064208,
+    "wof:lastmodified":1466265888,
     "wof:name":"Balkwell",
     "wof:parent_id":85792737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.469369,55.007389,-1.469369,55.007389],
+  "bbox": [
+    -1.469369,
+    55.007389,
+    -1.469369,
+    55.007389
+],
   "geometry": {"coordinates":[-1.469369,55.007389],"type":"Point"}
 }

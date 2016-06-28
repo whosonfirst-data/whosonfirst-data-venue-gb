@@ -2,13 +2,14 @@
   "id": 236469813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.253904,51.859428,-2.253904,51.859428",
     "geom:latitude":51.859428,
     "geom:longitude":-2.253904,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6 Baker Street",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236469813,
-    "wof:lastmodified":1449005351,
+    "wof:lastmodified":1466265280,
     "wof:name":"Wrycom",
     "wof:parent_id":85793221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-2.253904,51.859428,-2.253904,51.859428],
+  "bbox": [
+    -2.253904,
+    51.859428,
+    -2.253904,
+    51.859428
+],
   "geometry": {"coordinates":[-2.253904,51.859428],"type":"Point"}
 }

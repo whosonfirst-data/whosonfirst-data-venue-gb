@@ -2,13 +2,14 @@
   "id": 118835845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.977607,52.5933,-1.977607,52.5933",
     "geom:latitude":52.5933,
     "geom:longitude":-1.977607,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Cecil Street",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":118835845,
-    "wof:lastmodified":1449053343,
+    "wof:lastmodified":1466275425,
     "wof:name":"Walsall Cat Rescue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.977607,52.5933,-1.977607,52.5933],
+  "bbox": [
+    -1.977607,
+    52.5933,
+    -1.977607,
+    52.5933
+],
   "geometry": {"coordinates":[-1.977607,52.5933],"type":"Point"}
 }

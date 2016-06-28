@@ -2,13 +2,14 @@
   "id": 303417107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.776931,55.673916,-3.776931,55.673916",
     "geom:latitude":55.673916,
     "geom:longitude":-3.776931,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"99 High Street",
     "sg:city":"Lanark",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303417107,
-    "wof:lastmodified":1448999119,
+    "wof:lastmodified":1466275332,
     "wof:name":"Clydewide Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-3.776931,55.673916,-3.776931,55.673916],
+  "bbox": [
+    -3.776931,
+    55.673916,
+    -3.776931,
+    55.673916
+],
   "geometry": {"coordinates":[-3.776931,55.673916],"type":"Point"}
 }

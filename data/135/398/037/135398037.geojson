@@ -2,13 +2,14 @@
   "id": 135398037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.158558,52.465527,-2.158558,52.465527",
     "geom:latitude":52.465527,
     "geom:longitude":-2.158558,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"146 High Street, Wollaston",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135398037,
-    "wof:lastmodified":1449021244,
+    "wof:lastmodified":1466262452,
     "wof:name":"Caxton House",
     "wof:parent_id":85785411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.158558,52.465527,-2.158558,52.465527],
+  "bbox": [
+    -2.158558,
+    52.465527,
+    -2.158558,
+    52.465527
+],
   "geometry": {"coordinates":[-2.158558,52.465527],"type":"Point"}
 }

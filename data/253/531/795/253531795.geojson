@@ -2,13 +2,14 @@
   "id": 253531795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.428197,54.986656,-1.428197,54.986656",
     "geom:latitude":54.986656,
     "geom:longitude":-1.428197,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Dean Rd",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253531795,
-    "wof:lastmodified":1449063517,
+    "wof:lastmodified":1466268889,
     "wof:name":"Bruce's Furniture",
     "wof:parent_id":85791571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "furniture"
     ]
 },
-  "bbox": [-1.428197,54.986656,-1.428197,54.986656],
+  "bbox": [
+    -1.428197,
+    54.986656,
+    -1.428197,
+    54.986656
+],
   "geometry": {"coordinates":[-1.428197,54.986656],"type":"Point"}
 }

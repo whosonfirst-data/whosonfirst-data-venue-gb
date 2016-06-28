@@ -2,13 +2,14 @@
   "id": 320571579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.20597,55.951099,-3.20597,55.951099",
     "geom:latitude":55.951099,
     "geom:longitude":-3.20597,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 South Charlotte Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320571579,
-    "wof:lastmodified":1449013823,
+    "wof:lastmodified":1466282371,
     "wof:name":"Charlotte baptist Chapel",
     "wof:parent_id":85861509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.20597,55.951099,-3.20597,55.951099],
+  "bbox": [
+    -3.20597,
+    55.951099,
+    -3.20597,
+    55.951099
+],
   "geometry": {"coordinates":[-3.20597,55.951099],"type":"Point"}
 }

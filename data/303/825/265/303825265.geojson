@@ -2,13 +2,14 @@
   "id": 303825265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.219724,53.48122,-1.219724,53.48122",
     "geom:latitude":53.48122,
     "geom:longitude":-1.219724,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Windmill Avenue, Conisbrough",
     "sg:city":"Doncaster",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303825265,
-    "wof:lastmodified":1448998213,
+    "wof:lastmodified":1466283362,
     "wof:name":"Cheswick Tilers",
     "wof:parent_id":85785449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-1.219724,53.48122,-1.219724,53.48122],
+  "bbox": [
+    -1.219724,
+    53.48122,
+    -1.219724,
+    53.48122
+],
   "geometry": {"coordinates":[-1.219724,53.48122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135624821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.97384,51.348923,-2.97384,51.348923",
     "geom:latitude":51.348923,
     "geom:longitude":-2.97384,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Baker St Buildings, Baker Street",
     "sg:city":"Weston Super Mare",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135624821,
-    "wof:lastmodified":1449023076,
+    "wof:lastmodified":1466283785,
     "wof:name":"Mansfield Nurseries",
     "wof:parent_id":101751595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.97384,51.348923,-2.97384,51.348923],
+  "bbox": [
+    -2.97384,
+    51.348923,
+    -2.97384,
+    51.348923
+],
   "geometry": {"coordinates":[-2.97384,51.348923],"type":"Point"}
 }

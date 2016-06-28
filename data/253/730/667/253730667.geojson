@@ -2,13 +2,14 @@
   "id": 253730667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.865212,50.74781,-1.865212,50.74781",
     "geom:latitude":50.74781,
     "geom:longitude":-1.865212,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Charminster Avenue",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253730667,
-    "wof:lastmodified":1449065288,
+    "wof:lastmodified":1466275303,
     "wof:name":"Avenue News",
     "wof:parent_id":85791709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.865212,50.74781,-1.865212,50.74781],
+  "bbox": [
+    -1.865212,
+    50.74781,
+    -1.865212,
+    50.74781
+],
   "geometry": {"coordinates":[-1.865212,50.74781],"type":"Point"}
 }

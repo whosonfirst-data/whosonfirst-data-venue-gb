@@ -2,13 +2,14 @@
   "id": 303237795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.493634,52.422283,-1.493634,52.422283",
     "geom:latitude":52.422283,
     "geom:longitude":-1.493634,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38-72 Cromwell Street",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":303237795,
-    "wof:lastmodified":1448998178,
+    "wof:lastmodified":1466270002,
     "wof:name":"St Barnabus Family Centre",
     "wof:parent_id":85792035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "centre"
     ]
 },
-  "bbox": [-1.493634,52.422283,-1.493634,52.422283],
+  "bbox": [
+    -1.493634,
+    52.422283,
+    -1.493634,
+    52.422283
+],
   "geometry": {"coordinates":[-1.493634,52.422283],"type":"Point"}
 }

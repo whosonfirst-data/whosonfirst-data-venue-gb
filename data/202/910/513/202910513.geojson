@@ -2,13 +2,14 @@
   "id": 202910513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.349591,53.490673,-2.349591,53.490673",
     "geom:latitude":53.490673,
     "geom:longitude":-2.349591,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hawthorn Avenue, Monton",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202910513,
-    "wof:lastmodified":1449061171,
+    "wof:lastmodified":1466260902,
     "wof:name":"Monton Bowling Club Ltd",
     "wof:parent_id":85787221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.349591,53.490673,-2.349591,53.490673],
+  "bbox": [
+    -2.349591,
+    53.490673,
+    -2.349591,
+    53.490673
+],
   "geometry": {"coordinates":[-2.349591,53.490673],"type":"Point"}
 }

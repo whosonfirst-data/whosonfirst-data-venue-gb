@@ -2,13 +2,14 @@
   "id": 236388553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.579279,56.557377,-2.579279,56.557377",
     "geom:latitude":56.557377,
     "geom:longitude":-2.579279,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"John Street",
     "sg:city":"Arbroath",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236388553,
-    "wof:lastmodified":1449001771,
+    "wof:lastmodified":1466263852,
     "wof:name":"Arbroath Quality Fish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [-2.579279,56.557377,-2.579279,56.557377],
+  "bbox": [
+    -2.579279,
+    56.557377,
+    -2.579279,
+    56.557377
+],
   "geometry": {"coordinates":[-2.579279,56.557377],"type":"Point"}
 }

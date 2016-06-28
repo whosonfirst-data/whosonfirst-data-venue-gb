@@ -2,13 +2,14 @@
   "id": 320645265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.351109,53.387459,-2.351109,53.387459",
     "geom:latitude":53.387459,
     "geom:longitude":-2.351109,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Shaws Rd",
     "sg:city":"Altrincham",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320645265,
-    "wof:lastmodified":1449011615,
+    "wof:lastmodified":1466283267,
     "wof:name":"Housing Support",
     "wof:parent_id":85791535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-2.351109,53.387459,-2.351109,53.387459],
+  "bbox": [
+    -2.351109,
+    53.387459,
+    -2.351109,
+    53.387459
+],
   "geometry": {"coordinates":[-2.351109,53.387459],"type":"Point"}
 }

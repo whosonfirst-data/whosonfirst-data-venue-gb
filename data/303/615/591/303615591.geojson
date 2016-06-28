@@ -2,13 +2,14 @@
   "id": 303615591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.229788,57.483444,-4.229788,57.483444",
     "geom:latitude":57.483444,
     "geom:longitude":-4.229788,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Innes Street",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303615591,
-    "wof:lastmodified":1448998888,
+    "wof:lastmodified":1466280310,
     "wof:name":"Innes Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "activity"
     ]
 },
-  "bbox": [-4.229788,57.483444,-4.229788,57.483444],
+  "bbox": [
+    -4.229788,
+    57.483444,
+    -4.229788,
+    57.483444
+],
   "geometry": {"coordinates":[-4.229788,57.483444],"type":"Point"}
 }

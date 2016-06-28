@@ -2,13 +2,14 @@
   "id": 119118673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.181137,52.983536,-1.181137,52.983536",
     "geom:latitude":52.983536,
     "geom:longitude":-1.181137,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Lincoln Street, Old Basford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119118673,
-    "wof:lastmodified":1449043001,
+    "wof:lastmodified":1466260834,
     "wof:name":"Old Basford Post Office",
     "wof:parent_id":85789569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.181137,52.983536,-1.181137,52.983536],
+  "bbox": [
+    -1.181137,
+    52.983536,
+    -1.181137,
+    52.983536
+],
   "geometry": {"coordinates":[-1.181137,52.983536],"type":"Point"}
 }

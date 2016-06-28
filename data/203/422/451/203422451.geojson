@@ -2,13 +2,14 @@
   "id": 203422451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.548064,53.799061,-1.548064,53.799061",
     "geom:latitude":53.799061,
     "geom:longitude":-1.548064,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sovereign House, South Parade",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203422451,
-    "wof:lastmodified":1449025073,
+    "wof:lastmodified":1466259973,
     "wof:name":"Hayes Accountancy Personnel",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-1.548064,53.799061,-1.548064,53.799061],
+  "bbox": [
+    -1.548064,
+    53.799061,
+    -1.548064,
+    53.799061
+],
   "geometry": {"coordinates":[-1.548064,53.799061],"type":"Point"}
 }

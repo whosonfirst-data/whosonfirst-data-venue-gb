@@ -2,13 +2,14 @@
   "id": 253091795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.504747,55.838463,-4.504747,55.838463",
     "geom:latitude":55.838463,
     "geom:longitude":-4.504747,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Mary St",
     "sg:city":"Johnstone",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253091795,
-    "wof:lastmodified":1449063103,
+    "wof:lastmodified":1466259165,
     "wof:name":"John Ewing Upholstery",
     "wof:parent_id":85789101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-4.504747,55.838463,-4.504747,55.838463],
+  "bbox": [
+    -4.504747,
+    55.838463,
+    -4.504747,
+    55.838463
+],
   "geometry": {"coordinates":[-4.504747,55.838463],"type":"Point"}
 }

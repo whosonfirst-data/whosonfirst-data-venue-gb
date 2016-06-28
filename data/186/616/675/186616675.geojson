@@ -2,13 +2,14 @@
   "id": 186616675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.86948,50.780182,-1.86948,50.780182",
     "geom:latitude":50.780182,
     "geom:longitude":-1.86948,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"359 Christchurch Road, West Parley",
     "sg:city":"Ferndown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186616675,
-    "wof:lastmodified":1449052328,
+    "wof:lastmodified":1466261269,
     "wof:name":"Golden Acres Tea Rooms",
     "wof:parent_id":85789483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "room"
     ]
 },
-  "bbox": [-1.86948,50.780182,-1.86948,50.780182],
+  "bbox": [
+    -1.86948,
+    50.780182,
+    -1.86948,
+    50.780182
+],
   "geometry": {"coordinates":[-1.86948,50.780182],"type":"Point"}
 }

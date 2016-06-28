@@ -2,13 +2,14 @@
   "id": 119181839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.100978,51.014442,-3.100978,51.014442",
     "geom:latitude":51.014442,
     "geom:longitude":-3.100978,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 East Street",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":119181839,
-    "wof:lastmodified":1449042486,
+    "wof:lastmodified":1466267115,
     "wof:name":"Rooster Records",
     "wof:parent_id":101751591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.100978,51.014442,-3.100978,51.014442],
+  "bbox": [
+    -3.100978,
+    51.014442,
+    -3.100978,
+    51.014442
+],
   "geometry": {"coordinates":[-3.100978,51.014442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270301921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.445609,56.393822,-3.445609,56.393822",
     "geom:latitude":56.393822,
     "geom:longitude":-3.445609,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Gray Street",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270301921,
-    "wof:lastmodified":1449009248,
+    "wof:lastmodified":1466269447,
     "wof:name":"West End Bowling Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.445609,56.393822,-3.445609,56.393822],
+  "bbox": [
+    -3.445609,
+    56.393822,
+    -3.445609,
+    56.393822
+],
   "geometry": {"coordinates":[-3.445609,56.393822],"type":"Point"}
 }

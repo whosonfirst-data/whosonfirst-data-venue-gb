@@ -2,13 +2,14 @@
   "id": 186550553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.080314,50.812748,-1.080314,50.812748",
     "geom:latitude":50.812748,
     "geom:longitude":-1.080314,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Kingston Road",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186550553,
-    "wof:lastmodified":1449051834,
+    "wof:lastmodified":1466260148,
     "wof:name":"Multicore Ltd",
     "wof:parent_id":85861983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pool"
     ]
 },
-  "bbox": [-1.080314,50.812748,-1.080314,50.812748],
+  "bbox": [
+    -1.080314,
+    50.812748,
+    -1.080314,
+    50.812748
+],
   "geometry": {"coordinates":[-1.080314,50.812748],"type":"Point"}
 }

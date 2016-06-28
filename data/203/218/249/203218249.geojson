@@ -2,13 +2,14 @@
   "id": 203218249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.20045,53.420097,-1.20045,53.420097",
     "geom:latitude":53.420097,
     "geom:longitude":-1.20045,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Blyth Road, Maltby",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203218249,
-    "wof:lastmodified":1449026168,
+    "wof:lastmodified":1466256347,
     "wof:name":"Melton Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "residential"
     ]
 },
-  "bbox": [-1.20045,53.420097,-1.20045,53.420097],
+  "bbox": [
+    -1.20045,
+    53.420097,
+    -1.20045,
+    53.420097
+],
   "geometry": {"coordinates":[-1.20045,53.420097],"type":"Point"}
 }

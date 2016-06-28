@@ -2,13 +2,14 @@
   "id": 119233307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.322301,55.877522,-4.322301,55.877522",
     "geom:latitude":55.877522,
     "geom:longitude":-4.322301,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Crow Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119233307,
-    "wof:lastmodified":1449043568,
+    "wof:lastmodified":1466272947,
     "wof:name":"Petals",
     "wof:parent_id":85792451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.322301,55.877522,-4.322301,55.877522],
+  "bbox": [
+    -4.322301,
+    55.877522,
+    -4.322301,
+    55.877522
+],
   "geometry": {"coordinates":[-4.322301,55.877522],"type":"Point"}
 }

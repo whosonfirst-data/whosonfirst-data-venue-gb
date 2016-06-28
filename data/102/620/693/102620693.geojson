@@ -2,13 +2,14 @@
   "id": 102620693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.624789,54.95496,-1.624789,54.95496",
     "geom:latitude":54.95496,
     "geom:longitude":-1.624789,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Watson St",
     "sg:city":"Gateshead",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102620693,
-    "wof:lastmodified":1449069984,
+    "wof:lastmodified":1466253213,
     "wof:name":"Holy Rosary",
     "wof:parent_id":85785619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.624789,54.95496,-1.624789,54.95496],
+  "bbox": [
+    -1.624789,
+    54.95496,
+    -1.624789,
+    54.95496
+],
   "geometry": {"coordinates":[-1.624789,54.95496],"type":"Point"}
 }

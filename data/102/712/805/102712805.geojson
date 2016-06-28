@@ -2,13 +2,14 @@
   "id": 102712805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.528166,53.956055,-1.528166,53.956055",
     "geom:latitude":53.956055,
     "geom:longitude":-1.528166,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Walton Park",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102712805,
-    "wof:lastmodified":1449068794,
+    "wof:lastmodified":1466256851,
     "wof:name":"H Calvert",
     "wof:parent_id":85683811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.528166,53.956055,-1.528166,53.956055],
+  "bbox": [
+    -1.528166,
+    53.956055,
+    -1.528166,
+    53.956055
+],
   "geometry": {"coordinates":[-1.528166,53.956055],"type":"Point"}
 }

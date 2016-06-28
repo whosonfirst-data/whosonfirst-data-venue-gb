@@ -2,13 +2,14 @@
   "id": 202630601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.047699,53.432255,-3.047699,53.432255",
     "geom:latitude":53.432255,
     "geom:longitude":-3.047699,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Stoneyhey Road",
     "sg:city":"Wallasey",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":202630601,
-    "wof:lastmodified":1449061012,
+    "wof:lastmodified":1466256338,
     "wof:name":"Harwell Manor Residential Home",
     "wof:parent_id":85789307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-3.047699,53.432255,-3.047699,53.432255],
+  "bbox": [
+    -3.047699,
+    53.432255,
+    -3.047699,
+    53.432255
+],
   "geometry": {"coordinates":[-3.047699,53.432255],"type":"Point"}
 }

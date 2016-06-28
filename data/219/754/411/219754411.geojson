@@ -2,13 +2,14 @@
   "id": 219754411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.334483,53.412678,-4.334483,53.412678",
     "geom:latitude":53.412678,
     "geom:longitude":-4.334483,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Quay Street, Amlwch Port",
     "sg:city":"Amlwch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219754411,
-    "wof:lastmodified":1449072692,
+    "wof:lastmodified":1466262926,
     "wof:name":"Harbour Takeaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "take"
     ]
 },
-  "bbox": [-4.334483,53.412678,-4.334483,53.412678],
+  "bbox": [
+    -4.334483,
+    53.412678,
+    -4.334483,
+    53.412678
+],
   "geometry": {"coordinates":[-4.334483,53.412678],"type":"Point"}
 }

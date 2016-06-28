@@ -2,13 +2,14 @@
   "id": 270325219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.901088,53.16095,-2.901088,53.16095",
     "geom:latitude":53.16095,
     "geom:longitude":-2.901088,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Hilliards Court, Wrexham Road, Chester Business Park",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270325219,
-    "wof:lastmodified":1449009591,
+    "wof:lastmodified":1466270234,
     "wof:name":"Hilliards Payroll Bureau",
     "wof:parent_id":85788663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "payroll"
     ]
 },
-  "bbox": [-2.901088,53.16095,-2.901088,53.16095],
+  "bbox": [
+    -2.901088,
+    53.16095,
+    -2.901088,
+    53.16095
+],
   "geometry": {"coordinates":[-2.901088,53.16095],"type":"Point"}
 }

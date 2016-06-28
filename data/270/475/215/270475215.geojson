@@ -2,13 +2,14 @@
   "id": 270475215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.13719,52.942619,-1.13719,52.942619",
     "geom:latitude":52.942619,
     "geom:longitude":-1.13719,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6, Meadow Trading Estate, Meadow Lane",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270475215,
-    "wof:lastmodified":1449009666,
+    "wof:lastmodified":1466274584,
     "wof:name":"Crossbow",
     "wof:parent_id":85790407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sale"
     ]
 },
-  "bbox": [-1.13719,52.942619,-1.13719,52.942619],
+  "bbox": [
+    -1.13719,
+    52.942619,
+    -1.13719,
+    52.942619
+],
   "geometry": {"coordinates":[-1.13719,52.942619],"type":"Point"}
 }

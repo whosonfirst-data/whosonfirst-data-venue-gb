@@ -2,13 +2,14 @@
   "id": 203350983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.209697,55.94949,-3.209697,55.94949",
     "geom:latitude":55.94949,
     "geom:longitude":-3.209697,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Albyn Pl",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203350983,
-    "wof:lastmodified":1449025896,
+    "wof:lastmodified":1466258685,
     "wof:name":"Atlas Datacom",
     "wof:parent_id":85861509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-3.209697,55.94949,-3.209697,55.94949],
+  "bbox": [
+    -3.209697,
+    55.94949,
+    -3.209697,
+    55.94949
+],
   "geometry": {"coordinates":[-3.209697,55.94949],"type":"Point"}
 }

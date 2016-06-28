@@ -2,13 +2,14 @@
   "id": 320041277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.469079,53.381821,-1.469079,53.381821",
     "geom:latitude":53.381821,
     "geom:longitude":-1.469079,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 Carmel House, Fargate",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320041277,
-    "wof:lastmodified":1449012626,
+    "wof:lastmodified":1466269320,
     "wof:name":"Cheque Exchange",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.469079,53.381821,-1.469079,53.381821],
+  "bbox": [
+    -1.469079,
+    53.381821,
+    -1.469079,
+    53.381821
+],
   "geometry": {"coordinates":[-1.469079,53.381821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202590017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.28319,53.442375,-2.28319,53.442375",
     "geom:latitude":53.442375,
     "geom:longitude":-2.28319,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Hastings Av",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202590017,
-    "wof:lastmodified":1449061624,
+    "wof:lastmodified":1466255676,
     "wof:name":"Private Investigations",
     "wof:parent_id":85786631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-2.28319,53.442375,-2.28319,53.442375],
+  "bbox": [
+    -2.28319,
+    53.442375,
+    -2.28319,
+    53.442375
+],
   "geometry": {"coordinates":[-2.28319,53.442375],"type":"Point"}
 }

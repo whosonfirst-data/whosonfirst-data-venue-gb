@@ -2,13 +2,14 @@
   "id": 135759349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.85747,56.77124,-3.85747,56.77124",
     "geom:latitude":56.77124,
     "geom:longitude":-3.85747,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Blair Atholl",
     "sg:city":"Pitlochry",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135759349,
-    "wof:lastmodified":1449024031,
+    "wof:lastmodified":1466286803,
     "wof:name":"Blair Castle",
     "wof:parent_id":85683863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.85747,56.77124,-3.85747,56.77124],
+  "bbox": [
+    -3.85747,
+    56.77124,
+    -3.85747,
+    56.77124
+],
   "geometry": {"coordinates":[-3.85747,56.77124],"type":"Point"}
 }

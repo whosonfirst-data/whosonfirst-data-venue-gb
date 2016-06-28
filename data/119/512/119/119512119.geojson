@@ -2,13 +2,14 @@
   "id": 119512119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.222494,53.410465,-2.222494,53.410465",
     "geom:latitude":53.410465,
     "geom:longitude":-2.222494,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilmslow Road",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119512119,
-    "wof:lastmodified":1449042812,
+    "wof:lastmodified":1466287230,
     "wof:name":"Parrs Wood High School",
     "wof:parent_id":85793033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.222494,53.410465,-2.222494,53.410465],
+  "bbox": [
+    -2.222494,
+    53.410465,
+    -2.222494,
+    53.410465
+],
   "geometry": {"coordinates":[-2.222494,53.410465],"type":"Point"}
 }

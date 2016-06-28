@@ -2,13 +2,14 @@
   "id": 202604371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.546362,50.110645,-5.546362,50.110645",
     "geom:latitude":50.110645,
     "geom:longitude":-5.546362,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Laregan Hill",
     "sg:city":"Penzance",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202604371,
-    "wof:lastmodified":1449062353,
+    "wof:lastmodified":1466255900,
     "wof:name":"Bolitho House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.546362,50.110645,-5.546362,50.110645],
+  "bbox": [
+    -5.546362,
+    50.110645,
+    -5.546362,
+    50.110645
+],
   "geometry": {"coordinates":[-5.546362,50.110645],"type":"Point"}
 }

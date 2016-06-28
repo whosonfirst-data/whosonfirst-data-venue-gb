@@ -2,13 +2,14 @@
   "id": 303835357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.010723,52.618366,-2.010723,52.618366",
     "geom:latitude":52.618366,
     "geom:longitude":-2.010723,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Parker Street",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303835357,
-    "wof:lastmodified":1448998469,
+    "wof:lastmodified":1466283348,
     "wof:name":"Jas Newsagents",
     "wof:parent_id":85785847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.010723,52.618366,-2.010723,52.618366],
+  "bbox": [
+    -2.010723,
+    52.618366,
+    -2.010723,
+    52.618366
+],
   "geometry": {"coordinates":[-2.010723,52.618366],"type":"Point"}
 }

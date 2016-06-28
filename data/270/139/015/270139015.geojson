@@ -2,13 +2,14 @@
   "id": 270139015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.1993,55.956963,-3.1993,55.956963",
     "geom:latitude":55.956963,
     "geom:longitude":-3.1993,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22a Dundas Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":270139015,
-    "wof:lastmodified":1449008874,
+    "wof:lastmodified":1466264653,
     "wof:name":"Hanover Fine Arts",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.1993,55.956963,-3.1993,55.956963],
+  "bbox": [
+    -3.1993,
+    55.956963,
+    -3.1993,
+    55.956963
+],
   "geometry": {"coordinates":[-3.1993,55.956963],"type":"Point"}
 }

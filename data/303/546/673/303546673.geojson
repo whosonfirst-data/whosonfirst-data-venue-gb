@@ -2,13 +2,14 @@
   "id": 303546673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.92101,53.199982,-1.92101,53.199982",
     "geom:latitude":53.199982,
     "geom:longitude":-1.92101,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hollinsclough",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303546673,
-    "wof:lastmodified":1448998109,
+    "wof:lastmodified":1466279165,
     "wof:name":"Moorside Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.92101,53.199982,-1.92101,53.199982],
+  "bbox": [
+    -1.92101,
+    53.199982,
+    -1.92101,
+    53.199982
+],
   "geometry": {"coordinates":[-1.92101,53.199982],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270384025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.42517,53.384701,-1.42517,53.384701",
     "geom:latitude":53.384701,
     "geom:longitude":-1.42517,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Units 7-8 Kettlebridge Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270384025,
-    "wof:lastmodified":1449008960,
+    "wof:lastmodified":1466271954,
     "wof:name":"Lancaster Body Centre",
     "wof:parent_id":85786971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "car"
     ]
 },
-  "bbox": [-1.42517,53.384701,-1.42517,53.384701],
+  "bbox": [
+    -1.42517,
+    53.384701,
+    -1.42517,
+    53.384701
+],
   "geometry": {"coordinates":[-1.42517,53.384701],"type":"Point"}
 }

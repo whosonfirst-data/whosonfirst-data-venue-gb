@@ -2,13 +2,14 @@
   "id": 186241507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.431245,53.235462,-1.431245,53.235462",
     "geom:latitude":53.235462,
     "geom:longitude":-1.431245,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 West Bars",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186241507,
-    "wof:lastmodified":1449052968,
+    "wof:lastmodified":1466255287,
     "wof:name":"Classic Frames",
     "wof:parent_id":85861099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "framing"
     ]
 },
-  "bbox": [-1.431245,53.235462,-1.431245,53.235462],
+  "bbox": [
+    -1.431245,
+    53.235462,
+    -1.431245,
+    53.235462
+],
   "geometry": {"coordinates":[-1.431245,53.235462],"type":"Point"}
 }

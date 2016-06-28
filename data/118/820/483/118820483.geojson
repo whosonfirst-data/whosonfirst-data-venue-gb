@@ -2,13 +2,14 @@
   "id": 118820483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.91096,53.060001,-1.91096,53.060001",
     "geom:latitude":53.060001,
     "geom:longitude":-1.91096,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Winkhill",
     "sg:city":"Leek",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118820483,
-    "wof:lastmodified":1449053880,
+    "wof:lastmodified":1466274301,
     "wof:name":"M Boydon & Sons",
     "wof:parent_id":85683943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.91096,53.060001,-1.91096,53.060001],
+  "bbox": [
+    -1.91096,
+    53.060001,
+    -1.91096,
+    53.060001
+],
   "geometry": {"coordinates":[-1.91096,53.060001],"type":"Point"}
 }

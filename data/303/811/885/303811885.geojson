@@ -2,13 +2,14 @@
   "id": 303811885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.148138,52.060375,1.148138,52.060375",
     "geom:latitude":52.060375,
     "geom:longitude":1.148138,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Berners St",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303811885,
-    "wof:lastmodified":1448999295,
+    "wof:lastmodified":1466283397,
     "wof:name":"Welch Chemist",
     "wof:parent_id":85793225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "chemist"
     ]
 },
-  "bbox": [1.148138,52.060375,1.148138,52.060375],
+  "bbox": [
+    1.148138,
+    52.060375,
+    1.148138,
+    52.060375
+],
   "geometry": {"coordinates":[1.148138,52.060375],"type":"Point"}
 }

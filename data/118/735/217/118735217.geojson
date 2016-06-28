@@ -2,13 +2,14 @@
   "id": 118735217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.985031,51.587849,-2.985031,51.587849",
     "geom:latitude":51.587849,
     "geom:longitude":-2.985031,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Corporation Road",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118735217,
-    "wof:lastmodified":1449054491,
+    "wof:lastmodified":1466267975,
     "wof:name":"E J Herbert & Son",
     "wof:parent_id":85864253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.985031,51.587849,-2.985031,51.587849],
+  "bbox": [
+    -2.985031,
+    51.587849,
+    -2.985031,
+    51.587849
+],
   "geometry": {"coordinates":[-2.985031,51.587849],"type":"Point"}
 }

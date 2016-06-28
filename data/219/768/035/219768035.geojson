@@ -2,13 +2,14 @@
   "id": 219768035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.987132,52.460358,-1.987132,52.460358",
     "geom:latitude":52.460358,
     "geom:longitude":-1.987132,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Ridgacre Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219768035,
-    "wof:lastmodified":1449071745,
+    "wof:lastmodified":1466263162,
     "wof:name":"Malcolm Hutchins",
     "wof:parent_id":85791983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.987132,52.460358,-1.987132,52.460358],
+  "bbox": [
+    -1.987132,
+    52.460358,
+    -1.987132,
+    52.460358
+],
   "geometry": {"coordinates":[-1.987132,52.460358],"type":"Point"}
 }

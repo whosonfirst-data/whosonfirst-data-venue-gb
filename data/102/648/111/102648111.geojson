@@ -2,13 +2,14 @@
   "id": 102648111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.21014,55.829182,-4.21014,55.829182",
     "geom:latitude":55.829182,
     "geom:longitude":-4.21014,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Farmeloan Road, Rutherglen",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102648111,
-    "wof:lastmodified":1449068440,
+    "wof:lastmodified":1466254266,
     "wof:name":"Galt of Rutherglen",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.21014,55.829182,-4.21014,55.829182],
+  "bbox": [
+    -4.21014,
+    55.829182,
+    -4.21014,
+    55.829182
+],
   "geometry": {"coordinates":[-4.21014,55.829182],"type":"Point"}
 }

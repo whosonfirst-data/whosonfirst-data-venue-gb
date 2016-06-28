@@ -2,13 +2,14 @@
   "id": 135427611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.273439,55.796181,-4.273439,55.796181",
     "geom:latitude":55.796181,
     "geom:longitude":-4.273439,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Clarkston Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135427611,
-    "wof:lastmodified":1449021918,
+    "wof:lastmodified":1466265992,
     "wof:name":"Beyond The Fringe",
     "wof:parent_id":85792535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.273439,55.796181,-4.273439,55.796181],
+  "bbox": [
+    -4.273439,
+    55.796181,
+    -4.273439,
+    55.796181
+],
   "geometry": {"coordinates":[-4.273439,55.796181],"type":"Point"}
 }

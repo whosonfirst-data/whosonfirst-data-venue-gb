@@ -2,13 +2,14 @@
   "id": 135463981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.243408,53.485546,-2.243408,53.485546",
     "geom:latitude":53.485546,
     "geom:longitude":-2.243408,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2nd Floor, 40-41 Longmillgate",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135463981,
-    "wof:lastmodified":1449023098,
+    "wof:lastmodified":1466270391,
     "wof:name":"A J Keeley",
     "wof:parent_id":85793003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.243408,53.485546,-2.243408,53.485546],
+  "bbox": [
+    -2.243408,
+    53.485546,
+    -2.243408,
+    53.485546
+],
   "geometry": {"coordinates":[-2.243408,53.485546],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270523771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.142839,50.39809,-4.142839,50.39809",
     "geom:latitude":50.39809,
     "geom:longitude":-4.142839,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Trevessa Close",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270523771,
-    "wof:lastmodified":1449010066,
+    "wof:lastmodified":1466276084,
     "wof:name":"Arthur W Turner",
     "wof:parent_id":85787989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"
     ]
 },
-  "bbox": [-4.142839,50.39809,-4.142839,50.39809],
+  "bbox": [
+    -4.142839,
+    50.39809,
+    -4.142839,
+    50.39809
+],
   "geometry": {"coordinates":[-4.142839,50.39809],"type":"Point"}
 }

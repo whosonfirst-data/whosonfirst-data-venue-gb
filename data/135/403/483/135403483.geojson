@@ -2,13 +2,14 @@
   "id": 135403483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.009777,51.356377,-2.009777,51.356377",
     "geom:latitude":51.356377,
     "geom:longitude":-2.009777,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Dunkirk Hill",
     "sg:city":"Devizes",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135403483,
-    "wof:lastmodified":1449023587,
+    "wof:lastmodified":1466263120,
     "wof:name":"Queens Head Inn",
     "wof:parent_id":85683939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.009777,51.356377,-2.009777,51.356377],
+  "bbox": [
+    -2.009777,
+    51.356377,
+    -2.009777,
+    51.356377
+],
   "geometry": {"coordinates":[-2.009777,51.356377],"type":"Point"}
 }

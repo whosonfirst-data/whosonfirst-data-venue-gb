@@ -2,13 +2,14 @@
   "id": 202463869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.918995,50.808987,-1.918995,50.808987",
     "geom:latitude":50.808987,
     "geom:longitude":-1.918995,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Cobham Road, Ferndown Industrial Estate",
     "sg:city":"Wimborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202463869,
-    "wof:lastmodified":1449061856,
+    "wof:lastmodified":1466253601,
     "wof:name":"Lewis & Lewis (Southern) Ltd.",
     "wof:parent_id":85792773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "machinery"
     ]
 },
-  "bbox": [-1.918995,50.808987,-1.918995,50.808987],
+  "bbox": [
+    -1.918995,
+    50.808987,
+    -1.918995,
+    50.808987
+],
   "geometry": {"coordinates":[-1.918995,50.808987],"type":"Point"}
 }

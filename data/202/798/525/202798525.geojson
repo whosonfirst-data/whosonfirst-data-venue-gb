@@ -2,13 +2,14 @@
   "id": 202798525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.730254,53.808781,-1.730254,53.808781",
     "geom:latitude":53.808781,
     "geom:longitude":-1.730254,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Otley Road",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202798525,
-    "wof:lastmodified":1449060582,
+    "wof:lastmodified":1466259078,
     "wof:name":"Adams Apples",
     "wof:parent_id":85791921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-1.730254,53.808781,-1.730254,53.808781],
+  "bbox": [
+    -1.730254,
+    53.808781,
+    -1.730254,
+    53.808781
+],
   "geometry": {"coordinates":[-1.730254,53.808781],"type":"Point"}
 }

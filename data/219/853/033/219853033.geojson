@@ -2,13 +2,14 @@
   "id": 219853033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.09904,52.68446,-1.09904,52.68446",
     "geom:latitude":52.68446,
     "geom:longitude":-1.09904,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6c Thurmaston Indust Est, Melton Rd",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219853033,
-    "wof:lastmodified":1449071812,
+    "wof:lastmodified":1466264591,
     "wof:name":"A.N.P. Logistics",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "courier"
     ]
 },
-  "bbox": [-1.09904,52.68446,-1.09904,52.68446],
+  "bbox": [
+    -1.09904,
+    52.68446,
+    -1.09904,
+    52.68446
+],
   "geometry": {"coordinates":[-1.09904,52.68446],"type":"Point"}
 }

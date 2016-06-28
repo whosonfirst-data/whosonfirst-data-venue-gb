@@ -2,13 +2,14 @@
   "id": 135546289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.729748,53.809464,-1.729748,53.809464",
     "geom:latitude":53.809464,
     "geom:longitude":-1.729748,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Dudley Hill Road",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135546289,
-    "wof:lastmodified":1449020983,
+    "wof:lastmodified":1466279327,
     "wof:name":"Richard Beck",
     "wof:parent_id":85791921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.729748,53.809464,-1.729748,53.809464],
+  "bbox": [
+    -1.729748,
+    53.809464,
+    -1.729748,
+    53.809464
+],
   "geometry": {"coordinates":[-1.729748,53.809464],"type":"Point"}
 }

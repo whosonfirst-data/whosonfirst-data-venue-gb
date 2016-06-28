@@ -2,13 +2,14 @@
   "id": 135467615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.241555,51.483898,-1.241555,51.483898",
     "geom:latitude":51.483898,
     "geom:longitude":-1.241555,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 The Cutting, Hampstead Norreys",
     "sg:city":"Thatcham",
     "sg:classifiers":[
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135467615,
-    "wof:lastmodified":1449023374,
+    "wof:lastmodified":1466270828,
     "wof:name":"Beacon Vending",
     "wof:parent_id":85684137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.241555,51.483898,-1.241555,51.483898],
+  "bbox": [
+    -1.241555,
+    51.483898,
+    -1.241555,
+    51.483898
+],
   "geometry": {"coordinates":[-1.241555,51.483898],"type":"Point"}
 }

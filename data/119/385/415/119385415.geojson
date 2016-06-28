@@ -2,13 +2,14 @@
   "id": 119385415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.60941,55.49472,-4.60941,55.49472",
     "geom:latitude":55.49472,
     "geom:longitude":-4.60941,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Ninian's Park",
     "sg:city":"Prestwick",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119385415,
-    "wof:lastmodified":1449042440,
+    "wof:lastmodified":1466284522,
     "wof:name":"Prestwick Baths",
     "wof:parent_id":85684245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.60941,55.49472,-4.60941,55.49472],
+  "bbox": [
+    -4.60941,
+    55.49472,
+    -4.60941,
+    55.49472
+],
   "geometry": {"coordinates":[-4.60941,55.49472],"type":"Point"}
 }

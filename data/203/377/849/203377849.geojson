@@ -2,13 +2,14 @@
   "id": 203377849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.143287,60.15337,-1.143287,60.15337",
     "geom:latitude":60.15337,
     "geom:longitude":-1.143287,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Commercial Street, Lerwick",
     "sg:city":"Lerwick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203377849,
-    "wof:lastmodified":1449025627,
+    "wof:lastmodified":1466259177,
     "wof:name":"Tatties & Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "take"
     ]
 },
-  "bbox": [-1.143287,60.15337,-1.143287,60.15337],
+  "bbox": [
+    -1.143287,
+    60.15337,
+    -1.143287,
+    60.15337
+],
   "geometry": {"coordinates":[-1.143287,60.15337],"type":"Point"}
 }

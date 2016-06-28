@@ -2,13 +2,14 @@
   "id": 119255713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.382171,51.362335,-2.382171,51.362335",
     "geom:latitude":51.362335,
     "geom:longitude":-2.382171,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Bloomfield Drive",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119255713,
-    "wof:lastmodified":1449042031,
+    "wof:lastmodified":1466275428,
     "wof:name":"Stanley E Hill",
     "wof:parent_id":85861083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.382171,51.362335,-2.382171,51.362335],
+  "bbox": [
+    -2.382171,
+    51.362335,
+    -2.382171,
+    51.362335
+],
   "geometry": {"coordinates":[-2.382171,51.362335],"type":"Point"}
 }

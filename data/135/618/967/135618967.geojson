@@ -2,13 +2,14 @@
   "id": 135618967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.116431,53.01387,-1.116431,53.01387",
     "geom:latitude":53.01387,
     "geom:longitude":-1.116431,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Surgeys Lane",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135618967,
-    "wof:lastmodified":1449022901,
+    "wof:lastmodified":1466283571,
     "wof:name":"Bp Services",
     "wof:parent_id":85786979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.116431,53.01387,-1.116431,53.01387],
+  "bbox": [
+    -1.116431,
+    53.01387,
+    -1.116431,
+    53.01387
+],
   "geometry": {"coordinates":[-1.116431,53.01387],"type":"Point"}
 }

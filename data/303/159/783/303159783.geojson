@@ -2,13 +2,14 @@
   "id": 303159783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.206336,55.944221,-3.206336,55.944221",
     "geom:latitude":55.944221,
     "geom:longitude":-3.206336,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"89-95 Fountainbridge",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303159783,
-    "wof:lastmodified":1448998412,
+    "wof:lastmodified":1466267479,
     "wof:name":"Pathway (Supporting Survivors)",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.206336,55.944221,-3.206336,55.944221],
+  "bbox": [
+    -3.206336,
+    55.944221,
+    -3.206336,
+    55.944221
+],
   "geometry": {"coordinates":[-3.206336,55.944221],"type":"Point"}
 }

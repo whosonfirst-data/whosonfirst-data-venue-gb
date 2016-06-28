@@ -2,13 +2,14 @@
   "id": 303411549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.717054,56.058556,-2.717054,56.058556",
     "geom:latitude":56.058556,
     "geom:longitude":-2.717054,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Dairy Cotts, Fentonbarns",
     "sg:city":"North Berwick",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303411549,
-    "wof:lastmodified":1448998231,
+    "wof:lastmodified":1466275188,
     "wof:name":"Dairy Cattery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "catteries"
     ]
 },
-  "bbox": [-2.717054,56.058556,-2.717054,56.058556],
+  "bbox": [
+    -2.717054,
+    56.058556,
+    -2.717054,
+    56.058556
+],
   "geometry": {"coordinates":[-2.717054,56.058556],"type":"Point"}
 }

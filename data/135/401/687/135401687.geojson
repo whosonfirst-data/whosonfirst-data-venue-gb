@@ -2,13 +2,14 @@
   "id": 135401687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.123139,55.867859,-4.123139,55.867859",
     "geom:latitude":55.867859,
     "geom:longitude":-4.123139,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Shandwick Square, Easterhouse",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135401687,
-    "wof:lastmodified":1449023570,
+    "wof:lastmodified":1466262882,
     "wof:name":"Farmfoods Freezer Centre",
     "wof:parent_id":85792561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.123139,55.867859,-4.123139,55.867859],
+  "bbox": [
+    -4.123139,
+    55.867859,
+    -4.123139,
+    55.867859
+],
   "geometry": {"coordinates":[-4.123139,55.867859],"type":"Point"}
 }

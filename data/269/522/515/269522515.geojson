@@ -2,13 +2,14 @@
   "id": 269522515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.289314,52.775429,-1.289314,52.775429",
     "geom:latitude":52.775429,
     "geom:longitude":-1.289314,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Brook Street, Shepshed",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":269522515,
-    "wof:lastmodified":1449037285,
+    "wof:lastmodified":1466261158,
     "wof:name":"Spencer Traditional Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-1.289314,52.775429,-1.289314,52.775429],
+  "bbox": [
+    -1.289314,
+    52.775429,
+    -1.289314,
+    52.775429
+],
   "geometry": {"coordinates":[-1.289314,52.775429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202419943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.760666,53.780571,-1.760666,53.780571",
     "geom:latitude":53.780571,
     "geom:longitude":-1.760666,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Jacob Street",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202419943,
-    "wof:lastmodified":1449062583,
+    "wof:lastmodified":1466252913,
     "wof:name":"Manchester Road Private Hire",
     "wof:parent_id":85791453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-1.760666,53.780571,-1.760666,53.780571],
+  "bbox": [
+    -1.760666,
+    53.780571,
+    -1.760666,
+    53.780571
+],
   "geometry": {"coordinates":[-1.760666,53.780571],"type":"Point"}
 }

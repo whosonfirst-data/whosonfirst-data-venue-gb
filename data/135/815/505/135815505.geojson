@@ -2,13 +2,14 @@
   "id": 135815505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.461803,51.235199,0.461803,51.235199",
     "geom:latitude":51.235199,
     "geom:longitude":0.461803,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hill Top, West Farleigh, Hunton",
     "sg:city":"Maidstone",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135815505,
-    "wof:lastmodified":1449022489,
+    "wof:lastmodified":1466287512,
     "wof:name":"The White House",
     "wof:parent_id":85684363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.461803,51.235199,0.461803,51.235199],
+  "bbox": [
+    0.461803,
+    51.235199,
+    0.461803,
+    51.235199
+],
   "geometry": {"coordinates":[0.461803,51.235199],"type":"Point"}
 }

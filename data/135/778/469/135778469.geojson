@@ -2,13 +2,14 @@
   "id": 135778469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.266193,52.941315,-1.266193,52.941315",
     "geom:latitude":52.941315,
     "geom:longitude":-1.266193,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Montrose Court",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135778469,
-    "wof:lastmodified":1449021035,
+    "wof:lastmodified":1466287048,
     "wof:name":"Montrose Off Licence",
     "wof:parent_id":85785929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.266193,52.941315,-1.266193,52.941315],
+  "bbox": [
+    -1.266193,
+    52.941315,
+    -1.266193,
+    52.941315
+],
   "geometry": {"coordinates":[-1.266193,52.941315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186357801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.860289,53.823013,-1.860289,53.823013",
     "geom:latitude":53.823013,
     "geom:longitude":-1.860289,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Village Hall, Townfield, Wilsden",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186357801,
-    "wof:lastmodified":1449052690,
+    "wof:lastmodified":1466256925,
     "wof:name":"Wilsden Library",
     "wof:parent_id":85785275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "local"
     ]
 },
-  "bbox": [-1.860289,53.823013,-1.860289,53.823013],
+  "bbox": [
+    -1.860289,
+    53.823013,
+    -1.860289,
+    53.823013
+],
   "geometry": {"coordinates":[-1.860289,53.823013],"type":"Point"}
 }

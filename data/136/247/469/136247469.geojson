@@ -2,13 +2,14 @@
   "id": 136247469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.170289,60.144829,-1.170289,60.144829",
     "geom:latitude":60.144829,
     "geom:longitude":-1.170289,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Observatory",
     "sg:city":"Shetland",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136247469,
-    "wof:lastmodified":1449075695,
+    "wof:lastmodified":1466263528,
     "wof:name":"Lerwick Met Office",
     "wof:parent_id":85683653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.170289,60.144829,-1.170289,60.144829],
+  "bbox": [
+    -1.170289,
+    60.144829,
+    -1.170289,
+    60.144829
+],
   "geometry": {"coordinates":[-1.170289,60.144829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102623713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.272116,55.867378,-4.272116,55.867378",
     "geom:latitude":55.867378,
     "geom:longitude":-4.272116,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Woodside Cres",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102623713,
-    "wof:lastmodified":1449069492,
+    "wof:lastmodified":1466253333,
     "wof:name":"Bucknell Austin",
     "wof:parent_id":85792601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.272116,55.867378,-4.272116,55.867378],
+  "bbox": [
+    -4.272116,
+    55.867378,
+    -4.272116,
+    55.867378
+],
   "geometry": {"coordinates":[-4.272116,55.867378],"type":"Point"}
 }

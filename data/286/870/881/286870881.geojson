@@ -2,13 +2,14 @@
   "id": 286870881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.914231,52.615223,-1.914231,52.615223",
     "geom:latitude":52.615223,
     "geom:longitude":-1.914231,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Lazy Hill Road, Aldridge",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286870881,
-    "wof:lastmodified":1449015953,
+    "wof:lastmodified":1466279831,
     "wof:name":"Sarullos",
     "wof:parent_id":85790267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.914231,52.615223,-1.914231,52.615223],
+  "bbox": [
+    -1.914231,
+    52.615223,
+    -1.914231,
+    52.615223
+],
   "geometry": {"coordinates":[-1.914231,52.615223],"type":"Point"}
 }

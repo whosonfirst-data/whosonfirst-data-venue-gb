@@ -2,13 +2,14 @@
   "id": 135850017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.168499,50.376652,-4.168499,50.376652",
     "geom:latitude":50.376652,
     "geom:longitude":-4.168499,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Devonport Road, Stoke",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":135850017,
-    "wof:lastmodified":1449022766,
+    "wof:lastmodified":1466288031,
     "wof:name":"The Stopford Arms",
     "wof:parent_id":85790777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.168499,50.376652,-4.168499,50.376652],
+  "bbox": [
+    -4.168499,
+    50.376652,
+    -4.168499,
+    50.376652
+],
   "geometry": {"coordinates":[-4.168499,50.376652],"type":"Point"}
 }

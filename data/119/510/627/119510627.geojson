@@ -2,13 +2,14 @@
   "id": 119510627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.03013,53.813519,-3.03013,53.813519",
     "geom:latitude":53.813519,
     "geom:longitude":-3.03013,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Woodland Gro",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119510627,
-    "wof:lastmodified":1449042453,
+    "wof:lastmodified":1466287188,
     "wof:name":"John Sanderson",
     "wof:parent_id":85866811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.03013,53.813519,-3.03013,53.813519],
+  "bbox": [
+    -3.03013,
+    53.813519,
+    -3.03013,
+    53.813519
+],
   "geometry": {"coordinates":[-3.03013,53.813519],"type":"Point"}
 }

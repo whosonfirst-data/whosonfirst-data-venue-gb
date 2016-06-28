@@ -2,13 +2,14 @@
   "id": 336856259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.185329,55.951202,-3.185329,55.951202",
     "geom:latitude":55.951202,
     "geom:longitude":-3.185329,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Jeffrey Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":336856259,
-    "wof:lastmodified":1448997256,
+    "wof:lastmodified":1466279482,
     "wof:name":"La Garrigue Restaurant",
     "wof:parent_id":85792703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.185329,55.951202,-3.185329,55.951202],
+  "bbox": [
+    -3.185329,
+    55.951202,
+    -3.185329,
+    55.951202
+],
   "geometry": {"coordinates":[-3.185329,55.951202],"type":"Point"}
 }

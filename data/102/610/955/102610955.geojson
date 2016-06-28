@@ -2,13 +2,14 @@
   "id": 102610955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.090745,51.602474,-3.090745,51.602474",
     "geom:latitude":51.602474,
     "geom:longitude":-3.090745,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Victoria Terrace",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102610955,
-    "wof:lastmodified":1449070178,
+    "wof:lastmodified":1466252861,
     "wof:name":"C Matthews",
     "wof:parent_id":85684187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.090745,51.602474,-3.090745,51.602474],
+  "bbox": [
+    -3.090745,
+    51.602474,
+    -3.090745,
+    51.602474
+],
   "geometry": {"coordinates":[-3.090745,51.602474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253544903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.91597,55.771374,-3.91597,55.771374",
     "geom:latitude":55.771374,
     "geom:longitude":-3.91597,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Stewarton House, 101-105 Stewarton St",
     "sg:city":"Wishaw",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253544903,
-    "wof:lastmodified":1449065799,
+    "wof:lastmodified":1466269291,
     "wof:name":"Lanarkshire Cancer Care Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.91597,55.771374,-3.91597,55.771374],
+  "bbox": [
+    -3.91597,
+    55.771374,
+    -3.91597,
+    55.771374
+],
   "geometry": {"coordinates":[-3.91597,55.771374],"type":"Point"}
 }

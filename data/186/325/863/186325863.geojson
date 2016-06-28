@@ -2,13 +2,14 @@
   "id": 186325863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.550274,53.797081,-1.550274,53.797081",
     "geom:latitude":53.797081,
     "geom:longitude":-1.550274,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"King Street",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186325863,
-    "wof:lastmodified":1449051414,
+    "wof:lastmodified":1466256469,
     "wof:name":"Hotel Metropole",
     "wof:parent_id":85792901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.550274,53.797081,-1.550274,53.797081],
+  "bbox": [
+    -1.550274,
+    53.797081,
+    -1.550274,
+    53.797081
+],
   "geometry": {"coordinates":[-1.550274,53.797081],"type":"Point"}
 }

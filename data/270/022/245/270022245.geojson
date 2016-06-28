@@ -2,13 +2,14 @@
   "id": 270022245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.943402,50.729,-1.943402,50.729",
     "geom:latitude":50.729,
     "geom:longitude":-1.943402,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"403a Ashley Road",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270022245,
-    "wof:lastmodified":1449009451,
+    "wof:lastmodified":1466261109,
     "wof:name":"Heatherlands Post Office",
     "wof:parent_id":85789727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.943402,50.729,-1.943402,50.729],
+  "bbox": [
+    -1.943402,
+    50.729,
+    -1.943402,
+    50.729
+],
   "geometry": {"coordinates":[-1.943402,50.729],"type":"Point"}
 }

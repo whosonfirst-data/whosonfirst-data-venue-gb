@@ -2,13 +2,14 @@
   "id": 320381023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.797695,52.428707,-1.797695,52.428707",
     "geom:latitude":52.428707,
     "geom:longitude":-1.797695,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Warwick Road",
     "sg:city":"Solihull",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320381023,
-    "wof:lastmodified":1449011553,
+    "wof:lastmodified":1466279056,
     "wof:name":"The Hair & Beauty Studio",
     "wof:parent_id":85790319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.797695,52.428707,-1.797695,52.428707],
+  "bbox": [
+    -1.797695,
+    52.428707,
+    -1.797695,
+    52.428707
+],
   "geometry": {"coordinates":[-1.797695,52.428707],"type":"Point"}
 }

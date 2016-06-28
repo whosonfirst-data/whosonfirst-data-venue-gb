@@ -2,13 +2,14 @@
   "id": 286562649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.083778,52.511116,-2.083778,52.511116",
     "geom:latitude":52.511116,
     "geom:longitude":-2.083778,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Stone Street",
     "sg:city":"Dudley",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286562649,
-    "wof:lastmodified":1449016746,
+    "wof:lastmodified":1466271525,
     "wof:name":"Evans News",
     "wof:parent_id":85789279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.083778,52.511116,-2.083778,52.511116],
+  "bbox": [
+    -2.083778,
+    52.511116,
+    -2.083778,
+    52.511116
+],
   "geometry": {"coordinates":[-2.083778,52.511116],"type":"Point"}
 }

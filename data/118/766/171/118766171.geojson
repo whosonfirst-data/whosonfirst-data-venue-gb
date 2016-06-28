@@ -2,13 +2,14 @@
   "id": 118766171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.20322,54.127689,-3.20322,54.127689",
     "geom:latitude":54.127689,
     "geom:longitude":-3.20322,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Raglan Garage, Durham Street",
     "sg:city":"Barrow-in-furness",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118766171,
-    "wof:lastmodified":1449053128,
+    "wof:lastmodified":1466270246,
     "wof:name":"Raglan Street Garage",
     "wof:parent_id":85791877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.20322,54.127689,-3.20322,54.127689],
+  "bbox": [
+    -3.20322,
+    54.127689,
+    -3.20322,
+    54.127689
+],
   "geometry": {"coordinates":[-3.20322,54.127689],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135422133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.694468,54.711456,-1.694468,54.711456",
     "geom:latitude":54.711456,
     "geom:longitude":-1.694468,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 High Street, Willington",
     "sg:city":"Crook",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135422133,
-    "wof:lastmodified":1449021205,
+    "wof:lastmodified":1466265327,
     "wof:name":"Pizza Time",
     "wof:parent_id":101873335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.694468,54.711456,-1.694468,54.711456],
+  "bbox": [
+    -1.694468,
+    54.711456,
+    -1.694468,
+    54.711456
+],
   "geometry": {"coordinates":[-1.694468,54.711456],"type":"Point"}
 }

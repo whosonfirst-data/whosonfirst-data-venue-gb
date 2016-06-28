@@ -2,13 +2,14 @@
   "id": 136126613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.181213,55.972694,-3.181213,55.972694",
     "geom:latitude":55.972694,
     "geom:longitude":-3.181213,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15-17 West Bowling Green Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":136126613,
-    "wof:lastmodified":1449075406,
+    "wof:lastmodified":1466257047,
     "wof:name":"James Gray & Son",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.181213,55.972694,-3.181213,55.972694],
+  "bbox": [
+    -3.181213,
+    55.972694,
+    -3.181213,
+    55.972694
+],
   "geometry": {"coordinates":[-3.181213,55.972694],"type":"Point"}
 }

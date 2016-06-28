@@ -2,13 +2,14 @@
   "id": 136105377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.905916,52.484444,-1.905916,52.484444",
     "geom:latitude":52.484444,
     "geom:longitude":-1.905916,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"56 St Pauls Sq",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":136105377,
-    "wof:lastmodified":1449075418,
+    "wof:lastmodified":1466255905,
     "wof:name":"John P Corr",
     "wof:parent_id":85792837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.905916,52.484444,-1.905916,52.484444],
+  "bbox": [
+    -1.905916,
+    52.484444,
+    -1.905916,
+    52.484444
+],
   "geometry": {"coordinates":[-1.905916,52.484444],"type":"Point"}
 }

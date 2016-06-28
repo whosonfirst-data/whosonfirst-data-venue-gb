@@ -2,13 +2,14 @@
   "id": 135544169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.081739,55.887993,-3.081739,55.887993",
     "geom:latitude":55.887993,
     "geom:longitude":-3.081739,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9a Bonnyrigg Road",
     "sg:city":"Dalkeith",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135544169,
-    "wof:lastmodified":1449023987,
+    "wof:lastmodified":1466279299,
     "wof:name":"Highbank Residential Care",
     "wof:parent_id":101873495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.081739,55.887993,-3.081739,55.887993],
+  "bbox": [
+    -3.081739,
+    55.887993,
+    -3.081739,
+    55.887993
+],
   "geometry": {"coordinates":[-3.081739,55.887993],"type":"Point"}
 }

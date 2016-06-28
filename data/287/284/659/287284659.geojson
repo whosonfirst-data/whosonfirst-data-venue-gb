@@ -2,13 +2,14 @@
   "id": 287284659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.21521,55.903679,-4.21521,55.903679",
     "geom:latitude":55.903679,
     "geom:longitude":-4.21521,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"R N I B Springfield Service, Springfield Road, Bishopbriggs",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287284659,
-    "wof:lastmodified":1449001212,
+    "wof:lastmodified":1466271823,
     "wof:name":"Royal National Institute for the Blind",
     "wof:parent_id":85785743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "charity"
     ]
 },
-  "bbox": [-4.21521,55.903679,-4.21521,55.903679],
+  "bbox": [
+    -4.21521,
+    55.903679,
+    -4.21521,
+    55.903679
+],
   "geometry": {"coordinates":[-4.21521,55.903679],"type":"Point"}
 }

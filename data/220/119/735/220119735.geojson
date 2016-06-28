@@ -2,13 +2,14 @@
   "id": 220119735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.308526,52.984951,-1.308526,52.984951",
     "geom:latitude":52.984951,
     "geom:longitude":-1.308526,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Cotmanhay Road",
     "sg:city":"Ilkeston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220119735,
-    "wof:lastmodified":1449074625,
+    "wof:lastmodified":1466255079,
     "wof:name":"Ilkeston Aerials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "radio"
     ]
 },
-  "bbox": [-1.308526,52.984951,-1.308526,52.984951],
+  "bbox": [
+    -1.308526,
+    52.984951,
+    -1.308526,
+    52.984951
+],
   "geometry": {"coordinates":[-1.308526,52.984951],"type":"Point"}
 }

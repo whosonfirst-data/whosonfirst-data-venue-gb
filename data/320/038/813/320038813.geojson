@@ -2,13 +2,14 @@
   "id": 320038813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.359209,54.569061,-1.359209,54.569061",
     "geom:latitude":54.569061,
     "geom:longitude":-1.359209,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Bishopton Rd West, Fairfield",
     "sg:city":"Stockton On Tees",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320038813,
-    "wof:lastmodified":1449013656,
+    "wof:lastmodified":1466269255,
     "wof:name":"R.L Crabbe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "coach"
     ]
 },
-  "bbox": [-1.359209,54.569061,-1.359209,54.569061],
+  "bbox": [
+    -1.359209,
+    54.569061,
+    -1.359209,
+    54.569061
+],
   "geometry": {"coordinates":[-1.359209,54.569061],"type":"Point"}
 }

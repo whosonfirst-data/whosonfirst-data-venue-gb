@@ -2,13 +2,14 @@
   "id": 269709909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.150574,53.004539,-1.150574,53.004539",
     "geom:latitude":53.004539,
     "geom:longitude":-1.150574,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Chippenham Road, Bestwood Park",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":269709909,
-    "wof:lastmodified":1449036622,
+    "wof:lastmodified":1466266970,
     "wof:name":"Bestwood Swimming Pool",
     "wof:parent_id":85793191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-1.150574,53.004539,-1.150574,53.004539],
+  "bbox": [
+    -1.150574,
+    53.004539,
+    -1.150574,
+    53.004539
+],
   "geometry": {"coordinates":[-1.150574,53.004539],"type":"Point"}
 }

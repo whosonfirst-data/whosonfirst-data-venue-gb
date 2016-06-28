@@ -2,13 +2,14 @@
   "id": 253535513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.462535,52.524464,-1.462535,52.524464",
     "geom:latitude":52.524464,
     "geom:longitude":-1.462535,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Regent Street",
     "sg:city":"Nuneaton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253535513,
-    "wof:lastmodified":1449063356,
+    "wof:lastmodified":1466269004,
     "wof:name":"Nuneaton Denture Services",
     "wof:parent_id":85785407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dental"
     ]
 },
-  "bbox": [-1.462535,52.524464,-1.462535,52.524464],
+  "bbox": [
+    -1.462535,
+    52.524464,
+    -1.462535,
+    52.524464
+],
   "geometry": {"coordinates":[-1.462535,52.524464],"type":"Point"}
 }

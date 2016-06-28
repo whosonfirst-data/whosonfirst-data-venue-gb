@@ -2,13 +2,14 @@
   "id": 303740445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.183439,53.165207,-1.183439,53.165207",
     "geom:latitude":53.165207,
     "geom:longitude":-1.183439,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 60, Block 8, Farmway",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303740445,
-    "wof:lastmodified":1448999224,
+    "wof:lastmodified":1466282224,
     "wof:name":"Dacol Engineering",
     "wof:parent_id":85787491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.183439,53.165207,-1.183439,53.165207],
+  "bbox": [
+    -1.183439,
+    53.165207,
+    -1.183439,
+    53.165207
+],
   "geometry": {"coordinates":[-1.183439,53.165207],"type":"Point"}
 }

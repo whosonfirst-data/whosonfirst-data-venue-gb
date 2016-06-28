@@ -2,13 +2,14 @@
   "id": 336635025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.637313,53.313557,-4.637313,53.313557",
     "geom:latitude":53.313557,
     "geom:longitude":-4.637313,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Queens Park Close",
     "sg:city":"Holyhead",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336635025,
-    "wof:lastmodified":1448997421,
+    "wof:lastmodified":1466273814,
     "wof:name":"Queens Park Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "home"
     ]
 },
-  "bbox": [-4.637313,53.313557,-4.637313,53.313557],
+  "bbox": [
+    -4.637313,
+    53.313557,
+    -4.637313,
+    53.313557
+],
   "geometry": {"coordinates":[-4.637313,53.313557],"type":"Point"}
 }

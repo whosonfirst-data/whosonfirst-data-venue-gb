@@ -2,13 +2,14 @@
   "id": 135375047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.124321,52.995232,-1.124321,52.995232",
     "geom:latitude":52.995232,
     "geom:longitude":-1.124321,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Aylesham Avenue, Arnold",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135375047,
-    "wof:lastmodified":1449021086,
+    "wof:lastmodified":1466259934,
     "wof:name":"Nottingham Microsystems",
     "wof:parent_id":85791805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.124321,52.995232,-1.124321,52.995232],
+  "bbox": [
+    -1.124321,
+    52.995232,
+    -1.124321,
+    52.995232
+],
   "geometry": {"coordinates":[-1.124321,52.995232],"type":"Point"}
 }

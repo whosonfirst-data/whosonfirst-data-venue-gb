@@ -2,13 +2,14 @@
   "id": 135718845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.902094,50.77039,-1.902094,50.77039",
     "geom:latitude":50.77039,
     "geom:longitude":-1.902094,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Home Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":135718845,
-    "wof:lastmodified":1449021636,
+    "wof:lastmodified":1466286170,
     "wof:name":"David Wheatley",
     "wof:parent_id":85789483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.902094,50.77039,-1.902094,50.77039],
+  "bbox": [
+    -1.902094,
+    50.77039,
+    -1.902094,
+    50.77039
+],
   "geometry": {"coordinates":[-1.902094,50.77039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102726643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.512533,55.127483,-1.512533,55.127483",
     "geom:latitude":55.127483,
     "geom:longitude":-1.512533,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Bowes Street",
     "sg:city":"Blyth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102726643,
-    "wof:lastmodified":1449069450,
+    "wof:lastmodified":1466257390,
     "wof:name":"Saville Fashions",
     "wof:parent_id":101873451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.512533,55.127483,-1.512533,55.127483],
+  "bbox": [
+    -1.512533,
+    55.127483,
+    -1.512533,
+    55.127483
+],
   "geometry": {"coordinates":[-1.512533,55.127483],"type":"Point"}
 }

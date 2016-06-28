@@ -2,13 +2,14 @@
   "id": 118970103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.634333,53.695347,-1.634333,53.695347",
     "geom:latitude":53.695347,
     "geom:longitude":-1.634333,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14a Halifax Road",
     "sg:city":"Dewsbury",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":118970103,
-    "wof:lastmodified":1449054502,
+    "wof:lastmodified":1466282341,
     "wof:name":"Dewsbury Cars",
     "wof:parent_id":85786835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.634333,53.695347,-1.634333,53.695347],
+  "bbox": [
+    -1.634333,
+    53.695347,
+    -1.634333,
+    53.695347
+],
   "geometry": {"coordinates":[-1.634333,53.695347],"type":"Point"}
 }

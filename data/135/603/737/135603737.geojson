@@ -2,13 +2,14 @@
   "id": 135603737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.937214,55.913361,-2.937214,55.913361",
     "geom:latitude":55.913361,
     "geom:longitude":-2.937214,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Street, Ormiston",
     "sg:city":"Tranent",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135603737,
-    "wof:lastmodified":1449023545,
+    "wof:lastmodified":1466282625,
     "wof:name":"ORMISTON POST OFFICE",
     "wof:parent_id":85683729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.937214,55.913361,-2.937214,55.913361],
+  "bbox": [
+    -2.937214,
+    55.913361,
+    -2.937214,
+    55.913361
+],
   "geometry": {"coordinates":[-2.937214,55.913361],"type":"Point"}
 }

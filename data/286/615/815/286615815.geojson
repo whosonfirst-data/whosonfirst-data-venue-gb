@@ -2,13 +2,14 @@
   "id": 286615815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.51393,50.731354,-3.51393,50.731354",
     "geom:latitude":50.731354,
     "geom:longitude":-3.51393,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Thurlow Road, Mount Pleasant",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":286615815,
-    "wof:lastmodified":1449016109,
+    "wof:lastmodified":1466273192,
     "wof:name":"Exeter Tool Shop",
     "wof:parent_id":85792763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-3.51393,50.731354,-3.51393,50.731354],
+  "bbox": [
+    -3.51393,
+    50.731354,
+    -3.51393,
+    50.731354
+],
   "geometry": {"coordinates":[-3.51393,50.731354],"type":"Point"}
 }

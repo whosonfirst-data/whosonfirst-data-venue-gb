@@ -2,13 +2,14 @@
   "id": 119522173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.306892,50.926476,-2.306892,50.926476",
     "geom:latitude":50.926476,
     "geom:longitude":-2.306892,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 The Parade",
     "sg:city":"Sturminster Newton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119522173,
-    "wof:lastmodified":1449042099,
+    "wof:lastmodified":1466287280,
     "wof:name":"The National Call",
     "wof:parent_id":101852351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.306892,50.926476,-2.306892,50.926476],
+  "bbox": [
+    -2.306892,
+    50.926476,
+    -2.306892,
+    50.926476
+],
   "geometry": {"coordinates":[-2.306892,50.926476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320752307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.497807,53.559895,-1.497807,53.559895",
     "geom:latitude":53.559895,
     "geom:longitude":-1.497807,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Stanhope Gardens",
     "sg:city":"Barnsley",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320752307,
-    "wof:lastmodified":1449011884,
+    "wof:lastmodified":1466284422,
     "wof:name":"A Chapman Builders",
     "wof:parent_id":85793253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.497807,53.559895,-1.497807,53.559895],
+  "bbox": [
+    -1.497807,
+    53.559895,
+    -1.497807,
+    53.559895
+],
   "geometry": {"coordinates":[-1.497807,53.559895],"type":"Point"}
 }

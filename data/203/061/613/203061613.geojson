@@ -2,13 +2,14 @@
   "id": 203061613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.827041,53.823769,-1.827041,53.823769",
     "geom:latitude":53.823769,
     "geom:longitude":-1.827041,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, Cottingley Workshops, Bradford Road",
     "sg:city":"Bingley",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203061613,
-    "wof:lastmodified":1449026339,
+    "wof:lastmodified":1466253667,
     "wof:name":"BINGLEY FENCING LTD",
     "wof:parent_id":85790131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-1.827041,53.823769,-1.827041,53.823769],
+  "bbox": [
+    -1.827041,
+    53.823769,
+    -1.827041,
+    53.823769
+],
   "geometry": {"coordinates":[-1.827041,53.823769],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253582815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.277871,50.92638,-1.277871,50.92638",
     "geom:latitude":50.92638,
     "geom:longitude":-1.277871,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Oatlands Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253582815,
-    "wof:lastmodified":1449064423,
+    "wof:lastmodified":1466270557,
     "wof:name":"Earl Software",
     "wof:parent_id":85792803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "software"
     ]
 },
-  "bbox": [-1.277871,50.92638,-1.277871,50.92638],
+  "bbox": [
+    -1.277871,
+    50.92638,
+    -1.277871,
+    50.92638
+],
   "geometry": {"coordinates":[-1.277871,50.92638],"type":"Point"}
 }

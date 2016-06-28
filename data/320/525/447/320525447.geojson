@@ -2,13 +2,14 @@
   "id": 320525447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.10623,50.797817,-1.10623,50.797817",
     "geom:latitude":50.797817,
     "geom:longitude":-1.10623,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Arcade, Hms Nelson",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320525447,
-    "wof:lastmodified":1449014187,
+    "wof:lastmodified":1466281518,
     "wof:name":"Jack Blair",
     "wof:parent_id":85792777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "armed"
     ]
 },
-  "bbox": [-1.10623,50.797817,-1.10623,50.797817],
+  "bbox": [
+    -1.10623,
+    50.797817,
+    -1.10623,
+    50.797817
+],
   "geometry": {"coordinates":[-1.10623,50.797817],"type":"Point"}
 }

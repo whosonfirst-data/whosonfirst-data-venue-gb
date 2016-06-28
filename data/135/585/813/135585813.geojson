@@ -2,13 +2,14 @@
   "id": 135585813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.393647,52.536449,-1.393647,52.536449",
     "geom:latitude":52.536449,
     "geom:longitude":-1.393647,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Eskdale Road",
     "sg:city":"Hinckley",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135585813,
-    "wof:lastmodified":1449023016,
+    "wof:lastmodified":1466281845,
     "wof:name":"Advanced Care Services",
     "wof:parent_id":101853605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.393647,52.536449,-1.393647,52.536449],
+  "bbox": [
+    -1.393647,
+    52.536449,
+    -1.393647,
+    52.536449
+],
   "geometry": {"coordinates":[-1.393647,52.536449],"type":"Point"}
 }

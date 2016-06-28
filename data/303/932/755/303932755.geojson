@@ -2,13 +2,14 @@
   "id": 303932755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.142207,54.554375,-1.142207,54.554375",
     "geom:latitude":54.554375,
     "geom:longitude":-1.142207,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Moorcock Close, Normanby",
     "sg:city":"Middlesbrough",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303932755,
-    "wof:lastmodified":1448999024,
+    "wof:lastmodified":1466284753,
     "wof:name":"A to B Removals",
     "wof:parent_id":85789441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "removal"
     ]
 },
-  "bbox": [-1.142207,54.554375,-1.142207,54.554375],
+  "bbox": [
+    -1.142207,
+    54.554375,
+    -1.142207,
+    54.554375
+],
   "geometry": {"coordinates":[-1.142207,54.554375],"type":"Point"}
 }

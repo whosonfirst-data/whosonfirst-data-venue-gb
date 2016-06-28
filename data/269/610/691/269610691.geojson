@@ -2,13 +2,14 @@
   "id": 269610691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.471584,51.524235,-2.471584,51.524235",
     "geom:latitude":51.524235,
     "geom:longitude":-2.471584,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Cloverlea Workshop, The Hollows, Coalpit Heath",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269610691,
-    "wof:lastmodified":1449038908,
+    "wof:lastmodified":1466263917,
     "wof:name":"Cloverlea Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-2.471584,51.524235,-2.471584,51.524235],
+  "bbox": [
+    -2.471584,
+    51.524235,
+    -2.471584,
+    51.524235
+],
   "geometry": {"coordinates":[-2.471584,51.524235],"type":"Point"}
 }

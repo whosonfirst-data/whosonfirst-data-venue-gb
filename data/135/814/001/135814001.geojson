@@ -2,13 +2,14 @@
   "id": 135814001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.48025,56.420071,-5.48025,56.420071",
     "geom:latitude":56.420071,
     "geom:longitude":-5.48025,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Oban Youth Hostel, Esplanade",
     "sg:city":"Oban",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135814001,
-    "wof:lastmodified":1449021528,
+    "wof:lastmodified":1466287483,
     "wof:name":"Scottish Youth Hostels Association",
     "wof:parent_id":85633159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.48025,56.420071,-5.48025,56.420071],
+  "bbox": [
+    -5.48025,
+    56.420071,
+    -5.48025,
+    56.420071
+],
   "geometry": {"coordinates":[-5.48025,56.420071],"type":"Point"}
 }

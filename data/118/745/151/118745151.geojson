@@ -2,13 +2,14 @@
   "id": 118745151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.317009,53.360645,-1.317009,53.360645",
     "geom:latitude":53.360645,
     "geom:longitude":-1.317009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Studio & Gardens, 45-47 Mansfield Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118745151,
-    "wof:lastmodified":1449054470,
+    "wof:lastmodified":1466268696,
     "wof:name":"Visual Image",
     "wof:parent_id":85683873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.317009,53.360645,-1.317009,53.360645],
+  "bbox": [
+    -1.317009,
+    53.360645,
+    -1.317009,
+    53.360645
+],
   "geometry": {"coordinates":[-1.317009,53.360645],"type":"Point"}
 }

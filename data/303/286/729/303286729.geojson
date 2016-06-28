@@ -2,13 +2,14 @@
   "id": 303286729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.139467,50.809063,-1.139467,50.809063",
     "geom:latitude":50.809063,
     "geom:longitude":-1.139467,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Fisgard Road",
     "sg:city":"Gosport",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303286729,
-    "wof:lastmodified":1448998752,
+    "wof:lastmodified":1466271469,
     "wof:name":"Powernet Electrical",
     "wof:parent_id":85787917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.139467,50.809063,-1.139467,50.809063],
+  "bbox": [
+    -1.139467,
+    50.809063,
+    -1.139467,
+    50.809063
+],
   "geometry": {"coordinates":[-1.139467,50.809063],"type":"Point"}
 }

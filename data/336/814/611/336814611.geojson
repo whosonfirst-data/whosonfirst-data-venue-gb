@@ -2,13 +2,14 @@
   "id": 336814611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.179355,55.96505,-3.179355,55.96505",
     "geom:latitude":55.96505,
     "geom:longitude":-3.179355,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Pilrig Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336814611,
-    "wof:lastmodified":1448997144,
+    "wof:lastmodified":1466279082,
     "wof:name":"Edinburgh Talent House Ltd.",
     "wof:parent_id":85792709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-3.179355,55.96505,-3.179355,55.96505],
+  "bbox": [
+    -3.179355,
+    55.96505,
+    -3.179355,
+    55.96505
+],
   "geometry": {"coordinates":[-3.179355,55.96505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286570303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.531657,51.463463,-2.531657,51.463463",
     "geom:latitude":51.463463,
     "geom:longitude":-2.531657,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Whiteway Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286570303,
-    "wof:lastmodified":1449016936,
+    "wof:lastmodified":1466271811,
     "wof:name":"A B M Building & Roofing",
     "wof:parent_id":85790525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [-2.531657,51.463463,-2.531657,51.463463],
+  "bbox": [
+    -2.531657,
+    51.463463,
+    -2.531657,
+    51.463463
+],
   "geometry": {"coordinates":[-2.531657,51.463463],"type":"Point"}
 }

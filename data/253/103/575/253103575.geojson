@@ -2,13 +2,14 @@
   "id": 253103575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.237446,51.852146,-2.237446,51.852146",
     "geom:latitude":51.852146,
     "geom:longitude":-2.237446,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"79-81 Tredworth Rd",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253103575,
-    "wof:lastmodified":1449064663,
+    "wof:lastmodified":1466259377,
     "wof:name":"Drinks Cabin",
     "wof:parent_id":85793221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [-2.237446,51.852146,-2.237446,51.852146],
+  "bbox": [
+    -2.237446,
+    51.852146,
+    -2.237446,
+    51.852146
+],
   "geometry": {"coordinates":[-2.237446,51.852146],"type":"Point"}
 }

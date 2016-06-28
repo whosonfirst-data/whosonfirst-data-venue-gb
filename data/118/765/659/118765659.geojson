@@ -2,13 +2,14 @@
   "id": 118765659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.196356,55.952316,-3.196356,55.952316",
     "geom:latitude":55.952316,
     "geom:longitude":-3.196356,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3-5 Hanover St",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":118765659,
-    "wof:lastmodified":1449053966,
+    "wof:lastmodified":1466270205,
     "wof:name":"Capital Golf",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.196356,55.952316,-3.196356,55.952316],
+  "bbox": [
+    -3.196356,
+    55.952316,
+    -3.196356,
+    55.952316
+],
   "geometry": {"coordinates":[-3.196356,55.952316],"type":"Point"}
 }

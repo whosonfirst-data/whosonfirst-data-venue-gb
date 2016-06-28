@@ -2,13 +2,14 @@
   "id": 118913327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.426952,50.926289,-1.426952,50.926289",
     "geom:latitude":50.926289,
     "geom:longitude":-1.426952,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Colebrook Avenue",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118913327,
-    "wof:lastmodified":1449053687,
+    "wof:lastmodified":1466280119,
     "wof:name":"The Vacuum Vets",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.426952,50.926289,-1.426952,50.926289],
+  "bbox": [
+    -1.426952,
+    50.926289,
+    -1.426952,
+    50.926289
+],
   "geometry": {"coordinates":[-1.426952,50.926289],"type":"Point"}
 }

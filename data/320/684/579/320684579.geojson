@@ -2,13 +2,14 @@
   "id": 320684579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.434131,51.378288,-0.434131,51.378288",
     "geom:latitude":51.378288,
     "geom:longitude":-0.434131,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Oatlands Drive",
     "sg:city":"Weybridge",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320684579,
-    "wof:lastmodified":1449012189,
+    "wof:lastmodified":1466283670,
     "wof:name":"Registration of Births Deaths & Marriages",
     "wof:parent_id":85860717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "births"
     ]
 },
-  "bbox": [-0.434131,51.378288,-0.434131,51.378288],
+  "bbox": [
+    -0.434131,
+    51.378288,
+    -0.434131,
+    51.378288
+],
   "geometry": {"coordinates":[-0.434131,51.378288],"type":"Point"}
 }

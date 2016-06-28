@@ -2,13 +2,14 @@
   "id": 119030595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.207824,53.823879,-2.207824,53.823879",
     "geom:latitude":53.823879,
     "geom:longitude":-2.207824,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Halifax Rd",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119030595,
-    "wof:lastmodified":1449041755,
+    "wof:lastmodified":1466277361,
     "wof:name":"St Paul's Church",
     "wof:parent_id":101750587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.207824,53.823879,-2.207824,53.823879],
+  "bbox": [
+    -2.207824,
+    53.823879,
+    -2.207824,
+    53.823879
+],
   "geometry": {"coordinates":[-2.207824,53.823879],"type":"Point"}
 }

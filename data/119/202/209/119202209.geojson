@@ -2,13 +2,14 @@
   "id": 119202209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.053245,57.811359,-4.053245,57.811359",
     "geom:latitude":57.811359,
     "geom:longitude":-4.053245,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"High St",
     "sg:city":"Tain",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119202209,
-    "wof:lastmodified":1449043187,
+    "wof:lastmodified":1466269453,
     "wof:name":"Glen Morangie Distillery",
     "wof:parent_id":101873653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.053245,57.811359,-4.053245,57.811359],
+  "bbox": [
+    -4.053245,
+    57.811359,
+    -4.053245,
+    57.811359
+],
   "geometry": {"coordinates":[-4.053245,57.811359],"type":"Point"}
 }

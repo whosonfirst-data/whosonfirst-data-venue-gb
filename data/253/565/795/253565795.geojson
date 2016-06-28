@@ -2,13 +2,14 @@
   "id": 253565795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.543412,50.757923,-1.543412,50.757923",
     "geom:latitude":50.757923,
     "geom:longitude":-1.543412,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lymington House, 73 High Street",
     "sg:city":"Lymington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253565795,
-    "wof:lastmodified":1449065524,
+    "wof:lastmodified":1466269967,
     "wof:name":"English Heritage Buildings (South West)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "timber"
     ]
 },
-  "bbox": [-1.543412,50.757923,-1.543412,50.757923],
+  "bbox": [
+    -1.543412,
+    50.757923,
+    -1.543412,
+    50.757923
+],
   "geometry": {"coordinates":[-1.543412,50.757923],"type":"Point"}
 }

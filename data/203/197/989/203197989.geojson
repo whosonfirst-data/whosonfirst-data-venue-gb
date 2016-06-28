@@ -2,13 +2,14 @@
   "id": 203197989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.15915,50.38472,-4.15915,50.38472",
     "geom:latitude":50.38472,
     "geom:longitude":-4.15915,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Surgery, 21 Milehouse Rd",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":203197989,
-    "wof:lastmodified":1449026619,
+    "wof:lastmodified":1466255959,
     "wof:name":"National Health Service Executive Headqu",
     "wof:parent_id":85790761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-4.15915,50.38472,-4.15915,50.38472],
+  "bbox": [
+    -4.15915,
+    50.38472,
+    -4.15915,
+    50.38472
+],
   "geometry": {"coordinates":[-4.15915,50.38472],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102600199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.354959,52.525642,-1.354959,52.525642",
     "geom:latitude":52.525642,
     "geom:longitude":-1.354959,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Coventry Rd",
     "sg:city":"Hinckley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102600199,
-    "wof:lastmodified":1449068013,
+    "wof:lastmodified":1466277817,
     "wof:name":"Satchwell Associates",
     "wof:parent_id":85683891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.354959,52.525642,-1.354959,52.525642],
+  "bbox": [
+    -1.354959,
+    52.525642,
+    -1.354959,
+    52.525642
+],
   "geometry": {"coordinates":[-1.354959,52.525642],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286360609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.21252,55.900101,-4.21252,55.900101",
     "geom:latitude":55.900101,
     "geom:longitude":-4.21252,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 O'neill Avenue, Beech Park, Bishop Briggs",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286360609,
-    "wof:lastmodified":1449017454,
+    "wof:lastmodified":1466265244,
     "wof:name":"Leather Doctor",
     "wof:parent_id":85793309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-4.21252,55.900101,-4.21252,55.900101],
+  "bbox": [
+    -4.21252,
+    55.900101,
+    -4.21252,
+    55.900101
+],
   "geometry": {"coordinates":[-4.21252,55.900101],"type":"Point"}
 }

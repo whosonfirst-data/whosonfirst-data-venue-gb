@@ -2,13 +2,14 @@
   "id": 303043173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.066254,51.360577,1.066254,51.360577",
     "geom:latitude":51.360577,
     "geom:longitude":1.066254,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Herne Bay Road",
     "sg:city":"Whitstable",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":303043173,
-    "wof:lastmodified":1448999943,
+    "wof:lastmodified":1466263706,
     "wof:name":"R M Car Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [1.066254,51.360577,1.066254,51.360577],
+  "bbox": [
+    1.066254,
+    51.360577,
+    1.066254,
+    51.360577
+],
   "geometry": {"coordinates":[1.066254,51.360577],"type":"Point"}
 }

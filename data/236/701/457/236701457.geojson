@@ -2,13 +2,14 @@
   "id": 236701457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.578204,54.971886,-1.578204,54.971886",
     "geom:latitude":54.971886,
     "geom:longitude":-1.578204,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Raby Cross, Byker",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236701457,
-    "wof:lastmodified":1449004416,
+    "wof:lastmodified":1466269715,
     "wof:name":"Byker Advice & Information Project",
     "wof:parent_id":85786139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "counselling"
     ]
 },
-  "bbox": [-1.578204,54.971886,-1.578204,54.971886],
+  "bbox": [
+    -1.578204,
+    54.971886,
+    -1.578204,
+    54.971886
+],
   "geometry": {"coordinates":[-1.578204,54.971886],"type":"Point"}
 }

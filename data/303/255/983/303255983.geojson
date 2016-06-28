@@ -2,13 +2,14 @@
   "id": 303255983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.539118,53.798954,-1.539118,53.798954",
     "geom:latitude":53.798954,
     "geom:longitude":-1.539118,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Eastgate",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303255983,
-    "wof:lastmodified":1448999232,
+    "wof:lastmodified":1466270519,
     "wof:name":"Rent Officer Service",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-1.539118,53.798954,-1.539118,53.798954],
+  "bbox": [
+    -1.539118,
+    53.798954,
+    -1.539118,
+    53.798954
+],
   "geometry": {"coordinates":[-1.539118,53.798954],"type":"Point"}
 }

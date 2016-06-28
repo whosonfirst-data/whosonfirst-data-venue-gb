@@ -2,13 +2,14 @@
   "id": 203196241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.091221,52.681915,-1.091221,52.681915",
     "geom:latitude":52.681915,
     "geom:longitude":-1.091221,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Sandiacre Dr",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203196241,
-    "wof:lastmodified":1449025360,
+    "wof:lastmodified":1466255940,
     "wof:name":"Saddingtons",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "smokeless"
     ]
 },
-  "bbox": [-1.091221,52.681915,-1.091221,52.681915],
+  "bbox": [
+    -1.091221,
+    52.681915,
+    -1.091221,
+    52.681915
+],
   "geometry": {"coordinates":[-1.091221,52.681915],"type":"Point"}
 }

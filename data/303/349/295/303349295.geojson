@@ -2,13 +2,14 @@
   "id": 303349295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.923646,52.631779,-1.923646,52.631779",
     "geom:latitude":52.631779,
     "geom:longitude":-1.923646,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Lichfield Road, Walsall Wood",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303349295,
-    "wof:lastmodified":1448999041,
+    "wof:lastmodified":1466273306,
     "wof:name":"Jazz's Wine & Spirits",
     "wof:parent_id":85790267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.923646,52.631779,-1.923646,52.631779],
+  "bbox": [
+    -1.923646,
+    52.631779,
+    -1.923646,
+    52.631779
+],
   "geometry": {"coordinates":[-1.923646,52.631779],"type":"Point"}
 }

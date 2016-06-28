@@ -2,13 +2,14 @@
   "id": 320036545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.237353,55.966328,-3.237353,55.966328",
     "geom:latitude":55.966328,
     "geom:longitude":-3.237353,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"76-78 Telford Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320036545,
-    "wof:lastmodified":1449012092,
+    "wof:lastmodified":1466269207,
     "wof:name":"The Telford Arms",
     "wof:parent_id":85792727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.237353,55.966328,-3.237353,55.966328],
+  "bbox": [
+    -3.237353,
+    55.966328,
+    -3.237353,
+    55.966328
+],
   "geometry": {"coordinates":[-3.237353,55.966328],"type":"Point"}
 }

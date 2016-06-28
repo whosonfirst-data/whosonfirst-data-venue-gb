@@ -2,13 +2,14 @@
   "id": 319909199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.977483,55.852509,-3.977483,55.852509",
     "geom:latitude":55.852509,
     "geom:longitude":-3.977483,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Perth Avenue, Cairnhill",
     "sg:city":"Airdrie",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":319909199,
-    "wof:lastmodified":1449024678,
+    "wof:lastmodified":1466270204,
     "wof:name":"Bill Boyle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.977483,55.852509,-3.977483,55.852509],
+  "bbox": [
+    -3.977483,
+    55.852509,
+    -3.977483,
+    55.852509
+],
   "geometry": {"coordinates":[-3.977483,55.852509],"type":"Point"}
 }

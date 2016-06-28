@@ -2,13 +2,14 @@
   "id": 118500873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.561025,51.475761,-2.561025,51.475761",
     "geom:latitude":51.475761,
     "geom:longitude":-2.561025,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"634-638 Stapleton Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118500873,
-    "wof:lastmodified":1449053501,
+    "wof:lastmodified":1466262650,
     "wof:name":"Park View",
     "wof:parent_id":85787211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.561025,51.475761,-2.561025,51.475761],
+  "bbox": [
+    -2.561025,
+    51.475761,
+    -2.561025,
+    51.475761
+],
   "geometry": {"coordinates":[-2.561025,51.475761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118543367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.829355,50.751244,-1.829355,50.751244",
     "geom:latitude":50.751244,
     "geom:longitude":-1.829355,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Throop Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118543367,
-    "wof:lastmodified":1449053418,
+    "wof:lastmodified":1466253415,
     "wof:name":"Castle Dene",
     "wof:parent_id":101750305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.829355,50.751244,-1.829355,50.751244],
+  "bbox": [
+    -1.829355,
+    50.751244,
+    -1.829355,
+    50.751244
+],
   "geometry": {"coordinates":[-1.829355,50.751244],"type":"Point"}
 }

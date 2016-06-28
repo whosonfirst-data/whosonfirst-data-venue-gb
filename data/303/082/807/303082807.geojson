@@ -2,13 +2,14 @@
   "id": 303082807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.475485,51.450794,-2.475485,51.450794",
     "geom:latitude":51.450794,
     "geom:longitude":-2.475485,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Roy King Gardens",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303082807,
-    "wof:lastmodified":1448998179,
+    "wof:lastmodified":1466265038,
     "wof:name":"Cleve Archers",
     "wof:parent_id":85791351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.475485,51.450794,-2.475485,51.450794],
+  "bbox": [
+    -2.475485,
+    51.450794,
+    -2.475485,
+    51.450794
+],
   "geometry": {"coordinates":[-2.475485,51.450794],"type":"Point"}
 }

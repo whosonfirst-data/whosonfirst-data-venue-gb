@@ -2,13 +2,14 @@
   "id": 320566081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.075063,51.549957,0.075063,51.549957",
     "geom:latitude":51.549957,
     "geom:longitude":0.075063,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"279 Ilford Lane",
     "sg:city":"Ilford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320566081,
-    "wof:lastmodified":1449011334,
+    "wof:lastmodified":1466282299,
     "wof:name":"The Bakery",
     "wof:parent_id":85860293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [0.075063,51.549957,0.075063,51.549957],
+  "bbox": [
+    0.075063,
+    51.549957,
+    0.075063,
+    51.549957
+],
   "geometry": {"coordinates":[0.075063,51.549957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303164423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.135719,53.060829,-2.135719,53.060829",
     "geom:latitude":53.060829,
     "geom:longitude":-2.135719,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Green, Bagnall",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303164423,
-    "wof:lastmodified":1448998410,
+    "wof:lastmodified":1466267641,
     "wof:name":"Murphy Brown Ltd",
     "wof:parent_id":85785431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-2.135719,53.060829,-2.135719,53.060829],
+  "bbox": [
+    -2.135719,
+    53.060829,
+    -2.135719,
+    53.060829
+],
   "geometry": {"coordinates":[-2.135719,53.060829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135853023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.440469,50.714901,-2.440469,50.714901",
     "geom:latitude":50.714901,
     "geom:longitude":-2.440469,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 High West Street",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135853023,
-    "wof:lastmodified":1449022216,
+    "wof:lastmodified":1466287846,
     "wof:name":"Wessex Royale Hotel",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.440469,50.714901,-2.440469,50.714901],
+  "bbox": [
+    -2.440469,
+    50.714901,
+    -2.440469,
+    50.714901
+],
   "geometry": {"coordinates":[-2.440469,50.714901],"type":"Point"}
 }

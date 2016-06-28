@@ -2,13 +2,14 @@
   "id": 303528487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.050101,51.421291,0.050101,51.421291",
     "geom:latitude":51.421291,
     "geom:longitude":0.050101,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Hallam Close",
     "sg:city":"Chislehurst",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303528487,
-    "wof:lastmodified":1448998768,
+    "wof:lastmodified":1466278661,
     "wof:name":"Whiteline Transport",
     "wof:parent_id":85860033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "removal"
     ]
 },
-  "bbox": [0.050101,51.421291,0.050101,51.421291],
+  "bbox": [
+    0.050101,
+    51.421291,
+    0.050101,
+    51.421291
+],
   "geometry": {"coordinates":[0.050101,51.421291],"type":"Point"}
 }

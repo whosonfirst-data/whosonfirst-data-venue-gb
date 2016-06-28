@@ -2,13 +2,14 @@
   "id": 320757969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.588475,51.474945,-2.588475,51.474945",
     "geom:latitude":51.474945,
     "geom:longitude":-2.588475,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Sommerville Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320757969,
-    "wof:lastmodified":1449013367,
+    "wof:lastmodified":1466284442,
     "wof:name":"Rainbow Nursery",
     "wof:parent_id":85785365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "creche"
     ]
 },
-  "bbox": [-2.588475,51.474945,-2.588475,51.474945],
+  "bbox": [
+    -2.588475,
+    51.474945,
+    -2.588475,
+    51.474945
+],
   "geometry": {"coordinates":[-2.588475,51.474945],"type":"Point"}
 }

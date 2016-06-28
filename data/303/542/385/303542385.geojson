@@ -2,13 +2,14 @@
   "id": 303542385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.142349,50.372379,-4.142349,50.372379",
     "geom:latitude":50.372379,
     "geom:longitude":-4.142349,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"152-154 Armada Way",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303542385,
-    "wof:lastmodified":1449000019,
+    "wof:lastmodified":1466278925,
     "wof:name":"The Contact Lens Centre",
     "wof:parent_id":85789105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "optician"
     ]
 },
-  "bbox": [-4.142349,50.372379,-4.142349,50.372379],
+  "bbox": [
+    -4.142349,
+    50.372379,
+    -4.142349,
+    50.372379
+],
   "geometry": {"coordinates":[-4.142349,50.372379],"type":"Point"}
 }

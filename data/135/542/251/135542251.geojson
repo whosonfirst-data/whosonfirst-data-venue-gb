@@ -2,13 +2,14 @@
   "id": 135542251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.291632,53.06118,-1.291632,53.06118",
     "geom:latitude":53.06118,
     "geom:longitude":-1.291632,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Middlebrook Road, Underwood",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135542251,
-    "wof:lastmodified":1449023353,
+    "wof:lastmodified":1466279126,
     "wof:name":"Middlebrook Garage",
     "wof:parent_id":85683849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.291632,53.06118,-1.291632,53.06118],
+  "bbox": [
+    -1.291632,
+    53.06118,
+    -1.291632,
+    53.06118
+],
   "geometry": {"coordinates":[-1.291632,53.06118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286551951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.635296,53.488983,-2.635296,53.488983",
     "geom:latitude":53.488983,
     "geom:longitude":-2.635296,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Bolton Road, Ashton-in-makerfieldbolton",
     "sg:city":"Wigan",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286551951,
-    "wof:lastmodified":1449015752,
+    "wof:lastmodified":1466271176,
     "wof:name":"Ashton Electric",
     "wof:parent_id":85789571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-2.635296,53.488983,-2.635296,53.488983],
+  "bbox": [
+    -2.635296,
+    53.488983,
+    -2.635296,
+    53.488983
+],
   "geometry": {"coordinates":[-2.635296,53.488983],"type":"Point"}
 }

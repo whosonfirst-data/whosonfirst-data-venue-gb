@@ -2,13 +2,14 @@
   "id": 269579001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.885101,52.45871,-1.885101,52.45871",
     "geom:latitude":52.45871,
     "geom:longitude":-1.885101,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Moseley Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":269579001,
-    "wof:lastmodified":1449036911,
+    "wof:lastmodified":1466262943,
     "wof:name":"St Pauls House",
     "wof:parent_id":85790495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.885101,52.45871,-1.885101,52.45871],
+  "bbox": [
+    -1.885101,
+    52.45871,
+    -1.885101,
+    52.45871
+],
   "geometry": {"coordinates":[-1.885101,52.45871],"type":"Point"}
 }

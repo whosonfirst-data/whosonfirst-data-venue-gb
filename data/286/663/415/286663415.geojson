@@ -2,13 +2,14 @@
   "id": 286663415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.245555,55.868423,-4.245555,55.868423",
     "geom:latitude":55.868423,
     "geom:longitude":-4.245555,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Kyle Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286663415,
-    "wof:lastmodified":1449017347,
+    "wof:lastmodified":1466274767,
     "wof:name":"Lomond Motors Ltd.",
     "wof:parent_id":85792639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-4.245555,55.868423,-4.245555,55.868423],
+  "bbox": [
+    -4.245555,
+    55.868423,
+    -4.245555,
+    55.868423
+],
   "geometry": {"coordinates":[-4.245555,55.868423],"type":"Point"}
 }

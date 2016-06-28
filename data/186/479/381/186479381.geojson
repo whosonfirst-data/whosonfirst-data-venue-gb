@@ -2,13 +2,14 @@
   "id": 186479381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.512689,53.812321,-1.512689,53.812321",
     "geom:latitude":53.812321,
     "geom:longitude":-1.512689,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"210-214 Harehills Lane",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186479381,
-    "wof:lastmodified":1449052206,
+    "wof:lastmodified":1466258915,
     "wof:name":"Jane E Moore",
     "wof:parent_id":85861569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.512689,53.812321,-1.512689,53.812321],
+  "bbox": [
+    -1.512689,
+    53.812321,
+    -1.512689,
+    53.812321
+],
   "geometry": {"coordinates":[-1.512689,53.812321],"type":"Point"}
 }

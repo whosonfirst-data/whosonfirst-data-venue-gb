@@ -2,13 +2,14 @@
   "id": 135642661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.677609,55.739231,-4.677609,55.739231",
     "geom:latitude":55.739231,
     "geom:longitude":-4.677609,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Main Street, Glengarnock",
     "sg:city":"Beith",
     "sg:classifiers":[
@@ -37,14 +38,20 @@
     "wof:geomhash":"7f011fc88970211b227ea83885d0d4a6",
     "wof:hierarchy":[],
     "wof:id":135642661,
-    "wof:lastmodified":1449021169,
+    "wof:lastmodified":1466284302,
     "wof:name":"Neil Engineering",
     "wof:parent_id":85684391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.677609,55.739231,-4.677609,55.739231],
+  "bbox": [
+    -4.677609,
+    55.739231,
+    -4.677609,
+    55.739231
+],
   "geometry": {"coordinates":[-4.677609,55.739231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135514963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.73847,50.34359,-4.73847,50.34359",
     "geom:latitude":50.34359,
     "geom:longitude":-4.73847,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Austell Bay Business Park, Par Moor",
     "sg:city":"St Austell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135514963,
-    "wof:lastmodified":1449022532,
+    "wof:lastmodified":1466276265,
     "wof:name":"Cornwall Traffic Services",
     "wof:parent_id":85684547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.73847,50.34359,-4.73847,50.34359],
+  "bbox": [
+    -4.73847,
+    50.34359,
+    -4.73847,
+    50.34359
+],
   "geometry": {"coordinates":[-4.73847,50.34359],"type":"Point"}
 }

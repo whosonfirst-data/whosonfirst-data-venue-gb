@@ -2,13 +2,14 @@
   "id": 303174753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.505209,55.611923,-4.505209,55.611923",
     "geom:latitude":55.611923,
     "geom:longitude":-4.505209,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Bonnyton Road",
     "sg:city":"Kilmarnock",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303174753,
-    "wof:lastmodified":1448998450,
+    "wof:lastmodified":1466267961,
     "wof:name":"Memory Lane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "inn"
     ]
 },
-  "bbox": [-4.505209,55.611923,-4.505209,55.611923],
+  "bbox": [
+    -4.505209,
+    55.611923,
+    -4.505209,
+    55.611923
+],
   "geometry": {"coordinates":[-4.505209,55.611923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287233537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.049967,53.812126,-3.049967,53.812126",
     "geom:latitude":53.812126,
     "geom:longitude":-3.049967,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Revoe Post Office, 43 Central Drive",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":287233537,
-    "wof:lastmodified":1449001601,
+    "wof:lastmodified":1466270256,
     "wof:name":"Revoe Post Office",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.049967,53.812126,-3.049967,53.812126],
+  "bbox": [
+    -3.049967,
+    53.812126,
+    -3.049967,
+    53.812126
+],
   "geometry": {"coordinates":[-3.049967,53.812126],"type":"Point"}
 }

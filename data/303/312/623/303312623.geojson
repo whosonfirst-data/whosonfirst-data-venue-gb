@@ -2,13 +2,14 @@
   "id": 303312623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.769926,55.953754,-4.769926,55.953754",
     "geom:latitude":55.953754,
     "geom:longitude":-4.769926,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Union Street",
     "sg:city":"Greenock",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303312623,
-    "wof:lastmodified":1448999354,
+    "wof:lastmodified":1466272219,
     "wof:name":"The Parr Partnership",
     "wof:parent_id":85791237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.769926,55.953754,-4.769926,55.953754],
+  "bbox": [
+    -4.769926,
+    55.953754,
+    -4.769926,
+    55.953754
+],
   "geometry": {"coordinates":[-4.769926,55.953754],"type":"Point"}
 }

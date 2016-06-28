@@ -2,13 +2,14 @@
   "id": 219265505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.594249,52.198154,-1.594249,52.198154",
     "geom:latitude":52.198154,
     "geom:longitude":-1.594249,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43a Warwick Road, Wellesbourne",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219265505,
-    "wof:lastmodified":1449071603,
+    "wof:lastmodified":1466254648,
     "wof:name":"Wellesbourne Car Bodies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "car"
     ]
 },
-  "bbox": [-1.594249,52.198154,-1.594249,52.198154],
+  "bbox": [
+    -1.594249,
+    52.198154,
+    -1.594249,
+    52.198154
+],
   "geometry": {"coordinates":[-1.594249,52.198154],"type":"Point"}
 }

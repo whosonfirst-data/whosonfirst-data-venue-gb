@@ -2,13 +2,14 @@
   "id": 203211109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.40182,50.929871,-1.40182,50.929871",
     "geom:latitude":50.929871,
     "geom:longitude":-1.40182,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Halls Of Residence, Highfield Hall",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203211109,
-    "wof:lastmodified":1449025384,
+    "wof:lastmodified":1466256199,
     "wof:name":"Halls of Residence",
     "wof:parent_id":85792807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "school"
     ]
 },
-  "bbox": [-1.40182,50.929871,-1.40182,50.929871],
+  "bbox": [
+    -1.40182,
+    50.929871,
+    -1.40182,
+    50.929871
+],
   "geometry": {"coordinates":[-1.40182,50.929871],"type":"Point"}
 }

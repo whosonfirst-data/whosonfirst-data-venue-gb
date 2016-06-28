@@ -2,13 +2,14 @@
   "id": 135458537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.41011,53.414848,-1.41011,53.414848",
     "geom:latitude":53.414848,
     "geom:longitude":-1.41011,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Park Lane, Meadowhall Shopping Centre",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135458537,
-    "wof:lastmodified":1449023149,
+    "wof:lastmodified":1466269707,
     "wof:name":"House of Fraser",
     "wof:parent_id":85791057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.41011,53.414848,-1.41011,53.414848],
+  "bbox": [
+    -1.41011,
+    53.414848,
+    -1.41011,
+    53.414848
+],
   "geometry": {"coordinates":[-1.41011,53.414848],"type":"Point"}
 }

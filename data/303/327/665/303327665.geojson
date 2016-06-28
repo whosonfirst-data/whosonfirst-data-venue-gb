@@ -2,13 +2,14 @@
   "id": 303327665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.783184,51.558464,-1.783184,51.558464",
     "geom:latitude":51.558464,
     "geom:longitude":-1.783184,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Commercial Rd",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303327665,
-    "wof:lastmodified":1448998304,
+    "wof:lastmodified":1466272684,
     "wof:name":"Darlows",
     "wof:parent_id":85791513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.783184,51.558464,-1.783184,51.558464],
+  "bbox": [
+    -1.783184,
+    51.558464,
+    -1.783184,
+    51.558464
+],
   "geometry": {"coordinates":[-1.783184,51.558464],"type":"Point"}
 }

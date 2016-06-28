@@ -2,13 +2,14 @@
   "id": 303820519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.124918,52.926983,-1.124918,52.926983",
     "geom:latitude":52.926983,
     "geom:longitude":-1.124918,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Exchange Road, West Bridgford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303820519,
-    "wof:lastmodified":1448999385,
+    "wof:lastmodified":1466283251,
     "wof:name":"Freemans",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "time"
     ]
 },
-  "bbox": [-1.124918,52.926983,-1.124918,52.926983],
+  "bbox": [
+    -1.124918,
+    52.926983,
+    -1.124918,
+    52.926983
+],
   "geometry": {"coordinates":[-1.124918,52.926983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119391017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.476126,53.690163,-1.476126,53.690163",
     "geom:latitude":53.690163,
     "geom:longitude":-1.476126,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Windhill Road, Eastmoor",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119391017,
-    "wof:lastmodified":1449042588,
+    "wof:lastmodified":1466284665,
     "wof:name":"Windhill Road Post Office",
     "wof:parent_id":85787197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.476126,53.690163,-1.476126,53.690163],
+  "bbox": [
+    -1.476126,
+    53.690163,
+    -1.476126,
+    53.690163
+],
   "geometry": {"coordinates":[-1.476126,53.690163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320045649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.12748,53.95533,-1.12748,53.95533",
     "geom:latitude":53.95533,
     "geom:longitude":-1.12748,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Front Street, Acomb",
     "sg:city":"York",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320045649,
-    "wof:lastmodified":1449014526,
+    "wof:lastmodified":1466269450,
     "wof:name":"Vyner House",
     "wof:parent_id":85785215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-1.12748,53.95533,-1.12748,53.95533],
+  "bbox": [
+    -1.12748,
+    53.95533,
+    -1.12748,
+    53.95533
+],
   "geometry": {"coordinates":[-1.12748,53.95533],"type":"Point"}
 }

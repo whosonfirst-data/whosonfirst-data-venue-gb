@@ -2,13 +2,14 @@
   "id": 203120151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.292299,55.924416,-3.292299,55.924416",
     "geom:latitude":55.924416,
     "geom:longitude":-3.292299,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Bankhead Drive",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":203120151,
-    "wof:lastmodified":1449026583,
+    "wof:lastmodified":1466254670,
     "wof:name":"Express Factors Ltd",
     "wof:parent_id":85790347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "component"
     ]
 },
-  "bbox": [-3.292299,55.924416,-3.292299,55.924416],
+  "bbox": [
+    -3.292299,
+    55.924416,
+    -3.292299,
+    55.924416
+],
   "geometry": {"coordinates":[-3.292299,55.924416],"type":"Point"}
 }

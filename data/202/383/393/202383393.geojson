@@ -2,13 +2,14 @@
   "id": 202383393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.481344,53.703094,-2.481344,53.703094",
     "geom:latitude":53.703094,
     "geom:longitude":-2.481344,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Salisbury Road",
     "sg:city":"Darwen",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202383393,
-    "wof:lastmodified":1449061183,
+    "wof:lastmodified":1466276501,
     "wof:name":"Greenways",
     "wof:parent_id":85786531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-2.481344,53.703094,-2.481344,53.703094],
+  "bbox": [
+    -2.481344,
+    53.703094,
+    -2.481344,
+    53.703094
+],
   "geometry": {"coordinates":[-2.481344,53.703094],"type":"Point"}
 }

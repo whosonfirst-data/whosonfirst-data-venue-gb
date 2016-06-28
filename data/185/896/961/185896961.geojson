@@ -2,13 +2,14 @@
   "id": 185896961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.947173,51.708179,-4.947173,51.708179",
     "geom:latitude":51.708179,
     "geom:longitude":-4.947173,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 High Street, Neyland",
     "sg:city":"Milford Haven",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185896961,
-    "wof:lastmodified":1449007186,
+    "wof:lastmodified":1466255856,
     "wof:name":"Neyland Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "bookmaker"
     ]
 },
-  "bbox": [-4.947173,51.708179,-4.947173,51.708179],
+  "bbox": [
+    -4.947173,
+    51.708179,
+    -4.947173,
+    51.708179
+],
   "geometry": {"coordinates":[-4.947173,51.708179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303881387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.139359,50.379181,-4.139359,50.379181",
     "geom:latitude":50.379181,
     "geom:longitude":-4.139359,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Sutherland Road",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303881387,
-    "wof:lastmodified":1448999542,
+    "wof:lastmodified":1466284189,
     "wof:name":"Coastal Research",
     "wof:parent_id":85789105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "research"
     ]
 },
-  "bbox": [-4.139359,50.379181,-4.139359,50.379181],
+  "bbox": [
+    -4.139359,
+    50.379181,
+    -4.139359,
+    50.379181
+],
   "geometry": {"coordinates":[-4.139359,50.379181],"type":"Point"}
 }

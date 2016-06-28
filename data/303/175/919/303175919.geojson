@@ -2,13 +2,14 @@
   "id": 303175919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.432525,53.600521,-2.432525,53.600521",
     "geom:latitude":53.600521,
     "geom:longitude":-2.432525,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Blackburn Road",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303175919,
-    "wof:lastmodified":1448999811,
+    "wof:lastmodified":1466267990,
     "wof:name":"Thomas Coop",
     "wof:parent_id":85792981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "merchant"
     ]
 },
-  "bbox": [-2.432525,53.600521,-2.432525,53.600521],
+  "bbox": [
+    -2.432525,
+    53.600521,
+    -2.432525,
+    53.600521
+],
   "geometry": {"coordinates":[-2.432525,53.600521],"type":"Point"}
 }

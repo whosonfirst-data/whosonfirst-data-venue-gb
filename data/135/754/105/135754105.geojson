@@ -2,13 +2,14 @@
   "id": 135754105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.299232,55.962181,-3.299232,55.962181",
     "geom:latitude":55.962181,
     "geom:longitude":-3.299232,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Barnton Park View",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135754105,
-    "wof:lastmodified":1449022982,
+    "wof:lastmodified":1466286770,
     "wof:name":"Andrew Landles",
     "wof:parent_id":85861469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.299232,55.962181,-3.299232,55.962181],
+  "bbox": [
+    -3.299232,
+    55.962181,
+    -3.299232,
+    55.962181
+],
   "geometry": {"coordinates":[-3.299232,55.962181],"type":"Point"}
 }

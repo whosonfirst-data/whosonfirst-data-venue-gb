@@ -2,13 +2,14 @@
   "id": 135343833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.25688,55.85387,-4.25688,55.85387",
     "geom:latitude":55.85387,
     "geom:longitude":-4.25688,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Stables, 21 Carlton Court",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135343833,
-    "wof:lastmodified":1449023144,
+    "wof:lastmodified":1466256519,
     "wof:name":"Amanda Rosa Interiors",
     "wof:parent_id":85792597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.25688,55.85387,-4.25688,55.85387],
+  "bbox": [
+    -4.25688,
+    55.85387,
+    -4.25688,
+    55.85387
+],
   "geometry": {"coordinates":[-4.25688,55.85387],"type":"Point"}
 }

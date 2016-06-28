@@ -2,13 +2,14 @@
   "id": 303109235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.188662,53.369099,-2.188662,53.369099",
     "geom:latitude":53.369099,
     "geom:longitude":-2.188662,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Dennison Road, Cheadle Hulme",
     "sg:city":"Cheadle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303109235,
-    "wof:lastmodified":1448998964,
+    "wof:lastmodified":1466265921,
     "wof:name":"Gordon Coull Associates",
     "wof:parent_id":85786499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "quantity"
     ]
 },
-  "bbox": [-2.188662,53.369099,-2.188662,53.369099],
+  "bbox": [
+    -2.188662,
+    53.369099,
+    -2.188662,
+    53.369099
+],
   "geometry": {"coordinates":[-2.188662,53.369099],"type":"Point"}
 }

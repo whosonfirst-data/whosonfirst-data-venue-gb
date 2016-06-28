@@ -2,13 +2,14 @@
   "id": 303431217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.10738,52.655079,-1.10738,52.655079",
     "geom:latitude":52.655079,
     "geom:longitude":-1.10738,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, Rear Of 74 Gipsy Lane",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303431217,
-    "wof:lastmodified":1448998449,
+    "wof:lastmodified":1466275819,
     "wof:name":"G K Services",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-1.10738,52.655079,-1.10738,52.655079],
+  "bbox": [
+    -1.10738,
+    52.655079,
+    -1.10738,
+    52.655079
+],
   "geometry": {"coordinates":[-1.10738,52.655079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119373971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.345132,55.918552,-4.345132,55.918552",
     "geom:latitude":55.918552,
     "geom:longitude":-4.345132,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Chesters Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119373971,
-    "wof:lastmodified":1449042212,
+    "wof:lastmodified":1466283874,
     "wof:name":"Scotus College",
     "wof:parent_id":85785547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.345132,55.918552,-4.345132,55.918552],
+  "bbox": [
+    -4.345132,
+    55.918552,
+    -4.345132,
+    55.918552
+],
   "geometry": {"coordinates":[-4.345132,55.918552],"type":"Point"}
 }

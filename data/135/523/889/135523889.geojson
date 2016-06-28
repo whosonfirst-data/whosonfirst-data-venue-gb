@@ -2,13 +2,14 @@
   "id": 135523889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.785013,51.076202,-1.785013,51.076202",
     "geom:latitude":51.076202,
     "geom:longitude":-1.785013,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"103 London Road",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135523889,
-    "wof:lastmodified":1449022747,
+    "wof:lastmodified":1466277301,
     "wof:name":"Salisbury Tree Surgeons",
     "wof:parent_id":85683939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.785013,51.076202,-1.785013,51.076202],
+  "bbox": [
+    -1.785013,
+    51.076202,
+    -1.785013,
+    51.076202
+],
   "geometry": {"coordinates":[-1.785013,51.076202],"type":"Point"}
 }

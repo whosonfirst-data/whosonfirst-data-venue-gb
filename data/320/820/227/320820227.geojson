@@ -2,13 +2,14 @@
   "id": 320820227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.771753,52.008751,-0.771753,52.008751",
     "geom:latitude":52.008751,
     "geom:longitude":-0.771753,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Dulverton Drive, Furzton",
     "sg:city":"Milton Keynes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320820227,
-    "wof:lastmodified":1449013188,
+    "wof:lastmodified":1466284929,
     "wof:name":"Barringtons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-0.771753,52.008751,-0.771753,52.008751],
+  "bbox": [
+    -0.771753,
+    52.008751,
+    -0.771753,
+    52.008751
+],
   "geometry": {"coordinates":[-0.771753,52.008751],"type":"Point"}
 }

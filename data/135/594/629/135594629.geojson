@@ -2,13 +2,14 @@
   "id": 135594629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.998,56.6758,-2.998,56.6758",
     "geom:latitude":56.6758,
     "geom:longitude":-2.998,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Brechin Road",
     "sg:city":"Kirriemuir",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135594629,
-    "wof:lastmodified":1449021422,
+    "wof:lastmodified":1466282334,
     "wof:name":"Kirriemuir Bowling Club",
     "wof:parent_id":101873581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.998,56.6758,-2.998,56.6758],
+  "bbox": [
+    -2.998,
+    56.6758,
+    -2.998,
+    56.6758
+],
   "geometry": {"coordinates":[-2.998,56.6758],"type":"Point"}
 }

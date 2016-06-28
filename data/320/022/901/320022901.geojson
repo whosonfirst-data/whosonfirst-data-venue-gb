@@ -2,13 +2,14 @@
   "id": 320022901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.90225,53.747772,-2.90225,53.747772",
     "geom:latitude":53.747772,
     "geom:longitude":-2.90225,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Lytham Rd, Warton",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320022901,
-    "wof:lastmodified":1449012507,
+    "wof:lastmodified":1466268824,
     "wof:name":"Mona Lisa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "radio"
     ]
 },
-  "bbox": [-2.90225,53.747772,-2.90225,53.747772],
+  "bbox": [
+    -2.90225,
+    53.747772,
+    -2.90225,
+    53.747772
+],
   "geometry": {"coordinates":[-2.90225,53.747772],"type":"Point"}
 }

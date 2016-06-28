@@ -2,13 +2,14 @@
   "id": 269540529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.499361,52.888096,-1.499361,52.888096",
     "geom:latitude":52.888096,
     "geom:longitude":-1.499361,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"273 Blagreaves Lane, Littleover",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269540529,
-    "wof:lastmodified":1449037101,
+    "wof:lastmodified":1466261689,
     "wof:name":"Lane End News",
     "wof:parent_id":85790837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.499361,52.888096,-1.499361,52.888096],
+  "bbox": [
+    -1.499361,
+    52.888096,
+    -1.499361,
+    52.888096
+],
   "geometry": {"coordinates":[-1.499361,52.888096],"type":"Point"}
 }

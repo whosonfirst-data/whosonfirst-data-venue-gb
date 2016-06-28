@@ -2,13 +2,14 @@
   "id": 236830335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.50516,50.713501,-3.50516,50.713501",
     "geom:latitude":50.713501,
     "geom:longitude":-3.50516,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Exeter Officer Training Cntr, Wyvern Barracks, Dryden Road",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236830335,
-    "wof:lastmodified":1449002204,
+    "wof:lastmodified":1466272266,
     "wof:name":"Army",
     "wof:parent_id":85790623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "centre"
     ]
 },
-  "bbox": [-3.50516,50.713501,-3.50516,50.713501],
+  "bbox": [
+    -3.50516,
+    50.713501,
+    -3.50516,
+    50.713501
+],
   "geometry": {"coordinates":[-3.50516,50.713501],"type":"Point"}
 }

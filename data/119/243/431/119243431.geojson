@@ -2,13 +2,14 @@
   "id": 119243431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.611506,51.482845,-2.611506,51.482845",
     "geom:latitude":51.482845,
     "geom:longitude":-2.611506,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Brean Down Avenue",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119243431,
-    "wof:lastmodified":1449041645,
+    "wof:lastmodified":1466274029,
     "wof:name":"B T Davis",
     "wof:parent_id":85790033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.611506,51.482845,-2.611506,51.482845],
+  "bbox": [
+    -2.611506,
+    51.482845,
+    -2.611506,
+    51.482845
+],
   "geometry": {"coordinates":[-2.611506,51.482845],"type":"Point"}
 }

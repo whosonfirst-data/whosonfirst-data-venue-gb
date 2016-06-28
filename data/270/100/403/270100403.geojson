@@ -2,13 +2,14 @@
   "id": 270100403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.138816,55.959026,-3.138816,55.959026",
     "geom:latitude":55.959026,
     "geom:longitude":-3.138816,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Britwell Crescent",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270100403,
-    "wof:lastmodified":1449010457,
+    "wof:lastmodified":1466263521,
     "wof:name":"Hamish Dougan Joinery",
     "wof:parent_id":85790037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-3.138816,55.959026,-3.138816,55.959026],
+  "bbox": [
+    -3.138816,
+    55.959026,
+    -3.138816,
+    55.959026
+],
   "geometry": {"coordinates":[-3.138816,55.959026],"type":"Point"}
 }

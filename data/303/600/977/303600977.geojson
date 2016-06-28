@@ -2,13 +2,14 @@
   "id": 303600977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.001179,55.77124,-2.001179,55.77124",
     "geom:latitude":55.77124,
     "geom:longitude":-2.001179,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Parade",
     "sg:city":"Berwick-upon-tweed",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303600977,
-    "wof:lastmodified":1448998344,
+    "wof:lastmodified":1466279848,
     "wof:name":"Parade Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "guest"
     ]
 },
-  "bbox": [-2.001179,55.77124,-2.001179,55.77124],
+  "bbox": [
+    -2.001179,
+    55.77124,
+    -2.001179,
+    55.77124
+],
   "geometry": {"coordinates":[-2.001179,55.77124],"type":"Point"}
 }

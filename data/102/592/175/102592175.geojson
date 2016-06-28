@@ -2,13 +2,14 @@
   "id": 102592175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.051797,50.387615,-4.051797,50.387615",
     "geom:latitude":50.387615,
     "geom:longitude":-4.051797,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"68-70 Ridgeway Rd, Plympton",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102592175,
-    "wof:lastmodified":1449069133,
+    "wof:lastmodified":1466277159,
     "wof:name":"Victoria Wine Company",
     "wof:parent_id":85789861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.051797,50.387615,-4.051797,50.387615],
+  "bbox": [
+    -4.051797,
+    50.387615,
+    -4.051797,
+    50.387615
+],
   "geometry": {"coordinates":[-4.051797,50.387615],"type":"Point"}
 }

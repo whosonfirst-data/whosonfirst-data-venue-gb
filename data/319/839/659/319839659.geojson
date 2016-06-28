@@ -2,13 +2,14 @@
   "id": 319839659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.328794,50.863125,-1.328794,50.863125",
     "geom:latitude":50.863125,
     "geom:longitude":-1.328794,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"C/o Hamble Yatch Services, Port Hamble, Satchell Lane",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":319839659,
-    "wof:lastmodified":1449024565,
+    "wof:lastmodified":1466268195,
     "wof:name":"David W Hopkins",
     "wof:parent_id":85861951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "yacht"
     ]
 },
-  "bbox": [-1.328794,50.863125,-1.328794,50.863125],
+  "bbox": [
+    -1.328794,
+    50.863125,
+    -1.328794,
+    50.863125
+],
   "geometry": {"coordinates":[-1.328794,50.863125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320082585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.118579,51.46516,-2.118579,51.46516",
     "geom:latitude":51.46516,
     "geom:longitude":-2.118579,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Po Box 74",
     "sg:city":"Chippenham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320082585,
-    "wof:lastmodified":1449011353,
+    "wof:lastmodified":1466270630,
     "wof:name":"Westinghouse Brakes Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "railway"
     ]
 },
-  "bbox": [-2.118579,51.46516,-2.118579,51.46516],
+  "bbox": [
+    -2.118579,
+    51.46516,
+    -2.118579,
+    51.46516
+],
   "geometry": {"coordinates":[-2.118579,51.46516],"type":"Point"}
 }

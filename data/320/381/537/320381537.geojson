@@ -2,13 +2,14 @@
   "id": 320381537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.11584,57.150921,-2.11584,57.150921",
     "geom:latitude":57.150921,
     "geom:longitude":-2.11584,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosemount Medical Group, 1 View Terr",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320381537,
-    "wof:lastmodified":1449011552,
+    "wof:lastmodified":1466279069,
     "wof:name":"Wilson, S J",
     "wof:parent_id":85791947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-2.11584,57.150921,-2.11584,57.150921],
+  "bbox": [
+    -2.11584,
+    57.150921,
+    -2.11584,
+    57.150921
+],
   "geometry": {"coordinates":[-2.11584,57.150921],"type":"Point"}
 }

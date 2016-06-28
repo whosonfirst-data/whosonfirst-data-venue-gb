@@ -2,13 +2,14 @@
   "id": 320456289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.439619,53.235535,-1.439619,53.235535",
     "geom:latitude":53.235535,
     "geom:longitude":-1.439619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35a Chatsworth Road",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320456289,
-    "wof:lastmodified":1449012373,
+    "wof:lastmodified":1466280587,
     "wof:name":"Salon 35",
     "wof:parent_id":85861099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.439619,53.235535,-1.439619,53.235535],
+  "bbox": [
+    -1.439619,
+    53.235535,
+    -1.439619,
+    53.235535
+],
   "geometry": {"coordinates":[-1.439619,53.235535],"type":"Point"}
 }

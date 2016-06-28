@@ -2,13 +2,14 @@
   "id": 102575721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.465389,53.231384,-1.465389,53.231384",
     "geom:latitude":53.231384,
     "geom:longitude":-1.465389,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Chatsworth Avenue",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102575721,
-    "wof:lastmodified":1449068481,
+    "wof:lastmodified":1466267243,
     "wof:name":"A F Tuning",
     "wof:parent_id":85861103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.465389,53.231384,-1.465389,53.231384],
+  "bbox": [
+    -1.465389,
+    53.231384,
+    -1.465389,
+    53.231384
+],
   "geometry": {"coordinates":[-1.465389,53.231384],"type":"Point"}
 }

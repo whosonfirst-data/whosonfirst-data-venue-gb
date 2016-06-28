@@ -2,13 +2,14 @@
   "id": 320269551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.239107,53.478767,-2.239107,53.478767",
     "geom:latitude":53.478767,
     "geom:longitude":-2.239107,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Faulkner Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320269551,
-    "wof:lastmodified":1449013598,
+    "wof:lastmodified":1466276142,
     "wof:name":"Melias",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-2.239107,53.478767,-2.239107,53.478767],
+  "bbox": [
+    -2.239107,
+    53.478767,
+    -2.239107,
+    53.478767
+],
   "geometry": {"coordinates":[-2.239107,53.478767],"type":"Point"}
 }

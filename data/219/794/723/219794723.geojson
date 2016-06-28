@@ -2,13 +2,14 @@
   "id": 219794723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.156123,50.856209,-2.156123,50.856209",
     "geom:latitude":50.856209,
     "geom:longitude":-2.156123,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Windmill Rd",
     "sg:city":"Blandford Forum",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219794723,
-    "wof:lastmodified":1449072086,
+    "wof:lastmodified":1466263578,
     "wof:name":"B.C.Taxis",
     "wof:parent_id":85791379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-2.156123,50.856209,-2.156123,50.856209],
+  "bbox": [
+    -2.156123,
+    50.856209,
+    -2.156123,
+    50.856209
+],
   "geometry": {"coordinates":[-2.156123,50.856209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320686259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.949211,56.155373,-3.949211,56.155373",
     "geom:latitude":56.155373,
     "geom:longitude":-3.949211,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Henderson Street",
     "sg:city":"Stirling",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320686259,
-    "wof:lastmodified":1449014057,
+    "wof:lastmodified":1466283840,
     "wof:name":"Rickshaw Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-3.949211,56.155373,-3.949211,56.155373],
+  "bbox": [
+    -3.949211,
+    56.155373,
+    -3.949211,
+    56.155373
+],
   "geometry": {"coordinates":[-3.949211,56.155373],"type":"Point"}
 }

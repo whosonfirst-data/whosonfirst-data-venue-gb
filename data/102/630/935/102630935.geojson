@@ -2,13 +2,14 @@
   "id": 102630935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.129199,51.601059,-1.129199,51.601059",
     "geom:latitude":51.601059,
     "geom:longitude":-1.129199,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"High Street",
     "sg:city":"Wallingford",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102630935,
-    "wof:lastmodified":1449068648,
+    "wof:lastmodified":1466253614,
     "wof:name":"Mill House",
     "wof:parent_id":85683867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.129199,51.601059,-1.129199,51.601059],
+  "bbox": [
+    -1.129199,
+    51.601059,
+    -1.129199,
+    51.601059
+],
   "geometry": {"coordinates":[-1.129199,51.601059],"type":"Point"}
 }

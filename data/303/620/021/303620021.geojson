@@ -2,13 +2,14 @@
   "id": 303620021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.71503,50.285347,-3.71503,50.285347",
     "geom:latitude":50.285347,
     "geom:longitude":-3.71503,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Fursdon Hill Farm, Sherford",
     "sg:city":"Kingsbridge",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":303620021,
-    "wof:lastmodified":1449000355,
+    "wof:lastmodified":1466280548,
     "wof:name":"Fursdon Hill Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "consultant"
     ]
 },
-  "bbox": [-3.71503,50.285347,-3.71503,50.285347],
+  "bbox": [
+    -3.71503,
+    50.285347,
+    -3.71503,
+    50.285347
+],
   "geometry": {"coordinates":[-3.71503,50.285347],"type":"Point"}
 }

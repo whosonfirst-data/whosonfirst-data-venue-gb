@@ -2,13 +2,14 @@
   "id": 186526775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.336409,54.838581,-1.336409,54.838581",
     "geom:latitude":54.838581,
     "geom:longitude":-1.336409,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Vane Terrace",
     "sg:city":"Seaham",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186526775,
-    "wof:lastmodified":1449051197,
+    "wof:lastmodified":1466259727,
     "wof:name":"Carlton Taxis",
     "wof:parent_id":85788719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "cab"
     ]
 },
-  "bbox": [-1.336409,54.838581,-1.336409,54.838581],
+  "bbox": [
+    -1.336409,
+    54.838581,
+    -1.336409,
+    54.838581
+],
   "geometry": {"coordinates":[-1.336409,54.838581],"type":"Point"}
 }

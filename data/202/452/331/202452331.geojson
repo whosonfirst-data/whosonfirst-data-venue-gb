@@ -2,13 +2,14 @@
   "id": 202452331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.836539,51.554539,-1.836539,51.554539",
     "geom:latitude":51.554539,
     "geom:longitude":-1.836539,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Prince Rupert Court, Gainsborough Way, Freshbrook",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202452331,
-    "wof:lastmodified":1449060703,
+    "wof:lastmodified":1466253401,
     "wof:name":"The Guinness Trust",
     "wof:parent_id":85787521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trust"
     ]
 },
-  "bbox": [-1.836539,51.554539,-1.836539,51.554539],
+  "bbox": [
+    -1.836539,
+    51.554539,
+    -1.836539,
+    51.554539
+],
   "geometry": {"coordinates":[-1.836539,51.554539],"type":"Point"}
 }

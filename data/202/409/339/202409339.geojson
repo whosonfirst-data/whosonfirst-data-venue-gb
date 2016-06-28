@@ -2,13 +2,14 @@
   "id": 202409339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.446979,53.192921,-2.446979,53.192921",
     "geom:latitude":53.192921,
     "geom:longitude":-2.446979,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Wheelock Street",
     "sg:city":"Middlewich",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202409339,
-    "wof:lastmodified":1449061153,
+    "wof:lastmodified":1466252736,
     "wof:name":"Dickinson Chemists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "chemist"
     ]
 },
-  "bbox": [-2.446979,53.192921,-2.446979,53.192921],
+  "bbox": [
+    -2.446979,
+    53.192921,
+    -2.446979,
+    53.192921
+],
   "geometry": {"coordinates":[-2.446979,53.192921],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286606891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.492438,52.406708,-1.492438,52.406708",
     "geom:latitude":52.406708,
     "geom:longitude":-1.492438,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Gulson Road",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286606891,
-    "wof:lastmodified":1449015621,
+    "wof:lastmodified":1466272875,
     "wof:name":"Gulson Hospital",
     "wof:parent_id":85789723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nh"
     ]
 },
-  "bbox": [-1.492438,52.406708,-1.492438,52.406708],
+  "bbox": [
+    -1.492438,
+    52.406708,
+    -1.492438,
+    52.406708
+],
   "geometry": {"coordinates":[-1.492438,52.406708],"type":"Point"}
 }

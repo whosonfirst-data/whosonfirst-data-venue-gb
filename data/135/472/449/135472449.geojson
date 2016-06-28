@@ -2,13 +2,14 @@
   "id": 135472449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.628828,52.804142,-1.628828,52.804142",
     "geom:latitude":52.804142,
     "geom:longitude":-1.628828,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51-52 High Street",
     "sg:city":"Burton-on-trent",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135472449,
-    "wof:lastmodified":1449021237,
+    "wof:lastmodified":1466271406,
     "wof:name":"The Java Tree",
     "wof:parent_id":85790705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.628828,52.804142,-1.628828,52.804142],
+  "bbox": [
+    -1.628828,
+    52.804142,
+    -1.628828,
+    52.804142
+],
   "geometry": {"coordinates":[-1.628828,52.804142],"type":"Point"}
 }

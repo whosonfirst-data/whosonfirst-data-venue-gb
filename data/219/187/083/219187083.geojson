@@ -2,13 +2,14 @@
   "id": 219187083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.51256,52.408031,-1.51256,52.408031",
     "geom:latitude":52.408031,
     "geom:longitude":-1.51256,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43-47 Upper Precinct",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219187083,
-    "wof:lastmodified":1449070911,
+    "wof:lastmodified":1466253323,
     "wof:name":"B H S",
     "wof:parent_id":85790551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.51256,52.408031,-1.51256,52.408031],
+  "bbox": [
+    -1.51256,
+    52.408031,
+    -1.51256,
+    52.408031
+],
   "geometry": {"coordinates":[-1.51256,52.408031],"type":"Point"}
 }

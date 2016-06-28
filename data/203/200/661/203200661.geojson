@@ -2,13 +2,14 @@
   "id": 203200661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.523525,53.796101,-1.523525,53.796101",
     "geom:latitude":53.796101,
     "geom:longitude":-1.523525,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Upper Accommodation Rd",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":203200661,
-    "wof:lastmodified":1449025680,
+    "wof:lastmodified":1466256022,
     "wof:name":"What Knot's",
     "wof:parent_id":85792915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.523525,53.796101,-1.523525,53.796101],
+  "bbox": [
+    -1.523525,
+    53.796101,
+    -1.523525,
+    53.796101
+],
   "geometry": {"coordinates":[-1.523525,53.796101],"type":"Point"}
 }

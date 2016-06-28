@@ -2,13 +2,14 @@
   "id": 135583395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.475824,56.410454,-5.475824,56.410454",
     "geom:latitude":56.410454,
     "geom:longitude":-5.475824,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Albany Street",
     "sg:city":"Oban",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":135583395,
-    "wof:lastmodified":1449023389,
+    "wof:lastmodified":1466281500,
     "wof:name":"Alba",
     "wof:parent_id":101872625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.475824,56.410454,-5.475824,56.410454],
+  "bbox": [
+    -5.475824,
+    56.410454,
+    -5.475824,
+    56.410454
+],
   "geometry": {"coordinates":[-5.475824,56.410454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303459971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.508325,52.280476,-1.508325,52.280476",
     "geom:latitude":52.280476,
     "geom:longitude":-1.508325,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Stidfall Gro",
     "sg:city":"Leamington Spa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303459971,
-    "wof:lastmodified":1448999113,
+    "wof:lastmodified":1466276788,
     "wof:name":"Red Rose",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.508325,52.280476,-1.508325,52.280476],
+  "bbox": [
+    -1.508325,
+    52.280476,
+    -1.508325,
+    52.280476
+],
   "geometry": {"coordinates":[-1.508325,52.280476],"type":"Point"}
 }

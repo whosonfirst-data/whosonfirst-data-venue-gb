@@ -2,13 +2,14 @@
   "id": 135978779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.569341,53.79224,-1.569341,53.79224",
     "geom:latitude":53.79224,
     "geom:longitude":-1.569341,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Wellington Road, Wortley",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135978779,
-    "wof:lastmodified":1449022754,
+    "wof:lastmodified":1466288518,
     "wof:name":"Silver River",
     "wof:parent_id":85789357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.569341,53.79224,-1.569341,53.79224],
+  "bbox": [
+    -1.569341,
+    53.79224,
+    -1.569341,
+    53.79224
+],
   "geometry": {"coordinates":[-1.569341,53.79224],"type":"Point"}
 }

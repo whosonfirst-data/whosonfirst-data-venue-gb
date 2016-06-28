@@ -2,13 +2,14 @@
   "id": 136024081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.326305,51.853256,-4.326305,51.853256",
     "geom:latitude":51.853256,
     "geom:longitude":-4.326305,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Security House, Old St Clears Road",
     "sg:city":"Carmarthen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136024081,
-    "wof:lastmodified":1449075532,
+    "wof:lastmodified":1466275256,
     "wof:name":"Dyfed Alarms Ltd.",
     "wof:parent_id":101852977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.326305,51.853256,-4.326305,51.853256],
+  "bbox": [
+    -4.326305,
+    51.853256,
+    -4.326305,
+    51.853256
+],
   "geometry": {"coordinates":[-4.326305,51.853256],"type":"Point"}
 }

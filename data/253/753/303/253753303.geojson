@@ -2,13 +2,14 @@
   "id": 253753303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.225543,53.136356,-1.225543,53.136356",
     "geom:latitude":53.136356,
     "geom:longitude":-1.225543,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Lismore Court",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253753303,
-    "wof:lastmodified":1449063169,
+    "wof:lastmodified":1466276063,
     "wof:name":"Fraggles Hedgehog & Small Mammal Rescue",
     "wof:parent_id":85787491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-1.225543,53.136356,-1.225543,53.136356],
+  "bbox": [
+    -1.225543,
+    53.136356,
+    -1.225543,
+    53.136356
+],
   "geometry": {"coordinates":[-1.225543,53.136356],"type":"Point"}
 }

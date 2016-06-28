@@ -2,13 +2,14 @@
   "id": 119336371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.125749,53.259861,-2.125749,53.259861",
     "geom:latitude":53.259861,
     "geom:longitude":-2.125749,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Mill Street",
     "sg:city":"Macclesfield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119336371,
-    "wof:lastmodified":1449040831,
+    "wof:lastmodified":1466282223,
     "wof:name":"Wallis",
     "wof:parent_id":101750519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.125749,53.259861,-2.125749,53.259861],
+  "bbox": [
+    -2.125749,
+    53.259861,
+    -2.125749,
+    53.259861
+],
   "geometry": {"coordinates":[-2.125749,53.259861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303110843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.717047,51.484161,-2.717047,51.484161",
     "geom:latitude":51.484161,
     "geom:longitude":-2.717047,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"First Avenue, Royal Portbury Dock",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303110843,
-    "wof:lastmodified":1448998916,
+    "wof:lastmodified":1466265989,
     "wof:name":"Wiltshire (Bristol) Ltd.",
     "wof:parent_id":85789823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-2.717047,51.484161,-2.717047,51.484161],
+  "bbox": [
+    -2.717047,
+    51.484161,
+    -2.717047,
+    51.484161
+],
   "geometry": {"coordinates":[-2.717047,51.484161],"type":"Point"}
 }

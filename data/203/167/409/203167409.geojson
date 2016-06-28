@@ -2,13 +2,14 @@
   "id": 203167409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.40581,52.919151,-1.40581,52.919151",
     "geom:latitude":52.919151,
     "geom:longitude":-1.40581,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Sitwell Street, Spondon",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":203167409,
-    "wof:lastmodified":1449025917,
+    "wof:lastmodified":1466255426,
     "wof:name":"The Homestead",
     "wof:parent_id":85785293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.40581,52.919151,-1.40581,52.919151],
+  "bbox": [
+    -1.40581,
+    52.919151,
+    -1.40581,
+    52.919151
+],
   "geometry": {"coordinates":[-1.40581,52.919151],"type":"Point"}
 }

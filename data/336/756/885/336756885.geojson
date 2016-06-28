@@ -2,13 +2,14 @@
   "id": 336756885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.291629,54.549671,-1.291629,54.549671",
     "geom:latitude":54.549671,
     "geom:longitude":-1.291629,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Loftus Road, Thornaby",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336756885,
-    "wof:lastmodified":1448997584,
+    "wof:lastmodified":1466277416,
     "wof:name":"Smokies",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "take"
     ]
 },
-  "bbox": [-1.291629,54.549671,-1.291629,54.549671],
+  "bbox": [
+    -1.291629,
+    54.549671,
+    -1.291629,
+    54.549671
+],
   "geometry": {"coordinates":[-1.291629,54.549671],"type":"Point"}
 }

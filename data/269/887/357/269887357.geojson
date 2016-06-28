@@ -2,13 +2,14 @@
   "id": 269887357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.226089,52.919064,-1.226089,52.919064",
     "geom:latitude":52.919064,
     "geom:longitude":-1.226089,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Meadow Lane, Chilwell, Beeston",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269887357,
-    "wof:lastmodified":1449038354,
+    "wof:lastmodified":1466272353,
     "wof:name":"The Chilwell Manor Golf Club Ltd.",
     "wof:parent_id":85786583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "course"
     ]
 },
-  "bbox": [-1.226089,52.919064,-1.226089,52.919064],
+  "bbox": [
+    -1.226089,
+    52.919064,
+    -1.226089,
+    52.919064
+],
   "geometry": {"coordinates":[-1.226089,52.919064],"type":"Point"}
 }

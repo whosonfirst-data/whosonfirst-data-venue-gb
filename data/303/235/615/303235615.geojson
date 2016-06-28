@@ -2,13 +2,14 @@
   "id": 303235615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.982241,53.854057,-2.982241,53.854057",
     "geom:latitude":53.854057,
     "geom:longitude":-2.982241,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Breckside Close",
     "sg:city":"Poulton-le-fylde",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303235615,
-    "wof:lastmodified":1448998540,
+    "wof:lastmodified":1466269931,
     "wof:name":"Geoffrey W Rose",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-2.982241,53.854057,-2.982241,53.854057],
+  "bbox": [
+    -2.982241,
+    53.854057,
+    -2.982241,
+    53.854057
+],
   "geometry": {"coordinates":[-2.982241,53.854057],"type":"Point"}
 }

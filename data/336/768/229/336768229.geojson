@@ -2,13 +2,14 @@
   "id": 336768229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.202822,55.954006,-3.202822,55.954006",
     "geom:latitude":55.954006,
     "geom:longitude":-3.202822,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Queen Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336768229,
-    "wof:lastmodified":1448997365,
+    "wof:lastmodified":1466277736,
     "wof:name":"David Johnson & Co.",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-3.202822,55.954006,-3.202822,55.954006],
+  "bbox": [
+    -3.202822,
+    55.954006,
+    -3.202822,
+    55.954006
+],
   "geometry": {"coordinates":[-3.202822,55.954006],"type":"Point"}
 }

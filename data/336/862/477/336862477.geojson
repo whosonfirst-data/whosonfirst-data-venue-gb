@@ -2,13 +2,14 @@
   "id": 336862477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.325187,53.317741,-1.325187,53.317741",
     "geom:latitude":53.317741,
     "geom:longitude":-1.325187,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Laburnum Grove, Killamarsh",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336862477,
-    "wof:lastmodified":1448998047,
+    "wof:lastmodified":1466279739,
     "wof:name":"Fogg & Gibbs",
     "wof:parent_id":85787845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-1.325187,53.317741,-1.325187,53.317741],
+  "bbox": [
+    -1.325187,
+    53.317741,
+    -1.325187,
+    53.317741
+],
   "geometry": {"coordinates":[-1.325187,53.317741],"type":"Point"}
 }

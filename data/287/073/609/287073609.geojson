@@ -2,13 +2,14 @@
   "id": 287073609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.257291,53.128002,-1.257291,53.128002",
     "geom:latitude":53.128002,
     "geom:longitude":-1.257291,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Outram Street",
     "sg:city":"Sutton-in-ashfield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":287073609,
-    "wof:lastmodified":1449000782,
+    "wof:lastmodified":1466265218,
     "wof:name":"Ashfield Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.257291,53.128002,-1.257291,53.128002],
+  "bbox": [
+    -1.257291,
+    53.128002,
+    -1.257291,
+    53.128002
+],
   "geometry": {"coordinates":[-1.257291,53.128002],"type":"Point"}
 }

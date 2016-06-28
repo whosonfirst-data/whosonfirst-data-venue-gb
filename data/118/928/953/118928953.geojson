@@ -2,13 +2,14 @@
   "id": 118928953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.156348,56.117783,-3.156348,56.117783",
     "geom:latitude":56.117783,
     "geom:longitude":-3.156348,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Dunnikier Road",
     "sg:city":"Kirkcaldy",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118928953,
-    "wof:lastmodified":1449054352,
+    "wof:lastmodified":1466280729,
     "wof:name":"Sound Control",
     "wof:parent_id":85789747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.156348,56.117783,-3.156348,56.117783],
+  "bbox": [
+    -3.156348,
+    56.117783,
+    -3.156348,
+    56.117783
+],
   "geometry": {"coordinates":[-3.156348,56.117783],"type":"Point"}
 }

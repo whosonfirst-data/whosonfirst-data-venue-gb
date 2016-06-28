@@ -2,13 +2,14 @@
   "id": 135505549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.989513,51.957706,0.989513,51.957706",
     "geom:latitude":51.957706,
     "geom:longitude":0.989513,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"High Street, Dedham",
     "sg:city":"Colchester",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135505549,
-    "wof:lastmodified":1449023516,
+    "wof:lastmodified":1466275145,
     "wof:name":"Shakespeare House Gallery",
     "wof:parent_id":85684217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.989513,51.957706,0.989513,51.957706],
+  "bbox": [
+    0.989513,
+    51.957706,
+    0.989513,
+    51.957706
+],
   "geometry": {"coordinates":[0.989513,51.957706],"type":"Point"}
 }

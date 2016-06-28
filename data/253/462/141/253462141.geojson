@@ -2,13 +2,14 @@
   "id": 253462141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.086551,50.787292,-1.086551,50.787292",
     "geom:latitude":50.787292,
     "geom:longitude":-1.086551,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Ormsby Road",
     "sg:city":"Southsea",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":253462141,
-    "wof:lastmodified":1449065686,
+    "wof:lastmodified":1466267017,
     "wof:name":"Ormsby Lodge",
     "wof:parent_id":85790481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-1.086551,50.787292,-1.086551,50.787292],
+  "bbox": [
+    -1.086551,
+    50.787292,
+    -1.086551,
+    50.787292
+],
   "geometry": {"coordinates":[-1.086551,50.787292],"type":"Point"}
 }

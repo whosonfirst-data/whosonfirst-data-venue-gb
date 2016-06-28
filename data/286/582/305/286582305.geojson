@@ -2,13 +2,14 @@
   "id": 286582305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.55926,54.879452,-1.55926,54.879452",
     "geom:latitude":54.879452,
     "geom:longitude":-1.55926,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Picktree Lane",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":286582305,
-    "wof:lastmodified":1449016768,
+    "wof:lastmodified":1466272157,
     "wof:name":"Spire Washington Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.55926,54.879452,-1.55926,54.879452],
+  "bbox": [
+    -1.55926,
+    54.879452,
+    -1.55926,
+    54.879452
+],
   "geometry": {"coordinates":[-1.55926,54.879452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219229917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.892305,53.720333,-1.892305,53.720333",
     "geom:latitude":53.720333,
     "geom:longitude":-1.892305,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Westbury Place",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219229917,
-    "wof:lastmodified":1449073220,
+    "wof:lastmodified":1466254073,
     "wof:name":"A & P C Fire Protection",
     "wof:parent_id":85791037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-1.892305,53.720333,-1.892305,53.720333],
+  "bbox": [
+    -1.892305,
+    53.720333,
+    -1.892305,
+    53.720333
+],
   "geometry": {"coordinates":[-1.892305,53.720333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303430481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.770587,55.947369,-4.770587,55.947369",
     "geom:latitude":55.947369,
     "geom:longitude":-4.770587,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Nelson Street",
     "sg:city":"Greenock",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303430481,
-    "wof:lastmodified":1448999677,
+    "wof:lastmodified":1466275782,
     "wof:name":"T M Mitchell",
     "wof:parent_id":85791237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-4.770587,55.947369,-4.770587,55.947369],
+  "bbox": [
+    -4.770587,
+    55.947369,
+    -4.770587,
+    55.947369
+],
   "geometry": {"coordinates":[-4.770587,55.947369],"type":"Point"}
 }

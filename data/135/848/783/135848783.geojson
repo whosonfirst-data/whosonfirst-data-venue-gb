@@ -2,13 +2,14 @@
   "id": 135848783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.430024,54.878265,-1.430024,54.878265",
     "geom:latitude":54.878265,
     "geom:longitude":-1.430024,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Arbroath Road",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135848783,
-    "wof:lastmodified":1449021405,
+    "wof:lastmodified":1466287801,
     "wof:name":"The Holy Rosary",
     "wof:parent_id":85787359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.430024,54.878265,-1.430024,54.878265],
+  "bbox": [
+    -1.430024,
+    54.878265,
+    -1.430024,
+    54.878265
+],
   "geometry": {"coordinates":[-1.430024,54.878265],"type":"Point"}
 }

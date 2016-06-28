@@ -2,13 +2,14 @@
   "id": 270132097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.487606,51.443516,-2.487606,51.443516",
     "geom:latitude":51.443516,
     "geom:longitude":-2.487606,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Earlstone Crescent, Cadburyheath",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270132097,
-    "wof:lastmodified":1449009825,
+    "wof:lastmodified":1466264447,
     "wof:name":"Cadburyheath Taxis",
     "wof:parent_id":85785495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cab"
     ]
 },
-  "bbox": [-2.487606,51.443516,-2.487606,51.443516],
+  "bbox": [
+    -2.487606,
+    51.443516,
+    -2.487606,
+    51.443516
+],
   "geometry": {"coordinates":[-2.487606,51.443516],"type":"Point"}
 }

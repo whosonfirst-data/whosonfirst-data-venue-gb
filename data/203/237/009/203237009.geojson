@@ -2,13 +2,14 @@
   "id": 203237009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.209705,55.862312,-4.209705,55.862312",
     "geom:latitude":55.862312,
     "geom:longitude":-4.209705,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Cumbernauld Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":203237009,
-    "wof:lastmodified":1449024996,
+    "wof:lastmodified":1466256703,
     "wof:name":"Bad Hair Day",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.209705,55.862312,-4.209705,55.862312],
+  "bbox": [
+    -4.209705,
+    55.862312,
+    -4.209705,
+    55.862312
+],
   "geometry": {"coordinates":[-4.209705,55.862312],"type":"Point"}
 }

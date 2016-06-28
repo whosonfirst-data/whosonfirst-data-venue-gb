@@ -2,13 +2,14 @@
   "id": 303445299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.5409,53.795582,-1.5409,53.795582",
     "geom:latitude":53.795582,
     "geom:longitude":-1.5409,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31-33 Call Lane",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303445299,
-    "wof:lastmodified":1448998445,
+    "wof:lastmodified":1466276264,
     "wof:name":"Oporto",
     "wof:parent_id":85792901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.5409,53.795582,-1.5409,53.795582],
+  "bbox": [
+    -1.5409,
+    53.795582,
+    -1.5409,
+    53.795582
+],
   "geometry": {"coordinates":[-1.5409,53.795582],"type":"Point"}
 }

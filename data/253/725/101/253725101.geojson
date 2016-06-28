@@ -2,13 +2,14 @@
   "id": 253725101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.210314,55.933708,-3.210314,55.933708",
     "geom:latitude":55.933708,
     "geom:longitude":-3.210314,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Morningside Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":253725101,
-    "wof:lastmodified":1449063532,
+    "wof:lastmodified":1466275089,
     "wof:name":"Sharps Bedrooms Ltd",
     "wof:parent_id":85861531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fitted"
     ]
 },
-  "bbox": [-3.210314,55.933708,-3.210314,55.933708],
+  "bbox": [
+    -3.210314,
+    55.933708,
+    -3.210314,
+    55.933708
+],
   "geometry": {"coordinates":[-3.210314,55.933708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118579903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.599927,53.616985,-2.599927,53.616985",
     "geom:latitude":53.616985,
     "geom:longitude":-2.599927,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Vicarage Close, Adlington",
     "sg:city":"Chorley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118579903,
-    "wof:lastmodified":1449053591,
+    "wof:lastmodified":1466256186,
     "wof:name":"M S Contracts",
     "wof:parent_id":101872291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.599927,53.616985,-2.599927,53.616985],
+  "bbox": [
+    -2.599927,
+    53.616985,
+    -2.599927,
+    53.616985
+],
   "geometry": {"coordinates":[-2.599927,53.616985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219416775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.204368,53.035774,-1.204368,53.035774",
     "geom:latitude":53.035774,
     "geom:longitude":-1.204368,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Watnall Road, Hucknall",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219416775,
-    "wof:lastmodified":1449071984,
+    "wof:lastmodified":1466257364,
     "wof:name":"Curiosity Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "second-hand"
     ]
 },
-  "bbox": [-1.204368,53.035774,-1.204368,53.035774],
+  "bbox": [
+    -1.204368,
+    53.035774,
+    -1.204368,
+    53.035774
+],
   "geometry": {"coordinates":[-1.204368,53.035774],"type":"Point"}
 }

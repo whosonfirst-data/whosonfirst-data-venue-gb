@@ -2,13 +2,14 @@
   "id": 119531701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.807889,52.52219,-1.807889,52.52219",
     "geom:latitude":52.52219,
     "geom:longitude":-1.807889,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1193 Tyburn Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119531701,
-    "wof:lastmodified":1449041447,
+    "wof:lastmodified":1466287615,
     "wof:name":"Mr Boozer",
     "wof:parent_id":85791207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.807889,52.52219,-1.807889,52.52219],
+  "bbox": [
+    -1.807889,
+    52.52219,
+    -1.807889,
+    52.52219
+],
   "geometry": {"coordinates":[-1.807889,52.52219],"type":"Point"}
 }

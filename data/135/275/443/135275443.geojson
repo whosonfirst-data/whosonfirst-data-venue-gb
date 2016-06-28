@@ -2,13 +2,14 @@
   "id": 135275443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.37202,53.766335,-1.37202,53.766335",
     "geom:latitude":53.766335,
     "geom:longitude":-1.37202,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Cross Hills, Kippax",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135275443,
-    "wof:lastmodified":1449021979,
+    "wof:lastmodified":1466267836,
     "wof:name":"Cross Hills Fisheries",
     "wof:parent_id":85684321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.37202,53.766335,-1.37202,53.766335],
+  "bbox": [
+    -1.37202,
+    53.766335,
+    -1.37202,
+    53.766335
+],
   "geometry": {"coordinates":[-1.37202,53.766335],"type":"Point"}
 }

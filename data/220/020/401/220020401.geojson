@@ -2,13 +2,14 @@
   "id": 220020401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.445571,53.585346,-2.445571,53.585346",
     "geom:latitude":53.585346,
     "geom:longitude":-2.445571,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Street",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":220020401,
-    "wof:lastmodified":1449074398,
+    "wof:lastmodified":1466253285,
     "wof:name":"Bolton Rugby Union Club",
     "wof:parent_id":85792981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.445571,53.585346,-2.445571,53.585346],
+  "bbox": [
+    -2.445571,
+    53.585346,
+    -2.445571,
+    53.585346
+],
   "geometry": {"coordinates":[-2.445571,53.585346],"type":"Point"}
 }

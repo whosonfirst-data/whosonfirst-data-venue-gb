@@ -2,13 +2,14 @@
   "id": 270432415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.216134,55.898045,-4.216134,55.898045",
     "geom:latitude":55.898045,
     "geom:longitude":-4.216134,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"103-123 Auchinairn Road, Bishopbriggs",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270432415,
-    "wof:lastmodified":1449008622,
+    "wof:lastmodified":1466273356,
     "wof:name":"Magnet",
     "wof:parent_id":85793309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "joinery"
     ]
 },
-  "bbox": [-4.216134,55.898045,-4.216134,55.898045],
+  "bbox": [
+    -4.216134,
+    55.898045,
+    -4.216134,
+    55.898045
+],
   "geometry": {"coordinates":[-4.216134,55.898045],"type":"Point"}
 }

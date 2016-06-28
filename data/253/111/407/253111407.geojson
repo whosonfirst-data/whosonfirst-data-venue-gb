@@ -2,13 +2,14 @@
   "id": 253111407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.005342,51.548828,0.005342,51.548828",
     "geom:latitude":51.548828,
     "geom:longitude":0.005342,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"60a Leytonstone Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253111407,
-    "wof:lastmodified":1449065896,
+    "wof:lastmodified":1466259526,
     "wof:name":"Stop 66",
     "wof:parent_id":85790801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "menswear"
     ]
 },
-  "bbox": [0.005342,51.548828,0.005342,51.548828],
+  "bbox": [
+    0.005342,
+    51.548828,
+    0.005342,
+    51.548828
+],
   "geometry": {"coordinates":[0.005342,51.548828],"type":"Point"}
 }

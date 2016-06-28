@@ -2,13 +2,14 @@
   "id": 135319099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.312507,55.877895,-4.312507,55.877895",
     "geom:latitude":55.877895,
     "geom:longitude":-4.312507,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Clarence Drive",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135319099,
-    "wof:lastmodified":1449022228,
+    "wof:lastmodified":1466253525,
     "wof:name":"Pasta le Cafe",
     "wof:parent_id":85861537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.312507,55.877895,-4.312507,55.877895],
+  "bbox": [
+    -4.312507,
+    55.877895,
+    -4.312507,
+    55.877895
+],
   "geometry": {"coordinates":[-4.312507,55.877895],"type":"Point"}
 }

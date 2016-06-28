@@ -2,13 +2,14 @@
   "id": 336739103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.051125,52.585785,-2.051125,52.585785",
     "geom:latitude":52.585785,
     "geom:longitude":-2.051125,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Lower Lichfield Street",
     "sg:city":"Willenhall",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336739103,
-    "wof:lastmodified":1448997397,
+    "wof:lastmodified":1466276942,
     "wof:name":"Lockwood Veterinary Centre",
     "wof:parent_id":85785623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [-2.051125,52.585785,-2.051125,52.585785],
+  "bbox": [
+    -2.051125,
+    52.585785,
+    -2.051125,
+    52.585785
+],
   "geometry": {"coordinates":[-2.051125,52.585785],"type":"Point"}
 }

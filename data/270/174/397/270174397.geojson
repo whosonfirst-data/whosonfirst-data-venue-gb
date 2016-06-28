@@ -2,13 +2,14 @@
   "id": 270174397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.433256,55.010693,-1.433256,55.010693",
     "geom:latitude":55.010693,
     "geom:longitude":-1.433256,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Clifford Street, Fish Quay",
     "sg:city":"North Shields",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270174397,
-    "wof:lastmodified":1449008977,
+    "wof:lastmodified":1466265665,
     "wof:name":"Harry Foskett",
     "wof:parent_id":85792733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [-1.433256,55.010693,-1.433256,55.010693],
+  "bbox": [
+    -1.433256,
+    55.010693,
+    -1.433256,
+    55.010693
+],
   "geometry": {"coordinates":[-1.433256,55.010693],"type":"Point"}
 }

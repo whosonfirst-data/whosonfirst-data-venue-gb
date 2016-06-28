@@ -2,13 +2,14 @@
   "id": 202656229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.468369,54.013161,-1.468369,54.013161",
     "geom:latitude":54.013161,
     "geom:longitude":-1.468369,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18a Boroughbridge Road",
     "sg:city":"Knaresborough",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202656229,
-    "wof:lastmodified":1449061739,
+    "wof:lastmodified":1466256784,
     "wof:name":"Wine Matinee",
     "wof:parent_id":85790715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.468369,54.013161,-1.468369,54.013161],
+  "bbox": [
+    -1.468369,
+    54.013161,
+    -1.468369,
+    54.013161
+],
   "geometry": {"coordinates":[-1.468369,54.013161],"type":"Point"}
 }

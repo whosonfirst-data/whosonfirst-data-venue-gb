@@ -2,13 +2,14 @@
   "id": 119016769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.147103,50.549423,-4.147103,50.549423",
     "geom:latitude":50.549423,
     "geom:longitude":-4.147103,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 West St",
     "sg:city":"Tavistock",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119016769,
-    "wof:lastmodified":1449041286,
+    "wof:lastmodified":1466273987,
     "wof:name":"Michael Antonoucci",
     "wof:parent_id":101852555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.147103,50.549423,-4.147103,50.549423],
+  "bbox": [
+    -4.147103,
+    50.549423,
+    -4.147103,
+    50.549423
+],
   "geometry": {"coordinates":[-4.147103,50.549423],"type":"Point"}
 }

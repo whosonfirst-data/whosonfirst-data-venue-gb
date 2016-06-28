@@ -2,13 +2,14 @@
   "id": 220116021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.702019,53.866859,-1.702019,53.866859",
     "geom:latitude":53.866859,
     "geom:longitude":-1.702019,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Milners Rd, Yeadon",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220116021,
-    "wof:lastmodified":1449074150,
+    "wof:lastmodified":1466255007,
     "wof:name":"West Yorkshire Waste Management",
     "wof:parent_id":85790941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "retail"
     ]
 },
-  "bbox": [-1.702019,53.866859,-1.702019,53.866859],
+  "bbox": [
+    -1.702019,
+    53.866859,
+    -1.702019,
+    53.866859
+],
   "geometry": {"coordinates":[-1.702019,53.866859],"type":"Point"}
 }

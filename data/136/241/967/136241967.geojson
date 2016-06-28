@@ -2,13 +2,14 @@
   "id": 136241967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.806681,55.615067,-2.806681,55.615067",
     "geom:latitude":55.615067,
     "geom:longitude":-2.806681,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57-58 Bank Street",
     "sg:city":"Galashiels",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":136241967,
-    "wof:lastmodified":1449076248,
+    "wof:lastmodified":1466263211,
     "wof:name":"The Auld Mill Inn",
     "wof:parent_id":101873471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.806681,55.615067,-2.806681,55.615067],
+  "bbox": [
+    -2.806681,
+    55.615067,
+    -2.806681,
+    55.615067
+],
   "geometry": {"coordinates":[-2.806681,55.615067],"type":"Point"}
 }

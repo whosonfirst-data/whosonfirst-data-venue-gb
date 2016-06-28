@@ -2,13 +2,14 @@
   "id": 303769941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.515701,55.18259,-1.515701,55.18259",
     "geom:latitude":55.18259,
     "geom:longitude":-1.515701,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Aqua Terrace",
     "sg:city":"Newbiggin-by-the-sea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303769941,
-    "wof:lastmodified":1448998928,
+    "wof:lastmodified":1466282640,
     "wof:name":"Imrye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "therapy"
     ]
 },
-  "bbox": [-1.515701,55.18259,-1.515701,55.18259],
+  "bbox": [
+    -1.515701,
+    55.18259,
+    -1.515701,
+    55.18259
+],
   "geometry": {"coordinates":[-1.515701,55.18259],"type":"Point"}
 }

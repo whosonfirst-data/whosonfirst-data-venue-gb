@@ -2,13 +2,14 @@
   "id": 303499309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.831107,52.449417,-1.831107,52.449417",
     "geom:latitude":52.449417,
     "geom:longitude":-1.831107,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Fox Hollies Road, Acocks Grn",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303499309,
-    "wof:lastmodified":1448998581,
+    "wof:lastmodified":1466277933,
     "wof:name":"Grey Gables",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-1.831107,52.449417,-1.831107,52.449417],
+  "bbox": [
+    -1.831107,
+    52.449417,
+    -1.831107,
+    52.449417
+],
   "geometry": {"coordinates":[-1.831107,52.449417],"type":"Point"}
 }

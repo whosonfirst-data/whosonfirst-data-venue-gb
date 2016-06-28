@@ -2,13 +2,14 @@
   "id": 286275731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.860364,53.479939,-2.860364,53.479939",
     "geom:latitude":53.479939,
     "geom:longitude":-2.860364,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Webber Road, Knowsley Industrial Park",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286275731,
-    "wof:lastmodified":1449016135,
+    "wof:lastmodified":1466262755,
     "wof:name":"Merseygas",
     "wof:parent_id":85792097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-2.860364,53.479939,-2.860364,53.479939],
+  "bbox": [
+    -2.860364,
+    53.479939,
+    -2.860364,
+    53.479939
+],
   "geometry": {"coordinates":[-2.860364,53.479939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303261335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.336009,50.745163,-1.336009,50.745163",
     "geom:latitude":50.745163,
     "geom:longitude":-1.336009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"West View Road, Rew Street, Gurnard",
     "sg:city":"Cowes",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303261335,
-    "wof:lastmodified":1448998159,
+    "wof:lastmodified":1466270685,
     "wof:name":"Clarke's Mechanical Ltd.",
     "wof:parent_id":85791461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "heating"
     ]
 },
-  "bbox": [-1.336009,50.745163,-1.336009,50.745163],
+  "bbox": [
+    -1.336009,
+    50.745163,
+    -1.336009,
+    50.745163
+],
   "geometry": {"coordinates":[-1.336009,50.745163],"type":"Point"}
 }

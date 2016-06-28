@@ -2,13 +2,14 @@
   "id": 220031395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.499116,53.322365,-1.499116,53.322365",
     "geom:latitude":53.322365,
     "geom:longitude":-1.499116,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bradway Rd",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220031395,
-    "wof:lastmodified":1449074334,
+    "wof:lastmodified":1466253491,
     "wof:name":"Bradway Hotel",
     "wof:parent_id":85787777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "centre"
     ]
 },
-  "bbox": [-1.499116,53.322365,-1.499116,53.322365],
+  "bbox": [
+    -1.499116,
+    53.322365,
+    -1.499116,
+    53.322365
+],
   "geometry": {"coordinates":[-1.499116,53.322365],"type":"Point"}
 }

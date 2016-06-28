@@ -2,13 +2,14 @@
   "id": 303719991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.027297,54.897331,-5.027297,54.897331",
     "geom:latitude":54.897331,
     "geom:longitude":-5.027297,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Belmont Ho, Fairhurst Rd",
     "sg:city":"Stranraer",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303719991,
-    "wof:lastmodified":1448998435,
+    "wof:lastmodified":1466281940,
     "wof:name":"Belmont House Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-5.027297,54.897331,-5.027297,54.897331],
+  "bbox": [
+    -5.027297,
+    54.897331,
+    -5.027297,
+    54.897331
+],
   "geometry": {"coordinates":[-5.027297,54.897331],"type":"Point"}
 }

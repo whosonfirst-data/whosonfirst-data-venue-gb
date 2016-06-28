@@ -2,13 +2,14 @@
   "id": 269842217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.084238,51.005268,-3.084238,51.005268",
     "geom:latitude":51.005268,
     "geom:longitude":-3.084238,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Old Mill, Bathpool",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269842217,
-    "wof:lastmodified":1449036330,
+    "wof:lastmodified":1466270884,
     "wof:name":"Best Breakers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dismantlers"
     ]
 },
-  "bbox": [-3.084238,51.005268,-3.084238,51.005268],
+  "bbox": [
+    -3.084238,
+    51.005268,
+    -3.084238,
+    51.005268
+],
   "geometry": {"coordinates":[-3.084238,51.005268],"type":"Point"}
 }

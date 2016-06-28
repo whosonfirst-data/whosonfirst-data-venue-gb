@@ -2,13 +2,14 @@
   "id": 253106115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.75094,53.678242,-1.75094,53.678242",
     "geom:latitude":53.678242,
     "geom:longitude":-1.75094,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Alandale Road",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253106115,
-    "wof:lastmodified":1449062785,
+    "wof:lastmodified":1466259428,
     "wof:name":"Huddersfield Deanery Project",
     "wof:parent_id":85785895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.75094,53.678242,-1.75094,53.678242],
+  "bbox": [
+    -1.75094,
+    53.678242,
+    -1.75094,
+    53.678242
+],
   "geometry": {"coordinates":[-1.75094,53.678242],"type":"Point"}
 }

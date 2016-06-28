@@ -2,13 +2,14 @@
   "id": 270359261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.433758,50.922691,-1.433758,50.922691",
     "geom:latitude":50.922691,
     "geom:longitude":-1.433758,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"73-75 Shirley High Street",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270359261,
-    "wof:lastmodified":1449008631,
+    "wof:lastmodified":1466271229,
     "wof:name":"Tramways",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.433758,50.922691,-1.433758,50.922691],
+  "bbox": [
+    -1.433758,
+    50.922691,
+    -1.433758,
+    50.922691
+],
   "geometry": {"coordinates":[-1.433758,50.922691],"type":"Point"}
 }

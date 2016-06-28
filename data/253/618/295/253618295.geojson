@@ -2,13 +2,14 @@
   "id": 253618295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.306977,55.870846,-4.306977,55.870846",
     "geom:latitude":55.870846,
     "geom:longitude":-4.306977,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Dumbarton Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253618295,
-    "wof:lastmodified":1449064653,
+    "wof:lastmodified":1466271696,
     "wof:name":"The Mariner",
     "wof:parent_id":85789735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "room"
     ]
 },
-  "bbox": [-4.306977,55.870846,-4.306977,55.870846],
+  "bbox": [
+    -4.306977,
+    55.870846,
+    -4.306977,
+    55.870846
+],
   "geometry": {"coordinates":[-4.306977,55.870846],"type":"Point"}
 }

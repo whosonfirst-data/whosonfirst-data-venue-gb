@@ -2,13 +2,14 @@
   "id": 303779347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.416808,51.057076,-2.416808,51.057076",
     "geom:latitude":51.057076,
     "geom:longitude":-2.416808,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Verrington Rd",
     "sg:city":"Wincanton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303779347,
-    "wof:lastmodified":1448998495,
+    "wof:lastmodified":1466282727,
     "wof:name":"Wincanton Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cab"
     ]
 },
-  "bbox": [-2.416808,51.057076,-2.416808,51.057076],
+  "bbox": [
+    -2.416808,
+    51.057076,
+    -2.416808,
+    51.057076
+],
   "geometry": {"coordinates":[-2.416808,51.057076],"type":"Point"}
 }

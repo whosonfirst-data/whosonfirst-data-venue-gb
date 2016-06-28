@@ -2,13 +2,14 @@
   "id": 202910651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.033009,53.49279,-2.033009,53.49279",
     "geom:latitude":53.49279,
     "geom:longitude":-2.033009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Wakefield, Heyrod",
     "sg:city":"Stalybridge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202910651,
-    "wof:lastmodified":1449061169,
+    "wof:lastmodified":1466260905,
     "wof:name":"Bramels",
     "wof:parent_id":85786995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.033009,53.49279,-2.033009,53.49279],
+  "bbox": [
+    -2.033009,
+    53.49279,
+    -2.033009,
+    53.49279
+],
   "geometry": {"coordinates":[-2.033009,53.49279],"type":"Point"}
 }

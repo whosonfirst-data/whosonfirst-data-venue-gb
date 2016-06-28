@@ -2,13 +2,14 @@
   "id": 219667757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.013952,55.934185,-4.013952,55.934185",
     "geom:latitude":55.934185,
     "geom:longitude":-4.013952,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Drumpellier Ave, Condorrat, Cumbernauld",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219667757,
-    "wof:lastmodified":1449072691,
+    "wof:lastmodified":1466261489,
     "wof:name":"Direct Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "telemarketing"
     ]
 },
-  "bbox": [-4.013952,55.934185,-4.013952,55.934185],
+  "bbox": [
+    -4.013952,
+    55.934185,
+    -4.013952,
+    55.934185
+],
   "geometry": {"coordinates":[-4.013952,55.934185],"type":"Point"}
 }

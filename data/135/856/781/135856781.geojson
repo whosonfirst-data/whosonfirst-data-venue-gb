@@ -2,13 +2,14 @@
   "id": 135856781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.9647,51.35265,-2.9647,51.35265",
     "geom:latitude":51.35265,
     "geom:longitude":-2.9647,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Brendon Avenue",
     "sg:city":"Weston-super-mare",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":135856781,
-    "wof:lastmodified":1449021871,
+    "wof:lastmodified":1466287900,
     "wof:name":"Weston Aerials",
     "wof:parent_id":101751595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.9647,51.35265,-2.9647,51.35265],
+  "bbox": [
+    -2.9647,
+    51.35265,
+    -2.9647,
+    51.35265
+],
   "geometry": {"coordinates":[-2.9647,51.35265],"type":"Point"}
 }

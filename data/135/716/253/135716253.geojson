@@ -2,13 +2,14 @@
   "id": 135716253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.444267,58.021152,-6.444267,58.021152",
     "geom:latitude":58.021152,
     "geom:longitude":-6.444267,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Gravir, Lemreway",
     "sg:city":"Isle Of Lewis",
     "sg:classifiers":[
@@ -32,14 +33,20 @@
     "wof:geomhash":"718ed539eb70199adde9f4a69e09630e",
     "wof:hierarchy":[],
     "wof:id":135716253,
-    "wof:lastmodified":1449021411,
+    "wof:lastmodified":1466286515,
     "wof:name":"B Nicolson",
     "wof:parent_id":85683725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.444267,58.021152,-6.444267,58.021152],
+  "bbox": [
+    -6.444267,
+    58.021152,
+    -6.444267,
+    58.021152
+],
   "geometry": {"coordinates":[-6.444267,58.021152],"type":"Point"}
 }

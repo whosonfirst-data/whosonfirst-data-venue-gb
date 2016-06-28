@@ -2,13 +2,14 @@
   "id": 203414569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.099066,52.989933,-2.099066,52.989933",
     "geom:latitude":52.989933,
     "geom:longitude":-2.099066,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 New Kingsway",
     "sg:city":"Stoke On Trent",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":203414569,
-    "wof:lastmodified":1449025806,
+    "wof:lastmodified":1466259821,
     "wof:name":"Weaver Travel",
     "wof:parent_id":85791577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.099066,52.989933,-2.099066,52.989933],
+  "bbox": [
+    -2.099066,
+    52.989933,
+    -2.099066,
+    52.989933
+],
   "geometry": {"coordinates":[-2.099066,52.989933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185782449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.111746,52.629547,-1.111746,52.629547",
     "geom:latitude":52.629547,
     "geom:longitude":-1.111746,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"58 St Peters Rd",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185782449,
-    "wof:lastmodified":1449006589,
+    "wof:lastmodified":1466254427,
     "wof:name":"R Singh",
     "wof:parent_id":85861117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-1.111746,52.629547,-1.111746,52.629547],
+  "bbox": [
+    -1.111746,
+    52.629547,
+    -1.111746,
+    52.629547
+],
   "geometry": {"coordinates":[-1.111746,52.629547],"type":"Point"}
 }

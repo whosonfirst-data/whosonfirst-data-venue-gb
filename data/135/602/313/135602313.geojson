@@ -2,13 +2,14 @@
   "id": 135602313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.765188,52.222019,-2.765188,52.222019",
     "geom:latitude":52.222019,
     "geom:longitude":-2.765188,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Grove House, Monkland",
     "sg:city":"Leominster",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":135602313,
-    "wof:lastmodified":1449022432,
+    "wof:lastmodified":1466282654,
     "wof:name":"Frank Price",
     "wof:parent_id":85683751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.765188,52.222019,-2.765188,52.222019],
+  "bbox": [
+    -2.765188,
+    52.222019,
+    -2.765188,
+    52.222019
+],
   "geometry": {"coordinates":[-2.765188,52.222019],"type":"Point"}
 }

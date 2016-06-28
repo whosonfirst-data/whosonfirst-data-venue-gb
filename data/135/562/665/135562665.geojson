@@ -2,13 +2,14 @@
   "id": 135562665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.928726,56.124149,-3.928726,56.124149",
     "geom:latitude":56.124149,
     "geom:longitude":-3.928726,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Millar Place",
     "sg:city":"Stirling",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135562665,
-    "wof:lastmodified":1449022609,
+    "wof:lastmodified":1466280216,
     "wof:name":"Colin McLean",
     "wof:parent_id":101874203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.928726,56.124149,-3.928726,56.124149],
+  "bbox": [
+    -3.928726,
+    56.124149,
+    -3.928726,
+    56.124149
+],
   "geometry": {"coordinates":[-3.928726,56.124149],"type":"Point"}
 }

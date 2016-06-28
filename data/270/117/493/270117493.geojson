@@ -2,13 +2,14 @@
   "id": 270117493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.935526,53.424129,-2.935526,53.424129",
     "geom:latitude":53.424129,
     "geom:longitude":-2.935526,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"509 West Derby Rd",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270117493,
-    "wof:lastmodified":1449010331,
+    "wof:lastmodified":1466264001,
     "wof:name":"Paul's Meats",
     "wof:parent_id":85791175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "butcher"
     ]
 },
-  "bbox": [-2.935526,53.424129,-2.935526,53.424129],
+  "bbox": [
+    -2.935526,
+    53.424129,
+    -2.935526,
+    53.424129
+],
   "geometry": {"coordinates":[-2.935526,53.424129],"type":"Point"}
 }

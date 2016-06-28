@@ -2,13 +2,14 @@
   "id": 135392303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.5399,53.828735,-1.5399,53.828735",
     "geom:latitude":53.828735,
     "geom:longitude":-1.5399,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Stainbeck Corner",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135392303,
-    "wof:lastmodified":1449023419,
+    "wof:lastmodified":1466261729,
     "wof:name":"Wrap & Roll",
     "wof:parent_id":85786417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.5399,53.828735,-1.5399,53.828735],
+  "bbox": [
+    -1.5399,
+    53.828735,
+    -1.5399,
+    53.828735
+],
   "geometry": {"coordinates":[-1.5399,53.828735],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135855823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.104056,57.152065,-2.104056,57.152065",
     "geom:latitude":57.152065,
     "geom:longitude":-2.104056,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"299 George Street",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135855823,
-    "wof:lastmodified":1449023227,
+    "wof:lastmodified":1466287897,
     "wof:name":"The Blue Elephant",
     "wof:parent_id":85791947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.104056,57.152065,-2.104056,57.152065],
+  "bbox": [
+    -2.104056,
+    57.152065,
+    -2.104056,
+    57.152065
+],
   "geometry": {"coordinates":[-2.104056,57.152065],"type":"Point"}
 }

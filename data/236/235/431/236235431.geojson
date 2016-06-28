@@ -2,13 +2,14 @@
   "id": 236235431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.527636,52.404228,-1.527636,52.404228",
     "geom:latitude":52.404228,
     "geom:longitude":-1.527636,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Hawkins Road, Earlsdon",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236235431,
-    "wof:lastmodified":1449002099,
+    "wof:lastmodified":1466260950,
     "wof:name":"Quality Heating & Plumbing Ltd.",
     "wof:parent_id":85790551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "heating"
     ]
 },
-  "bbox": [-1.527636,52.404228,-1.527636,52.404228],
+  "bbox": [
+    -1.527636,
+    52.404228,
+    -1.527636,
+    52.404228
+],
   "geometry": {"coordinates":[-1.527636,52.404228],"type":"Point"}
 }

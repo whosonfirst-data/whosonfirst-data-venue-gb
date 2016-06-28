@@ -2,13 +2,14 @@
   "id": 135706449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.593023,53.810123,-1.593023,53.810123",
     "geom:latitude":53.810123,
     "geom:longitude":-1.593023,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"472 Kirkstall Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135706449,
-    "wof:lastmodified":1449021209,
+    "wof:lastmodified":1466286153,
     "wof:name":"D Stead",
     "wof:parent_id":85861565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.593023,53.810123,-1.593023,53.810123],
+  "bbox": [
+    -1.593023,
+    53.810123,
+    -1.593023,
+    53.810123
+],
   "geometry": {"coordinates":[-1.593023,53.810123],"type":"Point"}
 }

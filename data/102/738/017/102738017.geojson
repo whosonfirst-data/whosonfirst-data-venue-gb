@@ -2,13 +2,14 @@
   "id": 102738017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.739475,54.404221,-1.739475,54.404221",
     "geom:latitude":54.404221,
     "geom:longitude":-1.739475,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Rosemary Lane",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102738017,
-    "wof:lastmodified":1449069567,
+    "wof:lastmodified":1466257962,
     "wof:name":"Studio 5",
     "wof:parent_id":101873301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.739475,54.404221,-1.739475,54.404221],
+  "bbox": [
+    -1.739475,
+    54.404221,
+    -1.739475,
+    54.404221
+],
   "geometry": {"coordinates":[-1.739475,54.404221],"type":"Point"}
 }

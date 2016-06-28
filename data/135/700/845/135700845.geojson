@@ -2,13 +2,14 @@
   "id": 135700845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.428408,52.822948,-1.428408,52.822948",
     "geom:latitude":52.822948,
     "geom:longitude":-1.428408,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Market Place, Melbourne",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135700845,
-    "wof:lastmodified":1449023743,
+    "wof:lastmodified":1466285903,
     "wof:name":"Melbourne News",
     "wof:parent_id":85684075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.428408,52.822948,-1.428408,52.822948],
+  "bbox": [
+    -1.428408,
+    52.822948,
+    -1.428408,
+    52.822948
+],
   "geometry": {"coordinates":[-1.428408,52.822948],"type":"Point"}
 }

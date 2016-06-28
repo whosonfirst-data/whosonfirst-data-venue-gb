@@ -2,13 +2,14 @@
   "id": 135518039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.612345,50.535378,-3.612345,50.535378",
     "geom:latitude":50.535378,
     "geom:longitude":-3.612345,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Seymour Road",
     "sg:city":"Newton Abbot",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135518039,
-    "wof:lastmodified":1449022717,
+    "wof:lastmodified":1466276599,
     "wof:name":"Newton Abbot School of Music",
     "wof:parent_id":101852597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.612345,50.535378,-3.612345,50.535378],
+  "bbox": [
+    -3.612345,
+    50.535378,
+    -3.612345,
+    50.535378
+],
   "geometry": {"coordinates":[-3.612345,50.535378],"type":"Point"}
 }

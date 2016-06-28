@@ -2,13 +2,14 @@
   "id": 320311789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.574235,55.985031,-4.574235,55.985031",
     "geom:latitude":55.985031,
     "geom:longitude":-4.574235,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Bank Street",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320311789,
-    "wof:lastmodified":1449012139,
+    "wof:lastmodified":1466277442,
     "wof:name":"Dental Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.574235,55.985031,-4.574235,55.985031],
+  "bbox": [
+    -4.574235,
+    55.985031,
+    -4.574235,
+    55.985031
+],
   "geometry": {"coordinates":[-4.574235,55.985031],"type":"Point"}
 }

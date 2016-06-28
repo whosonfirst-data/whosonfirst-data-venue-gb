@@ -2,13 +2,14 @@
   "id": 135583567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.517439,53.828609,-1.517439,53.828609",
     "geom:latitude":53.828609,
     "geom:longitude":-1.517439,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Gledhow Lane",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135583567,
-    "wof:lastmodified":1449023390,
+    "wof:lastmodified":1466281515,
     "wof:name":"Robert Milligan",
     "wof:parent_id":85792885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.517439,53.828609,-1.517439,53.828609],
+  "bbox": [
+    -1.517439,
+    53.828609,
+    -1.517439,
+    53.828609
+],
   "geometry": {"coordinates":[-1.517439,53.828609],"type":"Point"}
 }

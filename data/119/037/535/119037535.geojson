@@ -2,13 +2,14 @@
   "id": 119037535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.301042,52.629299,1.301042,52.629299",
     "geom:latitude":52.629299,
     "geom:longitude":1.301042,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Prince Of Wales Road",
     "sg:city":"Norwich",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":119037535,
-    "wof:lastmodified":1449043573,
+    "wof:lastmodified":1466277610,
     "wof:name":"Service Point",
     "wof:parent_id":85791531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.301042,52.629299,1.301042,52.629299],
+  "bbox": [
+    1.301042,
+    52.629299,
+    1.301042,
+    52.629299
+],
   "geometry": {"coordinates":[1.301042,52.629299],"type":"Point"}
 }

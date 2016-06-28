@@ -2,13 +2,14 @@
   "id": 236330873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.797441,53.631886,-1.797441,53.631886",
     "geom:latitude":53.631886,
     "geom:longitude":-1.797441,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Meltham Road, Lockwood",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236330873,
-    "wof:lastmodified":1449003265,
+    "wof:lastmodified":1466262794,
     "wof:name":"Meltham Road Surgery",
     "wof:parent_id":85789697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "practitioners"
     ]
 },
-  "bbox": [-1.797441,53.631886,-1.797441,53.631886],
+  "bbox": [
+    -1.797441,
+    53.631886,
+    -1.797441,
+    53.631886
+],
   "geometry": {"coordinates":[-1.797441,53.631886],"type":"Point"}
 }

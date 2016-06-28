@@ -2,13 +2,14 @@
   "id": 185957735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.164821,50.85701,-2.164821,50.85701",
     "geom:latitude":50.85701,
     "geom:longitude":-2.164821,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 The Plocks",
     "sg:city":"Blandford Forum",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185957735,
-    "wof:lastmodified":1449007992,
+    "wof:lastmodified":1466256575,
     "wof:name":"Autolok",
     "wof:parent_id":85791379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "locksmith"
     ]
 },
-  "bbox": [-2.164821,50.85701,-2.164821,50.85701],
+  "bbox": [
+    -2.164821,
+    50.85701,
+    -2.164821,
+    50.85701
+],
   "geometry": {"coordinates":[-2.164821,50.85701],"type":"Point"}
 }

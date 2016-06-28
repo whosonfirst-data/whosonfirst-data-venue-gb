@@ -2,13 +2,14 @@
   "id": 253622339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.104265,52.472576,-2.104265,52.472576",
     "geom:latitude":52.472576,
     "geom:longitude":-2.104265,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41-42 High St",
     "sg:city":"Brierley Hill",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253622339,
-    "wof:lastmodified":1449065234,
+    "wof:lastmodified":1466271828,
     "wof:name":"Guys News",
     "wof:parent_id":85789987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.104265,52.472576,-2.104265,52.472576],
+  "bbox": [
+    -2.104265,
+    52.472576,
+    -2.104265,
+    52.472576
+],
   "geometry": {"coordinates":[-2.104265,52.472576],"type":"Point"}
 }

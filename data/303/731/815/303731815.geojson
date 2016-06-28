@@ -2,13 +2,14 @@
   "id": 303731815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.902952,52.48,-1.902952,52.48",
     "geom:latitude":52.48,
     "geom:longitude":-1.902952,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8th Floor, 1 Victoria Square",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303731815,
-    "wof:lastmodified":1449000295,
+    "wof:lastmodified":1466282291,
     "wof:name":"Scottish Equitable Plc",
     "wof:parent_id":85861281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.902952,52.48,-1.902952,52.48],
+  "bbox": [
+    -1.902952,
+    52.48,
+    -1.902952,
+    52.48
+],
   "geometry": {"coordinates":[-1.902952,52.48],"type":"Point"}
 }

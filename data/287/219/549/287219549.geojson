@@ -2,13 +2,14 @@
   "id": 287219549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.129031,52.649014,-1.129031,52.649014",
     "geom:latitude":52.649014,
     "geom:longitude":-1.129031,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Marjorie St",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287219549,
-    "wof:lastmodified":1449001548,
+    "wof:lastmodified":1466269777,
     "wof:name":"Star Wines",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.129031,52.649014,-1.129031,52.649014],
+  "bbox": [
+    -1.129031,
+    52.649014,
+    -1.129031,
+    52.649014
+],
   "geometry": {"coordinates":[-1.129031,52.649014],"type":"Point"}
 }

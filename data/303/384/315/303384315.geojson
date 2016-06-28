@@ -2,13 +2,14 @@
   "id": 303384315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.003488,52.092754,0.003488,52.092754",
     "geom:latitude":52.092754,
     "geom:longitude":0.003488,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Whitecroft Road, Meldreth",
     "sg:city":"Royston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303384315,
-    "wof:lastmodified":1448998426,
+    "wof:lastmodified":1466274392,
     "wof:name":"Something Different",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.003488,52.092754,0.003488,52.092754],
+  "bbox": [
+    0.003488,
+    52.092754,
+    0.003488,
+    52.092754
+],
   "geometry": {"coordinates":[0.003488,52.092754],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320405615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.087919,53.955109,-1.087919,53.955109",
     "geom:latitude":53.955109,
     "geom:longitude":-1.087919,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15-17 Priory Street",
     "sg:city":"York",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320405615,
-    "wof:lastmodified":1449014648,
+    "wof:lastmodified":1466279475,
     "wof:name":"Priory Street Nursery",
     "wof:parent_id":85787081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "creche"
     ]
 },
-  "bbox": [-1.087919,53.955109,-1.087919,53.955109],
+  "bbox": [
+    -1.087919,
+    53.955109,
+    -1.087919,
+    53.955109
+],
   "geometry": {"coordinates":[-1.087919,53.955109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136185421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.089991,51.915218,-2.089991,51.915218",
     "geom:latitude":51.915218,
     "geom:longitude":-2.089991,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Stanwick Cr",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136185421,
-    "wof:lastmodified":1449075132,
+    "wof:lastmodified":1466260061,
     "wof:name":"Acme Aerials",
     "wof:parent_id":85793223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.089991,51.915218,-2.089991,51.915218],
+  "bbox": [
+    -2.089991,
+    51.915218,
+    -2.089991,
+    51.915218
+],
   "geometry": {"coordinates":[-2.089991,51.915218],"type":"Point"}
 }

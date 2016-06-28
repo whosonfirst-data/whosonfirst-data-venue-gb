@@ -2,13 +2,14 @@
   "id": 320060995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.549192,52.578247,-1.549192,52.578247",
     "geom:latitude":52.578247,
     "geom:longitude":-1.549192,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Long Street",
     "sg:city":"Atherstone",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320060995,
-    "wof:lastmodified":1449014625,
+    "wof:lastmodified":1466269912,
     "wof:name":"New Images (Gb) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.549192,52.578247,-1.549192,52.578247],
+  "bbox": [
+    -1.549192,
+    52.578247,
+    -1.549192,
+    52.578247
+],
   "geometry": {"coordinates":[-1.549192,52.578247],"type":"Point"}
 }

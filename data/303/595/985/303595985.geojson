@@ -2,13 +2,14 @@
   "id": 303595985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.265144,55.453239,-4.265144,55.453239",
     "geom:latitude":55.453239,
     "geom:longitude":-4.265144,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Ayr Road",
     "sg:city":"Cumnock",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303595985,
-    "wof:lastmodified":1449000329,
+    "wof:lastmodified":1466280019,
     "wof:name":"Stevensons Dairy Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [-4.265144,55.453239,-4.265144,55.453239],
+  "bbox": [
+    -4.265144,
+    55.453239,
+    -4.265144,
+    55.453239
+],
   "geometry": {"coordinates":[-4.265144,55.453239],"type":"Point"}
 }

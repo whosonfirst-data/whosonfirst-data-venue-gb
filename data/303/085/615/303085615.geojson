@@ -2,13 +2,14 @@
   "id": 303085615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.872999,51.088562,-1.872999,51.088562",
     "geom:latitude":51.088562,
     "geom:longitude":-1.872999,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Olivier Road, Wilton",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":303085615,
-    "wof:lastmodified":1448998726,
+    "wof:lastmodified":1466265135,
     "wof:name":"County Domestics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-1.872999,51.088562,-1.872999,51.088562],
+  "bbox": [
+    -1.872999,
+    51.088562,
+    -1.872999,
+    51.088562
+],
   "geometry": {"coordinates":[-1.872999,51.088562],"type":"Point"}
 }

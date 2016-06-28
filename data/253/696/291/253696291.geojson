@@ -2,13 +2,14 @@
   "id": 253696291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.45333,53.506889,-2.45333,53.506889",
     "geom:latitude":53.506889,
     "geom:longitude":-2.45333,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Peel Corners, Stour Road, Astley",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":253696291,
-    "wof:lastmodified":1449063041,
+    "wof:lastmodified":1466274131,
     "wof:name":"Armani",
     "wof:parent_id":85785389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.45333,53.506889,-2.45333,53.506889],
+  "bbox": [
+    -2.45333,
+    53.506889,
+    -2.45333,
+    53.506889
+],
   "geometry": {"coordinates":[-2.45333,53.506889],"type":"Point"}
 }

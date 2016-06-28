@@ -2,13 +2,14 @@
   "id": 270273665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.249262,55.858398,-4.249262,55.858398",
     "geom:latitude":55.858398,
     "geom:longitude":-4.249262,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Glassford Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270273665,
-    "wof:lastmodified":1449009902,
+    "wof:lastmodified":1466268568,
     "wof:name":"Second Avenue",
     "wof:parent_id":85792629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-4.249262,55.858398,-4.249262,55.858398],
+  "bbox": [
+    -4.249262,
+    55.858398,
+    -4.249262,
+    55.858398
+],
   "geometry": {"coordinates":[-4.249262,55.858398],"type":"Point"}
 }

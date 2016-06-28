@@ -2,13 +2,14 @@
   "id": 236460455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.21132,55.949799,-3.21132,55.949799",
     "geom:latitude":55.949799,
     "geom:longitude":-3.21132,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Clothing Store, 3 Stafford Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236460455,
-    "wof:lastmodified":1449005026,
+    "wof:lastmodified":1466265121,
     "wof:name":"Edinburgh Homeless",
     "wof:parent_id":85792719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.21132,55.949799,-3.21132,55.949799],
+  "bbox": [
+    -3.21132,
+    55.949799,
+    -3.21132,
+    55.949799
+],
   "geometry": {"coordinates":[-3.21132,55.949799],"type":"Point"}
 }

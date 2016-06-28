@@ -2,13 +2,14 @@
   "id": 287000575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.248043,53.480534,-2.248043,53.480534",
     "geom:latitude":53.480534,
     "geom:longitude":-2.248043,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Deansgate",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287000575,
-    "wof:lastmodified":1449000802,
+    "wof:lastmodified":1466278220,
     "wof:name":"Svenson Hair Centre",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "private"
     ]
 },
-  "bbox": [-2.248043,53.480534,-2.248043,53.480534],
+  "bbox": [
+    -2.248043,
+    53.480534,
+    -2.248043,
+    53.480534
+],
   "geometry": {"coordinates":[-2.248043,53.480534],"type":"Point"}
 }

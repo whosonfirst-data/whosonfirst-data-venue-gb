@@ -2,13 +2,14 @@
   "id": 202580933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.22695,55.858692,-4.22695,55.858692",
     "geom:latitude":55.858692,
     "geom:longitude":-4.22695,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"293 Duke Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202580933,
-    "wof:lastmodified":1449061799,
+    "wof:lastmodified":1466255527,
     "wof:name":"Ian Thomson",
     "wof:parent_id":85792639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-4.22695,55.858692,-4.22695,55.858692],
+  "bbox": [
+    -4.22695,
+    55.858692,
+    -4.22695,
+    55.858692
+],
   "geometry": {"coordinates":[-4.22695,55.858692],"type":"Point"}
 }

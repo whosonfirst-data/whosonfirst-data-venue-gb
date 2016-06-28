@@ -2,13 +2,14 @@
   "id": 135816031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.998309,55.942619,-3.998309,55.942619",
     "geom:latitude":55.942619,
     "geom:longitude":-3.998309,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Mctaggart Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135816031,
-    "wof:lastmodified":1449022776,
+    "wof:lastmodified":1466287490,
     "wof:name":"W E S Hire",
     "wof:parent_id":101750633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.998309,55.942619,-3.998309,55.942619],
+  "bbox": [
+    -3.998309,
+    55.942619,
+    -3.998309,
+    55.942619
+],
   "geometry": {"coordinates":[-3.998309,55.942619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304051001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.20687,51.479698,-3.20687,51.479698",
     "geom:latitude":51.479698,
     "geom:longitude":-3.20687,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Rear Of 51-69 Beda Road, Canton",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":304051001,
-    "wof:lastmodified":1449043946,
+    "wof:lastmodified":1466265789,
     "wof:name":"Denton Auto Electrical",
     "wof:parent_id":85861447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supplier"
     ]
 },
-  "bbox": [-3.20687,51.479698,-3.20687,51.479698],
+  "bbox": [
+    -3.20687,
+    51.479698,
+    -3.20687,
+    51.479698
+],
   "geometry": {"coordinates":[-3.20687,51.479698],"type":"Point"}
 }

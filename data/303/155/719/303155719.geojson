@@ -2,13 +2,14 @@
   "id": 303155719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.682508,53.866329,-1.682508,53.866329",
     "geom:latitude":53.866329,
     "geom:longitude":-1.682508,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"67 High Street, Yeadon",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303155719,
-    "wof:lastmodified":1449000134,
+    "wof:lastmodified":1466267339,
     "wof:name":"Yeadon Gold Centre",
     "wof:parent_id":85786761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "jewellery"
     ]
 },
-  "bbox": [-1.682508,53.866329,-1.682508,53.866329],
+  "bbox": [
+    -1.682508,
+    53.866329,
+    -1.682508,
+    53.866329
+],
   "geometry": {"coordinates":[-1.682508,53.866329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203243223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.201723,53.369987,-2.201723,53.369987",
     "geom:latitude":53.369987,
     "geom:longitude":-2.201723,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Watersfield Close, Cheadle Hulme",
     "sg:city":"Cheadle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203243223,
-    "wof:lastmodified":1449025534,
+    "wof:lastmodified":1466256817,
     "wof:name":"Practical Information Management Ltd.",
     "wof:parent_id":85786499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-2.201723,53.369987,-2.201723,53.369987],
+  "bbox": [
+    -2.201723,
+    53.369987,
+    -2.201723,
+    53.369987
+],
   "geometry": {"coordinates":[-2.201723,53.369987],"type":"Point"}
 }

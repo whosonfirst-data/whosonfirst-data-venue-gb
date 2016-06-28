@@ -2,13 +2,14 @@
   "id": 253587251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.204585,55.943428,-3.204585,55.943428",
     "geom:latitude":55.943428,
     "geom:longitude":-3.204585,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 West Tollcross",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253587251,
-    "wof:lastmodified":1449063837,
+    "wof:lastmodified":1466270721,
     "wof:name":"The Cavendish",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "night"
     ]
 },
-  "bbox": [-3.204585,55.943428,-3.204585,55.943428],
+  "bbox": [
+    -3.204585,
+    55.943428,
+    -3.204585,
+    55.943428
+],
   "geometry": {"coordinates":[-3.204585,55.943428],"type":"Point"}
 }

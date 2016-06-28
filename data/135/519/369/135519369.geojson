@@ -2,13 +2,14 @@
   "id": 135519369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.131485,55.933735,-3.131485,55.933735",
     "geom:latitude":55.933735,
     "geom:longitude":-3.131485,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Niddrie Mains Drive",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135519369,
-    "wof:lastmodified":1449023804,
+    "wof:lastmodified":1466276764,
     "wof:name":"R & A Newsagents",
     "wof:parent_id":85789419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.131485,55.933735,-3.131485,55.933735],
+  "bbox": [
+    -3.131485,
+    55.933735,
+    -3.131485,
+    55.933735
+],
   "geometry": {"coordinates":[-3.131485,55.933735],"type":"Point"}
 }

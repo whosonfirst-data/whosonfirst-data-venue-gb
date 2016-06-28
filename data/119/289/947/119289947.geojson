@@ -2,13 +2,14 @@
   "id": 119289947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.17746,55.85318,-4.17746,55.85318",
     "geom:latitude":55.85318,
     "geom:longitude":-4.17746,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Fernan Street Complex, 30 Fernan St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119289947,
-    "wof:lastmodified":1449043074,
+    "wof:lastmodified":1466278708,
     "wof:name":"Fernan Street Information Project",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.17746,55.85318,-4.17746,55.85318],
+  "bbox": [
+    -4.17746,
+    55.85318,
+    -4.17746,
+    55.85318
+],
   "geometry": {"coordinates":[-4.17746,55.85318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118893131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.458583,52.526665,-1.458583,52.526665",
     "geom:latitude":52.526665,
     "geom:longitude":-1.458583,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Leicester Road",
     "sg:city":"Nuneaton",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":118893131,
-    "wof:lastmodified":1449054295,
+    "wof:lastmodified":1466278976,
     "wof:name":"The Grange Medical Centre",
     "wof:parent_id":85785407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.458583,52.526665,-1.458583,52.526665],
+  "bbox": [
+    -1.458583,
+    52.526665,
+    -1.458583,
+    52.526665
+],
   "geometry": {"coordinates":[-1.458583,52.526665],"type":"Point"}
 }

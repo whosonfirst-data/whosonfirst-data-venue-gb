@@ -2,13 +2,14 @@
   "id": 236751073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.232159,53.009048,-2.232159,53.009048",
     "geom:latitude":53.009048,
     "geom:longitude":-2.232159,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Orme Road",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236751073,
-    "wof:lastmodified":1449001815,
+    "wof:lastmodified":1466270720,
     "wof:name":"Higherland Surgery",
     "wof:parent_id":85789031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-2.232159,53.009048,-2.232159,53.009048],
+  "bbox": [
+    -2.232159,
+    53.009048,
+    -2.232159,
+    53.009048
+],
   "geometry": {"coordinates":[-2.232159,53.009048],"type":"Point"}
 }

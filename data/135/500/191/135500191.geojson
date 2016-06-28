@@ -2,13 +2,14 @@
   "id": 135500191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.05624,51.529732,-0.05624,51.529732",
     "geom:latitude":51.529732,
     "geom:longitude":-0.05624,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Cambridge Heath Rd",
     "sg:city":"Bethnal Green",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135500191,
-    "wof:lastmodified":1449021745,
+    "wof:lastmodified":1466274507,
     "wof:name":"Cambridge Cars",
     "wof:parent_id":85785657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.05624,51.529732,-0.05624,51.529732],
+  "bbox": [
+    -0.05624,
+    51.529732,
+    -0.05624,
+    51.529732
+],
   "geometry": {"coordinates":[-0.05624,51.529732],"type":"Point"}
 }

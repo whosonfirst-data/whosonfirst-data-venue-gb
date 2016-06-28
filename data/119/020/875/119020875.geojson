@@ -2,13 +2,14 @@
   "id": 119020875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.30277,55.840233,-4.30277,55.840233",
     "geom:latitude":55.840233,
     "geom:longitude":-4.30277,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Sutherland Av",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119020875,
-    "wof:lastmodified":1449042076,
+    "wof:lastmodified":1466276040,
     "wof:name":"Sutherland House",
     "wof:parent_id":85861553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.30277,55.840233,-4.30277,55.840233],
+  "bbox": [
+    -4.30277,
+    55.840233,
+    -4.30277,
+    55.840233
+],
   "geometry": {"coordinates":[-4.30277,55.840233],"type":"Point"}
 }

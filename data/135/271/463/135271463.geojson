@@ -2,13 +2,14 @@
   "id": 135271463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.095308,51.603832,-3.095308,51.603832",
     "geom:latitude":51.603832,
     "geom:longitude":-3.095308,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Commercial Street, Risca",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135271463,
-    "wof:lastmodified":1449022596,
+    "wof:lastmodified":1466263300,
     "wof:name":"Oasis Kebab House",
     "wof:parent_id":85684187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.095308,51.603832,-3.095308,51.603832],
+  "bbox": [
+    -3.095308,
+    51.603832,
+    -3.095308,
+    51.603832
+],
   "geometry": {"coordinates":[-3.095308,51.603832],"type":"Point"}
 }

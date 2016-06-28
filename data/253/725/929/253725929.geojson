@@ -2,13 +2,14 @@
   "id": 253725929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.559193,54.525299,-1.559193,54.525299",
     "geom:latitude":54.525299,
     "geom:longitude":-1.559193,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Duke Street",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253725929,
-    "wof:lastmodified":1449063533,
+    "wof:lastmodified":1466275133,
     "wof:name":"Ian Whitfield & Co",
     "wof:parent_id":85787981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-1.559193,54.525299,-1.559193,54.525299],
+  "bbox": [
+    -1.559193,
+    54.525299,
+    -1.559193,
+    54.525299
+],
   "geometry": {"coordinates":[-1.559193,54.525299],"type":"Point"}
 }

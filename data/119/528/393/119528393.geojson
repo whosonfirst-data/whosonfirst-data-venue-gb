@@ -2,13 +2,14 @@
   "id": 119528393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.776135,55.955532,-2.776135,55.955532",
     "geom:latitude":55.955532,
     "geom:longitude":-2.776135,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"82 High Street",
     "sg:city":"Haddington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119528393,
-    "wof:lastmodified":1449041502,
+    "wof:lastmodified":1466287599,
     "wof:name":"Villeneuve Wines",
     "wof:parent_id":101872461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.776135,55.955532,-2.776135,55.955532],
+  "bbox": [
+    -2.776135,
+    55.955532,
+    -2.776135,
+    55.955532
+],
   "geometry": {"coordinates":[-2.776135,55.955532],"type":"Point"}
 }

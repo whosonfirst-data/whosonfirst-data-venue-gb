@@ -2,13 +2,14 @@
   "id": 220050129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.721524,53.798248,-1.721524,53.798248",
     "geom:latitude":53.798248,
     "geom:longitude":-1.721524,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Barkerend Health Centre, Barkerend Road",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220050129,
-    "wof:lastmodified":1449074496,
+    "wof:lastmodified":1466253806,
     "wof:name":"Barkerend Community Health Centre",
     "wof:parent_id":85790989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nh"
     ]
 },
-  "bbox": [-1.721524,53.798248,-1.721524,53.798248],
+  "bbox": [
+    -1.721524,
+    53.798248,
+    -1.721524,
+    53.798248
+],
   "geometry": {"coordinates":[-1.721524,53.798248],"type":"Point"}
 }

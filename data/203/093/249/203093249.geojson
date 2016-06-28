@@ -2,13 +2,14 @@
   "id": 203093249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.1626,55.893608,-3.1626,55.893608",
     "geom:latitude":55.893608,
     "geom:longitude":-3.1626,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Old Burdiehouse Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203093249,
-    "wof:lastmodified":1449024934,
+    "wof:lastmodified":1466254204,
     "wof:name":"Burdiehouse Garage",
     "wof:parent_id":85787605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [-3.1626,55.893608,-3.1626,55.893608],
+  "bbox": [
+    -3.1626,
+    55.893608,
+    -3.1626,
+    55.893608
+],
   "geometry": {"coordinates":[-3.1626,55.893608],"type":"Point"}
 }

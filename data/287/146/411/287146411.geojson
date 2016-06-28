@@ -2,13 +2,14 @@
   "id": 287146411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.447271,53.566372,-1.447271,53.566372",
     "geom:latitude":53.566372,
     "geom:longitude":-1.447271,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Burton Rd",
     "sg:city":"Barnsley",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287146411,
-    "wof:lastmodified":1449001036,
+    "wof:lastmodified":1466267504,
     "wof:name":"Electratest",
     "wof:parent_id":85789147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-1.447271,53.566372,-1.447271,53.566372],
+  "bbox": [
+    -1.447271,
+    53.566372,
+    -1.447271,
+    53.566372
+],
   "geometry": {"coordinates":[-1.447271,53.566372],"type":"Point"}
 }

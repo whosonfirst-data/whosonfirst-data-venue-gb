@@ -2,13 +2,14 @@
   "id": 203206123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.15563,52.507107,-2.15563,52.507107",
     "geom:latitude":52.507107,
     "geom:longitude":-2.15563,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Third Avenue, Pensnett Trading Estate",
     "sg:city":"Kingswinford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203206123,
-    "wof:lastmodified":1449026272,
+    "wof:lastmodified":1466256107,
     "wof:name":"Tech-wire International Ltd",
     "wof:parent_id":85790335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfrs"
     ]
 },
-  "bbox": [-2.15563,52.507107,-2.15563,52.507107],
+  "bbox": [
+    -2.15563,
+    52.507107,
+    -2.15563,
+    52.507107
+],
   "geometry": {"coordinates":[-2.15563,52.507107],"type":"Point"}
 }

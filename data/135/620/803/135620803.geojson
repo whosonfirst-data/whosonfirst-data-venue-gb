@@ -2,13 +2,14 @@
   "id": 135620803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.418234,53.623276,-1.418234,53.623276",
     "geom:latitude":53.623276,
     "geom:longitude":-1.418234,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Chapel Street, Ryhill",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135620803,
-    "wof:lastmodified":1449023748,
+    "wof:lastmodified":1466283543,
     "wof:name":"Main Street Salon",
     "wof:parent_id":85683685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.418234,53.623276,-1.418234,53.623276],
+  "bbox": [
+    -1.418234,
+    53.623276,
+    -1.418234,
+    53.623276
+],
   "geometry": {"coordinates":[-1.418234,53.623276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252916325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.806543,55.596416,-1.806543,55.596416",
     "geom:latitude":55.596416,
     "geom:longitude":-1.806543,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Station Road",
     "sg:city":"Belford",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":252916325,
-    "wof:lastmodified":1449006010,
+    "wof:lastmodified":1466261132,
     "wof:name":"Belford Car Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-1.806543,55.596416,-1.806543,55.596416],
+  "bbox": [
+    -1.806543,
+    55.596416,
+    -1.806543,
+    55.596416
+],
   "geometry": {"coordinates":[-1.806543,55.596416],"type":"Point"}
 }

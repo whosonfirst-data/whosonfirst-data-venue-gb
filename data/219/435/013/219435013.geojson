@@ -2,13 +2,14 @@
   "id": 219435013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.346768,53.377499,-2.346768,53.377499",
     "geom:latitude":53.377499,
     "geom:longitude":-2.346768,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"162-164 Ashley Road, Hale",
     "sg:city":"Altrincham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219435013,
-    "wof:lastmodified":1449073596,
+    "wof:lastmodified":1466257682,
     "wof:name":"Rooftops",
     "wof:parent_id":85791535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "agent"
     ]
 },
-  "bbox": [-2.346768,53.377499,-2.346768,53.377499],
+  "bbox": [
+    -2.346768,
+    53.377499,
+    -2.346768,
+    53.377499
+],
   "geometry": {"coordinates":[-2.346768,53.377499],"type":"Point"}
 }

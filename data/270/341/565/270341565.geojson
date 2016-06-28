@@ -2,13 +2,14 @@
   "id": 270341565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.310956,55.85556,-4.310956,55.85556",
     "geom:latitude":55.85556,
     "geom:longitude":-4.310956,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Broomloan Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270341565,
-    "wof:lastmodified":1449011023,
+    "wof:lastmodified":1466270715,
     "wof:name":"Ross Contracts",
     "wof:parent_id":85792485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shopfitters"
     ]
 },
-  "bbox": [-4.310956,55.85556,-4.310956,55.85556],
+  "bbox": [
+    -4.310956,
+    55.85556,
+    -4.310956,
+    55.85556
+],
   "geometry": {"coordinates":[-4.310956,55.85556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303798353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.556529,50.86874,0.556529,50.86874",
     "geom:latitude":50.86874,
     "geom:longitude":0.556529,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39-41 Sedlescombe Road North",
     "sg:city":"St Leonards-on-sea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303798353,
-    "wof:lastmodified":1448998569,
+    "wof:lastmodified":1466283030,
     "wof:name":"Lloyds Pharmacy Ltd",
     "wof:parent_id":85861225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chemist"
     ]
 },
-  "bbox": [0.556529,50.86874,0.556529,50.86874],
+  "bbox": [
+    0.556529,
+    50.86874,
+    0.556529,
+    50.86874
+],
   "geometry": {"coordinates":[0.556529,50.86874],"type":"Point"}
 }

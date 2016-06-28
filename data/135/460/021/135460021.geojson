@@ -2,13 +2,14 @@
   "id": 135460021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.215604,53.454803,-2.215604,53.454803",
     "geom:latitude":53.454803,
     "geom:longitude":-2.215604,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Vincent De Paul High School, Denison Road",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135460021,
-    "wof:lastmodified":1449023832,
+    "wof:lastmodified":1466269902,
     "wof:name":"Education Welfare Service Central District",
     "wof:parent_id":85790125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.215604,53.454803,-2.215604,53.454803],
+  "bbox": [
+    -2.215604,
+    53.454803,
+    -2.215604,
+    53.454803
+],
   "geometry": {"coordinates":[-2.215604,53.454803],"type":"Point"}
 }

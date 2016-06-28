@@ -2,13 +2,14 @@
   "id": 303454027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.015421,50.898773,-1.015421,50.898773",
     "geom:latitude":50.898773,
     "geom:longitude":-1.015421,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"84 London Road, Cowplain",
     "sg:city":"Waterlooville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303454027,
-    "wof:lastmodified":1449000333,
+    "wof:lastmodified":1466276577,
     "wof:name":"Alma Garage",
     "wof:parent_id":85785573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.015421,50.898773,-1.015421,50.898773],
+  "bbox": [
+    -1.015421,
+    50.898773,
+    -1.015421,
+    50.898773
+],
   "geometry": {"coordinates":[-1.015421,50.898773],"type":"Point"}
 }

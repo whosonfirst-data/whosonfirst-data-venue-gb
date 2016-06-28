@@ -2,13 +2,14 @@
   "id": 252708055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.284925,50.220741,-5.284925,50.220741",
     "geom:latitude":50.220741,
     "geom:longitude":-5.284925,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Pendarves Street, Tuckingmill",
     "sg:city":"Camborne",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":252708055,
-    "wof:lastmodified":1449005582,
+    "wof:lastmodified":1466257049,
     "wof:name":"Pendarves Arms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "inn"
     ]
 },
-  "bbox": [-5.284925,50.220741,-5.284925,50.220741],
+  "bbox": [
+    -5.284925,
+    50.220741,
+    -5.284925,
+    50.220741
+],
   "geometry": {"coordinates":[-5.284925,50.220741],"type":"Point"}
 }

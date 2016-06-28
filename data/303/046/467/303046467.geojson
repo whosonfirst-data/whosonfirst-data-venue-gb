@@ -2,13 +2,14 @@
   "id": 303046467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.190774,55.949181,-3.190774,55.949181",
     "geom:latitude":55.949181,
     "geom:longitude":-3.190774,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Parliament House, 11 Parliament Square",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303046467,
-    "wof:lastmodified":1448999477,
+    "wof:lastmodified":1466263803,
     "wof:name":"Supreme Courts Scotland",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.190774,55.949181,-3.190774,55.949181],
+  "bbox": [
+    -3.190774,
+    55.949181,
+    -3.190774,
+    55.949181
+],
   "geometry": {"coordinates":[-3.190774,55.949181],"type":"Point"}
 }

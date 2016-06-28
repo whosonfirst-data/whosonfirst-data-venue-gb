@@ -2,13 +2,14 @@
   "id": 135293897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.521211,50.476315,-3.521211,50.476315",
     "geom:latitude":50.476315,
     "geom:longitude":-3.521211,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Warbro Rd",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135293897,
-    "wof:lastmodified":1449021571,
+    "wof:lastmodified":1466276925,
     "wof:name":"Torbay Tapes",
     "wof:parent_id":101751577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.521211,50.476315,-3.521211,50.476315],
+  "bbox": [
+    -3.521211,
+    50.476315,
+    -3.521211,
+    50.476315
+],
   "geometry": {"coordinates":[-3.521211,50.476315],"type":"Point"}
 }

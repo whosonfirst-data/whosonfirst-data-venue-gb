@@ -2,13 +2,14 @@
   "id": 304042341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.399709,55.92448,-4.399709,55.92448",
     "geom:latitude":55.92448,
     "geom:longitude":-4.399709,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Rockbank Pl",
     "sg:city":"Clydebank",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":304042341,
-    "wof:lastmodified":1449044022,
+    "wof:lastmodified":1466265552,
     "wof:name":"Car User",
     "wof:parent_id":85786955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [-4.399709,55.92448,-4.399709,55.92448],
+  "bbox": [
+    -4.399709,
+    55.92448,
+    -4.399709,
+    55.92448
+],
   "geometry": {"coordinates":[-4.399709,55.92448],"type":"Point"}
 }

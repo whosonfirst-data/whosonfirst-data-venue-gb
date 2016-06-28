@@ -2,13 +2,14 @@
   "id": 202809751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.866273,50.738495,-1.866273,50.738495",
     "geom:latitude":50.738495,
     "geom:longitude":-1.866273,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Fitzharris Avenue",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202809751,
-    "wof:lastmodified":1449062208,
+    "wof:lastmodified":1466259244,
     "wof:name":"Drawing Room",
     "wof:parent_id":85791709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "designer"
     ]
 },
-  "bbox": [-1.866273,50.738495,-1.866273,50.738495],
+  "bbox": [
+    -1.866273,
+    50.738495,
+    -1.866273,
+    50.738495
+],
   "geometry": {"coordinates":[-1.866273,50.738495],"type":"Point"}
 }

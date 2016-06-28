@@ -2,13 +2,14 @@
   "id": 253118775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.287608,55.961311,-3.287608,55.961311",
     "geom:latitude":55.961311,
     "geom:longitude":-3.287608,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"443 Queensferry Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253118775,
-    "wof:lastmodified":1449065203,
+    "wof:lastmodified":1466259672,
     "wof:name":"JOHN COULMAN",
     "wof:parent_id":85786699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "coach"
     ]
 },
-  "bbox": [-3.287608,55.961311,-3.287608,55.961311],
+  "bbox": [
+    -3.287608,
+    55.961311,
+    -3.287608,
+    55.961311
+],
   "geometry": {"coordinates":[-3.287608,55.961311],"type":"Point"}
 }

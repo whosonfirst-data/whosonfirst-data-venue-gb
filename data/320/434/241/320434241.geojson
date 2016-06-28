@@ -2,13 +2,14 @@
   "id": 320434241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.25448,55.857449,-4.25448,55.857449",
     "geom:latitude":55.857449,
     "geom:longitude":-4.25448,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Douglas St Car Park, St. Enochs Centre",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320434241,
-    "wof:lastmodified":1449012069,
+    "wof:lastmodified":1466280010,
     "wof:name":"Shopmobility",
     "wof:parent_id":85861547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-4.25448,55.857449,-4.25448,55.857449],
+  "bbox": [
+    -4.25448,
+    55.857449,
+    -4.25448,
+    55.857449
+],
   "geometry": {"coordinates":[-4.25448,55.857449],"type":"Point"}
 }

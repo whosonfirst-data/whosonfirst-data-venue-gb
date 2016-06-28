@@ -2,13 +2,14 @@
   "id": 319862913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.22179,55.869179,-4.22179,55.869179",
     "geom:latitude":55.869179,
     "geom:longitude":-4.22179,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Millburn Centre, 221 Millburn Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":319862913,
-    "wof:lastmodified":1449024904,
+    "wof:lastmodified":1466268854,
     "wof:name":"Rosemount Lifelong Learning",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "centre"
     ]
 },
-  "bbox": [-4.22179,55.869179,-4.22179,55.869179],
+  "bbox": [
+    -4.22179,
+    55.869179,
+    -4.22179,
+    55.869179
+],
   "geometry": {"coordinates":[-4.22179,55.869179],"type":"Point"}
 }

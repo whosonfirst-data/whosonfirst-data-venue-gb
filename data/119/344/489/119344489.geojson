@@ -2,13 +2,14 @@
   "id": 119344489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.869654,55.908653,-4.869654,55.908653",
     "geom:latitude":55.908653,
     "geom:longitude":-4.869654,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Street",
     "sg:city":"Greenock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119344489,
-    "wof:lastmodified":1449041015,
+    "wof:lastmodified":1466282516,
     "wof:name":"Inverkip",
     "wof:parent_id":85860919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.869654,55.908653,-4.869654,55.908653],
+  "bbox": [
+    -4.869654,
+    55.908653,
+    -4.869654,
+    55.908653
+],
   "geometry": {"coordinates":[-4.869654,55.908653],"type":"Point"}
 }

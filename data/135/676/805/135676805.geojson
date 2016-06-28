@@ -2,13 +2,14 @@
   "id": 135676805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.027466,54.904579,-5.027466,54.904579",
     "geom:latitude":54.904579,
     "geom:longitude":-5.027466,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41-43 George Street",
     "sg:city":"Stranraer",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135676805,
-    "wof:lastmodified":1449022944,
+    "wof:lastmodified":1466285624,
     "wof:name":"William Loch",
     "wof:parent_id":101873429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.027466,54.904579,-5.027466,54.904579],
+  "bbox": [
+    -5.027466,
+    54.904579,
+    -5.027466,
+    54.904579
+],
   "geometry": {"coordinates":[-5.027466,54.904579],"type":"Point"}
 }

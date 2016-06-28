@@ -2,13 +2,14 @@
   "id": 320565451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.600888,50.546684,-3.600888,50.546684",
     "geom:latitude":50.546684,
     "geom:longitude":-3.600888,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Andor Av",
     "sg:city":"Newton Abbot",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320565451,
-    "wof:lastmodified":1449014628,
+    "wof:lastmodified":1466282122,
     "wof:name":"S & R Drainage Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sewer"
     ]
 },
-  "bbox": [-3.600888,50.546684,-3.600888,50.546684],
+  "bbox": [
+    -3.600888,
+    50.546684,
+    -3.600888,
+    50.546684
+],
   "geometry": {"coordinates":[-3.600888,50.546684],"type":"Point"}
 }

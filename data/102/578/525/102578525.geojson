@@ -2,13 +2,14 @@
   "id": 102578525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.780415,50.338371,-4.780415,50.338371",
     "geom:latitude":50.338371,
     "geom:longitude":-4.780415,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"101a Alexandra Road",
     "sg:city":"St Austell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102578525,
-    "wof:lastmodified":1449068390,
+    "wof:lastmodified":1466273331,
     "wof:name":"M J Martin",
     "wof:parent_id":101852369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.780415,50.338371,-4.780415,50.338371],
+  "bbox": [
+    -4.780415,
+    50.338371,
+    -4.780415,
+    50.338371
+],
   "geometry": {"coordinates":[-4.780415,50.338371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304018013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.545592,51.453693,-2.545592,51.453693",
     "geom:latitude":51.453693,
     "geom:longitude":-2.545592,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Wootton Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":304018013,
-    "wof:lastmodified":1449043869,
+    "wof:lastmodified":1466264795,
     "wof:name":"Tony's",
     "wof:parent_id":85861373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.545592,51.453693,-2.545592,51.453693],
+  "bbox": [
+    -2.545592,
+    51.453693,
+    -2.545592,
+    51.453693
+],
   "geometry": {"coordinates":[-2.545592,51.453693],"type":"Point"}
 }

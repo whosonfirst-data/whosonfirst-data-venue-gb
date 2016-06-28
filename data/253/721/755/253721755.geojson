@@ -2,13 +2,14 @@
   "id": 253721755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.05299,50.260983,-5.05299,50.260983",
     "geom:latitude":50.260983,
     "geom:longitude":-5.05299,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Lemon Street",
     "sg:city":"Truro",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253721755,
-    "wof:lastmodified":1449065794,
+    "wof:lastmodified":1466274987,
     "wof:name":"Flutter Weld & Edwards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.05299,50.260983,-5.05299,50.260983],
+  "bbox": [
+    -5.05299,
+    50.260983,
+    -5.05299,
+    50.260983
+],
   "geometry": {"coordinates":[-5.05299,50.260983],"type":"Point"}
 }

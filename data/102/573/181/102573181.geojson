@@ -2,13 +2,14 @@
   "id": 102573181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.224409,55.910015,-4.224409,55.910015",
     "geom:latitude":55.910015,
     "geom:longitude":-4.224409,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Dalhousie Gardens",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102573181,
-    "wof:lastmodified":1449069580,
+    "wof:lastmodified":1466263413,
     "wof:name":"M McKenna",
     "wof:parent_id":85785743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.224409,55.910015,-4.224409,55.910015],
+  "bbox": [
+    -4.224409,
+    55.910015,
+    -4.224409,
+    55.910015
+],
   "geometry": {"coordinates":[-4.224409,55.910015],"type":"Point"}
 }

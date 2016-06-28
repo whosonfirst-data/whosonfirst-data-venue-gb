@@ -2,13 +2,14 @@
   "id": 236292113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.46809,50.71674,-3.46809,50.71674",
     "geom:latitude":50.71674,
     "geom:longitude":-3.46809,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Falcon Road, Sowton",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236292113,
-    "wof:lastmodified":1449001881,
+    "wof:lastmodified":1466262090,
     "wof:name":"Devon Direct Services",
     "wof:parent_id":85786799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-3.46809,50.71674,-3.46809,50.71674],
+  "bbox": [
+    -3.46809,
+    50.71674,
+    -3.46809,
+    50.71674
+],
   "geometry": {"coordinates":[-3.46809,50.71674],"type":"Point"}
 }

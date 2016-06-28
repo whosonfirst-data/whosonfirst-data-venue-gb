@@ -2,13 +2,14 @@
   "id": 102702923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.613221,51.46529,0.613221,51.46529",
     "geom:latitude":51.46529,
     "geom:longitude":0.613221,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Shakespeare Farm House, Shakespeare Farm Road, St Mary Hoo",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102702923,
-    "wof:lastmodified":1449068956,
+    "wof:lastmodified":1466256503,
     "wof:name":"Kenlocks",
     "wof:parent_id":85684555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.613221,51.46529,0.613221,51.46529],
+  "bbox": [
+    0.613221,
+    51.46529,
+    0.613221,
+    51.46529
+],
   "geometry": {"coordinates":[0.613221,51.46529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136105495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.909242,52.483761,-1.909242,52.483761",
     "geom:latitude":52.483761,
     "geom:longitude":-1.909242,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49 George St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136105495,
-    "wof:lastmodified":1449075419,
+    "wof:lastmodified":1466255913,
     "wof:name":"White,Peter,Associates Ltd",
     "wof:parent_id":85792837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.909242,52.483761,-1.909242,52.483761],
+  "bbox": [
+    -1.909242,
+    52.483761,
+    -1.909242,
+    52.483761
+],
   "geometry": {"coordinates":[-1.909242,52.483761],"type":"Point"}
 }

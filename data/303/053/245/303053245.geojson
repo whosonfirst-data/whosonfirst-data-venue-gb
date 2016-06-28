@@ -2,13 +2,14 @@
   "id": 303053245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.536972,55.118294,-1.536972,55.118294",
     "geom:latitude":55.118294,
     "geom:longitude":-1.536972,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Druridge Drive",
     "sg:city":"Blyth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303053245,
-    "wof:lastmodified":1448998576,
+    "wof:lastmodified":1466263999,
     "wof:name":"Michael's Chinese Takeaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "take"
     ]
 },
-  "bbox": [-1.536972,55.118294,-1.536972,55.118294],
+  "bbox": [
+    -1.536972,
+    55.118294,
+    -1.536972,
+    55.118294
+],
   "geometry": {"coordinates":[-1.536972,55.118294],"type":"Point"}
 }

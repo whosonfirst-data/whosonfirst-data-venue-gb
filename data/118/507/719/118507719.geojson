@@ -2,13 +2,14 @@
   "id": 118507719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.6097,53.600319,-1.6097,53.600319",
     "geom:latitude":53.600319,
     "geom:longitude":-1.6097,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Block 1, Nortonthorpe Mills",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":118507719,
-    "wof:lastmodified":1449053873,
+    "wof:lastmodified":1466274185,
     "wof:name":"A J Mills",
     "wof:parent_id":85684435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.6097,53.600319,-1.6097,53.600319],
+  "bbox": [
+    -1.6097,
+    53.600319,
+    -1.6097,
+    53.600319
+],
   "geometry": {"coordinates":[-1.6097,53.600319],"type":"Point"}
 }

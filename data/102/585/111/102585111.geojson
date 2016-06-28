@@ -2,13 +2,14 @@
   "id": 102585111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.876671,50.721149,-1.876671,50.721149",
     "geom:latitude":50.721149,
     "geom:longitude":-1.876671,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Yelverton Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102585111,
-    "wof:lastmodified":1449069389,
+    "wof:lastmodified":1466275752,
     "wof:name":"Brides of Bournemouth",
     "wof:parent_id":85866817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.876671,50.721149,-1.876671,50.721149],
+  "bbox": [
+    -1.876671,
+    50.721149,
+    -1.876671,
+    50.721149
+],
   "geometry": {"coordinates":[-1.876671,50.721149],"type":"Point"}
 }

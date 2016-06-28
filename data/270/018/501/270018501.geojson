@@ -2,13 +2,14 @@
   "id": 270018501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.109135,52.457558,-2.109135,52.457558",
     "geom:latitude":52.457558,
     "geom:longitude":-2.109135,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"81 High Street, Belbroughton",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270018501,
-    "wof:lastmodified":1449009860,
+    "wof:lastmodified":1466261016,
     "wof:name":"Prospect Coaches (West) Ltd.",
     "wof:parent_id":85788941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "coach"
     ]
 },
-  "bbox": [-2.109135,52.457558,-2.109135,52.457558],
+  "bbox": [
+    -2.109135,
+    52.457558,
+    -2.109135,
+    52.457558
+],
   "geometry": {"coordinates":[-2.109135,52.457558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303975499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.254515,55.859661,-4.254515,55.859661",
     "geom:latitude":55.859661,
     "geom:longitude":-4.254515,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Buchanan Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303975499,
-    "wof:lastmodified":1449000226,
+    "wof:lastmodified":1466285186,
     "wof:name":"Willow Tea Rooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "room"
     ]
 },
-  "bbox": [-4.254515,55.859661,-4.254515,55.859661],
+  "bbox": [
+    -4.254515,
+    55.859661,
+    -4.254515,
+    55.859661
+],
   "geometry": {"coordinates":[-4.254515,55.859661],"type":"Point"}
 }

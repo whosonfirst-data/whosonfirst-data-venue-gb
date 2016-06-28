@@ -2,13 +2,14 @@
   "id": 203296037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.428906,50.939999,-1.428906,50.939999",
     "geom:latitude":50.939999,
     "geom:longitude":-1.428906,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Summerfield House, 247 Aldermoor Rd, Aldermoor",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203296037,
-    "wof:lastmodified":1449026488,
+    "wof:lastmodified":1466257781,
     "wof:name":"B & S Travel Ltd",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cab"
     ]
 },
-  "bbox": [-1.428906,50.939999,-1.428906,50.939999],
+  "bbox": [
+    -1.428906,
+    50.939999,
+    -1.428906,
+    50.939999
+],
   "geometry": {"coordinates":[-1.428906,50.939999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219454621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.00624,51.54689,0.00624,51.54689",
     "geom:latitude":51.54689,
     "geom:longitude":0.00624,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"61-63 Leytonstone Road, Leytonstone",
     "sg:city":"London",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219454621,
-    "wof:lastmodified":1449073585,
+    "wof:lastmodified":1466258014,
     "wof:name":"Parallax Group Ltd.",
     "wof:parent_id":85790801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "software"
     ]
 },
-  "bbox": [0.00624,51.54689,0.00624,51.54689],
+  "bbox": [
+    0.00624,
+    51.54689,
+    0.00624,
+    51.54689
+],
   "geometry": {"coordinates":[0.00624,51.54689],"type":"Point"}
 }

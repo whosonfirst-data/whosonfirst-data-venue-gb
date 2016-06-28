@@ -2,13 +2,14 @@
   "id": 118555141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.424311,53.424366,-1.424311,53.424366",
     "geom:latitude":53.424366,
     "geom:longitude":-1.424311,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Woodbury Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118555141,
-    "wof:lastmodified":1449054346,
+    "wof:lastmodified":1466254335,
     "wof:name":"D Short",
     "wof:parent_id":85785765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.424311,53.424366,-1.424311,53.424366],
+  "bbox": [
+    -1.424311,
+    53.424366,
+    -1.424311,
+    53.424366
+],
   "geometry": {"coordinates":[-1.424311,53.424366],"type":"Point"}
 }

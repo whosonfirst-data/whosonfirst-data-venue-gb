@@ -2,13 +2,14 @@
   "id": 119247895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.26954,55.965527,-3.26954,55.965527",
     "geom:latitude":55.965527,
     "geom:longitude":-3.26954,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Main Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119247895,
-    "wof:lastmodified":1449042416,
+    "wof:lastmodified":1466274571,
     "wof:name":"Corbie Takeaway",
     "wof:parent_id":85786975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.26954,55.965527,-3.26954,55.965527],
+  "bbox": [
+    -3.26954,
+    55.965527,
+    -3.26954,
+    55.965527
+],
   "geometry": {"coordinates":[-3.26954,55.965527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135682437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.21651,51.731609,-1.21651,51.731609",
     "geom:latitude":51.731609,
     "geom:longitude":-1.21651,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5a The Square, Cowley",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135682437,
-    "wof:lastmodified":1449021497,
+    "wof:lastmodified":1466285680,
     "wof:name":"Contact",
     "wof:parent_id":85786815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.21651,51.731609,-1.21651,51.731609],
+  "bbox": [
+    -1.21651,
+    51.731609,
+    -1.21651,
+    51.731609
+],
   "geometry": {"coordinates":[-1.21651,51.731609],"type":"Point"}
 }

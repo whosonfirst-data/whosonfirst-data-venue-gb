@@ -2,13 +2,14 @@
   "id": 303367645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.238929,52.586288,-0.238929,52.586288",
     "geom:latitude":52.586288,
     "geom:longitude":-0.238929,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Dogsthorpe Road, Queens Drive West",
     "sg:city":"Peterborough",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303367645,
-    "wof:lastmodified":1448999564,
+    "wof:lastmodified":1466273840,
     "wof:name":"Peterborough Auctions",
     "wof:parent_id":85789731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-0.238929,52.586288,-0.238929,52.586288],
+  "bbox": [
+    -0.238929,
+    52.586288,
+    -0.238929,
+    52.586288
+],
   "geometry": {"coordinates":[-0.238929,52.586288],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303237001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.493739,52.420433,-1.493739,52.420433",
     "geom:latitude":52.420433,
     "geom:longitude":-1.493739,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Red Lane",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303237001,
-    "wof:lastmodified":1448998177,
+    "wof:lastmodified":1466269970,
     "wof:name":"Gilbert & Shropshire Ltd.",
     "wof:parent_id":85792035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "plumbers'"
     ]
 },
-  "bbox": [-1.493739,52.420433,-1.493739,52.420433],
+  "bbox": [
+    -1.493739,
+    52.420433,
+    -1.493739,
+    52.420433
+],
   "geometry": {"coordinates":[-1.493739,52.420433],"type":"Point"}
 }

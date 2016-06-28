@@ -2,13 +2,14 @@
   "id": 303062573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.133971,52.632565,-1.133971,52.632565",
     "geom:latitude":52.632565,
     "geom:longitude":-1.133971,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22-24 Pocklingtons Walk",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303062573,
-    "wof:lastmodified":1449000389,
+    "wof:lastmodified":1466264342,
     "wof:name":"Chaplins",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "room"
     ]
 },
-  "bbox": [-1.133971,52.632565,-1.133971,52.632565],
+  "bbox": [
+    -1.133971,
+    52.632565,
+    -1.133971,
+    52.632565
+],
   "geometry": {"coordinates":[-1.133971,52.632565],"type":"Point"}
 }

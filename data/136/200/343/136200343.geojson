@@ -2,13 +2,14 @@
   "id": 136200343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.604283,51.455643,-2.604283,51.455643",
     "geom:latitude":51.455643,
     "geom:longitude":-2.604283,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Park Row",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":136200343,
-    "wof:lastmodified":1449075451,
+    "wof:lastmodified":1466260894,
     "wof:name":"Red Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.604283,51.455643,-2.604283,51.455643],
+  "bbox": [
+    -2.604283,
+    51.455643,
+    -2.604283,
+    51.455643
+],
   "geometry": {"coordinates":[-2.604283,51.455643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270291783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.701889,50.7523,-1.701889,50.7523",
     "geom:latitude":50.7523,
     "geom:longitude":-1.701889,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Ringwood Road, Walkford",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270291783,
-    "wof:lastmodified":1449009366,
+    "wof:lastmodified":1466269173,
     "wof:name":"Walkford Garage Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.701889,50.7523,-1.701889,50.7523],
+  "bbox": [
+    -1.701889,
+    50.7523,
+    -1.701889,
+    50.7523
+],
   "geometry": {"coordinates":[-1.701889,50.7523],"type":"Point"}
 }

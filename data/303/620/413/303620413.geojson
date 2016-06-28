@@ -2,13 +2,14 @@
   "id": 303620413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.037115,55.773415,-4.037115,55.773415",
     "geom:latitude":55.773415,
     "geom:longitude":-4.037115,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Quarry Street",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303620413,
-    "wof:lastmodified":1449000353,
+    "wof:lastmodified":1466280556,
     "wof:name":"The Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-4.037115,55.773415,-4.037115,55.773415],
+  "bbox": [
+    -4.037115,
+    55.773415,
+    -4.037115,
+    55.773415
+],
   "geometry": {"coordinates":[-4.037115,55.773415],"type":"Point"}
 }

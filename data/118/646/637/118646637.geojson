@@ -2,13 +2,14 @@
   "id": 118646637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.68515,55.866646,-3.68515,55.866646",
     "geom:latitude":55.866646,
     "geom:longitude":-3.68515,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 East Main Street, Whitburn",
     "sg:city":"Bathgate",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118646637,
-    "wof:lastmodified":1449053108,
+    "wof:lastmodified":1466261194,
     "wof:name":"Whitburn Area Housing Office",
     "wof:parent_id":101872473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.68515,55.866646,-3.68515,55.866646],
+  "bbox": [
+    -3.68515,
+    55.866646,
+    -3.68515,
+    55.866646
+],
   "geometry": {"coordinates":[-3.68515,55.866646],"type":"Point"}
 }

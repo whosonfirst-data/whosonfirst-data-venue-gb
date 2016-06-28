@@ -2,13 +2,14 @@
   "id": 102609517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.456542,50.587223,-3.456542,50.587223",
     "geom:latitude":50.587223,
     "geom:longitude":-3.456542,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Exeter Road",
     "sg:city":"Dawlish",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102609517,
-    "wof:lastmodified":1449068669,
+    "wof:lastmodified":1466252824,
     "wof:name":"B & N Home Improvements",
     "wof:parent_id":85683773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.456542,50.587223,-3.456542,50.587223],
+  "bbox": [
+    -3.456542,
+    50.587223,
+    -3.456542,
+    50.587223
+],
   "geometry": {"coordinates":[-3.456542,50.587223],"type":"Point"}
 }

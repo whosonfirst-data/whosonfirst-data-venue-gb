@@ -2,13 +2,14 @@
   "id": 136215023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.35821,53.517761,-2.35821,53.517761",
     "geom:latitude":53.517761,
     "geom:longitude":-2.35821,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Manchester Road, Wardley, Swinton",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136215023,
-    "wof:lastmodified":1449076012,
+    "wof:lastmodified":1466261693,
     "wof:name":"Master Brew",
     "wof:parent_id":85791831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.35821,53.517761,-2.35821,53.517761],
+  "bbox": [
+    -2.35821,
+    53.517761,
+    -2.35821,
+    53.517761
+],
   "geometry": {"coordinates":[-2.35821,53.517761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135345007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.552234,53.401329,-2.552234,53.401329",
     "geom:latitude":53.401329,
     "geom:longitude":-2.552234,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Kingsway North",
     "sg:city":"Warrington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135345007,
-    "wof:lastmodified":1449023768,
+    "wof:lastmodified":1466256632,
     "wof:name":"Route 57",
     "wof:parent_id":85789689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.552234,53.401329,-2.552234,53.401329],
+  "bbox": [
+    -2.552234,
+    53.401329,
+    -2.552234,
+    53.401329
+],
   "geometry": {"coordinates":[-2.552234,53.401329],"type":"Point"}
 }

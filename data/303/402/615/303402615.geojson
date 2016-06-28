@@ -2,13 +2,14 @@
   "id": 303402615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.216957,53.09026,-2.216957,53.09026",
     "geom:latitude":53.09026,
     "geom:longitude":-2.216957,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Tern Avenue, Kidsgrove",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303402615,
-    "wof:lastmodified":1448998897,
+    "wof:lastmodified":1466274958,
     "wof:name":"Michael Bailey",
     "wof:parent_id":85861001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "screeders"
     ]
 },
-  "bbox": [-2.216957,53.09026,-2.216957,53.09026],
+  "bbox": [
+    -2.216957,
+    53.09026,
+    -2.216957,
+    53.09026
+],
   "geometry": {"coordinates":[-2.216957,53.09026],"type":"Point"}
 }

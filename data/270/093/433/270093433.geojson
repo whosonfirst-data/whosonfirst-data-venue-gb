@@ -2,13 +2,14 @@
   "id": 270093433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.28379,52.901741,-1.28379,52.901741",
     "geom:latitude":52.901741,
     "geom:longitude":-1.28379,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"136-138 Derby Rd",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":270093433,
-    "wof:lastmodified":1449008662,
+    "wof:lastmodified":1466263275,
     "wof:name":"P Noble",
     "wof:parent_id":85791095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.28379,52.901741,-1.28379,52.901741],
+  "bbox": [
+    -1.28379,
+    52.901741,
+    -1.28379,
+    52.901741
+],
   "geometry": {"coordinates":[-1.28379,52.901741],"type":"Point"}
 }

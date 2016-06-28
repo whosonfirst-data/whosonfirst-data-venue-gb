@@ -2,13 +2,14 @@
   "id": 102615709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.819157,55.623837,-2.819157,55.623837",
     "geom:latitude":55.623837,
     "geom:longitude":-2.819157,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Magdala Terrace",
     "sg:city":"Galashiels",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102615709,
-    "wof:lastmodified":1449068542,
+    "wof:lastmodified":1466253020,
     "wof:name":"Two Way Taxis",
     "wof:parent_id":85684241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.819157,55.623837,-2.819157,55.623837],
+  "bbox": [
+    -2.819157,
+    55.623837,
+    -2.819157,
+    55.623837
+],
   "geometry": {"coordinates":[-2.819157,55.623837],"type":"Point"}
 }

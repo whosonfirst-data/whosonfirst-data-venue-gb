@@ -2,13 +2,14 @@
   "id": 287300237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.266599,55.933239,-3.266599,55.933239",
     "geom:latitude":55.933239,
     "geom:longitude":-3.266599,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Saughton Main Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":287300237,
-    "wof:lastmodified":1449001170,
+    "wof:lastmodified":1466272239,
     "wof:name":"van Land",
     "wof:parent_id":85790721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-3.266599,55.933239,-3.266599,55.933239],
+  "bbox": [
+    -3.266599,
+    55.933239,
+    -3.266599,
+    55.933239
+],
   "geometry": {"coordinates":[-3.266599,55.933239],"type":"Point"}
 }

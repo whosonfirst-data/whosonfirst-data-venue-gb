@@ -2,13 +2,14 @@
   "id": 236587507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.895083,54.042603,-2.895083,54.042603",
     "geom:latitude":54.042603,
     "geom:longitude":-2.895083,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"P O Box 4",
     "sg:city":"Morecambe",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236587507,
-    "wof:lastmodified":1449002645,
+    "wof:lastmodified":1466267592,
     "wof:name":"British Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electricity"
     ]
 },
-  "bbox": [-2.895083,54.042603,-2.895083,54.042603],
+  "bbox": [
+    -2.895083,
+    54.042603,
+    -2.895083,
+    54.042603
+],
   "geometry": {"coordinates":[-2.895083,54.042603],"type":"Point"}
 }

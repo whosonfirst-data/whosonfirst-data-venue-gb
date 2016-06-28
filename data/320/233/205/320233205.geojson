@@ -2,13 +2,14 @@
   "id": 320233205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.170803,53.512547,-2.170803,53.512547",
     "geom:latitude":53.512547,
     "geom:longitude":-2.170803,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Park Avenue, Failsworth",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320233205,
-    "wof:lastmodified":1449015027,
+    "wof:lastmodified":1466275012,
     "wof:name":"Norman Ainsworth",
     "wof:parent_id":85789343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-2.170803,53.512547,-2.170803,53.512547],
+  "bbox": [
+    -2.170803,
+    53.512547,
+    -2.170803,
+    53.512547
+],
   "geometry": {"coordinates":[-2.170803,53.512547],"type":"Point"}
 }

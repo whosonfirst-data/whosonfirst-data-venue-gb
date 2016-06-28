@@ -2,13 +2,14 @@
   "id": 202891861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.456695,53.102158,-2.456695,53.102158",
     "geom:latitude":53.102158,
     "geom:longitude":-2.456695,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"206 West Street",
     "sg:city":"Crewe",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202891861,
-    "wof:lastmodified":1449061656,
+    "wof:lastmodified":1466260616,
     "wof:name":"West St Post Office",
     "wof:parent_id":85786645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.456695,53.102158,-2.456695,53.102158],
+  "bbox": [
+    -2.456695,
+    53.102158,
+    -2.456695,
+    53.102158
+],
   "geometry": {"coordinates":[-2.456695,53.102158],"type":"Point"}
 }

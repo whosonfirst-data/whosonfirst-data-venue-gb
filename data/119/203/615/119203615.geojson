@@ -2,13 +2,14 @@
   "id": 119203615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.778004,53.702824,-1.778004,53.702824",
     "geom:latitude":53.702824,
     "geom:longitude":-1.778004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29-31 King Street",
     "sg:city":"Brighouse",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119203615,
-    "wof:lastmodified":1449042009,
+    "wof:lastmodified":1466269627,
     "wof:name":"Brighouse Taxis",
     "wof:parent_id":85785895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.778004,53.702824,-1.778004,53.702824],
+  "bbox": [
+    -1.778004,
+    53.702824,
+    -1.778004,
+    53.702824
+],
   "geometry": {"coordinates":[-1.778004,53.702824],"type":"Point"}
 }

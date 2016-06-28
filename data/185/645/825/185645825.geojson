@@ -2,13 +2,14 @@
   "id": 185645825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.779989,51.343349,-1.779989,51.343349",
     "geom:latitude":51.343349,
     "geom:longitude":-1.779989,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Wilcot Road",
     "sg:city":"Pewsey",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185645825,
-    "wof:lastmodified":1449006773,
+    "wof:lastmodified":1466252736,
     "wof:name":"Wilcot Road",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "care"
     ]
 },
-  "bbox": [-1.779989,51.343349,-1.779989,51.343349],
+  "bbox": [
+    -1.779989,
+    51.343349,
+    -1.779989,
+    51.343349
+],
   "geometry": {"coordinates":[-1.779989,51.343349],"type":"Point"}
 }

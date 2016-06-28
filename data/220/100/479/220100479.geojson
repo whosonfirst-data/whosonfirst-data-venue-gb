@@ -2,13 +2,14 @@
   "id": 220100479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.005559,51.645508,-1.005559,51.645508",
     "geom:latitude":51.645508,
     "geom:longitude":-1.005559,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 High Street",
     "sg:city":"Watlington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220100479,
-    "wof:lastmodified":1449074640,
+    "wof:lastmodified":1466254717,
     "wof:name":"Watlinton Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "library"
     ]
 },
-  "bbox": [-1.005559,51.645508,-1.005559,51.645508],
+  "bbox": [
+    -1.005559,
+    51.645508,
+    -1.005559,
+    51.645508
+],
   "geometry": {"coordinates":[-1.005559,51.645508],"type":"Point"}
 }

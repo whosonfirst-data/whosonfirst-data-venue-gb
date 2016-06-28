@@ -2,13 +2,14 @@
   "id": 304081395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.31811,54.559402,-1.31811,54.559402",
     "geom:latitude":54.559402,
     "geom:longitude":-1.31811,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Bowesfield Lane",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":304081395,
-    "wof:lastmodified":1449043736,
+    "wof:lastmodified":1466266719,
     "wof:name":"Bowesfield Food Store",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.31811,54.559402,-1.31811,54.559402],
+  "bbox": [
+    -1.31811,
+    54.559402,
+    -1.31811,
+    54.559402
+],
   "geometry": {"coordinates":[-1.31811,54.559402],"type":"Point"}
 }

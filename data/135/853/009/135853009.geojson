@@ -2,13 +2,14 @@
   "id": 135853009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.440047,50.714962,-2.440047,50.714962",
     "geom:latitude":50.714962,
     "geom:longitude":-2.440047,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 High West Street",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135853009,
-    "wof:lastmodified":1449022216,
+    "wof:lastmodified":1466287846,
     "wof:name":"Community Alcohol & Drug Advisory Service",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.440047,50.714962,-2.440047,50.714962],
+  "bbox": [
+    -2.440047,
+    50.714962,
+    -2.440047,
+    50.714962
+],
   "geometry": {"coordinates":[-2.440047,50.714962],"type":"Point"}
 }

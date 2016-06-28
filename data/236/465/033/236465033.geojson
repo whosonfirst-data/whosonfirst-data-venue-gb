@@ -2,13 +2,14 @@
   "id": 236465033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.885952,51.541782,-1.885952,51.541782",
     "geom:latitude":51.541782,
     "geom:longitude":-1.885952,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Woodshaw Mead, Wootton Bassett",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236465033,
-    "wof:lastmodified":1449003948,
+    "wof:lastmodified":1466265208,
     "wof:name":"Emdoneni Ltd",
     "wof:parent_id":85785833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "software"
     ]
 },
-  "bbox": [-1.885952,51.541782,-1.885952,51.541782],
+  "bbox": [
+    -1.885952,
+    51.541782,
+    -1.885952,
+    51.541782
+],
   "geometry": {"coordinates":[-1.885952,51.541782],"type":"Point"}
 }

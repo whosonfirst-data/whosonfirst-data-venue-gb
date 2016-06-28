@@ -2,13 +2,14 @@
   "id": 270086979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.778592,55.987492,-3.778592,55.987492",
     "geom:latitude":55.987492,
     "geom:longitude":-3.778592,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Autocentre, Callendar Road",
     "sg:city":"Falkirk",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":270086979,
-    "wof:lastmodified":1449010307,
+    "wof:lastmodified":1466263054,
     "wof:name":"Peoples Falkirk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [-3.778592,55.987492,-3.778592,55.987492],
+  "bbox": [
+    -3.778592,
+    55.987492,
+    -3.778592,
+    55.987492
+],
   "geometry": {"coordinates":[-3.778592,55.987492],"type":"Point"}
 }

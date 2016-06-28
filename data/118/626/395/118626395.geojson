@@ -2,13 +2,14 @@
   "id": 118626395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.055167,52.182602,0.055167,52.182602",
     "geom:latitude":52.182602,
     "geom:longitude":0.055167,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Comberton Rd, Barton",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118626395,
-    "wof:lastmodified":1449054540,
+    "wof:lastmodified":1466259613,
     "wof:name":"Barton P.O",
     "wof:parent_id":85793135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.055167,52.182602,0.055167,52.182602],
+  "bbox": [
+    0.055167,
+    52.182602,
+    0.055167,
+    52.182602
+],
   "geometry": {"coordinates":[0.055167,52.182602],"type":"Point"}
 }

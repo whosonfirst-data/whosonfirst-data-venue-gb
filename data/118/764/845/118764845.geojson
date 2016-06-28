@@ -2,13 +2,14 @@
   "id": 118764845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.148745,55.94138,-4.148745,55.94138",
     "geom:latitude":55.94138,
     "geom:longitude":-4.148745,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 John St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118764845,
-    "wof:lastmodified":1449054466,
+    "wof:lastmodified":1466270137,
     "wof:name":"John Street Hostel",
     "wof:parent_id":85786143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.148745,55.94138,-4.148745,55.94138],
+  "bbox": [
+    -4.148745,
+    55.94138,
+    -4.148745,
+    55.94138
+],
   "geometry": {"coordinates":[-4.148745,55.94138],"type":"Point"}
 }

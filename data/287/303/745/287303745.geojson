@@ -2,13 +2,14 @@
   "id": 287303745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.105004,50.831783,-0.105004,50.831783",
     "geom:latitude":50.831783,
     "geom:longitude":-0.105004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Whitehawk Way",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287303745,
-    "wof:lastmodified":1449000669,
+    "wof:lastmodified":1466272350,
     "wof:name":"Whitegate Surgery",
     "wof:parent_id":85861299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-0.105004,50.831783,-0.105004,50.831783],
+  "bbox": [
+    -0.105004,
+    50.831783,
+    -0.105004,
+    50.831783
+],
   "geometry": {"coordinates":[-0.105004,50.831783],"type":"Point"}
 }

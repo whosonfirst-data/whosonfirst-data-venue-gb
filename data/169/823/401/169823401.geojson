@@ -2,13 +2,14 @@
   "id": 169823401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.235612,57.479015,-4.235612,57.479015",
     "geom:latitude":57.479015,
     "geom:longitude":-4.235612,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Pine Cottage, 58 Telford St",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169823401,
-    "wof:lastmodified":1449035937,
+    "wof:lastmodified":1466254260,
     "wof:name":"Pine Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-4.235612,57.479015,-4.235612,57.479015],
+  "bbox": [
+    -4.235612,
+    57.479015,
+    -4.235612,
+    57.479015
+],
   "geometry": {"coordinates":[-4.235612,57.479015],"type":"Point"}
 }

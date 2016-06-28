@@ -2,13 +2,14 @@
   "id": 320743553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.164348,52.460094,-2.164348,52.460094",
     "geom:latitude":52.460094,
     "geom:longitude":-2.164348,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Bridgnorth Road, Wollaston",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320743553,
-    "wof:lastmodified":1449014939,
+    "wof:lastmodified":1466284252,
     "wof:name":"Happy House",
     "wof:parent_id":85791731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "take"
     ]
 },
-  "bbox": [-2.164348,52.460094,-2.164348,52.460094],
+  "bbox": [
+    -2.164348,
+    52.460094,
+    -2.164348,
+    52.460094
+],
   "geometry": {"coordinates":[-2.164348,52.460094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303700313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.57309,51.27,0.57309,51.27",
     "geom:latitude":51.27,
     "geom:longitude":0.57309,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Spurway, Bearsted",
     "sg:city":"Maidstone",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303700313,
-    "wof:lastmodified":1449000351,
+    "wof:lastmodified":1466281655,
     "wof:name":"Heritage Builders",
     "wof:parent_id":85791409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [0.57309,51.27,0.57309,51.27],
+  "bbox": [
+    0.57309,
+    51.27,
+    0.57309,
+    51.27
+],
   "geometry": {"coordinates":[0.57309,51.27],"type":"Point"}
 }

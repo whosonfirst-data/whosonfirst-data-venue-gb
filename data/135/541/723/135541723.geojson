@@ -2,13 +2,14 @@
   "id": 135541723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.262445,55.859764,-4.262445,55.859764",
     "geom:latitude":55.859764,
     "geom:longitude":-4.262445,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Corunna House, 39 Cadogan Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135541723,
-    "wof:lastmodified":1449021324,
+    "wof:lastmodified":1466278945,
     "wof:name":"G T M S Scotland",
     "wof:parent_id":85792619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.262445,55.859764,-4.262445,55.859764],
+  "bbox": [
+    -4.262445,
+    55.859764,
+    -4.262445,
+    55.859764
+],
   "geometry": {"coordinates":[-4.262445,55.859764],"type":"Point"}
 }

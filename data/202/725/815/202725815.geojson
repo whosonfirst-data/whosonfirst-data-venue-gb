@@ -2,13 +2,14 @@
   "id": 202725815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.930558,50.757999,-1.930558,50.757999",
     "geom:latitude":50.757999,
     "geom:longitude":-1.930558,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Paddington Grove",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202725815,
-    "wof:lastmodified":1449060732,
+    "wof:lastmodified":1466257841,
     "wof:name":"Paul Wilkins Ltd.",
     "wof:parent_id":85792773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "glazing"
     ]
 },
-  "bbox": [-1.930558,50.757999,-1.930558,50.757999],
+  "bbox": [
+    -1.930558,
+    50.757999,
+    -1.930558,
+    50.757999
+],
   "geometry": {"coordinates":[-1.930558,50.757999],"type":"Point"}
 }

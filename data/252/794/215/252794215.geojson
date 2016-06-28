@@ -2,13 +2,14 @@
   "id": 252794215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.855186,55.760296,-4.855186,55.760296",
     "geom:latitude":55.760296,
     "geom:longitude":-4.855186,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Bay Street, Fairlie",
     "sg:city":"Largs",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":252794215,
-    "wof:lastmodified":1449005930,
+    "wof:lastmodified":1466258780,
     "wof:name":"Scottish Courage Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.855186,55.760296,-4.855186,55.760296],
+  "bbox": [
+    -4.855186,
+    55.760296,
+    -4.855186,
+    55.760296
+],
   "geometry": {"coordinates":[-4.855186,55.760296],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203356351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.14031,52.953583,-1.14031,52.953583",
     "geom:latitude":52.953583,
     "geom:longitude":-1.14031,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Hockley",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":203356351,
-    "wof:lastmodified":1449026501,
+    "wof:lastmodified":1466258792,
     "wof:name":"Clive Jones",
     "wof:parent_id":85790407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.14031,52.953583,-1.14031,52.953583],
+  "bbox": [
+    -1.14031,
+    52.953583,
+    -1.14031,
+    52.953583
+],
   "geometry": {"coordinates":[-1.14031,52.953583],"type":"Point"}
 }

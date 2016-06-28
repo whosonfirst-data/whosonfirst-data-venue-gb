@@ -2,13 +2,14 @@
   "id": 286610719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.28857,50.757275,-1.28857,50.757275",
     "geom:latitude":50.757275,
     "geom:longitude":-1.28857,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Clarence Road, East Cowes",
     "sg:city":"Cowes",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286610719,
-    "wof:lastmodified":1449018031,
+    "wof:lastmodified":1466273026,
     "wof:name":"Country Produce",
     "wof:parent_id":85791461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-1.28857,50.757275,-1.28857,50.757275],
+  "bbox": [
+    -1.28857,
+    50.757275,
+    -1.28857,
+    50.757275
+],
   "geometry": {"coordinates":[-1.28857,50.757275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119398515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.432536,56.397823,-3.432536,56.397823",
     "geom:latitude":56.397823,
     "geom:longitude":-3.432536,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5-7 Kinnoull Street",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119398515,
-    "wof:lastmodified":1449041061,
+    "wof:lastmodified":1466285043,
     "wof:name":"Gullivers",
     "wof:parent_id":101872645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.432536,56.397823,-3.432536,56.397823],
+  "bbox": [
+    -3.432536,
+    56.397823,
+    -3.432536,
+    56.397823
+],
   "geometry": {"coordinates":[-3.432536,56.397823],"type":"Point"}
 }

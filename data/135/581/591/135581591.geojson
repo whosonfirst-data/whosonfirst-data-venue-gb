@@ -2,13 +2,14 @@
   "id": 135581591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.49617,51.782631,-1.49617,51.782631",
     "geom:latitude":51.782631,
     "geom:longitude":-1.49617,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"West Osfordshire Division, Church Green",
     "sg:city":"Witney",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135581591,
-    "wof:lastmodified":1449021619,
+    "wof:lastmodified":1466281448,
     "wof:name":"Oxford County Council",
     "wof:parent_id":101852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.49617,51.782631,-1.49617,51.782631],
+  "bbox": [
+    -1.49617,
+    51.782631,
+    -1.49617,
+    51.782631
+],
   "geometry": {"coordinates":[-1.49617,51.782631],"type":"Point"}
 }

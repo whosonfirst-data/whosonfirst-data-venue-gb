@@ -2,13 +2,14 @@
   "id": 303110387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.996545,53.420151,-2.996545,53.420151",
     "geom:latitude":53.420151,
     "geom:longitude":-2.996545,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"166 - 178 Great Howard Street",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303110387,
-    "wof:lastmodified":1448998918,
+    "wof:lastmodified":1466265964,
     "wof:name":"H S S Lift & Shift",
     "wof:parent_id":85861599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lift"
     ]
 },
-  "bbox": [-2.996545,53.420151,-2.996545,53.420151],
+  "bbox": [
+    -2.996545,
+    53.420151,
+    -2.996545,
+    53.420151
+],
   "geometry": {"coordinates":[-2.996545,53.420151],"type":"Point"}
 }

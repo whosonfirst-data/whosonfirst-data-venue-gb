@@ -2,13 +2,14 @@
   "id": 252711781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.552778,54.525749,-1.552778,54.525749",
     "geom:latitude":54.525749,
     "geom:longitude":-1.552778,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Priestgate",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252711781,
-    "wof:lastmodified":1449006309,
+    "wof:lastmodified":1466257127,
     "wof:name":"Teesside Fireplaces",
     "wof:parent_id":85787981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fireplace"
     ]
 },
-  "bbox": [-1.552778,54.525749,-1.552778,54.525749],
+  "bbox": [
+    -1.552778,
+    54.525749,
+    -1.552778,
+    54.525749
+],
   "geometry": {"coordinates":[-1.552778,54.525749],"type":"Point"}
 }

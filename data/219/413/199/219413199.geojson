@@ -2,13 +2,14 @@
   "id": 219413199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.181345,50.845127,-1.181345,50.845127",
     "geom:latitude":50.845127,
     "geom:longitude":-1.181345,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Seabird Way",
     "sg:city":"Fareham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219413199,
-    "wof:lastmodified":1449070947,
+    "wof:lastmodified":1466257305,
     "wof:name":"M J Warman Installations",
     "wof:parent_id":85787453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "glazing"
     ]
 },
-  "bbox": [-1.181345,50.845127,-1.181345,50.845127],
+  "bbox": [
+    -1.181345,
+    50.845127,
+    -1.181345,
+    50.845127
+],
   "geometry": {"coordinates":[-1.181345,50.845127],"type":"Point"}
 }

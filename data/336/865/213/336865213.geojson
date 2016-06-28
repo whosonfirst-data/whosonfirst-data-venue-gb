@@ -2,13 +2,14 @@
   "id": 336865213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.427178,55.848457,-4.427178,55.848457",
     "geom:latitude":55.848457,
     "geom:longitude":-4.427178,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 St James Street",
     "sg:city":"Paisley",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":336865213,
-    "wof:lastmodified":1448997758,
+    "wof:lastmodified":1466279782,
     "wof:name":"Paisley Sheriff Court",
     "wof:parent_id":85786323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "sheriff"
     ]
 },
-  "bbox": [-4.427178,55.848457,-4.427178,55.848457],
+  "bbox": [
+    -4.427178,
+    55.848457,
+    -4.427178,
+    55.848457
+],
   "geometry": {"coordinates":[-4.427178,55.848457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203234547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.542745,53.798626,-1.542745,53.798626",
     "geom:latitude":53.798626,
     "geom:longitude":-1.542745,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3rd Floor, 23 Thorntons Arcade",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203234547,
-    "wof:lastmodified":1449026765,
+    "wof:lastmodified":1466256647,
     "wof:name":"Epyllion Hairdressing",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.542745,53.798626,-1.542745,53.798626],
+  "bbox": [
+    -1.542745,
+    53.798626,
+    -1.542745,
+    53.798626
+],
   "geometry": {"coordinates":[-1.542745,53.798626],"type":"Point"}
 }

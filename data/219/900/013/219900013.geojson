@@ -2,13 +2,14 @@
   "id": 219900013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.005041,51.453789,-1.005041,51.453789",
     "geom:latitude":51.453789,
     "geom:longitude":-1.005041,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Wantage Road",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219900013,
-    "wof:lastmodified":1449071910,
+    "wof:lastmodified":1466265423,
     "wof:name":"Wantage Road Post Office",
     "wof:parent_id":85791053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.005041,51.453789,-1.005041,51.453789],
+  "bbox": [
+    -1.005041,
+    51.453789,
+    -1.005041,
+    51.453789
+],
   "geometry": {"coordinates":[-1.005041,51.453789],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135999739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.42375,52.992001,-4.42375,52.992001",
     "geom:latitude":52.992001,
     "geom:longitude":-4.42375,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Llanael Haearn",
     "sg:city":"Caernarfon",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135999739,
-    "wof:lastmodified":1449023636,
+    "wof:lastmodified":1466288616,
     "wof:name":"St Aelhaearn Church",
     "wof:parent_id":85684205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.42375,52.992001,-4.42375,52.992001],
+  "bbox": [
+    -4.42375,
+    52.992001,
+    -4.42375,
+    52.992001
+],
   "geometry": {"coordinates":[-4.42375,52.992001],"type":"Point"}
 }

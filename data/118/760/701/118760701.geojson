@@ -2,13 +2,14 @@
   "id": 118760701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.89312,52.907166,-2.89312,52.907166",
     "geom:latitude":52.907166,
     "geom:longitude":-2.89312,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 High Street",
     "sg:city":"Ellesmere",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118760701,
-    "wof:lastmodified":1449054475,
+    "wof:lastmodified":1466269825,
     "wof:name":"Coral",
     "wof:parent_id":101871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.89312,52.907166,-2.89312,52.907166],
+  "bbox": [
+    -2.89312,
+    52.907166,
+    -2.89312,
+    52.907166
+],
   "geometry": {"coordinates":[-2.89312,52.907166],"type":"Point"}
 }

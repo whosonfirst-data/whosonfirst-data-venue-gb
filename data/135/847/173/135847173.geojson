@@ -2,13 +2,14 @@
   "id": 135847173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.761888,55.948006,-4.761888,55.948006",
     "geom:latitude":55.948006,
     "geom:longitude":-4.761888,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Sir Michael Street",
     "sg:city":"Greenock",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135847173,
-    "wof:lastmodified":1449022098,
+    "wof:lastmodified":1466287821,
     "wof:name":"Cut & Curl",
     "wof:parent_id":85791237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.761888,55.948006,-4.761888,55.948006],
+  "bbox": [
+    -4.761888,
+    55.948006,
+    -4.761888,
+    55.948006
+],
   "geometry": {"coordinates":[-4.761888,55.948006],"type":"Point"}
 }

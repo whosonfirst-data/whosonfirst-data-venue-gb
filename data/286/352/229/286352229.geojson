@@ -2,13 +2,14 @@
   "id": 286352229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.156681,52.978828,-1.156681,52.978828",
     "geom:latitude":52.978828,
     "geom:longitude":-1.156681,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Hucknall Road, Sherwood",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286352229,
-    "wof:lastmodified":1449017012,
+    "wof:lastmodified":1466264987,
     "wof:name":"West Lodge Nursing Home",
     "wof:parent_id":85790293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-1.156681,52.978828,-1.156681,52.978828],
+  "bbox": [
+    -1.156681,
+    52.978828,
+    -1.156681,
+    52.978828
+],
   "geometry": {"coordinates":[-1.156681,52.978828],"type":"Point"}
 }

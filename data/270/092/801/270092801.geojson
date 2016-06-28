@@ -2,13 +2,14 @@
   "id": 270092801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.84113,52.60001,-1.84113,52.60001",
     "geom:latitude":52.60001,
     "geom:longitude":-1.84113,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Campion Hillhook Road",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270092801,
-    "wof:lastmodified":1449010609,
+    "wof:lastmodified":1466263259,
     "wof:name":"Tastebuds",
     "wof:parent_id":85787497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "take"
     ]
 },
-  "bbox": [-1.84113,52.60001,-1.84113,52.60001],
+  "bbox": [
+    -1.84113,
+    52.60001,
+    -1.84113,
+    52.60001
+],
   "geometry": {"coordinates":[-1.84113,52.60001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135450001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.507151,51.479279,-2.507151,51.479279",
     "geom:latitude":51.479279,
     "geom:longitude":-2.507151,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Soundwell Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135450001,
-    "wof:lastmodified":1449023549,
+    "wof:lastmodified":1466268614,
     "wof:name":"Curtis,Paul Anthony,",
     "wof:parent_id":85790707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.507151,51.479279,-2.507151,51.479279],
+  "bbox": [
+    -2.507151,
+    51.479279,
+    -2.507151,
+    51.479279
+],
   "geometry": {"coordinates":[-2.507151,51.479279],"type":"Point"}
 }

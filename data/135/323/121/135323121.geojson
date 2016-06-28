@@ -2,13 +2,14 @@
   "id": 135323121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.352686,51.68206,-2.352686,51.68206",
     "geom:latitude":51.68206,
     "geom:longitude":-2.352686,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Long Street",
     "sg:city":"Dursley",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135323121,
-    "wof:lastmodified":1449021265,
+    "wof:lastmodified":1466254002,
     "wof:name":"Kingham & Spencer",
     "wof:parent_id":101852873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.352686,51.68206,-2.352686,51.68206],
+  "bbox": [
+    -2.352686,
+    51.68206,
+    -2.352686,
+    51.68206
+],
   "geometry": {"coordinates":[-2.352686,51.68206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320035517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.084761,53.552879,-2.084761,53.552879",
     "geom:latitude":53.552879,
     "geom:longitude":-2.084761,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Anbridge Rest Home, 1 Herbert Street",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320035517,
-    "wof:lastmodified":1449014249,
+    "wof:lastmodified":1466269174,
     "wof:name":"Anbridge Rest Home",
     "wof:parent_id":85860961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-2.084761,53.552879,-2.084761,53.552879],
+  "bbox": [
+    -2.084761,
+    53.552879,
+    -2.084761,
+    53.552879
+],
   "geometry": {"coordinates":[-2.084761,53.552879],"type":"Point"}
 }

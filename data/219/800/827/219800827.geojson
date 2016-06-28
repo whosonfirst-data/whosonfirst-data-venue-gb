@@ -2,13 +2,14 @@
   "id": 219800827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.235393,53.120823,-1.235393,53.120823",
     "geom:latitude":53.120823,
     "geom:longitude":-1.235393,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Newark Rd",
     "sg:city":"Sutton In Ashfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219800827,
-    "wof:lastmodified":1449070667,
+    "wof:lastmodified":1466263691,
     "wof:name":"Crawford & Cooper",
     "wof:parent_id":85787491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.235393,53.120823,-1.235393,53.120823],
+  "bbox": [
+    -1.235393,
+    53.120823,
+    -1.235393,
+    53.120823
+],
   "geometry": {"coordinates":[-1.235393,53.120823],"type":"Point"}
 }

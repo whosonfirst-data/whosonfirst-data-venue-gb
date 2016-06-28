@@ -2,13 +2,14 @@
   "id": 286876699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.025461,51.449829,-1.025461,51.449829",
     "geom:latitude":51.449829,
     "geom:longitude":-1.025461,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Severn Way, Tilehurst",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286876699,
-    "wof:lastmodified":1449015756,
+    "wof:lastmodified":1466279933,
     "wof:name":"Thames Valley Paving",
     "wof:parent_id":85791053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driveway"
     ]
 },
-  "bbox": [-1.025461,51.449829,-1.025461,51.449829],
+  "bbox": [
+    -1.025461,
+    51.449829,
+    -1.025461,
+    51.449829
+],
   "geometry": {"coordinates":[-1.025461,51.449829],"type":"Point"}
 }

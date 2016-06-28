@@ -2,13 +2,14 @@
   "id": 320152789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.547913,51.188587,-2.547913,51.188587",
     "geom:latitude":51.188587,
     "geom:longitude":-2.547913,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 High Street",
     "sg:city":"Shepton Mallet",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320152789,
-    "wof:lastmodified":1449014108,
+    "wof:lastmodified":1466272663,
     "wof:name":"The Suite Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.547913,51.188587,-2.547913,51.188587],
+  "bbox": [
+    -2.547913,
+    51.188587,
+    -2.547913,
+    51.188587
+],
   "geometry": {"coordinates":[-2.547913,51.188587],"type":"Point"}
 }

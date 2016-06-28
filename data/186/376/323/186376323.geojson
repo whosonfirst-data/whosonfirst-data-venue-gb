@@ -2,13 +2,14 @@
   "id": 186376323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.220129,52.558201,-1.220129,52.558201",
     "geom:latitude":52.558201,
     "geom:longitude":-1.220129,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Croft Rd, Cosby",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":186376323,
-    "wof:lastmodified":1449051306,
+    "wof:lastmodified":1466257213,
     "wof:name":"Jonlow Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.220129,52.558201,-1.220129,52.558201],
+  "bbox": [
+    -1.220129,
+    52.558201,
+    -1.220129,
+    52.558201
+],
   "geometry": {"coordinates":[-1.220129,52.558201],"type":"Point"}
 }

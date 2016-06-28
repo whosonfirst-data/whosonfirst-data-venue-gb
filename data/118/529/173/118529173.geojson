@@ -2,13 +2,14 @@
   "id": 118529173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.600749,51.470116,-2.600749,51.470116",
     "geom:latitude":51.470116,
     "geom:longitude":-2.600749,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Redland Court Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118529173,
-    "wof:lastmodified":1449053751,
+    "wof:lastmodified":1466277820,
     "wof:name":"Courtlands Hotel",
     "wof:parent_id":85790033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.600749,51.470116,-2.600749,51.470116],
+  "bbox": [
+    -2.600749,
+    51.470116,
+    -2.600749,
+    51.470116
+],
   "geometry": {"coordinates":[-2.600749,51.470116],"type":"Point"}
 }

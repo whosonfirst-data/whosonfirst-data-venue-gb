@@ -2,13 +2,14 @@
   "id": 118969603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.184625,55.973751,-3.184625,55.973751",
     "geom:latitude":55.973751,
     "geom:longitude":-3.184625,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Pitt Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118969603,
-    "wof:lastmodified":1449053482,
+    "wof:lastmodified":1466282308,
     "wof:name":"Edinburgh Castle Coaches Ltd.",
     "wof:parent_id":85792709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.184625,55.973751,-3.184625,55.973751],
+  "bbox": [
+    -3.184625,
+    55.973751,
+    -3.184625,
+    55.973751
+],
   "geometry": {"coordinates":[-3.184625,55.973751],"type":"Point"}
 }

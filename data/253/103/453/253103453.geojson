@@ -2,13 +2,14 @@
   "id": 253103453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.238541,51.851002,-2.238541,51.851002",
     "geom:latitude":51.851002,
     "geom:longitude":-2.238541,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Wellesley Street, Tredworth",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253103453,
-    "wof:lastmodified":1449064663,
+    "wof:lastmodified":1466259375,
     "wof:name":"G H W Building Contractors (Glos)",
     "wof:parent_id":85793221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-2.238541,51.851002,-2.238541,51.851002],
+  "bbox": [
+    -2.238541,
+    51.851002,
+    -2.238541,
+    51.851002
+],
   "geometry": {"coordinates":[-2.238541,51.851002],"type":"Point"}
 }

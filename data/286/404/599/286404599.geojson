@@ -2,13 +2,14 @@
   "id": 286404599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.304035,54.545879,-1.304035,54.545879",
     "geom:latitude":54.545879,
     "geom:longitude":-1.304035,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Thornaby Road, Thornaby On Tees",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":286404599,
-    "wof:lastmodified":1449017142,
+    "wof:lastmodified":1466266577,
     "wof:name":"Regal Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cab"
     ]
 },
-  "bbox": [-1.304035,54.545879,-1.304035,54.545879],
+  "bbox": [
+    -1.304035,
+    54.545879,
+    -1.304035,
+    54.545879
+],
   "geometry": {"coordinates":[-1.304035,54.545879],"type":"Point"}
 }

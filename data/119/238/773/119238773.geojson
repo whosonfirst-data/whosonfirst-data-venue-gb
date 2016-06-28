@@ -2,13 +2,14 @@
   "id": 119238773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.110319,56.818245,-5.110319,56.818245",
     "geom:latitude":56.818245,
     "geom:longitude":-5.110319,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 High Street",
     "sg:city":"Fort William",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119238773,
-    "wof:lastmodified":1449041763,
+    "wof:lastmodified":1466273528,
     "wof:name":"N SMITH",
     "wof:parent_id":101872715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.110319,56.818245,-5.110319,56.818245],
+  "bbox": [
+    -5.110319,
+    56.818245,
+    -5.110319,
+    56.818245
+],
   "geometry": {"coordinates":[-5.110319,56.818245],"type":"Point"}
 }

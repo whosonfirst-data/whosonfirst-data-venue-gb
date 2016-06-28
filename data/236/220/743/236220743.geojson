@@ -2,13 +2,14 @@
   "id": 236220743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.468809,53.384415,-1.468809,53.384415",
     "geom:latitude":53.384415,
     "geom:longitude":-1.468809,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Queen St",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236220743,
-    "wof:lastmodified":1449005106,
+    "wof:lastmodified":1466260638,
     "wof:name":"Courts Service The",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.468809,53.384415,-1.468809,53.384415],
+  "bbox": [
+    -1.468809,
+    53.384415,
+    -1.468809,
+    53.384415
+],
   "geometry": {"coordinates":[-1.468809,53.384415],"type":"Point"}
 }

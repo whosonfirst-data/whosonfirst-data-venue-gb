@@ -2,13 +2,14 @@
   "id": 303554517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.709136,56.29578,-3.709136,56.29578",
     "geom:latitude":56.29578,
     "geom:longitude":-3.709136,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"161 High Street",
     "sg:city":"Auchterarder",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303554517,
-    "wof:lastmodified":1448998620,
+    "wof:lastmodified":1466279323,
     "wof:name":"W Combe & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"
     ]
 },
-  "bbox": [-3.709136,56.29578,-3.709136,56.29578],
+  "bbox": [
+    -3.709136,
+    56.29578,
+    -3.709136,
+    56.29578
+],
   "geometry": {"coordinates":[-3.709136,56.29578],"type":"Point"}
 }

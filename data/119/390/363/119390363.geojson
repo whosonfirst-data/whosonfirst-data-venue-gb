@@ -2,13 +2,14 @@
   "id": 119390363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.9627,53.898022,-1.9627,53.898022",
     "geom:latitude":53.898022,
     "geom:longitude":-1.9627,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Airedale General Hospital, Skipton Rd",
     "sg:city":"Keighley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119390363,
-    "wof:lastmodified":1449043562,
+    "wof:lastmodified":1466284621,
     "wof:name":"Airedale Cancer Call Line",
     "wof:parent_id":85791251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.9627,53.898022,-1.9627,53.898022],
+  "bbox": [
+    -1.9627,
+    53.898022,
+    -1.9627,
+    53.898022
+],
   "geometry": {"coordinates":[-1.9627,53.898022],"type":"Point"}
 }

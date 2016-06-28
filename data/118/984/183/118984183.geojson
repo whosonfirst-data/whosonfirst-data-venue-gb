@@ -2,13 +2,14 @@
   "id": 118984183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.155043,57.143848,-2.155043,57.143848",
     "geom:latitude":57.143848,
     "geom:longitude":-2.155043,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Angusfield Avenue",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":118984183,
-    "wof:lastmodified":1449053941,
+    "wof:lastmodified":1466282954,
     "wof:name":"Location Photography",
     "wof:parent_id":85791943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.155043,57.143848,-2.155043,57.143848],
+  "bbox": [
+    -2.155043,
+    57.143848,
+    -2.155043,
+    57.143848
+],
   "geometry": {"coordinates":[-2.155043,57.143848],"type":"Point"}
 }

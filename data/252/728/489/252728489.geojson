@@ -2,13 +2,14 @@
   "id": 252728489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.663475,50.809795,-3.663475,50.809795",
     "geom:latitude":50.809795,
     "geom:longitude":-3.663475,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Oxford Terrace, Sandford",
     "sg:city":"Crediton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":252728489,
-    "wof:lastmodified":1449005674,
+    "wof:lastmodified":1466257463,
     "wof:name":"FERNS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "caterer"
     ]
 },
-  "bbox": [-3.663475,50.809795,-3.663475,50.809795],
+  "bbox": [
+    -3.663475,
+    50.809795,
+    -3.663475,
+    50.809795
+],
   "geometry": {"coordinates":[-3.663475,50.809795],"type":"Point"}
 }

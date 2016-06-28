@@ -2,13 +2,14 @@
   "id": 186601441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.365909,51.38089,1.365909,51.38089",
     "geom:latitude":51.38089,
     "geom:longitude":1.365909,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Grove Gardens, Westbrook",
     "sg:city":"Margate",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186601441,
-    "wof:lastmodified":1449051575,
+    "wof:lastmodified":1466261003,
     "wof:name":"Westbrook Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "boiler"
     ]
 },
-  "bbox": [1.365909,51.38089,1.365909,51.38089],
+  "bbox": [
+    1.365909,
+    51.38089,
+    1.365909,
+    51.38089
+],
   "geometry": {"coordinates":[1.365909,51.38089],"type":"Point"}
 }

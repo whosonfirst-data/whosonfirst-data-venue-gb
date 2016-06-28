@@ -2,13 +2,14 @@
   "id": 203423245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.045913,51.397408,0.045913,51.397408",
     "geom:latitude":51.397408,
     "geom:longitude":0.045913,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Lime Close, Southborough Road",
     "sg:city":"Bromley",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":203423245,
-    "wof:lastmodified":1449025256,
+    "wof:lastmodified":1466259989,
     "wof:name":"Homefield Nursing Home",
     "wof:parent_id":85785675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [0.045913,51.397408,0.045913,51.397408],
+  "bbox": [
+    0.045913,
+    51.397408,
+    0.045913,
+    51.397408
+],
   "geometry": {"coordinates":[0.045913,51.397408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320635687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.237619,50.68745,-3.237619,50.68745",
     "geom:latitude":50.68745,
     "geom:longitude":-3.237619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Drakes Avenue, Sidford",
     "sg:city":"Sidmouth",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":320635687,
-    "wof:lastmodified":1449012871,
+    "wof:lastmodified":1466283233,
     "wof:name":"Green Close",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-3.237619,50.68745,-3.237619,50.68745],
+  "bbox": [
+    -3.237619,
+    50.68745,
+    -3.237619,
+    50.68745
+],
   "geometry": {"coordinates":[-3.237619,50.68745],"type":"Point"}
 }

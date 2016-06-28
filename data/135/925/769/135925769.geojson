@@ -2,13 +2,14 @@
   "id": 135925769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.77204,52.674473,-2.77204,52.674473",
     "geom:latitude":52.674473,
     "geom:longitude":-2.77204,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Lansdowne Road, Bayston Hill",
     "sg:city":"Shrewsbury",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135925769,
-    "wof:lastmodified":1449021006,
+    "wof:lastmodified":1466288277,
     "wof:name":"Bayston Hill Post Office",
     "wof:parent_id":85789059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.77204,52.674473,-2.77204,52.674473],
+  "bbox": [
+    -2.77204,
+    52.674473,
+    -2.77204,
+    52.674473
+],
   "geometry": {"coordinates":[-2.77204,52.674473],"type":"Point"}
 }

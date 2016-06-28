@@ -2,13 +2,14 @@
   "id": 303274645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.62707,52.908131,0.62707,52.908131",
     "geom:latitude":52.908131,
     "geom:longitude":0.62707,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandy Lane, Docking",
     "sg:city":"King's Lynn",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":303274645,
-    "wof:lastmodified":1448998417,
+    "wof:lastmodified":1466271077,
     "wof:name":"Docking Grange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [0.62707,52.908131,0.62707,52.908131],
+  "bbox": [
+    0.62707,
+    52.908131,
+    0.62707,
+    52.908131
+],
   "geometry": {"coordinates":[0.62707,52.908131],"type":"Point"}
 }

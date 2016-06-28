@@ -2,13 +2,14 @@
   "id": 135332119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.298869,52.912029,-1.298869,52.912029",
     "geom:latitude":52.912029,
     "geom:longitude":-1.298869,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Bostocks Lane, Sandiacre",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":135332119,
-    "wof:lastmodified":1449022685,
+    "wof:lastmodified":1466255102,
     "wof:name":"The Grange Residential Home",
     "wof:parent_id":85791095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.298869,52.912029,-1.298869,52.912029],
+  "bbox": [
+    -1.298869,
+    52.912029,
+    -1.298869,
+    52.912029
+],
   "geometry": {"coordinates":[-1.298869,52.912029],"type":"Point"}
 }

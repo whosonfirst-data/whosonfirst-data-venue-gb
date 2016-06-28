@@ -2,13 +2,14 @@
   "id": 287258243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.834804,50.724579,-1.834804,50.724579",
     "geom:latitude":50.724579,
     "geom:longitude":-1.834804,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12a Wilfred Road, Boscombe",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287258243,
-    "wof:lastmodified":1449001364,
+    "wof:lastmodified":1466271041,
     "wof:name":"John F Barnaby",
     "wof:parent_id":85785869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "car"
     ]
 },
-  "bbox": [-1.834804,50.724579,-1.834804,50.724579],
+  "bbox": [
+    -1.834804,
+    50.724579,
+    -1.834804,
+    50.724579
+],
   "geometry": {"coordinates":[-1.834804,50.724579],"type":"Point"}
 }

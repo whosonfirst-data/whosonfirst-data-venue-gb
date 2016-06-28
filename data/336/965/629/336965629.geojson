@@ -2,13 +2,14 @@
   "id": 336965629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.958355,53.737553,-2.958355,53.737553",
     "geom:latitude":53.737553,
     "geom:longitude":-2.958355,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Clifton Street",
     "sg:city":"Lytham St Annes",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336965629,
-    "wof:lastmodified":1448997685,
+    "wof:lastmodified":1466281309,
     "wof:name":"SU OF LYTHAM",
     "wof:parent_id":85790579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "dresswear"
     ]
 },
-  "bbox": [-2.958355,53.737553,-2.958355,53.737553],
+  "bbox": [
+    -2.958355,
+    53.737553,
+    -2.958355,
+    53.737553
+],
   "geometry": {"coordinates":[-2.958355,53.737553],"type":"Point"}
 }

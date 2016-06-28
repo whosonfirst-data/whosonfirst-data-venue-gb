@@ -2,13 +2,14 @@
   "id": 135281929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.022601,53.609875,-3.022601,53.609875",
     "geom:latitude":53.609875,
     "geom:longitude":-3.022601,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Liverpool Road",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135281929,
-    "wof:lastmodified":1449023552,
+    "wof:lastmodified":1466275521,
     "wof:name":"Mercury Freight",
     "wof:parent_id":85785733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.022601,53.609875,-3.022601,53.609875],
+  "bbox": [
+    -3.022601,
+    53.609875,
+    -3.022601,
+    53.609875
+],
   "geometry": {"coordinates":[-3.022601,53.609875],"type":"Point"}
 }

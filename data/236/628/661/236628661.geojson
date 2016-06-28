@@ -2,13 +2,14 @@
   "id": 236628661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.314754,49.914474,-6.314754,49.914474",
     "geom:latitude":49.914474,
     "geom:longitude":-6.314754,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Manse, Church St",
     "sg:city":"St Marys",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236628661,
-    "wof:lastmodified":1449004493,
+    "wof:lastmodified":1466268343,
     "wof:name":"St Mary's Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.314754,49.914474,-6.314754,49.914474],
+  "bbox": [
+    -6.314754,
+    49.914474,
+    -6.314754,
+    49.914474
+],
   "geometry": {"coordinates":[-6.314754,49.914474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303321999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.780879,52.451523,-1.780879,52.451523",
     "geom:latitude":52.451523,
     "geom:longitude":-1.780879,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2241 Coventry Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303321999,
-    "wof:lastmodified":1448998176,
+    "wof:lastmodified":1466272504,
     "wof:name":"Geodis",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "forwarders"
     ]
 },
-  "bbox": [-1.780879,52.451523,-1.780879,52.451523],
+  "bbox": [
+    -1.780879,
+    52.451523,
+    -1.780879,
+    52.451523
+],
   "geometry": {"coordinates":[-1.780879,52.451523],"type":"Point"}
 }

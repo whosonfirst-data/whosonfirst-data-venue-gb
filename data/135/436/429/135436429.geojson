@@ -2,13 +2,14 @@
   "id": 135436429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.319847,55.961353,-3.319847,55.961353",
     "geom:latitude":55.961353,
     "geom:longitude":-3.319847,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26b Cammo Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135436429,
-    "wof:lastmodified":1449023714,
+    "wof:lastmodified":1466267015,
     "wof:name":"IAN MORAN",
     "wof:parent_id":85861457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.319847,55.961353,-3.319847,55.961353],
+  "bbox": [
+    -3.319847,
+    55.961353,
+    -3.319847,
+    55.961353
+],
   "geometry": {"coordinates":[-3.319847,55.961353],"type":"Point"}
 }

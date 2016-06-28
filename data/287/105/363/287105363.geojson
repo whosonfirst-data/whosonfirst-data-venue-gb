@@ -2,13 +2,14 @@
   "id": 287105363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.712628,56.015915,-3.712628,56.015915",
     "geom:latitude":56.015915,
     "geom:longitude":-3.712628,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Bruce Pl",
     "sg:city":"Grangemouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287105363,
-    "wof:lastmodified":1449001007,
+    "wof:lastmodified":1466266194,
     "wof:name":"Portcullis Door Components",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "door"
     ]
 },
-  "bbox": [-3.712628,56.015915,-3.712628,56.015915],
+  "bbox": [
+    -3.712628,
+    56.015915,
+    -3.712628,
+    56.015915
+],
   "geometry": {"coordinates":[-3.712628,56.015915],"type":"Point"}
 }

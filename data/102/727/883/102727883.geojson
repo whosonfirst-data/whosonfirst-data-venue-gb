@@ -2,13 +2,14 @@
   "id": 102727883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.566629,51.539909,-2.566629,51.539909",
     "geom:latitude":51.539909,
     "geom:longitude":-2.566629,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Haywood House, Hempton Lane",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102727883,
-    "wof:lastmodified":1449068165,
+    "wof:lastmodified":1466257439,
     "wof:name":"Haywood Chauffeurs",
     "wof:parent_id":85785427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.566629,51.539909,-2.566629,51.539909],
+  "bbox": [
+    -2.566629,
+    51.539909,
+    -2.566629,
+    51.539909
+],
   "geometry": {"coordinates":[-2.566629,51.539909],"type":"Point"}
 }

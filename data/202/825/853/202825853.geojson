@@ -2,13 +2,14 @@
   "id": 202825853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.27765,52.341255,-2.27765,52.341255",
     "geom:latitude":52.341255,
     "geom:longitude":-2.27765,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Lumbard Street",
     "sg:city":"Stourport-on-severn",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202825853,
-    "wof:lastmodified":1449060194,
+    "wof:lastmodified":1466259494,
     "wof:name":"Organisation Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "staff"
     ]
 },
-  "bbox": [-2.27765,52.341255,-2.27765,52.341255],
+  "bbox": [
+    -2.27765,
+    52.341255,
+    -2.27765,
+    52.341255
+],
   "geometry": {"coordinates":[-2.27765,52.341255],"type":"Point"}
 }

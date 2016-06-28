@@ -2,13 +2,14 @@
   "id": 303750655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.224052,54.006035,-1.224052,54.006035",
     "geom:latitude":54.006035,
     "geom:longitude":-1.224052,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Moor Farm, Moor Monkton",
     "sg:city":"York",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303750655,
-    "wof:lastmodified":1448999598,
+    "wof:lastmodified":1466282542,
     "wof:name":"Geoffrey Wilson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.224052,54.006035,-1.224052,54.006035],
+  "bbox": [
+    -1.224052,
+    54.006035,
+    -1.224052,
+    54.006035
+],
   "geometry": {"coordinates":[-1.224052,54.006035],"type":"Point"}
 }

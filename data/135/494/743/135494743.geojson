@@ -2,13 +2,14 @@
   "id": 135494743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.03967,53.77985,-3.03967,53.77985",
     "geom:latitude":53.77985,
     "geom:longitude":-3.03967,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Abbey Road",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135494743,
-    "wof:lastmodified":1449023678,
+    "wof:lastmodified":1466273839,
     "wof:name":"ABBEY ELECTRICAL",
     "wof:parent_id":85789011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.03967,53.77985,-3.03967,53.77985],
+  "bbox": [
+    -3.03967,
+    53.77985,
+    -3.03967,
+    53.77985
+],
   "geometry": {"coordinates":[-3.03967,53.77985],"type":"Point"}
 }

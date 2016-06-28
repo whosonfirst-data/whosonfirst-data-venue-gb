@@ -2,13 +2,14 @@
   "id": 202832315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.367056,52.144562,-1.367056,52.144562",
     "geom:latitude":52.144562,
     "geom:longitude":-1.367056,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Gallery Farnborough Barn, Strangers Hill, Farnborough",
     "sg:city":"Banbury",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202832315,
-    "wof:lastmodified":1449060122,
+    "wof:lastmodified":1466259599,
     "wof:name":"Artemis NLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "therapy"
     ]
 },
-  "bbox": [-1.367056,52.144562,-1.367056,52.144562],
+  "bbox": [
+    -1.367056,
+    52.144562,
+    -1.367056,
+    52.144562
+],
   "geometry": {"coordinates":[-1.367056,52.144562],"type":"Point"}
 }

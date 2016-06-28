@@ -2,13 +2,14 @@
   "id": 135401763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.42933,51.38192,-2.42933,51.38192",
     "geom:latitude":51.38192,
     "geom:longitude":-2.42933,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Old Rectory, Newton St Loe",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135401763,
-    "wof:lastmodified":1449023574,
+    "wof:lastmodified":1466262893,
     "wof:name":"Duchy of Cornwall",
     "wof:parent_id":85791191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.42933,51.38192,-2.42933,51.38192],
+  "bbox": [
+    -2.42933,
+    51.38192,
+    -2.42933,
+    51.38192
+],
   "geometry": {"coordinates":[-2.42933,51.38192],"type":"Point"}
 }

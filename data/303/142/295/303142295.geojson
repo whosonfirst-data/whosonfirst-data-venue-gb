@@ -2,13 +2,14 @@
   "id": 303142295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.1223,52.285221,0.1223,52.285221",
     "geom:latitude":52.285221,
     "geom:longitude":0.1223,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Harlestones Road, Cottenham",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303142295,
-    "wof:lastmodified":1449000075,
+    "wof:lastmodified":1466266941,
     "wof:name":"City Heating Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "heating"
     ]
 },
-  "bbox": [0.1223,52.285221,0.1223,52.285221],
+  "bbox": [
+    0.1223,
+    52.285221,
+    0.1223,
+    52.285221
+],
   "geometry": {"coordinates":[0.1223,52.285221],"type":"Point"}
 }

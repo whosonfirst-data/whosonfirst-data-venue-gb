@@ -2,13 +2,14 @@
   "id": 203158601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.078155,54.011086,-1.078155,54.011086",
     "geom:latitude":54.011086,
     "geom:longitude":-1.078155,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Ryemoor Road, Haxby",
     "sg:city":"York",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203158601,
-    "wof:lastmodified":1449026242,
+    "wof:lastmodified":1466255272,
     "wof:name":"Haxby Taxis Country Cabs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "private"
     ]
 },
-  "bbox": [-1.078155,54.011086,-1.078155,54.011086],
+  "bbox": [
+    -1.078155,
+    54.011086,
+    -1.078155,
+    54.011086
+],
   "geometry": {"coordinates":[-1.078155,54.011086],"type":"Point"}
 }

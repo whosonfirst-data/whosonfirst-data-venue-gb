@@ -2,13 +2,14 @@
   "id": 253606333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.675052,54.94558,-1.675052,54.94558",
     "geom:latitude":54.94558,
     "geom:longitude":-1.675052,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Front Street, Whickham",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253606333,
-    "wof:lastmodified":1449063274,
+    "wof:lastmodified":1466271341,
     "wof:name":"Travel Needs",
     "wof:parent_id":85787115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "activity"
     ]
 },
-  "bbox": [-1.675052,54.94558,-1.675052,54.94558],
+  "bbox": [
+    -1.675052,
+    54.94558,
+    -1.675052,
+    54.94558
+],
   "geometry": {"coordinates":[-1.675052,54.94558],"type":"Point"}
 }

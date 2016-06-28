@@ -2,13 +2,14 @@
   "id": 219366739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.77994,52.451813,-1.77994,52.451813",
     "geom:latitude":52.451813,
     "geom:longitude":-1.77994,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2234 Coventry Rd, Sheldon",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219366739,
-    "wof:lastmodified":1449072976,
+    "wof:lastmodified":1466256532,
     "wof:name":"Direct Beds",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "made-up"
     ]
 },
-  "bbox": [-1.77994,52.451813,-1.77994,52.451813],
+  "bbox": [
+    -1.77994,
+    52.451813,
+    -1.77994,
+    52.451813
+],
   "geometry": {"coordinates":[-1.77994,52.451813],"type":"Point"}
 }

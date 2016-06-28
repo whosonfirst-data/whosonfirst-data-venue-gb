@@ -2,13 +2,14 @@
   "id": 269902913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.46682,51.2808,-2.46682,51.2808",
     "geom:latitude":51.2808,
     "geom:longitude":-2.46682,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 32, Fourth Avenue",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":269902913,
-    "wof:lastmodified":1449038069,
+    "wof:lastmodified":1466272835,
     "wof:name":"Air Cargo Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airfreight"
     ]
 },
-  "bbox": [-2.46682,51.2808,-2.46682,51.2808],
+  "bbox": [
+    -2.46682,
+    51.2808,
+    -2.46682,
+    51.2808
+],
   "geometry": {"coordinates":[-2.46682,51.2808],"type":"Point"}
 }

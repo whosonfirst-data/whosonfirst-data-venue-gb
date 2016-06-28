@@ -2,13 +2,14 @@
   "id": 303541041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.490361,53.266567,-2.490361,53.266567",
     "geom:latitude":53.266567,
     "geom:longitude":-2.490361,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Genesys House, Dentine Drive, Denton Drive Industrial Estate",
     "sg:city":"Northwich",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303541041,
-    "wof:lastmodified":1448998391,
+    "wof:lastmodified":1466278888,
     "wof:name":"European Spectrometry Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "calibration"
     ]
 },
-  "bbox": [-2.490361,53.266567,-2.490361,53.266567],
+  "bbox": [
+    -2.490361,
+    53.266567,
+    -2.490361,
+    53.266567
+],
   "geometry": {"coordinates":[-2.490361,53.266567],"type":"Point"}
 }

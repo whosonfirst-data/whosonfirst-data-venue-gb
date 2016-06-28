@@ -2,13 +2,14 @@
   "id": 203020325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.261643,55.844891,-4.261643,55.844891",
     "geom:latitude":55.844891,
     "geom:longitude":-4.261643,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"449-451 Eglinton St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203020325,
-    "wof:lastmodified":1449025798,
+    "wof:lastmodified":1466252982,
     "wof:name":"Klass Wholesale",
     "wof:parent_id":85861543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fabric"
     ]
 },
-  "bbox": [-4.261643,55.844891,-4.261643,55.844891],
+  "bbox": [
+    -4.261643,
+    55.844891,
+    -4.261643,
+    55.844891
+],
   "geometry": {"coordinates":[-4.261643,55.844891],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270041725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.198054,51.527843,-0.198054,51.527843",
     "geom:latitude":51.527843,
     "geom:longitude":-0.198054,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1-2c Shirland Mews",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270041725,
-    "wof:lastmodified":1449009519,
+    "wof:lastmodified":1466261712,
     "wof:name":"West Nine Mot Test Centre",
     "wof:parent_id":85792207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mot"
     ]
 },
-  "bbox": [-0.198054,51.527843,-0.198054,51.527843],
+  "bbox": [
+    -0.198054,
+    51.527843,
+    -0.198054,
+    51.527843
+],
   "geometry": {"coordinates":[-0.198054,51.527843],"type":"Point"}
 }

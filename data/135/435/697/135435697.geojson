@@ -2,13 +2,14 @@
   "id": 135435697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.787406,50.338676,-4.787406,50.338676",
     "geom:latitude":50.338676,
     "geom:longitude":-4.787406,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Kings Av",
     "sg:city":"St Austell",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135435697,
-    "wof:lastmodified":1449023725,
+    "wof:lastmodified":1466266930,
     "wof:name":"Cornwall Healthcare Trust",
     "wof:parent_id":101852369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.787406,50.338676,-4.787406,50.338676],
+  "bbox": [
+    -4.787406,
+    50.338676,
+    -4.787406,
+    50.338676
+],
   "geometry": {"coordinates":[-4.787406,50.338676],"type":"Point"}
 }

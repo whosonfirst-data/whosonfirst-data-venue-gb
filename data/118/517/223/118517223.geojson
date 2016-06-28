@@ -2,13 +2,14 @@
   "id": 118517223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.12496,50.960812,-3.12496,50.960812",
     "geom:latitude":50.960812,
     "geom:longitude":-3.12496,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Blagdon Hill Garage",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118517223,
-    "wof:lastmodified":1449053948,
+    "wof:lastmodified":1466276260,
     "wof:name":"P Sparks Garage",
     "wof:parent_id":85684013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.12496,50.960812,-3.12496,50.960812],
+  "bbox": [
+    -3.12496,
+    50.960812,
+    -3.12496,
+    50.960812
+],
   "geometry": {"coordinates":[-3.12496,50.960812],"type":"Point"}
 }

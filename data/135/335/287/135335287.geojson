@@ -2,13 +2,14 @@
   "id": 135335287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.151275,55.777458,-4.151275,55.777458",
     "geom:latitude":55.777458,
     "geom:longitude":-4.151275,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Talbot",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135335287,
-    "wof:lastmodified":1449022994,
+    "wof:lastmodified":1466255471,
     "wof:name":"Kelvin",
     "wof:parent_id":85792543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.151275,55.777458,-4.151275,55.777458],
+  "bbox": [
+    -4.151275,
+    55.777458,
+    -4.151275,
+    55.777458
+],
   "geometry": {"coordinates":[-4.151275,55.777458],"type":"Point"}
 }

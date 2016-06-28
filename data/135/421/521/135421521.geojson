@@ -2,13 +2,14 @@
   "id": 135421521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.079971,51.535751,0.079971,51.535751",
     "geom:latitude":51.535751,
     "geom:longitude":0.079971,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Axe Street",
     "sg:city":"Barking",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135421521,
-    "wof:lastmodified":1449022925,
+    "wof:lastmodified":1466265255,
     "wof:name":"The Victoria",
     "wof:parent_id":85785469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.079971,51.535751,0.079971,51.535751],
+  "bbox": [
+    0.079971,
+    51.535751,
+    0.079971,
+    51.535751
+],
   "geometry": {"coordinates":[0.079971,51.535751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253530541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.30412,52.976482,-1.30412,52.976482",
     "geom:latitude":52.976482,
     "geom:longitude":-1.30412,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 King Street",
     "sg:city":"Ilkeston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253530541,
-    "wof:lastmodified":1449064398,
+    "wof:lastmodified":1466268843,
     "wof:name":"James Bostock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "heating"
     ]
 },
-  "bbox": [-1.30412,52.976482,-1.30412,52.976482],
+  "bbox": [
+    -1.30412,
+    52.976482,
+    -1.30412,
+    52.976482
+],
   "geometry": {"coordinates":[-1.30412,52.976482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102688765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.24853,57.476337,-4.24853,57.476337",
     "geom:latitude":57.476337,
     "geom:longitude":-4.24853,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Hawthorn Drive",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102688765,
-    "wof:lastmodified":1449068672,
+    "wof:lastmodified":1466255984,
     "wof:name":"William Williamson",
     "wof:parent_id":101873667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.24853,57.476337,-4.24853,57.476337],
+  "bbox": [
+    -4.24853,
+    57.476337,
+    -4.24853,
+    57.476337
+],
   "geometry": {"coordinates":[-4.24853,57.476337],"type":"Point"}
 }

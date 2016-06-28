@@ -2,13 +2,14 @@
   "id": 118912861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.546571,50.462528,-3.546571,50.462528",
     "geom:latitude":50.462528,
     "geom:longitude":-3.546571,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22a Walnut Road",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118912861,
-    "wof:lastmodified":1449053839,
+    "wof:lastmodified":1466280244,
     "wof:name":"John Shambrook",
     "wof:parent_id":101750299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.546571,50.462528,-3.546571,50.462528],
+  "bbox": [
+    -3.546571,
+    50.462528,
+    -3.546571,
+    50.462528
+],
   "geometry": {"coordinates":[-3.546571,50.462528],"type":"Point"}
 }

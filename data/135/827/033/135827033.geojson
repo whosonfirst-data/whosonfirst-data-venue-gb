@@ -2,13 +2,14 @@
   "id": 135827033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.395318,50.907284,-1.395318,50.907284",
     "geom:latitude":50.907284,
     "geom:longitude":-1.395318,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Northam Road, Northam",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135827033,
-    "wof:lastmodified":1449022084,
+    "wof:lastmodified":1466287631,
     "wof:name":"Southside Car Audio",
     "wof:parent_id":85792821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.395318,50.907284,-1.395318,50.907284],
+  "bbox": [
+    -1.395318,
+    50.907284,
+    -1.395318,
+    50.907284
+],
   "geometry": {"coordinates":[-1.395318,50.907284],"type":"Point"}
 }

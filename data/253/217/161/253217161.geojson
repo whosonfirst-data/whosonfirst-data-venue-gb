@@ -2,13 +2,14 @@
   "id": 253217161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.54245,50.70525,-3.54245,50.70525",
     "geom:latitude":50.70525,
     "geom:longitude":-3.54245,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Elms, Crabb Lane",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253217161,
-    "wof:lastmodified":1449065615,
+    "wof:lastmodified":1466261596,
     "wof:name":"Herrington Geoscience",
     "wof:parent_id":85790683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "geological"
     ]
 },
-  "bbox": [-3.54245,50.70525,-3.54245,50.70525],
+  "bbox": [
+    -3.54245,
+    50.70525,
+    -3.54245,
+    50.70525
+],
   "geometry": {"coordinates":[-3.54245,50.70525],"type":"Point"}
 }

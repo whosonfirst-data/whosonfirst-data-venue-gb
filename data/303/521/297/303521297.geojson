@@ -2,13 +2,14 @@
   "id": 303521297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.125454,50.794956,-1.125454,50.794956",
     "geom:latitude":50.794956,
     "geom:longitude":-1.125454,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 High Street",
     "sg:city":"Gosport",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303521297,
-    "wof:lastmodified":1449000445,
+    "wof:lastmodified":1466278663,
     "wof:name":"News Round",
     "wof:parent_id":85792777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.125454,50.794956,-1.125454,50.794956],
+  "bbox": [
+    -1.125454,
+    50.794956,
+    -1.125454,
+    50.794956
+],
   "geometry": {"coordinates":[-1.125454,50.794956],"type":"Point"}
 }

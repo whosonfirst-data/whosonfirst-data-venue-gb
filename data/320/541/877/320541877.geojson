@@ -2,13 +2,14 @@
   "id": 320541877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.324939,51.39183,-1.324939,51.39183",
     "geom:latitude":51.39183,
     "geom:longitude":-1.324939,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Peake House, 112 Newtown Road",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320541877,
-    "wof:lastmodified":1449011657,
+    "wof:lastmodified":1466281811,
     "wof:name":"Registration of Births Deaths & Marriages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "births"
     ]
 },
-  "bbox": [-1.324939,51.39183,-1.324939,51.39183],
+  "bbox": [
+    -1.324939,
+    51.39183,
+    -1.324939,
+    51.39183
+],
   "geometry": {"coordinates":[-1.324939,51.39183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303774611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.952969,50.720932,-1.952969,50.720932",
     "geom:latitude":50.720932,
     "geom:longitude":-1.952969,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Salterns Point, Salterns Way, Lilliput",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303774611,
-    "wof:lastmodified":1448999069,
+    "wof:lastmodified":1466282779,
     "wof:name":"Robin C Gussman",
     "wof:parent_id":85789727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "business"
     ]
 },
-  "bbox": [-1.952969,50.720932,-1.952969,50.720932],
+  "bbox": [
+    -1.952969,
+    50.720932,
+    -1.952969,
+    50.720932
+],
   "geometry": {"coordinates":[-1.952969,50.720932],"type":"Point"}
 }

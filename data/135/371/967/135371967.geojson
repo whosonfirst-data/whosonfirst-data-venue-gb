@@ -2,13 +2,14 @@
   "id": 135371967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.520545,51.412785,-1.520545,51.412785",
     "geom:latitude":51.412785,
     "geom:longitude":-1.520545,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Moores Place",
     "sg:city":"Hungerford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135371967,
-    "wof:lastmodified":1449023360,
+    "wof:lastmodified":1466259625,
     "wof:name":"Autoclean",
     "wof:parent_id":101852653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.520545,51.412785,-1.520545,51.412785],
+  "bbox": [
+    -1.520545,
+    51.412785,
+    -1.520545,
+    51.412785
+],
   "geometry": {"coordinates":[-1.520545,51.412785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286718277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.49876,53.391338,-1.49876,53.391338",
     "geom:latitude":53.391338,
     "geom:longitude":-1.49876,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Howard Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286718277,
-    "wof:lastmodified":1449015805,
+    "wof:lastmodified":1466276546,
     "wof:name":"Allens News",
     "wof:parent_id":85793123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.49876,53.391338,-1.49876,53.391338],
+  "bbox": [
+    -1.49876,
+    53.391338,
+    -1.49876,
+    53.391338
+],
   "geometry": {"coordinates":[-1.49876,53.391338],"type":"Point"}
 }

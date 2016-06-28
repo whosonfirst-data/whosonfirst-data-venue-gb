@@ -2,13 +2,14 @@
   "id": 320419559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.278424,55.8321,-4.278424,55.8321",
     "geom:latitude":55.8321,
     "geom:longitude":-4.278424,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Pollokshaws Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320419559,
-    "wof:lastmodified":1449014901,
+    "wof:lastmodified":1466279721,
     "wof:name":"Royal Stores",
     "wof:parent_id":85861549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-4.278424,55.8321,-4.278424,55.8321],
+  "bbox": [
+    -4.278424,
+    55.8321,
+    -4.278424,
+    55.8321
+],
   "geometry": {"coordinates":[-4.278424,55.8321],"type":"Point"}
 }

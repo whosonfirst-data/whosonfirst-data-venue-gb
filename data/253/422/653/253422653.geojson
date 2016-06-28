@@ -2,13 +2,14 @@
   "id": 253422653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.32711,55.806389,-4.32711,55.806389",
     "geom:latitude":55.806389,
     "geom:longitude":-4.32711,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Glasgow South West Area Office, 3 Kilmui, Arden",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253422653,
-    "wof:lastmodified":1449063026,
+    "wof:lastmodified":1466266099,
     "wof:name":"Scottish Homes",
     "wof:parent_id":85792511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "housing"
     ]
 },
-  "bbox": [-4.32711,55.806389,-4.32711,55.806389],
+  "bbox": [
+    -4.32711,
+    55.806389,
+    -4.32711,
+    55.806389
+],
   "geometry": {"coordinates":[-4.32711,55.806389],"type":"Point"}
 }

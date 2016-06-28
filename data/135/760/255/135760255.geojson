@@ -2,13 +2,14 @@
   "id": 135760255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.007694,52.374008,-4.007694,52.374008",
     "geom:latitude":52.374008,
     "geom:longitude":-4.007694,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Brennan, New Cross",
     "sg:city":"Aberystwyth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135760255,
-    "wof:lastmodified":1449023887,
+    "wof:lastmodified":1466286798,
     "wof:name":"W Gwyn Davies",
     "wof:parent_id":85684307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.007694,52.374008,-4.007694,52.374008],
+  "bbox": [
+    -4.007694,
+    52.374008,
+    -4.007694,
+    52.374008
+],
   "geometry": {"coordinates":[-4.007694,52.374008],"type":"Point"}
 }

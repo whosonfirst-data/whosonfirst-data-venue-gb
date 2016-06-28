@@ -2,13 +2,14 @@
   "id": 252977825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.122325,51.451096,0.122325,51.451096",
     "geom:latitude":51.451096,
     "geom:longitude":0.122325,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Portland Close",
     "sg:city":"Bexley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252977825,
-    "wof:lastmodified":1449006546,
+    "wof:lastmodified":1466262414,
     "wof:name":"Mid Kent Heating",
     "wof:parent_id":85860127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "heating"
     ]
 },
-  "bbox": [0.122325,51.451096,0.122325,51.451096],
+  "bbox": [
+    0.122325,
+    51.451096,
+    0.122325,
+    51.451096
+],
   "geometry": {"coordinates":[0.122325,51.451096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118619215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.205683,52.600323,-2.205683,52.600323",
     "geom:latitude":52.600323,
     "geom:longitude":-2.205683,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Biggin Close, Perton",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":118619215,
-    "wof:lastmodified":1449053390,
+    "wof:lastmodified":1466259115,
     "wof:name":"John Hunbury",
     "wof:parent_id":85790937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.205683,52.600323,-2.205683,52.600323],
+  "bbox": [
+    -2.205683,
+    52.600323,
+    -2.205683,
+    52.600323
+],
   "geometry": {"coordinates":[-2.205683,52.600323],"type":"Point"}
 }

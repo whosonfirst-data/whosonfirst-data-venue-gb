@@ -2,13 +2,14 @@
   "id": 202600977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.055984,51.529018,-0.055984,51.529018",
     "geom:latitude":51.529018,
     "geom:longitude":-0.055984,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Cambridge Heath Rd",
     "sg:city":"Bethnal Green",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202600977,
-    "wof:lastmodified":1449060349,
+    "wof:lastmodified":1466255854,
     "wof:name":"Museum Service Station",
     "wof:parent_id":85785657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distributor"
     ]
 },
-  "bbox": [-0.055984,51.529018,-0.055984,51.529018],
+  "bbox": [
+    -0.055984,
+    51.529018,
+    -0.055984,
+    51.529018
+],
   "geometry": {"coordinates":[-0.055984,51.529018],"type":"Point"}
 }

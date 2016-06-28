@@ -2,13 +2,14 @@
   "id": 303615859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.249175,55.847637,-4.249175,55.847637",
     "geom:latitude":55.847637,
     "geom:longitude":-4.249175,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Pine Place",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303615859,
-    "wof:lastmodified":1448998889,
+    "wof:lastmodified":1466280316,
     "wof:name":"Bleasby Willox Roemmele & McEvinney Drs",
     "wof:parent_id":85792643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-4.249175,55.847637,-4.249175,55.847637],
+  "bbox": [
+    -4.249175,
+    55.847637,
+    -4.249175,
+    55.847637
+],
   "geometry": {"coordinates":[-4.249175,55.847637],"type":"Point"}
 }

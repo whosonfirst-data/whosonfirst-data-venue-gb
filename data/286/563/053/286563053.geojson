@@ -2,13 +2,14 @@
   "id": 286563053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.405009,50.923355,-1.405009,50.923355",
     "geom:latitude":50.923355,
     "geom:longitude":-1.405009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Winn Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286563053,
-    "wof:lastmodified":1449015206,
+    "wof:lastmodified":1466271539,
     "wof:name":"The Lodge",
     "wof:parent_id":85861259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "guest"
     ]
 },
-  "bbox": [-1.405009,50.923355,-1.405009,50.923355],
+  "bbox": [
+    -1.405009,
+    50.923355,
+    -1.405009,
+    50.923355
+],
   "geometry": {"coordinates":[-1.405009,50.923355],"type":"Point"}
 }

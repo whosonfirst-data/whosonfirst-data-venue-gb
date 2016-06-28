@@ -2,13 +2,14 @@
   "id": 220001311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.237825,55.829922,-4.237825,55.829922",
     "geom:latitude":55.829922,
     "geom:longitude":-4.237825,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18-30 Prospecthill Sq",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":220001311,
-    "wof:lastmodified":1449074226,
+    "wof:lastmodified":1466252949,
     "wof:name":"Lowcost Supermarket",
     "wof:parent_id":85789891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.237825,55.829922,-4.237825,55.829922],
+  "bbox": [
+    -4.237825,
+    55.829922,
+    -4.237825,
+    55.829922
+],
   "geometry": {"coordinates":[-4.237825,55.829922],"type":"Point"}
 }

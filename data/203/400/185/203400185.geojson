@@ -2,13 +2,14 @@
   "id": 203400185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.165328,55.915001,-3.165328,55.915001",
     "geom:latitude":55.915001,
     "geom:longitude":-3.165328,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Liberton Brae",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":203400185,
-    "wof:lastmodified":1449025117,
+    "wof:lastmodified":1466259561,
     "wof:name":"Capricorn",
     "wof:parent_id":85788767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.165328,55.915001,-3.165328,55.915001],
+  "bbox": [
+    -3.165328,
+    55.915001,
+    -3.165328,
+    55.915001
+],
   "geometry": {"coordinates":[-3.165328,55.915001],"type":"Point"}
 }

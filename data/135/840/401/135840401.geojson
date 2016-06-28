@@ -2,13 +2,14 @@
   "id": 135840401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.017529,51.565247,-3.017529,51.565247",
     "geom:latitude":51.565247,
     "geom:longitude":-3.017529,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Partridge Way, Duffryn",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135840401,
-    "wof:lastmodified":1449023348,
+    "wof:lastmodified":1466287827,
     "wof:name":"Duffryn Infant School",
     "wof:parent_id":85787101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.017529,51.565247,-3.017529,51.565247],
+  "bbox": [
+    -3.017529,
+    51.565247,
+    -3.017529,
+    51.565247
+],
   "geometry": {"coordinates":[-3.017529,51.565247],"type":"Point"}
 }

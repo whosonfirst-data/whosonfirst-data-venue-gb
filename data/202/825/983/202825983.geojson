@@ -2,13 +2,14 @@
   "id": 202825983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.58313,54.96896,-1.58313,54.96896",
     "geom:latitude":54.96896,
     "geom:longitude":-1.58313,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Newcastle Quay Side, St Lawrence Road",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202825983,
-    "wof:lastmodified":1449060197,
+    "wof:lastmodified":1466259495,
     "wof:name":"Quay Timber",
     "wof:parent_id":85861877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "timber"
     ]
 },
-  "bbox": [-1.58313,54.96896,-1.58313,54.96896],
+  "bbox": [
+    -1.58313,
+    54.96896,
+    -1.58313,
+    54.96896
+],
   "geometry": {"coordinates":[-1.58313,54.96896],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270520761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.151065,52.95089,-1.151065,52.95089",
     "geom:latitude":52.95089,
     "geom:longitude":-1.151065,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Castle Gate",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270520761,
-    "wof:lastmodified":1449009444,
+    "wof:lastmodified":1466275975,
     "wof:name":"Roy Smith",
     "wof:parent_id":85793185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-1.151065,52.95089,-1.151065,52.95089],
+  "bbox": [
+    -1.151065,
+    52.95089,
+    -1.151065,
+    52.95089
+],
   "geometry": {"coordinates":[-1.151065,52.95089],"type":"Point"}
 }

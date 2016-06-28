@@ -2,13 +2,14 @@
   "id": 119500421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.210506,53.369225,-1.210506,53.369225",
     "geom:latitude":53.369225,
     "geom:longitude":-1.210506,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Laughton Road, Dinnington",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119500421,
-    "wof:lastmodified":1449041463,
+    "wof:lastmodified":1466287068,
     "wof:name":"TOTALHOLD LTD",
     "wof:parent_id":101871995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.210506,53.369225,-1.210506,53.369225],
+  "bbox": [
+    -1.210506,
+    53.369225,
+    -1.210506,
+    53.369225
+],
   "geometry": {"coordinates":[-1.210506,53.369225],"type":"Point"}
 }

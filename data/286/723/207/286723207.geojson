@@ -2,13 +2,14 @@
   "id": 286723207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.301916,53.017349,-1.301916,53.017349",
     "geom:latitude":53.017349,
     "geom:longitude":-1.301916,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Nottingham Road, Eastwood",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286723207,
-    "wof:lastmodified":1449016915,
+    "wof:lastmodified":1466276679,
     "wof:name":"Wellington Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.301916,53.017349,-1.301916,53.017349],
+  "bbox": [
+    -1.301916,
+    53.017349,
+    -1.301916,
+    53.017349
+],
   "geometry": {"coordinates":[-1.301916,53.017349],"type":"Point"}
 }

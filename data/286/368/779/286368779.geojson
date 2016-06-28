@@ -2,13 +2,14 @@
   "id": 286368779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.404545,50.904991,-1.404545,50.904991",
     "geom:latitude":50.904991,
     "geom:longitude":-1.404545,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Above Bar Street",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":286368779,
-    "wof:lastmodified":1449015833,
+    "wof:lastmodified":1466265517,
     "wof:name":"Woolwich Ltd.",
     "wof:parent_id":85792821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.404545,50.904991,-1.404545,50.904991],
+  "bbox": [
+    -1.404545,
+    50.904991,
+    -1.404545,
+    50.904991
+],
   "geometry": {"coordinates":[-1.404545,50.904991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202868965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.245824,53.03492,-2.245824,53.03492",
     "geom:latitude":53.03492,
     "geom:longitude":-2.245824,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Meadow Street, Chesterton",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202868965,
-    "wof:lastmodified":1449060214,
+    "wof:lastmodified":1466260246,
     "wof:name":"Knights Private Hire",
     "wof:parent_id":85785915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-2.245824,53.03492,-2.245824,53.03492],
+  "bbox": [
+    -2.245824,
+    53.03492,
+    -2.245824,
+    53.03492
+],
   "geometry": {"coordinates":[-2.245824,53.03492],"type":"Point"}
 }

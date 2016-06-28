@@ -2,13 +2,14 @@
   "id": 118543593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.665004,50.935169,-2.665004,50.935169",
     "geom:latitude":50.935169,
     "geom:longitude":-2.665004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Brimton Way",
     "sg:city":"Yeovil",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118543593,
-    "wof:lastmodified":1449053420,
+    "wof:lastmodified":1466253436,
     "wof:name":"Frank Hodder",
     "wof:parent_id":85684013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.665004,50.935169,-2.665004,50.935169],
+  "bbox": [
+    -2.665004,
+    50.935169,
+    -2.665004,
+    50.935169
+],
   "geometry": {"coordinates":[-2.665004,50.935169],"type":"Point"}
 }

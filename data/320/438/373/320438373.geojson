@@ -2,13 +2,14 @@
   "id": 320438373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.145203,52.66119,-3.145203,52.66119",
     "geom:latitude":52.66119,
     "geom:longitude":-3.145203,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Hermitage, Salop Road",
     "sg:city":"Welshpool",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320438373,
-    "wof:lastmodified":1449012537,
+    "wof:lastmodified":1466280071,
     "wof:name":"Hermitage Residential Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "care"
     ]
 },
-  "bbox": [-3.145203,52.66119,-3.145203,52.66119],
+  "bbox": [
+    -3.145203,
+    52.66119,
+    -3.145203,
+    52.66119
+],
   "geometry": {"coordinates":[-3.145203,52.66119],"type":"Point"}
 }

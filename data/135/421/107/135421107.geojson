@@ -2,13 +2,14 @@
   "id": 135421107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.056014,52.585495,-2.056014,52.585495",
     "geom:latitude":52.585495,
     "geom:longitude":-2.056014,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Stafford Street",
     "sg:city":"Willenhall",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135421107,
-    "wof:lastmodified":1449022923,
+    "wof:lastmodified":1466265206,
     "wof:name":"The Pet Shop",
     "wof:parent_id":85785623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.056014,52.585495,-2.056014,52.585495],
+  "bbox": [
+    -2.056014,
+    52.585495,
+    -2.056014,
+    52.585495
+],
   "geometry": {"coordinates":[-2.056014,52.585495],"type":"Point"}
 }

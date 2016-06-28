@@ -2,13 +2,14 @@
   "id": 135383505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.055258,53.522049,-3.055258,53.522049",
     "geom:latitude":53.522049,
     "geom:longitude":-3.055258,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Elmcroft Lane",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135383505,
-    "wof:lastmodified":1449022278,
+    "wof:lastmodified":1466260807,
     "wof:name":"The Liverpool Patents Co. Ltd.",
     "wof:parent_id":85785853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.055258,53.522049,-3.055258,53.522049],
+  "bbox": [
+    -3.055258,
+    53.522049,
+    -3.055258,
+    53.522049
+],
   "geometry": {"coordinates":[-3.055258,53.522049],"type":"Point"}
 }

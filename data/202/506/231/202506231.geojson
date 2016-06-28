@@ -2,13 +2,14 @@
   "id": 202506231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.036555,51.464252,-0.036555,51.464252",
     "geom:latitude":51.464252,
     "geom:longitude":-0.036555,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Brockley Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202506231,
-    "wof:lastmodified":1449060160,
+    "wof:lastmodified":1466254218,
     "wof:name":"Brockley Park Cars",
     "wof:parent_id":85860571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garage"
     ]
 },
-  "bbox": [-0.036555,51.464252,-0.036555,51.464252],
+  "bbox": [
+    -0.036555,
+    51.464252,
+    -0.036555,
+    51.464252
+],
   "geometry": {"coordinates":[-0.036555,51.464252],"type":"Point"}
 }

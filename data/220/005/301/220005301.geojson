@@ -2,13 +2,14 @@
   "id": 220005301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.087314,55.813251,-4.087314,55.813251",
     "geom:latitude":55.813251,
     "geom:longitude":-4.087314,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Edinburgh House, Princes Square",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220005301,
-    "wof:lastmodified":1449074815,
+    "wof:lastmodified":1466253034,
     "wof:name":"VICTIM SUPPORT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "charity"
     ]
 },
-  "bbox": [-4.087314,55.813251,-4.087314,55.813251],
+  "bbox": [
+    -4.087314,
+    55.813251,
+    -4.087314,
+    55.813251
+],
   "geometry": {"coordinates":[-4.087314,55.813251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135798743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.259703,52.376537,-2.259703,52.376537",
     "geom:latitude":52.376537,
     "geom:longitude":-2.259703,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Stourport Road",
     "sg:city":"Kidderminster",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135798743,
-    "wof:lastmodified":1449021541,
+    "wof:lastmodified":1466287411,
     "wof:name":"Hair Zone",
     "wof:parent_id":101750453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.259703,52.376537,-2.259703,52.376537],
+  "bbox": [
+    -2.259703,
+    52.376537,
+    -2.259703,
+    52.376537
+],
   "geometry": {"coordinates":[-2.259703,52.376537],"type":"Point"}
 }

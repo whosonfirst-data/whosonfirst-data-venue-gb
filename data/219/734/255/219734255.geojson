@@ -2,13 +2,14 @@
   "id": 219734255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.25932,55.96035,-3.25932,55.96035",
     "geom:latitude":55.96035,
     "geom:longitude":-3.25932,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 March Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219734255,
-    "wof:lastmodified":1449073468,
+    "wof:lastmodified":1466262577,
     "wof:name":"Coffee Technologies Ltd.",
     "wof:parent_id":85786975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coffee"
     ]
 },
-  "bbox": [-3.25932,55.96035,-3.25932,55.96035],
+  "bbox": [
+    -3.25932,
+    55.96035,
+    -3.25932,
+    55.96035
+],
   "geometry": {"coordinates":[-3.25932,55.96035],"type":"Point"}
 }

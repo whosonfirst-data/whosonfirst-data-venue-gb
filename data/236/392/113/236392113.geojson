@@ -2,13 +2,14 @@
   "id": 236392113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.559631,53.769329,-1.559631,53.769329",
     "geom:latitude":53.769329,
     "geom:longitude":-1.559631,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Barkly Drive, Beeston",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236392113,
-    "wof:lastmodified":1449004457,
+    "wof:lastmodified":1466263915,
     "wof:name":"Ken Wilkes",
     "wof:parent_id":85785585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "painter"
     ]
 },
-  "bbox": [-1.559631,53.769329,-1.559631,53.769329],
+  "bbox": [
+    -1.559631,
+    53.769329,
+    -1.559631,
+    53.769329
+],
   "geometry": {"coordinates":[-1.559631,53.769329],"type":"Point"}
 }

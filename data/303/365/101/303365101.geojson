@@ -2,13 +2,14 @@
   "id": 303365101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.267695,55.930031,-3.267695,55.930031",
     "geom:latitude":55.930031,
     "geom:longitude":-3.267695,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Saughton Mains Gdns",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303365101,
-    "wof:lastmodified":1448998511,
+    "wof:lastmodified":1466273765,
     "wof:name":"Carrick Grocer Store",
     "wof:parent_id":85790721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.267695,55.930031,-3.267695,55.930031],
+  "bbox": [
+    -3.267695,
+    55.930031,
+    -3.267695,
+    55.930031
+],
   "geometry": {"coordinates":[-3.267695,55.930031],"type":"Point"}
 }

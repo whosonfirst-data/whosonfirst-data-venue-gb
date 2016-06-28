@@ -2,13 +2,14 @@
   "id": 303227043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.786275,53.671818,-1.786275,53.671818",
     "geom:latitude":53.671818,
     "geom:longitude":-1.786275,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Lightridge Road",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303227043,
-    "wof:lastmodified":1448998654,
+    "wof:lastmodified":1466269655,
     "wof:name":"Geoff Beaumont",
     "wof:parent_id":85787365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"
     ]
 },
-  "bbox": [-1.786275,53.671818,-1.786275,53.671818],
+  "bbox": [
+    -1.786275,
+    53.671818,
+    -1.786275,
+    53.671818
+],
   "geometry": {"coordinates":[-1.786275,53.671818],"type":"Point"}
 }

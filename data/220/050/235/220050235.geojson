@@ -2,13 +2,14 @@
   "id": 220050235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.709344,53.79351,-1.709344,53.79351",
     "geom:latitude":53.79351,
     "geom:longitude":-1.709344,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dick Lane",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220050235,
-    "wof:lastmodified":1449074494,
+    "wof:lastmodified":1466253808,
     "wof:name":"Reshape",
     "wof:parent_id":85788673,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [-1.709344,53.79351,-1.709344,53.79351],
+  "bbox": [
+    -1.709344,
+    53.79351,
+    -1.709344,
+    53.79351
+],
   "geometry": {"coordinates":[-1.709344,53.79351],"type":"Point"}
 }

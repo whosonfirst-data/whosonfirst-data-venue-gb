@@ -2,13 +2,14 @@
   "id": 203120395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.40055,52.241707,0.40055,52.241707",
     "geom:latitude":52.241707,
     "geom:longitude":0.40055,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 High St",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":203120395,
-    "wof:lastmodified":1449026586,
+    "wof:lastmodified":1466254677,
     "wof:name":"R.S Jenkins BDS LDS RCS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.40055,52.241707,0.40055,52.241707],
+  "bbox": [
+    0.40055,
+    52.241707,
+    0.40055,
+    52.241707
+],
   "geometry": {"coordinates":[0.40055,52.241707],"type":"Point"}
 }

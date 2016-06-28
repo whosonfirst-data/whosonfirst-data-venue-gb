@@ -2,13 +2,14 @@
   "id": 119064253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.21416,53.838123,-2.21416,53.838123",
     "geom:latitude":53.838123,
     "geom:longitude":-2.21416,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Scotland Road",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119064253,
-    "wof:lastmodified":1449041723,
+    "wof:lastmodified":1466254761,
     "wof:name":"The Woolpack",
     "wof:parent_id":101750587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.21416,53.838123,-2.21416,53.838123],
+  "bbox": [
+    -2.21416,
+    53.838123,
+    -2.21416,
+    53.838123
+],
   "geometry": {"coordinates":[-2.21416,53.838123],"type":"Point"}
 }

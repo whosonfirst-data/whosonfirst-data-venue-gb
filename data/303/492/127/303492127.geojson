@@ -2,13 +2,14 @@
   "id": 303492127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.370297,50.914799,-1.370297,50.914799",
     "geom:latitude":50.914799,
     "geom:longitude":-1.370297,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Chessel Avenue, Bitterne",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303492127,
-    "wof:lastmodified":1448998116,
+    "wof:lastmodified":1466277699,
     "wof:name":"J.F Smith",
     "wof:parent_id":85785761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-1.370297,50.914799,-1.370297,50.914799],
+  "bbox": [
+    -1.370297,
+    50.914799,
+    -1.370297,
+    50.914799
+],
   "geometry": {"coordinates":[-1.370297,50.914799],"type":"Point"}
 }

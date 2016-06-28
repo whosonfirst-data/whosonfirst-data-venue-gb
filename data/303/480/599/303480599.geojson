@@ -2,13 +2,14 @@
   "id": 303480599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.69186,51.1632,-1.69186,51.1632",
     "geom:latitude":51.1632,
     "geom:longitude":-1.69186,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Newton Toney",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":303480599,
-    "wof:lastmodified":1448998913,
+    "wof:lastmodified":1466278602,
     "wof:name":"Newton Toney Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.69186,51.1632,-1.69186,51.1632],
+  "bbox": [
+    -1.69186,
+    51.1632,
+    -1.69186,
+    51.1632
+],
   "geometry": {"coordinates":[-1.69186,51.1632],"type":"Point"}
 }

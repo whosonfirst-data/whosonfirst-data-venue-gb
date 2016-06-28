@@ -2,13 +2,14 @@
   "id": 303442273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.35607,51.388134,-2.35607,51.388134",
     "geom:latitude":51.388134,
     "geom:longitude":-2.35607,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 St. Johns Rd",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303442273,
-    "wof:lastmodified":1448999192,
+    "wof:lastmodified":1466276173,
     "wof:name":"Nominus",
     "wof:parent_id":85785531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroiderer"
     ]
 },
-  "bbox": [-2.35607,51.388134,-2.35607,51.388134],
+  "bbox": [
+    -2.35607,
+    51.388134,
+    -2.35607,
+    51.388134
+],
   "geometry": {"coordinates":[-2.35607,51.388134],"type":"Point"}
 }

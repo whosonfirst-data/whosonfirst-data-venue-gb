@@ -2,13 +2,14 @@
   "id": 303375169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.045333,51.549965,0.045333,51.549965",
     "geom:latitude":51.549965,
     "geom:longitude":0.045333,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"639-649 Romford Rd",
     "sg:city":"Manor Park",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303375169,
-    "wof:lastmodified":1448998204,
+    "wof:lastmodified":1466274079,
     "wof:name":"Business Training Centre",
     "wof:parent_id":85785259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "centre"
     ]
 },
-  "bbox": [0.045333,51.549965,0.045333,51.549965],
+  "bbox": [
+    0.045333,
+    51.549965,
+    0.045333,
+    51.549965
+],
   "geometry": {"coordinates":[0.045333,51.549965],"type":"Point"}
 }

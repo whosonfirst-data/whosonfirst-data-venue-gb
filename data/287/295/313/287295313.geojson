@@ -2,13 +2,14 @@
   "id": 287295313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.441076,50.918518,-1.441076,50.918518",
     "geom:latitude":50.918518,
     "geom:longitude":-1.441076,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Lansdowne Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287295313,
-    "wof:lastmodified":1449001030,
+    "wof:lastmodified":1466272123,
     "wof:name":"Laser Services",
     "wof:parent_id":85861257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "heating"
     ]
 },
-  "bbox": [-1.441076,50.918518,-1.441076,50.918518],
+  "bbox": [
+    -1.441076,
+    50.918518,
+    -1.441076,
+    50.918518
+],
   "geometry": {"coordinates":[-1.441076,50.918518],"type":"Point"}
 }

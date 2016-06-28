@@ -2,13 +2,14 @@
   "id": 203400011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.037484,52.913254,-1.037484,52.913254",
     "geom:latitude":52.913254,
     "geom:longitude":-1.037484,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1-2 The Cross, Cotgrave",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203400011,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1466259558,
     "wof:name":"Cotgrave Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.037484,52.913254,-1.037484,52.913254],
+  "bbox": [
+    -1.037484,
+    52.913254,
+    -1.037484,
+    52.913254
+],
   "geometry": {"coordinates":[-1.037484,52.913254],"type":"Point"}
 }

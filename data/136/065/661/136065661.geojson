@@ -2,13 +2,14 @@
   "id": 136065661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.403529,54.639931,-3.403529,54.639931",
     "geom:latitude":54.639931,
     "geom:longitude":-3.403529,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bent Dyke, Eaglesfield",
     "sg:city":"Cockermouth",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136065661,
-    "wof:lastmodified":1449076269,
+    "wof:lastmodified":1466253538,
     "wof:name":"Eaglesfield Post Office",
     "wof:parent_id":85683641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.403529,54.639931,-3.403529,54.639931],
+  "bbox": [
+    -3.403529,
+    54.639931,
+    -3.403529,
+    54.639931
+],
   "geometry": {"coordinates":[-3.403529,54.639931],"type":"Point"}
 }

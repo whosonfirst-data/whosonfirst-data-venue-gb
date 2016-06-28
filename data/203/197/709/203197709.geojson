@@ -2,13 +2,14 @@
   "id": 203197709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.157629,50.385311,-4.157629,50.385311",
     "geom:latitude":50.385311,
     "geom:longitude":-4.157629,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Milehouse, Milehouse Road",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203197709,
-    "wof:lastmodified":1449026616,
+    "wof:lastmodified":1466255956,
     "wof:name":"Plymouth Citybus Ltd.",
     "wof:parent_id":85790761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "coach"
     ]
 },
-  "bbox": [-4.157629,50.385311,-4.157629,50.385311],
+  "bbox": [
+    -4.157629,
+    50.385311,
+    -4.157629,
+    50.385311
+],
   "geometry": {"coordinates":[-4.157629,50.385311],"type":"Point"}
 }

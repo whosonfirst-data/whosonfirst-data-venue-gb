@@ -2,13 +2,14 @@
   "id": 303530801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.011172,53.615822,-3.011172,53.615822",
     "geom:latitude":53.615822,
     "geom:longitude":-3.011172,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Guildford Rd",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303530801,
-    "wof:lastmodified":1448999423,
+    "wof:lastmodified":1466278691,
     "wof:name":"Lifestyles",
     "wof:parent_id":85785733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "health"
     ]
 },
-  "bbox": [-3.011172,53.615822,-3.011172,53.615822],
+  "bbox": [
+    -3.011172,
+    53.615822,
+    -3.011172,
+    53.615822
+],
   "geometry": {"coordinates":[-3.011172,53.615822],"type":"Point"}
 }

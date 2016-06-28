@@ -2,13 +2,14 @@
   "id": 303286859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.26181,55.862099,-4.26181,55.862099",
     "geom:latitude":55.862099,
     "geom:longitude":-4.26181,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Po Box 15053",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303286859,
-    "wof:lastmodified":1448998753,
+    "wof:lastmodified":1466271472,
     "wof:name":"Big Bang Records Ltd",
     "wof:parent_id":85792619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "record"
     ]
 },
-  "bbox": [-4.26181,55.862099,-4.26181,55.862099],
+  "bbox": [
+    -4.26181,
+    55.862099,
+    -4.26181,
+    55.862099
+],
   "geometry": {"coordinates":[-4.26181,55.862099],"type":"Point"}
 }

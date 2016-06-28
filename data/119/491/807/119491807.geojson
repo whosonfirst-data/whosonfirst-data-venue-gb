@@ -2,13 +2,14 @@
   "id": 119491807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.324804,51.40379,-1.324804,51.40379",
     "geom:latitude":51.40379,
     "geom:longitude":-1.324804,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Northbrook St",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119491807,
-    "wof:lastmodified":1449040837,
+    "wof:lastmodified":1466287003,
     "wof:name":"Hamells",
     "wof:parent_id":101852663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.324804,51.40379,-1.324804,51.40379],
+  "bbox": [
+    -1.324804,
+    51.40379,
+    -1.324804,
+    51.40379
+],
   "geometry": {"coordinates":[-1.324804,51.40379],"type":"Point"}
 }

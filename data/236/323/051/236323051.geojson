@@ -2,13 +2,14 @@
   "id": 236323051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.136569,52.977859,-2.136569,52.977859",
     "geom:latitude":52.977859,
     "geom:longitude":-2.136569,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cobden Street",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236323051,
-    "wof:lastmodified":1449001886,
+    "wof:lastmodified":1466262654,
     "wof:name":"Guardian House Nursing Home",
     "wof:parent_id":85787077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-2.136569,52.977859,-2.136569,52.977859],
+  "bbox": [
+    -2.136569,
+    52.977859,
+    -2.136569,
+    52.977859
+],
   "geometry": {"coordinates":[-2.136569,52.977859],"type":"Point"}
 }

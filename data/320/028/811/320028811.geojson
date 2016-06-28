@@ -2,13 +2,14 @@
   "id": 320028811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.665226,55.00909,-1.665226,55.00909",
     "geom:latitude":55.00909,
     "geom:longitude":-1.665226,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Diamond Court",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":320028811,
-    "wof:lastmodified":1449013282,
+    "wof:lastmodified":1466269002,
     "wof:name":"Diamond Court Management Ltd.",
     "wof:parent_id":85861871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-1.665226,55.00909,-1.665226,55.00909],
+  "bbox": [
+    -1.665226,
+    55.00909,
+    -1.665226,
+    55.00909
+],
   "geometry": {"coordinates":[-1.665226,55.00909],"type":"Point"}
 }

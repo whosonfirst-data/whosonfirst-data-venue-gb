@@ -2,13 +2,14 @@
   "id": 118769353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.321411,55.778999,-4.321411,55.778999",
     "geom:latitude":55.778999,
     "geom:longitude":-4.321411,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Ayr Road, Newton Mearns",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":118769353,
-    "wof:lastmodified":1449053608,
+    "wof:lastmodified":1466270483,
     "wof:name":"La Vecchia Romagna",
     "wof:parent_id":85792515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.321411,55.778999,-4.321411,55.778999],
+  "bbox": [
+    -4.321411,
+    55.778999,
+    -4.321411,
+    55.778999
+],
   "geometry": {"coordinates":[-4.321411,55.778999],"type":"Point"}
 }

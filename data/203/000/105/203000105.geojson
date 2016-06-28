@@ -2,13 +2,14 @@
   "id": 203000105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.89289,53.71664,-1.89289,53.71664",
     "geom:latitude":53.71664,
     "geom:longitude":-1.89289,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"King Cross Garage, Burnley Road",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203000105,
-    "wof:lastmodified":1449025242,
+    "wof:lastmodified":1466278118,
     "wof:name":"Colin's Tyre Services",
     "wof:parent_id":85790183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.89289,53.71664,-1.89289,53.71664],
+  "bbox": [
+    -1.89289,
+    53.71664,
+    -1.89289,
+    53.71664
+],
   "geometry": {"coordinates":[-1.89289,53.71664],"type":"Point"}
 }

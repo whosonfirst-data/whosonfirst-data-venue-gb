@@ -2,13 +2,14 @@
   "id": 320741959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.15327,51.54858,-0.15327,51.54858",
     "geom:latitude":51.54858,
     "geom:longitude":-0.15327,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Cheriton Queens Crescent",
     "sg:city":"London",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320741959,
-    "wof:lastmodified":1449011452,
+    "wof:lastmodified":1466284432,
     "wof:name":"Queen Wines",
     "wof:parent_id":85860457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [-0.15327,51.54858,-0.15327,51.54858],
+  "bbox": [
+    -0.15327,
+    51.54858,
+    -0.15327,
+    51.54858
+],
   "geometry": {"coordinates":[-0.15327,51.54858],"type":"Point"}
 }

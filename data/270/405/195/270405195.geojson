@@ -2,13 +2,14 @@
   "id": 270405195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.346281,53.446541,-2.346281,53.446541",
     "geom:latitude":53.446541,
     "geom:longitude":-2.346281,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Stretford Road, Urmston",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":270405195,
-    "wof:lastmodified":1449010888,
+    "wof:lastmodified":1466272524,
     "wof:name":"Kirkham Stores",
     "wof:parent_id":85793237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.346281,53.446541,-2.346281,53.446541],
+  "bbox": [
+    -2.346281,
+    53.446541,
+    -2.346281,
+    53.446541
+],
   "geometry": {"coordinates":[-2.346281,53.446541],"type":"Point"}
 }

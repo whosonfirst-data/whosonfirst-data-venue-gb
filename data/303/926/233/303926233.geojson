@@ -2,13 +2,14 @@
   "id": 303926233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.867459,53.735886,-1.867459,53.735886",
     "geom:latitude":53.735886,
     "geom:longitude":-1.867459,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 Grantham House, Grantham Road",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303926233,
-    "wof:lastmodified":1448998973,
+    "wof:lastmodified":1466284777,
     "wof:name":"Calderdale Graphite Ltd.",
     "wof:parent_id":85785863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.867459,53.735886,-1.867459,53.735886],
+  "bbox": [
+    -1.867459,
+    53.735886,
+    -1.867459,
+    53.735886
+],
   "geometry": {"coordinates":[-1.867459,53.735886],"type":"Point"}
 }

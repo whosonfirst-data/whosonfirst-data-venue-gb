@@ -2,13 +2,14 @@
   "id": 119153127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.45127,53.881321,-1.45127,53.881321",
     "geom:latitude":53.881321,
     "geom:longitude":-1.45127,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Church La",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119153127,
-    "wof:lastmodified":1449042725,
+    "wof:lastmodified":1466263934,
     "wof:name":"Cap Shop The",
     "wof:parent_id":85790095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.45127,53.881321,-1.45127,53.881321],
+  "bbox": [
+    -1.45127,
+    53.881321,
+    -1.45127,
+    53.881321
+],
   "geometry": {"coordinates":[-1.45127,53.881321],"type":"Point"}
 }

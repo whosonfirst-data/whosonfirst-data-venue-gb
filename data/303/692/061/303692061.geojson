@@ -2,13 +2,14 @@
   "id": 303692061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.745441,54.593945,-1.745441,54.593945",
     "geom:latitude":54.593945,
     "geom:longitude":-1.745441,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hilton Grange, Hilton",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303692061,
-    "wof:lastmodified":1448998761,
+    "wof:lastmodified":1466281625,
     "wof:name":"M Stephenson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "others"
     ]
 },
-  "bbox": [-1.745441,54.593945,-1.745441,54.593945],
+  "bbox": [
+    -1.745441,
+    54.593945,
+    -1.745441,
+    54.593945
+],
   "geometry": {"coordinates":[-1.745441,54.593945],"type":"Point"}
 }

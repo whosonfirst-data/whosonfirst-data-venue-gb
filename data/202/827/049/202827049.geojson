@@ -2,13 +2,14 @@
   "id": 202827049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.141155,53.049488,-2.141155,53.049488",
     "geom:latitude":53.049488,
     "geom:longitude":-2.141155,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Millrise Road",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202827049,
-    "wof:lastmodified":1449061015,
+    "wof:lastmodified":1466259516,
     "wof:name":"Connect Travel",
     "wof:parent_id":85789127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.141155,53.049488,-2.141155,53.049488],
+  "bbox": [
+    -2.141155,
+    53.049488,
+    -2.141155,
+    53.049488
+],
   "geometry": {"coordinates":[-2.141155,53.049488],"type":"Point"}
 }

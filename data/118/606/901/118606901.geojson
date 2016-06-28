@@ -2,13 +2,14 @@
   "id": 118606901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.46513,50.453194,-4.46513,50.453194",
     "geom:latitude":50.453194,
     "geom:longitude":-4.46513,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Windsor Place",
     "sg:city":"Liskeard",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118606901,
-    "wof:lastmodified":1449053359,
+    "wof:lastmodified":1466258256,
     "wof:name":"COODES SOLICITORS",
     "wof:parent_id":101852371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.46513,50.453194,-4.46513,50.453194],
+  "bbox": [
+    -4.46513,
+    50.453194,
+    -4.46513,
+    50.453194
+],
   "geometry": {"coordinates":[-4.46513,50.453194],"type":"Point"}
 }

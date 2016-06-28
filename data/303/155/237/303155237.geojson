@@ -2,13 +2,14 @@
   "id": 303155237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.682033,53.866287,-1.682033,53.866287",
     "geom:latitude":53.866287,
     "geom:longitude":-1.682033,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"71 High Street, Yeadon",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303155237,
-    "wof:lastmodified":1449000134,
+    "wof:lastmodified":1466267320,
     "wof:name":"Acorn Estates",
     "wof:parent_id":85786761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.682033,53.866287,-1.682033,53.866287],
+  "bbox": [
+    -1.682033,
+    53.866287,
+    -1.682033,
+    53.866287
+],
   "geometry": {"coordinates":[-1.682033,53.866287],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303526583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.485839,53.35397,-1.485839,53.35397",
     "geom:latitude":53.35397,
     "geom:longitude":-1.485839,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Abbeydale Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303526583,
-    "wof:lastmodified":1448998866,
+    "wof:lastmodified":1466278606,
     "wof:name":"Whisper",
     "wof:parent_id":85789271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-1.485839,53.35397,-1.485839,53.35397],
+  "bbox": [
+    -1.485839,
+    53.35397,
+    -1.485839,
+    53.35397
+],
   "geometry": {"coordinates":[-1.485839,53.35397],"type":"Point"}
 }

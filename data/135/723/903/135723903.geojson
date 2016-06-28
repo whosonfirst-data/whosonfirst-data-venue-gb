@@ -2,13 +2,14 @@
   "id": 135723903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.428003,50.918289,-1.428003,50.918289",
     "geom:latitude":50.918289,
     "geom:longitude":-1.428003,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"337 Shirley Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135723903,
-    "wof:lastmodified":1449022784,
+    "wof:lastmodified":1466286407,
     "wof:name":"Mann & Co",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.428003,50.918289,-1.428003,50.918289],
+  "bbox": [
+    -1.428003,
+    50.918289,
+    -1.428003,
+    50.918289
+],
   "geometry": {"coordinates":[-1.428003,50.918289],"type":"Point"}
 }

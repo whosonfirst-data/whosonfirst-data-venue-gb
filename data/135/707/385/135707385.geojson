@@ -2,13 +2,14 @@
   "id": 135707385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.212518,55.871288,-4.212518,55.871288",
     "geom:latitude":55.871288,
     "geom:longitude":-4.212518,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Siemens Place",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":135707385,
-    "wof:lastmodified":1449023538,
+    "wof:lastmodified":1466286201,
     "wof:name":"Warner Howard Ltd",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.212518,55.871288,-4.212518,55.871288],
+  "bbox": [
+    -4.212518,
+    55.871288,
+    -4.212518,
+    55.871288
+],
   "geometry": {"coordinates":[-4.212518,55.871288],"type":"Point"}
 }

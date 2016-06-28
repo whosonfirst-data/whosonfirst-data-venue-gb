@@ -2,13 +2,14 @@
   "id": 303835001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.380216,56.084148,-3.380216,56.084148",
     "geom:latitude":56.084148,
     "geom:longitude":-3.380216,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Dunfermline Rd, Crossgates",
     "sg:city":"Cowdenbeath",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303835001,
-    "wof:lastmodified":1448998467,
+    "wof:lastmodified":1466283340,
     "wof:name":"Forest Timber Buildings",
     "wof:parent_id":85787833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "timber"
     ]
 },
-  "bbox": [-3.380216,56.084148,-3.380216,56.084148],
+  "bbox": [
+    -3.380216,
+    56.084148,
+    -3.380216,
+    56.084148
+],
   "geometry": {"coordinates":[-3.380216,56.084148],"type":"Point"}
 }

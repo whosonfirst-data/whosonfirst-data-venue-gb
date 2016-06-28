@@ -2,13 +2,14 @@
   "id": 270378223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.46499,53.364262,-1.46499,53.364262",
     "geom:latitude":53.364262,
     "geom:longitude":-1.46499,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sheffield Garage, Olive Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270378223,
-    "wof:lastmodified":1449010316,
+    "wof:lastmodified":1466271770,
     "wof:name":"Mainline Group Ltd",
     "wof:parent_id":85793111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coach"
     ]
 },
-  "bbox": [-1.46499,53.364262,-1.46499,53.364262],
+  "bbox": [
+    -1.46499,
+    53.364262,
+    -1.46499,
+    53.364262
+],
   "geometry": {"coordinates":[-1.46499,53.364262],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219756395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.53423,55.024811,-1.53423,55.024811",
     "geom:latitude":55.024811,
     "geom:longitude":-1.53423,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wesley Way, Benton Square Indust Est",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219756395,
-    "wof:lastmodified":1449072505,
+    "wof:lastmodified":1466262967,
     "wof:name":"Tyneside Repairs",
     "wof:parent_id":85785627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "scaffolding"
     ]
 },
-  "bbox": [-1.53423,55.024811,-1.53423,55.024811],
+  "bbox": [
+    -1.53423,
+    55.024811,
+    -1.53423,
+    55.024811
+],
   "geometry": {"coordinates":[-1.53423,55.024811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320314103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.791238,53.777149,-1.791238,53.777149",
     "geom:latitude":53.777149,
     "geom:longitude":-1.791238,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"673 Great Horton Road",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320314103,
-    "wof:lastmodified":1449014804,
+    "wof:lastmodified":1466277538,
     "wof:name":"R Mayet",
     "wof:parent_id":85787743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.791238,53.777149,-1.791238,53.777149],
+  "bbox": [
+    -1.791238,
+    53.777149,
+    -1.791238,
+    53.777149
+],
   "geometry": {"coordinates":[-1.791238,53.777149],"type":"Point"}
 }

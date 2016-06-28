@@ -2,13 +2,14 @@
   "id": 303498111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.573539,51.504597,-2.573539,51.504597",
     "geom:latitude":51.504597,
     "geom:longitude":-2.573539,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Shields Avenue",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303498111,
-    "wof:lastmodified":1448999972,
+    "wof:lastmodified":1466277893,
     "wof:name":"Filton Clinic",
     "wof:parent_id":85789507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nh"
     ]
 },
-  "bbox": [-2.573539,51.504597,-2.573539,51.504597],
+  "bbox": [
+    -2.573539,
+    51.504597,
+    -2.573539,
+    51.504597
+],
   "geometry": {"coordinates":[-2.573539,51.504597],"type":"Point"}
 }

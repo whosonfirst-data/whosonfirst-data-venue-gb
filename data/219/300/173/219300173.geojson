@@ -2,13 +2,14 @@
   "id": 219300173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.055023,51.545605,-0.055023,51.545605",
     "geom:latitude":51.545605,
     "geom:longitude":-0.055023,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"298-300 Mare Street",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219300173,
-    "wof:lastmodified":1449072362,
+    "wof:lastmodified":1466255287,
     "wof:name":"London Borough of Hackney",
     "wof:parent_id":85866371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-0.055023,51.545605,-0.055023,51.545605],
+  "bbox": [
+    -0.055023,
+    51.545605,
+    -0.055023,
+    51.545605
+],
   "geometry": {"coordinates":[-0.055023,51.545605],"type":"Point"}
 }

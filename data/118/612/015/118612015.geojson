@@ -2,13 +2,14 @@
   "id": 118612015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.199419,51.909431,0.199419,51.909431",
     "geom:latitude":51.909431,
     "geom:longitude":0.199419,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Five Acres, Cambridge Road",
     "sg:city":"Stansted",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118612015,
-    "wof:lastmodified":1449053757,
+    "wof:lastmodified":1466258618,
     "wof:name":"John V Morgan",
     "wof:parent_id":101854751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.199419,51.909431,0.199419,51.909431],
+  "bbox": [
+    0.199419,
+    51.909431,
+    0.199419,
+    51.909431
+],
   "geometry": {"coordinates":[0.199419,51.909431],"type":"Point"}
 }

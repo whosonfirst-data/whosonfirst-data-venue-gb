@@ -2,13 +2,14 @@
   "id": 118761359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.225024,55.981113,-3.225024,55.981113",
     "geom:latitude":55.981113,
     "geom:longitude":-3.225024,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1-2 West Shore Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118761359,
-    "wof:lastmodified":1449054220,
+    "wof:lastmodified":1466269865,
     "wof:name":"A P C Ltd.",
     "wof:parent_id":85787709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.225024,55.981113,-3.225024,55.981113],
+  "bbox": [
+    -3.225024,
+    55.981113,
+    -3.225024,
+    55.981113
+],
   "geometry": {"coordinates":[-3.225024,55.981113],"type":"Point"}
 }

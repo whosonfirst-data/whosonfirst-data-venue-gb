@@ -2,13 +2,14 @@
   "id": 135852943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.097533,51.919025,-2.097533,51.919025",
     "geom:latitude":51.919025,
     "geom:longitude":-2.097533,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12a Runnings Road",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135852943,
-    "wof:lastmodified":1449023504,
+    "wof:lastmodified":1466287909,
     "wof:name":"Cheltenham Repetition",
     "wof:parent_id":85793223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.097533,51.919025,-2.097533,51.919025],
+  "bbox": [
+    -2.097533,
+    51.919025,
+    -2.097533,
+    51.919025
+],
   "geometry": {"coordinates":[-2.097533,51.919025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202592161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.453436,53.059425,-2.453436,53.059425",
     "geom:latitude":53.059425,
     "geom:longitude":-2.453436,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Enfield Close, Shavington",
     "sg:city":"Crewe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202592161,
-    "wof:lastmodified":1449061556,
+    "wof:lastmodified":1466255706,
     "wof:name":"E C L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-2.453436,53.059425,-2.453436,53.059425],
+  "bbox": [
+    -2.453436,
+    53.059425,
+    -2.453436,
+    53.059425
+],
   "geometry": {"coordinates":[-2.453436,53.059425],"type":"Point"}
 }

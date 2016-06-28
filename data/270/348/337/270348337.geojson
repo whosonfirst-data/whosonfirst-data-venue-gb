@@ -2,13 +2,14 @@
   "id": 270348337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.154569,52.470421,-2.154569,52.470421",
     "geom:latitude":52.470421,
     "geom:longitude":-2.154569,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2e High Street, Wollaston",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270348337,
-    "wof:lastmodified":1449008786,
+    "wof:lastmodified":1466270912,
     "wof:name":"Fleurs De Vie",
     "wof:parent_id":85785411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.154569,52.470421,-2.154569,52.470421],
+  "bbox": [
+    -2.154569,
+    52.470421,
+    -2.154569,
+    52.470421
+],
   "geometry": {"coordinates":[-2.154569,52.470421],"type":"Point"}
 }

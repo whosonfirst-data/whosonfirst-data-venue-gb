@@ -2,13 +2,14 @@
   "id": 203080723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.04507,54.578789,-1.04507,54.578789",
     "geom:latitude":54.578789,
     "geom:longitude":-1.04507,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Moortown Road, New Marske",
     "sg:city":"Redcar",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203080723,
-    "wof:lastmodified":1449026828,
+    "wof:lastmodified":1466253993,
     "wof:name":"Errington Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "coach"
     ]
 },
-  "bbox": [-1.04507,54.578789,-1.04507,54.578789],
+  "bbox": [
+    -1.04507,
+    54.578789,
+    -1.04507,
+    54.578789
+],
   "geometry": {"coordinates":[-1.04507,54.578789],"type":"Point"}
 }

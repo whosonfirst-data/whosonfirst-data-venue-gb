@@ -2,13 +2,14 @@
   "id": 102611687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.83447,53.357975,-2.83447,53.357975",
     "geom:latitude":53.357975,
     "geom:longitude":-2.83447,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Higher Rd",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102611687,
-    "wof:lastmodified":1449069671,
+    "wof:lastmodified":1466252885,
     "wof:name":"Total Convenience Stores",
     "wof:parent_id":85787841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.83447,53.357975,-2.83447,53.357975],
+  "bbox": [
+    -2.83447,
+    53.357975,
+    -2.83447,
+    53.357975
+],
   "geometry": {"coordinates":[-2.83447,53.357975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186151681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.978481,53.409775,-2.978481,53.409775",
     "geom:latitude":53.409775,
     "geom:longitude":-2.978481,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Merseyside Police Headquarters, Canning Place",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186151681,
-    "wof:lastmodified":1449050280,
+    "wof:lastmodified":1466254001,
     "wof:name":"Merseyside Police",
     "wof:parent_id":85788889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "support"
     ]
 },
-  "bbox": [-2.978481,53.409775,-2.978481,53.409775],
+  "bbox": [
+    -2.978481,
+    53.409775,
+    -2.978481,
+    53.409775
+],
   "geometry": {"coordinates":[-2.978481,53.409775],"type":"Point"}
 }

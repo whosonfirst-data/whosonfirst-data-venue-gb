@@ -2,13 +2,14 @@
   "id": 270334493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.59546,51.476337,-2.59546,51.476337",
     "geom:latitude":51.476337,
     "geom:longitude":-2.59546,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Wentworth Road, Bishopston",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270334493,
-    "wof:lastmodified":1449009318,
+    "wof:lastmodified":1466270488,
     "wof:name":"T C Millar",
     "wof:parent_id":85785365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-2.59546,51.476337,-2.59546,51.476337],
+  "bbox": [
+    -2.59546,
+    51.476337,
+    -2.59546,
+    51.476337
+],
   "geometry": {"coordinates":[-2.59546,51.476337],"type":"Point"}
 }

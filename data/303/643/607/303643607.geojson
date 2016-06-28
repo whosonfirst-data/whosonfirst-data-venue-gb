@@ -2,13 +2,14 @@
   "id": 303643607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.027126,53.482445,-3.027126,53.482445",
     "geom:latitude":53.482445,
     "geom:longitude":-3.027126,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"College Greenemi Rest Home, 14 College Road",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":303643607,
-    "wof:lastmodified":1449000239,
+    "wof:lastmodified":1466280661,
     "wof:name":"College Green Rest Home",
     "wof:parent_id":85791371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-3.027126,53.482445,-3.027126,53.482445],
+  "bbox": [
+    -3.027126,
+    53.482445,
+    -3.027126,
+    53.482445
+],
   "geometry": {"coordinates":[-3.027126,53.482445],"type":"Point"}
 }

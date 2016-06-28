@@ -2,13 +2,14 @@
   "id": 320701017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.10135,50.385925,-4.10135,50.385925",
     "geom:latitude":50.385925,
     "geom:longitude":-4.10135,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Manor Lane, Laira",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320701017,
-    "wof:lastmodified":1449014184,
+    "wof:lastmodified":1466283884,
     "wof:name":"Keith R Taylor",
     "wof:parent_id":85787255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [-4.10135,50.385925,-4.10135,50.385925],
+  "bbox": [
+    -4.10135,
+    50.385925,
+    -4.10135,
+    50.385925
+],
   "geometry": {"coordinates":[-4.10135,50.385925],"type":"Point"}
 }

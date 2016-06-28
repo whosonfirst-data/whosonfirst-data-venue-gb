@@ -2,13 +2,14 @@
   "id": 185616031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.00263,51.618355,0.00263,51.618355",
     "geom:latitude":51.618355,
     "geom:longitude":0.00263,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Hatch Lane",
     "sg:city":"London",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185616031,
-    "wof:lastmodified":1449007773,
+    "wof:lastmodified":1466276191,
     "wof:name":"Academy Driving School",
     "wof:parent_id":85786601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.00263,51.618355,0.00263,51.618355],
+  "bbox": [
+    0.00263,
+    51.618355,
+    0.00263,
+    51.618355
+],
   "geometry": {"coordinates":[0.00263,51.618355],"type":"Point"}
 }

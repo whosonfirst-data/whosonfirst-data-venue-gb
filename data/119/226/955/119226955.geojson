@@ -2,13 +2,14 @@
   "id": 119226955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.085233,52.415096,-4.085233,52.415096",
     "geom:latitude":52.415096,
     "geom:longitude":-4.085233,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22/24 Eastgate",
     "sg:city":"Aberystwyth",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119226955,
-    "wof:lastmodified":1449042805,
+    "wof:lastmodified":1466272244,
     "wof:name":"Old Bakery Cookshop",
     "wof:parent_id":85684307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.085233,52.415096,-4.085233,52.415096],
+  "bbox": [
+    -4.085233,
+    52.415096,
+    -4.085233,
+    52.415096
+],
   "geometry": {"coordinates":[-4.085233,52.415096],"type":"Point"}
 }

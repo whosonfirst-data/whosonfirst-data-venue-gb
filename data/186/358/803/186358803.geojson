@@ -2,13 +2,14 @@
   "id": 186358803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.100281,52.631809,-1.100281,52.631809",
     "geom:latitude":52.631809,
     "geom:longitude":-1.100281,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Constance Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186358803,
-    "wof:lastmodified":1449051505,
+    "wof:lastmodified":1466256934,
     "wof:name":"FALCON BUILDERS",
     "wof:parent_id":85861117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.100281,52.631809,-1.100281,52.631809],
+  "bbox": [
+    -1.100281,
+    52.631809,
+    -1.100281,
+    52.631809
+],
   "geometry": {"coordinates":[-1.100281,52.631809],"type":"Point"}
 }

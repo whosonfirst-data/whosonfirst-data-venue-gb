@@ -2,13 +2,14 @@
   "id": 102585781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.564619,51.556526,-2.564619,51.556526",
     "geom:latitude":51.556526,
     "geom:longitude":-2.564619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Gaunts Earthcott, Almondsbury",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102585781,
-    "wof:lastmodified":1449069387,
+    "wof:lastmodified":1466275790,
     "wof:name":"Roadguide Ltd.",
     "wof:parent_id":85785427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.564619,51.556526,-2.564619,51.556526],
+  "bbox": [
+    -2.564619,
+    51.556526,
+    -2.564619,
+    51.556526
+],
   "geometry": {"coordinates":[-2.564619,51.556526],"type":"Point"}
 }

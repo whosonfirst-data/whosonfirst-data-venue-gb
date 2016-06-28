@@ -2,13 +2,14 @@
   "id": 202569283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.13249,52.930962,-1.13249,52.930962",
     "geom:latitude":52.930962,
     "geom:longitude":-1.13249,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruschcliffe Mental Health Team, 32a George Rd",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202569283,
-    "wof:lastmodified":1449062538,
+    "wof:lastmodified":1466255275,
     "wof:name":"Nottinghamshire County Council",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-1.13249,52.930962,-1.13249,52.930962],
+  "bbox": [
+    -1.13249,
+    52.930962,
+    -1.13249,
+    52.930962
+],
   "geometry": {"coordinates":[-1.13249,52.930962],"type":"Point"}
 }

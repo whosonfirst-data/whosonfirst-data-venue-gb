@@ -2,13 +2,14 @@
   "id": 219672607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.101129,53.277081,-4.101129,53.277081",
     "geom:latitude":53.277081,
     "geom:longitude":-4.101129,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Tros Yr Afon",
     "sg:city":"Beaumaris",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219672607,
-    "wof:lastmodified":1449070609,
+    "wof:lastmodified":1466261576,
     "wof:name":"Claims Direct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.101129,53.277081,-4.101129,53.277081],
+  "bbox": [
+    -4.101129,
+    53.277081,
+    -4.101129,
+    53.277081
+],
   "geometry": {"coordinates":[-4.101129,53.277081],"type":"Point"}
 }

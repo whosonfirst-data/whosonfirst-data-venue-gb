@@ -2,13 +2,14 @@
   "id": 253208235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.729635,51.345779,0.729635,51.345779",
     "geom:latitude":51.345779,
     "geom:longitude":0.729635,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Periwinkle Ct, Church St",
     "sg:city":"Sittingbourne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253208235,
-    "wof:lastmodified":1449063164,
+    "wof:lastmodified":1466261432,
     "wof:name":"Members Of Parliament",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "meps"
     ]
 },
-  "bbox": [0.729635,51.345779,0.729635,51.345779],
+  "bbox": [
+    0.729635,
+    51.345779,
+    0.729635,
+    51.345779
+],
   "geometry": {"coordinates":[0.729635,51.345779],"type":"Point"}
 }

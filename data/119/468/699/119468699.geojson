@@ -2,13 +2,14 @@
   "id": 119468699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.356613,53.725864,-1.356613,53.725864",
     "geom:latitude":53.725864,
     "geom:longitude":-1.356613,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Albion Street",
     "sg:city":"Castleford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119468699,
-    "wof:lastmodified":1449042779,
+    "wof:lastmodified":1466286731,
     "wof:name":"The Acme Fishers",
     "wof:parent_id":85683685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.356613,53.725864,-1.356613,53.725864],
+  "bbox": [
+    -1.356613,
+    53.725864,
+    -1.356613,
+    53.725864
+],
   "geometry": {"coordinates":[-1.356613,53.725864],"type":"Point"}
 }

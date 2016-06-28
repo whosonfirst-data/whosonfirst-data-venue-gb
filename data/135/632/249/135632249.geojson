@@ -2,13 +2,14 @@
   "id": 135632249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.001284,55.793858,-4.001284,55.793858",
     "geom:latitude":55.793858,
     "geom:longitude":-4.001284,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Bruce Avenue",
     "sg:city":"Motherwell",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135632249,
-    "wof:lastmodified":1449022934,
+    "wof:lastmodified":1466283845,
     "wof:name":"McAdams Transport",
     "wof:parent_id":85683687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.001284,55.793858,-4.001284,55.793858],
+  "bbox": [
+    -4.001284,
+    55.793858,
+    -4.001284,
+    55.793858
+],
   "geometry": {"coordinates":[-4.001284,55.793858],"type":"Point"}
 }

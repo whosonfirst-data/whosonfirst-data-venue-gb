@@ -2,13 +2,14 @@
   "id": 220102379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.034369,53.211449,-3.034369,53.211449",
     "geom:latitude":53.211449,
     "geom:longitude":-3.034369,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Deeside Enterprise Centre, Rowleys Drive",
     "sg:city":"Deeside",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220102379,
-    "wof:lastmodified":1449074828,
+    "wof:lastmodified":1466254748,
     "wof:name":"Rowleys Pantry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "room"
     ]
 },
-  "bbox": [-3.034369,53.211449,-3.034369,53.211449],
+  "bbox": [
+    -3.034369,
+    53.211449,
+    -3.034369,
+    53.211449
+],
   "geometry": {"coordinates":[-3.034369,53.211449],"type":"Point"}
 }

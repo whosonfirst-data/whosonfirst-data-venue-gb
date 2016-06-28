@@ -2,13 +2,14 @@
   "id": 118706709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.303649,55.884205,-4.303649,55.884205",
     "geom:latitude":55.884205,
     "geom:longitude":-4.303649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cleveden Crescent",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118706709,
-    "wof:lastmodified":1449053249,
+    "wof:lastmodified":1466265809,
     "wof:name":"Marketing Edge",
     "wof:parent_id":85792459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.303649,55.884205,-4.303649,55.884205],
+  "bbox": [
+    -4.303649,
+    55.884205,
+    -4.303649,
+    55.884205
+],
   "geometry": {"coordinates":[-4.303649,55.884205],"type":"Point"}
 }

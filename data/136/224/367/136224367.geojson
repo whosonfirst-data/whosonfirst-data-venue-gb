@@ -2,13 +2,14 @@
   "id": 136224367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.67539,53.848679,-1.67539,53.848679",
     "geom:latitude":53.848679,
     "geom:longitude":-1.67539,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Leeds Road, Rawdon",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136224367,
-    "wof:lastmodified":1449075893,
+    "wof:lastmodified":1466262200,
     "wof:name":"John Penny & Sons",
     "wof:parent_id":85786167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.67539,53.848679,-1.67539,53.848679],
+  "bbox": [
+    -1.67539,
+    53.848679,
+    -1.67539,
+    53.848679
+],
   "geometry": {"coordinates":[-1.67539,53.848679],"type":"Point"}
 }

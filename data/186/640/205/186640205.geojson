@@ -2,13 +2,14 @@
   "id": 186640205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.824872,52.563824,-1.824872,52.563824",
     "geom:latitude":52.563824,
     "geom:longitude":-1.824872,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Brassington Avenue",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186640205,
-    "wof:lastmodified":1449051534,
+    "wof:lastmodified":1466261680,
     "wof:name":"Sutton Coldfield Home Start",
     "wof:parent_id":85788959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.824872,52.563824,-1.824872,52.563824],
+  "bbox": [
+    -1.824872,
+    52.563824,
+    -1.824872,
+    52.563824
+],
   "geometry": {"coordinates":[-1.824872,52.563824],"type":"Point"}
 }

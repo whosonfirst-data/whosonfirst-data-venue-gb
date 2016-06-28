@@ -2,13 +2,14 @@
   "id": 185885429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.570811,51.494595,-2.570811,51.494595",
     "geom:latitude":51.494595,
     "geom:longitude":-2.570811,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Melton Crescent",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185885429,
-    "wof:lastmodified":1449007482,
+    "wof:lastmodified":1466255731,
     "wof:name":"M.E.R",
     "wof:parent_id":85789507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-2.570811,51.494595,-2.570811,51.494595],
+  "bbox": [
+    -2.570811,
+    51.494595,
+    -2.570811,
+    51.494595
+],
   "geometry": {"coordinates":[-2.570811,51.494595],"type":"Point"}
 }

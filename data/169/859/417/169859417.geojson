@@ -2,13 +2,14 @@
   "id": 169859417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.502215,53.367321,-1.502215,53.367321",
     "geom:latitude":53.367321,
     "geom:longitude":-1.502215,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Junction Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169859417,
-    "wof:lastmodified":1449035044,
+    "wof:lastmodified":1466254697,
     "wof:name":"The Fruit Shop",
     "wof:parent_id":85793117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-1.502215,53.367321,-1.502215,53.367321],
+  "bbox": [
+    -1.502215,
+    53.367321,
+    -1.502215,
+    53.367321
+],
   "geometry": {"coordinates":[-1.502215,53.367321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270126897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.892789,53.193123,-2.892789,53.193123",
     "geom:latitude":53.193123,
     "geom:longitude":-2.892789,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Northgate Street",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270126897,
-    "wof:lastmodified":1449009542,
+    "wof:lastmodified":1466264286,
     "wof:name":"Northgate Street Post Office",
     "wof:parent_id":85787891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.892789,53.193123,-2.892789,53.193123],
+  "bbox": [
+    -2.892789,
+    53.193123,
+    -2.892789,
+    53.193123
+],
   "geometry": {"coordinates":[-2.892789,53.193123],"type":"Point"}
 }

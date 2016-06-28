@@ -2,13 +2,14 @@
   "id": 135872363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.850184,57.416801,-1.850184,57.416801",
     "geom:latitude":57.416801,
     "geom:longitude":-1.850184,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Street, Hatton",
     "sg:city":"Peterhead",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135872363,
-    "wof:lastmodified":1449021273,
+    "wof:lastmodified":1466288045,
     "wof:name":"Hatton Mill",
     "wof:parent_id":101873627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.850184,57.416801,-1.850184,57.416801],
+  "bbox": [
+    -1.850184,
+    57.416801,
+    -1.850184,
+    57.416801
+],
   "geometry": {"coordinates":[-1.850184,57.416801],"type":"Point"}
 }

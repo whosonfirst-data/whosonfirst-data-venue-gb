@@ -2,13 +2,14 @@
   "id": 303600777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.16396,55.923199,-3.16396,55.923199",
     "geom:latitude":55.923199,
     "geom:longitude":-3.16396,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Inch House, 225 Gilmerton Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":303600777,
-    "wof:lastmodified":1448998343,
+    "wof:lastmodified":1466279845,
     "wof:name":"Inch Community Education Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "location"
     ]
 },
-  "bbox": [-3.16396,55.923199,-3.16396,55.923199],
+  "bbox": [
+    -3.16396,
+    55.923199,
+    -3.16396,
+    55.923199
+],
   "geometry": {"coordinates":[-3.16396,55.923199],"type":"Point"}
 }

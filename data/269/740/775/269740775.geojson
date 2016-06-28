@@ -2,13 +2,14 @@
   "id": 269740775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.33739,50.925758,-1.33739,50.925758",
     "geom:latitude":50.925758,
     "geom:longitude":-1.33739,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 September Close, West End",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269740775,
-    "wof:lastmodified":1449037234,
+    "wof:lastmodified":1466267882,
     "wof:name":"West Enders Taxis",
     "wof:parent_id":85792811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-1.33739,50.925758,-1.33739,50.925758],
+  "bbox": [
+    -1.33739,
+    50.925758,
+    -1.33739,
+    50.925758
+],
   "geometry": {"coordinates":[-1.33739,50.925758],"type":"Point"}
 }

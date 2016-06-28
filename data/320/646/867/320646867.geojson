@@ -2,13 +2,14 @@
   "id": 320646867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.15551,55.759819,-4.15551,55.759819",
     "geom:latitude":55.759819,
     "geom:longitude":-4.15551,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Springside Pl",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320646867,
-    "wof:lastmodified":1449011173,
+    "wof:lastmodified":1466283523,
     "wof:name":"Glengarry Housing Association",
     "wof:parent_id":85792543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "housing"
     ]
 },
-  "bbox": [-4.15551,55.759819,-4.15551,55.759819],
+  "bbox": [
+    -4.15551,
+    55.759819,
+    -4.15551,
+    55.759819
+],
   "geometry": {"coordinates":[-4.15551,55.759819],"type":"Point"}
 }

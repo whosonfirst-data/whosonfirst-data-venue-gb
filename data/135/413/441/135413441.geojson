@@ -2,13 +2,14 @@
   "id": 135413441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.328347,55.895618,-4.328347,55.895618",
     "geom:latitude":55.895618,
     "geom:longitude":-4.328347,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Hilton Gardens, Anniesland",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135413441,
-    "wof:lastmodified":1449021460,
+    "wof:lastmodified":1466264259,
     "wof:name":"Thomas Mcnulty",
     "wof:parent_id":85785315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.328347,55.895618,-4.328347,55.895618],
+  "bbox": [
+    -4.328347,
+    55.895618,
+    -4.328347,
+    55.895618
+],
   "geometry": {"coordinates":[-4.328347,55.895618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253440033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.322809,53.558571,-2.322809,53.558571",
     "geom:latitude":53.558571,
     "geom:longitude":-2.322809,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Paragon House, 8 Milltown Street, Radcliffe",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253440033,
-    "wof:lastmodified":1449063878,
+    "wof:lastmodified":1466266456,
     "wof:name":"J P Price",
     "wof:parent_id":85791629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "heating"
     ]
 },
-  "bbox": [-2.322809,53.558571,-2.322809,53.558571],
+  "bbox": [
+    -2.322809,
+    53.558571,
+    -2.322809,
+    53.558571
+],
   "geometry": {"coordinates":[-2.322809,53.558571],"type":"Point"}
 }

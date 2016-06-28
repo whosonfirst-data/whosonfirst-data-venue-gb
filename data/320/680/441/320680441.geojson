@@ -2,13 +2,14 @@
   "id": 320680441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.938566,52.558796,-1.938566,52.558796",
     "geom:latitude":52.558796,
     "geom:longitude":-1.938566,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Birmingham Road, Great Barr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320680441,
-    "wof:lastmodified":1449013881,
+    "wof:lastmodified":1466283777,
     "wof:name":"Beacon Wines",
     "wof:parent_id":85789023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.938566,52.558796,-1.938566,52.558796],
+  "bbox": [
+    -1.938566,
+    52.558796,
+    -1.938566,
+    52.558796
+],
   "geometry": {"coordinates":[-1.938566,52.558796],"type":"Point"}
 }

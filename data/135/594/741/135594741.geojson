@@ -2,13 +2,14 @@
   "id": 135594741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.380255,55.5163,-4.380255,55.5163",
     "geom:latitude":55.5163,
     "geom:longitude":-4.380255,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Castle Street",
     "sg:city":"Mauchline",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135594741,
-    "wof:lastmodified":1449021415,
+    "wof:lastmodified":1466282185,
     "wof:name":"Burns House Museum",
     "wof:parent_id":101872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.380255,55.5163,-4.380255,55.5163],
+  "bbox": [
+    -4.380255,
+    55.5163,
+    -4.380255,
+    55.5163
+],
   "geometry": {"coordinates":[-4.380255,55.5163],"type":"Point"}
 }

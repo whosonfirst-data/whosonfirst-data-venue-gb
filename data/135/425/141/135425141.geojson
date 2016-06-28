@@ -2,13 +2,14 @@
   "id": 135425141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.121543,57.170067,-2.121543,57.170067",
     "geom:latitude":57.170067,
     "geom:longitude":-2.121543,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Marquis Road",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135425141,
-    "wof:lastmodified":1449022065,
+    "wof:lastmodified":1466265710,
     "wof:name":"Marquis Dairy",
     "wof:parent_id":85791949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.121543,57.170067,-2.121543,57.170067],
+  "bbox": [
+    -2.121543,
+    57.170067,
+    -2.121543,
+    57.170067
+],
   "geometry": {"coordinates":[-2.121543,57.170067],"type":"Point"}
 }

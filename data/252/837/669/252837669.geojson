@@ -2,13 +2,14 @@
   "id": 252837669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.535969,53.802715,-1.535969,53.802715",
     "geom:latitude":53.802715,
     "geom:longitude":-1.535969,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Regents Park House, Byron Street",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252837669,
-    "wof:lastmodified":1449005577,
+    "wof:lastmodified":1466259579,
     "wof:name":"D Walker",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "software"
     ]
 },
-  "bbox": [-1.535969,53.802715,-1.535969,53.802715],
+  "bbox": [
+    -1.535969,
+    53.802715,
+    -1.535969,
+    53.802715
+],
   "geometry": {"coordinates":[-1.535969,53.802715],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253600045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.324418,50.739952,-1.324418,50.739952",
     "geom:latitude":50.739952,
     "geom:longitude":-1.324418,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Pallance Road",
     "sg:city":"Cowes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253600045,
-    "wof:lastmodified":1449063079,
+    "wof:lastmodified":1466271118,
     "wof:name":"John Cotton Transport",
     "wof:parent_id":85791461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [-1.324418,50.739952,-1.324418,50.739952],
+  "bbox": [
+    -1.324418,
+    50.739952,
+    -1.324418,
+    50.739952
+],
   "geometry": {"coordinates":[-1.324418,50.739952],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303535423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.232614,53.488121,-2.232614,53.488121",
     "geom:latitude":53.488121,
     "geom:longitude":-2.232614,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Rochdale Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303535423,
-    "wof:lastmodified":1448998559,
+    "wof:lastmodified":1466278986,
     "wof:name":"West Pennine Security",
     "wof:parent_id":85793015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "locksmith"
     ]
 },
-  "bbox": [-2.232614,53.488121,-2.232614,53.488121],
+  "bbox": [
+    -2.232614,
+    53.488121,
+    -2.232614,
+    53.488121
+],
   "geometry": {"coordinates":[-2.232614,53.488121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236675839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.309848,55.805019,-4.309848,55.805019",
     "geom:latitude":55.805019,
     "geom:longitude":-4.309848,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Rockmount Av",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236675839,
-    "wof:lastmodified":1449003305,
+    "wof:lastmodified":1466269208,
     "wof:name":"Leadstyle",
     "wof:parent_id":85787597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glazier"
     ]
 },
-  "bbox": [-4.309848,55.805019,-4.309848,55.805019],
+  "bbox": [
+    -4.309848,
+    55.805019,
+    -4.309848,
+    55.805019
+],
   "geometry": {"coordinates":[-4.309848,55.805019],"type":"Point"}
 }

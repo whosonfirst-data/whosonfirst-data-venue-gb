@@ -2,13 +2,14 @@
   "id": 135520225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.460046,52.527748,-1.460046,52.527748",
     "geom:latitude":52.527748,
     "geom:longitude":-1.460046,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Saints Way",
     "sg:city":"Nuneaton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135520225,
-    "wof:lastmodified":1449021998,
+    "wof:lastmodified":1466276870,
     "wof:name":"John Davies (Automatic Tooling)",
     "wof:parent_id":85785407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.460046,52.527748,-1.460046,52.527748],
+  "bbox": [
+    -1.460046,
+    52.527748,
+    -1.460046,
+    52.527748
+],
   "geometry": {"coordinates":[-1.460046,52.527748],"type":"Point"}
 }

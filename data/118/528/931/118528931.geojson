@@ -2,13 +2,14 @@
   "id": 118528931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.197591,55.954613,-3.197591,55.954613",
     "geom:latitude":55.954613,
     "geom:longitude":-3.197591,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Hanover Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118528931,
-    "wof:lastmodified":1449053532,
+    "wof:lastmodified":1466277785,
     "wof:name":"Design Associates",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.197591,55.954613,-3.197591,55.954613],
+  "bbox": [
+    -3.197591,
+    55.954613,
+    -3.197591,
+    55.954613
+],
   "geometry": {"coordinates":[-3.197591,55.954613],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303144301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.122469,52.950462,-1.122469,52.950462",
     "geom:latitude":52.950462,
     "geom:longitude":-1.122469,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Colwick Road",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303144301,
-    "wof:lastmodified":1448999907,
+    "wof:lastmodified":1466267024,
     "wof:name":"Yagnik & Co.",
     "wof:parent_id":85790407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.122469,52.950462,-1.122469,52.950462],
+  "bbox": [
+    -1.122469,
+    52.950462,
+    -1.122469,
+    52.950462
+],
   "geometry": {"coordinates":[-1.122469,52.950462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136228721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.68626,51.886299,-2.68626,51.886299",
     "geom:latitude":51.886299,
     "geom:longitude":-2.68626,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Butts Garage",
     "sg:city":"Ross-on-wye",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136228721,
-    "wof:lastmodified":1449075316,
+    "wof:lastmodified":1466262473,
     "wof:name":"G E Lane",
     "wof:parent_id":85683751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.68626,51.886299,-2.68626,51.886299],
+  "bbox": [
+    -2.68626,
+    51.886299,
+    -2.68626,
+    51.886299
+],
   "geometry": {"coordinates":[-2.68626,51.886299],"type":"Point"}
 }

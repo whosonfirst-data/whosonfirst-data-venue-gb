@@ -2,13 +2,14 @@
   "id": 135680195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.346696,55.896408,-4.346696,55.896408",
     "geom:latitude":55.896408,
     "geom:longitude":-4.346696,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"383 Lincoln Avenue",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135680195,
-    "wof:lastmodified":1449023114,
+    "wof:lastmodified":1466285586,
     "wof:name":"Martin White",
     "wof:parent_id":85785315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.346696,55.896408,-4.346696,55.896408],
+  "bbox": [
+    -4.346696,
+    55.896408,
+    -4.346696,
+    55.896408
+],
   "geometry": {"coordinates":[-4.346696,55.896408],"type":"Point"}
 }

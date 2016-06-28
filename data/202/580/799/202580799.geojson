@@ -2,13 +2,14 @@
   "id": 202580799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.11859,53.525719,-2.11859,53.525719",
     "geom:latitude":53.525719,
     "geom:longitude":-2.11859,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Falcons View, Hollins Road",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202580799,
-    "wof:lastmodified":1449061800,
+    "wof:lastmodified":1466255522,
     "wof:name":"Falconers",
     "wof:parent_id":85793081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-2.11859,53.525719,-2.11859,53.525719],
+  "bbox": [
+    -2.11859,
+    53.525719,
+    -2.11859,
+    53.525719
+],
   "geometry": {"coordinates":[-2.11859,53.525719],"type":"Point"}
 }

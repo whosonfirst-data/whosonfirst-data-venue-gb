@@ -2,13 +2,14 @@
   "id": 253003935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.446105,53.100578,-2.446105,53.100578",
     "geom:latitude":53.100578,
     "geom:longitude":-2.446105,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lyme Building, Westmere Dr, Crewe Business Park",
     "sg:city":"Crewe",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253003935,
-    "wof:lastmodified":1449065563,
+    "wof:lastmodified":1466257526,
     "wof:name":"Adas",
     "wof:parent_id":85786645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "business"
     ]
 },
-  "bbox": [-2.446105,53.100578,-2.446105,53.100578],
+  "bbox": [
+    -2.446105,
+    53.100578,
+    -2.446105,
+    53.100578
+],
   "geometry": {"coordinates":[-2.446105,53.100578],"type":"Point"}
 }

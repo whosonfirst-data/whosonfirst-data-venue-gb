@@ -2,13 +2,14 @@
   "id": 336633409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.141475,52.939877,-4.141475,52.939877",
     "geom:latitude":52.939877,
     "geom:longitude":-4.141475,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 High Street",
     "sg:city":"Porthmadog",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":336633409,
-    "wof:lastmodified":1448997996,
+    "wof:lastmodified":1466273769,
     "wof:name":"The Harbour Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.141475,52.939877,-4.141475,52.939877],
+  "bbox": [
+    -4.141475,
+    52.939877,
+    -4.141475,
+    52.939877
+],
   "geometry": {"coordinates":[-4.141475,52.939877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135328893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.072243,51.265095,-1.072243,51.265095",
     "geom:latitude":51.265095,
     "geom:longitude":-1.072243,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Medway Ct",
     "sg:city":"Basingstoke",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135328893,
-    "wof:lastmodified":1449022799,
+    "wof:lastmodified":1466254716,
     "wof:name":"S Irving",
     "wof:parent_id":101750351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.072243,51.265095,-1.072243,51.265095],
+  "bbox": [
+    -1.072243,
+    51.265095,
+    -1.072243,
+    51.265095
+],
   "geometry": {"coordinates":[-1.072243,51.265095],"type":"Point"}
 }

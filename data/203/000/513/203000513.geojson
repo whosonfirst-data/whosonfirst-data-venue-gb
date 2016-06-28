@@ -2,13 +2,14 @@
   "id": 203000513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.159676,53.00005,-2.159676,53.00005",
     "geom:latitude":53.00005,
     "geom:longitude":-2.159676,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wileman House, 3 Wileman Street",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":203000513,
-    "wof:lastmodified":1449025241,
+    "wof:lastmodified":1466278127,
     "wof:name":"Inter Office Ltd.",
     "wof:parent_id":85787407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.159676,53.00005,-2.159676,53.00005],
+  "bbox": [
+    -2.159676,
+    53.00005,
+    -2.159676,
+    53.00005
+],
   "geometry": {"coordinates":[-2.159676,53.00005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287030773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.255931,52.996555,-1.255931,52.996555",
     "geom:latitude":52.996555,
     "geom:longitude":-1.255931,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Greens Lane, Kimberley",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":287030773,
-    "wof:lastmodified":1449000990,
+    "wof:lastmodified":1466263885,
     "wof:name":"Eyes Right",
     "wof:parent_id":85861887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmic"
     ]
 },
-  "bbox": [-1.255931,52.996555,-1.255931,52.996555],
+  "bbox": [
+    -1.255931,
+    52.996555,
+    -1.255931,
+    52.996555
+],
   "geometry": {"coordinates":[-1.255931,52.996555],"type":"Point"}
 }

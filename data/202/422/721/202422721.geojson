@@ -2,13 +2,14 @@
   "id": 202422721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.752728,55.859779,-3.752728,55.859779",
     "geom:latitude":55.859779,
     "geom:longitude":-3.752728,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24-26 Victoria Street, Harthill",
     "sg:city":"Shotts",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202422721,
-    "wof:lastmodified":1449060291,
+    "wof:lastmodified":1466252958,
     "wof:name":"Harthill Health Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "practitioners"
     ]
 },
-  "bbox": [-3.752728,55.859779,-3.752728,55.859779],
+  "bbox": [
+    -3.752728,
+    55.859779,
+    -3.752728,
+    55.859779
+],
   "geometry": {"coordinates":[-3.752728,55.859779],"type":"Point"}
 }

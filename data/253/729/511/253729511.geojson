@@ -2,13 +2,14 @@
   "id": 253729511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.601669,53.81525,-1.601669,53.81525",
     "geom:latitude":53.81525,
     "geom:longitude":-1.601669,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Commercial Rd",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253729511,
-    "wof:lastmodified":1449064314,
+    "wof:lastmodified":1466275253,
     "wof:name":"Welch, K A",
     "wof:parent_id":85788637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-1.601669,53.81525,-1.601669,53.81525],
+  "bbox": [
+    -1.601669,
+    53.81525,
+    -1.601669,
+    53.81525
+],
   "geometry": {"coordinates":[-1.601669,53.81525],"type":"Point"}
 }

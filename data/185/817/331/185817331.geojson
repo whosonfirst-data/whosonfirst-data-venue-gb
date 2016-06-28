@@ -2,13 +2,14 @@
   "id": 185817331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.211965,55.950806,-3.211965,55.950806",
     "geom:latitude":55.950806,
     "geom:longitude":-3.211965,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Melville Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185817331,
-    "wof:lastmodified":1449007906,
+    "wof:lastmodified":1466254887,
     "wof:name":"Dean & Cauvin Trust",
     "wof:parent_id":85792719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.211965,55.950806,-3.211965,55.950806],
+  "bbox": [
+    -3.211965,
+    55.950806,
+    -3.211965,
+    55.950806
+],
   "geometry": {"coordinates":[-3.211965,55.950806],"type":"Point"}
 }

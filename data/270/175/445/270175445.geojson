@@ -2,13 +2,14 @@
   "id": 270175445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.350223,53.433975,-1.350223,53.433975",
     "geom:latitude":53.433975,
     "geom:longitude":-1.350223,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Holywell Place",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":270175445,
-    "wof:lastmodified":1449010353,
+    "wof:lastmodified":1466265706,
     "wof:name":"Wharncliffe Hill Sheltered Housing",
     "wof:parent_id":85786219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-1.350223,53.433975,-1.350223,53.433975],
+  "bbox": [
+    -1.350223,
+    53.433975,
+    -1.350223,
+    53.433975
+],
   "geometry": {"coordinates":[-1.350223,53.433975],"type":"Point"}
 }

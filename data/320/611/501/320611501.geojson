@@ -2,13 +2,14 @@
   "id": 320611501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.728088,52.716095,-2.728088,52.716095",
     "geom:latitude":52.716095,
     "geom:longitude":-2.728088,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Monkmoor Road",
     "sg:city":"Shrewsbury",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320611501,
-    "wof:lastmodified":1449014177,
+    "wof:lastmodified":1466282945,
     "wof:name":"The Tile Shop",
     "wof:parent_id":85787035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "stockist"
     ]
 },
-  "bbox": [-2.728088,52.716095,-2.728088,52.716095],
+  "bbox": [
+    -2.728088,
+    52.716095,
+    -2.728088,
+    52.716095
+],
   "geometry": {"coordinates":[-2.728088,52.716095],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252893807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.56505,51.576641,-2.56505,51.576641",
     "geom:latitude":51.576641,
     "geom:longitude":-2.56505,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Old Down, Tockington",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":252893807,
-    "wof:lastmodified":1449006300,
+    "wof:lastmodified":1466260715,
     "wof:name":"Windmill House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-2.56505,51.576641,-2.56505,51.576641],
+  "bbox": [
+    -2.56505,
+    51.576641,
+    -2.56505,
+    51.576641
+],
   "geometry": {"coordinates":[-2.56505,51.576641],"type":"Point"}
 }

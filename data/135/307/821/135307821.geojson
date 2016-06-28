@@ -2,13 +2,14 @@
   "id": 135307821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.600346,53.744495,-1.600346,53.744495",
     "geom:latitude":53.744495,
     "geom:longitude":-1.600346,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Queen Street",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135307821,
-    "wof:lastmodified":1449021776,
+    "wof:lastmodified":1466278027,
     "wof:name":"First Electric",
     "wof:parent_id":85789085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.600346,53.744495,-1.600346,53.744495],
+  "bbox": [
+    -1.600346,
+    53.744495,
+    -1.600346,
+    53.744495
+],
   "geometry": {"coordinates":[-1.600346,53.744495],"type":"Point"}
 }

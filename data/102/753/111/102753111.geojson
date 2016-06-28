@@ -2,13 +2,14 @@
   "id": 102753111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.257139,55.836868,-4.257139,55.836868",
     "geom:latitude":55.836868,
     "geom:longitude":-4.257139,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"568 Cathcart Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102753111,
-    "wof:lastmodified":1449068085,
+    "wof:lastmodified":1466259016,
     "wof:name":"Penny Farthing",
     "wof:parent_id":85792495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.257139,55.836868,-4.257139,55.836868],
+  "bbox": [
+    -4.257139,
+    55.836868,
+    -4.257139,
+    55.836868
+],
   "geometry": {"coordinates":[-4.257139,55.836868],"type":"Point"}
 }

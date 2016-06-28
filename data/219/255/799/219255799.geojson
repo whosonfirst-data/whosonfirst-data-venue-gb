@@ -2,13 +2,14 @@
   "id": 219255799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.079787,52.230721,-1.079787,52.230721",
     "geom:latitude":52.230721,
     "geom:longitude":-1.079787,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Stantons Barn, Heyford Lane, Weedon",
     "sg:city":"Northampton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219255799,
-    "wof:lastmodified":1449072004,
+    "wof:lastmodified":1466254485,
     "wof:name":"Parkinsons Disease Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.079787,52.230721,-1.079787,52.230721],
+  "bbox": [
+    -1.079787,
+    52.230721,
+    -1.079787,
+    52.230721
+],
   "geometry": {"coordinates":[-1.079787,52.230721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270203209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.178014,54.157261,-3.178014,54.157261",
     "geom:latitude":54.157261,
     "geom:longitude":-3.178014,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Market Street",
     "sg:city":"Dalton-in-furness",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270203209,
-    "wof:lastmodified":1449009723,
+    "wof:lastmodified":1466266493,
     "wof:name":"The Wizards Brew",
     "wof:parent_id":85791877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wines"
     ]
 },
-  "bbox": [-3.178014,54.157261,-3.178014,54.157261],
+  "bbox": [
+    -3.178014,
+    54.157261,
+    -3.178014,
+    54.157261
+],
   "geometry": {"coordinates":[-3.178014,54.157261],"type":"Point"}
 }

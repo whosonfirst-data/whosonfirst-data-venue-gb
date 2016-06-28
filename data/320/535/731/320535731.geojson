@@ -2,13 +2,14 @@
   "id": 320535731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.470657,53.759583,-2.470657,53.759583",
     "geom:latitude":53.759583,
     "geom:longitude":-2.470657,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Whalley New Road",
     "sg:city":"Blackburn",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320535731,
-    "wof:lastmodified":1449011934,
+    "wof:lastmodified":1466281701,
     "wof:name":"Whitestone Garage",
     "wof:parent_id":85792855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-2.470657,53.759583,-2.470657,53.759583],
+  "bbox": [
+    -2.470657,
+    53.759583,
+    -2.470657,
+    53.759583
+],
   "geometry": {"coordinates":[-2.470657,53.759583],"type":"Point"}
 }

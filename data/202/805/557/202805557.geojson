@@ -2,13 +2,14 @@
   "id": 202805557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.656506,53.589787,-2.656506,53.589787",
     "geom:latitude":53.589787,
     "geom:longitude":-2.656506,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Churchlands Lane, Standish",
     "sg:city":"Wigan",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202805557,
-    "wof:lastmodified":1449060960,
+    "wof:lastmodified":1466259168,
     "wof:name":"Cads",
     "wof:parent_id":85860975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [-2.656506,53.589787,-2.656506,53.589787],
+  "bbox": [
+    -2.656506,
+    53.589787,
+    -2.656506,
+    53.589787
+],
   "geometry": {"coordinates":[-2.656506,53.589787],"type":"Point"}
 }

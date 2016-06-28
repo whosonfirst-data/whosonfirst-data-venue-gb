@@ -2,13 +2,14 @@
   "id": 135871743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.574608,54.777534,-1.574608,54.777534",
     "geom:latitude":54.777534,
     "geom:longitude":-1.574608,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4 Blagdon Depot, Frankland Lane",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135871743,
-    "wof:lastmodified":1449021993,
+    "wof:lastmodified":1466287952,
     "wof:name":"Weld-Spec",
     "wof:parent_id":85684523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.574608,54.777534,-1.574608,54.777534],
+  "bbox": [
+    -1.574608,
+    54.777534,
+    -1.574608,
+    54.777534
+],
   "geometry": {"coordinates":[-1.574608,54.777534],"type":"Point"}
 }

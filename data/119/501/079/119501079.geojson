@@ -2,13 +2,14 @@
   "id": 119501079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.285767,53.085484,-1.285767,53.085484",
     "geom:latitude":53.085484,
     "geom:longitude":-1.285767,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Park Lane, Kirkby In Ashfield",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119501079,
-    "wof:lastmodified":1449043559,
+    "wof:lastmodified":1466287085,
     "wof:name":"The Countryman Inn",
     "wof:parent_id":85683849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.285767,53.085484,-1.285767,53.085484],
+  "bbox": [
+    -1.285767,
+    53.085484,
+    -1.285767,
+    53.085484
+],
   "geometry": {"coordinates":[-1.285767,53.085484],"type":"Point"}
 }

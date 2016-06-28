@@ -2,13 +2,14 @@
   "id": 135387583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.207513,52.768364,-1.207513,52.768364",
     "geom:latitude":52.768364,
     "geom:longitude":-1.207513,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Bedford Square",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135387583,
-    "wof:lastmodified":1449023606,
+    "wof:lastmodified":1466261203,
     "wof:name":"Eddie Bailey",
     "wof:parent_id":101750487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.207513,52.768364,-1.207513,52.768364],
+  "bbox": [
+    -1.207513,
+    52.768364,
+    -1.207513,
+    52.768364
+],
   "geometry": {"coordinates":[-1.207513,52.768364],"type":"Point"}
 }

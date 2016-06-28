@@ -2,13 +2,14 @@
   "id": 135930193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.472831,53.376694,-1.472831,53.376694",
     "geom:latitude":53.376694,
     "geom:longitude":-1.472831,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43-51 The Moor",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135930193,
-    "wof:lastmodified":1449021971,
+    "wof:lastmodified":1466288237,
     "wof:name":"B H S Ltd.",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.472831,53.376694,-1.472831,53.376694],
+  "bbox": [
+    -1.472831,
+    53.376694,
+    -1.472831,
+    53.376694
+],
   "geometry": {"coordinates":[-1.472831,53.376694],"type":"Point"}
 }

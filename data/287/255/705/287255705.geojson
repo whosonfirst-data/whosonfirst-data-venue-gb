@@ -2,13 +2,14 @@
   "id": 287255705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.66973,53.522121,-2.66973,53.522121",
     "geom:latitude":53.522121,
     "geom:longitude":-2.66973,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Winstanley Shopping Precinct, 93 Holmes House Avenue",
     "sg:city":"Wigan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287255705,
-    "wof:lastmodified":1449001060,
+    "wof:lastmodified":1466270956,
     "wof:name":"Stop 'N' Start",
     "wof:parent_id":85791705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [-2.66973,53.522121,-2.66973,53.522121],
+  "bbox": [
+    -2.66973,
+    53.522121,
+    -2.66973,
+    53.522121
+],
   "geometry": {"coordinates":[-2.66973,53.522121],"type":"Point"}
 }

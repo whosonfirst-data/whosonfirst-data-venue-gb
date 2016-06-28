@@ -2,13 +2,14 @@
   "id": 303089891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.412552,54.929832,-1.412552,54.929832",
     "geom:latitude":54.929832,
     "geom:longitude":-1.412552,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Woolwich Close",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303089891,
-    "wof:lastmodified":1448998612,
+    "wof:lastmodified":1466265279,
     "wof:name":"Simpsons Delicatessen",
     "wof:parent_id":85793183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-1.412552,54.929832,-1.412552,54.929832],
+  "bbox": [
+    -1.412552,
+    54.929832,
+    -1.412552,
+    54.929832
+],
   "geometry": {"coordinates":[-1.412552,54.929832],"type":"Point"}
 }

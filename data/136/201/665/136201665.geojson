@@ -2,13 +2,14 @@
   "id": 136201665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.98912,59.315891,-2.98912,59.315891",
     "geom:latitude":59.315891,
     "geom:longitude":-2.98912,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Pierowall, Westray",
     "sg:city":"Orkney",
     "sg:classifiers":[
@@ -36,14 +37,20 @@
     "wof:geomhash":"cd6d14344f263c0396eaca80904bcad0",
     "wof:hierarchy":[],
     "wof:id":136201665,
-    "wof:lastmodified":1449076084,
+    "wof:lastmodified":1466260967,
     "wof:name":"T Logie",
     "wof:parent_id":85683857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.98912,59.315891,-2.98912,59.315891],
+  "bbox": [
+    -2.98912,
+    59.315891,
+    -2.98912,
+    59.315891
+],
   "geometry": {"coordinates":[-2.98912,59.315891],"type":"Point"}
 }

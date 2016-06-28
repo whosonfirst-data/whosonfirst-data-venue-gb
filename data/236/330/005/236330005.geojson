@@ -2,13 +2,14 @@
   "id": 236330005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.602416,53.747639,-1.602416,53.747639",
     "geom:latitude":53.747639,
     "geom:longitude":-1.602416,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"47a Queen Street, Morley",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236330005,
-    "wof:lastmodified":1449003270,
+    "wof:lastmodified":1466262771,
     "wof:name":"Morley Match Anglers",
     "wof:parent_id":85789085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "angling"
     ]
 },
-  "bbox": [-1.602416,53.747639,-1.602416,53.747639],
+  "bbox": [
+    -1.602416,
+    53.747639,
+    -1.602416,
+    53.747639
+],
   "geometry": {"coordinates":[-1.602416,53.747639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236570115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.576629,51.629925,-0.576629,51.629925",
     "geom:latitude":51.629925,
     "geom:longitude":-0.576629,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Little Chalfont Golf Club, Lodge Lane, Little Chalfont",
     "sg:city":"Chalfont St Giles",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236570115,
-    "wof:lastmodified":1449003633,
+    "wof:lastmodified":1466267229,
     "wof:name":"The Golf Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "course"
     ]
 },
-  "bbox": [-0.576629,51.629925,-0.576629,51.629925],
+  "bbox": [
+    -0.576629,
+    51.629925,
+    -0.576629,
+    51.629925
+],
   "geometry": {"coordinates":[-0.576629,51.629925],"type":"Point"}
 }

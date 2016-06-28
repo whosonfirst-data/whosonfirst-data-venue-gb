@@ -2,13 +2,14 @@
   "id": 320724683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.865212,50.731693,-1.865212,50.731693",
     "geom:latitude":50.731693,
     "geom:longitude":-1.865212,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Beechey Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320724683,
-    "wof:lastmodified":1449014891,
+    "wof:lastmodified":1466284242,
     "wof:name":"Manse Rest Home",
     "wof:parent_id":85791709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-1.865212,50.731693,-1.865212,50.731693],
+  "bbox": [
+    -1.865212,
+    50.731693,
+    -1.865212,
+    50.731693
+],
   "geometry": {"coordinates":[-1.865212,50.731693],"type":"Point"}
 }

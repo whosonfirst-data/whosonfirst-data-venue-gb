@@ -2,13 +2,14 @@
   "id": 303198829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.080993,50.78706,-1.080993,50.78706",
     "geom:latitude":50.78706,
     "geom:longitude":-1.080993,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34-36 Albert Road",
     "sg:city":"Southsea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303198829,
-    "wof:lastmodified":1448999007,
+    "wof:lastmodified":1466268752,
     "wof:name":"Farmhouse Kitchen",
     "wof:parent_id":85790481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "room"
     ]
 },
-  "bbox": [-1.080993,50.78706,-1.080993,50.78706],
+  "bbox": [
+    -1.080993,
+    50.78706,
+    -1.080993,
+    50.78706
+],
   "geometry": {"coordinates":[-1.080993,50.78706],"type":"Point"}
 }

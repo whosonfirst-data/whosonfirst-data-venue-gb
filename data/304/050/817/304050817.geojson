@@ -2,13 +2,14 @@
   "id": 304050817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.309611,52.888577,-1.309611,52.888577",
     "geom:latitude":52.888577,
     "geom:longitude":-1.309611,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sawley Bridge Marina, Long Eaton",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":304050817,
-    "wof:lastmodified":1449043925,
+    "wof:lastmodified":1466265784,
     "wof:name":"B B Marine Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "builder"
     ]
 },
-  "bbox": [-1.309611,52.888577,-1.309611,52.888577],
+  "bbox": [
+    -1.309611,
+    52.888577,
+    -1.309611,
+    52.888577
+],
   "geometry": {"coordinates":[-1.309611,52.888577],"type":"Point"}
 }

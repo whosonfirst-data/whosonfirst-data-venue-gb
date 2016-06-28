@@ -2,13 +2,14 @@
   "id": 135535501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.161354,53.259865,-2.161354,53.259865",
     "geom:latitude":53.259865,
     "geom:longitude":-2.161354,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Fallibroome Road",
     "sg:city":"Macclesfield",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135535501,
-    "wof:lastmodified":1449021525,
+    "wof:lastmodified":1466278735,
     "wof:name":"Robert Brown",
     "wof:parent_id":101750519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.161354,53.259865,-2.161354,53.259865],
+  "bbox": [
+    -2.161354,
+    53.259865,
+    -2.161354,
+    53.259865
+],
   "geometry": {"coordinates":[-2.161354,53.259865],"type":"Point"}
 }

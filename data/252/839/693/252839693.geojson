@@ -2,13 +2,14 @@
   "id": 252839693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.476802,54.85141,-1.476802,54.85141",
     "geom:latitude":54.85141,
     "geom:longitude":-1.476802,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Grasswell Terrace",
     "sg:city":"Houghton-le-spring",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252839693,
-    "wof:lastmodified":1449006084,
+    "wof:lastmodified":1466259624,
     "wof:name":"Grasswell Chippy",
     "wof:parent_id":85787173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "chip"
     ]
 },
-  "bbox": [-1.476802,54.85141,-1.476802,54.85141],
+  "bbox": [
+    -1.476802,
+    54.85141,
+    -1.476802,
+    54.85141
+],
   "geometry": {"coordinates":[-1.476802,54.85141],"type":"Point"}
 }

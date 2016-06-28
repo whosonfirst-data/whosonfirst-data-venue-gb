@@ -2,13 +2,14 @@
   "id": 102652199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.871719,50.760494,-1.871719,50.760494",
     "geom:latitude":50.760494,
     "geom:longitude":-1.871719,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Winton Library, Wimborne Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102652199,
-    "wof:lastmodified":1449069319,
+    "wof:lastmodified":1466254503,
     "wof:name":"Winton Library",
     "wof:parent_id":85789483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.871719,50.760494,-1.871719,50.760494],
+  "bbox": [
+    -1.871719,
+    50.760494,
+    -1.871719,
+    50.760494
+],
   "geometry": {"coordinates":[-1.871719,50.760494],"type":"Point"}
 }

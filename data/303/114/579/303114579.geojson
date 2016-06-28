@@ -2,13 +2,14 @@
   "id": 303114579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.442508,54.9762,-1.442508,54.9762",
     "geom:latitude":54.9762,
     "geom:longitude":-1.442508,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"103a Hudson Street",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303114579,
-    "wof:lastmodified":1448999137,
+    "wof:lastmodified":1466266114,
     "wof:name":"TYNE DOCK TAXIS",
     "wof:parent_id":85873783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-1.442508,54.9762,-1.442508,54.9762],
+  "bbox": [
+    -1.442508,
+    54.9762,
+    -1.442508,
+    54.9762
+],
   "geometry": {"coordinates":[-1.442508,54.9762],"type":"Point"}
 }

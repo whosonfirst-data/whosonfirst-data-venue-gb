@@ -2,13 +2,14 @@
   "id": 220141661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.51231,51.517399,-2.51231,51.517399",
     "geom:latitude":51.517399,
     "geom:longitude":-2.51231,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Foxborough Gardens, Bradley Stoke",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220141661,
-    "wof:lastmodified":1449074304,
+    "wof:lastmodified":1466255485,
     "wof:name":"Upstairs Downstairs",
     "wof:parent_id":85787517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-2.51231,51.517399,-2.51231,51.517399],
+  "bbox": [
+    -2.51231,
+    51.517399,
+    -2.51231,
+    51.517399
+],
   "geometry": {"coordinates":[-2.51231,51.517399],"type":"Point"}
 }

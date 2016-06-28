@@ -2,13 +2,14 @@
   "id": 202968113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.841029,52.522976,-1.841029,52.522976",
     "geom:latitude":52.522976,
     "geom:longitude":-1.841029,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 York Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":202968113,
-    "wof:lastmodified":1449060270,
+    "wof:lastmodified":1466261775,
     "wof:name":"Telecom Land Ltd.",
     "wof:parent_id":85787293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.841029,52.522976,-1.841029,52.522976],
+  "bbox": [
+    -1.841029,
+    52.522976,
+    -1.841029,
+    52.522976
+],
   "geometry": {"coordinates":[-1.841029,52.522976],"type":"Point"}
 }

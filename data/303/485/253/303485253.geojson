@@ -2,13 +2,14 @@
   "id": 303485253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.039767,51.463207,-1.039767,51.463207",
     "geom:latitude":51.463207,
     "geom:longitude":-1.039767,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Armour Road, Tilehurst",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303485253,
-    "wof:lastmodified":1448999610,
+    "wof:lastmodified":1466277442,
     "wof:name":"Armour Autos",
     "wof:parent_id":85791053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [-1.039767,51.463207,-1.039767,51.463207],
+  "bbox": [
+    -1.039767,
+    51.463207,
+    -1.039767,
+    51.463207
+],
   "geometry": {"coordinates":[-1.039767,51.463207],"type":"Point"}
 }

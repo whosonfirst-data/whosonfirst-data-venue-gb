@@ -2,13 +2,14 @@
   "id": 270488909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.210503,55.960979,-3.210503,55.960979",
     "geom:latitude":55.960979,
     "geom:longitude":-3.210503,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Glenogle Road, Stockbridge",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270488909,
-    "wof:lastmodified":1449011083,
+    "wof:lastmodified":1466275017,
     "wof:name":"Glenogle Swim Centre",
     "wof:parent_id":85861507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-3.210503,55.960979,-3.210503,55.960979],
+  "bbox": [
+    -3.210503,
+    55.960979,
+    -3.210503,
+    55.960979
+],
   "geometry": {"coordinates":[-3.210503,55.960979],"type":"Point"}
 }

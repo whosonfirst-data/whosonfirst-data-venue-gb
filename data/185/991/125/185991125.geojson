@@ -2,13 +2,14 @@
   "id": 185991125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.13477,53.543308,-2.13477,53.543308",
     "geom:latitude":53.543308,
     "geom:longitude":-2.13477,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Ward Street, Middleton Road, Chadderton",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185991125,
-    "wof:lastmodified":1449007109,
+    "wof:lastmodified":1466257038,
     "wof:name":"Horton Arms",
     "wof:parent_id":85793081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-2.13477,53.543308,-2.13477,53.543308],
+  "bbox": [
+    -2.13477,
+    53.543308,
+    -2.13477,
+    53.543308
+],
   "geometry": {"coordinates":[-2.13477,53.543308],"type":"Point"}
 }

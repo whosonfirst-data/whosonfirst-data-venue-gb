@@ -2,13 +2,14 @@
   "id": 286276945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.016509,50.777973,-2.016509,50.777973",
     "geom:latitude":50.777973,
     "geom:longitude":-2.016509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sleight House, Blandford Rd, Corfe Mullen",
     "sg:city":"Wimborne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286276945,
-    "wof:lastmodified":1449015269,
+    "wof:lastmodified":1466262785,
     "wof:name":"George Gardner Associates",
     "wof:parent_id":85787159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "quantity"
     ]
 },
-  "bbox": [-2.016509,50.777973,-2.016509,50.777973],
+  "bbox": [
+    -2.016509,
+    50.777973,
+    -2.016509,
+    50.777973
+],
   "geometry": {"coordinates":[-2.016509,50.777973],"type":"Point"}
 }

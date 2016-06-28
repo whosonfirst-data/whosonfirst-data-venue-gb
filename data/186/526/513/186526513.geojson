@@ -2,13 +2,14 @@
   "id": 186526513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.0563,50.810917,-1.0563,50.810917",
     "geom:latitude":50.810917,
     "geom:longitude":-1.0563,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Northover Road",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186526513,
-    "wof:lastmodified":1449051197,
+    "wof:lastmodified":1466259722,
     "wof:name":"John Cassell",
     "wof:parent_id":85792787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "alternative"
     ]
 },
-  "bbox": [-1.0563,50.810917,-1.0563,50.810917],
+  "bbox": [
+    -1.0563,
+    50.810917,
+    -1.0563,
+    50.810917
+],
   "geometry": {"coordinates":[-1.0563,50.810917],"type":"Point"}
 }

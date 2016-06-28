@@ -2,13 +2,14 @@
   "id": 252876923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.463789,54.01429,-1.463789,54.01429",
     "geom:latitude":54.01429,
     "geom:longitude":-1.463789,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Stockwell Place",
     "sg:city":"Knaresborough",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252876923,
-    "wof:lastmodified":1449005637,
+    "wof:lastmodified":1466260383,
     "wof:name":"Stockwell Place News",
     "wof:parent_id":85790715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.463789,54.01429,-1.463789,54.01429],
+  "bbox": [
+    -1.463789,
+    54.01429,
+    -1.463789,
+    54.01429
+],
   "geometry": {"coordinates":[-1.463789,54.01429],"type":"Point"}
 }

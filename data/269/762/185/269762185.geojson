@@ -2,13 +2,14 @@
   "id": 269762185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.524361,55.070618,-3.524361,55.070618",
     "geom:latitude":55.070618,
     "geom:longitude":-3.524361,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hillcrest, Roucan Road",
     "sg:city":"Dumfries",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269762185,
-    "wof:lastmodified":1449037859,
+    "wof:lastmodified":1466268537,
     "wof:name":"Cameras Stop Crime",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cctv"
     ]
 },
-  "bbox": [-3.524361,55.070618,-3.524361,55.070618],
+  "bbox": [
+    -3.524361,
+    55.070618,
+    -3.524361,
+    55.070618
+],
   "geometry": {"coordinates":[-3.524361,55.070618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203185673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.234758,53.485641,-2.234758,53.485641",
     "geom:latitude":53.485641,
     "geom:longitude":-2.234758,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"47-53 Swan St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203185673,
-    "wof:lastmodified":1449025252,
+    "wof:lastmodified":1466255759,
     "wof:name":"Royal Exchange Theatre Co",
     "wof:parent_id":85793015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "theatrical"
     ]
 },
-  "bbox": [-2.234758,53.485641,-2.234758,53.485641],
+  "bbox": [
+    -2.234758,
+    53.485641,
+    -2.234758,
+    53.485641
+],
   "geometry": {"coordinates":[-2.234758,53.485641],"type":"Point"}
 }

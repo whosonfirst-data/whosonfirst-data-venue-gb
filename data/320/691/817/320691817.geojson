@@ -2,13 +2,14 @@
   "id": 320691817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.211314,50.244926,-5.211314,50.244926",
     "geom:latitude":50.244926,
     "geom:longitude":-5.211314,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Forth Noweth, Chapel Street",
     "sg:city":"Redruth",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320691817,
-    "wof:lastmodified":1449011557,
+    "wof:lastmodified":1466283768,
     "wof:name":"Manor Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-5.211314,50.244926,-5.211314,50.244926],
+  "bbox": [
+    -5.211314,
+    50.244926,
+    -5.211314,
+    50.244926
+],
   "geometry": {"coordinates":[-5.211314,50.244926],"type":"Point"}
 }

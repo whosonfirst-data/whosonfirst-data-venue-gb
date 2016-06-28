@@ -2,13 +2,14 @@
   "id": 119009949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.511877,53.553501,-2.511877,53.553501",
     "geom:latitude":53.553501,
     "geom:longitude":-2.511877,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Bolton Road, Westhoughton",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119009949,
-    "wof:lastmodified":1449043516,
+    "wof:lastmodified":1466262845,
     "wof:name":"The Howfener",
     "wof:parent_id":85789671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.511877,53.553501,-2.511877,53.553501],
+  "bbox": [
+    -2.511877,
+    53.553501,
+    -2.511877,
+    53.553501
+],
   "geometry": {"coordinates":[-2.511877,53.553501],"type":"Point"}
 }

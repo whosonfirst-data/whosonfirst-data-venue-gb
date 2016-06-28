@@ -2,13 +2,14 @@
   "id": 269528153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.754114,50.733257,-2.754114,50.733257",
     "geom:latitude":50.733257,
     "geom:longitude":-2.754114,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"69 East Street",
     "sg:city":"Bridport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269528153,
-    "wof:lastmodified":1449036807,
+    "wof:lastmodified":1466261338,
     "wof:name":"John Matthews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.754114,50.733257,-2.754114,50.733257],
+  "bbox": [
+    -2.754114,
+    50.733257,
+    -2.754114,
+    50.733257
+],
   "geometry": {"coordinates":[-2.754114,50.733257],"type":"Point"}
 }

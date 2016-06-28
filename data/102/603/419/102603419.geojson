@@ -2,13 +2,14 @@
   "id": 102603419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.090405,55.812008,-4.090405,55.812008",
     "geom:latitude":55.812008,
     "geom:longitude":-4.090405,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Lady Jane Gate, Bothwell",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102603419,
-    "wof:lastmodified":1449069790,
+    "wof:lastmodified":1466252594,
     "wof:name":"O E M Components (Europe) Ltd.",
     "wof:parent_id":85683955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.090405,55.812008,-4.090405,55.812008],
+  "bbox": [
+    -4.090405,
+    55.812008,
+    -4.090405,
+    55.812008
+],
   "geometry": {"coordinates":[-4.090405,55.812008],"type":"Point"}
 }

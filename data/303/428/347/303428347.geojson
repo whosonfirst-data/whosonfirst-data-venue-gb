@@ -2,13 +2,14 @@
   "id": 303428347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.935148,52.429554,-1.935148,52.429554",
     "geom:latitude":52.429554,
     "geom:longitude":-1.935148,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Sycamore Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303428347,
-    "wof:lastmodified":1449000400,
+    "wof:lastmodified":1466275707,
     "wof:name":"T Whitehouse",
     "wof:parent_id":85785883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fishmonger"
     ]
 },
-  "bbox": [-1.935148,52.429554,-1.935148,52.429554],
+  "bbox": [
+    -1.935148,
+    52.429554,
+    -1.935148,
+    52.429554
+],
   "geometry": {"coordinates":[-1.935148,52.429554],"type":"Point"}
 }

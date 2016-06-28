@@ -2,13 +2,14 @@
   "id": 236235073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.534552,52.40498,-1.534552,52.40498",
     "geom:latitude":52.40498,
     "geom:longitude":-1.534552,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Hearsall Lane",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236235073,
-    "wof:lastmodified":1449002099,
+    "wof:lastmodified":1466260943,
     "wof:name":"Hearsall News",
     "wof:parent_id":85790551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.534552,52.40498,-1.534552,52.40498],
+  "bbox": [
+    -1.534552,
+    52.40498,
+    -1.534552,
+    52.40498
+],
   "geometry": {"coordinates":[-1.534552,52.40498],"type":"Point"}
 }

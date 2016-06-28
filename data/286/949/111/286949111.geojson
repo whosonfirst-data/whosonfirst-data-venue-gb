@@ -2,13 +2,14 @@
   "id": 286949111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.289208,50.758549,-1.289208,50.758549",
     "geom:latitude":50.758549,
     "geom:longitude":-1.289208,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Castle St",
     "sg:city":"East Cowes",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":286949111,
-    "wof:lastmodified":1449017028,
+    "wof:lastmodified":1466281193,
     "wof:name":"A N Whitfield",
     "wof:parent_id":85791461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.289208,50.758549,-1.289208,50.758549],
+  "bbox": [
+    -1.289208,
+    50.758549,
+    -1.289208,
+    50.758549
+],
   "geometry": {"coordinates":[-1.289208,50.758549],"type":"Point"}
 }

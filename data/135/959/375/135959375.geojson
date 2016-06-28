@@ -2,13 +2,14 @@
   "id": 135959375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.453621,50.613121,-2.453621,50.613121",
     "geom:latitude":50.613121,
     "geom:longitude":-2.453621,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"87-88 The Esplanade",
     "sg:city":"Weymouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135959375,
-    "wof:lastmodified":1449023698,
+    "wof:lastmodified":1466288411,
     "wof:name":"Harry's Amusements",
     "wof:parent_id":101751585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.453621,50.613121,-2.453621,50.613121],
+  "bbox": [
+    -2.453621,
+    50.613121,
+    -2.453621,
+    50.613121
+],
   "geometry": {"coordinates":[-2.453621,50.613121],"type":"Point"}
 }

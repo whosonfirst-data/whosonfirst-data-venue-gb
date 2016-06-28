@@ -2,13 +2,14 @@
   "id": 102742409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.242479,55.854633,-4.242479,55.854633",
     "geom:latitude":55.854633,
     "geom:longitude":-4.242479,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 St Andrews Square",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102742409,
-    "wof:lastmodified":1449067945,
+    "wof:lastmodified":1466258234,
     "wof:name":"Brown & Wallace",
     "wof:parent_id":85861551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.242479,55.854633,-4.242479,55.854633],
+  "bbox": [
+    -4.242479,
+    55.854633,
+    -4.242479,
+    55.854633
+],
   "geometry": {"coordinates":[-4.242479,55.854633],"type":"Point"}
 }

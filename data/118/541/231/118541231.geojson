@@ -2,13 +2,14 @@
   "id": 118541231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.05035,52.716469,-1.05035,52.716469",
     "geom:latitude":52.716469,
     "geom:longitude":-1.05035,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Commercial, 20 Wayfarer Dr",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118541231,
-    "wof:lastmodified":1449053302,
+    "wof:lastmodified":1466253246,
     "wof:name":"C D S",
     "wof:parent_id":85683891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.05035,52.716469,-1.05035,52.716469],
+  "bbox": [
+    -1.05035,
+    52.716469,
+    -1.05035,
+    52.716469
+],
   "geometry": {"coordinates":[-1.05035,52.716469],"type":"Point"}
 }

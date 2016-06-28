@@ -2,13 +2,14 @@
   "id": 186527217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.334871,54.842205,-1.334871,54.842205",
     "geom:latitude":54.842205,
     "geom:longitude":-1.334871,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 North Rd",
     "sg:city":"Seaham",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186527217,
-    "wof:lastmodified":1449052456,
+    "wof:lastmodified":1466259738,
     "wof:name":"Tara House",
     "wof:parent_id":85788719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-1.334871,54.842205,-1.334871,54.842205],
+  "bbox": [
+    -1.334871,
+    54.842205,
+    -1.334871,
+    54.842205
+],
   "geometry": {"coordinates":[-1.334871,54.842205],"type":"Point"}
 }

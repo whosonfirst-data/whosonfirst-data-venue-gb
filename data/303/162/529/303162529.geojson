@@ -2,13 +2,14 @@
   "id": 303162529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.124801,50.794758,-1.124801,50.794758",
     "geom:latitude":50.794758,
     "geom:longitude":-1.124801,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"133 High Street",
     "sg:city":"Gosport",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303162529,
-    "wof:lastmodified":1449000206,
+    "wof:lastmodified":1466267569,
     "wof:name":"Fairhalls",
     "wof:parent_id":85792777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.124801,50.794758,-1.124801,50.794758],
+  "bbox": [
+    -1.124801,
+    50.794758,
+    -1.124801,
+    50.794758
+],
   "geometry": {"coordinates":[-1.124801,50.794758],"type":"Point"}
 }

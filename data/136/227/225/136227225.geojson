@@ -2,13 +2,14 @@
   "id": 136227225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.236149,51.040203,-4.236149,51.040203",
     "geom:latitude":51.040203,
     "geom:longitude":-4.236149,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Atlantic Court, Nelson Road",
     "sg:city":"Bideford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136227225,
-    "wof:lastmodified":1449075183,
+    "wof:lastmodified":1466262378,
     "wof:name":"Atlantic Court",
     "wof:parent_id":85683773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.236149,51.040203,-4.236149,51.040203],
+  "bbox": [
+    -4.236149,
+    51.040203,
+    -4.236149,
+    51.040203
+],
   "geometry": {"coordinates":[-4.236149,51.040203],"type":"Point"}
 }

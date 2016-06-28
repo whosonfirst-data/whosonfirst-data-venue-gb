@@ -2,13 +2,14 @@
   "id": 303093753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.129234,53.954182,-1.129234,53.954182",
     "geom:latitude":53.954182,
     "geom:longitude":-1.129234,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Acomb Mews, Front Street",
     "sg:city":"York",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303093753,
-    "wof:lastmodified":1448998118,
+    "wof:lastmodified":1466265430,
     "wof:name":"Pets Corner",
     "wof:parent_id":85785215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.129234,53.954182,-1.129234,53.954182],
+  "bbox": [
+    -1.129234,
+    53.954182,
+    -1.129234,
+    53.954182
+],
   "geometry": {"coordinates":[-1.129234,53.954182],"type":"Point"}
 }

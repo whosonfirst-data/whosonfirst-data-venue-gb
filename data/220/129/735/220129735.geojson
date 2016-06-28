@@ -2,13 +2,14 @@
   "id": 220129735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.747025,53.457157,-2.747025,53.457157",
     "geom:latitude":53.457157,
     "geom:longitude":-2.747025,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3-5 Spray Street",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220129735,
-    "wof:lastmodified":1449074689,
+    "wof:lastmodified":1466255281,
     "wof:name":"Ashton Electrical",
     "wof:parent_id":85786999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-2.747025,53.457157,-2.747025,53.457157],
+  "bbox": [
+    -2.747025,
+    53.457157,
+    -2.747025,
+    53.457157
+],
   "geometry": {"coordinates":[-2.747025,53.457157],"type":"Point"}
 }

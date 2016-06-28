@@ -2,13 +2,14 @@
   "id": 118643271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.266217,55.85001,-4.266217,55.85001",
     "geom:latitude":55.85001,
     "geom:longitude":-4.266217,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"173 West Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118643271,
-    "wof:lastmodified":1449054358,
+    "wof:lastmodified":1466260973,
     "wof:name":"T G Signs",
     "wof:parent_id":85861543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.266217,55.85001,-4.266217,55.85001],
+  "bbox": [
+    -4.266217,
+    55.85001,
+    -4.266217,
+    55.85001
+],
   "geometry": {"coordinates":[-4.266217,55.85001],"type":"Point"}
 }

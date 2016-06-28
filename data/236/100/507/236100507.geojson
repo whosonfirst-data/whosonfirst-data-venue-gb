@@ -2,13 +2,14 @@
   "id": 236100507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.983222,50.750126,-1.983222,50.750126",
     "geom:latitude":50.750126,
     "geom:longitude":-1.983222,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 The Pde, Waterloo",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236100507,
-    "wof:lastmodified":1449004217,
+    "wof:lastmodified":1466258443,
     "wof:name":"Waterloo Hairdressers",
     "wof:parent_id":85791379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.983222,50.750126,-1.983222,50.750126],
+  "bbox": [
+    -1.983222,
+    50.750126,
+    -1.983222,
+    50.750126
+],
   "geometry": {"coordinates":[-1.983222,50.750126],"type":"Point"}
 }

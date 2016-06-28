@@ -2,13 +2,14 @@
   "id": 252926165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.190475,55.959171,-3.190475,55.959171",
     "geom:latitude":55.959171,
     "geom:longitude":-3.190475,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Broughton Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":252926165,
-    "wof:lastmodified":1449005782,
+    "wof:lastmodified":1466261340,
     "wof:name":"Cask & Barrel",
     "wof:parent_id":85861517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "activity"
     ]
 },
-  "bbox": [-3.190475,55.959171,-3.190475,55.959171],
+  "bbox": [
+    -3.190475,
+    55.959171,
+    -3.190475,
+    55.959171
+],
   "geometry": {"coordinates":[-3.190475,55.959171],"type":"Point"}
 }

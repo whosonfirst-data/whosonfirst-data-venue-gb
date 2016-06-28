@@ -2,13 +2,14 @@
   "id": 119131469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.301902,55.883343,-4.301902,55.883343",
     "geom:latitude":55.883343,
     "geom:longitude":-4.301902,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Cleveden Drive",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119131469,
-    "wof:lastmodified":1449041588,
+    "wof:lastmodified":1466261798,
     "wof:name":"Clevedon Drive Reception Unit",
     "wof:parent_id":85792459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.301902,55.883343,-4.301902,55.883343],
+  "bbox": [
+    -4.301902,
+    55.883343,
+    -4.301902,
+    55.883343
+],
   "geometry": {"coordinates":[-4.301902,55.883343],"type":"Point"}
 }

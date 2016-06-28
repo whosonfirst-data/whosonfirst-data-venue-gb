@@ -2,13 +2,14 @@
   "id": 270440701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.985397,52.587475,-1.985397,52.587475",
     "geom:latitude":52.587475,
     "geom:longitude":-1.985397,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Stafford Street",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270440701,
-    "wof:lastmodified":1449009516,
+    "wof:lastmodified":1466273603,
     "wof:name":"Comb & Scissors",
     "wof:parent_id":85785719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.985397,52.587475,-1.985397,52.587475],
+  "bbox": [
+    -1.985397,
+    52.587475,
+    -1.985397,
+    52.587475
+],
   "geometry": {"coordinates":[-1.985397,52.587475],"type":"Point"}
 }

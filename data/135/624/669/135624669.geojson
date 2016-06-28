@@ -2,13 +2,14 @@
   "id": 135624669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.21529,55.858646,-4.21529,55.858646",
     "geom:latitude":55.858646,
     "geom:longitude":-4.21529,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Duke Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135624669,
-    "wof:lastmodified":1449023071,
+    "wof:lastmodified":1466283772,
     "wof:name":"House of Flowers Glasgow",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.21529,55.858646,-4.21529,55.858646],
+  "bbox": [
+    -4.21529,
+    55.858646,
+    -4.21529,
+    55.858646
+],
   "geometry": {"coordinates":[-4.21529,55.858646],"type":"Point"}
 }

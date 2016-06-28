@@ -2,13 +2,14 @@
   "id": 236052341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.506472,52.394493,-1.506472,52.394493",
     "geom:latitude":52.394493,
     "geom:longitude":-1.506472,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Daventry Rd",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236052341,
-    "wof:lastmodified":1449003095,
+    "wof:lastmodified":1466257515,
     "wof:name":"Gullivers",
     "wof:parent_id":85789723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.506472,52.394493,-1.506472,52.394493],
+  "bbox": [
+    -1.506472,
+    52.394493,
+    -1.506472,
+    52.394493
+],
   "geometry": {"coordinates":[-1.506472,52.394493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269667983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.258573,55.960548,-3.258573,55.960548",
     "geom:latitude":55.960548,
     "geom:longitude":-3.258573,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Strachan Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":269667983,
-    "wof:lastmodified":1449037695,
+    "wof:lastmodified":1466265672,
     "wof:name":"Blackhall Licensed Grocers",
     "wof:parent_id":85786975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-3.258573,55.960548,-3.258573,55.960548],
+  "bbox": [
+    -3.258573,
+    55.960548,
+    -3.258573,
+    55.960548
+],
   "geometry": {"coordinates":[-3.258573,55.960548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303359565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.199829,52.417995,-1.199829,52.417995",
     "geom:latitude":52.417995,
     "geom:longitude":-1.199829,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Technical Centre, Gibbet Lane, Shawell",
     "sg:city":"Lutterworth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303359565,
-    "wof:lastmodified":1448998078,
+    "wof:lastmodified":1466273590,
     "wof:name":"Lafarge Aggregates Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gravel"
     ]
 },
-  "bbox": [-1.199829,52.417995,-1.199829,52.417995],
+  "bbox": [
+    -1.199829,
+    52.417995,
+    -1.199829,
+    52.417995
+],
   "geometry": {"coordinates":[-1.199829,52.417995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303251015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.725304,53.816399,-1.725304,53.816399",
     "geom:latitude":53.816399,
     "geom:longitude":-1.725304,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Moorside Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303251015,
-    "wof:lastmodified":1448998164,
+    "wof:lastmodified":1466270385,
     "wof:name":"C & P Treatments",
     "wof:parent_id":85787227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blast"
     ]
 },
-  "bbox": [-1.725304,53.816399,-1.725304,53.816399],
+  "bbox": [
+    -1.725304,
+    53.816399,
+    -1.725304,
+    53.816399
+],
   "geometry": {"coordinates":[-1.725304,53.816399],"type":"Point"}
 }

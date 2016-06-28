@@ -2,13 +2,14 @@
   "id": 185857729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.859249,52.491764,-1.859249,52.491764",
     "geom:latitude":52.491764,
     "geom:longitude":-1.859249,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Alum Rock Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185857729,
-    "wof:lastmodified":1449007641,
+    "wof:lastmodified":1466255375,
     "wof:name":"Mr News",
     "wof:parent_id":85791997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.859249,52.491764,-1.859249,52.491764],
+  "bbox": [
+    -1.859249,
+    52.491764,
+    -1.859249,
+    52.491764
+],
   "geometry": {"coordinates":[-1.859249,52.491764],"type":"Point"}
 }

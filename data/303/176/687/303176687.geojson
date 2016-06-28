@@ -2,13 +2,14 @@
   "id": 303176687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.948389,51.632195,-3.948389,51.632195",
     "geom:latitude":51.632195,
     "geom:longitude":-3.948389,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Peter Street Garage, Peter Street",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303176687,
-    "wof:lastmodified":1448999714,
+    "wof:lastmodified":1466268016,
     "wof:name":"Des Richards Repairs",
     "wof:parent_id":85789043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-3.948389,51.632195,-3.948389,51.632195],
+  "bbox": [
+    -3.948389,
+    51.632195,
+    -3.948389,
+    51.632195
+],
   "geometry": {"coordinates":[-3.948389,51.632195],"type":"Point"}
 }

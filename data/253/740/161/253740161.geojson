@@ -2,13 +2,14 @@
   "id": 253740161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.604901,54.950287,-1.604901,54.950287",
     "geom:latitude":54.950287,
     "geom:longitude":-1.604901,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22-24 Brinkburn Avenue",
     "sg:city":"Gateshead",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253740161,
-    "wof:lastmodified":1449064155,
+    "wof:lastmodified":1466275623,
     "wof:name":"The Little Chip",
     "wof:parent_id":85790145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-1.604901,54.950287,-1.604901,54.950287],
+  "bbox": [
+    -1.604901,
+    54.950287,
+    -1.604901,
+    54.950287
+],
   "geometry": {"coordinates":[-1.604901,54.950287],"type":"Point"}
 }

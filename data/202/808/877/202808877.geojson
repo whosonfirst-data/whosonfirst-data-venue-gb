@@ -2,13 +2,14 @@
   "id": 202808877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.096687,51.52499,-0.096687,51.52499",
     "geom:latitude":51.52499,
     "geom:longitude":-0.096687,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Gee St",
     "sg:city":"Clerkenwell",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202808877,
-    "wof:lastmodified":1449060222,
+    "wof:lastmodified":1466259227,
     "wof:name":"London News Service",
     "wof:parent_id":85792171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photography"
     ]
 },
-  "bbox": [-0.096687,51.52499,-0.096687,51.52499],
+  "bbox": [
+    -0.096687,
+    51.52499,
+    -0.096687,
+    51.52499
+],
   "geometry": {"coordinates":[-0.096687,51.52499],"type":"Point"}
 }

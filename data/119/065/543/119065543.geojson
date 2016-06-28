@@ -2,13 +2,14 @@
   "id": 119065543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.533004,50.470257,-3.533004,50.470257",
     "geom:latitude":50.470257,
     "geom:longitude":-3.533004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lymington Road",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119065543,
-    "wof:lastmodified":1449043532,
+    "wof:lastmodified":1466254914,
     "wof:name":"Torquay Central Library",
     "wof:parent_id":101751577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.533004,50.470257,-3.533004,50.470257],
+  "bbox": [
+    -3.533004,
+    50.470257,
+    -3.533004,
+    50.470257
+],
   "geometry": {"coordinates":[-3.533004,50.470257],"type":"Point"}
 }

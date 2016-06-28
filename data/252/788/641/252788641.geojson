@@ -2,13 +2,14 @@
   "id": 252788641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.607293,51.456638,-2.607293,51.456638",
     "geom:latitude":51.456638,
     "geom:longitude":-2.607293,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77a Queens Road, Clifton",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252788641,
-    "wof:lastmodified":1449005982,
+    "wof:lastmodified":1466258657,
     "wof:name":"The Barber Shop",
     "wof:parent_id":85861401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.607293,51.456638,-2.607293,51.456638],
+  "bbox": [
+    -2.607293,
+    51.456638,
+    -2.607293,
+    51.456638
+],
   "geometry": {"coordinates":[-2.607293,51.456638],"type":"Point"}
 }

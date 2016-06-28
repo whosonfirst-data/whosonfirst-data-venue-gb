@@ -2,13 +2,14 @@
   "id": 303967943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.973102,52.592514,-1.973102,52.592514",
     "geom:latitude":52.592514,
     "geom:longitude":-1.973102,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Westbourne Street",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":303967943,
-    "wof:lastmodified":1449000383,
+    "wof:lastmodified":1466284969,
     "wof:name":"Westbourne Street Post Office",
     "wof:parent_id":85791913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.973102,52.592514,-1.973102,52.592514],
+  "bbox": [
+    -1.973102,
+    52.592514,
+    -1.973102,
+    52.592514
+],
   "geometry": {"coordinates":[-1.973102,52.592514],"type":"Point"}
 }

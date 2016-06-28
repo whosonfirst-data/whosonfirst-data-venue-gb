@@ -2,13 +2,14 @@
   "id": 135698163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.339135,53.435844,-1.339135,53.435844",
     "geom:latitude":53.435844,
     "geom:longitude":-1.339135,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cranworth Close",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135698163,
-    "wof:lastmodified":1449023820,
+    "wof:lastmodified":1466285850,
     "wof:name":"Cranworth",
     "wof:parent_id":85785261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.339135,53.435844,-1.339135,53.435844],
+  "bbox": [
+    -1.339135,
+    53.435844,
+    -1.339135,
+    53.435844
+],
   "geometry": {"coordinates":[-1.339135,53.435844],"type":"Point"}
 }

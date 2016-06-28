@@ -2,13 +2,14 @@
   "id": 320816299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.008584,53.647476,-3.008584,53.647476",
     "geom:latitude":53.647476,
     "geom:longitude":-3.008584,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3-5 Waverley Street",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320816299,
-    "wof:lastmodified":1449013433,
+    "wof:lastmodified":1466285141,
     "wof:name":"Waverley Cafe Bar",
     "wof:parent_id":85785733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "night"
     ]
 },
-  "bbox": [-3.008584,53.647476,-3.008584,53.647476],
+  "bbox": [
+    -3.008584,
+    53.647476,
+    -3.008584,
+    53.647476
+],
   "geometry": {"coordinates":[-3.008584,53.647476],"type":"Point"}
 }

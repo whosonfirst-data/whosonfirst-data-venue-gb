@@ -2,13 +2,14 @@
   "id": 336848521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.200173,52.45425,-1.200173,52.45425",
     "geom:latitude":52.45425,
     "geom:longitude":-1.200173,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 High Street",
     "sg:city":"Lutterworth",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":336848521,
-    "wof:lastmodified":1448997087,
+    "wof:lastmodified":1466279328,
     "wof:name":"Victoria House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "activity"
     ]
 },
-  "bbox": [-1.200173,52.45425,-1.200173,52.45425],
+  "bbox": [
+    -1.200173,
+    52.45425,
+    -1.200173,
+    52.45425
+],
   "geometry": {"coordinates":[-1.200173,52.45425],"type":"Point"}
 }

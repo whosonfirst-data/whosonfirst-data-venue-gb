@@ -2,13 +2,14 @@
   "id": 135709471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.004577,50.863422,-1.004577,50.863422",
     "geom:latitude":50.863422,
     "geom:longitude":-1.004577,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43 St Johns Rd",
     "sg:city":"Havant",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135709471,
-    "wof:lastmodified":1449021578,
+    "wof:lastmodified":1466286218,
     "wof:name":"Attend-A-Lock",
     "wof:parent_id":85785573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.004577,50.863422,-1.004577,50.863422],
+  "bbox": [
+    -1.004577,
+    50.863422,
+    -1.004577,
+    50.863422
+],
   "geometry": {"coordinates":[-1.004577,50.863422],"type":"Point"}
 }

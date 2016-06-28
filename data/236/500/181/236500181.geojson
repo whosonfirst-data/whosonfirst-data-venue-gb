@@ -2,13 +2,14 @@
   "id": 236500181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.217719,50.407623,-4.217719,50.407623",
     "geom:latitude":50.407623,
     "geom:longitude":-4.217719,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Higher Port View",
     "sg:city":"Saltash",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236500181,
-    "wof:lastmodified":1449002299,
+    "wof:lastmodified":1466265852,
     "wof:name":"St Barnabas Hospital",
     "wof:parent_id":85790593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.217719,50.407623,-4.217719,50.407623],
+  "bbox": [
+    -4.217719,
+    50.407623,
+    -4.217719,
+    50.407623
+],
   "geometry": {"coordinates":[-4.217719,50.407623],"type":"Point"}
 }

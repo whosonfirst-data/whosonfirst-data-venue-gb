@@ -2,13 +2,14 @@
   "id": 119413159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.306524,51.855663,-4.306524,51.855663",
     "geom:latitude":51.855663,
     "geom:longitude":-4.306524,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bridge Wharf",
     "sg:city":"Carmarthen",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119413159,
-    "wof:lastmodified":1449041235,
+    "wof:lastmodified":1466285499,
     "wof:name":"W H Smith News",
     "wof:parent_id":101852977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.306524,51.855663,-4.306524,51.855663],
+  "bbox": [
+    -4.306524,
+    51.855663,
+    -4.306524,
+    51.855663
+],
   "geometry": {"coordinates":[-4.306524,51.855663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118703485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.374328,53.306686,-1.374328,53.306686",
     "geom:latitude":53.306686,
     "geom:longitude":-1.374328,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Kestril Dr, Eckington",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118703485,
-    "wof:lastmodified":1449053572,
+    "wof:lastmodified":1466265568,
     "wof:name":"R & S Electrical",
     "wof:parent_id":85787845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.374328,53.306686,-1.374328,53.306686],
+  "bbox": [
+    -1.374328,
+    53.306686,
+    -1.374328,
+    53.306686
+],
   "geometry": {"coordinates":[-1.374328,53.306686],"type":"Point"}
 }

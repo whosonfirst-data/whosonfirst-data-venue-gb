@@ -2,13 +2,14 @@
   "id": 186072007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.512635,53.374146,-1.512635,53.374146",
     "geom:latitude":53.374146,
     "geom:longitude":-1.512635,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"379a Fulwood Rd",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186072007,
-    "wof:lastmodified":1449051791,
+    "wof:lastmodified":1466252982,
     "wof:name":"Riverdale Nursing Home",
     "wof:parent_id":85793117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-1.512635,53.374146,-1.512635,53.374146],
+  "bbox": [
+    -1.512635,
+    53.374146,
+    -1.512635,
+    53.374146
+],
   "geometry": {"coordinates":[-1.512635,53.374146],"type":"Point"}
 }

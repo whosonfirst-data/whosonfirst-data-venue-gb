@@ -2,13 +2,14 @@
   "id": 202755423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.201494,55.952999,-3.201494,55.952999",
     "geom:latitude":55.952999,
     "geom:longitude":-3.201494,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"81 George Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202755423,
-    "wof:lastmodified":1449060838,
+    "wof:lastmodified":1466258362,
     "wof:name":"Intergen (U K) Ltd.",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electricity"
     ]
 },
-  "bbox": [-3.201494,55.952999,-3.201494,55.952999],
+  "bbox": [
+    -3.201494,
+    55.952999,
+    -3.201494,
+    55.952999
+],
   "geometry": {"coordinates":[-3.201494,55.952999],"type":"Point"}
 }

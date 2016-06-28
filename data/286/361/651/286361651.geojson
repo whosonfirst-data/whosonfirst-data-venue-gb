@@ -2,13 +2,14 @@
   "id": 286361651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.048624,55.843338,-3.048624,55.843338",
     "geom:latitude":55.843338,
     "geom:longitude":-3.048624,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Hunterfield Road",
     "sg:city":"Gorebridge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286361651,
-    "wof:lastmodified":1449017325,
+    "wof:lastmodified":1466265271,
     "wof:name":"The Inn Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-3.048624,55.843338,-3.048624,55.843338],
+  "bbox": [
+    -3.048624,
+    55.843338,
+    -3.048624,
+    55.843338
+],
   "geometry": {"coordinates":[-3.048624,55.843338],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118735179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.14617,60.154411,-1.14617,60.154411",
     "geom:latitude":60.154411,
     "geom:longitude":-1.14617,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Town Hall, Hill Head",
     "sg:city":"Shetland",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":118735179,
-    "wof:lastmodified":1449054492,
+    "wof:lastmodified":1466267972,
     "wof:name":"Shetland Islands Council",
     "wof:parent_id":101874215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.14617,60.154411,-1.14617,60.154411],
+  "bbox": [
+    -1.14617,
+    60.154411,
+    -1.14617,
+    60.154411
+],
   "geometry": {"coordinates":[-1.14617,60.154411],"type":"Point"}
 }

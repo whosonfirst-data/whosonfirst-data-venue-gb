@@ -2,13 +2,14 @@
   "id": 270237773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.280119,53.394291,-2.280119,53.394291",
     "geom:latitude":53.394291,
     "geom:longitude":-2.280119,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Bowland Road",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270237773,
-    "wof:lastmodified":1449008726,
+    "wof:lastmodified":1466267486,
     "wof:name":"Office & Window Cleaning",
     "wof:parent_id":85785441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-2.280119,53.394291,-2.280119,53.394291],
+  "bbox": [
+    -2.280119,
+    53.394291,
+    -2.280119,
+    53.394291
+],
   "geometry": {"coordinates":[-2.280119,53.394291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135446111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.98356,54.843021,-2.98356,54.843021",
     "geom:latitude":54.843021,
     "geom:longitude":-2.98356,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Vicars Cottages, The Square",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135446111,
-    "wof:lastmodified":1449023753,
+    "wof:lastmodified":1466268170,
     "wof:name":"The Corner Shop",
     "wof:parent_id":85785823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.98356,54.843021,-2.98356,54.843021],
+  "bbox": [
+    -2.98356,
+    54.843021,
+    -2.98356,
+    54.843021
+],
   "geometry": {"coordinates":[-2.98356,54.843021],"type":"Point"}
 }

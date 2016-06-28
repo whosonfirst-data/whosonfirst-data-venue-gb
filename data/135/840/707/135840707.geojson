@@ -2,13 +2,14 @@
   "id": 135840707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.362866,51.373882,-2.362866,51.373882",
     "geom:latitude":51.373882,
     "geom:longitude":-2.362866,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Shakespeare Avenue",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135840707,
-    "wof:lastmodified":1449023348,
+    "wof:lastmodified":1466287834,
     "wof:name":"Geoffrey Lee",
     "wof:parent_id":85785531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.362866,51.373882,-2.362866,51.373882],
+  "bbox": [
+    -2.362866,
+    51.373882,
+    -2.362866,
+    51.373882
+],
   "geometry": {"coordinates":[-2.362866,51.373882],"type":"Point"}
 }

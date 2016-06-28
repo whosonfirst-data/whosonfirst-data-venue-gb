@@ -2,13 +2,14 @@
   "id": 270213907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.268703,55.866173,-4.268703,55.866173",
     "geom:latitude":55.866173,
     "geom:longitude":-4.268703,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"490 Sauchiehall Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270213907,
-    "wof:lastmodified":1449008690,
+    "wof:lastmodified":1466266820,
     "wof:name":"The Garage",
     "wof:parent_id":85792601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "activity"
     ]
 },
-  "bbox": [-4.268703,55.866173,-4.268703,55.866173],
+  "bbox": [
+    -4.268703,
+    55.866173,
+    -4.268703,
+    55.866173
+],
   "geometry": {"coordinates":[-4.268703,55.866173],"type":"Point"}
 }

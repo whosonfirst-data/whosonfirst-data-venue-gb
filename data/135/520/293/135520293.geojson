@@ -2,13 +2,14 @@
   "id": 135520293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.461474,50.462528,-4.461474,50.462528",
     "geom:latitude":50.462528,
     "geom:longitude":-4.461474,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Cleer",
     "sg:city":"Liskeard",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":135520293,
-    "wof:lastmodified":1449021999,
+    "wof:lastmodified":1466276880,
     "wof:name":"R G Tamblin",
     "wof:parent_id":101852371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.461474,50.462528,-4.461474,50.462528],
+  "bbox": [
+    -4.461474,
+    50.462528,
+    -4.461474,
+    50.462528
+],
   "geometry": {"coordinates":[-4.461474,50.462528],"type":"Point"}
 }

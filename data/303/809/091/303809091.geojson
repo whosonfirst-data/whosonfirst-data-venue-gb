@@ -2,13 +2,14 @@
   "id": 303809091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.576122,53.813969,-1.576122,53.813969",
     "geom:latitude":53.813969,
     "geom:longitude":-1.576122,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Cardigan Rd",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303809091,
-    "wof:lastmodified":1449000121,
+    "wof:lastmodified":1466283161,
     "wof:name":"Carter & Rothwell Properties",
     "wof:parent_id":85861565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.576122,53.813969,-1.576122,53.813969],
+  "bbox": [
+    -1.576122,
+    53.813969,
+    -1.576122,
+    53.813969
+],
   "geometry": {"coordinates":[-1.576122,53.813969],"type":"Point"}
 }

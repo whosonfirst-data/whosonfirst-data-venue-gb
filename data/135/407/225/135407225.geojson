@@ -2,13 +2,14 @@
   "id": 135407225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.318649,51.161003,-3.318649,51.161003",
     "geom:latitude":51.161003,
     "geom:longitude":-3.318649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Robert Street, Williton",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135407225,
-    "wof:lastmodified":1449022679,
+    "wof:lastmodified":1466263528,
     "wof:name":"Amex",
     "wof:parent_id":101852491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.318649,51.161003,-3.318649,51.161003],
+  "bbox": [
+    -3.318649,
+    51.161003,
+    -3.318649,
+    51.161003
+],
   "geometry": {"coordinates":[-3.318649,51.161003],"type":"Point"}
 }

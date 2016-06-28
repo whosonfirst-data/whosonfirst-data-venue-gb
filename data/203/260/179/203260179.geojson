@@ -2,13 +2,14 @@
   "id": 203260179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.01715,53.393101,-3.01715,53.393101",
     "geom:latitude":53.393101,
     "geom:longitude":-3.01715,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Hamilton Sq",
     "sg:city":"Birkenhead",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203260179,
-    "wof:lastmodified":1449025262,
+    "wof:lastmodified":1466257122,
     "wof:name":"Sirens Modelling Agency",
     "wof:parent_id":85792741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "modelling"
     ]
 },
-  "bbox": [-3.01715,53.393101,-3.01715,53.393101],
+  "bbox": [
+    -3.01715,
+    53.393101,
+    -3.01715,
+    53.393101
+],
   "geometry": {"coordinates":[-3.01715,53.393101],"type":"Point"}
 }

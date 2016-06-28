@@ -2,13 +2,14 @@
   "id": 118910585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.152337,51.537319,-2.152337,51.537319",
     "geom:latitude":51.537319,
     "geom:longitude":-2.152337,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29a The Street, Hullavington",
     "sg:city":"Chippenham",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118910585,
-    "wof:lastmodified":1449053716,
+    "wof:lastmodified":1466279986,
     "wof:name":"Hullavington Post Office",
     "wof:parent_id":85683939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.152337,51.537319,-2.152337,51.537319],
+  "bbox": [
+    -2.152337,
+    51.537319,
+    -2.152337,
+    51.537319
+],
   "geometry": {"coordinates":[-2.152337,51.537319],"type":"Point"}
 }

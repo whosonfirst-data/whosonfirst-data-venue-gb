@@ -2,13 +2,14 @@
   "id": 320393779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.290949,55.922379,-3.290949,55.922379",
     "geom:latitude":55.922379,
     "geom:longitude":-3.290949,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"597 Calder Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320393779,
-    "wof:lastmodified":1449012447,
+    "wof:lastmodified":1466279450,
     "wof:name":"East of Scotland Water Ltd.",
     "wof:parent_id":85790347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "central"
     ]
 },
-  "bbox": [-3.290949,55.922379,-3.290949,55.922379],
+  "bbox": [
+    -3.290949,
+    55.922379,
+    -3.290949,
+    55.922379
+],
   "geometry": {"coordinates":[-3.290949,55.922379],"type":"Point"}
 }

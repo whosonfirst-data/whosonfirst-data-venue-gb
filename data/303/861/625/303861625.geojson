@@ -2,13 +2,14 @@
   "id": 303861625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.223093,55.930264,-3.223093,55.930264",
     "geom:latitude":55.930264,
     "geom:longitude":-3.223093,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30a-32 Colinton Rd",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303861625,
-    "wof:lastmodified":1449000550,
+    "wof:lastmodified":1466283840,
     "wof:name":"Church Of Jesus Christ Of Latter Day Saints",
     "wof:parent_id":85790383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.223093,55.930264,-3.223093,55.930264],
+  "bbox": [
+    -3.223093,
+    55.930264,
+    -3.223093,
+    55.930264
+],
   "geometry": {"coordinates":[-3.223093,55.930264],"type":"Point"}
 }

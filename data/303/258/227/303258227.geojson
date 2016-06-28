@@ -2,13 +2,14 @@
   "id": 303258227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.624449,51.516289,-2.624449,51.516289",
     "geom:latitude":51.516289,
     "geom:longitude":-2.624449,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Station Road, Henbury",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303258227,
-    "wof:lastmodified":1449000062,
+    "wof:lastmodified":1466270579,
     "wof:name":"Henbury Lodge",
     "wof:parent_id":85785961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.624449,51.516289,-2.624449,51.516289],
+  "bbox": [
+    -2.624449,
+    51.516289,
+    -2.624449,
+    51.516289
+],
   "geometry": {"coordinates":[-2.624449,51.516289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186507915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.211058,53.513824,-2.211058,53.513824",
     "geom:latitude":53.513824,
     "geom:longitude":-2.211058,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9-17 Moston Lane",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186507915,
-    "wof:lastmodified":1449051747,
+    "wof:lastmodified":1466259404,
     "wof:name":"Moston Lane Bed Centre",
     "wof:parent_id":85785783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "bed"
     ]
 },
-  "bbox": [-2.211058,53.513824,-2.211058,53.513824],
+  "bbox": [
+    -2.211058,
+    53.513824,
+    -2.211058,
+    53.513824
+],
   "geometry": {"coordinates":[-2.211058,53.513824],"type":"Point"}
 }

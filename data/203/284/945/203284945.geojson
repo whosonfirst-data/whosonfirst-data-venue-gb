@@ -2,13 +2,14 @@
   "id": 203284945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.079849,51.287033,-1.079849,51.287033",
     "geom:latitude":51.287033,
     "geom:longitude":-1.079849,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Falkland Road, Popley",
     "sg:city":"Basingstoke",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203284945,
-    "wof:lastmodified":1449026125,
+    "wof:lastmodified":1466257581,
     "wof:name":"Fun N Stuff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "castle"
     ]
 },
-  "bbox": [-1.079849,51.287033,-1.079849,51.287033],
+  "bbox": [
+    -1.079849,
+    51.287033,
+    -1.079849,
+    51.287033
+],
   "geometry": {"coordinates":[-1.079849,51.287033],"type":"Point"}
 }

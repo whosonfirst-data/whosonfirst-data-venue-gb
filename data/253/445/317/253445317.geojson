@@ -2,13 +2,14 @@
   "id": 253445317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.55006,54.965557,-1.55006,54.965557",
     "geom:latitude":54.965557,
     "geom:longitude":-1.55006,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1454-1456 Walker Road",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253445317,
-    "wof:lastmodified":1449063214,
+    "wof:lastmodified":1466266593,
     "wof:name":"Walker Taxis",
     "wof:parent_id":85790585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-1.55006,54.965557,-1.55006,54.965557],
+  "bbox": [
+    -1.55006,
+    54.965557,
+    -1.55006,
+    54.965557
+],
   "geometry": {"coordinates":[-1.55006,54.965557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320522351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.501011,52.404053,-1.501011,52.404053",
     "geom:latitude":52.404053,
     "geom:longitude":-1.501011,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41 London Road",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320522351,
-    "wof:lastmodified":1449013038,
+    "wof:lastmodified":1466281674,
     "wof:name":"Hasty Takeaway",
     "wof:parent_id":85789723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "take"
     ]
 },
-  "bbox": [-1.501011,52.404053,-1.501011,52.404053],
+  "bbox": [
+    -1.501011,
+    52.404053,
+    -1.501011,
+    52.404053
+],
   "geometry": {"coordinates":[-1.501011,52.404053],"type":"Point"}
 }

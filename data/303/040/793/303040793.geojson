@@ -2,13 +2,14 @@
   "id": 303040793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.463911,51.37307,-0.463911,51.37307",
     "geom:latitude":51.37307,
     "geom:longitude":-0.463911,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Portmore Park Rd",
     "sg:city":"Weybridge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303040793,
-    "wof:lastmodified":1449000497,
+    "wof:lastmodified":1466263641,
     "wof:name":"Drugline",
     "wof:parent_id":85789333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "drug"
     ]
 },
-  "bbox": [-0.463911,51.37307,-0.463911,51.37307],
+  "bbox": [
+    -0.463911,
+    51.37307,
+    -0.463911,
+    51.37307
+],
   "geometry": {"coordinates":[-0.463911,51.37307],"type":"Point"}
 }

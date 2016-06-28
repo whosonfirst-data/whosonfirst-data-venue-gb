@@ -2,13 +2,14 @@
   "id": 320003543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.607659,50.52887,-3.607659,50.52887",
     "geom:latitude":50.52887,
     "geom:longitude":-3.607659,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Old Surgery Market Square",
     "sg:city":"Newton Abbot",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320003543,
-    "wof:lastmodified":1449014671,
+    "wof:lastmodified":1466268199,
     "wof:name":"Community Health Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "community"
     ]
 },
-  "bbox": [-3.607659,50.52887,-3.607659,50.52887],
+  "bbox": [
+    -3.607659,
+    50.52887,
+    -3.607659,
+    50.52887
+],
   "geometry": {"coordinates":[-3.607659,50.52887],"type":"Point"}
 }

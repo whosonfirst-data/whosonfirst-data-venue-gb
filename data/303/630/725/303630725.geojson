@@ -2,13 +2,14 @@
   "id": 303630725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.272054,55.06308,-3.272054,55.06308",
     "geom:latitude":55.06308,
     "geom:longitude":-3.272054,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Road, Ecclefechan",
     "sg:city":"Lockerbie",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":303630725,
-    "wof:lastmodified":1448998992,
+    "wof:lastmodified":1466280594,
     "wof:name":"Ecclefechan Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "filling"
     ]
 },
-  "bbox": [-3.272054,55.06308,-3.272054,55.06308],
+  "bbox": [
+    -3.272054,
+    55.06308,
+    -3.272054,
+    55.06308
+],
   "geometry": {"coordinates":[-3.272054,55.06308],"type":"Point"}
 }

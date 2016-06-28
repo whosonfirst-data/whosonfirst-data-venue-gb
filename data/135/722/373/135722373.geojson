@@ -2,13 +2,14 @@
   "id": 135722373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.07264,51.877388,-2.07264,51.877388",
     "geom:latitude":51.877388,
     "geom:longitude":-2.07264,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Pilley Lane, Leckhampton",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135722373,
-    "wof:lastmodified":1449022061,
+    "wof:lastmodified":1466286484,
     "wof:name":"Imaging",
     "wof:parent_id":85785541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.07264,51.877388,-2.07264,51.877388],
+  "bbox": [
+    -2.07264,
+    51.877388,
+    -2.07264,
+    51.877388
+],
   "geometry": {"coordinates":[-2.07264,51.877388],"type":"Point"}
 }

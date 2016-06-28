@@ -2,13 +2,14 @@
   "id": 136090619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.540406,50.475864,-3.540406,50.475864",
     "geom:latitude":50.475864,
     "geom:longitude":-3.540406,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Teignmouth Road",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136090619,
-    "wof:lastmodified":1449075947,
+    "wof:lastmodified":1466255043,
     "wof:name":"Fincham Signs",
     "wof:parent_id":101751577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.540406,50.475864,-3.540406,50.475864],
+  "bbox": [
+    -3.540406,
+    50.475864,
+    -3.540406,
+    50.475864
+],
   "geometry": {"coordinates":[-3.540406,50.475864],"type":"Point"}
 }

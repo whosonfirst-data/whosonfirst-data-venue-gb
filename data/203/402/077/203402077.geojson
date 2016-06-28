@@ -2,13 +2,14 @@
   "id": 203402077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.501308,52.426331,-1.501308,52.426331",
     "geom:latitude":52.426331,
     "geom:longitude":-1.501308,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Foleshill Rd",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203402077,
-    "wof:lastmodified":1449025520,
+    "wof:lastmodified":1466259589,
     "wof:name":"Spotlight Display",
     "wof:parent_id":85792035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nameplate"
     ]
 },
-  "bbox": [-1.501308,52.426331,-1.501308,52.426331],
+  "bbox": [
+    -1.501308,
+    52.426331,
+    -1.501308,
+    52.426331
+],
   "geometry": {"coordinates":[-1.501308,52.426331],"type":"Point"}
 }

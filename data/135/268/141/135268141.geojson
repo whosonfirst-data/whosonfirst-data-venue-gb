@@ -2,13 +2,14 @@
   "id": 135268141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.274876,55.921089,-3.274876,55.921089",
     "geom:latitude":55.921089,
     "geom:longitude":-3.274876,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Dumbryden Gardens",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135268141,
-    "wof:lastmodified":1449022727,
+    "wof:lastmodified":1466256773,
     "wof:name":"Scottish Tourist Board",
     "wof:parent_id":85790347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.274876,55.921089,-3.274876,55.921089],
+  "bbox": [
+    -3.274876,
+    55.921089,
+    -3.274876,
+    55.921089
+],
   "geometry": {"coordinates":[-3.274876,55.921089],"type":"Point"}
 }

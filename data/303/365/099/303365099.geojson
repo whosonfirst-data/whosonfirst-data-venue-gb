@@ -2,13 +2,14 @@
   "id": 303365099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.267445,55.930187,-3.267445,55.930187",
     "geom:latitude":55.930187,
     "geom:longitude":-3.267445,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Saughton Mains Gardens",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303365099,
-    "wof:lastmodified":1448998511,
+    "wof:lastmodified":1466273765,
     "wof:name":"The Treasure Cottage",
     "wof:parent_id":85790721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "take"
     ]
 },
-  "bbox": [-3.267445,55.930187,-3.267445,55.930187],
+  "bbox": [
+    -3.267445,
+    55.930187,
+    -3.267445,
+    55.930187
+],
   "geometry": {"coordinates":[-3.267445,55.930187],"type":"Point"}
 }

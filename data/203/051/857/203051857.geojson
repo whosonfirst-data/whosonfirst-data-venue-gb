@@ -2,13 +2,14 @@
   "id": 203051857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.464129,52.388199,-1.464129,52.388199",
     "geom:latitude":52.388199,
     "geom:longitude":-1.464129,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Remembrance Road",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203051857,
-    "wof:lastmodified":1449026117,
+    "wof:lastmodified":1466253504,
     "wof:name":"Crawley News",
     "wof:parent_id":85861067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.464129,52.388199,-1.464129,52.388199],
+  "bbox": [
+    -1.464129,
+    52.388199,
+    -1.464129,
+    52.388199
+],
   "geometry": {"coordinates":[-1.464129,52.388199],"type":"Point"}
 }

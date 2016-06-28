@@ -2,13 +2,14 @@
   "id": 336601619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.314888,55.86375,-4.314888,55.86375",
     "geom:latitude":55.86375,
     "geom:longitude":-4.314888,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"843 Govan Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -59,16 +60,22 @@
         }
     ],
     "wof:id":336601619,
-    "wof:lastmodified":1448997431,
+    "wof:lastmodified":1466272819,
     "wof:name":"M O News & Grocers",
     "wof:parent_id":85787669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-4.314888,55.86375,-4.314888,55.86375],
+  "bbox": [
+    -4.314888,
+    55.86375,
+    -4.314888,
+    55.86375
+],
   "geometry": {"coordinates":[-4.314888,55.86375],"type":"Point"}
 }

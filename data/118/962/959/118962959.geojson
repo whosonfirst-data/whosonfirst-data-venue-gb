@@ -2,13 +2,14 @@
   "id": 118962959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.811588,57.500542,-1.811588,57.500542",
     "geom:latitude":57.500542,
     "geom:longitude":-1.811588,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Lochside Place",
     "sg:city":"Peterhead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118962959,
-    "wof:lastmodified":1449053983,
+    "wof:lastmodified":1466282060,
     "wof:name":"C McKenzie",
     "wof:parent_id":101877127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.811588,57.500542,-1.811588,57.500542],
+  "bbox": [
+    -1.811588,
+    57.500542,
+    -1.811588,
+    57.500542
+],
   "geometry": {"coordinates":[-1.811588,57.500542],"type":"Point"}
 }

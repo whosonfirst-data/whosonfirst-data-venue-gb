@@ -2,13 +2,14 @@
   "id": 253288167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.1e-05,50.872826,-3.1e-05,50.872826",
     "geom:latitude":50.872826,
-    "geom:longitude":-3.1e-05,
+    "geom:longitude":-0.000031,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Western Road",
     "sg:city":"Lewes",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253288167,
-    "wof:lastmodified":1449063121,
+    "wof:lastmodified":1466263043,
     "wof:name":"Short & Curlies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-3.1e-05,50.872826,-3.1e-05,50.872826],
-  "geometry": {"coordinates":[-3.1e-05,50.872826],"type":"Point"}
+  "bbox": [
+    -3.1e-05,
+    50.872826,
+    -3.1e-05,
+    50.872826
+],
+  "geometry": {"coordinates":[-0.000031,50.872826],"type":"Point"}
 }

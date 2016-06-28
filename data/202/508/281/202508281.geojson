@@ -2,13 +2,14 @@
   "id": 202508281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.77588,55.952904,-4.77588,55.952904",
     "geom:latitude":55.952904,
     "geom:longitude":-4.77588,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Forsyth Street",
     "sg:city":"Greenock",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202508281,
-    "wof:lastmodified":1449061530,
+    "wof:lastmodified":1466254256,
     "wof:name":"James Maxton",
     "wof:parent_id":85791237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "removal"
     ]
 },
-  "bbox": [-4.77588,55.952904,-4.77588,55.952904],
+  "bbox": [
+    -4.77588,
+    55.952904,
+    -4.77588,
+    55.952904
+],
   "geometry": {"coordinates":[-4.77588,55.952904],"type":"Point"}
 }

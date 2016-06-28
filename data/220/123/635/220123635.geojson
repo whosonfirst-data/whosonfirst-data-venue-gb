@@ -2,13 +2,14 @@
   "id": 220123635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.828601,53.282001,-3.828601,53.282001",
     "geom:latitude":53.282001,
     "geom:longitude":-3.828601,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Berry Street",
     "sg:city":"Conwy",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220123635,
-    "wof:lastmodified":1449074256,
+    "wof:lastmodified":1466255147,
     "wof:name":"Conwy Kebab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "take"
     ]
 },
-  "bbox": [-3.828601,53.282001,-3.828601,53.282001],
+  "bbox": [
+    -3.828601,
+    53.282001,
+    -3.828601,
+    53.282001
+],
   "geometry": {"coordinates":[-3.828601,53.282001],"type":"Point"}
 }

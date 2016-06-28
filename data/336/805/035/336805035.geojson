@@ -2,13 +2,14 @@
   "id": 336805035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.041373,50.863113,-1.041373,50.863113",
     "geom:latitude":50.863113,
     "geom:longitude":-1.041373,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Greenacre Gdns, Purbrook",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336805035,
-    "wof:lastmodified":1448997298,
+    "wof:lastmodified":1466278735,
     "wof:name":"Babbidge,M A,",
     "wof:parent_id":85787351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-1.041373,50.863113,-1.041373,50.863113],
+  "bbox": [
+    -1.041373,
+    50.863113,
+    -1.041373,
+    50.863113
+],
   "geometry": {"coordinates":[-1.041373,50.863113],"type":"Point"}
 }

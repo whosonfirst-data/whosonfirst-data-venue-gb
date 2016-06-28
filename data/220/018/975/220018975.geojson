@@ -2,13 +2,14 @@
   "id": 220018975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.128556,52.64212,-1.128556,52.64212",
     "geom:latitude":52.64212,
     "geom:longitude":-1.128556,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"221-223 Belgrave Gate",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":220018975,
-    "wof:lastmodified":1449074442,
+    "wof:lastmodified":1466253265,
     "wof:name":"Ferndale Furniture",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.128556,52.64212,-1.128556,52.64212],
+  "bbox": [
+    -1.128556,
+    52.64212,
+    -1.128556,
+    52.64212
+],
   "geometry": {"coordinates":[-1.128556,52.64212],"type":"Point"}
 }

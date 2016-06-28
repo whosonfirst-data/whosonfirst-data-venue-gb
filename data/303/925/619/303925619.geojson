@@ -2,13 +2,14 @@
   "id": 303925619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.222981,53.012833,-2.222981,53.012833",
     "geom:latitude":53.012833,
     "geom:longitude":-2.222981,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Brunswick Street",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303925619,
-    "wof:lastmodified":1448998136,
+    "wof:lastmodified":1466284577,
     "wof:name":"The Arch Chinese Restaurant",
     "wof:parent_id":85789031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-2.222981,53.012833,-2.222981,53.012833],
+  "bbox": [
+    -2.222981,
+    53.012833,
+    -2.222981,
+    53.012833
+],
   "geometry": {"coordinates":[-2.222981,53.012833],"type":"Point"}
 }

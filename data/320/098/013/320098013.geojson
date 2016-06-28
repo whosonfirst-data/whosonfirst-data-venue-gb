@@ -2,13 +2,14 @@
   "id": 320098013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.485232,53.750359,-2.485232,53.750359",
     "geom:latitude":53.750359,
     "geom:longitude":-2.485232,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"71 King William Street",
     "sg:city":"Blackburn",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320098013,
-    "wof:lastmodified":1449014569,
+    "wof:lastmodified":1466271053,
     "wof:name":"Tiggis",
     "wof:parent_id":85792855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-2.485232,53.750359,-2.485232,53.750359],
+  "bbox": [
+    -2.485232,
+    53.750359,
+    -2.485232,
+    53.750359
+],
   "geometry": {"coordinates":[-2.485232,53.750359],"type":"Point"}
 }

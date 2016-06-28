@@ -2,13 +2,14 @@
   "id": 303123583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.242694,50.971649,-3.242694,50.971649",
     "geom:latitude":50.971649,
     "geom:longitude":-3.242694,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Andrew Allan Rd",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303123583,
-    "wof:lastmodified":1448998848,
+    "wof:lastmodified":1466266372,
     "wof:name":"Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.242694,50.971649,-3.242694,50.971649],
+  "bbox": [
+    -3.242694,
+    50.971649,
+    -3.242694,
+    50.971649
+],
   "geometry": {"coordinates":[-3.242694,50.971649],"type":"Point"}
 }

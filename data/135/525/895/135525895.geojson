@@ -2,13 +2,14 @@
   "id": 135525895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.287554,55.952198,-3.287554,55.952198",
     "geom:latitude":55.952198,
     "geom:longitude":-3.287554,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Alan Breck Gardens",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135525895,
-    "wof:lastmodified":1449023397,
+    "wof:lastmodified":1466277568,
     "wof:name":"Norman Coutts",
     "wof:parent_id":85786699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.287554,55.952198,-3.287554,55.952198],
+  "bbox": [
+    -3.287554,
+    55.952198,
+    -3.287554,
+    55.952198
+],
   "geometry": {"coordinates":[-3.287554,55.952198],"type":"Point"}
 }

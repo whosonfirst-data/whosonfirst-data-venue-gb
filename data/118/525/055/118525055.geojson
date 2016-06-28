@@ -2,13 +2,14 @@
   "id": 118525055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.159899,51.765404,-3.159899,51.765404",
     "geom:latitude":51.765404,
     "geom:longitude":-3.159899,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The High Street, Blaina",
     "sg:city":"Abertillery",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":118525055,
-    "wof:lastmodified":1449054264,
+    "wof:lastmodified":1466277114,
     "wof:name":"Austin Wheeler",
     "wof:parent_id":85683983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.159899,51.765404,-3.159899,51.765404],
+  "bbox": [
+    -3.159899,
+    51.765404,
+    -3.159899,
+    51.765404
+],
   "geometry": {"coordinates":[-3.159899,51.765404],"type":"Point"}
 }

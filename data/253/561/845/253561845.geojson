@@ -2,13 +2,14 @@
   "id": 253561845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.142674,60.153187,-1.142674,60.153187",
     "geom:latitude":60.153187,
     "geom:longitude":-1.142674,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"60-62 Commercial Street, Lerwick",
     "sg:city":"Shetland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253561845,
-    "wof:lastmodified":1449064928,
+    "wof:lastmodified":1466269824,
     "wof:name":"Anderson & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "yarn"
     ]
 },
-  "bbox": [-1.142674,60.153187,-1.142674,60.153187],
+  "bbox": [
+    -1.142674,
+    60.153187,
+    -1.142674,
+    60.153187
+],
   "geometry": {"coordinates":[-1.142674,60.153187],"type":"Point"}
 }

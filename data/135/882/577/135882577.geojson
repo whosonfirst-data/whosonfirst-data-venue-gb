@@ -2,13 +2,14 @@
   "id": 135882577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.71829,52.051479,-2.71829,52.051479",
     "geom:latitude":52.051479,
     "geom:longitude":-2.71829,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Georges Playing Fields, St Martins Street",
     "sg:city":"Hereford",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135882577,
-    "wof:lastmodified":1449021513,
+    "wof:lastmodified":1466288035,
     "wof:name":"Hereford Tennis Centre",
     "wof:parent_id":101750451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.71829,52.051479,-2.71829,52.051479],
+  "bbox": [
+    -2.71829,
+    52.051479,
+    -2.71829,
+    52.051479
+],
   "geometry": {"coordinates":[-2.71829,52.051479],"type":"Point"}
 }

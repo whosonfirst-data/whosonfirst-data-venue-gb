@@ -2,13 +2,14 @@
   "id": 220112223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.20247,50.965111,-4.20247,50.965111",
     "geom:latitude":50.965111,
     "geom:longitude":-4.20247,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Monkleigh",
     "sg:city":"Bideford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220112223,
-    "wof:lastmodified":1449074385,
+    "wof:lastmodified":1466254948,
     "wof:name":"Monkleigh Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "garage"
     ]
 },
-  "bbox": [-4.20247,50.965111,-4.20247,50.965111],
+  "bbox": [
+    -4.20247,
+    50.965111,
+    -4.20247,
+    50.965111
+],
   "geometry": {"coordinates":[-4.20247,50.965111],"type":"Point"}
 }

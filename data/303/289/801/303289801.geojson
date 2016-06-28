@@ -2,13 +2,14 @@
   "id": 303289801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.897324,50.799034,-3.897324,50.799034",
     "geom:latitude":50.799034,
     "geom:longitude":-3.897324,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 High Street",
     "sg:city":"North Tawton",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":303289801,
-    "wof:lastmodified":1449000155,
+    "wof:lastmodified":1466271547,
     "wof:name":"Graylings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-3.897324,50.799034,-3.897324,50.799034],
+  "bbox": [
+    -3.897324,
+    50.799034,
+    -3.897324,
+    50.799034
+],
   "geometry": {"coordinates":[-3.897324,50.799034],"type":"Point"}
 }

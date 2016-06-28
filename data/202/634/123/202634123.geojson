@@ -2,13 +2,14 @@
   "id": 202634123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.71945,51.034679,-1.71945,51.034679",
     "geom:latitude":51.034679,
     "geom:longitude":-1.71945,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1-2 Whaddon Business Park",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202634123,
-    "wof:lastmodified":1449061338,
+    "wof:lastmodified":1466256384,
     "wof:name":"Jda Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "fireplace"
     ]
 },
-  "bbox": [-1.71945,51.034679,-1.71945,51.034679],
+  "bbox": [
+    -1.71945,
+    51.034679,
+    -1.71945,
+    51.034679
+],
   "geometry": {"coordinates":[-1.71945,51.034679],"type":"Point"}
 }

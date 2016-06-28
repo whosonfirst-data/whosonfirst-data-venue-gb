@@ -2,13 +2,14 @@
   "id": 219814447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.131123,50.387108,-4.131123,50.387108",
     "geom:latitude":50.387108,
     "geom:longitude":-4.131123,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Mannamead Road",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219814447,
-    "wof:lastmodified":1449071044,
+    "wof:lastmodified":1466263913,
     "wof:name":"Camelot House",
     "wof:parent_id":85789249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-4.131123,50.387108,-4.131123,50.387108],
+  "bbox": [
+    -4.131123,
+    50.387108,
+    -4.131123,
+    50.387108
+],
   "geometry": {"coordinates":[-4.131123,50.387108],"type":"Point"}
 }

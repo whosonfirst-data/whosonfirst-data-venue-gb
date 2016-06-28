@@ -2,13 +2,14 @@
   "id": 136110683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.330579,53.437328,-1.330579,53.437328",
     "geom:latitude":53.437328,
     "geom:longitude":-1.330579,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Doncaster Road",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136110683,
-    "wof:lastmodified":1449075340,
+    "wof:lastmodified":1466256172,
     "wof:name":"John Powys",
     "wof:parent_id":85785261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.330579,53.437328,-1.330579,53.437328],
+  "bbox": [
+    -1.330579,
+    53.437328,
+    -1.330579,
+    53.437328
+],
   "geometry": {"coordinates":[-1.330579,53.437328],"type":"Point"}
 }

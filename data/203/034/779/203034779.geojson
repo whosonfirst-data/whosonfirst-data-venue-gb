@@ -2,13 +2,14 @@
   "id": 203034779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.55433,54.955509,-1.55433,54.955509",
     "geom:latitude":54.955509,
     "geom:longitude":-1.55433,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Bill Quay Industrial Estate",
     "sg:city":"Gateshead",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203034779,
-    "wof:lastmodified":1449025149,
+    "wof:lastmodified":1466253222,
     "wof:name":"Bill Quay Auto Care",
     "wof:parent_id":85789769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.55433,54.955509,-1.55433,54.955509],
+  "bbox": [
+    -1.55433,
+    54.955509,
+    -1.55433,
+    54.955509
+],
   "geometry": {"coordinates":[-1.55433,54.955509],"type":"Point"}
 }

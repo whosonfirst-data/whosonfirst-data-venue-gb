@@ -2,13 +2,14 @@
   "id": 135791381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.546696,53.828159,-1.546696,53.828159",
     "geom:latitude":53.828159,
     "geom:longitude":-1.546696,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"546 Scott Hall Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135791381,
-    "wof:lastmodified":1449023325,
+    "wof:lastmodified":1466287395,
     "wof:name":"Pisa Pizza",
     "wof:parent_id":85789051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.546696,53.828159,-1.546696,53.828159],
+  "bbox": [
+    -1.546696,
+    53.828159,
+    -1.546696,
+    53.828159
+],
   "geometry": {"coordinates":[-1.546696,53.828159],"type":"Point"}
 }

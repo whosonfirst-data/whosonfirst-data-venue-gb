@@ -2,13 +2,14 @@
   "id": 236812631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.895595,50.809155,-1.895595,50.809155",
     "geom:latitude":50.809155,
     "geom:longitude":-1.895595,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"7a Pinewood Road",
     "sg:city":"Ferndown",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236812631,
-    "wof:lastmodified":1449001746,
+    "wof:lastmodified":1466271933,
     "wof:name":"David R Hunt",
     "wof:parent_id":85789483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.895595,50.809155,-1.895595,50.809155],
+  "bbox": [
+    -1.895595,
+    50.809155,
+    -1.895595,
+    50.809155
+],
   "geometry": {"coordinates":[-1.895595,50.809155],"type":"Point"}
 }

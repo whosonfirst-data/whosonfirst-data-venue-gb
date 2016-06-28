@@ -2,13 +2,14 @@
   "id": 320180959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.266215,50.801483,0.266215,50.801483",
     "geom:latitude":50.801483,
     "geom:longitude":0.266215,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lindfield Road",
     "sg:city":"Eastbourne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320180959,
-    "wof:lastmodified":1449011412,
+    "wof:lastmodified":1466273494,
     "wof:name":"The Parkfield",
     "wof:parent_id":85861235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [0.266215,50.801483,0.266215,50.801483],
+  "bbox": [
+    0.266215,
+    50.801483,
+    0.266215,
+    50.801483
+],
   "geometry": {"coordinates":[0.266215,50.801483],"type":"Point"}
 }

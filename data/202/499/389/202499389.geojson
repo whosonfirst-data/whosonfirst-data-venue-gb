@@ -2,13 +2,14 @@
   "id": 202499389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.234026,55.945744,-3.234026,55.945744",
     "geom:latitude":55.945744,
     "geom:longitude":-3.234026,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Roseburn Terrace",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202499389,
-    "wof:lastmodified":1449060594,
+    "wof:lastmodified":1466254130,
     "wof:name":"INTERNATIONAL CHINESE RESTAURANT",
     "wof:parent_id":85861493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-3.234026,55.945744,-3.234026,55.945744],
+  "bbox": [
+    -3.234026,
+    55.945744,
+    -3.234026,
+    55.945744
+],
   "geometry": {"coordinates":[-3.234026,55.945744],"type":"Point"}
 }

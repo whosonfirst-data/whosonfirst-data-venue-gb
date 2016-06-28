@@ -2,13 +2,14 @@
   "id": 220064275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.808523,54.859497,-1.808523,54.859497",
     "geom:latitude":54.859497,
     "geom:longitude":-1.808523,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Front Street, Leadgate",
     "sg:city":"Consett",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220064275,
-    "wof:lastmodified":1449074307,
+    "wof:lastmodified":1466254052,
     "wof:name":"The Wheatsheaf Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.808523,54.859497,-1.808523,54.859497],
+  "bbox": [
+    -1.808523,
+    54.859497,
+    -1.808523,
+    54.859497
+],
   "geometry": {"coordinates":[-1.808523,54.859497],"type":"Point"}
 }

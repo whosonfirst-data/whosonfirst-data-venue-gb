@@ -2,13 +2,14 @@
   "id": 286857229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.233488,52.918385,-1.233488,52.918385",
     "geom:latitude":52.918385,
     "geom:longitude":-1.233488,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 The Close, Chilwell",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286857229,
-    "wof:lastmodified":1449017098,
+    "wof:lastmodified":1466279597,
     "wof:name":"Select Coffee Service",
     "wof:parent_id":85786583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coffee"
     ]
 },
-  "bbox": [-1.233488,52.918385,-1.233488,52.918385],
+  "bbox": [
+    -1.233488,
+    52.918385,
+    -1.233488,
+    52.918385
+],
   "geometry": {"coordinates":[-1.233488,52.918385],"type":"Point"}
 }

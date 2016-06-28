@@ -2,13 +2,14 @@
   "id": 319930207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.069139,56.158539,-3.069139,56.158539",
     "geom:latitude":56.158539,
     "geom:longitude":-3.069139,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 The Haugh, East Wemyss",
     "sg:city":"Kirkcaldy",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":319930207,
-    "wof:lastmodified":1449024323,
+    "wof:lastmodified":1466270829,
     "wof:name":"B & B Taxis",
     "wof:parent_id":85787131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cab"
     ]
 },
-  "bbox": [-3.069139,56.158539,-3.069139,56.158539],
+  "bbox": [
+    -3.069139,
+    56.158539,
+    -3.069139,
+    56.158539
+],
   "geometry": {"coordinates":[-3.069139,56.158539],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118631839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.720536,52.367683,-2.720536,52.367683",
     "geom:latitude":52.367683,
     "geom:longitude":-2.720536,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Castle Street",
     "sg:city":"Ludlow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118631839,
-    "wof:lastmodified":1449053581,
+    "wof:lastmodified":1466260059,
     "wof:name":"Ludlow Jobcentre",
     "wof:parent_id":101853137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.720536,52.367683,-2.720536,52.367683],
+  "bbox": [
+    -2.720536,
+    52.367683,
+    -2.720536,
+    52.367683
+],
   "geometry": {"coordinates":[-2.720536,52.367683],"type":"Point"}
 }

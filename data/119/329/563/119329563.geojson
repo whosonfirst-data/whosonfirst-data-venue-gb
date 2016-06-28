@@ -2,13 +2,14 @@
   "id": 119329563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.4207,56.203171,-3.4207,56.203171",
     "geom:latitude":56.203171,
     "geom:longitude":-3.4207,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"121 High Street",
     "sg:city":"Kinross",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":119329563,
-    "wof:lastmodified":1449041522,
+    "wof:lastmodified":1466281902,
     "wof:name":"Miller's Bar",
     "wof:parent_id":101877123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.4207,56.203171,-3.4207,56.203171],
+  "bbox": [
+    -3.4207,
+    56.203171,
+    -3.4207,
+    56.203171
+],
   "geometry": {"coordinates":[-3.4207,56.203171],"type":"Point"}
 }

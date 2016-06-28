@@ -2,13 +2,14 @@
   "id": 303640577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.424288,55.845913,-4.424288,55.845913",
     "geom:latitude":55.845913,
     "geom:longitude":-4.424288,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Moss Street",
     "sg:city":"Paisley",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303640577,
-    "wof:lastmodified":1448999183,
+    "wof:lastmodified":1466280580,
     "wof:name":"M M Henderson",
     "wof:parent_id":85786323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [-4.424288,55.845913,-4.424288,55.845913],
+  "bbox": [
+    -4.424288,
+    55.845913,
+    -4.424288,
+    55.845913
+],
   "geometry": {"coordinates":[-4.424288,55.845913],"type":"Point"}
 }

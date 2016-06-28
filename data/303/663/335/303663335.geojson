@@ -2,13 +2,14 @@
   "id": 303663335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.010937,51.376686,0.010937,51.376686",
     "geom:latitude":51.376686,
     "geom:longitude":0.010937,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Station Approach",
     "sg:city":"Bromley",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303663335,
-    "wof:lastmodified":1448999918,
+    "wof:lastmodified":1466281031,
     "wof:name":"Hayes Cafe",
     "wof:parent_id":85788025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "room"
     ]
 },
-  "bbox": [0.010937,51.376686,0.010937,51.376686],
+  "bbox": [
+    0.010937,
+    51.376686,
+    0.010937,
+    51.376686
+],
   "geometry": {"coordinates":[0.010937,51.376686],"type":"Point"}
 }

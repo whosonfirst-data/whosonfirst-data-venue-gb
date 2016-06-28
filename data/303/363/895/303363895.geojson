@@ -2,13 +2,14 @@
   "id": 303363895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.016375,50.877686,0.016375,50.877686",
     "geom:latitude":50.877686,
     "geom:longitude":0.016375,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6, Brooks Rd",
     "sg:city":"Lewes",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303363895,
-    "wof:lastmodified":1449000271,
+    "wof:lastmodified":1466273720,
     "wof:name":"Amber Diagnostics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [0.016375,50.877686,0.016375,50.877686],
+  "bbox": [
+    0.016375,
+    50.877686,
+    0.016375,
+    50.877686
+],
   "geometry": {"coordinates":[0.016375,50.877686],"type":"Point"}
 }

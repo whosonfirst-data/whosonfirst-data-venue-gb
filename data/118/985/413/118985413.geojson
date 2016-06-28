@@ -2,13 +2,14 @@
   "id": 118985413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.592792,51.449509,-2.592792,51.449509",
     "geom:latitude":51.449509,
     "geom:longitude":-2.592792,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Victoria St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118985413,
-    "wof:lastmodified":1449053839,
+    "wof:lastmodified":1466283140,
     "wof:name":"Ye Shakespeare",
     "wof:parent_id":85861353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.592792,51.449509,-2.592792,51.449509],
+  "bbox": [
+    -2.592792,
+    51.449509,
+    -2.592792,
+    51.449509
+],
   "geometry": {"coordinates":[-2.592792,51.449509],"type":"Point"}
 }

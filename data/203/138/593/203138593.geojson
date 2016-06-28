@@ -2,13 +2,14 @@
   "id": 203138593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.406799,53.220188,-1.406799,53.220188",
     "geom:latitude":53.220188,
     "geom:longitude":-1.406799,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48-50 Mansfield Road, Hasland",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203138593,
-    "wof:lastmodified":1449025455,
+    "wof:lastmodified":1466254975,
     "wof:name":"Hasland House",
     "wof:parent_id":85788003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "take"
     ]
 },
-  "bbox": [-1.406799,53.220188,-1.406799,53.220188],
+  "bbox": [
+    -1.406799,
+    53.220188,
+    -1.406799,
+    53.220188
+],
   "geometry": {"coordinates":[-1.406799,53.220188],"type":"Point"}
 }

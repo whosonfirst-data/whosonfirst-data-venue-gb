@@ -2,13 +2,14 @@
   "id": 253240195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.200239,55.819233,-4.200239,55.819233",
     "geom:latitude":55.819233,
     "geom:longitude":-4.200239,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Springfield Park Rd, Rutherglen",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253240195,
-    "wof:lastmodified":1449063118,
+    "wof:lastmodified":1466262074,
     "wof:name":"Campbell & Boyd",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agent"
     ]
 },
-  "bbox": [-4.200239,55.819233,-4.200239,55.819233],
+  "bbox": [
+    -4.200239,
+    55.819233,
+    -4.200239,
+    55.819233
+],
   "geometry": {"coordinates":[-4.200239,55.819233],"type":"Point"}
 }

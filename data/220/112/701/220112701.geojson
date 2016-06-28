@@ -2,13 +2,14 @@
   "id": 220112701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.735426,53.453239,-2.735426,53.453239",
     "geom:latitude":53.453239,
     "geom:longitude":-2.735426,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Hardshaw Street",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":220112701,
-    "wof:lastmodified":1449074388,
+    "wof:lastmodified":1466254952,
     "wof:name":"The Patisserie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "room"
     ]
 },
-  "bbox": [-2.735426,53.453239,-2.735426,53.453239],
+  "bbox": [
+    -2.735426,
+    53.453239,
+    -2.735426,
+    53.453239
+],
   "geometry": {"coordinates":[-2.735426,53.453239],"type":"Point"}
 }

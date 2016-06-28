@@ -2,13 +2,14 @@
   "id": 269493051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.708651,51.420013,-0.708651,51.420013",
     "geom:latitude":51.420013,
     "geom:longitude":-0.708651,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Priory Road",
     "sg:city":"Ascot",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":269493051,
-    "wof:lastmodified":1449036908,
+    "wof:lastmodified":1466260109,
     "wof:name":"Ascot Priory",
     "wof:parent_id":85860901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organisation"
     ]
 },
-  "bbox": [-0.708651,51.420013,-0.708651,51.420013],
+  "bbox": [
+    -0.708651,
+    51.420013,
+    -0.708651,
+    51.420013
+],
   "geometry": {"coordinates":[-0.708651,51.420013],"type":"Point"}
 }

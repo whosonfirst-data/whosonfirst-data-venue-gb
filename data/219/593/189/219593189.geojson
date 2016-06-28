@@ -2,13 +2,14 @@
   "id": 219593189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.884128,52.5406,-1.884128,52.5406",
     "geom:latitude":52.5406,
     "geom:longitude":-1.884128,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Hawthorn Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219593189,
-    "wof:lastmodified":1449072725,
+    "wof:lastmodified":1466260339,
     "wof:name":"M Firkin",
     "wof:parent_id":85791963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-1.884128,52.5406,-1.884128,52.5406],
+  "bbox": [
+    -1.884128,
+    52.5406,
+    -1.884128,
+    52.5406
+],
   "geometry": {"coordinates":[-1.884128,52.5406],"type":"Point"}
 }

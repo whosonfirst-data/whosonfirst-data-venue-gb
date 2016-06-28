@@ -2,13 +2,14 @@
   "id": 102719803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.459261,50.928429,-1.459261,50.928429",
     "geom:latitude":50.928429,
     "geom:longitude":-1.459261,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Evenlode Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102719803,
-    "wof:lastmodified":1449068116,
+    "wof:lastmodified":1466257158,
     "wof:name":"Rose McKellar",
     "wof:parent_id":85792825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.459261,50.928429,-1.459261,50.928429],
+  "bbox": [
+    -1.459261,
+    50.928429,
+    -1.459261,
+    50.928429
+],
   "geometry": {"coordinates":[-1.459261,50.928429],"type":"Point"}
 }

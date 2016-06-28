@@ -2,13 +2,14 @@
   "id": 336599665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.43835,53.239227,-1.43835,53.239227",
     "geom:latitude":53.239227,
     "geom:longitude":-1.43835,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Fairfield Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336599665,
-    "wof:lastmodified":1448997449,
+    "wof:lastmodified":1466272753,
     "wof:name":"P W E Jones",
     "wof:parent_id":85861099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-1.43835,53.239227,-1.43835,53.239227],
+  "bbox": [
+    -1.43835,
+    53.239227,
+    -1.43835,
+    53.239227
+],
   "geometry": {"coordinates":[-1.43835,53.239227],"type":"Point"}
 }

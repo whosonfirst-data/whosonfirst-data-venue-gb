@@ -2,13 +2,14 @@
   "id": 118902265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.546012,51.192738,-2.546012,51.192738",
     "geom:latitude":51.192738,
     "geom:longitude":-2.546012,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Waterloo Road",
     "sg:city":"Shepton Mallet",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":118902265,
-    "wof:lastmodified":1449054184,
+    "wof:lastmodified":1466279723,
     "wof:name":"York House Garage",
     "wof:parent_id":101852531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.546012,51.192738,-2.546012,51.192738],
+  "bbox": [
+    -2.546012,
+    51.192738,
+    -2.546012,
+    51.192738
+],
   "geometry": {"coordinates":[-2.546012,51.192738],"type":"Point"}
 }

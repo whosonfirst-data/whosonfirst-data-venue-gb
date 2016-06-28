@@ -2,13 +2,14 @@
   "id": 252767233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.607631,53.647251,-1.607631,53.647251",
     "geom:latitude":53.647251,
     "geom:longitude":-1.607631,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Overton Farm, New Rd, Overton",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252767233,
-    "wof:lastmodified":1449005735,
+    "wof:lastmodified":1466258193,
     "wof:name":"Yorkshire Potatoes",
     "wof:parent_id":85791001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "potato"
     ]
 },
-  "bbox": [-1.607631,53.647251,-1.607631,53.647251],
+  "bbox": [
+    -1.607631,
+    53.647251,
+    -1.607631,
+    53.647251
+],
   "geometry": {"coordinates":[-1.607631,53.647251],"type":"Point"}
 }

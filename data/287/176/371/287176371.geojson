@@ -2,13 +2,14 @@
   "id": 287176371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.502533,52.906475,-1.502533,52.906475",
     "geom:latitude":52.906475,
     "geom:longitude":-1.502533,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 South Avenue, Littleover",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":287176371,
-    "wof:lastmodified":1449001268,
+    "wof:lastmodified":1466268453,
     "wof:name":"White Hart Heating",
     "wof:parent_id":85788827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"
     ]
 },
-  "bbox": [-1.502533,52.906475,-1.502533,52.906475],
+  "bbox": [
+    -1.502533,
+    52.906475,
+    -1.502533,
+    52.906475
+],
   "geometry": {"coordinates":[-1.502533,52.906475],"type":"Point"}
 }

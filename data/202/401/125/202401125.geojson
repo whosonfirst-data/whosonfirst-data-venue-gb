@@ -2,13 +2,14 @@
   "id": 202401125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.984487,52.955967,-1.984487,52.955967",
     "geom:latitude":52.955967,
     "geom:longitude":-1.984487,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Parklands Road, Tean",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202401125,
-    "wof:lastmodified":1449062286,
+    "wof:lastmodified":1466252626,
     "wof:name":"St Thomas's R C Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "authority"
     ]
 },
-  "bbox": [-1.984487,52.955967,-1.984487,52.955967],
+  "bbox": [
+    -1.984487,
+    52.955967,
+    -1.984487,
+    52.955967
+],
   "geometry": {"coordinates":[-1.984487,52.955967],"type":"Point"}
 }

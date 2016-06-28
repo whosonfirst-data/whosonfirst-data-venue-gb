@@ -2,13 +2,14 @@
   "id": 253364389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.149731,52.955376,-1.149731,52.955376",
     "geom:latitude":52.955376,
     "geom:longitude":-1.149731,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13-15 Forman Street",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253364389,
-    "wof:lastmodified":1449064489,
+    "wof:lastmodified":1466264633,
     "wof:name":"Foremans Bar",
     "wof:parent_id":85793185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.149731,52.955376,-1.149731,52.955376],
+  "bbox": [
+    -1.149731,
+    52.955376,
+    -1.149731,
+    52.955376
+],
   "geometry": {"coordinates":[-1.149731,52.955376],"type":"Point"}
 }

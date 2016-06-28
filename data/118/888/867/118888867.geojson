@@ -2,13 +2,14 @@
   "id": 118888867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.385701,51.363827,-2.385701,51.363827",
     "geom:latitude":51.363827,
     "geom:longitude":-2.385701,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Edgeworth Rd",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":118888867,
-    "wof:lastmodified":1449054032,
+    "wof:lastmodified":1466278720,
     "wof:name":"Tradeline Print",
     "wof:parent_id":85790473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.385701,51.363827,-2.385701,51.363827],
+  "bbox": [
+    -2.385701,
+    51.363827,
+    -2.385701,
+    51.363827
+],
   "geometry": {"coordinates":[-2.385701,51.363827],"type":"Point"}
 }

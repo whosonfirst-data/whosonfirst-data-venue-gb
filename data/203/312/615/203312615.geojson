@@ -2,13 +2,14 @@
   "id": 203312615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.177571,52.833157,-1.177571,52.833157",
     "geom:latitude":52.833157,
     "geom:longitude":-1.177571,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"East Leake",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203312615,
-    "wof:lastmodified":1449025883,
+    "wof:lastmodified":1466258063,
     "wof:name":"BPB Wireline Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gas"
     ]
 },
-  "bbox": [-1.177571,52.833157,-1.177571,52.833157],
+  "bbox": [
+    -1.177571,
+    52.833157,
+    -1.177571,
+    52.833157
+],
   "geometry": {"coordinates":[-1.177571,52.833157],"type":"Point"}
 }

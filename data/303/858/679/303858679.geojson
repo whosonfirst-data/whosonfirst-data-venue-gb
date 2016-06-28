@@ -2,13 +2,14 @@
   "id": 303858679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.265348,51.779106,-1.265348,51.779106",
     "geom:latitude":51.779106,
     "geom:longitude":-1.265348,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Banbury Road",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303858679,
-    "wof:lastmodified":1448998362,
+    "wof:lastmodified":1466283764,
     "wof:name":"Adams Guest House",
     "wof:parent_id":85790825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "guest"
     ]
 },
-  "bbox": [-1.265348,51.779106,-1.265348,51.779106],
+  "bbox": [
+    -1.265348,
+    51.779106,
+    -1.265348,
+    51.779106
+],
   "geometry": {"coordinates":[-1.265348,51.779106],"type":"Point"}
 }

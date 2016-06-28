@@ -2,13 +2,14 @@
   "id": 320832463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.832009,52.451565,-1.832009,52.451565",
     "geom:latitude":52.451565,
     "geom:longitude":-1.832009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Warwick Road, Acocks Grn",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320832463,
-    "wof:lastmodified":1449011281,
+    "wof:lastmodified":1466285166,
     "wof:name":"Farmfoods Freezer Centre",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "centre"
     ]
 },
-  "bbox": [-1.832009,52.451565,-1.832009,52.451565],
+  "bbox": [
+    -1.832009,
+    52.451565,
+    -1.832009,
+    52.451565
+],
   "geometry": {"coordinates":[-1.832009,52.451565],"type":"Point"}
 }

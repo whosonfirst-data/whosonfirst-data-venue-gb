@@ -2,13 +2,14 @@
   "id": 135795479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.08253,55.917877,-4.08253,55.917877",
     "geom:latitude":55.917877,
     "geom:longitude":-4.08253,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Applecross Gardens",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135795479,
-    "wof:lastmodified":1449022807,
+    "wof:lastmodified":1466287170,
     "wof:name":"Hillhouse Heating Co",
     "wof:parent_id":85790731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.08253,55.917877,-4.08253,55.917877],
+  "bbox": [
+    -4.08253,
+    55.917877,
+    -4.08253,
+    55.917877
+],
   "geometry": {"coordinates":[-4.08253,55.917877],"type":"Point"}
 }

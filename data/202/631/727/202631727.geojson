@@ -2,13 +2,14 @@
   "id": 202631727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.091039,51.825275,-3.091039,51.825275",
     "geom:latitude":51.825275,
     "geom:longitude":-3.091039,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Glaslyn Farm, Glangrwyney Road, Gilwern",
     "sg:city":"Abergavenny",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202631727,
-    "wof:lastmodified":1449060896,
+    "wof:lastmodified":1466256354,
     "wof:name":"Wards Coaches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "coach"
     ]
 },
-  "bbox": [-3.091039,51.825275,-3.091039,51.825275],
+  "bbox": [
+    -3.091039,
+    51.825275,
+    -3.091039,
+    51.825275
+],
   "geometry": {"coordinates":[-3.091039,51.825275],"type":"Point"}
 }

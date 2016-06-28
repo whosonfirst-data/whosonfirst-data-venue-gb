@@ -2,13 +2,14 @@
   "id": 135519245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.204178,53.05584,-2.204178,53.05584",
     "geom:latitude":53.05584,
     "geom:longitude":-2.204178,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Scotia Rd",
     "sg:city":"Stoke On Trent",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135519245,
-    "wof:lastmodified":1449023803,
+    "wof:lastmodified":1466276749,
     "wof:name":"BTS Building Trades Ltd",
     "wof:parent_id":85861037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.204178,53.05584,-2.204178,53.05584],
+  "bbox": [
+    -2.204178,
+    53.05584,
+    -2.204178,
+    53.05584
+],
   "geometry": {"coordinates":[-2.204178,53.05584],"type":"Point"}
 }

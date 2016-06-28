@@ -2,13 +2,14 @@
   "id": 135603301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.49514,53.523575,-2.49514,53.523575",
     "geom:latitude":53.523575,
     "geom:longitude":-2.49514,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"108a Market Street, Atherton",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135603301,
-    "wof:lastmodified":1449023545,
+    "wof:lastmodified":1466282732,
     "wof:name":"BAR-BE-CHIC",
     "wof:parent_id":85789671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.49514,53.523575,-2.49514,53.523575],
+  "bbox": [
+    -2.49514,
+    53.523575,
+    -2.49514,
+    53.523575
+],
   "geometry": {"coordinates":[-2.49514,53.523575],"type":"Point"}
 }

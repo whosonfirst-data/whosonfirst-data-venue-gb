@@ -2,13 +2,14 @@
   "id": 135298531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.517292,54.521843,-3.517292,54.521843",
     "geom:latitude":54.521843,
     "geom:longitude":-3.517292,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"84 High Street",
     "sg:city":"Cleator Moor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135298531,
-    "wof:lastmodified":1449021821,
+    "wof:lastmodified":1466277044,
     "wof:name":"Chattanooga",
     "wof:parent_id":101873413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.517292,54.521843,-3.517292,54.521843],
+  "bbox": [
+    -3.517292,
+    54.521843,
+    -3.517292,
+    54.521843
+],
   "geometry": {"coordinates":[-3.517292,54.521843],"type":"Point"}
 }

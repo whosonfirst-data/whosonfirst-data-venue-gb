@@ -2,13 +2,14 @@
   "id": 253421511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.051127,53.79678,-3.051127,53.79678",
     "geom:latitude":53.79678,
     "geom:longitude":-3.051127,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Dean Street",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253421511,
-    "wof:lastmodified":1449064706,
+    "wof:lastmodified":1466266061,
     "wof:name":"Windsor Hotel",
     "wof:parent_id":85789011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.051127,53.79678,-3.051127,53.79678],
+  "bbox": [
+    -3.051127,
+    53.79678,
+    -3.051127,
+    53.79678
+],
   "geometry": {"coordinates":[-3.051127,53.79678],"type":"Point"}
 }

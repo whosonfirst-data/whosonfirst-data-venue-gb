@@ -2,13 +2,14 @@
   "id": 135323723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.200345,52.769119,-1.200345,52.769119",
     "geom:latitude":52.769119,
     "geom:longitude":-1.200345,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Moira Street",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":135323723,
-    "wof:lastmodified":1449021265,
+    "wof:lastmodified":1466254069,
     "wof:name":"Roxo's Fish Bar",
     "wof:parent_id":101750487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.200345,52.769119,-1.200345,52.769119],
+  "bbox": [
+    -1.200345,
+    52.769119,
+    -1.200345,
+    52.769119
+],
   "geometry": {"coordinates":[-1.200345,52.769119],"type":"Point"}
 }

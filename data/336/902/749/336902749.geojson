@@ -2,13 +2,14 @@
   "id": 336902749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.270329,52.947201,-1.270329,52.947201",
     "geom:latitude":52.947201,
     "geom:longitude":-1.270329,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Trowell Grove, Trowell",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336902749,
-    "wof:lastmodified":1448997733,
+    "wof:lastmodified":1466280427,
     "wof:name":"B & K Ltd",
     "wof:parent_id":85785691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-1.270329,52.947201,-1.270329,52.947201],
+  "bbox": [
+    -1.270329,
+    52.947201,
+    -1.270329,
+    52.947201
+],
   "geometry": {"coordinates":[-1.270329,52.947201],"type":"Point"}
 }

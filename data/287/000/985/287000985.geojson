@@ -2,13 +2,14 @@
   "id": 287000985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.246633,53.48251,-2.246633,53.48251",
     "geom:latitude":53.48251,
     "geom:longitude":-2.246633,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Deansgate",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287000985,
-    "wof:lastmodified":1449000802,
+    "wof:lastmodified":1466278492,
     "wof:name":"Howard & Drew Jewellers",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [-2.246633,53.48251,-2.246633,53.48251],
+  "bbox": [
+    -2.246633,
+    53.48251,
+    -2.246633,
+    53.48251
+],
   "geometry": {"coordinates":[-2.246633,53.48251],"type":"Point"}
 }

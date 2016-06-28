@@ -2,13 +2,14 @@
   "id": 236096563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.939837,53.375252,-2.939837,53.375252",
     "geom:latitude":53.375252,
     "geom:longitude":-2.939837,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"276 Aigburth Road",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236096563,
-    "wof:lastmodified":1449002565,
+    "wof:lastmodified":1466258371,
     "wof:name":"The Book Inn",
     "wof:parent_id":85789659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookseller"
     ]
 },
-  "bbox": [-2.939837,53.375252,-2.939837,53.375252],
+  "bbox": [
+    -2.939837,
+    53.375252,
+    -2.939837,
+    53.375252
+],
   "geometry": {"coordinates":[-2.939837,53.375252],"type":"Point"}
 }

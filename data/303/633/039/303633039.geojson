@@ -2,13 +2,14 @@
   "id": 303633039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.17964,55.962818,-3.17964,55.962818",
     "geom:latitude":55.962818,
     "geom:longitude":-3.17964,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Shrub Place, The Lane",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303633039,
-    "wof:lastmodified":1449000548,
+    "wof:lastmodified":1466280667,
     "wof:name":"The Edinburgh Masonic Club",
     "wof:parent_id":85792709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-3.17964,55.962818,-3.17964,55.962818],
+  "bbox": [
+    -3.17964,
+    55.962818,
+    -3.17964,
+    55.962818
+],
   "geometry": {"coordinates":[-3.17964,55.962818],"type":"Point"}
 }

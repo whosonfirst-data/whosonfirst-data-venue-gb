@@ -2,13 +2,14 @@
   "id": 303612305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.54848,50.732189,-3.54848,50.732189",
     "geom:latitude":50.732189,
     "geom:longitude":-3.54848,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 St Andrews Road, Exwick",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303612305,
-    "wof:lastmodified":1448999200,
+    "wof:lastmodified":1466280261,
     "wof:name":"Michael Ealson",
     "wof:parent_id":85787317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.54848,50.732189,-3.54848,50.732189],
+  "bbox": [
+    -3.54848,
+    50.732189,
+    -3.54848,
+    50.732189
+],
   "geometry": {"coordinates":[-3.54848,50.732189],"type":"Point"}
 }

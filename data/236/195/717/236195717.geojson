@@ -2,13 +2,14 @@
   "id": 236195717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.870748,53.853851,-2.870748,53.853851",
     "geom:latitude":53.853851,
     "geom:longitude":-2.870748,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 South Forge, Garstang Rd",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":236195717,
-    "wof:lastmodified":1449003891,
+    "wof:lastmodified":1466260222,
     "wof:name":"Victor Vauxhall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dismantlers"
     ]
 },
-  "bbox": [-2.870748,53.853851,-2.870748,53.853851],
+  "bbox": [
+    -2.870748,
+    53.853851,
+    -2.870748,
+    53.853851
+],
   "geometry": {"coordinates":[-2.870748,53.853851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135802793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.974245,55.782551,-3.974245,55.782551",
     "geom:latitude":55.782551,
     "geom:longitude":-3.974245,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"442 Orbiston Street",
     "sg:city":"Motherwell",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135802793,
-    "wof:lastmodified":1449023455,
+    "wof:lastmodified":1466287476,
     "wof:name":"James Duncan & Son",
     "wof:parent_id":85683687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.974245,55.782551,-3.974245,55.782551],
+  "bbox": [
+    -3.974245,
+    55.782551,
+    -3.974245,
+    55.782551
+],
   "geometry": {"coordinates":[-3.974245,55.782551],"type":"Point"}
 }

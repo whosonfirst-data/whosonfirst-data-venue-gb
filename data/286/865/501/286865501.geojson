@@ -2,13 +2,14 @@
   "id": 286865501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.063441,50.846409,-1.063441,50.846409",
     "geom:latitude":50.846409,
     "geom:longitude":-1.063441,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Havant Road, Cosham",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":286865501,
-    "wof:lastmodified":1449017406,
+    "wof:lastmodified":1466279736,
     "wof:name":"Cosham Glass & Timber",
     "wof:parent_id":85786783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "door"
     ]
 },
-  "bbox": [-1.063441,50.846409,-1.063441,50.846409],
+  "bbox": [
+    -1.063441,
+    50.846409,
+    -1.063441,
+    50.846409
+],
   "geometry": {"coordinates":[-1.063441,50.846409],"type":"Point"}
 }

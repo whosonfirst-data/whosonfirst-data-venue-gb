@@ -2,13 +2,14 @@
   "id": 185906119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.406647,54.980625,-1.406647,54.980625",
     "geom:latitude":54.980625,
     "geom:longitude":-1.406647,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Marsden Rd",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185906119,
-    "wof:lastmodified":1449007220,
+    "wof:lastmodified":1466256002,
     "wof:name":"Auto Additions",
     "wof:parent_id":85791571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-1.406647,54.980625,-1.406647,54.980625],
+  "bbox": [
+    -1.406647,
+    54.980625,
+    -1.406647,
+    54.980625
+],
   "geometry": {"coordinates":[-1.406647,54.980625],"type":"Point"}
 }

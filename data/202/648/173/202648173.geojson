@@ -2,13 +2,14 @@
   "id": 202648173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.243392,53.480877,-2.243392,53.480877",
     "geom:latitude":53.480877,
     "geom:longitude":-2.243392,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"82 King St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202648173,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466256658,
     "wof:name":"ExecuTrain",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-2.243392,53.480877,-2.243392,53.480877],
+  "bbox": [
+    -2.243392,
+    53.480877,
+    -2.243392,
+    53.480877
+],
   "geometry": {"coordinates":[-2.243392,53.480877],"type":"Point"}
 }

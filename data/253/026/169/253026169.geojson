@@ -2,13 +2,14 @@
   "id": 253026169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.234717,51.376625,-1.234717,51.376625",
     "geom:latitude":51.376625,
     "geom:longitude":-1.234717,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Crookham Park Office, Thatcham",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253026169,
-    "wof:lastmodified":1449064559,
+    "wof:lastmodified":1466257930,
     "wof:name":"Crookham Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "home"
     ]
 },
-  "bbox": [-1.234717,51.376625,-1.234717,51.376625],
+  "bbox": [
+    -1.234717,
+    51.376625,
+    -1.234717,
+    51.376625
+],
   "geometry": {"coordinates":[-1.234717,51.376625],"type":"Point"}
 }

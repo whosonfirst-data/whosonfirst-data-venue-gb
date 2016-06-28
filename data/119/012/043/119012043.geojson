@@ -2,13 +2,14 @@
   "id": 119012043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.9e-05,51.26025,-2.9e-05,51.26025",
     "geom:latitude":51.26025,
-    "geom:longitude":-2.9e-05,
+    "geom:longitude":-0.000029,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 New Lodge Drive, Bluehouse Lane",
     "sg:city":"Oxted",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":119012043,
-    "wof:lastmodified":1449043268,
+    "wof:lastmodified":1466267443,
     "wof:name":"New Lodge Surgery",
     "wof:parent_id":101853511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.9e-05,51.26025,-2.9e-05,51.26025],
-  "geometry": {"coordinates":[-2.9e-05,51.26025],"type":"Point"}
+  "bbox": [
+    -2.9e-05,
+    51.26025,
+    -2.9e-05,
+    51.26025
+],
+  "geometry": {"coordinates":[-0.000029,51.26025],"type":"Point"}
 }

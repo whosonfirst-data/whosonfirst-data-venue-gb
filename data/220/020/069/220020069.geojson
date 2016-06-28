@@ -2,13 +2,14 @@
   "id": 220020069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.126923,52.64444,-1.126923,52.64444",
     "geom:latitude":52.64444,
     "geom:longitude":-1.126923,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65-67 Belgrave Gate",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220020069,
-    "wof:lastmodified":1449074397,
+    "wof:lastmodified":1466253278,
     "wof:name":"Kingstone Ltd",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sales"
     ]
 },
-  "bbox": [-1.126923,52.64444,-1.126923,52.64444],
+  "bbox": [
+    -1.126923,
+    52.64444,
+    -1.126923,
+    52.64444
+],
   "geometry": {"coordinates":[-1.126923,52.64444],"type":"Point"}
 }

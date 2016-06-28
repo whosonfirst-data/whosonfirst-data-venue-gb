@@ -2,13 +2,14 @@
   "id": 136120045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.401813,50.920486,-1.401813,50.920486",
     "geom:latitude":50.920486,
     "geom:longitude":-1.401813,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Avenue Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136120045,
-    "wof:lastmodified":1449076075,
+    "wof:lastmodified":1466256685,
     "wof:name":"Avenue Tuning",
     "wof:parent_id":85861259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.401813,50.920486,-1.401813,50.920486],
+  "bbox": [
+    -1.401813,
+    50.920486,
+    -1.401813,
+    50.920486
+],
   "geometry": {"coordinates":[-1.401813,50.920486],"type":"Point"}
 }

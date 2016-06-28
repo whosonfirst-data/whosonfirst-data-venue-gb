@@ -2,13 +2,14 @@
   "id": 270026467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.68511,53.858215,-1.68511,53.858215",
     "geom:latitude":53.858215,
     "geom:longitude":-1.68511,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Greenacre Park Rise, Rawdon",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270026467,
-    "wof:lastmodified":1449010091,
+    "wof:lastmodified":1466261262,
     "wof:name":"BCD Electrical",
     "wof:parent_id":85786167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.68511,53.858215,-1.68511,53.858215],
+  "bbox": [
+    -1.68511,
+    53.858215,
+    -1.68511,
+    53.858215
+],
   "geometry": {"coordinates":[-1.68511,53.858215],"type":"Point"}
 }

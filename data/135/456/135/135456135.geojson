@@ -2,13 +2,14 @@
   "id": 135456135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.074016,53.78326,-1.074016,53.78326",
     "geom:latitude":53.78326,
     "geom:longitude":-1.074016,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Gowthorpe",
     "sg:city":"Selby",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135456135,
-    "wof:lastmodified":1449021908,
+    "wof:lastmodified":1466269403,
     "wof:name":"A B Fireplaces",
     "wof:parent_id":101872315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.074016,53.78326,-1.074016,53.78326],
+  "bbox": [
+    -1.074016,
+    53.78326,
+    -1.074016,
+    53.78326
+],
   "geometry": {"coordinates":[-1.074016,53.78326],"type":"Point"}
 }

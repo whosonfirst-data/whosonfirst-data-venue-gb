@@ -2,13 +2,14 @@
   "id": 303420381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.982174,51.596867,-2.982174,51.596867",
     "geom:latitude":51.596867,
     "geom:longitude":-2.982174,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Caerleon Road",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303420381,
-    "wof:lastmodified":1448999289,
+    "wof:lastmodified":1466275437,
     "wof:name":"Ben W Evans (Chemists)",
     "wof:parent_id":85864253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "chemist"
     ]
 },
-  "bbox": [-2.982174,51.596867,-2.982174,51.596867],
+  "bbox": [
+    -2.982174,
+    51.596867,
+    -2.982174,
+    51.596867
+],
   "geometry": {"coordinates":[-2.982174,51.596867],"type":"Point"}
 }

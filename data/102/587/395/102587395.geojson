@@ -2,13 +2,14 @@
   "id": 102587395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.962101,51.34021,-2.962101,51.34021",
     "geom:latitude":51.34021,
     "geom:longitude":-2.962101,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Pottery Close",
     "sg:city":"Weston Super Mare",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102587395,
-    "wof:lastmodified":1449068623,
+    "wof:lastmodified":1466276537,
     "wof:name":"Weston Hand Work",
     "wof:parent_id":101751595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.962101,51.34021,-2.962101,51.34021],
+  "bbox": [
+    -2.962101,
+    51.34021,
+    -2.962101,
+    51.34021
+],
   "geometry": {"coordinates":[-2.962101,51.34021],"type":"Point"}
 }

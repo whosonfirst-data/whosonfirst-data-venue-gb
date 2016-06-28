@@ -2,13 +2,14 @@
   "id": 136076573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.235853,53.500023,-2.235853,53.500023",
     "geom:latitude":53.500023,
     "geom:longitude":-2.235853,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Queens Road, Cheetham Hill",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":136076573,
-    "wof:lastmodified":1449075946,
+    "wof:lastmodified":1466254223,
     "wof:name":"Food to Go",
     "wof:parent_id":85793059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.235853,53.500023,-2.235853,53.500023],
+  "bbox": [
+    -2.235853,
+    53.500023,
+    -2.235853,
+    53.500023
+],
   "geometry": {"coordinates":[-2.235853,53.500023],"type":"Point"}
 }

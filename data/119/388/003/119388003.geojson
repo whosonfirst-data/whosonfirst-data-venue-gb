@@ -2,13 +2,14 @@
   "id": 119388003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.202244,55.81818,-4.202244,55.81818",
     "geom:latitude":55.81818,
     "geom:longitude":-4.202244,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Stonelaw Road, Rutherglen",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119388003,
-    "wof:lastmodified":1449040988,
+    "wof:lastmodified":1466284729,
     "wof:name":"James Hastie",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.202244,55.81818,-4.202244,55.81818],
+  "bbox": [
+    -4.202244,
+    55.81818,
+    -4.202244,
+    55.81818
+],
   "geometry": {"coordinates":[-4.202244,55.81818],"type":"Point"}
 }

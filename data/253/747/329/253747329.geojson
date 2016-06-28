@@ -2,13 +2,14 @@
   "id": 253747329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.028418,55.861225,-4.028418,55.861225",
     "geom:latitude":55.861225,
     "geom:longitude":-4.028418,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Whittington St",
     "sg:city":"Coatbridge",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253747329,
-    "wof:lastmodified":1449063358,
+    "wof:lastmodified":1466275862,
     "wof:name":"Coatbridge Glass",
     "wof:parent_id":85792553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "glazing"
     ]
 },
-  "bbox": [-4.028418,55.861225,-4.028418,55.861225],
+  "bbox": [
+    -4.028418,
+    55.861225,
+    -4.028418,
+    55.861225
+],
   "geometry": {"coordinates":[-4.028418,55.861225],"type":"Point"}
 }

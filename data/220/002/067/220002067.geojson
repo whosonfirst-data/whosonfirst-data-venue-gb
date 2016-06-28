@@ -2,13 +2,14 @@
   "id": 220002067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.509417,53.798401,-1.509417,53.798401",
     "geom:latitude":53.798401,
     "geom:longitude":-1.509417,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"274 York Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220002067,
-    "wof:lastmodified":1449074706,
+    "wof:lastmodified":1466252965,
     "wof:name":"Michael Norfolk Plumbing & Heating",
     "wof:parent_id":85861569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "heating"
     ]
 },
-  "bbox": [-1.509417,53.798401,-1.509417,53.798401],
+  "bbox": [
+    -1.509417,
+    53.798401,
+    -1.509417,
+    53.798401
+],
   "geometry": {"coordinates":[-1.509417,53.798401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119000807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.536191,51.507805,-1.536191,51.507805",
     "geom:latitude":51.507805,
     "geom:longitude":-1.536191,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Rockfel Road, Lambourn",
     "sg:city":"Hungerford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119000807,
-    "wof:lastmodified":1449041242,
+    "wof:lastmodified":1466252675,
     "wof:name":"Quick Transport",
     "wof:parent_id":101852669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.536191,51.507805,-1.536191,51.507805],
+  "bbox": [
+    -1.536191,
+    51.507805,
+    -1.536191,
+    51.507805
+],
   "geometry": {"coordinates":[-1.536191,51.507805],"type":"Point"}
 }

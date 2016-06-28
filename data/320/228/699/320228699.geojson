@@ -2,13 +2,14 @@
   "id": 320228699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.16923,52.96101,-1.16923,52.96101",
     "geom:latitude":52.96101,
     "geom:longitude":-1.16923,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3b Ground Floor Mill, Steam Court, Peveril St, Radford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320228699,
-    "wof:lastmodified":1449012436,
+    "wof:lastmodified":1466274878,
     "wof:name":"ED's Bikes",
     "wof:parent_id":85790001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [-1.16923,52.96101,-1.16923,52.96101],
+  "bbox": [
+    -1.16923,
+    52.96101,
+    -1.16923,
+    52.96101
+],
   "geometry": {"coordinates":[-1.16923,52.96101],"type":"Point"}
 }

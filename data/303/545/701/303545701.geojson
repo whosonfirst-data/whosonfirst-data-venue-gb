@@ -2,13 +2,14 @@
   "id": 303545701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.874414,50.72179,-1.874414,50.72179",
     "geom:latitude":50.72179,
     "geom:longitude":-1.874414,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3-5 Fir Vale Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303545701,
-    "wof:lastmodified":1448998700,
+    "wof:lastmodified":1466279141,
     "wof:name":"Andrews Snape & Co.",
     "wof:parent_id":85866817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.874414,50.72179,-1.874414,50.72179],
+  "bbox": [
+    -1.874414,
+    50.72179,
+    -1.874414,
+    50.72179
+],
   "geometry": {"coordinates":[-1.874414,50.72179],"type":"Point"}
 }

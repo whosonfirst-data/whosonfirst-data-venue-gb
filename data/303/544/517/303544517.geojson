@@ -2,13 +2,14 @@
   "id": 303544517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.1429,52.594212,-2.1429,52.594212",
     "geom:latitude":52.594212,
     "geom:longitude":-2.1429,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Avia Centre, Whitmore Reans",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303544517,
-    "wof:lastmodified":1449000562,
+    "wof:lastmodified":1466278958,
     "wof:name":"Crusty Bakery",
     "wof:parent_id":85789371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-2.1429,52.594212,-2.1429,52.594212],
+  "bbox": [
+    -2.1429,
+    52.594212,
+    -2.1429,
+    52.594212
+],
   "geometry": {"coordinates":[-2.1429,52.594212],"type":"Point"}
 }

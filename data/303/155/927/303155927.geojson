@@ -2,13 +2,14 @@
   "id": 303155927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.550625,53.598114,-2.550625,53.598114",
     "geom:latitude":53.598114,
     "geom:longitude":-2.550625,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Chorley New Rd, Horwich",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303155927,
-    "wof:lastmodified":1449000135,
+    "wof:lastmodified":1466267346,
     "wof:name":"Aquila Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "software"
     ]
 },
-  "bbox": [-2.550625,53.598114,-2.550625,53.598114],
+  "bbox": [
+    -2.550625,
+    53.598114,
+    -2.550625,
+    53.598114
+],
   "geometry": {"coordinates":[-2.550625,53.598114],"type":"Point"}
 }

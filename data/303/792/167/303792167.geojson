@@ -2,13 +2,14 @@
   "id": 303792167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.165954,50.7234,-1.165954,50.7234",
     "geom:latitude":50.7234,
     "geom:longitude":-1.165954,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Swanmore Road",
     "sg:city":"Ryde",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303792167,
-    "wof:lastmodified":1448998638,
+    "wof:lastmodified":1466282933,
     "wof:name":"The Falcon Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.165954,50.7234,-1.165954,50.7234],
+  "bbox": [
+    -1.165954,
+    50.7234,
+    -1.165954,
+    50.7234
+],
   "geometry": {"coordinates":[-1.165954,50.7234],"type":"Point"}
 }

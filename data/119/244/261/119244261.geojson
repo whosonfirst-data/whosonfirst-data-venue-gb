@@ -2,13 +2,14 @@
   "id": 119244261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.879179,50.740353,-1.879179,50.740353",
     "geom:latitude":50.740353,
     "geom:longitude":-1.879179,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Wimborne Road, Winton",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119244261,
-    "wof:lastmodified":1449041810,
+    "wof:lastmodified":1466274134,
     "wof:name":"Gaia",
     "wof:parent_id":85791709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.879179,50.740353,-1.879179,50.740353],
+  "bbox": [
+    -1.879179,
+    50.740353,
+    -1.879179,
+    50.740353
+],
   "geometry": {"coordinates":[-1.879179,50.740353],"type":"Point"}
 }

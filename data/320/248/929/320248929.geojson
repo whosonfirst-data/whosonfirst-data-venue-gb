@@ -2,13 +2,14 @@
   "id": 320248929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.126056,50.385387,-4.126056,50.385387",
     "geom:latitude":50.385387,
     "geom:longitude":-4.126056,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Seymour Rd",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320248929,
-    "wof:lastmodified":1449013313,
+    "wof:lastmodified":1466275496,
     "wof:name":"Bbc Radio Devon",
     "wof:parent_id":85789249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [-4.126056,50.385387,-4.126056,50.385387],
+  "bbox": [
+    -4.126056,
+    50.385387,
+    -4.126056,
+    50.385387
+],
   "geometry": {"coordinates":[-4.126056,50.385387],"type":"Point"}
 }

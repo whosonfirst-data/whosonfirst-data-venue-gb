@@ -2,13 +2,14 @@
   "id": 118590539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.142625,55.935009,-3.142625,55.935009",
     "geom:latitude":55.935009,
     "geom:longitude":-3.142625,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Duddingston Road West",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118590539,
-    "wof:lastmodified":1449053993,
+    "wof:lastmodified":1466257047,
     "wof:name":"Interior Motives",
     "wof:parent_id":85786847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.142625,55.935009,-3.142625,55.935009],
+  "bbox": [
+    -3.142625,
+    55.935009,
+    -3.142625,
+    55.935009
+],
   "geometry": {"coordinates":[-3.142625,55.935009],"type":"Point"}
 }

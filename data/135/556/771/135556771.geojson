@@ -2,13 +2,14 @@
   "id": 135556771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.150689,52.951691,-1.150689,52.951691",
     "geom:latitude":52.951691,
     "geom:longitude":-1.150689,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Hounds Gate",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135556771,
-    "wof:lastmodified":1449021735,
+    "wof:lastmodified":1466280006,
     "wof:name":"Bellamy's Bar",
     "wof:parent_id":85793185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.150689,52.951691,-1.150689,52.951691],
+  "bbox": [
+    -1.150689,
+    52.951691,
+    -1.150689,
+    52.951691
+],
   "geometry": {"coordinates":[-1.150689,52.951691],"type":"Point"}
 }

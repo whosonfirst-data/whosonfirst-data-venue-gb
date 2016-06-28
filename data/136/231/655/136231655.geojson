@@ -2,13 +2,14 @@
   "id": 136231655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.204992,53.512119,-2.204992,53.512119",
     "geom:latitude":53.512119,
     "geom:longitude":-2.204992,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Cicero Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136231655,
-    "wof:lastmodified":1449075593,
+    "wof:lastmodified":1466262636,
     "wof:name":"THE CORNER SHOP",
     "wof:parent_id":85789211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.204992,53.512119,-2.204992,53.512119],
+  "bbox": [
+    -2.204992,
+    53.512119,
+    -2.204992,
+    53.512119
+],
   "geometry": {"coordinates":[-2.204992,53.512119],"type":"Point"}
 }

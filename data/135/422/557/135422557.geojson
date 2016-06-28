@@ -2,13 +2,14 @@
   "id": 135422557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.129648,52.965317,-1.129648,52.965317",
     "geom:latitude":52.965317,
     "geom:longitude":-1.129648,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 St. Bartholomews Rd, St. Anns",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135422557,
-    "wof:lastmodified":1449021206,
+    "wof:lastmodified":1466265384,
     "wof:name":"ST ANNS ONE STOP",
     "wof:parent_id":85861937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.129648,52.965317,-1.129648,52.965317],
+  "bbox": [
+    -1.129648,
+    52.965317,
+    -1.129648,
+    52.965317
+],
   "geometry": {"coordinates":[-1.129648,52.965317],"type":"Point"}
 }

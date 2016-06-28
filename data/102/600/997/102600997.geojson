@@ -2,13 +2,14 @@
   "id": 102600997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.12506,50.397999,-4.12506,50.397999",
     "geom:latitude":50.397999,
     "geom:longitude":-4.12506,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Westcott Close",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102600997,
-    "wof:lastmodified":1449068015,
+    "wof:lastmodified":1466277842,
     "wof:name":"Jack Hobbs",
     "wof:parent_id":85787257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.12506,50.397999,-4.12506,50.397999],
+  "bbox": [
+    -4.12506,
+    50.397999,
+    -4.12506,
+    50.397999
+],
   "geometry": {"coordinates":[-4.12506,50.397999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320485139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.856444,52.483269,-1.856444,52.483269",
     "geom:latitude":52.483269,
     "geom:longitude":-1.856444,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2, Bordesley Trading Estate, Bordesley Green Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320485139,
-    "wof:lastmodified":1449013525,
+    "wof:lastmodified":1466280869,
     "wof:name":"Birmingham Laser Cutting Ltd.",
     "wof:parent_id":85791997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "laser"
     ]
 },
-  "bbox": [-1.856444,52.483269,-1.856444,52.483269],
+  "bbox": [
+    -1.856444,
+    52.483269,
+    -1.856444,
+    52.483269
+],
   "geometry": {"coordinates":[-1.856444,52.483269],"type":"Point"}
 }

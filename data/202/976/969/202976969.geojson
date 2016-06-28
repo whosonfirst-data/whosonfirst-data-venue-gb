@@ -2,13 +2,14 @@
   "id": 202976969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.809451,52.461983,-1.809451,52.461983",
     "geom:latitude":52.461983,
     "geom:longitude":-1.809451,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1644 Coventry Road, Yardley",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202976969,
-    "wof:lastmodified":1449061161,
+    "wof:lastmodified":1466261910,
     "wof:name":"Swan Service Station",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "petrol"
     ]
 },
-  "bbox": [-1.809451,52.461983,-1.809451,52.461983],
+  "bbox": [
+    -1.809451,
+    52.461983,
+    -1.809451,
+    52.461983
+],
   "geometry": {"coordinates":[-1.809451,52.461983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219547625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.1741,55.820621,-4.1741,55.820621",
     "geom:latitude":55.820621,
     "geom:longitude":-4.1741,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit F, Rosebank Buildings, Somervell St, Cambuslang",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":219547625,
-    "wof:lastmodified":1449070752,
+    "wof:lastmodified":1466259565,
     "wof:name":"UK Tracing Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "reference"
     ]
 },
-  "bbox": [-4.1741,55.820621,-4.1741,55.820621],
+  "bbox": [
+    -4.1741,
+    55.820621,
+    -4.1741,
+    55.820621
+],
   "geometry": {"coordinates":[-4.1741,55.820621],"type":"Point"}
 }

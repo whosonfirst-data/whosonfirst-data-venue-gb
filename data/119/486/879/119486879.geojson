@@ -2,13 +2,14 @@
   "id": 119486879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.846853,52.527805,-1.846853,52.527805",
     "geom:latitude":52.527805,
     "geom:longitude":-1.846853,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Marsh Lane",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":119486879,
-    "wof:lastmodified":1449042339,
+    "wof:lastmodified":1466286896,
     "wof:name":"Community Mental Health Team",
     "wof:parent_id":85787293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.846853,52.527805,-1.846853,52.527805],
+  "bbox": [
+    -1.846853,
+    52.527805,
+    -1.846853,
+    52.527805
+],
   "geometry": {"coordinates":[-1.846853,52.527805],"type":"Point"}
 }

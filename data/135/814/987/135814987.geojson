@@ -2,13 +2,14 @@
   "id": 135814987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.01939,51.550819,-1.01939,51.550819",
     "geom:latitude":51.550819,
     "geom:longitude":-1.01939,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Stoke Row",
     "sg:city":"Henley-on-thames",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135814987,
-    "wof:lastmodified":1449021532,
+    "wof:lastmodified":1466287529,
     "wof:name":"Stoke Row Garage",
     "wof:parent_id":85683867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.01939,51.550819,-1.01939,51.550819],
+  "bbox": [
+    -1.01939,
+    51.550819,
+    -1.01939,
+    51.550819
+],
   "geometry": {"coordinates":[-1.01939,51.550819],"type":"Point"}
 }

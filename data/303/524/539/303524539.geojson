@@ -2,13 +2,14 @@
   "id": 303524539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.00426,51.544559,0.00426,51.544559",
     "geom:latitude":51.544559,
     "geom:longitude":0.00426,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"172 The Grove, Stratford",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303524539,
-    "wof:lastmodified":1448998093,
+    "wof:lastmodified":1466278714,
     "wof:name":"Plan Personnel",
     "wof:parent_id":85790801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [0.00426,51.544559,0.00426,51.544559],
+  "bbox": [
+    0.00426,
+    51.544559,
+    0.00426,
+    51.544559
+],
   "geometry": {"coordinates":[0.00426,51.544559],"type":"Point"}
 }

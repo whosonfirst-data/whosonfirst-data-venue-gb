@@ -2,13 +2,14 @@
   "id": 303159767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.205865,55.944382,-3.205865,55.944382",
     "geom:latitude":55.944382,
     "geom:longitude":-3.205865,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85/87 Fountainbridge",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303159767,
-    "wof:lastmodified":1448998411,
+    "wof:lastmodified":1466267478,
     "wof:name":"Auld Clachan Bar",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.205865,55.944382,-3.205865,55.944382],
+  "bbox": [
+    -3.205865,
+    55.944382,
+    -3.205865,
+    55.944382
+],
   "geometry": {"coordinates":[-3.205865,55.944382],"type":"Point"}
 }

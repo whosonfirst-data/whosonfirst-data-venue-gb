@@ -2,13 +2,14 @@
   "id": 202701309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.962761,50.973969,-2.962761,50.973969",
     "geom:latitude":50.973969,
     "geom:longitude":-2.962761,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Broadbridge Cottage",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202701309,
-    "wof:lastmodified":1449062130,
+    "wof:lastmodified":1466257471,
     "wof:name":"T B Dibble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-2.962761,50.973969,-2.962761,50.973969],
+  "bbox": [
+    -2.962761,
+    50.973969,
+    -2.962761,
+    50.973969
+],
   "geometry": {"coordinates":[-2.962761,50.973969],"type":"Point"}
 }

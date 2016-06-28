@@ -2,13 +2,14 @@
   "id": 118569639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.407485,54.985092,-1.407485,54.985092",
     "geom:latitude":54.985092,
     "geom:longitude":-1.407485,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Highfield Road",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118569639,
-    "wof:lastmodified":1449054474,
+    "wof:lastmodified":1466255460,
     "wof:name":"Highfield Service Station",
     "wof:parent_id":85791571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.407485,54.985092,-1.407485,54.985092],
+  "bbox": [
+    -1.407485,
+    54.985092,
+    -1.407485,
+    54.985092
+],
   "geometry": {"coordinates":[-1.407485,54.985092],"type":"Point"}
 }

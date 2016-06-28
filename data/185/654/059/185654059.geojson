@@ -2,13 +2,14 @@
   "id": 185654059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.509742,53.495438,-2.509742,53.495438",
     "geom:latitude":53.495438,
     "geom:longitude":-2.509742,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Chapel Street",
     "sg:city":"Leigh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185654059,
-    "wof:lastmodified":1449007142,
+    "wof:lastmodified":1466252832,
     "wof:name":"B M Tools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.509742,53.495438,-2.509742,53.495438],
+  "bbox": [
+    -2.509742,
+    53.495438,
+    -2.509742,
+    53.495438
+],
   "geometry": {"coordinates":[-2.509742,53.495438],"type":"Point"}
 }

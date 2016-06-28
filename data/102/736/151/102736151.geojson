@@ -2,13 +2,14 @@
   "id": 102736151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.23919,53.499119,-2.23919,53.499119",
     "geom:latitude":53.499119,
     "geom:longitude":-2.23919,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2c Hill Industrial Estate, Elizabeth Road",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102736151,
-    "wof:lastmodified":1449070187,
+    "wof:lastmodified":1466257829,
     "wof:name":"A G Stanley Ltd.",
     "wof:parent_id":85793059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.23919,53.499119,-2.23919,53.499119],
+  "bbox": [
+    -2.23919,
+    53.499119,
+    -2.23919,
+    53.499119
+],
   "geometry": {"coordinates":[-2.23919,53.499119],"type":"Point"}
 }

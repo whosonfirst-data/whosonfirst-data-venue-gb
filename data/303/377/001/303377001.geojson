@@ -2,13 +2,14 @@
   "id": 303377001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.23256,55.935314,-3.23256,55.935314",
     "geom:latitude":55.935314,
     "geom:longitude":-3.23256,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Wardlaw Terrace",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303377001,
-    "wof:lastmodified":1448999036,
+    "wof:lastmodified":1466274147,
     "wof:name":"M G Motors",
     "wof:parent_id":85787641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garage"
     ]
 },
-  "bbox": [-3.23256,55.935314,-3.23256,55.935314],
+  "bbox": [
+    -3.23256,
+    55.935314,
+    -3.23256,
+    55.935314
+],
   "geometry": {"coordinates":[-3.23256,55.935314],"type":"Point"}
 }

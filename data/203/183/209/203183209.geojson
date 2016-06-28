@@ -2,13 +2,14 @@
   "id": 203183209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.139827,52.608047,-1.139827,52.608047",
     "geom:latitude":52.608047,
     "geom:longitude":-1.139827,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"90a Vernon Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":203183209,
-    "wof:lastmodified":1449025963,
+    "wof:lastmodified":1466255705,
     "wof:name":"M & B Engineering",
     "wof:parent_id":85785423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-1.139827,52.608047,-1.139827,52.608047],
+  "bbox": [
+    -1.139827,
+    52.608047,
+    -1.139827,
+    52.608047
+],
   "geometry": {"coordinates":[-1.139827,52.608047],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303412649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.21243,53.212078,-1.21243,53.212078",
     "geom:latitude":53.212078,
     "geom:longitude":-1.21243,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Units 1 & 2 East View Industrial Estate, Langwith Road",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303412649,
-    "wof:lastmodified":1448998616,
+    "wof:lastmodified":1466275217,
     "wof:name":"Peter Neilan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "glazing"
     ]
 },
-  "bbox": [-1.21243,53.212078,-1.21243,53.212078],
+  "bbox": [
+    -1.21243,
+    53.212078,
+    -1.21243,
+    53.212078
+],
   "geometry": {"coordinates":[-1.21243,53.212078],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303419521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.307249,53.445171,-2.307249,53.445171",
     "geom:latitude":53.445171,
     "geom:longitude":-2.307249,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Newton Street, Stretford",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303419521,
-    "wof:lastmodified":1449000522,
+    "wof:lastmodified":1466275413,
     "wof:name":"Greater Manchester Probation Service",
     "wof:parent_id":85790811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "support"
     ]
 },
-  "bbox": [-2.307249,53.445171,-2.307249,53.445171],
+  "bbox": [
+    -2.307249,
+    53.445171,
+    -2.307249,
+    53.445171
+],
   "geometry": {"coordinates":[-2.307249,53.445171],"type":"Point"}
 }

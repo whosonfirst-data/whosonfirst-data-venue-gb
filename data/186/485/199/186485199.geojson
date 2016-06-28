@@ -2,13 +2,14 @@
   "id": 186485199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.785171,57.505943,-1.785171,57.505943",
     "geom:latitude":57.505943,
     "geom:longitude":-1.785171,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20-28 York Street",
     "sg:city":"Peterhead",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186485199,
-    "wof:lastmodified":1449051995,
+    "wof:lastmodified":1466259016,
     "wof:name":"Hawco Peterhead",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-1.785171,57.505943,-1.785171,57.505943],
+  "bbox": [
+    -1.785171,
+    57.505943,
+    -1.785171,
+    57.505943
+],
   "geometry": {"coordinates":[-1.785171,57.505943],"type":"Point"}
 }

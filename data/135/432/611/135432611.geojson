@@ -2,13 +2,14 @@
   "id": 135432611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.086064,51.943157,1.086064,51.943157",
     "geom:latitude":51.943157,
     "geom:longitude":1.086064,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Harwich Road, Mistley",
     "sg:city":"Manningtree",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135432611,
-    "wof:lastmodified":1449020927,
+    "wof:lastmodified":1466266580,
     "wof:name":"The Hobbit",
     "wof:parent_id":101853527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.086064,51.943157,1.086064,51.943157],
+  "bbox": [
+    1.086064,
+    51.943157,
+    1.086064,
+    51.943157
+],
   "geometry": {"coordinates":[1.086064,51.943157],"type":"Point"}
 }

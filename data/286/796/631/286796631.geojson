@@ -2,13 +2,14 @@
   "id": 286796631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.20604,52.635391,-1.20604,52.635391",
     "geom:latitude":52.635391,
     "geom:longitude":-1.20604,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Woodside Animal Home, 190 Scudamore Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":286796631,
-    "wof:lastmodified":1449016577,
+    "wof:lastmodified":1466278655,
     "wof:name":"Rspca",
     "wof:parent_id":85791027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "care"
     ]
 },
-  "bbox": [-1.20604,52.635391,-1.20604,52.635391],
+  "bbox": [
+    -1.20604,
+    52.635391,
+    -1.20604,
+    52.635391
+],
   "geometry": {"coordinates":[-1.20604,52.635391],"type":"Point"}
 }

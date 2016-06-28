@@ -2,13 +2,14 @@
   "id": 320130537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.552213,55.836285,-4.552213,55.836285",
     "geom:latitude":55.836285,
     "geom:longitude":-4.552213,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Steeple Street, Kilbarchan",
     "sg:city":"Johnstone",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320130537,
-    "wof:lastmodified":1449012556,
+    "wof:lastmodified":1466272007,
     "wof:name":"Bobbins",
     "wof:parent_id":85792519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "centre"
     ]
 },
-  "bbox": [-4.552213,55.836285,-4.552213,55.836285],
+  "bbox": [
+    -4.552213,
+    55.836285,
+    -4.552213,
+    55.836285
+],
   "geometry": {"coordinates":[-4.552213,55.836285],"type":"Point"}
 }

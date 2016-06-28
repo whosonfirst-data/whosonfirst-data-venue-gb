@@ -2,13 +2,14 @@
   "id": 269948183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.529066,50.725273,-3.529066,50.725273",
     "geom:latitude":50.725273,
     "geom:longitude":-3.529066,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Castle St",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269948183,
-    "wof:lastmodified":1449038336,
+    "wof:lastmodified":1466274157,
     "wof:name":"J Rikard",
     "wof:parent_id":85790623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-3.529066,50.725273,-3.529066,50.725273],
+  "bbox": [
+    -3.529066,
+    50.725273,
+    -3.529066,
+    50.725273
+],
   "geometry": {"coordinates":[-3.529066,50.725273],"type":"Point"}
 }

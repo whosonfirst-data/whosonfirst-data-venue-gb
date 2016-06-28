@@ -2,13 +2,14 @@
   "id": 135591317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.260262,53.321285,-1.260262,53.321285",
     "geom:latitude":53.321285,
     "geom:longitude":-1.260262,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Union Street, Harthill",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135591317,
-    "wof:lastmodified":1449022628,
+    "wof:lastmodified":1466282122,
     "wof:name":"Harthill Bakery",
     "wof:parent_id":85683873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.260262,53.321285,-1.260262,53.321285],
+  "bbox": [
+    -1.260262,
+    53.321285,
+    -1.260262,
+    53.321285
+],
   "geometry": {"coordinates":[-1.260262,53.321285],"type":"Point"}
 }

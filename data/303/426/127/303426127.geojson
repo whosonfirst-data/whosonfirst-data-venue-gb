@@ -2,13 +2,14 @@
   "id": 303426127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.591424,51.472569,-2.591424,51.472569",
     "geom:latitude":51.472569,
     "geom:longitude":-2.591424,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Gloucester Road, Bishopston",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303426127,
-    "wof:lastmodified":1448998637,
+    "wof:lastmodified":1466275623,
     "wof:name":"Nobby's Hobbies",
     "wof:parent_id":85785747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.591424,51.472569,-2.591424,51.472569],
+  "bbox": [
+    -2.591424,
+    51.472569,
+    -2.591424,
+    51.472569
+],
   "geometry": {"coordinates":[-2.591424,51.472569],"type":"Point"}
 }

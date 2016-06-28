@@ -2,13 +2,14 @@
   "id": 185987495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.045164,51.533539,0.045164,51.533539",
     "geom:latitude":51.533539,
     "geom:longitude":0.045164,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Wakefield Street",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185987495,
-    "wof:lastmodified":1449007506,
+    "wof:lastmodified":1466256990,
     "wof:name":"NEWHAM HEALTH AUTHORITY",
     "wof:parent_id":85787169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [0.045164,51.533539,0.045164,51.533539],
+  "bbox": [
+    0.045164,
+    51.533539,
+    0.045164,
+    51.533539
+],
   "geometry": {"coordinates":[0.045164,51.533539],"type":"Point"}
 }

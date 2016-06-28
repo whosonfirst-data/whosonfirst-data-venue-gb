@@ -2,13 +2,14 @@
   "id": 303623247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.439477,52.868298,-1.439477,52.868298",
     "geom:latitude":52.868298,
     "geom:longitude":-1.439477,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6 Station Yard, Station Rd, Melbourne",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303623247,
-    "wof:lastmodified":1448999833,
+    "wof:lastmodified":1466280411,
     "wof:name":"Transport Refrigeration Service Link",
     "wof:parent_id":85790269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-1.439477,52.868298,-1.439477,52.868298],
+  "bbox": [
+    -1.439477,
+    52.868298,
+    -1.439477,
+    52.868298
+],
   "geometry": {"coordinates":[-1.439477,52.868298],"type":"Point"}
 }

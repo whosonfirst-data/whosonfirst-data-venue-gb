@@ -2,13 +2,14 @@
   "id": 118831301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.072254,50.706001,-3.072254,50.706001",
     "geom:latitude":50.706001,
     "geom:longitude":-3.072254,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Queen Street",
     "sg:city":"Seaton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":118831301,
-    "wof:lastmodified":1449053980,
+    "wof:lastmodified":1466275082,
     "wof:name":"Cut'N' Curl",
     "wof:parent_id":101852583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.072254,50.706001,-3.072254,50.706001],
+  "bbox": [
+    -3.072254,
+    50.706001,
+    -3.072254,
+    50.706001
+],
   "geometry": {"coordinates":[-3.072254,50.706001],"type":"Point"}
 }

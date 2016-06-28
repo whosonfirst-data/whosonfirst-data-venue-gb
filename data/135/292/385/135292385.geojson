@@ -2,13 +2,14 @@
   "id": 135292385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.333449,55.949646,-3.333449,55.949646",
     "geom:latitude":55.949646,
     "geom:longitude":-3.333449,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Craigs Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135292385,
-    "wof:lastmodified":1449021256,
+    "wof:lastmodified":1466276825,
     "wof:name":"Currie Johnston & Co.",
     "wof:parent_id":85861457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.333449,55.949646,-3.333449,55.949646],
+  "bbox": [
+    -3.333449,
+    55.949646,
+    -3.333449,
+    55.949646
+],
   "geometry": {"coordinates":[-3.333449,55.949646],"type":"Point"}
 }

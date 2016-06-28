@@ -2,13 +2,14 @@
   "id": 253224541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.160822,55.77758,-4.160822,55.77758",
     "geom:latitude":55.77758,
     "geom:longitude":-4.160822,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Braeview Place",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253224541,
-    "wof:lastmodified":1449064991,
+    "wof:lastmodified":1466261753,
     "wof:name":"Park's Motor Group",
     "wof:parent_id":85792543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-4.160822,55.77758,-4.160822,55.77758],
+  "bbox": [
+    -4.160822,
+    55.77758,
+    -4.160822,
+    55.77758
+],
   "geometry": {"coordinates":[-4.160822,55.77758],"type":"Point"}
 }

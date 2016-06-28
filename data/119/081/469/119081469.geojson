@@ -2,13 +2,14 @@
   "id": 119081469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.052108,53.798687,-3.052108,53.798687",
     "geom:latitude":53.798687,
     "geom:longitude":-3.052108,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Waterloo Rd",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119081469,
-    "wof:lastmodified":1449041605,
+    "wof:lastmodified":1466256734,
     "wof:name":"Streets Bakers",
     "wof:parent_id":85866811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.052108,53.798687,-3.052108,53.798687],
+  "bbox": [
+    -3.052108,
+    53.798687,
+    -3.052108,
+    53.798687
+],
   "geometry": {"coordinates":[-3.052108,53.798687],"type":"Point"}
 }

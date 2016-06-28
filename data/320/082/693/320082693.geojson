@@ -2,13 +2,14 @@
   "id": 320082693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.17958,55.933853,-3.17958,55.933853",
     "geom:latitude":55.933853,
     "geom:longitude":-3.17958,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Grange Loan",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320082693,
-    "wof:lastmodified":1449011351,
+    "wof:lastmodified":1466270633,
     "wof:name":"Scottish Official Board Of Highland Dancing",
     "wof:parent_id":85787675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.17958,55.933853,-3.17958,55.933853],
+  "bbox": [
+    -3.17958,
+    55.933853,
+    -3.17958,
+    55.933853
+],
   "geometry": {"coordinates":[-3.17958,55.933853],"type":"Point"}
 }

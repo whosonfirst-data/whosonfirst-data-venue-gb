@@ -2,13 +2,14 @@
   "id": 135280967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.225695,51.518307,-3.225695,51.518307",
     "geom:latitude":51.518307,
     "geom:longitude":-3.225695,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 St Johns Place",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135280967,
-    "wof:lastmodified":1449022502,
+    "wof:lastmodified":1466275328,
     "wof:name":"Wimpy International Ltd.",
     "wof:parent_id":85861439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.225695,51.518307,-3.225695,51.518307],
+  "bbox": [
+    -3.225695,
+    51.518307,
+    -3.225695,
+    51.518307
+],
   "geometry": {"coordinates":[-3.225695,51.518307],"type":"Point"}
 }

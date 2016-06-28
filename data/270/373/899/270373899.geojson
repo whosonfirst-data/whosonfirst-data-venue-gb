@@ -2,13 +2,14 @@
   "id": 270373899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.52848,50.476131,-3.52848,50.476131",
     "geom:latitude":50.476131,
     "geom:longitude":-3.52848,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Edmunds Residential Home, Victoria Park Rd",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270373899,
-    "wof:lastmodified":1449009902,
+    "wof:lastmodified":1466271630,
     "wof:name":"Community Meals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.52848,50.476131,-3.52848,50.476131],
+  "bbox": [
+    -3.52848,
+    50.476131,
+    -3.52848,
+    50.476131
+],
   "geometry": {"coordinates":[-3.52848,50.476131],"type":"Point"}
 }

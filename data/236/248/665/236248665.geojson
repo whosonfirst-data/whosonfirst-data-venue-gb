@@ -2,13 +2,14 @@
   "id": 236248665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.116705,53.539963,-2.116705,53.539963",
     "geom:latitude":53.539963,
     "geom:longitude":-2.116705,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41 King Street",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236248665,
-    "wof:lastmodified":1449003472,
+    "wof:lastmodified":1466261222,
     "wof:name":"Food Glorious Food",
     "wof:parent_id":85793089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-2.116705,53.539963,-2.116705,53.539963],
+  "bbox": [
+    -2.116705,
+    53.539963,
+    -2.116705,
+    53.539963
+],
   "geometry": {"coordinates":[-2.116705,53.539963],"type":"Point"}
 }

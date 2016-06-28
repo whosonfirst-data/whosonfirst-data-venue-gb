@@ -2,13 +2,14 @@
   "id": 118782485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.187522,51.500893,-3.187522,51.500893",
     "geom:latitude":51.500893,
     "geom:longitude":-3.187522,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Whitchurch Rd",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118782485,
-    "wof:lastmodified":1449053139,
+    "wof:lastmodified":1466271433,
     "wof:name":"Whitchurch Road Post Office",
     "wof:parent_id":85788951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.187522,51.500893,-3.187522,51.500893],
+  "bbox": [
+    -3.187522,
+    51.500893,
+    -3.187522,
+    51.500893
+],
   "geometry": {"coordinates":[-3.187522,51.500893],"type":"Point"}
 }

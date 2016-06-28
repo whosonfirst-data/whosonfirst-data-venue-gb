@@ -2,13 +2,14 @@
   "id": 252845431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.366944,52.550648,-1.366944,52.550648",
     "geom:latitude":52.550648,
     "geom:longitude":-1.366944,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Ashby Road",
     "sg:city":"Hinckley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252845431,
-    "wof:lastmodified":1449005583,
+    "wof:lastmodified":1466259731,
     "wof:name":"The Ashby Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.366944,52.550648,-1.366944,52.550648],
+  "bbox": [
+    -1.366944,
+    52.550648,
+    -1.366944,
+    52.550648
+],
   "geometry": {"coordinates":[-1.366944,52.550648],"type":"Point"}
 }

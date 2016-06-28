@@ -2,13 +2,14 @@
   "id": 320380365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.099851,54.609276,-1.099851,54.609276",
     "geom:latitude":54.609276,
     "geom:longitude":-1.099851,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Ennis Rd",
     "sg:city":"Redcar",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320380365,
-    "wof:lastmodified":1449012983,
+    "wof:lastmodified":1466279035,
     "wof:name":"Fairway Motor Co",
     "wof:parent_id":85790897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-1.099851,54.609276,-1.099851,54.609276],
+  "bbox": [
+    -1.099851,
+    54.609276,
+    -1.099851,
+    54.609276
+],
   "geometry": {"coordinates":[-1.099851,54.609276],"type":"Point"}
 }

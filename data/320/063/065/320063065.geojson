@@ -2,13 +2,14 @@
   "id": 320063065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.114269,53.014595,-1.114269,53.014595",
     "geom:latitude":53.014595,
     "geom:longitude":-1.114269,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Surgeys Lane, Arnold",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320063065,
-    "wof:lastmodified":1449011573,
+    "wof:lastmodified":1466269975,
     "wof:name":"Colin Palethorpe",
     "wof:parent_id":85786979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "heating"
     ]
 },
-  "bbox": [-1.114269,53.014595,-1.114269,53.014595],
+  "bbox": [
+    -1.114269,
+    53.014595,
+    -1.114269,
+    53.014595
+],
   "geometry": {"coordinates":[-1.114269,53.014595],"type":"Point"}
 }

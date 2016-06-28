@@ -2,13 +2,14 @@
   "id": 202838705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.272116,55.79747,-4.272116,55.79747",
     "geom:latitude":55.79747,
     "geom:longitude":-4.272116,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Stamperland Hill, Clarkston",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202838705,
-    "wof:lastmodified":1449060410,
+    "wof:lastmodified":1466259699,
     "wof:name":"Stamperland Community Hall",
     "wof:parent_id":85792535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "centre"
     ]
 },
-  "bbox": [-4.272116,55.79747,-4.272116,55.79747],
+  "bbox": [
+    -4.272116,
+    55.79747,
+    -4.272116,
+    55.79747
+],
   "geometry": {"coordinates":[-4.272116,55.79747],"type":"Point"}
 }

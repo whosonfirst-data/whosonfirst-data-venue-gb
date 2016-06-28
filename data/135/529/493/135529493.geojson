@@ -2,13 +2,14 @@
   "id": 135529493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.471143,53.343517,-1.471143,53.343517",
     "geom:latitude":53.343517,
     "geom:longitude":-1.471143,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"248 Derbyshire Lane",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135529493,
-    "wof:lastmodified":1449022335,
+    "wof:lastmodified":1466277964,
     "wof:name":"Derbyshire Lane Post Office",
     "wof:parent_id":85791787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.471143,53.343517,-1.471143,53.343517],
+  "bbox": [
+    -1.471143,
+    53.343517,
+    -1.471143,
+    53.343517
+],
   "geometry": {"coordinates":[-1.471143,53.343517],"type":"Point"}
 }

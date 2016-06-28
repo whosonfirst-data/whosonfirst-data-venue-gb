@@ -2,13 +2,14 @@
   "id": 320393535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.292299,55.924416,-3.292299,55.924416",
     "geom:latitude":55.924416,
     "geom:longitude":-3.292299,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Heriot House, Pentland Gate, 595 Calder Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320393535,
-    "wof:lastmodified":1449012448,
+    "wof:lastmodified":1466279253,
     "wof:name":"Overlease",
     "wof:parent_id":85790347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "truck"
     ]
 },
-  "bbox": [-3.292299,55.924416,-3.292299,55.924416],
+  "bbox": [
+    -3.292299,
+    55.924416,
+    -3.292299,
+    55.924416
+],
   "geometry": {"coordinates":[-3.292299,55.924416],"type":"Point"}
 }

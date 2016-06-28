@@ -2,13 +2,14 @@
   "id": 186187157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.472215,53.363827,-1.472215,53.363827",
     "geom:latitude":53.363827,
     "geom:longitude":-1.472215,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"437-441 London Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186187157,
-    "wof:lastmodified":1449050792,
+    "wof:lastmodified":1466254547,
     "wof:name":"S & M Foods",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "butcher"
     ]
 },
-  "bbox": [-1.472215,53.363827,-1.472215,53.363827],
+  "bbox": [
+    -1.472215,
+    53.363827,
+    -1.472215,
+    53.363827
+],
   "geometry": {"coordinates":[-1.472215,53.363827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135603309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.495338,53.523605,-2.495338,53.523605",
     "geom:latitude":53.523605,
     "geom:longitude":-2.495338,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Market Street, Atherton",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135603309,
-    "wof:lastmodified":1449023545,
+    "wof:lastmodified":1466282588,
     "wof:name":"Fruit Market",
     "wof:parent_id":85789671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.495338,53.523605,-2.495338,53.523605],
+  "bbox": [
+    -2.495338,
+    53.523605,
+    -2.495338,
+    53.523605
+],
   "geometry": {"coordinates":[-2.495338,53.523605],"type":"Point"}
 }

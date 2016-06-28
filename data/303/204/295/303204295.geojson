@@ -2,13 +2,14 @@
   "id": 303204295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.142718,56.122231,-3.142718,56.122231",
     "geom:latitude":56.122231,
     "geom:longitude":-3.142718,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 St Clair Street",
     "sg:city":"Kirkcaldy",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303204295,
-    "wof:lastmodified":1449000637,
+    "wof:lastmodified":1466268937,
     "wof:name":"Dow Clair Street",
     "wof:parent_id":85789747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-3.142718,56.122231,-3.142718,56.122231],
+  "bbox": [
+    -3.142718,
+    56.122231,
+    -3.142718,
+    56.122231
+],
   "geometry": {"coordinates":[-3.142718,56.122231],"type":"Point"}
 }

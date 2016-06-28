@@ -2,13 +2,14 @@
   "id": 219296341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.173165,55.753342,-4.173165,55.753342",
     "geom:latitude":55.753342,
     "geom:longitude":-4.173165,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Chalmers Crescent, The Murray, East Kilbride",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219296341,
-    "wof:lastmodified":1449073269,
+    "wof:lastmodified":1466255186,
     "wof:name":"Streets Ahead",
     "wof:parent_id":85792549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-4.173165,55.753342,-4.173165,55.753342],
+  "bbox": [
+    -4.173165,
+    55.753342,
+    -4.173165,
+    55.753342
+],
   "geometry": {"coordinates":[-4.173165,55.753342],"type":"Point"}
 }

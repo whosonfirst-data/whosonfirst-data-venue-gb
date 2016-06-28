@@ -2,13 +2,14 @@
   "id": 118710793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.01005,53.875019,-3.01005,53.875019",
     "geom:latitude":53.875019,
     "geom:longitude":-3.01005,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Coniston Avenue",
     "sg:city":"Thornton-cleveleys",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118710793,
-    "wof:lastmodified":1449053233,
+    "wof:lastmodified":1466266124,
     "wof:name":"Alan Mitchell",
     "wof:parent_id":85789433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.01005,53.875019,-3.01005,53.875019],
+  "bbox": [
+    -3.01005,
+    53.875019,
+    -3.01005,
+    53.875019
+],
   "geometry": {"coordinates":[-3.01005,53.875019],"type":"Point"}
 }

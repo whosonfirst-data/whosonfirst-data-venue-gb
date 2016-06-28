@@ -2,13 +2,14 @@
   "id": 119520501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.11344,55.850151,-4.11344,55.850151",
     "geom:latitude":55.850151,
     "geom:longitude":-4.11344,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 South Scott Street, Baillieston",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119520501,
-    "wof:lastmodified":1449041663,
+    "wof:lastmodified":1466287136,
     "wof:name":"Baillieston Snooker Club",
     "wof:parent_id":85785445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.11344,55.850151,-4.11344,55.850151],
+  "bbox": [
+    -4.11344,
+    55.850151,
+    -4.11344,
+    55.850151
+],
   "geometry": {"coordinates":[-4.11344,55.850151],"type":"Point"}
 }

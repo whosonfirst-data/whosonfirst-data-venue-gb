@@ -2,13 +2,14 @@
   "id": 102661761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.385177,53.780659,-2.385177,53.780659",
     "geom:latitude":53.780659,
     "geom:longitude":-2.385177,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3, 49 Lynwood Avenue",
     "sg:city":"Accrington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102661761,
-    "wof:lastmodified":1449069930,
+    "wof:lastmodified":1466254933,
     "wof:name":"Enviro-Cartridge",
     "wof:parent_id":101750585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.385177,53.780659,-2.385177,53.780659],
+  "bbox": [
+    -2.385177,
+    53.780659,
+    -2.385177,
+    53.780659
+],
   "geometry": {"coordinates":[-2.385177,53.780659],"type":"Point"}
 }

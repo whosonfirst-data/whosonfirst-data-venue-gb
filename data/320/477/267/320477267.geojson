@@ -2,13 +2,14 @@
   "id": 320477267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.296599,53.48642,-2.296599,53.48642",
     "geom:latitude":53.48642,
     "geom:longitude":-2.296599,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Woodgrange Close, Seedley",
     "sg:city":"Salford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320477267,
-    "wof:lastmodified":1449011897,
+    "wof:lastmodified":1466280911,
     "wof:name":"George McBride",
     "wof:parent_id":85791405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-2.296599,53.48642,-2.296599,53.48642],
+  "bbox": [
+    -2.296599,
+    53.48642,
+    -2.296599,
+    53.48642
+],
   "geometry": {"coordinates":[-2.296599,53.48642],"type":"Point"}
 }

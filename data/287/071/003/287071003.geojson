@@ -2,13 +2,14 @@
   "id": 287071003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.111441,55.952267,-3.111441,55.952267",
     "geom:latitude":55.952267,
     "geom:longitude":-3.111441,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Portobello High Street, Portobello",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":287071003,
-    "wof:lastmodified":1449001234,
+    "wof:lastmodified":1466265139,
     "wof:name":"Kost Konscious",
     "wof:parent_id":85789915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.111441,55.952267,-3.111441,55.952267],
+  "bbox": [
+    -3.111441,
+    55.952267,
+    -3.111441,
+    55.952267
+],
   "geometry": {"coordinates":[-3.111441,55.952267],"type":"Point"}
 }

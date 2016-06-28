@@ -2,13 +2,14 @@
   "id": 303100519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.95109,54.89249,-2.95109,54.89249",
     "geom:latitude":54.89249,
     "geom:longitude":-2.95109,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Carlisle Enterprise Centre, Unit 2, James St",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303100519,
-    "wof:lastmodified":1448999931,
+    "wof:lastmodified":1466265668,
     "wof:name":"Barker,Leonard,",
     "wof:parent_id":85789415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-2.95109,54.89249,-2.95109,54.89249],
+  "bbox": [
+    -2.95109,
+    54.89249,
+    -2.95109,
+    54.89249
+],
   "geometry": {"coordinates":[-2.95109,54.89249],"type":"Point"}
 }

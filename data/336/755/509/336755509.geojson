@@ -2,13 +2,14 @@
   "id": 336755509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.155504,51.539185,0.155504,51.539185",
     "geom:latitude":51.539185,
     "geom:longitude":0.155504,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Pavilion Vicarage Road",
     "sg:city":"Dagenham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336755509,
-    "wof:lastmodified":1448997252,
+    "wof:lastmodified":1466277388,
     "wof:name":"Old Dagenham Park",
     "wof:parent_id":85786939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ground"
     ]
 },
-  "bbox": [0.155504,51.539185,0.155504,51.539185],
+  "bbox": [
+    0.155504,
+    51.539185,
+    0.155504,
+    51.539185
+],
   "geometry": {"coordinates":[0.155504,51.539185],"type":"Point"}
 }

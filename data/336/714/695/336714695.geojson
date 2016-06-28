@@ -2,13 +2,14 @@
   "id": 336714695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.705031,51.478527,-3.705031,51.478527",
     "geom:latitude":51.478527,
     "geom:longitude":-3.705031,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Mary Street",
     "sg:city":"Porthcawl",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":336714695,
-    "wof:lastmodified":1448997486,
+    "wof:lastmodified":1466276200,
     "wof:name":"Glen Aube Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.705031,51.478527,-3.705031,51.478527],
+  "bbox": [
+    -3.705031,
+    51.478527,
+    -3.705031,
+    51.478527
+],
   "geometry": {"coordinates":[-3.705031,51.478527],"type":"Point"}
 }

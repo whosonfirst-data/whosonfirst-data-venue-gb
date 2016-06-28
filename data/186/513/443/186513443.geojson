@@ -2,13 +2,14 @@
   "id": 186513443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.36372,53.48201,-2.36372,53.48201",
     "geom:latitude":53.48201,
     "geom:longitude":-2.36372,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Florence Street, Winton Patricroft, Eccles",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186513443,
-    "wof:lastmodified":1449052140,
+    "wof:lastmodified":1466259477,
     "wof:name":"Able Painting & Decorating",
     "wof:parent_id":85789751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painter"
     ]
 },
-  "bbox": [-2.36372,53.48201,-2.36372,53.48201],
+  "bbox": [
+    -2.36372,
+    53.48201,
+    -2.36372,
+    53.48201
+],
   "geometry": {"coordinates":[-2.36372,53.48201],"type":"Point"}
 }

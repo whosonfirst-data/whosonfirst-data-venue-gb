@@ -2,13 +2,14 @@
   "id": 118965647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.768548,51.48172,-2.768548,51.48172",
     "geom:latitude":51.48172,
     "geom:longitude":-2.768548,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"114 High Street, Portishead",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118965647,
-    "wof:lastmodified":1449054122,
+    "wof:lastmodified":1466282059,
     "wof:name":"Portishead Post Office",
     "wof:parent_id":85785419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.768548,51.48172,-2.768548,51.48172],
+  "bbox": [
+    -2.768548,
+    51.48172,
+    -2.768548,
+    51.48172
+],
   "geometry": {"coordinates":[-2.768548,51.48172],"type":"Point"}
 }

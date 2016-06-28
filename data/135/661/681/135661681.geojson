@@ -2,13 +2,14 @@
   "id": 135661681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.247739,55.829189,-4.247739,55.829189",
     "geom:latitude":55.829189,
     "geom:longitude":-4.247739,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"871 Aikenhead Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135661681,
-    "wof:lastmodified":1449023681,
+    "wof:lastmodified":1466285150,
     "wof:name":"Kings Park Service Station",
     "wof:parent_id":85789891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.247739,55.829189,-4.247739,55.829189],
+  "bbox": [
+    -4.247739,
+    55.829189,
+    -4.247739,
+    55.829189
+],
   "geometry": {"coordinates":[-4.247739,55.829189],"type":"Point"}
 }

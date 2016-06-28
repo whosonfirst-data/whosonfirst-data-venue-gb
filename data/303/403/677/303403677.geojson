@@ -2,13 +2,14 @@
   "id": 303403677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.088562,51.008682,-0.088562,51.008682",
     "geom:latitude":51.008682,
     "geom:longitude":-0.088562,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Blackthorns Close, Lindfield",
     "sg:city":"Haywards Heath",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303403677,
-    "wof:lastmodified":1449000217,
+    "wof:lastmodified":1466275004,
     "wof:name":"Blackthorns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "care"
     ]
 },
-  "bbox": [-0.088562,51.008682,-0.088562,51.008682],
+  "bbox": [
+    -0.088562,
+    51.008682,
+    -0.088562,
+    51.008682
+],
   "geometry": {"coordinates":[-0.088562,51.008682],"type":"Point"}
 }

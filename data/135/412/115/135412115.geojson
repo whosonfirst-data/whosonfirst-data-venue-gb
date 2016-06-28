@@ -2,13 +2,14 @@
   "id": 135412115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.856599,51.641495,-3.856599,51.641495",
     "geom:latitude":51.641495,
     "geom:longitude":-3.856599,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Keepers Cottage, Llandarcy",
     "sg:city":"Neath",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135412115,
-    "wof:lastmodified":1449021591,
+    "wof:lastmodified":1466264093,
     "wof:name":"Community Development Foundation",
     "wof:parent_id":85684117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.856599,51.641495,-3.856599,51.641495],
+  "bbox": [
+    -3.856599,
+    51.641495,
+    -3.856599,
+    51.641495
+],
   "geometry": {"coordinates":[-3.856599,51.641495],"type":"Point"}
 }

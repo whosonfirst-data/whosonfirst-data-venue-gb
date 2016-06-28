@@ -2,13 +2,14 @@
   "id": 320575469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.03345,52.5779,-2.03345,52.5779",
     "geom:latitude":52.5779,
     "geom:longitude":-2.03345,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Willenhall Rd",
     "sg:city":"Wednesbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320575469,
-    "wof:lastmodified":1449012346,
+    "wof:lastmodified":1466282547,
     "wof:name":"Griffiths Wire",
     "wof:parent_id":85785623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [-2.03345,52.5779,-2.03345,52.5779],
+  "bbox": [
+    -2.03345,
+    52.5779,
+    -2.03345,
+    52.5779
+],
   "geometry": {"coordinates":[-2.03345,52.5779],"type":"Point"}
 }

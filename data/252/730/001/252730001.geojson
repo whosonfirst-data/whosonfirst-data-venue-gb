@@ -2,13 +2,14 @@
   "id": 252730001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.099348,52.965378,-2.099348,52.965378",
     "geom:latitude":52.965378,
     "geom:longitude":-2.099348,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Taragon Dr",
     "sg:city":"Stoke On Trent",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252730001,
-    "wof:lastmodified":1449006346,
+    "wof:lastmodified":1466257492,
     "wof:name":"City Skips",
     "wof:parent_id":85789057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hire"
     ]
 },
-  "bbox": [-2.099348,52.965378,-2.099348,52.965378],
+  "bbox": [
+    -2.099348,
+    52.965378,
+    -2.099348,
+    52.965378
+],
   "geometry": {"coordinates":[-2.099348,52.965378],"type":"Point"}
 }

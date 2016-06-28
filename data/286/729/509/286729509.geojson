@@ -2,13 +2,14 @@
   "id": 286729509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.269044,52.911976,-1.269044,52.911976",
     "geom:latitude":52.911976,
     "geom:longitude":-1.269044,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Epsom Road, Beeston",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286729509,
-    "wof:lastmodified":1449016672,
+    "wof:lastmodified":1466276893,
     "wof:name":"M Powe Chiropodist",
     "wof:parent_id":85791095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "chiropodist"
     ]
 },
-  "bbox": [-1.269044,52.911976,-1.269044,52.911976],
+  "bbox": [
+    -1.269044,
+    52.911976,
+    -1.269044,
+    52.911976
+],
   "geometry": {"coordinates":[-1.269044,52.911976],"type":"Point"}
 }

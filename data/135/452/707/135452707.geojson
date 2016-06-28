@@ -2,13 +2,14 @@
   "id": 135452707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.339398,52.509476,-3.339398,52.509476",
     "geom:latitude":52.509476,
     "geom:longitude":-3.339398,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Lon Glanyrafon",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135452707,
-    "wof:lastmodified":1449021692,
+    "wof:lastmodified":1466268964,
     "wof:name":"A 1 Driving",
     "wof:parent_id":85683965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.339398,52.509476,-3.339398,52.509476],
+  "bbox": [
+    -3.339398,
+    52.509476,
+    -3.339398,
+    52.509476
+],
   "geometry": {"coordinates":[-3.339398,52.509476],"type":"Point"}
 }

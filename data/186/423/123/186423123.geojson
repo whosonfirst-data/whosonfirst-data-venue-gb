@@ -2,13 +2,14 @@
   "id": 186423123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.583898,53.688526,-1.583898,53.688526",
     "geom:latitude":53.688526,
     "geom:longitude":-1.583898,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Church Street",
     "sg:city":"Ossett",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186423123,
-    "wof:lastmodified":1449050855,
+    "wof:lastmodified":1466257989,
     "wof:name":"Streetside Post Office",
     "wof:parent_id":85786559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.583898,53.688526,-1.583898,53.688526],
+  "bbox": [
+    -1.583898,
+    53.688526,
+    -1.583898,
+    53.688526
+],
   "geometry": {"coordinates":[-1.583898,53.688526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236313221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.114995,55.953274,-3.114995,55.953274",
     "geom:latitude":55.953274,
     "geom:longitude":-3.114995,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Portobello High St",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236313221,
-    "wof:lastmodified":1449001752,
+    "wof:lastmodified":1466262501,
     "wof:name":"Portobello Post Office",
     "wof:parent_id":85789915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.114995,55.953274,-3.114995,55.953274],
+  "bbox": [
+    -3.114995,
+    55.953274,
+    -3.114995,
+    55.953274
+],
   "geometry": {"coordinates":[-3.114995,55.953274],"type":"Point"}
 }

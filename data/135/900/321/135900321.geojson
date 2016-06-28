@@ -2,13 +2,14 @@
   "id": 135900321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.310025,51.442631,0.310025,51.442631",
     "geom:latitude":51.442631,
     "geom:longitude":0.310025,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Swanscombe Street",
     "sg:city":"Swanscombe",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135900321,
-    "wof:lastmodified":1449022307,
+    "wof:lastmodified":1466288102,
     "wof:name":"Swanscombe Clinic",
     "wof:parent_id":85860079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.310025,51.442631,0.310025,51.442631],
+  "bbox": [
+    0.310025,
+    51.442631,
+    0.310025,
+    51.442631
+],
   "geometry": {"coordinates":[0.310025,51.442631],"type":"Point"}
 }

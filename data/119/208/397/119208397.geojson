@@ -2,13 +2,14 @@
   "id": 119208397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.499499,51.500565,-2.499499,51.500565",
     "geom:latitude":51.500565,
     "geom:longitude":-2.499499,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Baugh Gardens",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119208397,
-    "wof:lastmodified":1449041155,
+    "wof:lastmodified":1466270214,
     "wof:name":"Good News",
     "wof:parent_id":85787069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.499499,51.500565,-2.499499,51.500565],
+  "bbox": [
+    -2.499499,
+    51.500565,
+    -2.499499,
+    51.500565
+],
   "geometry": {"coordinates":[-2.499499,51.500565],"type":"Point"}
 }

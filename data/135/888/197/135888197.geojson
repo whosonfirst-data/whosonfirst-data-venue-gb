@@ -2,13 +2,14 @@
   "id": 135888197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.338015,52.135567,-2.338015,52.135567",
     "geom:latitude":52.135567,
     "geom:longitude":-2.338015,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Sandpiper Crescent",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135888197,
-    "wof:lastmodified":1449022908,
+    "wof:lastmodified":1466288017,
     "wof:name":"Wyche Way Country Walks",
     "wof:parent_id":85684259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.338015,52.135567,-2.338015,52.135567],
+  "bbox": [
+    -2.338015,
+    52.135567,
+    -2.338015,
+    52.135567
+],
   "geometry": {"coordinates":[-2.338015,52.135567],"type":"Point"}
 }

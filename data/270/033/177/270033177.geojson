@@ -2,13 +2,14 @@
   "id": 270033177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.111649,55.85088,-4.111649,55.85088",
     "geom:latitude":55.85088,
     "geom:longitude":-4.111649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Buchanan Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270033177,
-    "wof:lastmodified":1449009136,
+    "wof:lastmodified":1466261463,
     "wof:name":"Baillieston Motor Engineers",
     "wof:parent_id":85785445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-4.111649,55.85088,-4.111649,55.85088],
+  "bbox": [
+    -4.111649,
+    55.85088,
+    -4.111649,
+    55.85088
+],
   "geometry": {"coordinates":[-4.111649,55.85088],"type":"Point"}
 }

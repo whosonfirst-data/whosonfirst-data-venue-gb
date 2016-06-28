@@ -2,13 +2,14 @@
   "id": 286292729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.870347,52.469681,-1.870347,52.469681",
     "geom:latitude":52.469681,
     "geom:longitude":-1.870347,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Bolton Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":286292729,
-    "wof:lastmodified":1449015430,
+    "wof:lastmodified":1466263305,
     "wof:name":"T H Bolton Road News",
     "wof:parent_id":85786199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.870347,52.469681,-1.870347,52.469681],
+  "bbox": [
+    -1.870347,
+    52.469681,
+    -1.870347,
+    52.469681
+],
   "geometry": {"coordinates":[-1.870347,52.469681],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135329447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.541089,53.99255,-1.541089,53.99255",
     "geom:latitude":53.99255,
     "geom:longitude":-1.541089,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 James Street",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135329447,
-    "wof:lastmodified":1449021850,
+    "wof:lastmodified":1466254784,
     "wof:name":"Ernest Jones",
     "wof:parent_id":85790715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.541089,53.99255,-1.541089,53.99255],
+  "bbox": [
+    -1.541089,
+    53.99255,
+    -1.541089,
+    53.99255
+],
   "geometry": {"coordinates":[-1.541089,53.99255],"type":"Point"}
 }

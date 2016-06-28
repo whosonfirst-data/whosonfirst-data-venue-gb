@@ -2,13 +2,14 @@
   "id": 118702549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.544008,53.853371,-1.544008,53.853371",
     "geom:latitude":53.853371,
     "geom:longitude":-1.544008,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Wentworth Ave, Alwoodley Pk",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118702549,
-    "wof:lastmodified":1449053842,
+    "wof:lastmodified":1466265491,
     "wof:name":"Pickles,D,",
     "wof:parent_id":85785301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.544008,53.853371,-1.544008,53.853371],
+  "bbox": [
+    -1.544008,
+    53.853371,
+    -1.544008,
+    53.853371
+],
   "geometry": {"coordinates":[-1.544008,53.853371],"type":"Point"}
 }

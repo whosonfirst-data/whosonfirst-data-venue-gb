@@ -2,13 +2,14 @@
   "id": 119502321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.595318,51.475918,-2.595318,51.475918",
     "geom:latitude":51.475918,
     "geom:longitude":-2.595318,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Rodway Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119502321,
-    "wof:lastmodified":1449042040,
+    "wof:lastmodified":1466287141,
     "wof:name":"Bob's Wedding Cars",
     "wof:parent_id":85785747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.595318,51.475918,-2.595318,51.475918],
+  "bbox": [
+    -2.595318,
+    51.475918,
+    -2.595318,
+    51.475918
+],
   "geometry": {"coordinates":[-2.595318,51.475918],"type":"Point"}
 }

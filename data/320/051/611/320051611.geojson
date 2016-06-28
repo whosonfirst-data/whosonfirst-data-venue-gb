@@ -2,13 +2,14 @@
   "id": 320051611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.149712,53.457436,-2.149712,53.457436",
     "geom:latitude":53.457436,
     "geom:longitude":-2.149712,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"663 Manchester Road, Denton",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320051611,
-    "wof:lastmodified":1449013564,
+    "wof:lastmodified":1466269633,
     "wof:name":"Brian's Barber Shop",
     "wof:parent_id":85785179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.149712,53.457436,-2.149712,53.457436],
+  "bbox": [
+    -2.149712,
+    53.457436,
+    -2.149712,
+    53.457436
+],
   "geometry": {"coordinates":[-2.149712,53.457436],"type":"Point"}
 }

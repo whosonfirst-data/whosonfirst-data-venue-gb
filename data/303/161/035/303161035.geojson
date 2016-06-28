@@ -2,13 +2,14 @@
   "id": 303161035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.265683,51.928772,-0.265683,51.928772",
     "geom:latitude":51.928772,
     "geom:longitude":-0.265683,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Waterdell Lane, St Ippolyts",
     "sg:city":"Hitchin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303161035,
-    "wof:lastmodified":1448999089,
+    "wof:lastmodified":1466267522,
     "wof:name":"Waterdell Cattery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "catteries"
     ]
 },
-  "bbox": [-0.265683,51.928772,-0.265683,51.928772],
+  "bbox": [
+    -0.265683,
+    51.928772,
+    -0.265683,
+    51.928772
+],
   "geometry": {"coordinates":[-0.265683,51.928772],"type":"Point"}
 }

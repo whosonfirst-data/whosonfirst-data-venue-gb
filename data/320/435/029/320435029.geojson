@@ -2,13 +2,14 @@
   "id": 320435029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.25448,55.857449,-4.25448,55.857449",
     "geom:latitude":55.857449,
     "geom:longitude":-4.25448,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Enoch Centre, 55 St Enoch Sq",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320435029,
-    "wof:lastmodified":1449014619,
+    "wof:lastmodified":1466280198,
     "wof:name":"Murray Bros",
     "wof:parent_id":85861547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-4.25448,55.857449,-4.25448,55.857449],
+  "bbox": [
+    -4.25448,
+    55.857449,
+    -4.25448,
+    55.857449
+],
   "geometry": {"coordinates":[-4.25448,55.857449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135465523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.29533,50.685192,-1.29533,50.685192",
     "geom:latitude":50.685192,
     "geom:longitude":-1.29533,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Watergate House, 112 Watergate Road",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135465523,
-    "wof:lastmodified":1449023033,
+    "wof:lastmodified":1466270584,
     "wof:name":"L F I X Ltd.",
     "wof:parent_id":101852311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.29533,50.685192,-1.29533,50.685192],
+  "bbox": [
+    -1.29533,
+    50.685192,
+    -1.29533,
+    50.685192
+],
   "geometry": {"coordinates":[-1.29533,50.685192],"type":"Point"}
 }

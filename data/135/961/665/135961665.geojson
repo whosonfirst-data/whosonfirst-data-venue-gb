@@ -2,13 +2,14 @@
   "id": 135961665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.750339,54.666096,-2.750339,54.666096",
     "geom:latitude":54.666096,
     "geom:longitude":-2.750339,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Royston House, 5 Sandgate",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":135961665,
-    "wof:lastmodified":1449023923,
+    "wof:lastmodified":1466288423,
     "wof:name":"Eden Taxis",
     "wof:parent_id":101873419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.750339,54.666096,-2.750339,54.666096],
+  "bbox": [
+    -2.750339,
+    54.666096,
+    -2.750339,
+    54.666096
+],
   "geometry": {"coordinates":[-2.750339,54.666096],"type":"Point"}
 }

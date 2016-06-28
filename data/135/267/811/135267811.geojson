@@ -2,13 +2,14 @@
   "id": 135267811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.404177,51.187134,-2.404177,51.187134",
     "geom:latitude":51.187134,
     "geom:longitude":-2.404177,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Long Lane Piggeries, Cloford",
     "sg:city":"Frome",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135267811,
-    "wof:lastmodified":1449023728,
+    "wof:lastmodified":1466256528,
     "wof:name":"Cloford Pigs",
     "wof:parent_id":85684013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.404177,51.187134,-2.404177,51.187134],
+  "bbox": [
+    -2.404177,
+    51.187134,
+    -2.404177,
+    51.187134
+],
   "geometry": {"coordinates":[-2.404177,51.187134],"type":"Point"}
 }

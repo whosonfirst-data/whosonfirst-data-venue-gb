@@ -2,13 +2,14 @@
   "id": 320264691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.133411,52.980587,-1.133411,52.980587",
     "geom:latitude":52.980587,
     "geom:longitude":-1.133411,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Mapperley Crescent",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320264691,
-    "wof:lastmodified":1449013691,
+    "wof:lastmodified":1466275988,
     "wof:name":"Geoffrey Steel",
     "wof:parent_id":85861941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.133411,52.980587,-1.133411,52.980587],
+  "bbox": [
+    -1.133411,
+    52.980587,
+    -1.133411,
+    52.980587
+],
   "geometry": {"coordinates":[-1.133411,52.980587],"type":"Point"}
 }

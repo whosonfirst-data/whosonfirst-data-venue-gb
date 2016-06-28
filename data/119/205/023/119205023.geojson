@@ -2,13 +2,14 @@
   "id": 119205023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.749646,55.049793,-1.749646,55.049793",
     "geom:latitude":55.049793,
     "geom:longitude":-1.749646,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Mill House, West Road, Ponteland",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119205023,
-    "wof:lastmodified":1449042456,
+    "wof:lastmodified":1466269805,
     "wof:name":"Kendall Cross Holdings Ltd",
     "wof:parent_id":85683821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.749646,55.049793,-1.749646,55.049793],
+  "bbox": [
+    -1.749646,
+    55.049793,
+    -1.749646,
+    55.049793
+],
   "geometry": {"coordinates":[-1.749646,55.049793],"type":"Point"}
 }

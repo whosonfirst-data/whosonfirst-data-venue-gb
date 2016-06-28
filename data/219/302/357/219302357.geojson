@@ -2,13 +2,14 @@
   "id": 219302357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.049148,53.817909,-3.049148,53.817909",
     "geom:latitude":53.817909,
     "geom:longitude":-3.049148,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"127-129 Church Street",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":219302357,
-    "wof:lastmodified":1449071594,
+    "wof:lastmodified":1466255340,
     "wof:name":"Carewatch",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "provider"
     ]
 },
-  "bbox": [-3.049148,53.817909,-3.049148,53.817909],
+  "bbox": [
+    -3.049148,
+    53.817909,
+    -3.049148,
+    53.817909
+],
   "geometry": {"coordinates":[-3.049148,53.817909],"type":"Point"}
 }

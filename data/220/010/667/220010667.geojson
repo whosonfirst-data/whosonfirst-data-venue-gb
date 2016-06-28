@@ -2,13 +2,14 @@
   "id": 220010667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.348265,53.808456,-2.348265,53.808456",
     "geom:latitude":53.808456,
     "geom:longitude":-2.348265,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Woodside Rd, Simonstone",
     "sg:city":"Burnley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220010667,
-    "wof:lastmodified":1449074538,
+    "wof:lastmodified":1466253127,
     "wof:name":"3d Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [-2.348265,53.808456,-2.348265,53.808456],
+  "bbox": [
+    -2.348265,
+    53.808456,
+    -2.348265,
+    53.808456
+],
   "geometry": {"coordinates":[-2.348265,53.808456],"type":"Point"}
 }

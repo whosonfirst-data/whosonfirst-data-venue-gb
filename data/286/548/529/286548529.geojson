@@ -2,13 +2,14 @@
   "id": 286548529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.55412,51.456924,-2.55412,51.456924",
     "geom:latitude":51.456924,
     "geom:longitude":-2.55412,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Netham Road, St George",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286548529,
-    "wof:lastmodified":1449017219,
+    "wof:lastmodified":1466271062,
     "wof:name":"Rank Engineering",
     "wof:parent_id":85790029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "erectors"
     ]
 },
-  "bbox": [-2.55412,51.456924,-2.55412,51.456924],
+  "bbox": [
+    -2.55412,
+    51.456924,
+    -2.55412,
+    51.456924
+],
   "geometry": {"coordinates":[-2.55412,51.456924],"type":"Point"}
 }

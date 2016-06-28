@@ -2,13 +2,14 @@
   "id": 219280117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.924956,52.301281,-1.924956,52.301281",
     "geom:latitude":52.301281,
     "geom:longitude":-1.924956,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Studley Road",
     "sg:city":"Redditch",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219280117,
-    "wof:lastmodified":1449072119,
+    "wof:lastmodified":1466254937,
     "wof:name":"Nick Styler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"
     ]
 },
-  "bbox": [-1.924956,52.301281,-1.924956,52.301281],
+  "bbox": [
+    -1.924956,
+    52.301281,
+    -1.924956,
+    52.301281
+],
   "geometry": {"coordinates":[-1.924956,52.301281],"type":"Point"}
 }

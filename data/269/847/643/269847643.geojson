@@ -2,13 +2,14 @@
   "id": 269847643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.128982,52.430904,-2.128982,52.430904",
     "geom:latitude":52.430904,
     "geom:longitude":-2.128982,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Stourbridge Road, Hagley",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":269847643,
-    "wof:lastmodified":1449037014,
+    "wof:lastmodified":1466271050,
     "wof:name":"Chandos Lodge",
     "wof:parent_id":85791739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-2.128982,52.430904,-2.128982,52.430904],
+  "bbox": [
+    -2.128982,
+    52.430904,
+    -2.128982,
+    52.430904
+],
   "geometry": {"coordinates":[-2.128982,52.430904],"type":"Point"}
 }

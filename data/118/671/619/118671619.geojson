@@ -2,13 +2,14 @@
   "id": 118671619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.209096,51.770245,-3.209096,51.770245",
     "geom:latitude":51.770245,
     "geom:longitude":-3.209096,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Angel Square",
     "sg:city":"Ebbw Vale",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118671619,
-    "wof:lastmodified":1449053463,
+    "wof:lastmodified":1466263191,
     "wof:name":"Angel Inn",
     "wof:parent_id":101875459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.209096,51.770245,-3.209096,51.770245],
+  "bbox": [
+    -3.209096,
+    51.770245,
+    -3.209096,
+    51.770245
+],
   "geometry": {"coordinates":[-3.209096,51.770245],"type":"Point"}
 }

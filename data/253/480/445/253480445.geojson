@@ -2,13 +2,14 @@
   "id": 253480445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.170289,60.144829,-1.170289,60.144829",
     "geom:latitude":60.144829,
     "geom:longitude":-1.170289,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Sandveien, Lerwick",
     "sg:city":"Shetland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253480445,
-    "wof:lastmodified":1449063790,
+    "wof:lastmodified":1466267516,
     "wof:name":"Kings Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "private"
     ]
 },
-  "bbox": [-1.170289,60.144829,-1.170289,60.144829],
+  "bbox": [
+    -1.170289,
+    60.144829,
+    -1.170289,
+    60.144829
+],
   "geometry": {"coordinates":[-1.170289,60.144829],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336903113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.712282,56.004711,-4.712282,56.004711",
     "geom:latitude":56.004711,
     "geom:longitude":-4.712282,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Stuckleckie Road",
     "sg:city":"Helensburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336903113,
-    "wof:lastmodified":1448996990,
+    "wof:lastmodified":1466280303,
     "wof:name":"Beacon Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "charity"
     ]
 },
-  "bbox": [-4.712282,56.004711,-4.712282,56.004711],
+  "bbox": [
+    -4.712282,
+    56.004711,
+    -4.712282,
+    56.004711
+],
   "geometry": {"coordinates":[-4.712282,56.004711],"type":"Point"}
 }

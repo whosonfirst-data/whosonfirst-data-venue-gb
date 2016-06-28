@@ -2,13 +2,14 @@
   "id": 303442075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.357799,51.384888,-2.357799,51.384888",
     "geom:latitude":51.384888,
     "geom:longitude":-2.357799,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17a Grove St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303442075,
-    "wof:lastmodified":1448999192,
+    "wof:lastmodified":1466276166,
     "wof:name":"Yorkies Car Park",
     "wof:parent_id":85785531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "park"
     ]
 },
-  "bbox": [-2.357799,51.384888,-2.357799,51.384888],
+  "bbox": [
+    -2.357799,
+    51.384888,
+    -2.357799,
+    51.384888
+],
   "geometry": {"coordinates":[-2.357799,51.384888],"type":"Point"}
 }

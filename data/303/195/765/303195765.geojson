@@ -2,13 +2,14 @@
   "id": 303195765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.139989,53.474949,-2.139989,53.474949",
     "geom:latitude":53.474949,
     "geom:longitude":-2.139989,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Manchester Road, Audenshaw",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":303195765,
-    "wof:lastmodified":1448999726,
+    "wof:lastmodified":1466268625,
     "wof:name":"Brooks Ltd.",
     "wof:parent_id":85787085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "engineer"
     ]
 },
-  "bbox": [-2.139989,53.474949,-2.139989,53.474949],
+  "bbox": [
+    -2.139989,
+    53.474949,
+    -2.139989,
+    53.474949
+],
   "geometry": {"coordinates":[-2.139989,53.474949],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202944139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.22915,52.98238,-1.22915,52.98238",
     "geom:latitude":52.98238,
     "geom:longitude":-1.22915,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Whetstone Cl",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202944139,
-    "wof:lastmodified":1449061386,
+    "wof:lastmodified":1466261417,
     "wof:name":"Nottingham Mortgage Centre",
     "wof:parent_id":85861887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-1.22915,52.98238,-1.22915,52.98238],
+  "bbox": [
+    -1.22915,
+    52.98238,
+    -1.22915,
+    52.98238
+],
   "geometry": {"coordinates":[-1.22915,52.98238],"type":"Point"}
 }

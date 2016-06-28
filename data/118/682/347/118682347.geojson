@@ -2,13 +2,14 @@
   "id": 118682347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.217603,55.814587,-4.217603,55.814587",
     "geom:latitude":55.814587,
     "geom:longitude":-4.217603,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Croftfoot Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":118682347,
-    "wof:lastmodified":1449053382,
+    "wof:lastmodified":1466263990,
     "wof:name":"Kirkriggs Special School",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.217603,55.814587,-4.217603,55.814587],
+  "bbox": [
+    -4.217603,
+    55.814587,
+    -4.217603,
+    55.814587
+],
   "geometry": {"coordinates":[-4.217603,55.814587],"type":"Point"}
 }

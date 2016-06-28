@@ -2,13 +2,14 @@
   "id": 135447351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.454416,55.005394,-1.454416,55.005394",
     "geom:latitude":55.005394,
     "geom:longitude":-1.454416,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Victoria St",
     "sg:city":"North Shields",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135447351,
-    "wof:lastmodified":1449023129,
+    "wof:lastmodified":1466268325,
     "wof:name":"Electromech",
     "wof:parent_id":85792733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.454416,55.005394,-1.454416,55.005394],
+  "bbox": [
+    -1.454416,
+    55.005394,
+    -1.454416,
+    55.005394
+],
   "geometry": {"coordinates":[-1.454416,55.005394],"type":"Point"}
 }

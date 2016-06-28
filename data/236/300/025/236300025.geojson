@@ -2,13 +2,14 @@
   "id": 236300025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.134994,53.538059,-2.134994,53.538059",
     "geom:latitude":53.538059,
     "geom:longitude":-2.134994,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Edward Street",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236300025,
-    "wof:lastmodified":1449003522,
+    "wof:lastmodified":1466262261,
     "wof:name":"Hall Rewinds",
     "wof:parent_id":85793081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electric"
     ]
 },
-  "bbox": [-2.134994,53.538059,-2.134994,53.538059],
+  "bbox": [
+    -2.134994,
+    53.538059,
+    -2.134994,
+    53.538059
+],
   "geometry": {"coordinates":[-2.134994,53.538059],"type":"Point"}
 }

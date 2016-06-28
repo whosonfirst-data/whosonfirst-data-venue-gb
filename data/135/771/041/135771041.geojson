@@ -2,13 +2,14 @@
   "id": 135771041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.24337,53.083862,-1.24337,53.083862",
     "geom:latitude":53.083862,
     "geom:longitude":-1.24337,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Lindsay Avenue",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135771041,
-    "wof:lastmodified":1449022646,
+    "wof:lastmodified":1466287049,
     "wof:name":"Ann Scott",
     "wof:parent_id":85683849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.24337,53.083862,-1.24337,53.083862],
+  "bbox": [
+    -1.24337,
+    53.083862,
+    -1.24337,
+    53.083862
+],
   "geometry": {"coordinates":[-1.24337,53.083862],"type":"Point"}
 }

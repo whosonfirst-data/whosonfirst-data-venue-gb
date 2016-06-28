@@ -2,13 +2,14 @@
   "id": 253657901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.273066,55.868534,-4.273066,55.868534",
     "geom:latitude":55.868534,
     "geom:longitude":-4.273066,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Woodlands Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253657901,
-    "wof:lastmodified":1449063148,
+    "wof:lastmodified":1466272909,
     "wof:name":"Coffee & Co",
     "wof:parent_id":85792601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "take"
     ]
 },
-  "bbox": [-4.273066,55.868534,-4.273066,55.868534],
+  "bbox": [
+    -4.273066,
+    55.868534,
+    -4.273066,
+    55.868534
+],
   "geometry": {"coordinates":[-4.273066,55.868534],"type":"Point"}
 }

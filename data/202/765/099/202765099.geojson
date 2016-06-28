@@ -2,13 +2,14 @@
   "id": 202765099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.335928,56.069569,-4.335928,56.069569",
     "geom:latitude":56.069569,
     "geom:longitude":-4.335928,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Buchanan Street, Balfron",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202765099,
-    "wof:lastmodified":1449061577,
+    "wof:lastmodified":1466258539,
     "wof:name":"Lift Right Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "centre"
     ]
 },
-  "bbox": [-4.335928,56.069569,-4.335928,56.069569],
+  "bbox": [
+    -4.335928,
+    56.069569,
+    -4.335928,
+    56.069569
+],
   "geometry": {"coordinates":[-4.335928,56.069569],"type":"Point"}
 }

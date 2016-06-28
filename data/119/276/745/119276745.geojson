@@ -2,13 +2,14 @@
   "id": 119276745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.414486,55.839775,-4.414486,55.839775",
     "geom:latitude":55.839775,
     "geom:longitude":-4.414486,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Blackhall Street",
     "sg:city":"Paisley",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119276745,
-    "wof:lastmodified":1449040982,
+    "wof:lastmodified":1466277696,
     "wof:name":"Power Leak",
     "wof:parent_id":85792469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.414486,55.839775,-4.414486,55.839775],
+  "bbox": [
+    -4.414486,
+    55.839775,
+    -4.414486,
+    55.839775
+],
   "geometry": {"coordinates":[-4.414486,55.839775],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220122105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.387611,50.927578,-1.387611,50.927578",
     "geom:latitude":50.927578,
     "geom:longitude":-1.387611,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Portswood Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220122105,
-    "wof:lastmodified":1449074507,
+    "wof:lastmodified":1466255120,
     "wof:name":"Mainly Monograms",
     "wof:parent_id":85861259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "printer"
     ]
 },
-  "bbox": [-1.387611,50.927578,-1.387611,50.927578],
+  "bbox": [
+    -1.387611,
+    50.927578,
+    -1.387611,
+    50.927578
+],
   "geometry": {"coordinates":[-1.387611,50.927578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219157849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.200564,53.513966,-2.200564,53.513966",
     "geom:latitude":53.513966,
     "geom:longitude":-2.200564,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"293 Moston Lane",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219157849,
-    "wof:lastmodified":1449073410,
+    "wof:lastmodified":1466252795,
     "wof:name":"Moston Lane Post Office",
     "wof:parent_id":85789211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.200564,53.513966,-2.200564,53.513966],
+  "bbox": [
+    -2.200564,
+    53.513966,
+    -2.200564,
+    53.513966
+],
   "geometry": {"coordinates":[-2.200564,53.513966],"type":"Point"}
 }

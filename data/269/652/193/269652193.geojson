@@ -2,13 +2,14 @@
   "id": 269652193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.593985,51.453297,-2.593985,51.453297",
     "geom:latitude":51.453297,
     "geom:longitude":-2.593985,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Baldwin Street",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269652193,
-    "wof:lastmodified":1449037673,
+    "wof:lastmodified":1466265196,
     "wof:name":"Barneys Ltd.",
     "wof:parent_id":85861353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-2.593985,51.453297,-2.593985,51.453297],
+  "bbox": [
+    -2.593985,
+    51.453297,
+    -2.593985,
+    51.453297
+],
   "geometry": {"coordinates":[-2.593985,51.453297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202395747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.145394,51.898781,-1.145394,51.898781",
     "geom:latitude":51.898781,
     "geom:longitude":-1.145394,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Fallowfields",
     "sg:city":"Bicester",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202395747,
-    "wof:lastmodified":1449062286,
+    "wof:lastmodified":1466277952,
     "wof:name":"Bicester Courier Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "courier"
     ]
 },
-  "bbox": [-1.145394,51.898781,-1.145394,51.898781],
+  "bbox": [
+    -1.145394,
+    51.898781,
+    -1.145394,
+    51.898781
+],
   "geometry": {"coordinates":[-1.145394,51.898781],"type":"Point"}
 }

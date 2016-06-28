@@ -2,13 +2,14 @@
   "id": 202700021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.41453,54.908272,-1.41453,54.908272",
     "geom:latitude":54.908272,
     "geom:longitude":-1.41453,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 St Lukes Terrace",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202700021,
-    "wof:lastmodified":1449062431,
+    "wof:lastmodified":1466257450,
     "wof:name":"Mason Amusements",
     "wof:parent_id":85789711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arcade"
     ]
 },
-  "bbox": [-1.41453,54.908272,-1.41453,54.908272],
+  "bbox": [
+    -1.41453,
+    54.908272,
+    -1.41453,
+    54.908272
+],
   "geometry": {"coordinates":[-1.41453,54.908272],"type":"Point"}
 }

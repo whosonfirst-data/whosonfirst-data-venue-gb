@@ -2,13 +2,14 @@
   "id": 203127389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.122749,51.520351,-0.122749,51.520351",
     "geom:latitude":51.520351,
     "geom:longitude":-0.122749,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Stewart Ho, 32 Russell Sq",
     "sg:city":"Bloomsbury",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203127389,
-    "wof:lastmodified":1449026708,
+    "wof:lastmodified":1466254781,
     "wof:name":"London Exam Board",
     "wof:parent_id":85785843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "board"
     ]
 },
-  "bbox": [-0.122749,51.520351,-0.122749,51.520351],
+  "bbox": [
+    -0.122749,
+    51.520351,
+    -0.122749,
+    51.520351
+],
   "geometry": {"coordinates":[-0.122749,51.520351],"type":"Point"}
 }

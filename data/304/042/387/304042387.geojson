@@ -2,13 +2,14 @@
   "id": 304042387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.04245,53.389542,-3.04245,53.389542",
     "geom:latitude":53.389542,
     "geom:longitude":-3.04245,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Slatey Rd, Birkenhead",
     "sg:city":"Prenton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":304042387,
-    "wof:lastmodified":1449044021,
+    "wof:lastmodified":1466265553,
     "wof:name":"Energize",
     "wof:parent_id":85786671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sport"
     ]
 },
-  "bbox": [-3.04245,53.389542,-3.04245,53.389542],
+  "bbox": [
+    -3.04245,
+    53.389542,
+    -3.04245,
+    53.389542
+],
   "geometry": {"coordinates":[-3.04245,53.389542],"type":"Point"}
 }

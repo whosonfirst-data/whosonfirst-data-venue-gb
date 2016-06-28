@@ -2,13 +2,14 @@
   "id": 270063251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.10357,55.932949,-3.10357,55.932949",
     "geom:latitude":55.932949,
     "geom:longitude":-3.10357,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 Eastern Industrial Estate, Newcraighall Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270063251,
-    "wof:lastmodified":1449008863,
+    "wof:lastmodified":1466262377,
     "wof:name":"Semple Plc",
     "wof:parent_id":85861487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-3.10357,55.932949,-3.10357,55.932949],
+  "bbox": [
+    -3.10357,
+    55.932949,
+    -3.10357,
+    55.932949
+],
   "geometry": {"coordinates":[-3.10357,55.932949],"type":"Point"}
 }

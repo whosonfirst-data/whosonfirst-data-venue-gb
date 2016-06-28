@@ -2,13 +2,14 @@
   "id": 135888455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.336047,53.058735,-1.336047,53.058735",
     "geom:latitude":53.058735,
     "geom:longitude":-1.336047,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31a Main Road, Jacksdale",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135888455,
-    "wof:lastmodified":1449022908,
+    "wof:lastmodified":1466288027,
     "wof:name":"Beryl Woodhead",
     "wof:parent_id":85683849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.336047,53.058735,-1.336047,53.058735],
+  "bbox": [
+    -1.336047,
+    53.058735,
+    -1.336047,
+    53.058735
+],
   "geometry": {"coordinates":[-1.336047,53.058735],"type":"Point"}
 }

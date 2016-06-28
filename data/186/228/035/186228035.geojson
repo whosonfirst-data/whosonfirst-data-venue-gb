@@ -2,13 +2,14 @@
   "id": 186228035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.104058,52.585541,-1.104058,52.585541",
     "geom:latitude":52.585541,
     "geom:longitude":-1.104058,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Bell St",
     "sg:city":"Wigston",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186228035,
-    "wof:lastmodified":1449051219,
+    "wof:lastmodified":1466255109,
     "wof:name":"Oven Door The",
     "wof:parent_id":85861093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-1.104058,52.585541,-1.104058,52.585541],
+  "bbox": [
+    -1.104058,
+    52.585541,
+    -1.104058,
+    52.585541
+],
   "geometry": {"coordinates":[-1.104058,52.585541],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219208605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.47411,53.375435,-1.47411,53.375435",
     "geom:latitude":53.375435,
     "geom:longitude":-1.47411,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"113 The Moor",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219208605,
-    "wof:lastmodified":1449070803,
+    "wof:lastmodified":1466253721,
     "wof:name":"Dewhurst the Butchers",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "butcher"
     ]
 },
-  "bbox": [-1.47411,53.375435,-1.47411,53.375435],
+  "bbox": [
+    -1.47411,
+    53.375435,
+    -1.47411,
+    53.375435
+],
   "geometry": {"coordinates":[-1.47411,53.375435],"type":"Point"}
 }

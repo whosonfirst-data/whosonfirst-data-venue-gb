@@ -2,13 +2,14 @@
   "id": 135405511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.25845,55.894806,-4.25845,55.894806",
     "geom:latitude":55.894806,
     "geom:longitude":-4.25845,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Glentanar Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135405511,
-    "wof:lastmodified":1449023758,
+    "wof:lastmodified":1466263373,
     "wof:name":"Connelly Security Systems Ltd.",
     "wof:parent_id":85861545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.25845,55.894806,-4.25845,55.894806],
+  "bbox": [
+    -4.25845,
+    55.894806,
+    -4.25845,
+    55.894806
+],
   "geometry": {"coordinates":[-4.25845,55.894806],"type":"Point"}
 }

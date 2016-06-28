@@ -2,13 +2,14 @@
   "id": 119455031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.203365,55.936001,-3.203365,55.936001",
     "geom:latitude":55.936001,
     "geom:longitude":-3.203365,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Bruntsfield Crescent",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119455031,
-    "wof:lastmodified":1449043085,
+    "wof:lastmodified":1466286297,
     "wof:name":"Edinburgh Bruntsfield Youth Hostels",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.203365,55.936001,-3.203365,55.936001],
+  "bbox": [
+    -3.203365,
+    55.936001,
+    -3.203365,
+    55.936001
+],
   "geometry": {"coordinates":[-3.203365,55.936001],"type":"Point"}
 }

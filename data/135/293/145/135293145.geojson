@@ -2,13 +2,14 @@
   "id": 135293145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.334453,55.606483,-4.334453,55.606483",
     "geom:latitude":55.606483,
     "geom:longitude":-4.334453,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Loudoun Road",
     "sg:city":"Newmilns",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135293145,
-    "wof:lastmodified":1449021568,
+    "wof:lastmodified":1466276842,
     "wof:name":"Sally Turner",
     "wof:parent_id":101872409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.334453,55.606483,-4.334453,55.606483],
+  "bbox": [
+    -4.334453,
+    55.606483,
+    -4.334453,
+    55.606483
+],
   "geometry": {"coordinates":[-4.334453,55.606483],"type":"Point"}
 }

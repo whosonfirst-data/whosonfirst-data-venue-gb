@@ -2,13 +2,14 @@
   "id": 219575641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.407169,54.970016,-1.407169,54.970016",
     "geom:latitude":54.970016,
     "geom:longitude":-1.407169,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Lilac Avenue Cleadon Park",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219575641,
-    "wof:lastmodified":1449071428,
+    "wof:lastmodified":1466260033,
     "wof:name":"Highway Data Ltd",
     "wof:parent_id":85787997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "network"
     ]
 },
-  "bbox": [-1.407169,54.970016,-1.407169,54.970016],
+  "bbox": [
+    -1.407169,
+    54.970016,
+    -1.407169,
+    54.970016
+],
   "geometry": {"coordinates":[-1.407169,54.970016],"type":"Point"}
 }

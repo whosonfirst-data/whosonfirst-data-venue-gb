@@ -2,13 +2,14 @@
   "id": 336612283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.210703,53.060665,-2.210703,53.060665",
     "geom:latitude":53.060665,
     "geom:longitude":-2.210703,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"215 High St",
     "sg:city":"Stoke On Trent",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336612283,
-    "wof:lastmodified":1448997424,
+    "wof:lastmodified":1466273144,
     "wof:name":"Sovereign Travel Services",
     "wof:parent_id":85861037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-2.210703,53.060665,-2.210703,53.060665],
+  "bbox": [
+    -2.210703,
+    53.060665,
+    -2.210703,
+    53.060665
+],
   "geometry": {"coordinates":[-2.210703,53.060665],"type":"Point"}
 }

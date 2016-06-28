@@ -2,13 +2,14 @@
   "id": 219836319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.245082,55.806847,-4.245082,55.806847",
     "geom:latitude":55.806847,
     "geom:longitude":-4.245082,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Raithburn Av",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219836319,
-    "wof:lastmodified":1449072715,
+    "wof:lastmodified":1466264281,
     "wof:name":"Castle Home Care",
     "wof:parent_id":85792531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "care"
     ]
 },
-  "bbox": [-4.245082,55.806847,-4.245082,55.806847],
+  "bbox": [
+    -4.245082,
+    55.806847,
+    -4.245082,
+    55.806847
+],
   "geometry": {"coordinates":[-4.245082,55.806847],"type":"Point"}
 }

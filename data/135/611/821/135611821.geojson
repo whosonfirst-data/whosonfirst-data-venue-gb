@@ -2,13 +2,14 @@
   "id": 135611821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.546587,53.794495,-1.546587,53.794495",
     "geom:latitude":53.794495,
     "geom:longitude":-1.546587,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"City Square",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135611821,
-    "wof:lastmodified":1449023386,
+    "wof:lastmodified":1466283143,
     "wof:name":"Philatelic Bureau",
     "wof:parent_id":85792901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.546587,53.794495,-1.546587,53.794495],
+  "bbox": [
+    -1.546587,
+    53.794495,
+    -1.546587,
+    53.794495
+],
   "geometry": {"coordinates":[-1.546587,53.794495],"type":"Point"}
 }

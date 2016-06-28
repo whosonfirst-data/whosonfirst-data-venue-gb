@@ -2,13 +2,14 @@
   "id": 287001095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.247649,53.481411,-2.247649,53.481411",
     "geom:latitude":53.481411,
     "geom:longitude":-2.247649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Deansgate",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287001095,
-    "wof:lastmodified":1449000865,
+    "wof:lastmodified":1466262952,
     "wof:name":"Waterstone Booksellers",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookseller"
     ]
 },
-  "bbox": [-2.247649,53.481411,-2.247649,53.481411],
+  "bbox": [
+    -2.247649,
+    53.481411,
+    -2.247649,
+    53.481411
+],
   "geometry": {"coordinates":[-2.247649,53.481411],"type":"Point"}
 }

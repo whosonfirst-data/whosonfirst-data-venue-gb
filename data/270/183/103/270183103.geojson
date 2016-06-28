@@ -2,13 +2,14 @@
   "id": 270183103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.185681,53.007099,-2.185681,53.007099",
     "geom:latitude":53.007099,
     "geom:longitude":-2.185681,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1a Lovatt Street",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270183103,
-    "wof:lastmodified":1449009956,
+    "wof:lastmodified":1466265928,
     "wof:name":"Silverline",
     "wof:parent_id":85787299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "video"
     ]
 },
-  "bbox": [-2.185681,53.007099,-2.185681,53.007099],
+  "bbox": [
+    -2.185681,
+    53.007099,
+    -2.185681,
+    53.007099
+],
   "geometry": {"coordinates":[-2.185681,53.007099],"type":"Point"}
 }

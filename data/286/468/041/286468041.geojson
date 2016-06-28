@@ -2,13 +2,14 @@
   "id": 286468041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.445351,52.879478,-1.445351,52.879478",
     "geom:latitude":52.879478,
     "geom:longitude":-1.445351,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Chellaston Road",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":286468041,
-    "wof:lastmodified":1449017292,
+    "wof:lastmodified":1466268502,
     "wof:name":"Clova House Residential Home",
     "wof:parent_id":85790269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-1.445351,52.879478,-1.445351,52.879478],
+  "bbox": [
+    -1.445351,
+    52.879478,
+    -1.445351,
+    52.879478
+],
   "geometry": {"coordinates":[-1.445351,52.879478],"type":"Point"}
 }

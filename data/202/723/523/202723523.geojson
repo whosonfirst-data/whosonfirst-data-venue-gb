@@ -2,13 +2,14 @@
   "id": 202723523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.702582,53.538319,-2.702582,53.538319",
     "geom:latitude":53.538319,
     "geom:longitude":-2.702582,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Hawthorn Avenue, Orrell",
     "sg:city":"Wigan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202723523,
-    "wof:lastmodified":1449061601,
+    "wof:lastmodified":1466257804,
     "wof:name":"N & M Plastering & Tiling",
     "wof:parent_id":85789781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-2.702582,53.538319,-2.702582,53.538319],
+  "bbox": [
+    -2.702582,
+    53.538319,
+    -2.702582,
+    53.538319
+],
   "geometry": {"coordinates":[-2.702582,53.538319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135304187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.284081,50.766491,0.284081,50.766491",
     "geom:latitude":50.766491,
     "geom:longitude":0.284081,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111 South Street",
     "sg:city":"Eastbourne",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135304187,
-    "wof:lastmodified":1449023247,
+    "wof:lastmodified":1466277562,
     "wof:name":"Club South",
     "wof:parent_id":101750315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.284081,50.766491,0.284081,50.766491],
+  "bbox": [
+    0.284081,
+    50.766491,
+    0.284081,
+    50.766491
+],
   "geometry": {"coordinates":[0.284081,50.766491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118769783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.20801,57.525505,-3.20801,57.525505",
     "geom:latitude":57.525505,
     "geom:longitude":-3.20801,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 High Street, Rothes",
     "sg:city":"Aberlour",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118769783,
-    "wof:lastmodified":1449053608,
+    "wof:lastmodified":1466270511,
     "wof:name":"I Fraser & Sons",
     "wof:parent_id":101872709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.20801,57.525505,-3.20801,57.525505],
+  "bbox": [
+    -3.20801,
+    57.525505,
+    -3.20801,
+    57.525505
+],
   "geometry": {"coordinates":[-3.20801,57.525505],"type":"Point"}
 }

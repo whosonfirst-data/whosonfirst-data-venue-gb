@@ -2,13 +2,14 @@
   "id": 253690239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.14702,52.980186,-1.14702,52.980186",
     "geom:latitude":52.980186,
     "geom:longitude":-1.14702,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Mansfield Road, Sherwood",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253690239,
-    "wof:lastmodified":1449064386,
+    "wof:lastmodified":1466273932,
     "wof:name":"Wine Bank",
     "wof:parent_id":85790293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.14702,52.980186,-1.14702,52.980186],
+  "bbox": [
+    -1.14702,
+    52.980186,
+    -1.14702,
+    52.980186
+],
   "geometry": {"coordinates":[-1.14702,52.980186],"type":"Point"}
 }

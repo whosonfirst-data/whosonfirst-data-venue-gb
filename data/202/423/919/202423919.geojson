@@ -2,13 +2,14 @@
   "id": 202423919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.901219,52.480843,-1.901219,52.480843",
     "geom:latitude":52.480843,
     "geom:longitude":-1.901219,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Colmore Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202423919,
-    "wof:lastmodified":1449060521,
+    "wof:lastmodified":1466252971,
     "wof:name":"Eversheds",
     "wof:parent_id":85861281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-1.901219,52.480843,-1.901219,52.480843],
+  "bbox": [
+    -1.901219,
+    52.480843,
+    -1.901219,
+    52.480843
+],
   "geometry": {"coordinates":[-1.901219,52.480843],"type":"Point"}
 }

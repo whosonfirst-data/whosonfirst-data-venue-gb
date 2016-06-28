@@ -2,13 +2,14 @@
   "id": 219249035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.444996,53.359432,-1.444996,53.359432",
     "geom:latitude":53.359432,
     "geom:longitude":-1.444996,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Berners Road, Arbourthorne",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219249035,
-    "wof:lastmodified":1449070562,
+    "wof:lastmodified":1466254364,
     "wof:name":"James Bratton",
     "wof:parent_id":85793107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "painter"
     ]
 },
-  "bbox": [-1.444996,53.359432,-1.444996,53.359432],
+  "bbox": [
+    -1.444996,
+    53.359432,
+    -1.444996,
+    53.359432
+],
   "geometry": {"coordinates":[-1.444996,53.359432],"type":"Point"}
 }

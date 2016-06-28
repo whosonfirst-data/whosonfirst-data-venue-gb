@@ -2,13 +2,14 @@
   "id": 303887833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.818737,51.631783,-3.818737,51.631783",
     "geom:latitude":51.631783,
     "geom:longitude":-3.818737,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Neath Road",
     "sg:city":"Neath",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303887833,
-    "wof:lastmodified":1449000082,
+    "wof:lastmodified":1466284069,
     "wof:name":"Bob Gower Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-3.818737,51.631783,-3.818737,51.631783],
+  "bbox": [
+    -3.818737,
+    51.631783,
+    -3.818737,
+    51.631783
+],
   "geometry": {"coordinates":[-3.818737,51.631783],"type":"Point"}
 }

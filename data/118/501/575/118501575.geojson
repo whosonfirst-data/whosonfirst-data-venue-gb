@@ -2,13 +2,14 @@
   "id": 118501575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.935877,52.994904,-3.935877,52.994904",
     "geom:latitude":52.994904,
     "geom:longitude":-3.935877,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 High Street",
     "sg:city":"Blaenau Ffestiniog",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":118501575,
-    "wof:lastmodified":1449054553,
+    "wof:lastmodified":1466263056,
     "wof:name":"The Gainsborough",
     "wof:parent_id":101877099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.935877,52.994904,-3.935877,52.994904],
+  "bbox": [
+    -3.935877,
+    52.994904,
+    -3.935877,
+    52.994904
+],
   "geometry": {"coordinates":[-3.935877,52.994904],"type":"Point"}
 }

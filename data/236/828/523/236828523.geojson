@@ -2,13 +2,14 @@
   "id": 236828523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.231421,55.935009,-3.231421,55.935009",
     "geom:latitude":55.935009,
     "geom:longitude":-3.231421,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Slateford Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236828523,
-    "wof:lastmodified":1449003300,
+    "wof:lastmodified":1466272234,
     "wof:name":"Shandon Place Sub Post Office",
     "wof:parent_id":85787641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.231421,55.935009,-3.231421,55.935009],
+  "bbox": [
+    -3.231421,
+    55.935009,
+    -3.231421,
+    55.935009
+],
   "geometry": {"coordinates":[-3.231421,55.935009],"type":"Point"}
 }

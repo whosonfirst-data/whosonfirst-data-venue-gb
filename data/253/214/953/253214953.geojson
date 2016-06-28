@@ -2,13 +2,14 @@
   "id": 253214953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.127241,51.205318,-4.127241,51.205318",
     "geom:latitude":51.205318,
     "geom:longitude":-4.127241,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Cairnwood, St Brannocks Rd",
     "sg:city":"Ilfracombe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253214953,
-    "wof:lastmodified":1449065705,
+    "wof:lastmodified":1466261550,
     "wof:name":"Cairnwood Leisure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "catering"
     ]
 },
-  "bbox": [-4.127241,51.205318,-4.127241,51.205318],
+  "bbox": [
+    -4.127241,
+    51.205318,
+    -4.127241,
+    51.205318
+],
   "geometry": {"coordinates":[-4.127241,51.205318],"type":"Point"}
 }

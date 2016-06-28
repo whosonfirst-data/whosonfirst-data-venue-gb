@@ -2,13 +2,14 @@
   "id": 270389823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.913994,55.309254,-1.913994,55.309254",
     "geom:latitude":55.309254,
     "geom:longitude":-1.913994,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dr.thomlinson Middle School, Silverton Lane, Rothbury",
     "sg:city":"Morpeth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270389823,
-    "wof:lastmodified":1449010564,
+    "wof:lastmodified":1466272110,
     "wof:name":"Rothbury Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "swimming"
     ]
 },
-  "bbox": [-1.913994,55.309254,-1.913994,55.309254],
+  "bbox": [
+    -1.913994,
+    55.309254,
+    -1.913994,
+    55.309254
+],
   "geometry": {"coordinates":[-1.913994,55.309254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119335751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.361035,53.561569,-2.361035,53.561569",
     "geom:latitude":53.561569,
     "geom:longitude":-2.361035,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Manor Avenue, Little Lever",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119335751,
-    "wof:lastmodified":1449042642,
+    "wof:lastmodified":1466282255,
     "wof:name":"Fred Helm",
     "wof:parent_id":85785901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.361035,53.561569,-2.361035,53.561569],
+  "bbox": [
+    -2.361035,
+    53.561569,
+    -2.361035,
+    53.561569
+],
   "geometry": {"coordinates":[-2.361035,53.561569],"type":"Point"}
 }

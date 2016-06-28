@@ -2,13 +2,14 @@
   "id": 303609793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.228638,53.303173,-2.228638,53.303173",
     "geom:latitude":53.303173,
     "geom:longitude":-2.228638,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Moss Lane",
     "sg:city":"Alderley Edge",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303609793,
-    "wof:lastmodified":1448999027,
+    "wof:lastmodified":1466280077,
     "wof:name":"Electra-test",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-2.228638,53.303173,-2.228638,53.303173],
+  "bbox": [
+    -2.228638,
+    53.303173,
+    -2.228638,
+    53.303173
+],
   "geometry": {"coordinates":[-2.228638,53.303173],"type":"Point"}
 }

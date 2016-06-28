@@ -2,13 +2,14 @@
   "id": 135268279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.460863,55.038815,-1.460863,55.038815",
     "geom:latitude":55.038815,
     "geom:longitude":-1.460863,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Beverley Road, Monksheaton",
     "sg:city":"Whitley Bay",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135268279,
-    "wof:lastmodified":1449022728,
+    "wof:lastmodified":1466256791,
     "wof:name":"P Wilkes",
     "wof:parent_id":85788287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.460863,55.038815,-1.460863,55.038815],
+  "bbox": [
+    -1.460863,
+    55.038815,
+    -1.460863,
+    55.038815
+],
   "geometry": {"coordinates":[-1.460863,55.038815],"type":"Point"}
 }

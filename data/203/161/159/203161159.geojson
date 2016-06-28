@@ -2,13 +2,14 @@
   "id": 203161159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.52135,50.72747,-3.52135,50.72747",
     "geom:latitude":50.72747,
     "geom:longitude":-3.52135,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11-13 Verney Street",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203161159,
-    "wof:lastmodified":1449025662,
+    "wof:lastmodified":1466255313,
     "wof:name":"Shaul Bakeries Ltd.",
     "wof:parent_id":85790623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-3.52135,50.72747,-3.52135,50.72747],
+  "bbox": [
+    -3.52135,
+    50.72747,
+    -3.52135,
+    50.72747
+],
   "geometry": {"coordinates":[-3.52135,50.72747],"type":"Point"}
 }

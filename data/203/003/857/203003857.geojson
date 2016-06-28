@@ -2,13 +2,14 @@
   "id": 203003857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.471227,53.416325,-1.471227,53.416325",
     "geom:latitude":53.416325,
     "geom:longitude":-1.471227,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40-44 Southey Avenue",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203003857,
-    "wof:lastmodified":1449026722,
+    "wof:lastmodified":1466252725,
     "wof:name":"Sheffield Accommodation for Alcohol Rehabilitation",
     "wof:parent_id":85789265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "alcohol"
     ]
 },
-  "bbox": [-1.471227,53.416325,-1.471227,53.416325],
+  "bbox": [
+    -1.471227,
+    53.416325,
+    -1.471227,
+    53.416325
+],
   "geometry": {"coordinates":[-1.471227,53.416325],"type":"Point"}
 }

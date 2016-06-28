@@ -2,13 +2,14 @@
   "id": 135876727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.855392,55.243378,-4.855392,55.243378",
     "geom:latitude":55.243378,
     "geom:longitude":-4.855392,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Hamilton Street",
     "sg:city":"Girvan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135876727,
-    "wof:lastmodified":1449021586,
+    "wof:lastmodified":1466287985,
     "wof:name":"Alistair Lambert",
     "wof:parent_id":101873469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.855392,55.243378,-4.855392,55.243378],
+  "bbox": [
+    -4.855392,
+    55.243378,
+    -4.855392,
+    55.243378
+],
   "geometry": {"coordinates":[-4.855392,55.243378],"type":"Point"}
 }

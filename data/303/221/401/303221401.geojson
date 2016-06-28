@@ -2,13 +2,14 @@
   "id": 303221401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.700687,52.184433,-1.700687,52.184433",
     "geom:latitude":52.184433,
     "geom:longitude":-1.700687,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Shipston Rd",
     "sg:city":"Stratford-upon-avon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303221401,
-    "wof:lastmodified":1448999194,
+    "wof:lastmodified":1466269485,
     "wof:name":"James,Michael,",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.700687,52.184433,-1.700687,52.184433],
+  "bbox": [
+    -1.700687,
+    52.184433,
+    -1.700687,
+    52.184433
+],
   "geometry": {"coordinates":[-1.700687,52.184433],"type":"Point"}
 }

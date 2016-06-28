@@ -2,13 +2,14 @@
   "id": 220132801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.48498,52.378189,-2.48498,52.378189",
     "geom:latitude":52.378189,
     "geom:longitude":-2.48498,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"West End, High Street",
     "sg:city":"Kidderminster",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220132801,
-    "wof:lastmodified":1449074417,
+    "wof:lastmodified":1466255328,
     "wof:name":"Inspired Wines of Cleobury",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-2.48498,52.378189,-2.48498,52.378189],
+  "bbox": [
+    -2.48498,
+    52.378189,
+    -2.48498,
+    52.378189
+],
   "geometry": {"coordinates":[-2.48498,52.378189],"type":"Point"}
 }

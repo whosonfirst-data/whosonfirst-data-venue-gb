@@ -2,13 +2,14 @@
   "id": 169615865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.429011,53.563213,-2.429011,53.563213",
     "geom:latitude":53.563213,
     "geom:longitude":-2.429011,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Settle Street",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169615865,
-    "wof:lastmodified":1449033734,
+    "wof:lastmodified":1466275765,
     "wof:name":"S Nickson",
     "wof:parent_id":85792949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.429011,53.563213,-2.429011,53.563213],
+  "bbox": [
+    -2.429011,
+    53.563213,
+    -2.429011,
+    53.563213
+],
   "geometry": {"coordinates":[-2.429011,53.563213],"type":"Point"}
 }

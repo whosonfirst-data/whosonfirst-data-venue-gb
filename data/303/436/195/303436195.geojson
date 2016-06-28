@@ -2,13 +2,14 @@
   "id": 303436195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.240144,51.449989,-0.240144,51.449989",
     "geom:latitude":51.449989,
     "geom:longitude":-0.240144,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Roehampton High Street",
     "sg:city":"London",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303436195,
-    "wof:lastmodified":1449000332,
+    "wof:lastmodified":1466275967,
     "wof:name":"The Barber Pole",
     "wof:parent_id":85790077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-0.240144,51.449989,-0.240144,51.449989],
+  "bbox": [
+    -0.240144,
+    51.449989,
+    -0.240144,
+    51.449989
+],
   "geometry": {"coordinates":[-0.240144,51.449989],"type":"Point"}
 }

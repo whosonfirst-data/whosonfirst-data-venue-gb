@@ -2,13 +2,14 @@
   "id": 303327897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.573004,54.850559,-1.573004,54.850559",
     "geom:latitude":54.850559,
     "geom:longitude":-1.573004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Ivanhoe Terrace",
     "sg:city":"Chester-le-street",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303327897,
-    "wof:lastmodified":1448998306,
+    "wof:lastmodified":1466272693,
     "wof:name":"Pittilla Bell & Pearson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.573004,54.850559,-1.573004,54.850559],
+  "bbox": [
+    -1.573004,
+    54.850559,
+    -1.573004,
+    54.850559
+],
   "geometry": {"coordinates":[-1.573004,54.850559],"type":"Point"}
 }

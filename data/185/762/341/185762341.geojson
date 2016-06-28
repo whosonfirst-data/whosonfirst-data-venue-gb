@@ -2,13 +2,14 @@
   "id": 185762341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.04223,52.493309,-2.04223,52.493309",
     "geom:latitude":52.493309,
     "geom:longitude":-2.04223,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Port Way Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185762341,
-    "wof:lastmodified":1449007741,
+    "wof:lastmodified":1466254160,
     "wof:name":"Bridal Designs",
     "wof:parent_id":85789589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wedding"
     ]
 },
-  "bbox": [-2.04223,52.493309,-2.04223,52.493309],
+  "bbox": [
+    -2.04223,
+    52.493309,
+    -2.04223,
+    52.493309
+],
   "geometry": {"coordinates":[-2.04223,52.493309],"type":"Point"}
 }

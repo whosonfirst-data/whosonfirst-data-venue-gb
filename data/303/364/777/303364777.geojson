@@ -2,13 +2,14 @@
   "id": 303364777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.801488,51.477818,-2.801488,51.477818",
     "geom:latitude":51.477818,
     "geom:longitude":-2.801488,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Queens Road, Redcliffe Bay, Portishead",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303364777,
-    "wof:lastmodified":1448999496,
+    "wof:lastmodified":1466273752,
     "wof:name":"Francoise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.801488,51.477818,-2.801488,51.477818],
+  "bbox": [
+    -2.801488,
+    51.477818,
+    -2.801488,
+    51.477818
+],
   "geometry": {"coordinates":[-2.801488,51.477818],"type":"Point"}
 }

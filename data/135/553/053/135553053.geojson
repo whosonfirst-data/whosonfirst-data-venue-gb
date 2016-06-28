@@ -2,13 +2,14 @@
   "id": 135553053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.188054,50.798512,-3.188054,50.798512",
     "geom:latitude":50.798512,
     "geom:longitude":-3.188054,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"New Street",
     "sg:city":"Honiton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135553053,
-    "wof:lastmodified":1449020996,
+    "wof:lastmodified":1466279544,
     "wof:name":"The Star Inn",
     "wof:parent_id":101852635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.188054,50.798512,-3.188054,50.798512],
+  "bbox": [
+    -3.188054,
+    50.798512,
+    -3.188054,
+    50.798512
+],
   "geometry": {"coordinates":[-3.188054,50.798512],"type":"Point"}
 }

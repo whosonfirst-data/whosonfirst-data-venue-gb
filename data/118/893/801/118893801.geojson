@@ -2,13 +2,14 @@
   "id": 118893801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.131625,52.585537,-2.131625,52.585537",
     "geom:latitude":52.585537,
     "geom:longitude":-2.131625,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Darlington Street",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":118893801,
-    "wof:lastmodified":1449054293,
+    "wof:lastmodified":1466279147,
     "wof:name":"Shipway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.131625,52.585537,-2.131625,52.585537],
+  "bbox": [
+    -2.131625,
+    52.585537,
+    -2.131625,
+    52.585537
+],
   "geometry": {"coordinates":[-2.131625,52.585537],"type":"Point"}
 }

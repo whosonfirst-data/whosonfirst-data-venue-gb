@@ -2,13 +2,14 @@
   "id": 336871325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.89288,52.484001,-1.89288,52.484001",
     "geom:latitude":52.484001,
     "geom:longitude":-1.89288,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3rd Floor Coleridge Chambers 177, Corporation Street",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336871325,
-    "wof:lastmodified":1448997288,
+    "wof:lastmodified":1466279716,
     "wof:name":"Victoria Chambers Ltd.",
     "wof:parent_id":85861275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barrister"
     ]
 },
-  "bbox": [-1.89288,52.484001,-1.89288,52.484001],
+  "bbox": [
+    -1.89288,
+    52.484001,
+    -1.89288,
+    52.484001
+],
   "geometry": {"coordinates":[-1.89288,52.484001],"type":"Point"}
 }

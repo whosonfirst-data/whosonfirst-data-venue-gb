@@ -2,13 +2,14 @@
   "id": 252764407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.553004,51.437523,-2.553004,51.437523",
     "geom:latitude":51.437523,
     "geom:longitude":-2.553004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Winchester Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":252764407,
-    "wof:lastmodified":1449006449,
+    "wof:lastmodified":1466258129,
     "wof:name":"Home Maintenance",
     "wof:parent_id":85786019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-2.553004,51.437523,-2.553004,51.437523],
+  "bbox": [
+    -2.553004,
+    51.437523,
+    -2.553004,
+    51.437523
+],
   "geometry": {"coordinates":[-2.553004,51.437523],"type":"Point"}
 }

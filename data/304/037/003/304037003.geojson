@@ -2,13 +2,14 @@
   "id": 304037003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.820366,53.65432,-1.820366,53.65432",
     "geom:latitude":53.65432,
     "geom:longitude":-1.820366,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Wellington Street, Oakes",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":304037003,
-    "wof:lastmodified":1449044166,
+    "wof:lastmodified":1466265381,
     "wof:name":"Greenwoods",
     "wof:parent_id":85789547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.820366,53.65432,-1.820366,53.65432],
+  "bbox": [
+    -1.820366,
+    53.65432,
+    -1.820366,
+    53.65432
+],
   "geometry": {"coordinates":[-1.820366,53.65432],"type":"Point"}
 }

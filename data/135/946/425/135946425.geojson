@@ -2,13 +2,14 @@
   "id": 135946425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.362214,53.016609,-1.362214,53.016609",
     "geom:latitude":53.016609,
     "geom:longitude":-1.362214,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"John Street",
     "sg:city":"Heanor",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135946425,
-    "wof:lastmodified":1449023647,
+    "wof:lastmodified":1466288332,
     "wof:name":"S Severn & Son",
     "wof:parent_id":101872055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.362214,53.016609,-1.362214,53.016609],
+  "bbox": [
+    -1.362214,
+    53.016609,
+    -1.362214,
+    53.016609
+],
   "geometry": {"coordinates":[-1.362214,53.016609],"type":"Point"}
 }

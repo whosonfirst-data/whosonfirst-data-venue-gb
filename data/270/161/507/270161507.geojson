@@ -2,13 +2,14 @@
   "id": 270161507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.271343,55.876049,-4.271343,55.876049",
     "geom:latitude":55.876049,
     "geom:longitude":-4.271343,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Maryhill Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270161507,
-    "wof:lastmodified":1449009595,
+    "wof:lastmodified":1466265311,
     "wof:name":"Anne J Gilmore",
     "wof:parent_id":85792601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-4.271343,55.876049,-4.271343,55.876049],
+  "bbox": [
+    -4.271343,
+    55.876049,
+    -4.271343,
+    55.876049
+],
   "geometry": {"coordinates":[-4.271343,55.876049],"type":"Point"}
 }

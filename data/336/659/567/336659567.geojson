@@ -2,13 +2,14 @@
   "id": 336659567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.168503,51.497391,-3.168503,51.497391",
     "geom:latitude":51.497391,
     "geom:longitude":-3.168503,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Pen-y-wain Road",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":336659567,
-    "wof:lastmodified":1448997048,
+    "wof:lastmodified":1466274508,
     "wof:name":"S & A Stores",
     "wof:parent_id":85789785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.168503,51.497391,-3.168503,51.497391],
+  "bbox": [
+    -3.168503,
+    51.497391,
+    -3.168503,
+    51.497391
+],
   "geometry": {"coordinates":[-3.168503,51.497391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135852807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.440301,50.715202,-2.440301,50.715202",
     "geom:latitude":50.715202,
     "geom:longitude":-2.440301,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dorset Headquarters, Wadham House, 50 High West Street",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":135852807,
-    "wof:lastmodified":1449023504,
+    "wof:lastmodified":1466287900,
     "wof:name":"Dorset Probation Service",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.440301,50.715202,-2.440301,50.715202],
+  "bbox": [
+    -2.440301,
+    50.715202,
+    -2.440301,
+    50.715202
+],
   "geometry": {"coordinates":[-2.440301,50.715202],"type":"Point"}
 }

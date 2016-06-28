@@ -2,13 +2,14 @@
   "id": 336744865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.419689,51.546482,-2.419689,51.546482",
     "geom:latitude":51.546482,
     "geom:longitude":-2.419689,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Chichester Way, Crowthers Grn",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336744865,
-    "wof:lastmodified":1448997323,
+    "wof:lastmodified":1466277081,
     "wof:name":"Premier Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "tobacconist"
     ]
 },
-  "bbox": [-2.419689,51.546482,-2.419689,51.546482],
+  "bbox": [
+    -2.419689,
+    51.546482,
+    -2.419689,
+    51.546482
+],
   "geometry": {"coordinates":[-2.419689,51.546482],"type":"Point"}
 }

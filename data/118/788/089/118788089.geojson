@@ -2,13 +2,14 @@
   "id": 118788089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.535483,51.431225,-2.535483,51.431225",
     "geom:latitude":51.431225,
     "geom:longitude":-2.535483,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Broomhill Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118788089,
-    "wof:lastmodified":1449053874,
+    "wof:lastmodified":1466271851,
     "wof:name":"Bristol & Bath Exhibition Centre",
     "wof:parent_id":85786019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.535483,51.431225,-2.535483,51.431225],
+  "bbox": [
+    -2.535483,
+    51.431225,
+    -2.535483,
+    51.431225
+],
   "geometry": {"coordinates":[-2.535483,51.431225],"type":"Point"}
 }

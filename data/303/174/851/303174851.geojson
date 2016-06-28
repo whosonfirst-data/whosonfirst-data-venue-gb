@@ -2,13 +2,14 @@
   "id": 303174851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.628255,54.784973,-1.628255,54.784973",
     "geom:latitude":54.784973,
     "geom:longitude":-1.628255,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Old School House, Colliery Road, Bare Park",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303174851,
-    "wof:lastmodified":1448998451,
+    "wof:lastmodified":1466267965,
     "wof:name":"Access Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "private"
     ]
 },
-  "bbox": [-1.628255,54.784973,-1.628255,54.784973],
+  "bbox": [
+    -1.628255,
+    54.784973,
+    -1.628255,
+    54.784973
+],
   "geometry": {"coordinates":[-1.628255,54.784973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270312785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.53611,50.70871,-3.53611,50.70871",
     "geom:latitude":50.70871,
     "geom:longitude":-3.53611,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Exeter Business Centre, 39 Marsh Green Road",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270312785,
-    "wof:lastmodified":1449009874,
+    "wof:lastmodified":1466269823,
     "wof:name":"Artisan",
     "wof:parent_id":85790683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fitting"
     ]
 },
-  "bbox": [-3.53611,50.70871,-3.53611,50.70871],
+  "bbox": [
+    -3.53611,
+    50.70871,
+    -3.53611,
+    50.70871
+],
   "geometry": {"coordinates":[-3.53611,50.70871],"type":"Point"}
 }

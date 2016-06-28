@@ -2,13 +2,14 @@
   "id": 220180963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.238581,53.416103,-2.238581,53.416103",
     "geom:latitude":53.416103,
     "geom:longitude":-2.238581,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Spath Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220180963,
-    "wof:lastmodified":1449074084,
+    "wof:lastmodified":1466256137,
     "wof:name":"T S Dogra",
     "wof:parent_id":85793033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [-2.238581,53.416103,-2.238581,53.416103],
+  "bbox": [
+    -2.238581,
+    53.416103,
+    -2.238581,
+    53.416103
+],
   "geometry": {"coordinates":[-2.238581,53.416103],"type":"Point"}
 }

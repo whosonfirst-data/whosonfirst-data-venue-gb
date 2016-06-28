@@ -2,13 +2,14 @@
   "id": 135332239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.188094,51.653614,-3.188094,51.653614",
     "geom:latitude":51.653614,
     "geom:longitude":-3.188094,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sir Ivors Rd",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135332239,
-    "wof:lastmodified":1449022682,
+    "wof:lastmodified":1466255114,
     "wof:name":"Plaza Garage",
     "wof:parent_id":101852781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.188094,51.653614,-3.188094,51.653614],
+  "bbox": [
+    -3.188094,
+    51.653614,
+    -3.188094,
+    51.653614
+],
   "geometry": {"coordinates":[-3.188094,51.653614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135376103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.221105,51.496609,-3.221105,51.496609",
     "geom:latitude":51.496609,
     "geom:longitude":-3.221105,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Bruton Place, Llandaff",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":135376103,
-    "wof:lastmodified":1449022038,
+    "wof:lastmodified":1466260047,
     "wof:name":"Llandaff City Bowman",
     "wof:parent_id":85861443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.221105,51.496609,-3.221105,51.496609],
+  "bbox": [
+    -3.221105,
+    51.496609,
+    -3.221105,
+    51.496609
+],
   "geometry": {"coordinates":[-3.221105,51.496609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269686633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.149772,52.959198,-1.149772,52.959198",
     "geom:latitude":52.959198,
     "geom:longitude":-1.149772,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Mansfield Road",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269686633,
-    "wof:lastmodified":1449038221,
+    "wof:lastmodified":1466266233,
     "wof:name":"Nick Bonham",
     "wof:parent_id":85793185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-1.149772,52.959198,-1.149772,52.959198],
+  "bbox": [
+    -1.149772,
+    52.959198,
+    -1.149772,
+    52.959198
+],
   "geometry": {"coordinates":[-1.149772,52.959198],"type":"Point"}
 }

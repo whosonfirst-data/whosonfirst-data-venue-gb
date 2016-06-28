@@ -2,13 +2,14 @@
   "id": 303890775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.002176,51.129307,-3.002176,51.129307",
     "geom:latitude":51.129307,
     "geom:longitude":-3.002176,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Queen St",
     "sg:city":"Bridgwater",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303890775,
-    "wof:lastmodified":1448998651,
+    "wof:lastmodified":1466284224,
     "wof:name":"Bridgwater County Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.002176,51.129307,-3.002176,51.129307],
+  "bbox": [
+    -3.002176,
+    51.129307,
+    -3.002176,
+    51.129307
+],
   "geometry": {"coordinates":[-3.002176,51.129307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320030049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.518135,50.480209,-3.518135,50.480209",
     "geom:latitude":50.480209,
     "geom:longitude":-3.518135,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Babbacombe Road",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320030049,
-    "wof:lastmodified":1449012649,
+    "wof:lastmodified":1466269028,
     "wof:name":"The Hotel de la Mer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.518135,50.480209,-3.518135,50.480209],
+  "bbox": [
+    -3.518135,
+    50.480209,
+    -3.518135,
+    50.480209
+],
   "geometry": {"coordinates":[-3.518135,50.480209],"type":"Point"}
 }

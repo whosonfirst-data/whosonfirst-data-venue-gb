@@ -2,13 +2,14 @@
   "id": 135332545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.25948,55.860531,-4.25948,55.860531",
     "geom:latitude":55.860531,
     "geom:longitude":-4.25948,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 62 First Floor, Central Chambers",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135332545,
-    "wof:lastmodified":1449022682,
+    "wof:lastmodified":1466255153,
     "wof:name":"Sounds of Progress",
     "wof:parent_id":85792619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.25948,55.860531,-4.25948,55.860531],
+  "bbox": [
+    -4.25948,
+    55.860531,
+    -4.25948,
+    55.860531
+],
   "geometry": {"coordinates":[-4.25948,55.860531],"type":"Point"}
 }

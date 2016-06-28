@@ -2,13 +2,14 @@
   "id": 135662609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.064211,50.804909,-1.064211,50.804909",
     "geom:latitude":50.804909,
     "geom:longitude":-1.064211,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Milton Road",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135662609,
-    "wof:lastmodified":1449023046,
+    "wof:lastmodified":1466285126,
     "wof:name":"Sun Hire",
     "wof:parent_id":85861975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.064211,50.804909,-1.064211,50.804909],
+  "bbox": [
+    -1.064211,
+    50.804909,
+    -1.064211,
+    50.804909
+],
   "geometry": {"coordinates":[-1.064211,50.804909],"type":"Point"}
 }

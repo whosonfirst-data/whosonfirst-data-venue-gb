@@ -2,13 +2,14 @@
   "id": 236486005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.428971,52.89465,-1.428971,52.89465",
     "geom:latitude":52.89465,
     "geom:longitude":-1.428971,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Boulton Lane",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236486005,
-    "wof:lastmodified":1449003504,
+    "wof:lastmodified":1466265597,
     "wof:name":"Alvaston Medical Centre",
     "wof:parent_id":85785293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "practitioners"
     ]
 },
-  "bbox": [-1.428971,52.89465,-1.428971,52.89465],
+  "bbox": [
+    -1.428971,
+    52.89465,
+    -1.428971,
+    52.89465
+],
   "geometry": {"coordinates":[-1.428971,52.89465],"type":"Point"}
 }

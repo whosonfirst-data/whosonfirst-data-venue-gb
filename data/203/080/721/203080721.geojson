@@ -2,13 +2,14 @@
   "id": 203080721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.947531,53.382668,-2.947531,53.382668",
     "geom:latitude":53.382668,
     "geom:longitude":-2.947531,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14-16 Waverley Road, Sefton Park",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203080721,
-    "wof:lastmodified":1449026829,
+    "wof:lastmodified":1466253992,
     "wof:name":"Waverley Nursing Home",
     "wof:parent_id":85792117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-2.947531,53.382668,-2.947531,53.382668],
+  "bbox": [
+    -2.947531,
+    53.382668,
+    -2.947531,
+    53.382668
+],
   "geometry": {"coordinates":[-2.947531,53.382668],"type":"Point"}
 }

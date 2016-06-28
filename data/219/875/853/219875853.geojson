@@ -2,13 +2,14 @@
   "id": 219875853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.1547,52.962967,-1.1547,52.962967",
     "geom:latitude":52.962967,
     "geom:longitude":-1.1547,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Colville St",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219875853,
-    "wof:lastmodified":1449073026,
+    "wof:lastmodified":1466265005,
     "wof:name":"Clovelly Residential Home",
     "wof:parent_id":85790299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "care"
     ]
 },
-  "bbox": [-1.1547,52.962967,-1.1547,52.962967],
+  "bbox": [
+    -1.1547,
+    52.962967,
+    -1.1547,
+    52.962967
+],
   "geometry": {"coordinates":[-1.1547,52.962967],"type":"Point"}
 }

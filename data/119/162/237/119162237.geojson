@@ -2,13 +2,14 @@
   "id": 119162237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.520023,50.729095,-3.520023,50.729095",
     "geom:latitude":50.729095,
     "geom:longitude":-3.520023,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Blackboy Road",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119162237,
-    "wof:lastmodified":1449043139,
+    "wof:lastmodified":1466264935,
     "wof:name":"W H Hicks",
     "wof:parent_id":85792763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.520023,50.729095,-3.520023,50.729095],
+  "bbox": [
+    -3.520023,
+    50.729095,
+    -3.520023,
+    50.729095
+],
   "geometry": {"coordinates":[-3.520023,50.729095],"type":"Point"}
 }

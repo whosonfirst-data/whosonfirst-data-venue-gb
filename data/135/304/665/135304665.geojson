@@ -2,13 +2,14 @@
   "id": 135304665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.425301,50.844925,0.425301,50.844925",
     "geom:latitude":50.844925,
     "geom:longitude":0.425301,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Barnhorn Road",
     "sg:city":"Bexhill-on-sea",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135304665,
-    "wof:lastmodified":1449023246,
+    "wof:lastmodified":1466277616,
     "wof:name":"Barnhorn Training",
     "wof:parent_id":101750313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.425301,50.844925,0.425301,50.844925],
+  "bbox": [
+    0.425301,
+    50.844925,
+    0.425301,
+    50.844925
+],
   "geometry": {"coordinates":[0.425301,50.844925],"type":"Point"}
 }

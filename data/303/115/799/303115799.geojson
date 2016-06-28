@@ -2,13 +2,14 @@
   "id": 303115799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.476319,50.941872,-1.476319,50.941872",
     "geom:latitude":50.941872,
     "geom:longitude":-1.476319,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Oriana Way, Nursling",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303115799,
-    "wof:lastmodified":1448998098,
+    "wof:lastmodified":1466266153,
     "wof:name":"Rittal Ltd.",
     "wof:parent_id":85790101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-1.476319,50.941872,-1.476319,50.941872],
+  "bbox": [
+    -1.476319,
+    50.941872,
+    -1.476319,
+    50.941872
+],
   "geometry": {"coordinates":[-1.476319,50.941872],"type":"Point"}
 }

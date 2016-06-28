@@ -2,13 +2,14 @@
   "id": 203133129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.564869,55.183086,-1.564869,55.183086",
     "geom:latitude":55.183086,
     "geom:longitude":-1.564869,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Maple Street",
     "sg:city":"Ashington",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203133129,
-    "wof:lastmodified":1449026516,
+    "wof:lastmodified":1466254883,
     "wof:name":"Pizzamatic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "take"
     ]
 },
-  "bbox": [-1.564869,55.183086,-1.564869,55.183086],
+  "bbox": [
+    -1.564869,
+    55.183086,
+    -1.564869,
+    55.183086
+],
   "geometry": {"coordinates":[-1.564869,55.183086],"type":"Point"}
 }

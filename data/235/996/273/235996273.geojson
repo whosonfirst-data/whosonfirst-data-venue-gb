@@ -2,13 +2,14 @@
   "id": 235996273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.388334,55.801254,-4.388334,55.801254",
     "geom:latitude":55.801254,
     "geom:longitude":-4.388334,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"190-192 Main Street, Barrhead",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":235996273,
-    "wof:lastmodified":1449008349,
+    "wof:lastmodified":1466256379,
     "wof:name":"Cruise Travel",
     "wof:parent_id":85789427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.388334,55.801254,-4.388334,55.801254],
+  "bbox": [
+    -4.388334,
+    55.801254,
+    -4.388334,
+    55.801254
+],
   "geometry": {"coordinates":[-4.388334,55.801254],"type":"Point"}
 }

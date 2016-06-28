@@ -2,13 +2,14 @@
   "id": 119248323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.274296,55.964565,-3.274296,55.964565",
     "geom:latitude":55.964565,
     "geom:longitude":-3.274296,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Quality Street, Davidsons Mains",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119248323,
-    "wof:lastmodified":1449042308,
+    "wof:lastmodified":1466274613,
     "wof:name":"Barnton Gate Filling Station",
     "wof:parent_id":85786975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.274296,55.964565,-3.274296,55.964565],
+  "bbox": [
+    -3.274296,
+    55.964565,
+    -3.274296,
+    55.964565
+],
   "geometry": {"coordinates":[-3.274296,55.964565],"type":"Point"}
 }

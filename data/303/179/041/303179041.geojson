@@ -2,13 +2,14 @@
   "id": 303179041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.07201,55.852001,-4.07201,55.852001",
     "geom:latitude":55.852001,
     "geom:longitude":-4.07201,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Old Garage, Langmuir Road, Baillieston",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303179041,
-    "wof:lastmodified":1449000317,
+    "wof:lastmodified":1466268105,
     "wof:name":"Shorco Ltd.",
     "wof:parent_id":85792553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "machinery"
     ]
 },
-  "bbox": [-4.07201,55.852001,-4.07201,55.852001],
+  "bbox": [
+    -4.07201,
+    55.852001,
+    -4.07201,
+    55.852001
+],
   "geometry": {"coordinates":[-4.07201,55.852001],"type":"Point"}
 }

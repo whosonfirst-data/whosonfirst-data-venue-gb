@@ -2,13 +2,14 @@
   "id": 287257351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.100571,52.607254,-1.100571,52.607254",
     "geom:latitude":52.607254,
     "geom:longitude":-1.100571,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 South Knighton Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287257351,
-    "wof:lastmodified":1449000907,
+    "wof:lastmodified":1466271016,
     "wof:name":"Holbrook News",
     "wof:parent_id":85861117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.100571,52.607254,-1.100571,52.607254],
+  "bbox": [
+    -1.100571,
+    52.607254,
+    -1.100571,
+    52.607254
+],
   "geometry": {"coordinates":[-1.100571,52.607254],"type":"Point"}
 }

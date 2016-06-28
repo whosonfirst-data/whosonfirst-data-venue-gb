@@ -2,13 +2,14 @@
   "id": 135752407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.372678,55.514332,-4.372678,55.514332",
     "geom:latitude":55.514332,
     "geom:longitude":-4.372678,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Welton Rd",
     "sg:city":"Mauchline",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135752407,
-    "wof:lastmodified":1449021477,
+    "wof:lastmodified":1466286942,
     "wof:name":"Mark Gourlay",
     "wof:parent_id":101872425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.372678,55.514332,-4.372678,55.514332],
+  "bbox": [
+    -4.372678,
+    55.514332,
+    -4.372678,
+    55.514332
+],
   "geometry": {"coordinates":[-4.372678,55.514332],"type":"Point"}
 }

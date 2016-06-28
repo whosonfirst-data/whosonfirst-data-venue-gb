@@ -2,13 +2,14 @@
   "id": 135360249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.16389,52.620899,-1.16389,52.620899",
     "geom:latitude":52.620899,
     "geom:longitude":-1.16389,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Distribution Centre, 133-137 Scudamore Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135360249,
-    "wof:lastmodified":1449023332,
+    "wof:lastmodified":1466258364,
     "wof:name":"Zone Property Ltd.",
     "wof:parent_id":85785953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.16389,52.620899,-1.16389,52.620899],
+  "bbox": [
+    -1.16389,
+    52.620899,
+    -1.16389,
+    52.620899
+],
   "geometry": {"coordinates":[-1.16389,52.620899],"type":"Point"}
 }

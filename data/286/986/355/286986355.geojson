@@ -2,13 +2,14 @@
   "id": 286986355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.241918,51.609638,-1.241918,51.609638",
     "geom:latitude":51.609638,
     "geom:longitude":-1.241918,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Lydalls Road",
     "sg:city":"Didcot",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286986355,
-    "wof:lastmodified":1449017553,
+    "wof:lastmodified":1466281843,
     "wof:name":"G B Drainage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"
     ]
 },
-  "bbox": [-1.241918,51.609638,-1.241918,51.609638],
+  "bbox": [
+    -1.241918,
+    51.609638,
+    -1.241918,
+    51.609638
+],
   "geometry": {"coordinates":[-1.241918,51.609638],"type":"Point"}
 }

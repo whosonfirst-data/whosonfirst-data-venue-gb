@@ -2,13 +2,14 @@
   "id": 270503257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.11815,53.456417,-2.11815,53.456417",
     "geom:latitude":53.456417,
     "geom:longitude":-2.11815,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Manchester Road, Denton",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270503257,
-    "wof:lastmodified":1449011121,
+    "wof:lastmodified":1466275456,
     "wof:name":"Kings Barbers Shop",
     "wof:parent_id":85786995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.11815,53.456417,-2.11815,53.456417],
+  "bbox": [
+    -2.11815,
+    53.456417,
+    -2.11815,
+    53.456417
+],
   "geometry": {"coordinates":[-2.11815,53.456417],"type":"Point"}
 }

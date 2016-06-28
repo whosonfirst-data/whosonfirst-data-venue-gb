@@ -2,13 +2,14 @@
   "id": 269616253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.264696,53.435326,-2.264696,53.435326",
     "geom:latitude":53.435326,
     "geom:longitude":-2.264696,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Mauldeth Road West",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269616253,
-    "wof:lastmodified":1449038006,
+    "wof:lastmodified":1466264097,
     "wof:name":"Tarmac Building",
     "wof:parent_id":85786631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-2.264696,53.435326,-2.264696,53.435326],
+  "bbox": [
+    -2.264696,
+    53.435326,
+    -2.264696,
+    53.435326
+],
   "geometry": {"coordinates":[-2.264696,53.435326],"type":"Point"}
 }

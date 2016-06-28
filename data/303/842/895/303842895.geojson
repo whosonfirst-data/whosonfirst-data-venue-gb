@@ -2,13 +2,14 @@
   "id": 303842895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.79499,55.30394,-1.79499,55.30394",
     "geom:latitude":55.30394,
     "geom:longitude":-1.79499,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Salisbury House, Long Framlington",
     "sg:city":"Morpeth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303842895,
-    "wof:lastmodified":1448998299,
+    "wof:lastmodified":1466283488,
     "wof:name":"Long Framlington Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.79499,55.30394,-1.79499,55.30394],
+  "bbox": [
+    -1.79499,
+    55.30394,
+    -1.79499,
+    55.30394
+],
   "geometry": {"coordinates":[-1.79499,55.30394],"type":"Point"}
 }

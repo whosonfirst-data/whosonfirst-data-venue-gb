@@ -2,13 +2,14 @@
   "id": 186437625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.250768,55.855881,-4.250768,55.855881",
     "geom:latitude":55.855881,
     "geom:longitude":-4.250768,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Stockwell Pl",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":186437625,
-    "wof:lastmodified":1449052300,
+    "wof:lastmodified":1466258265,
     "wof:name":"Turner Dundas Ltd",
     "wof:parent_id":85792625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-4.250768,55.855881,-4.250768,55.855881],
+  "bbox": [
+    -4.250768,
+    55.855881,
+    -4.250768,
+    55.855881
+],
   "geometry": {"coordinates":[-4.250768,55.855881],"type":"Point"}
 }

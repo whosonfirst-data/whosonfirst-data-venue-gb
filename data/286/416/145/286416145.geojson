@@ -2,13 +2,14 @@
   "id": 286416145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.240863,55.830723,-3.240863,55.830723",
     "geom:latitude":55.830723,
     "geom:longitude":-3.240863,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Friarton Gardens",
     "sg:city":"Penicuik",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286416145,
-    "wof:lastmodified":1449016511,
+    "wof:lastmodified":1466266899,
     "wof:name":"Call-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cab"
     ]
 },
-  "bbox": [-3.240863,55.830723,-3.240863,55.830723],
+  "bbox": [
+    -3.240863,
+    55.830723,
+    -3.240863,
+    55.830723
+],
   "geometry": {"coordinates":[-3.240863,55.830723],"type":"Point"}
 }

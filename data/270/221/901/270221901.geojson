@@ -2,13 +2,14 @@
   "id": 270221901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.969107,53.383495,-2.969107,53.383495",
     "geom:latitude":53.383495,
     "geom:longitude":-2.969107,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"376 Mill Street",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":270221901,
-    "wof:lastmodified":1449009713,
+    "wof:lastmodified":1466267017,
     "wof:name":"THE WELLINGTON",
     "wof:parent_id":85787027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "activity"
     ]
 },
-  "bbox": [-2.969107,53.383495,-2.969107,53.383495],
+  "bbox": [
+    -2.969107,
+    53.383495,
+    -2.969107,
+    53.383495
+],
   "geometry": {"coordinates":[-2.969107,53.383495],"type":"Point"}
 }

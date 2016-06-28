@@ -2,13 +2,14 @@
   "id": 202405415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.707152,56.221176,-2.707152,56.221176",
     "geom:latitude":56.221176,
     "geom:longitude":-2.707152,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Pittenweem Road",
     "sg:city":"Anstruther",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202405415,
-    "wof:lastmodified":1449062446,
+    "wof:lastmodified":1466252693,
     "wof:name":"Clarks Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.707152,56.221176,-2.707152,56.221176],
+  "bbox": [
+    -2.707152,
+    56.221176,
+    -2.707152,
+    56.221176
+],
   "geometry": {"coordinates":[-2.707152,56.221176],"type":"Point"}
 }

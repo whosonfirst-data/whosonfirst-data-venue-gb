@@ -2,13 +2,14 @@
   "id": 303830405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.641096,52.213734,-2.641096,52.213734",
     "geom:latitude":52.213734,
     "geom:longitude":-2.641096,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Forrester Hall Cotts, Docklow",
     "sg:city":"Leominster",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":303830405,
-    "wof:lastmodified":1448998634,
+    "wof:lastmodified":1466283280,
     "wof:name":"Andrew D Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.641096,52.213734,-2.641096,52.213734],
+  "bbox": [
+    -2.641096,
+    52.213734,
+    -2.641096,
+    52.213734
+],
   "geometry": {"coordinates":[-2.641096,52.213734],"type":"Point"}
 }

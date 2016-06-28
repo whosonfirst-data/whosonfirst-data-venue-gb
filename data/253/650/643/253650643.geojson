@@ -2,13 +2,14 @@
   "id": 253650643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.675322,55.606003,-4.675322,55.606003",
     "geom:latitude":55.606003,
     "geom:longitude":-4.675322,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Portland Place, Heatherhouse Industrial Estate",
     "sg:city":"Irvine",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253650643,
-    "wof:lastmodified":1449064613,
+    "wof:lastmodified":1466272663,
     "wof:name":"Irvine Car Spares",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dismantlers"
     ]
 },
-  "bbox": [-4.675322,55.606003,-4.675322,55.606003],
+  "bbox": [
+    -4.675322,
+    55.606003,
+    -4.675322,
+    55.606003
+],
   "geometry": {"coordinates":[-4.675322,55.606003],"type":"Point"}
 }

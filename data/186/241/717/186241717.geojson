@@ -2,13 +2,14 @@
   "id": 186241717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.430324,53.235443,-1.430324,53.235443",
     "geom:latitude":53.235443,
     "geom:longitude":-1.430324,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"87 New Sq",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186241717,
-    "wof:lastmodified":1449052967,
+    "wof:lastmodified":1466255293,
     "wof:name":"First F M",
     "wof:parent_id":85861099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [-1.430324,53.235443,-1.430324,53.235443],
+  "bbox": [
+    -1.430324,
+    53.235443,
+    -1.430324,
+    53.235443
+],
   "geometry": {"coordinates":[-1.430324,53.235443],"type":"Point"}
 }

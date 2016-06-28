@@ -2,13 +2,14 @@
   "id": 286265101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.284112,52.922741,-1.284112,52.922741",
     "geom:latitude":52.922741,
     "geom:longitude":-1.284112,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Station Rd, Sandiacre",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":286265101,
-    "wof:lastmodified":1449016188,
+    "wof:lastmodified":1466262426,
     "wof:name":"Inter City Models",
     "wof:parent_id":85791095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.284112,52.922741,-1.284112,52.922741],
+  "bbox": [
+    -1.284112,
+    52.922741,
+    -1.284112,
+    52.922741
+],
   "geometry": {"coordinates":[-1.284112,52.922741],"type":"Point"}
 }

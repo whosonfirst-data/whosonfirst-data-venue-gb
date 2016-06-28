@@ -2,13 +2,14 @@
   "id": 202647307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.005608,51.437321,-2.005608,51.437321",
     "geom:latitude":51.437321,
     "geom:longitude":-2.005608,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Wharf",
     "sg:city":"Calne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202647307,
-    "wof:lastmodified":1449061325,
+    "wof:lastmodified":1466256637,
     "wof:name":"The Wharf Sheltered Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-2.005608,51.437321,-2.005608,51.437321],
+  "bbox": [
+    -2.005608,
+    51.437321,
+    -2.005608,
+    51.437321
+],
   "geometry": {"coordinates":[-2.005608,51.437321],"type":"Point"}
 }

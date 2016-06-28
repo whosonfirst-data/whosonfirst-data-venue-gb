@@ -2,13 +2,14 @@
   "id": 269997583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.613986,53.853237,-1.613986,53.853237",
     "geom:latitude":53.853237,
     "geom:longitude":-1.613986,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Tinshill Lane",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269997583,
-    "wof:lastmodified":1449038429,
+    "wof:lastmodified":1466275663,
     "wof:name":"Leeds Health Authority",
     "wof:parent_id":85861581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-1.613986,53.853237,-1.613986,53.853237],
+  "bbox": [
+    -1.613986,
+    53.853237,
+    -1.613986,
+    53.853237
+],
   "geometry": {"coordinates":[-1.613986,53.853237],"type":"Point"}
 }

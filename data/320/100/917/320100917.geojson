@@ -2,13 +2,14 @@
   "id": 320100917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.434724,54.670979,-3.434724,54.670979",
     "geom:latitude":54.670979,
     "geom:longitude":-3.434724,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Ghyll Bank, Little Broughton",
     "sg:city":"Cockermouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320100917,
-    "wof:lastmodified":1449014024,
+    "wof:lastmodified":1466271146,
     "wof:name":"G & J Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "private"
     ]
 },
-  "bbox": [-3.434724,54.670979,-3.434724,54.670979],
+  "bbox": [
+    -3.434724,
+    54.670979,
+    -3.434724,
+    54.670979
+],
   "geometry": {"coordinates":[-3.434724,54.670979],"type":"Point"}
 }

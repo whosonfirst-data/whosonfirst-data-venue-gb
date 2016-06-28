@@ -2,13 +2,14 @@
   "id": 135780653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.692135,55.169659,-1.692135,55.169659",
     "geom:latitude":55.169659,
     "geom:longitude":-1.692135,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Newgate St",
     "sg:city":"Morpeth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135780653,
-    "wof:lastmodified":1449023263,
+    "wof:lastmodified":1466287097,
     "wof:name":"Elizabeth Ayres",
     "wof:parent_id":101873459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.692135,55.169659,-1.692135,55.169659],
+  "bbox": [
+    -1.692135,
+    55.169659,
+    -1.692135,
+    55.169659
+],
   "geometry": {"coordinates":[-1.692135,55.169659],"type":"Point"}
 }

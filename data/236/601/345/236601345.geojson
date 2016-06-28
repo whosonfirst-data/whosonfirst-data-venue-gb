@@ -2,13 +2,14 @@
   "id": 236601345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.899707,52.580135,-1.899707,52.580135",
     "geom:latitude":52.580135,
     "geom:longitude":-1.899707,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Whitethorn Crescent",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236601345,
-    "wof:lastmodified":1449003069,
+    "wof:lastmodified":1466267807,
     "wof:name":"Guttertech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "door"
     ]
 },
-  "bbox": [-1.899707,52.580135,-1.899707,52.580135],
+  "bbox": [
+    -1.899707,
+    52.580135,
+    -1.899707,
+    52.580135
+],
   "geometry": {"coordinates":[-1.899707,52.580135],"type":"Point"}
 }

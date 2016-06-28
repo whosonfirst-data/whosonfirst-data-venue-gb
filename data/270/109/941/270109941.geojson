@@ -2,13 +2,14 @@
   "id": 270109941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.283039,51.669899,-1.283039,51.669899",
     "geom:latitude":51.669899,
     "geom:longitude":-1.283039,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 West St Helen Street",
     "sg:city":"Abingdon",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270109941,
-    "wof:lastmodified":1449009487,
+    "wof:lastmodified":1466263771,
     "wof:name":"Stan James",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookmaker"
     ]
 },
-  "bbox": [-1.283039,51.669899,-1.283039,51.669899],
+  "bbox": [
+    -1.283039,
+    51.669899,
+    -1.283039,
+    51.669899
+],
   "geometry": {"coordinates":[-1.283039,51.669899],"type":"Point"}
 }

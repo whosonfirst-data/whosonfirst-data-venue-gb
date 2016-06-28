@@ -2,13 +2,14 @@
   "id": 303730327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.045108,51.157215,-2.045108,51.157215",
     "geom:latitude":51.157215,
     "geom:longitude":-2.045108,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"73-74 High Street, Codford",
     "sg:city":"Warminster",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303730327,
-    "wof:lastmodified":1449000165,
+    "wof:lastmodified":1466282256,
     "wof:name":"Codford Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.045108,51.157215,-2.045108,51.157215],
+  "bbox": [
+    -2.045108,
+    51.157215,
+    -2.045108,
+    51.157215
+],
   "geometry": {"coordinates":[-2.045108,51.157215],"type":"Point"}
 }

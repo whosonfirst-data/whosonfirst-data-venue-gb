@@ -2,13 +2,14 @@
   "id": 119508999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.358382,50.920197,-1.358382,50.920197",
     "geom:latitude":50.920197,
     "geom:longitude":-1.358382,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wavell Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119508999,
-    "wof:lastmodified":1449042354,
+    "wof:lastmodified":1466287224,
     "wof:name":"Glen Lee",
     "wof:parent_id":85785761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.358382,50.920197,-1.358382,50.920197],
+  "bbox": [
+    -1.358382,
+    50.920197,
+    -1.358382,
+    50.920197
+],
   "geometry": {"coordinates":[-1.358382,50.920197],"type":"Point"}
 }

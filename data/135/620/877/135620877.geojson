@@ -2,13 +2,14 @@
   "id": 135620877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.414853,53.620491,-1.414853,53.620491",
     "geom:latitude":53.620491,
     "geom:longitude":-1.414853,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Brier Lane, Havercroft",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135620877,
-    "wof:lastmodified":1449023746,
+    "wof:lastmodified":1466283548,
     "wof:name":"Bob In Hair Studio",
     "wof:parent_id":85683685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.414853,53.620491,-1.414853,53.620491],
+  "bbox": [
+    -1.414853,
+    53.620491,
+    -1.414853,
+    53.620491
+],
   "geometry": {"coordinates":[-1.414853,53.620491],"type":"Point"}
 }

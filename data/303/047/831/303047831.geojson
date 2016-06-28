@@ -2,13 +2,14 @@
   "id": 303047831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.46258,55.006897,-1.46258,55.006897",
     "geom:latitude":55.006897,
     "geom:longitude":-1.46258,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Newlyn Cres",
     "sg:city":"North Shields",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303047831,
-    "wof:lastmodified":1448999696,
+    "wof:lastmodified":1466263837,
     "wof:name":"M Nolan",
     "wof:parent_id":85792733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-1.46258,55.006897,-1.46258,55.006897],
+  "bbox": [
+    -1.46258,
+    55.006897,
+    -1.46258,
+    55.006897
+],
   "geometry": {"coordinates":[-1.46258,55.006897],"type":"Point"}
 }

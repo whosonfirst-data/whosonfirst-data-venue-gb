@@ -2,13 +2,14 @@
   "id": 136105615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.267449,53.08062,-1.267449,53.08062",
     "geom:latitude":53.08062,
     "geom:longitude":-1.267449,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Beauvale Road, Annesley Woodhouse",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136105615,
-    "wof:lastmodified":1449075417,
+    "wof:lastmodified":1466255919,
     "wof:name":"Neil Woolley",
     "wof:parent_id":85683849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.267449,53.08062,-1.267449,53.08062],
+  "bbox": [
+    -1.267449,
+    53.08062,
+    -1.267449,
+    53.08062
+],
   "geometry": {"coordinates":[-1.267449,53.08062],"type":"Point"}
 }

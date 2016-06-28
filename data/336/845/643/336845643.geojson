@@ -2,13 +2,14 @@
   "id": 336845643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.769331,51.584225,-3.769331,51.584225",
     "geom:latitude":51.584225,
     "geom:longitude":-3.769331,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Commercial Rd, Taibach",
     "sg:city":"Port Talbot",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336845643,
-    "wof:lastmodified":1448997119,
+    "wof:lastmodified":1466279270,
     "wof:name":"B.R Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "chemist"
     ]
 },
-  "bbox": [-3.769331,51.584225,-3.769331,51.584225],
+  "bbox": [
+    -3.769331,
+    51.584225,
+    -3.769331,
+    51.584225
+],
   "geometry": {"coordinates":[-3.769331,51.584225],"type":"Point"}
 }

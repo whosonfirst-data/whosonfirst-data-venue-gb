@@ -2,13 +2,14 @@
   "id": 303046405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.190104,55.949696,-3.190104,55.949696",
     "geom:latitude":55.949696,
     "geom:longitude":-3.190104,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Parliament Square",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303046405,
-    "wof:lastmodified":1448999477,
+    "wof:lastmodified":1466263801,
     "wof:name":"The Signet Library",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-3.190104,55.949696,-3.190104,55.949696],
+  "bbox": [
+    -3.190104,
+    55.949696,
+    -3.190104,
+    55.949696
+],
   "geometry": {"coordinates":[-3.190104,55.949696],"type":"Point"}
 }

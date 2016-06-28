@@ -2,13 +2,14 @@
   "id": 119366159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.560499,53.660591,-1.560499,53.660591",
     "geom:latitude":53.660591,
     "geom:longitude":-1.560499,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Park Street, Horbury",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119366159,
-    "wof:lastmodified":1449042823,
+    "wof:lastmodified":1466283803,
     "wof:name":"Happy Valley",
     "wof:parent_id":85787119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.560499,53.660591,-1.560499,53.660591],
+  "bbox": [
+    -1.560499,
+    53.660591,
+    -1.560499,
+    53.660591
+],
   "geometry": {"coordinates":[-1.560499,53.660591],"type":"Point"}
 }

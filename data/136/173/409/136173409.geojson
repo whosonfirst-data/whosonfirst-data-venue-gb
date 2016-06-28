@@ -2,13 +2,14 @@
   "id": 136173409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.931592,55.951656,-4.931592,55.951656",
     "geom:latitude":55.951656,
     "geom:longitude":-4.931592,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Edward Street",
     "sg:city":"Dunoon",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136173409,
-    "wof:lastmodified":1449075161,
+    "wof:lastmodified":1466259450,
     "wof:name":"Oliver's Store",
     "wof:parent_id":101872615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.931592,55.951656,-4.931592,55.951656],
+  "bbox": [
+    -4.931592,
+    55.951656,
+    -4.931592,
+    55.951656
+],
   "geometry": {"coordinates":[-4.931592,55.951656],"type":"Point"}
 }

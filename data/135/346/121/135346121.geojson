@@ -2,13 +2,14 @@
   "id": 135346121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.977918,51.599949,-2.977918,51.599949",
     "geom:latitude":51.599949,
     "geom:longitude":-2.977918,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Heather Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135346121,
-    "wof:lastmodified":1449020967,
+    "wof:lastmodified":1466256755,
     "wof:name":"Heather Road Garage",
     "wof:parent_id":85864253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.977918,51.599949,-2.977918,51.599949],
+  "bbox": [
+    -2.977918,
+    51.599949,
+    -2.977918,
+    51.599949
+],
   "geometry": {"coordinates":[-2.977918,51.599949],"type":"Point"}
 }

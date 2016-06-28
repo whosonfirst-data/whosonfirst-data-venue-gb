@@ -2,13 +2,14 @@
   "id": 236005729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.265529,55.862602,-4.265529,55.862602",
     "geom:latitude":55.862602,
     "geom:longitude":-4.265529,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"280a St Vincent Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236005729,
-    "wof:lastmodified":1449004928,
+    "wof:lastmodified":1466256663,
     "wof:name":"The Glasgow Agency",
     "wof:parent_id":85792619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-4.265529,55.862602,-4.265529,55.862602],
+  "bbox": [
+    -4.265529,
+    55.862602,
+    -4.265529,
+    55.862602
+],
   "geometry": {"coordinates":[-4.265529,55.862602],"type":"Point"}
 }

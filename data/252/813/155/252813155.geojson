@@ -2,13 +2,14 @@
   "id": 252813155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.815001,53.727966,-1.815001,53.727966",
     "geom:latitude":53.727966,
     "geom:longitude":-1.815001,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Towngate, Hipperholme",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":252813155,
-    "wof:lastmodified":1449005702,
+    "wof:lastmodified":1466259153,
     "wof:name":"The Yorkshireman",
     "wof:parent_id":85790815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.815001,53.727966,-1.815001,53.727966],
+  "bbox": [
+    -1.815001,
+    53.727966,
+    -1.815001,
+    53.727966
+],
   "geometry": {"coordinates":[-1.815001,53.727966],"type":"Point"}
 }

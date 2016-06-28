@@ -2,13 +2,14 @@
   "id": 202531773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.117321,52.805416,-2.117321,52.805416",
     "geom:latitude":52.805416,
     "geom:longitude":-2.117321,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Mill Street",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":202531773,
-    "wof:lastmodified":1449060707,
+    "wof:lastmodified":1466254647,
     "wof:name":"Kalico",
     "wof:parent_id":85860991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ladieswear"
     ]
 },
-  "bbox": [-2.117321,52.805416,-2.117321,52.805416],
+  "bbox": [
+    -2.117321,
+    52.805416,
+    -2.117321,
+    52.805416
+],
   "geometry": {"coordinates":[-2.117321,52.805416],"type":"Point"}
 }

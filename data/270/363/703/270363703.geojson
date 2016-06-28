@@ -2,13 +2,14 @@
   "id": 270363703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.222202,51.518803,-0.222202,51.518803",
     "geom:latitude":51.518803,
     "geom:longitude":-0.222202,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Evelyn Fox Court, 2 Kingsbridge Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270363703,
-    "wof:lastmodified":1449010798,
+    "wof:lastmodified":1466271349,
     "wof:name":"Kensington Housing Trust",
     "wof:parent_id":85789461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-0.222202,51.518803,-0.222202,51.518803],
+  "bbox": [
+    -0.222202,
+    51.518803,
+    -0.222202,
+    51.518803
+],
   "geometry": {"coordinates":[-0.222202,51.518803],"type":"Point"}
 }

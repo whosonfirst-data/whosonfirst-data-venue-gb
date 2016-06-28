@@ -2,13 +2,14 @@
   "id": 119315045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.015406,51.114857,-3.015406,51.114857",
     "geom:latitude":51.114857,
     "geom:longitude":-3.015406,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Rhode Lane",
     "sg:city":"Bridgwater",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119315045,
-    "wof:lastmodified":1449043420,
+    "wof:lastmodified":1466281127,
     "wof:name":"Chris Taylor",
     "wof:parent_id":85684013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.015406,51.114857,-3.015406,51.114857],
+  "bbox": [
+    -3.015406,
+    51.114857,
+    -3.015406,
+    51.114857
+],
   "geometry": {"coordinates":[-3.015406,51.114857],"type":"Point"}
 }

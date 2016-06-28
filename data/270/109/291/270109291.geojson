@@ -2,13 +2,14 @@
   "id": 270109291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.510645,52.448261,-1.510645,52.448261",
     "geom:latitude":52.448261,
     "geom:longitude":-1.510645,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Wheelright Lane",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270109291,
-    "wof:lastmodified":1449009487,
+    "wof:lastmodified":1466263758,
     "wof:name":"Nightingale Builders",
     "wof:parent_id":85864245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.510645,52.448261,-1.510645,52.448261],
+  "bbox": [
+    -1.510645,
+    52.448261,
+    -1.510645,
+    52.448261
+],
   "geometry": {"coordinates":[-1.510645,52.448261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253741369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.37857,50.915939,-1.37857,50.915939",
     "geom:latitude":50.915939,
     "geom:longitude":-1.37857,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2b Kemps Shipyard, Quayside Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253741369,
-    "wof:lastmodified":1449062980,
+    "wof:lastmodified":1466275655,
     "wof:name":"Seashield Ocean Services Ltd.",
     "wof:parent_id":85792821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-1.37857,50.915939,-1.37857,50.915939],
+  "bbox": [
+    -1.37857,
+    50.915939,
+    -1.37857,
+    50.915939
+],
   "geometry": {"coordinates":[-1.37857,50.915939],"type":"Point"}
 }

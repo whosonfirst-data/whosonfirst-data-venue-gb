@@ -2,13 +2,14 @@
   "id": 135456805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.051265,52.715168,-1.051265,52.715168",
     "geom:latitude":52.715168,
     "geom:longitude":-1.051265,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Ling Dale",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135456805,
-    "wof:lastmodified":1449021909,
+    "wof:lastmodified":1466269485,
     "wof:name":"St Hildas C of E Church",
     "wof:parent_id":85683891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.051265,52.715168,-1.051265,52.715168],
+  "bbox": [
+    -1.051265,
+    52.715168,
+    -1.051265,
+    52.715168
+],
   "geometry": {"coordinates":[-1.051265,52.715168],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303738557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.809499,55.646454,-4.809499,55.646454",
     "geom:latitude":55.646454,
     "geom:longitude":-4.809499,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Glasgow Street",
     "sg:city":"Ardrossan",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303738557,
-    "wof:lastmodified":1448999911,
+    "wof:lastmodified":1466282338,
     "wof:name":"Ardrossan Coachworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "repairer"
     ]
 },
-  "bbox": [-4.809499,55.646454,-4.809499,55.646454],
+  "bbox": [
+    -4.809499,
+    55.646454,
+    -4.809499,
+    55.646454
+],
   "geometry": {"coordinates":[-4.809499,55.646454],"type":"Point"}
 }

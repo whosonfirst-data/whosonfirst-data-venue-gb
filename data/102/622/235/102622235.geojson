@@ -2,13 +2,14 @@
   "id": 102622235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.146165,52.673271,0.146165,52.673271",
     "geom:latitude":52.673271,
     "geom:longitude":0.146165,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"153b Leverington Rd",
     "sg:city":"Wisbech",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102622235,
-    "wof:lastmodified":1449069731,
+    "wof:lastmodified":1466253275,
     "wof:name":"Betterbuild",
     "wof:parent_id":101854927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.146165,52.673271,0.146165,52.673271],
+  "bbox": [
+    0.146165,
+    52.673271,
+    0.146165,
+    52.673271
+],
   "geometry": {"coordinates":[0.146165,52.673271],"type":"Point"}
 }

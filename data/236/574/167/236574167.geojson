@@ -2,13 +2,14 @@
   "id": 236574167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.500884,51.408909,-2.500884,51.408909",
     "geom:latitude":51.408909,
     "geom:longitude":-2.500884,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Windsor Av",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236574167,
-    "wof:lastmodified":1449001661,
+    "wof:lastmodified":1466267309,
     "wof:name":"Highway Taxis",
     "wof:parent_id":85790759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-2.500884,51.408909,-2.500884,51.408909],
+  "bbox": [
+    -2.500884,
+    51.408909,
+    -2.500884,
+    51.408909
+],
   "geometry": {"coordinates":[-2.500884,51.408909],"type":"Point"}
 }

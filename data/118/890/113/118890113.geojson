@@ -2,13 +2,14 @@
   "id": 118890113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.031621,53.475105,-3.031621,53.475105",
     "geom:latitude":53.475105,
     "geom:longitude":-3.031621,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 East St",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118890113,
-    "wof:lastmodified":1449053460,
+    "wof:lastmodified":1466278989,
     "wof:name":"Volunteer Canteen",
     "wof:parent_id":85791371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.031621,53.475105,-3.031621,53.475105],
+  "bbox": [
+    -3.031621,
+    53.475105,
+    -3.031621,
+    53.475105
+],
   "geometry": {"coordinates":[-3.031621,53.475105],"type":"Point"}
 }

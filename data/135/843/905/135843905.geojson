@@ -2,13 +2,14 @@
   "id": 135843905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.580854,51.521633,-3.580854,51.521633",
     "geom:latitude":51.521633,
     "geom:longitude":-3.580854,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 St Patricks Dr",
     "sg:city":"Bridgend",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135843905,
-    "wof:lastmodified":1449021267,
+    "wof:lastmodified":1466287805,
     "wof:name":"Quakers",
     "wof:parent_id":101852763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.580854,51.521633,-3.580854,51.521633],
+  "bbox": [
+    -3.580854,
+    51.521633,
+    -3.580854,
+    51.521633
+],
   "geometry": {"coordinates":[-3.580854,51.521633],"type":"Point"}
 }

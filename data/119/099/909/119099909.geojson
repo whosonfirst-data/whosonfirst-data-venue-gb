@@ -2,13 +2,14 @@
   "id": 119099909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.194732,55.936676,-3.194732,55.936676",
     "geom:latitude":55.936676,
     "geom:longitude":-3.194732,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Marchmont Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119099909,
-    "wof:lastmodified":1449042622,
+    "wof:lastmodified":1466258787,
     "wof:name":"The Edge",
     "wof:parent_id":85788975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.194732,55.936676,-3.194732,55.936676],
+  "bbox": [
+    -3.194732,
+    55.936676,
+    -3.194732,
+    55.936676
+],
   "geometry": {"coordinates":[-3.194732,55.936676],"type":"Point"}
 }

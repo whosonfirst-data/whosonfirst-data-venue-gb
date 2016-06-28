@@ -2,13 +2,14 @@
   "id": 119401233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.473133,52.458897,-1.473133,52.458897",
     "geom:latitude":52.458897,
     "geom:longitude":-1.473133,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Sanders Road",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119401233,
-    "wof:lastmodified":1449043130,
+    "wof:lastmodified":1466285069,
     "wof:name":"Warwickshire Fire Protection",
     "wof:parent_id":85785253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.473133,52.458897,-1.473133,52.458897],
+  "bbox": [
+    -1.473133,
+    52.458897,
+    -1.473133,
+    52.458897
+],
   "geometry": {"coordinates":[-1.473133,52.458897],"type":"Point"}
 }

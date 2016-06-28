@@ -2,13 +2,14 @@
   "id": 236608015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.49173,50.614529,-2.49173,50.614529",
     "geom:latitude":50.614529,
     "geom:longitude":-2.49173,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Cambridge Road, Granby Industrial Estate",
     "sg:city":"Weymouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236608015,
-    "wof:lastmodified":1449002995,
+    "wof:lastmodified":1466267920,
     "wof:name":"Weymouth Quality Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "engineer"
     ]
 },
-  "bbox": [-2.49173,50.614529,-2.49173,50.614529],
+  "bbox": [
+    -2.49173,
+    50.614529,
+    -2.49173,
+    50.614529
+],
   "geometry": {"coordinates":[-2.49173,50.614529],"type":"Point"}
 }

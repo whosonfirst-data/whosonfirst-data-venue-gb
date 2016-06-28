@@ -2,13 +2,14 @@
   "id": 303500073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.160879,51.090714,-1.160879,51.090714",
     "geom:latitude":51.090714,
     "geom:longitude":-1.160879,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 East Street",
     "sg:city":"Alresford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303500073,
-    "wof:lastmodified":1448998722,
+    "wof:lastmodified":1466277955,
     "wof:name":"Simon Robinson (Shipbroking) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "broker"
     ]
 },
-  "bbox": [-1.160879,51.090714,-1.160879,51.090714],
+  "bbox": [
+    -1.160879,
+    51.090714,
+    -1.160879,
+    51.090714
+],
   "geometry": {"coordinates":[-1.160879,51.090714],"type":"Point"}
 }

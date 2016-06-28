@@ -2,13 +2,14 @@
   "id": 236057349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.542019,53.800747,-1.542019,53.800747",
     "geom:latitude":53.800747,
     "geom:longitude":-1.542019,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wade House, 52 Merrion Centre",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236057349,
-    "wof:lastmodified":1449003251,
+    "wof:lastmodified":1466257613,
     "wof:name":"Leeds Citizens Advice Bureau",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "counselling"
     ]
 },
-  "bbox": [-1.542019,53.800747,-1.542019,53.800747],
+  "bbox": [
+    -1.542019,
+    53.800747,
+    -1.542019,
+    53.800747
+],
   "geometry": {"coordinates":[-1.542019,53.800747],"type":"Point"}
 }

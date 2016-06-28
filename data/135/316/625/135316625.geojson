@@ -2,13 +2,14 @@
   "id": 135316625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.50214,53.76545,-2.50214,53.76545",
     "geom:latitude":53.76545,
     "geom:longitude":-2.50214,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Whinney Lane",
     "sg:city":"Blackburn",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135316625,
-    "wof:lastmodified":1449023052,
+    "wof:lastmodified":1466253239,
     "wof:name":"Michael Rosney",
     "wof:parent_id":85860995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.50214,53.76545,-2.50214,53.76545],
+  "bbox": [
+    -2.50214,
+    53.76545,
+    -2.50214,
+    53.76545
+],
   "geometry": {"coordinates":[-2.50214,53.76545],"type":"Point"}
 }

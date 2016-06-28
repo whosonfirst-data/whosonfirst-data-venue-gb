@@ -2,13 +2,14 @@
   "id": 336919661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.24461,55.857388,-4.24461,55.857388",
     "geom:latitude":55.857388,
     "geom:longitude":-4.24461,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Albion St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336919661,
-    "wof:lastmodified":1448997761,
+    "wof:lastmodified":1466280585,
     "wof:name":"Foosion",
     "wof:parent_id":85861551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio-visual"
     ]
 },
-  "bbox": [-4.24461,55.857388,-4.24461,55.857388],
+  "bbox": [
+    -4.24461,
+    55.857388,
+    -4.24461,
+    55.857388
+],
   "geometry": {"coordinates":[-4.24461,55.857388],"type":"Point"}
 }

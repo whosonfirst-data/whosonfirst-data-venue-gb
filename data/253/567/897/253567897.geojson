@@ -2,13 +2,14 @@
   "id": 253567897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.448405,53.408237,-1.448405,53.408237",
     "geom:latitude":53.408237,
     "geom:longitude":-1.448405,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Owler Lane",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253567897,
-    "wof:lastmodified":1449065830,
+    "wof:lastmodified":1466270048,
     "wof:name":"Appliance World",
     "wof:parent_id":85787797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-1.448405,53.408237,-1.448405,53.408237],
+  "bbox": [
+    -1.448405,
+    53.408237,
+    -1.448405,
+    53.408237
+],
   "geometry": {"coordinates":[-1.448405,53.408237],"type":"Point"}
 }

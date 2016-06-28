@@ -2,13 +2,14 @@
   "id": 303387963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.216536,55.829098,-4.216536,55.829098",
     "geom:latitude":55.829098,
     "geom:longitude":-4.216536,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Queen Street, Rutherglen",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303387963,
-    "wof:lastmodified":1449000233,
+    "wof:lastmodified":1466274492,
     "wof:name":"Hairland",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-4.216536,55.829098,-4.216536,55.829098],
+  "bbox": [
+    -4.216536,
+    55.829098,
+    -4.216536,
+    55.829098
+],
   "geometry": {"coordinates":[-4.216536,55.829098],"type":"Point"}
 }

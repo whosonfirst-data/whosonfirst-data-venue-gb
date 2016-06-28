@@ -2,13 +2,14 @@
   "id": 303112879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.228888,51.530708,-0.228888,51.530708",
     "geom:latitude":51.530708,
     "geom:longitude":-0.228888,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Harrow Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":303112879,
-    "wof:lastmodified":1448999245,
+    "wof:lastmodified":1466266059,
     "wof:name":"Newscon",
     "wof:parent_id":85792201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-0.228888,51.530708,-0.228888,51.530708],
+  "bbox": [
+    -0.228888,
+    51.530708,
+    -0.228888,
+    51.530708
+],
   "geometry": {"coordinates":[-0.228888,51.530708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270211101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.793341,55.646183,-4.793341,55.646183",
     "geom:latitude":55.646183,
     "geom:longitude":-4.793341,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Mid Dykes Rd",
     "sg:city":"Saltcoats",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270211101,
-    "wof:lastmodified":1449009225,
+    "wof:lastmodified":1466266720,
     "wof:name":"William Slater",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-4.793341,55.646183,-4.793341,55.646183],
+  "bbox": [
+    -4.793341,
+    55.646183,
+    -4.793341,
+    55.646183
+],
   "geometry": {"coordinates":[-4.793341,55.646183],"type":"Point"}
 }

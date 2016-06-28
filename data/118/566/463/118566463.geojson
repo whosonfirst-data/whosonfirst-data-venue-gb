@@ -2,13 +2,14 @@
   "id": 118566463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.228959,55.901657,-3.228959,55.901657",
     "geom:latitude":55.901657,
     "geom:longitude":-3.228959,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Auchingane",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118566463,
-    "wof:lastmodified":1449053175,
+    "wof:lastmodified":1466255233,
     "wof:name":"Black Lane Asphalt",
     "wof:parent_id":85861513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.228959,55.901657,-3.228959,55.901657],
+  "bbox": [
+    -3.228959,
+    55.901657,
+    -3.228959,
+    55.901657
+],
   "geometry": {"coordinates":[-3.228959,55.901657],"type":"Point"}
 }

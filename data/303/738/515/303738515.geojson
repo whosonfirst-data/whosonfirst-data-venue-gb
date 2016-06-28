@@ -2,13 +2,14 @@
   "id": 303738515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.809369,55.646519,-4.809369,55.646519",
     "geom:latitude":55.646519,
     "geom:longitude":-4.809369,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Glasgow Street",
     "sg:city":"Ardrossan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303738515,
-    "wof:lastmodified":1448999910,
+    "wof:lastmodified":1466282182,
     "wof:name":"Ardrossan Filling Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "filling"
     ]
 },
-  "bbox": [-4.809369,55.646519,-4.809369,55.646519],
+  "bbox": [
+    -4.809369,
+    55.646519,
+    -4.809369,
+    55.646519
+],
   "geometry": {"coordinates":[-4.809369,55.646519],"type":"Point"}
 }

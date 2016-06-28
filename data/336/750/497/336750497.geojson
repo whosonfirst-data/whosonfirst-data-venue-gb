@@ -2,13 +2,14 @@
   "id": 336750497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.067517,50.390751,-4.067517,50.390751",
     "geom:latitude":50.390751,
     "geom:longitude":-4.067517,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Molesworth Road",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":336750497,
-    "wof:lastmodified":1448997593,
+    "wof:lastmodified":1466277238,
     "wof:name":"Millbridge Sub Post Office",
     "wof:parent_id":85789861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.067517,50.390751,-4.067517,50.390751],
+  "bbox": [
+    -4.067517,
+    50.390751,
+    -4.067517,
+    50.390751
+],
   "geometry": {"coordinates":[-4.067517,50.390751],"type":"Point"}
 }

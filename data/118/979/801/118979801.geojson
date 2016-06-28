@@ -2,13 +2,14 @@
   "id": 118979801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.24548,50.88266,-4.24548,50.88266",
     "geom:latitude":50.88266,
     "geom:longitude":-4.24548,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Newton St Petrock",
     "sg:city":"Torrington",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118979801,
-    "wof:lastmodified":1449054135,
+    "wof:lastmodified":1466283040,
     "wof:name":"Newton Engraving",
     "wof:parent_id":85683773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.24548,50.88266,-4.24548,50.88266],
+  "bbox": [
+    -4.24548,
+    50.88266,
+    -4.24548,
+    50.88266
+],
   "geometry": {"coordinates":[-4.24548,50.88266],"type":"Point"}
 }

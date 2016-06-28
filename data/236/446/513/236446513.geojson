@@ -2,13 +2,14 @@
   "id": 236446513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.01934,51.379349,0.01934,51.379349",
     "geom:latitude":51.379349,
     "geom:longitude":0.01934,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Street House, 1 George Lane, Hayes",
     "sg:city":"Bromley",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":236446513,
-    "wof:lastmodified":1449004912,
+    "wof:lastmodified":1466264852,
     "wof:name":"Mary Jones",
     "wof:parent_id":85788025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.01934,51.379349,0.01934,51.379349],
+  "bbox": [
+    0.01934,
+    51.379349,
+    0.01934,
+    51.379349
+],
   "geometry": {"coordinates":[0.01934,51.379349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203164483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.42501,55.853085,-4.42501,55.853085",
     "geom:latitude":55.853085,
     "geom:longitude":-4.42501,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"98 New Sneddon Street",
     "sg:city":"Paisley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203164483,
-    "wof:lastmodified":1449025170,
+    "wof:lastmodified":1466255369,
     "wof:name":"FITNESS CENTRE",
     "wof:parent_id":85786323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "centre"
     ]
 },
-  "bbox": [-4.42501,55.853085,-4.42501,55.853085],
+  "bbox": [
+    -4.42501,
+    55.853085,
+    -4.42501,
+    55.853085
+],
   "geometry": {"coordinates":[-4.42501,55.853085],"type":"Point"}
 }

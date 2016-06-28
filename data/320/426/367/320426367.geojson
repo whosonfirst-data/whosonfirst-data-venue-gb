@@ -2,13 +2,14 @@
   "id": 320426367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.399308,50.910641,-1.399308,50.910641",
     "geom:latitude":50.910641,
     "geom:longitude":-1.399308,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"119-120 St Marys Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320426367,
-    "wof:lastmodified":1449012055,
+    "wof:lastmodified":1466279822,
     "wof:name":"Wutan",
     "wof:parent_id":85792821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "instruction"
     ]
 },
-  "bbox": [-1.399308,50.910641,-1.399308,50.910641],
+  "bbox": [
+    -1.399308,
+    50.910641,
+    -1.399308,
+    50.910641
+],
   "geometry": {"coordinates":[-1.399308,50.910641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320404721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.475202,53.367332,-1.475202,53.367332",
     "geom:latitude":53.367332,
     "geom:longitude":-1.475202,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 St Barnabas Lane",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320404721,
-    "wof:lastmodified":1449013751,
+    "wof:lastmodified":1466279828,
     "wof:name":"A P Autos",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.475202,53.367332,-1.475202,53.367332],
+  "bbox": [
+    -1.475202,
+    53.367332,
+    -1.475202,
+    53.367332
+],
   "geometry": {"coordinates":[-1.475202,53.367332],"type":"Point"}
 }

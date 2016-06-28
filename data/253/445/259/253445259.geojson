@@ -2,13 +2,14 @@
   "id": 253445259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.562021,54.965675,-1.562021,54.965675",
     "geom:latitude":54.965675,
     "geom:longitude":-1.562021,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1168 Walker Road",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253445259,
-    "wof:lastmodified":1449063213,
+    "wof:lastmodified":1466266592,
     "wof:name":"Thompson News",
     "wof:parent_id":85790585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.562021,54.965675,-1.562021,54.965675],
+  "bbox": [
+    -1.562021,
+    54.965675,
+    -1.562021,
+    54.965675
+],
   "geometry": {"coordinates":[-1.562021,54.965675],"type":"Point"}
 }

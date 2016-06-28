@@ -2,13 +2,14 @@
   "id": 135432523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.72159,55.59845,-2.72159,55.59845",
     "geom:latitude":55.59845,
     "geom:longitude":-2.72159,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Greenyards, High Street",
     "sg:city":"Melrose",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135432523,
-    "wof:lastmodified":1449020926,
+    "wof:lastmodified":1466266572,
     "wof:name":"Melrose Rugby Football Club",
     "wof:parent_id":101877109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.72159,55.59845,-2.72159,55.59845],
+  "bbox": [
+    -2.72159,
+    55.59845,
+    -2.72159,
+    55.59845
+],
   "geometry": {"coordinates":[-2.72159,55.59845],"type":"Point"}
 }

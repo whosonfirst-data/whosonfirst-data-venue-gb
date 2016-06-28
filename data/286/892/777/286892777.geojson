@@ -2,13 +2,14 @@
   "id": 286892777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.570509,51.543083,-2.570509,51.543083",
     "geom:latitude":51.543083,
     "geom:longitude":-2.570509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Park Avenue, Aztec West",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286892777,
-    "wof:lastmodified":1449015600,
+    "wof:lastmodified":1466280242,
     "wof:name":"South West Region",
     "wof:parent_id":85785427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-2.570509,51.543083,-2.570509,51.543083],
+  "bbox": [
+    -2.570509,
+    51.543083,
+    -2.570509,
+    51.543083
+],
   "geometry": {"coordinates":[-2.570509,51.543083],"type":"Point"}
 }

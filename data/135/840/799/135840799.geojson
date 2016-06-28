@@ -2,13 +2,14 @@
   "id": 135840799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.097184,52.575371,-1.097184,52.575371",
     "geom:latitude":52.575371,
     "geom:longitude":-1.097184,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Heards Close",
     "sg:city":"Wigston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135840799,
-    "wof:lastmodified":1449023348,
+    "wof:lastmodified":1466287807,
     "wof:name":"Chris Evans",
     "wof:parent_id":85861093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.097184,52.575371,-1.097184,52.575371],
+  "bbox": [
+    -1.097184,
+    52.575371,
+    -1.097184,
+    52.575371
+],
   "geometry": {"coordinates":[-1.097184,52.575371],"type":"Point"}
 }

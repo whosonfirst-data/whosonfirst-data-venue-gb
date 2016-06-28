@@ -2,13 +2,14 @@
   "id": 286910357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.240464,53.482265,-2.240464,53.482265",
     "geom:latitude":53.482265,
     "geom:longitude":-2.240464,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Market Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286910357,
-    "wof:lastmodified":1449016404,
+    "wof:lastmodified":1466280529,
     "wof:name":"Vodafone Retail Ltd.",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-2.240464,53.482265,-2.240464,53.482265],
+  "bbox": [
+    -2.240464,
+    53.482265,
+    -2.240464,
+    53.482265
+],
   "geometry": {"coordinates":[-2.240464,53.482265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287005209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.11509,53.369171,-2.11509,53.369171",
     "geom:latitude":53.369171,
     "geom:longitude":-2.11509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Bakewell Road, Hazel Grove",
     "sg:city":"Stockport",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287005209,
-    "wof:lastmodified":1449001514,
+    "wof:lastmodified":1466263067,
     "wof:name":"David Wright",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "heating"
     ]
 },
-  "bbox": [-2.11509,53.369171,-2.11509,53.369171],
+  "bbox": [
+    -2.11509,
+    53.369171,
+    -2.11509,
+    53.369171
+],
   "geometry": {"coordinates":[-2.11509,53.369171],"type":"Point"}
 }

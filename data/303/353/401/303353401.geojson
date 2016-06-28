@@ -2,13 +2,14 @@
   "id": 303353401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.238945,53.49242,-2.238945,53.49242",
     "geom:latitude":53.49242,
     "geom:longitude":-2.238945,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Stocks St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303353401,
-    "wof:lastmodified":1448998818,
+    "wof:lastmodified":1466273420,
     "wof:name":"G & D Services",
     "wof:parent_id":85793059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "novelty"
     ]
 },
-  "bbox": [-2.238945,53.49242,-2.238945,53.49242],
+  "bbox": [
+    -2.238945,
+    53.49242,
+    -2.238945,
+    53.49242
+],
   "geometry": {"coordinates":[-2.238945,53.49242],"type":"Point"}
 }

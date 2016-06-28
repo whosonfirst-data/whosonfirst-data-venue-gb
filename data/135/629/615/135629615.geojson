@@ -2,13 +2,14 @@
   "id": 135629615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.504303,52.420437,-1.504303,52.420437",
     "geom:latitude":52.420437,
     "geom:longitude":-1.504303,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Lewis Road",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":135629615,
-    "wof:lastmodified":1449023316,
+    "wof:lastmodified":1466283895,
     "wof:name":"Lewis Taxis",
     "wof:parent_id":85792035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.504303,52.420437,-1.504303,52.420437],
+  "bbox": [
+    -1.504303,
+    52.420437,
+    -1.504303,
+    52.420437
+],
   "geometry": {"coordinates":[-1.504303,52.420437],"type":"Point"}
 }

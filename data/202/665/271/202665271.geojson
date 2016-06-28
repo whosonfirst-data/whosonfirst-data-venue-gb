@@ -2,13 +2,14 @@
   "id": 202665271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.337752,51.753189,-0.337752,51.753189",
     "geom:latitude":51.753189,
     "geom:longitude":-0.337752,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Rear Of 68 Stanhope Rd",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202665271,
-    "wof:lastmodified":1449060888,
+    "wof:lastmodified":1466256943,
     "wof:name":"St Albans Taxi Co",
     "wof:parent_id":85789907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-0.337752,51.753189,-0.337752,51.753189],
+  "bbox": [
+    -0.337752,
+    51.753189,
+    -0.337752,
+    51.753189
+],
   "geometry": {"coordinates":[-0.337752,51.753189],"type":"Point"}
 }

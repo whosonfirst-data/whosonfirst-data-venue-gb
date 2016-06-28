@@ -2,13 +2,14 @@
   "id": 236965199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.51477,51.410572,-2.51477,51.410572",
     "geom:latitude":51.410572,
     "geom:longitude":-2.51477,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Lays Drive, Keynsham",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236965199,
-    "wof:lastmodified":1449004052,
+    "wof:lastmodified":1466274780,
     "wof:name":"Mike Lee",
     "wof:parent_id":85790759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-2.51477,51.410572,-2.51477,51.410572],
+  "bbox": [
+    -2.51477,
+    51.410572,
+    -2.51477,
+    51.410572
+],
   "geometry": {"coordinates":[-2.51477,51.410572],"type":"Point"}
 }

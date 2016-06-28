@@ -2,13 +2,14 @@
   "id": 202987743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.782453,52.504776,-1.782453,52.504776",
     "geom:latitude":52.504776,
     "geom:longitude":-1.782453,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 New Street, Castle Bromwich",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202987743,
-    "wof:lastmodified":1449061524,
+    "wof:lastmodified":1466262100,
     "wof:name":"Midland Vision",
     "wof:parent_id":85786105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-1.782453,52.504776,-1.782453,52.504776],
+  "bbox": [
+    -1.782453,
+    52.504776,
+    -1.782453,
+    52.504776
+],
   "geometry": {"coordinates":[-1.782453,52.504776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202910665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.042361,53.497204,-2.042361,53.497204",
     "geom:latitude":53.497204,
     "geom:longitude":-2.042361,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Wakefield Road, Heyrod",
     "sg:city":"Stalybridge",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202910665,
-    "wof:lastmodified":1449061169,
+    "wof:lastmodified":1466260905,
     "wof:name":"Heyrod Village Store",
     "wof:parent_id":85793057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.042361,53.497204,-2.042361,53.497204],
+  "bbox": [
+    -2.042361,
+    53.497204,
+    -2.042361,
+    53.497204
+],
   "geometry": {"coordinates":[-2.042361,53.497204],"type":"Point"}
 }

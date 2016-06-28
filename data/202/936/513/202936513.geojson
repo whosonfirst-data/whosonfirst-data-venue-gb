@@ -2,13 +2,14 @@
   "id": 202936513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.627142,55.847378,-3.627142,55.847378",
     "geom:latitude":55.847378,
     "geom:longitude":-3.627142,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Cuthill Crescent, Stoneyburn",
     "sg:city":"Bathgate",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202936513,
-    "wof:lastmodified":1449060958,
+    "wof:lastmodified":1466261313,
     "wof:name":"M & M Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cab"
     ]
 },
-  "bbox": [-3.627142,55.847378,-3.627142,55.847378],
+  "bbox": [
+    -3.627142,
+    55.847378,
+    -3.627142,
+    55.847378
+],
   "geometry": {"coordinates":[-3.627142,55.847378],"type":"Point"}
 }

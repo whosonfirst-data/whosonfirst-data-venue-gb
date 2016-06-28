@@ -2,13 +2,14 @@
   "id": 135363011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.25414,55.88213,-4.25414,55.88213",
     "geom:latitude":55.88213,
     "geom:longitude":-4.25414,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Saracen Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135363011,
-    "wof:lastmodified":1449023645,
+    "wof:lastmodified":1466258706,
     "wof:name":"Happy Date",
     "wof:parent_id":85790559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.25414,55.88213,-4.25414,55.88213],
+  "bbox": [
+    -4.25414,
+    55.88213,
+    -4.25414,
+    55.88213
+],
   "geometry": {"coordinates":[-4.25414,55.88213],"type":"Point"}
 }

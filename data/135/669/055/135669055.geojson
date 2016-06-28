@@ -2,13 +2,14 @@
   "id": 135669055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.451802,53.412247,-4.451802,53.412247",
     "geom:latitude":53.412247,
     "geom:longitude":-4.451802,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wylfa Power Station",
     "sg:city":"Cemaes Bay",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135669055,
-    "wof:lastmodified":1449021334,
+    "wof:lastmodified":1466285417,
     "wof:name":"BNFL Magnox Generation",
     "wof:parent_id":85683833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.451802,53.412247,-4.451802,53.412247],
+  "bbox": [
+    -4.451802,
+    53.412247,
+    -4.451802,
+    53.412247
+],
   "geometry": {"coordinates":[-4.451802,53.412247],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336607877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.60324,54.970188,-1.60324,54.970188",
     "geom:latitude":54.970188,
     "geom:longitude":-1.60324,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Court Offices, Quayside",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336607877,
-    "wof:lastmodified":1448997073,
+    "wof:lastmodified":1466272998,
     "wof:name":"Probation Service",
     "wof:parent_id":85786375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "central"
     ]
 },
-  "bbox": [-1.60324,54.970188,-1.60324,54.970188],
+  "bbox": [
+    -1.60324,
+    54.970188,
+    -1.60324,
+    54.970188
+],
   "geometry": {"coordinates":[-1.60324,54.970188],"type":"Point"}
 }

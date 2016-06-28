@@ -2,13 +2,14 @@
   "id": 135445907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.467259,53.51376,-2.467259,53.51376",
     "geom:latitude":53.51376,
     "geom:longitude":-2.467259,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Castle St, Tyldesley",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135445907,
-    "wof:lastmodified":1449021388,
+    "wof:lastmodified":1466268142,
     "wof:name":"Tyldesley Swimming Pool",
     "wof:parent_id":85785389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.467259,53.51376,-2.467259,53.51376],
+  "bbox": [
+    -2.467259,
+    53.51376,
+    -2.467259,
+    53.51376
+],
   "geometry": {"coordinates":[-2.467259,53.51376],"type":"Point"}
 }

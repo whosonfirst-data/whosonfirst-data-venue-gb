@@ -2,13 +2,14 @@
   "id": 203254471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.51173,51.46312,-2.51173,51.46312",
     "geom:latitude":51.46312,
     "geom:longitude":-2.51173,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Tumar Hill Road, Kingswood",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203254471,
-    "wof:lastmodified":1449026283,
+    "wof:lastmodified":1466257034,
     "wof:name":"Armstrong Ltd.",
     "wof:parent_id":85789311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-2.51173,51.46312,-2.51173,51.46312],
+  "bbox": [
+    -2.51173,
+    51.46312,
+    -2.51173,
+    51.46312
+],
   "geometry": {"coordinates":[-2.51173,51.46312],"type":"Point"}
 }

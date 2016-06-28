@@ -2,13 +2,14 @@
   "id": 303123449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.153618,51.068085,-4.153618,51.068085",
     "geom:latitude":51.068085,
     "geom:longitude":-4.153618,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Southfork, Pottery Lane, Yelland",
     "sg:city":"Barnstaple",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303123449,
-    "wof:lastmodified":1448998849,
+    "wof:lastmodified":1466266365,
     "wof:name":"Birch Tarmacadam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-4.153618,51.068085,-4.153618,51.068085],
+  "bbox": [
+    -4.153618,
+    51.068085,
+    -4.153618,
+    51.068085
+],
   "geometry": {"coordinates":[-4.153618,51.068085],"type":"Point"}
 }

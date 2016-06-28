@@ -2,13 +2,14 @@
   "id": 336903499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.116491,52.657665,-1.116491,52.657665",
     "geom:latitude":52.657665,
     "geom:longitude":-1.116491,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Checketts Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336903499,
-    "wof:lastmodified":1448996986,
+    "wof:lastmodified":1466280446,
     "wof:name":"Kings Taxis",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-1.116491,52.657665,-1.116491,52.657665],
+  "bbox": [
+    -1.116491,
+    52.657665,
+    -1.116491,
+    52.657665
+],
   "geometry": {"coordinates":[-1.116491,52.657665],"type":"Point"}
 }

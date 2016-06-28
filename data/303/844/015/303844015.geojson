@@ -2,13 +2,14 @@
   "id": 303844015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.44535,53.400021,-1.44535,53.400021",
     "geom:latitude":53.400021,
     "geom:longitude":-1.44535,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 Precision Works",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303844015,
-    "wof:lastmodified":1448999161,
+    "wof:lastmodified":1466283525,
     "wof:name":"Grayson Engineering",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.44535,53.400021,-1.44535,53.400021],
+  "bbox": [
+    -1.44535,
+    53.400021,
+    -1.44535,
+    53.400021
+],
   "geometry": {"coordinates":[-1.44535,53.400021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269816497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.607277,51.440125,-2.607277,51.440125",
     "geom:latitude":51.440125,
     "geom:longitude":-2.607277,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"120 North Street, Bedminster",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269816497,
-    "wof:lastmodified":1449037547,
+    "wof:lastmodified":1466270128,
     "wof:name":"Autocare Centre",
     "wof:parent_id":85785577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-2.607277,51.440125,-2.607277,51.440125],
+  "bbox": [
+    -2.607277,
+    51.440125,
+    -2.607277,
+    51.440125
+],
   "geometry": {"coordinates":[-2.607277,51.440125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135971323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.660015,54.970104,-1.660015,54.970104",
     "geom:latitude":54.970104,
     "geom:longitude":-1.660015,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Gerald Street",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135971323,
-    "wof:lastmodified":1449022544,
+    "wof:lastmodified":1466288461,
     "wof:name":"Benwell Taxis",
     "wof:parent_id":85785631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.660015,54.970104,-1.660015,54.970104],
+  "bbox": [
+    -1.660015,
+    54.970104,
+    -1.660015,
+    54.970104
+],
   "geometry": {"coordinates":[-1.660015,54.970104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303605903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.929703,53.410336,-2.929703,53.410336",
     "geom:latitude":53.410336,
     "geom:longitude":-2.929703,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"369 Edge La",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303605903,
-    "wof:lastmodified":1448999307,
+    "wof:lastmodified":1466280176,
     "wof:name":"J J Fish & Chips",
     "wof:parent_id":85787331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-2.929703,53.410336,-2.929703,53.410336],
+  "bbox": [
+    -2.929703,
+    53.410336,
+    -2.929703,
+    53.410336
+],
   "geometry": {"coordinates":[-2.929703,53.410336],"type":"Point"}
 }

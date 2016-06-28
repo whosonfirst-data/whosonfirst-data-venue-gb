@@ -2,13 +2,14 @@
   "id": 135967127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.249853,53.174263,-1.249853,53.174263",
     "geom:latitude":53.174263,
     "geom:longitude":-1.249853,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"528 Chesterfield Road North, Pleasley",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135967127,
-    "wof:lastmodified":1449023778,
+    "wof:lastmodified":1466288439,
     "wof:name":"Pleasley Post Office",
     "wof:parent_id":85684075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.249853,53.174263,-1.249853,53.174263],
+  "bbox": [
+    -1.249853,
+    53.174263,
+    -1.249853,
+    53.174263
+],
   "geometry": {"coordinates":[-1.249853,53.174263],"type":"Point"}
 }

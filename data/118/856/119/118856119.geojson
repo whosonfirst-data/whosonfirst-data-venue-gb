@@ -2,13 +2,14 @@
   "id": 118856119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.002515,50.739223,-4.002515,50.739223",
     "geom:latitude":50.739223,
     "geom:longitude":-4.002515,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Castle Hospital, Castle Road",
     "sg:city":"Okehampton",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":118856119,
-    "wof:lastmodified":1449053553,
+    "wof:lastmodified":1466276854,
     "wof:name":"Castle Hospital",
     "wof:parent_id":101852557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.002515,50.739223,-4.002515,50.739223],
+  "bbox": [
+    -4.002515,
+    50.739223,
+    -4.002515,
+    50.739223
+],
   "geometry": {"coordinates":[-4.002515,50.739223],"type":"Point"}
 }

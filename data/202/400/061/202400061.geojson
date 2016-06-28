@@ -2,13 +2,14 @@
   "id": 202400061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.056918,51.427048,-0.056918,51.427048",
     "geom:latitude":51.427048,
     "geom:longitude":-0.056918,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Lawrie Park Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202400061,
-    "wof:lastmodified":1449060361,
+    "wof:lastmodified":1466252607,
     "wof:name":"Providence Project",
     "wof:parent_id":85790873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-0.056918,51.427048,-0.056918,51.427048],
+  "bbox": [
+    -0.056918,
+    51.427048,
+    -0.056918,
+    51.427048
+],
   "geometry": {"coordinates":[-0.056918,51.427048],"type":"Point"}
 }

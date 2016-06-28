@@ -2,13 +2,14 @@
   "id": 303092123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.834864,52.411236,-1.834864,52.411236",
     "geom:latitude":52.411236,
     "geom:longitude":-1.834864,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Exchange, Haslucks Green Rd, Shirley Solihull",
     "sg:city":"Solihull",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303092123,
-    "wof:lastmodified":1449000106,
+    "wof:lastmodified":1466265367,
     "wof:name":"Birmingham Data Storage Centre",
     "wof:parent_id":85790319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "data"
     ]
 },
-  "bbox": [-1.834864,52.411236,-1.834864,52.411236],
+  "bbox": [
+    -1.834864,
+    52.411236,
+    -1.834864,
+    52.411236
+],
   "geometry": {"coordinates":[-1.834864,52.411236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320804141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.785393,50.735744,-1.785393,50.735744",
     "geom:latitude":50.735744,
     "geom:longitude":-1.785393,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Stour Road",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320804141,
-    "wof:lastmodified":1449013871,
+    "wof:lastmodified":1466284857,
     "wof:name":"Ashbourne Guest House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "guest"
     ]
 },
-  "bbox": [-1.785393,50.735744,-1.785393,50.735744],
+  "bbox": [
+    -1.785393,
+    50.735744,
+    -1.785393,
+    50.735744
+],
   "geometry": {"coordinates":[-1.785393,50.735744],"type":"Point"}
 }

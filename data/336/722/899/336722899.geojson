@@ -2,13 +2,14 @@
   "id": 336722899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.66854,54.957661,-1.66854,54.957661",
     "geom:latitude":54.957661,
     "geom:longitude":-1.66854,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Garden Walk, Metrocentre",
     "sg:city":"Gateshead",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":336722899,
-    "wof:lastmodified":1448997306,
+    "wof:lastmodified":1466276485,
     "wof:name":"G X Superbowl",
     "wof:parent_id":85787115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.66854,54.957661,-1.66854,54.957661],
+  "bbox": [
+    -1.66854,
+    54.957661,
+    -1.66854,
+    54.957661
+],
   "geometry": {"coordinates":[-1.66854,54.957661],"type":"Point"}
 }

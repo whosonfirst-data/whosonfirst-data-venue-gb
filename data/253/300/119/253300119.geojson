@@ -2,13 +2,14 @@
   "id": 253300119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.233529,52.995251,-1.233529,52.995251",
     "geom:latitude":52.995251,
     "geom:longitude":-1.233529,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Kimberley Rd, Nuthall",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253300119,
-    "wof:lastmodified":1449064493,
+    "wof:lastmodified":1466263281,
     "wof:name":"Nuthall P.O",
     "wof:parent_id":85861887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.233529,52.995251,-1.233529,52.995251],
+  "bbox": [
+    -1.233529,
+    52.995251,
+    -1.233529,
+    52.995251
+],
   "geometry": {"coordinates":[-1.233529,52.995251],"type":"Point"}
 }

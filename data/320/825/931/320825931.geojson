@@ -2,13 +2,14 @@
   "id": 320825931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.119747,52.970882,-1.119747,52.970882",
     "geom:latitude":52.970882,
     "geom:longitude":-1.119747,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Porchester Road",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320825931,
-    "wof:lastmodified":1449011408,
+    "wof:lastmodified":1466285028,
     "wof:name":"F Holmes & Sons (Porchester) Ltd.",
     "wof:parent_id":85861941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.119747,52.970882,-1.119747,52.970882],
+  "bbox": [
+    -1.119747,
+    52.970882,
+    -1.119747,
+    52.970882
+],
   "geometry": {"coordinates":[-1.119747,52.970882],"type":"Point"}
 }

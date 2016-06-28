@@ -2,13 +2,14 @@
   "id": 119127593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.050709,53.820183,-3.050709,53.820183",
     "geom:latitude":53.820183,
     "geom:longitude":-3.050709,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Topping Street",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119127593,
-    "wof:lastmodified":1449043313,
+    "wof:lastmodified":1466261533,
     "wof:name":"Busy Bees",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.050709,53.820183,-3.050709,53.820183],
+  "bbox": [
+    -3.050709,
+    53.820183,
+    -3.050709,
+    53.820183
+],
   "geometry": {"coordinates":[-3.050709,53.820183],"type":"Point"}
 }

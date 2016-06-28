@@ -2,13 +2,14 @@
   "id": 219755337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.124584,53.38369,-2.124584,53.38369",
     "geom:latitude":53.38369,
     "geom:longitude":-2.124584,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Grosvenor Street, Hazel Gro",
     "sg:city":"Stockport",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219755337,
-    "wof:lastmodified":1449071404,
+    "wof:lastmodified":1466262948,
     "wof:name":"Grosvenor Garage",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.124584,53.38369,-2.124584,53.38369],
+  "bbox": [
+    -2.124584,
+    53.38369,
+    -2.124584,
+    53.38369
+],
   "geometry": {"coordinates":[-2.124584,53.38369],"type":"Point"}
 }

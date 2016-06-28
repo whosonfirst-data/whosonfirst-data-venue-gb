@@ -2,13 +2,14 @@
   "id": 119415265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.09627,57.161758,-2.09627,57.161758",
     "geom:latitude":57.161758,
     "geom:longitude":-2.09627,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Excelsior Service Station 472 480, King Street",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119415265,
-    "wof:lastmodified":1449042791,
+    "wof:lastmodified":1466285556,
     "wof:name":"P Bell",
     "wof:parent_id":85789565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.09627,57.161758,-2.09627,57.161758],
+  "bbox": [
+    -2.09627,
+    57.161758,
+    -2.09627,
+    57.161758
+],
   "geometry": {"coordinates":[-2.09627,57.161758],"type":"Point"}
 }

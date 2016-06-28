@@ -2,13 +2,14 @@
   "id": 270432447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.216243,55.898033,-4.216243,55.898033",
     "geom:latitude":55.898033,
     "geom:longitude":-4.216243,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Auchinairn Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270432447,
-    "wof:lastmodified":1449008623,
+    "wof:lastmodified":1466273358,
     "wof:name":"White, R",
     "wof:parent_id":85793309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-4.216243,55.898033,-4.216243,55.898033],
+  "bbox": [
+    -4.216243,
+    55.898033,
+    -4.216243,
+    55.898033
+],
   "geometry": {"coordinates":[-4.216243,55.898033],"type":"Point"}
 }

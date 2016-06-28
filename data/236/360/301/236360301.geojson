@@ -2,13 +2,14 @@
   "id": 236360301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.352164,53.448006,-2.352164,53.448006",
     "geom:latitude":53.448006,
     "geom:longitude":-2.352164,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor 6 Higher Rd, Urmston",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236360301,
-    "wof:lastmodified":1449004337,
+    "wof:lastmodified":1466263321,
     "wof:name":"EME Services",
     "wof:parent_id":85793237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital"
     ]
 },
-  "bbox": [-2.352164,53.448006,-2.352164,53.448006],
+  "bbox": [
+    -2.352164,
+    53.448006,
+    -2.352164,
+    53.448006
+],
   "geometry": {"coordinates":[-2.352164,53.448006],"type":"Point"}
 }

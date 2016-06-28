@@ -2,13 +2,14 @@
   "id": 236340799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.489729,50.902924,-3.489729,50.902924",
     "geom:latitude":50.902924,
     "geom:longitude":-3.489729,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Angel Hill",
     "sg:city":"Tiverton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236340799,
-    "wof:lastmodified":1449004344,
+    "wof:lastmodified":1466262970,
     "wof:name":"The Barbers Shop",
     "wof:parent_id":85786799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-3.489729,50.902924,-3.489729,50.902924],
+  "bbox": [
+    -3.489729,
+    50.902924,
+    -3.489729,
+    50.902924
+],
   "geometry": {"coordinates":[-3.489729,50.902924],"type":"Point"}
 }

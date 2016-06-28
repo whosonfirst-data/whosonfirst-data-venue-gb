@@ -2,13 +2,14 @@
   "id": 304081429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.318164,54.558979,-1.318164,54.558979",
     "geom:latitude":54.558979,
     "geom:longitude":-1.318164,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Bowesfield Lane",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":304081429,
-    "wof:lastmodified":1449043735,
+    "wof:lastmodified":1466266720,
     "wof:name":"Bowesfield Dry Cleaners",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "alteration"
     ]
 },
-  "bbox": [-1.318164,54.558979,-1.318164,54.558979],
+  "bbox": [
+    -1.318164,
+    54.558979,
+    -1.318164,
+    54.558979
+],
   "geometry": {"coordinates":[-1.318164,54.558979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253610501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.24877,51.323399,-1.24877,51.323399",
     "geom:latitude":51.323399,
     "geom:longitude":-1.24877,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Swan St, Kingsclere",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253610501,
-    "wof:lastmodified":1449065762,
+    "wof:lastmodified":1466271479,
     "wof:name":"Datalink Systems Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "software"
     ]
 },
-  "bbox": [-1.24877,51.323399,-1.24877,51.323399],
+  "bbox": [
+    -1.24877,
+    51.323399,
+    -1.24877,
+    51.323399
+],
   "geometry": {"coordinates":[-1.24877,51.323399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303116439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.753442,51.88813,-1.753442,51.88813",
     "geom:latitude":51.88813,
     "geom:longitude":-1.753442,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Roman Way, Bourton On Water",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303116439,
-    "wof:lastmodified":1448998475,
+    "wof:lastmodified":1466266181,
     "wof:name":"S.A Lane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-1.753442,51.88813,-1.753442,51.88813],
+  "bbox": [
+    -1.753442,
+    51.88813,
+    -1.753442,
+    51.88813
+],
   "geometry": {"coordinates":[-1.753442,51.88813],"type":"Point"}
 }

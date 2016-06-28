@@ -2,13 +2,14 @@
   "id": 119101145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.501926,53.705017,-1.501926,53.705017",
     "geom:latitude":53.705017,
     "geom:longitude":-1.501926,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Grey St, Outwood",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119101145,
-    "wof:lastmodified":1449042250,
+    "wof:lastmodified":1466258927,
     "wof:name":"The Search Service",
     "wof:parent_id":85789407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.501926,53.705017,-1.501926,53.705017],
+  "bbox": [
+    -1.501926,
+    53.705017,
+    -1.501926,
+    53.705017
+],
   "geometry": {"coordinates":[-1.501926,53.705017],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303622507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.086586,51.485149,-0.086586,51.485149",
     "geom:latitude":51.485149,
     "geom:longitude":-0.086586,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Michael Faraday House, 28 Beaconsfield Rd",
     "sg:city":"Elephant And Castle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303622507,
-    "wof:lastmodified":1449000118,
+    "wof:lastmodified":1466280262,
     "wof:name":"Edif Communications",
     "wof:parent_id":85791327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-0.086586,51.485149,-0.086586,51.485149],
+  "bbox": [
+    -0.086586,
+    51.485149,
+    -0.086586,
+    51.485149
+],
   "geometry": {"coordinates":[-0.086586,51.485149],"type":"Point"}
 }

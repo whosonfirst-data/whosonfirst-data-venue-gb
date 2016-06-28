@@ -2,13 +2,14 @@
   "id": 336906143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.12045,52.204632,0.12045,52.204632",
     "geom:latitude":52.204632,
     "geom:longitude":0.12045,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Guidance Shops, Central Library, 7 Lion Yard",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336906143,
-    "wof:lastmodified":1448997353,
+    "wof:lastmodified":1466280704,
     "wof:name":"Adult Guidance Service",
     "wof:parent_id":85793135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "guidance"
     ]
 },
-  "bbox": [0.12045,52.204632,0.12045,52.204632],
+  "bbox": [
+    0.12045,
+    52.204632,
+    0.12045,
+    52.204632
+],
   "geometry": {"coordinates":[0.12045,52.204632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303293955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.908604,52.478596,-1.908604,52.478596",
     "geom:latitude":52.478596,
     "geom:longitude":-1.908604,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"311-314 Lonsdale House, 52 Blucher Street",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303293955,
-    "wof:lastmodified":1448998595,
+    "wof:lastmodified":1466271657,
     "wof:name":"Zip Publishing Ltd",
     "wof:parent_id":85861281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-1.908604,52.478596,-1.908604,52.478596],
+  "bbox": [
+    -1.908604,
+    52.478596,
+    -1.908604,
+    52.478596
+],
   "geometry": {"coordinates":[-1.908604,52.478596],"type":"Point"}
 }

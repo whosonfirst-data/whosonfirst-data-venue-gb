@@ -2,13 +2,14 @@
   "id": 219655331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.145703,50.372288,-4.145703,50.372288",
     "geom:latitude":50.372288,
     "geom:longitude":-4.145703,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Cornwall Street",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219655331,
-    "wof:lastmodified":1449072406,
+    "wof:lastmodified":1466261302,
     "wof:name":"James Butchers",
     "wof:parent_id":85789105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "butcher"
     ]
 },
-  "bbox": [-4.145703,50.372288,-4.145703,50.372288],
+  "bbox": [
+    -4.145703,
+    50.372288,
+    -4.145703,
+    50.372288
+],
   "geometry": {"coordinates":[-4.145703,50.372288],"type":"Point"}
 }

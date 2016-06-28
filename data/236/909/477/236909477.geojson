@@ -2,13 +2,14 @@
   "id": 236909477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.26637,51.55027,-3.26637,51.55027",
     "geom:latitude":51.55027,
     "geom:longitude":-3.26637,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Rhiwr Ddar, Taffs Well",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236909477,
-    "wof:lastmodified":1449004260,
+    "wof:lastmodified":1466273783,
     "wof:name":"Personal Computers",
     "wof:parent_id":85861425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-3.26637,51.55027,-3.26637,51.55027],
+  "bbox": [
+    -3.26637,
+    51.55027,
+    -3.26637,
+    51.55027
+],
   "geometry": {"coordinates":[-3.26637,51.55027],"type":"Point"}
 }

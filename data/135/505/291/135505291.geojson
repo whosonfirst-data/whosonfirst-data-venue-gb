@@ -2,13 +2,14 @@
   "id": 135505291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.325354,51.394989,-2.325354,51.394989",
     "geom:latitude":51.394989,
     "geom:longitude":-2.325354,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hessle House, Bathampton Lane, Bathampton",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":135505291,
-    "wof:lastmodified":1449023516,
+    "wof:lastmodified":1466275117,
     "wof:name":"Classic Sights",
     "wof:parent_id":85790855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.325354,51.394989,-2.325354,51.394989],
+  "bbox": [
+    -2.325354,
+    51.394989,
+    -2.325354,
+    51.394989
+],
   "geometry": {"coordinates":[-2.325354,51.394989],"type":"Point"}
 }

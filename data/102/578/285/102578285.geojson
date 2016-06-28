@@ -2,13 +2,14 @@
   "id": 102578285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.152404,51.065079,-4.152404,51.065079",
     "geom:latitude":51.065079,
     "geom:longitude":-4.152404,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Little Moor Close, West Yelland",
     "sg:city":"Barnstaple",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102578285,
-    "wof:lastmodified":1449068388,
+    "wof:lastmodified":1466273315,
     "wof:name":"Terry Josling",
     "wof:parent_id":85683773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.152404,51.065079,-4.152404,51.065079],
+  "bbox": [
+    -4.152404,
+    51.065079,
+    -4.152404,
+    51.065079
+],
   "geometry": {"coordinates":[-4.152404,51.065079],"type":"Point"}
 }

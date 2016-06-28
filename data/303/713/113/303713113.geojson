@@ -2,13 +2,14 @@
   "id": 303713113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.203909,55.940121,-3.203909,55.940121",
     "geom:latitude":55.940121,
     "geom:longitude":-3.203909,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Bruntfield Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303713113,
-    "wof:lastmodified":1449000337,
+    "wof:lastmodified":1466281951,
     "wof:name":"Hi-Fi Repair Shop",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-3.203909,55.940121,-3.203909,55.940121],
+  "bbox": [
+    -3.203909,
+    55.940121,
+    -3.203909,
+    55.940121
+],
   "geometry": {"coordinates":[-3.203909,55.940121],"type":"Point"}
 }

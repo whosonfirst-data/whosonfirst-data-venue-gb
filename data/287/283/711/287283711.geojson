@@ -2,13 +2,14 @@
   "id": 287283711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.211316,54.531429,-1.211316,54.531429",
     "geom:latitude":54.531429,
     "geom:longitude":-1.211316,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sadler Dr",
     "sg:city":"Middlesbrough",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287283711,
-    "wof:lastmodified":1449000911,
+    "wof:lastmodified":1466271789,
     "wof:name":"Bryant Homes",
     "wof:parent_id":85789007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.211316,54.531429,-1.211316,54.531429],
+  "bbox": [
+    -1.211316,
+    54.531429,
+    -1.211316,
+    54.531429
+],
   "geometry": {"coordinates":[-1.211316,54.531429],"type":"Point"}
 }

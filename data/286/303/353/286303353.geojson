@@ -2,13 +2,14 @@
   "id": 286303353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.847615,51.019234,-2.847615,51.019234",
     "geom:latitude":51.019234,
     "geom:longitude":-2.847615,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"East St, Drayton",
     "sg:city":"Langport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286303353,
-    "wof:lastmodified":1449015195,
+    "wof:lastmodified":1466263602,
     "wof:name":"Drayton P.O",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.847615,51.019234,-2.847615,51.019234],
+  "bbox": [
+    -2.847615,
+    51.019234,
+    -2.847615,
+    51.019234
+],
   "geometry": {"coordinates":[-2.847615,51.019234],"type":"Point"}
 }

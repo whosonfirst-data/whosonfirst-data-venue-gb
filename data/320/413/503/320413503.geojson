@@ -2,13 +2,14 @@
   "id": 320413503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.965466,52.40757,-1.965466,52.40757",
     "geom:latitude":52.40757,
     "geom:longitude":-1.965466,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Station Road, Northfield",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320413503,
-    "wof:lastmodified":1449011846,
+    "wof:lastmodified":1466279770,
     "wof:name":"Northfield Press",
     "wof:parent_id":85789493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-1.965466,52.40757,-1.965466,52.40757],
+  "bbox": [
+    -1.965466,
+    52.40757,
+    -1.965466,
+    52.40757
+],
   "geometry": {"coordinates":[-1.965466,52.40757],"type":"Point"}
 }

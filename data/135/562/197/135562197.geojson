@@ -2,13 +2,14 @@
   "id": 135562197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.4362,50.546364,-2.4362,50.546364",
     "geom:latitude":50.546364,
     "geom:longitude":-2.4362,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Easton Street",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135562197,
-    "wof:lastmodified":1449022613,
+    "wof:lastmodified":1466280026,
     "wof:name":"Dorset Lettings",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.4362,50.546364,-2.4362,50.546364],
+  "bbox": [
+    -2.4362,
+    50.546364,
+    -2.4362,
+    50.546364
+],
   "geometry": {"coordinates":[-2.4362,50.546364],"type":"Point"}
 }

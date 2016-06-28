@@ -2,13 +2,14 @@
   "id": 270128031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.161699,55.957424,-3.161699,55.957424",
     "geom:latitude":55.957424,
     "geom:longitude":-3.161699,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Marionville Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270128031,
-    "wof:lastmodified":1449009581,
+    "wof:lastmodified":1466264336,
     "wof:name":"City Centre Cars",
     "wof:parent_id":85792695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-3.161699,55.957424,-3.161699,55.957424],
+  "bbox": [
+    -3.161699,
+    55.957424,
+    -3.161699,
+    55.957424
+],
   "geometry": {"coordinates":[-3.161699,55.957424],"type":"Point"}
 }

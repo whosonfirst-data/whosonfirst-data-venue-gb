@@ -2,13 +2,14 @@
   "id": 287105727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.06972,51.895592,-2.06972,51.895592",
     "geom:latitude":51.895592,
     "geom:longitude":-2.06972,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Priory Lodge Wine Cellars, London Road",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287105727,
-    "wof:lastmodified":1449001006,
+    "wof:lastmodified":1466266209,
     "wof:name":"Cheltenham Vintner",
     "wof:parent_id":85785541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-2.06972,51.895592,-2.06972,51.895592],
+  "bbox": [
+    -2.06972,
+    51.895592,
+    -2.06972,
+    51.895592
+],
   "geometry": {"coordinates":[-2.06972,51.895592],"type":"Point"}
 }

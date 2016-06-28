@@ -2,13 +2,14 @@
   "id": 135688755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.145589,52.895538,-2.145589,52.895538",
     "geom:latitude":52.895538,
     "geom:longitude":-2.145589,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Ford Dr",
     "sg:city":"Stone",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135688755,
-    "wof:lastmodified":1449022126,
+    "wof:lastmodified":1466285721,
     "wof:name":"Rhino Couriers",
     "wof:parent_id":85683943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.145589,52.895538,-2.145589,52.895538],
+  "bbox": [
+    -2.145589,
+    52.895538,
+    -2.145589,
+    52.895538
+],
   "geometry": {"coordinates":[-2.145589,52.895538],"type":"Point"}
 }

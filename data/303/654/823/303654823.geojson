@@ -2,13 +2,14 @@
   "id": 303654823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.021418,50.735287,-2.021418,50.735287",
     "geom:latitude":50.735287,
     "geom:longitude":-2.021418,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 28 Ventura Pl",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303654823,
-    "wof:lastmodified":1448998938,
+    "wof:lastmodified":1466280863,
     "wof:name":"Colour Generation",
     "wof:parent_id":85861239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "card"
     ]
 },
-  "bbox": [-2.021418,50.735287,-2.021418,50.735287],
+  "bbox": [
+    -2.021418,
+    50.735287,
+    -2.021418,
+    50.735287
+],
   "geometry": {"coordinates":[-2.021418,50.735287],"type":"Point"}
 }

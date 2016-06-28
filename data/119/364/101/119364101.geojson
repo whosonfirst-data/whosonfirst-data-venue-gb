@@ -2,13 +2,14 @@
   "id": 119364101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.942095,50.727306,-2.942095,50.727306",
     "geom:latitude":50.727306,
     "geom:longitude":-2.942095,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"West Hill Road",
     "sg:city":"Lyme Regis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119364101,
-    "wof:lastmodified":1449042357,
+    "wof:lastmodified":1466283612,
     "wof:name":"Buckfield House",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.942095,50.727306,-2.942095,50.727306],
+  "bbox": [
+    -2.942095,
+    50.727306,
+    -2.942095,
+    50.727306
+],
   "geometry": {"coordinates":[-2.942095,50.727306],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303500503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.526853,51.213398,-1.526853,51.213398",
     "geom:latitude":51.213398,
     "geom:longitude":-1.526853,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"A303 Westbound, Weyhill",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":303500503,
-    "wof:lastmodified":1448998723,
+    "wof:lastmodified":1466277971,
     "wof:name":"Weyhill Service Stations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "petrol"
     ]
 },
-  "bbox": [-1.526853,51.213398,-1.526853,51.213398],
+  "bbox": [
+    -1.526853,
+    51.213398,
+    -1.526853,
+    51.213398
+],
   "geometry": {"coordinates":[-1.526853,51.213398],"type":"Point"}
 }

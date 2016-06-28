@@ -2,13 +2,14 @@
   "id": 102649697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.135029,50.535931,-4.135029,50.535931",
     "geom:latitude":50.535931,
     "geom:longitude":-4.135029,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lower Tor, Whitchurch",
     "sg:city":"Tavistock",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102649697,
-    "wof:lastmodified":1449069436,
+    "wof:lastmodified":1466254357,
     "wof:name":"Stanley C Bellamy",
     "wof:parent_id":101852555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.135029,50.535931,-4.135029,50.535931],
+  "bbox": [
+    -4.135029,
+    50.535931,
+    -4.135029,
+    50.535931
+],
   "geometry": {"coordinates":[-4.135029,50.535931],"type":"Point"}
 }

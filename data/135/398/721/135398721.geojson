@@ -2,13 +2,14 @@
   "id": 135398721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.094629,57.15345,-2.094629,57.15345",
     "geom:latitude":57.15345,
     "geom:longitude":-2.094629,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"105 King Street",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":135398721,
-    "wof:lastmodified":1449021244,
+    "wof:lastmodified":1466262533,
     "wof:name":"James Mutch Ltd",
     "wof:parent_id":85789565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.094629,57.15345,-2.094629,57.15345],
+  "bbox": [
+    -2.094629,
+    57.15345,
+    -2.094629,
+    57.15345
+],
   "geometry": {"coordinates":[-2.094629,57.15345],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203080823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.126324,51.809483,-1.126324,51.809483",
     "geom:latitude":51.809483,
     "geom:longitude":-1.126324,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Shellgrove Farm, Horton Cum Studley",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203080823,
-    "wof:lastmodified":1449026830,
+    "wof:lastmodified":1466253995,
     "wof:name":"Casco Haulage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "road"
     ]
 },
-  "bbox": [-1.126324,51.809483,-1.126324,51.809483],
+  "bbox": [
+    -1.126324,
+    51.809483,
+    -1.126324,
+    51.809483
+],
   "geometry": {"coordinates":[-1.126324,51.809483],"type":"Point"}
 }

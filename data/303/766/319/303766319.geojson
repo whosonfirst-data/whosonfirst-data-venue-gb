@@ -2,13 +2,14 @@
   "id": 303766319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.726019,52.002529,-0.726019,52.002529",
     "geom:latitude":52.002529,
     "geom:longitude":-0.726019,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Watling Street, Bletchley",
     "sg:city":"Milton Keynes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303766319,
-    "wof:lastmodified":1448998083,
+    "wof:lastmodified":1466282725,
     "wof:name":"B & Q Supercentre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "diy"
     ]
 },
-  "bbox": [-0.726019,52.002529,-0.726019,52.002529],
+  "bbox": [
+    -0.726019,
+    52.002529,
+    -0.726019,
+    52.002529
+],
   "geometry": {"coordinates":[-0.726019,52.002529],"type":"Point"}
 }

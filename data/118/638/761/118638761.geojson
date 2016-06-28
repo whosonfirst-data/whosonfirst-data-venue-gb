@@ -2,13 +2,14 @@
   "id": 118638761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.992899,51.582008,-2.992899,51.582008",
     "geom:latitude":51.582008,
     "geom:longitude":-2.992899,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Royal Gwent Hospital, Cardiff Road",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118638761,
-    "wof:lastmodified":1449053220,
+    "wof:lastmodified":1466260610,
     "wof:name":"Royal Gwent Hospital",
     "wof:parent_id":85864255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.992899,51.582008,-2.992899,51.582008],
+  "bbox": [
+    -2.992899,
+    51.582008,
+    -2.992899,
+    51.582008
+],
   "geometry": {"coordinates":[-2.992899,51.582008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303281039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.318779,53.465408,-2.318779,53.465408",
     "geom:latitude":53.465408,
     "geom:longitude":-2.318779,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Central Park Est, Mosley Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303281039,
-    "wof:lastmodified":1449000190,
+    "wof:lastmodified":1466271267,
     "wof:name":"M B Gas",
     "wof:parent_id":85791125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-2.318779,53.465408,-2.318779,53.465408],
+  "bbox": [
+    -2.318779,
+    53.465408,
+    -2.318779,
+    53.465408
+],
   "geometry": {"coordinates":[-2.318779,53.465408],"type":"Point"}
 }

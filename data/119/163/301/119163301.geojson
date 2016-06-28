@@ -2,13 +2,14 @@
   "id": 119163301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.807005,53.724422,-1.807005,53.724422",
     "geom:latitude":53.724422,
     "geom:longitude":-1.807005,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Westfield Avenue, Lightcliffe",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119163301,
-    "wof:lastmodified":1449043505,
+    "wof:lastmodified":1466265067,
     "wof:name":"C V & Brian Knott",
     "wof:parent_id":85790815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.807005,53.724422,-1.807005,53.724422],
+  "bbox": [
+    -1.807005,
+    53.724422,
+    -1.807005,
+    53.724422
+],
   "geometry": {"coordinates":[-1.807005,53.724422],"type":"Point"}
 }

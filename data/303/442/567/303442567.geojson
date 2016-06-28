@@ -2,13 +2,14 @@
   "id": 303442567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.265624,55.896133,-4.265624,55.896133",
     "geom:latitude":55.896133,
     "geom:longitude":-4.265624,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Knapdale Street, Lambhill",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303442567,
-    "wof:lastmodified":1448999193,
+    "wof:lastmodified":1466276178,
     "wof:name":"Glascord Co. Ltd.",
     "wof:parent_id":85861545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [-4.265624,55.896133,-4.265624,55.896133],
+  "bbox": [
+    -4.265624,
+    55.896133,
+    -4.265624,
+    55.896133
+],
   "geometry": {"coordinates":[-4.265624,55.896133],"type":"Point"}
 }

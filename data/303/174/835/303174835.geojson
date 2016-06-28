@@ -2,13 +2,14 @@
   "id": 303174835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.632009,54.78307,-1.632009,54.78307",
     "geom:latitude":54.78307,
     "geom:longitude":-1.632009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bearpark Colliery Depot, Colliery Road, Bearpark",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303174835,
-    "wof:lastmodified":1448998449,
+    "wof:lastmodified":1466267964,
     "wof:name":"Freeway Retread Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tyre"
     ]
 },
-  "bbox": [-1.632009,54.78307,-1.632009,54.78307],
+  "bbox": [
+    -1.632009,
+    54.78307,
+    -1.632009,
+    54.78307
+],
   "geometry": {"coordinates":[-1.632009,54.78307],"type":"Point"}
 }

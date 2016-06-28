@@ -2,13 +2,14 @@
   "id": 320509483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.285227,55.93631,-3.285227,55.93631",
     "geom:latitude":55.93631,
     "geom:longitude":-3.285227,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Broomhall Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320509483,
-    "wof:lastmodified":1449011415,
+    "wof:lastmodified":1466281288,
     "wof:name":"S Sardar",
     "wof:parent_id":85786779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-3.285227,55.93631,-3.285227,55.93631],
+  "bbox": [
+    -3.285227,
+    55.93631,
+    -3.285227,
+    55.93631
+],
   "geometry": {"coordinates":[-3.285227,55.93631],"type":"Point"}
 }

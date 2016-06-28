@@ -2,13 +2,14 @@
   "id": 219221895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.161606,54.558239,-1.161606,54.558239",
     "geom:latitude":54.558239,
     "geom:longitude":-1.161606,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Blantyre Road",
     "sg:city":"Middlesbrough",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219221895,
-    "wof:lastmodified":1449071942,
+    "wof:lastmodified":1466253945,
     "wof:name":"Gaswise",
     "wof:parent_id":85789441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "heating"
     ]
 },
-  "bbox": [-1.161606,54.558239,-1.161606,54.558239],
+  "bbox": [
+    -1.161606,
+    54.558239,
+    -1.161606,
+    54.558239
+],
   "geometry": {"coordinates":[-1.161606,54.558239],"type":"Point"}
 }

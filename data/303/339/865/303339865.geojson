@@ -2,13 +2,14 @@
   "id": 303339865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.146099,52.975986,-2.146099,52.975986",
     "geom:latitude":52.975986,
     "geom:longitude":-2.146099,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Trentham Road",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303339865,
-    "wof:lastmodified":1448999212,
+    "wof:lastmodified":1466273034,
     "wof:name":"Longton Cricket Club",
     "wof:parent_id":85787077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.146099,52.975986,-2.146099,52.975986],
+  "bbox": [
+    -2.146099,
+    52.975986,
+    -2.146099,
+    52.975986
+],
   "geometry": {"coordinates":[-2.146099,52.975986],"type":"Point"}
 }

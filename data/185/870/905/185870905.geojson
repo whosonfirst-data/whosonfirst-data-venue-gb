@@ -2,13 +2,14 @@
   "id": 185870905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.247109,53.481125,-2.247109,53.481125",
     "geom:latitude":53.481125,
     "geom:longitude":-2.247109,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Police Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185870905,
-    "wof:lastmodified":1449007030,
+    "wof:lastmodified":1466255547,
     "wof:name":"Betty Barclay",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "ladieswear"
     ]
 },
-  "bbox": [-2.247109,53.481125,-2.247109,53.481125],
+  "bbox": [
+    -2.247109,
+    53.481125,
+    -2.247109,
+    53.481125
+],
   "geometry": {"coordinates":[-2.247109,53.481125],"type":"Point"}
 }

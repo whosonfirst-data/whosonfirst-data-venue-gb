@@ -2,13 +2,14 @@
   "id": 202616625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.048,51.504051,0.048,51.504051",
     "geom:latitude":51.504051,
     "geom:longitude":0.048,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Terminal Building, London City Airport",
     "sg:city":"Canning Town",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202616625,
-    "wof:lastmodified":1449061964,
+    "wof:lastmodified":1466256101,
     "wof:name":"Cityjet",
     "wof:parent_id":85790359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.048,51.504051,0.048,51.504051],
+  "bbox": [
+    0.048,
+    51.504051,
+    0.048,
+    51.504051
+],
   "geometry": {"coordinates":[0.048,51.504051],"type":"Point"}
 }

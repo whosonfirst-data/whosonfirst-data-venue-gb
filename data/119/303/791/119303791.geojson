@@ -2,13 +2,14 @@
   "id": 119303791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.425017,55.001713,-1.425017,55.001713",
     "geom:latitude":55.001713,
     "geom:longitude":-1.425017,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Lawe Rd",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119303791,
-    "wof:lastmodified":1449040901,
+    "wof:lastmodified":1466279938,
     "wof:name":"Drainforce",
     "wof:parent_id":85792733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.425017,55.001713,-1.425017,55.001713],
+  "bbox": [
+    -1.425017,
+    55.001713,
+    -1.425017,
+    55.001713
+],
   "geometry": {"coordinates":[-1.425017,55.001713],"type":"Point"}
 }

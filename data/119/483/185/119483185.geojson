@@ -2,13 +2,14 @@
   "id": 119483185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.439179,53.567207,-2.439179,53.567207",
     "geom:latitude":53.567207,
     "geom:longitude":-2.439179,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"58 High Street",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119483185,
-    "wof:lastmodified":1449042933,
+    "wof:lastmodified":1466286775,
     "wof:name":"High Street Press",
     "wof:parent_id":85792949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.439179,53.567207,-2.439179,53.567207],
+  "bbox": [
+    -2.439179,
+    53.567207,
+    -2.439179,
+    53.567207
+],
   "geometry": {"coordinates":[-2.439179,53.567207],"type":"Point"}
 }

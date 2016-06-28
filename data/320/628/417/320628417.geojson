@@ -2,13 +2,14 @@
   "id": 320628417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.535388,50.499733,-3.535388,50.499733",
     "geom:latitude":50.499733,
     "geom:longitude":-3.535388,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"81b Padacre Road, Watcombe Park",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320628417,
-    "wof:lastmodified":1449014258,
+    "wof:lastmodified":1466283053,
     "wof:name":"Michael Rook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-3.535388,50.499733,-3.535388,50.499733],
+  "bbox": [
+    -3.535388,
+    50.499733,
+    -3.535388,
+    50.499733
+],
   "geometry": {"coordinates":[-3.535388,50.499733],"type":"Point"}
 }

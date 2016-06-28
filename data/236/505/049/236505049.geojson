@@ -2,13 +2,14 @@
   "id": 236505049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.586925,51.468014,-2.586925,51.468014",
     "geom:latitude":51.468014,
     "geom:longitude":-2.586925,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27-29 Ashley Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236505049,
-    "wof:lastmodified":1449004596,
+    "wof:lastmodified":1466265945,
     "wof:name":"St John's Residential Home",
     "wof:parent_id":85790575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "care"
     ]
 },
-  "bbox": [-2.586925,51.468014,-2.586925,51.468014],
+  "bbox": [
+    -2.586925,
+    51.468014,
+    -2.586925,
+    51.468014
+],
   "geometry": {"coordinates":[-2.586925,51.468014],"type":"Point"}
 }

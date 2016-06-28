@@ -2,13 +2,14 @@
   "id": 286785463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.90047,52.519619,-1.90047,52.519619",
     "geom:latitude":52.519619,
     "geom:longitude":-1.90047,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Walsall Road, Perry Barr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286785463,
-    "wof:lastmodified":1449017611,
+    "wof:lastmodified":1466278225,
     "wof:name":"West Midlands Tool Hire",
     "wof:parent_id":85788253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "centre"
     ]
 },
-  "bbox": [-1.90047,52.519619,-1.90047,52.519619],
+  "bbox": [
+    -1.90047,
+    52.519619,
+    -1.90047,
+    52.519619
+],
   "geometry": {"coordinates":[-1.90047,52.519619],"type":"Point"}
 }

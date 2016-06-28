@@ -2,13 +2,14 @@
   "id": 135510835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.895607,53.801517,-1.895607,53.801517",
     "geom:latitude":53.801517,
     "geom:longitude":-1.895607,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Main Road, Denholme",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135510835,
-    "wof:lastmodified":1449022844,
+    "wof:lastmodified":1466275756,
     "wof:name":"Denholme Fisheries",
     "wof:parent_id":85791013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.895607,53.801517,-1.895607,53.801517],
+  "bbox": [
+    -1.895607,
+    53.801517,
+    -1.895607,
+    53.801517
+],
   "geometry": {"coordinates":[-1.895607,53.801517],"type":"Point"}
 }

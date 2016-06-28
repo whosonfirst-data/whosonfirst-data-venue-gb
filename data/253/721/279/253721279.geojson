@@ -2,13 +2,14 @@
   "id": 253721279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.127735,53.938263,-1.127735,53.938263",
     "geom:latitude":53.938263,
     "geom:longitude":-1.127735,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Chantry Close, Woodthorpe",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253721279,
-    "wof:lastmodified":1449065797,
+    "wof:lastmodified":1466274969,
     "wof:name":"Brookswood Ltd",
     "wof:parent_id":85785215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-1.127735,53.938263,-1.127735,53.938263],
+  "bbox": [
+    -1.127735,
+    53.938263,
+    -1.127735,
+    53.938263
+],
   "geometry": {"coordinates":[-1.127735,53.938263],"type":"Point"}
 }

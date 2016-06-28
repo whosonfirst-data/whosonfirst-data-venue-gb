@@ -2,13 +2,14 @@
   "id": 102566435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.070511,50.417332,-5.070511,50.417332",
     "geom:latitude":50.417332,
     "geom:longitude":-5.070511,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Colvreath Road",
     "sg:city":"Newquay",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102566435,
-    "wof:lastmodified":1449067817,
+    "wof:lastmodified":1466257403,
     "wof:name":"Western Taxis",
     "wof:parent_id":101852409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.070511,50.417332,-5.070511,50.417332],
+  "bbox": [
+    -5.070511,
+    50.417332,
+    -5.070511,
+    50.417332
+],
   "geometry": {"coordinates":[-5.070511,50.417332],"type":"Point"}
 }

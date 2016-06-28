@@ -2,13 +2,14 @@
   "id": 320231989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.103052,55.870899,-4.103052,55.870899",
     "geom:latitude":55.870899,
     "geom:longitude":-4.103052,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Lochfield Gardens, Easterhouse",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320231989,
-    "wof:lastmodified":1449013166,
+    "wof:lastmodified":1466274969,
     "wof:name":"Colin Begbie",
     "wof:parent_id":85792561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.103052,55.870899,-4.103052,55.870899],
+  "bbox": [
+    -4.103052,
+    55.870899,
+    -4.103052,
+    55.870899
+],
   "geometry": {"coordinates":[-4.103052,55.870899],"type":"Point"}
 }

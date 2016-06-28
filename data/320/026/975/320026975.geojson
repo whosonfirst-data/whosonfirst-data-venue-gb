@@ -2,13 +2,14 @@
   "id": 320026975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.330243,52.570831,-1.330243,52.570831",
     "geom:latitude":52.570831,
     "geom:longitude":-1.330243,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Hinkley Road, Earlshilton",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320026975,
-    "wof:lastmodified":1449013460,
+    "wof:lastmodified":1466268936,
     "wof:name":"Ian Godfrey Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.330243,52.570831,-1.330243,52.570831],
+  "bbox": [
+    -1.330243,
+    52.570831,
+    -1.330243,
+    52.570831
+],
   "geometry": {"coordinates":[-1.330243,52.570831],"type":"Point"}
 }

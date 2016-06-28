@@ -2,13 +2,14 @@
   "id": 119001009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.19928,55.954605,-3.19928,55.954605",
     "geom:latitude":55.954605,
     "geom:longitude":-3.19928,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Queen Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":119001009,
-    "wof:lastmodified":1449041413,
+    "wof:lastmodified":1466254847,
     "wof:name":"Royal College Of General Practitioners",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.19928,55.954605,-3.19928,55.954605],
+  "bbox": [
+    -3.19928,
+    55.954605,
+    -3.19928,
+    55.954605
+],
   "geometry": {"coordinates":[-3.19928,55.954605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135556747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.531179,52.282349,-1.531179,52.282349",
     "geom:latitude":52.282349,
     "geom:longitude":-1.531179,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Clemens Street",
     "sg:city":"Leamington Spa",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135556747,
-    "wof:lastmodified":1449021735,
+    "wof:lastmodified":1466280004,
     "wof:name":"Bygones",
     "wof:parent_id":101750473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.531179,52.282349,-1.531179,52.282349],
+  "bbox": [
+    -1.531179,
+    52.282349,
+    -1.531179,
+    52.282349
+],
   "geometry": {"coordinates":[-1.531179,52.282349],"type":"Point"}
 }

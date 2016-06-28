@@ -2,13 +2,14 @@
   "id": 320146901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.234842,52.646328,1.234842,52.646328",
     "geom:latitude":52.646328,
     "geom:longitude":1.234842,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Norwich Road",
     "sg:city":"Norwich",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320146901,
-    "wof:lastmodified":1449012811,
+    "wof:lastmodified":1466272506,
     "wof:name":"Chapelfield Veterinary Partnership",
     "wof:parent_id":85789315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [1.234842,52.646328,1.234842,52.646328],
+  "bbox": [
+    1.234842,
+    52.646328,
+    1.234842,
+    52.646328
+],
   "geometry": {"coordinates":[1.234842,52.646328],"type":"Point"}
 }

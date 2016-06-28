@@ -2,13 +2,14 @@
   "id": 287279983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.803168,52.459469,-1.803168,52.459469",
     "geom:latitude":52.459469,
     "geom:longitude":-1.803168,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Gotham Road, South Yardley",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":287279983,
-    "wof:lastmodified":1449001063,
+    "wof:lastmodified":1466271694,
     "wof:name":"G S Fire Protection",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "firefighting"
     ]
 },
-  "bbox": [-1.803168,52.459469,-1.803168,52.459469],
+  "bbox": [
+    -1.803168,
+    52.459469,
+    -1.803168,
+    52.459469
+],
   "geometry": {"coordinates":[-1.803168,52.459469],"type":"Point"}
 }

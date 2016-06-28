@@ -2,13 +2,14 @@
   "id": 118701951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.208103,55.857773,-4.208103,55.857773",
     "geom:latitude":55.857773,
     "geom:longitude":-4.208103,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Fleming Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118701951,
-    "wof:lastmodified":1449054261,
+    "wof:lastmodified":1466265444,
     "wof:name":"Vanlee Transport",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.208103,55.857773,-4.208103,55.857773],
+  "bbox": [
+    -4.208103,
+    55.857773,
+    -4.208103,
+    55.857773
+],
   "geometry": {"coordinates":[-4.208103,55.857773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135617849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.941664,51.004509,-0.941664,51.004509",
     "geom:latitude":51.004509,
     "geom:longitude":-0.941664,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Swan Street",
     "sg:city":"Petersfield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135617849,
-    "wof:lastmodified":1449021078,
+    "wof:lastmodified":1466283510,
     "wof:name":"Swan Surgery",
     "wof:parent_id":101852463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.941664,51.004509,-0.941664,51.004509],
+  "bbox": [
+    -0.941664,
+    51.004509,
+    -0.941664,
+    51.004509
+],
   "geometry": {"coordinates":[-0.941664,51.004509],"type":"Point"}
 }

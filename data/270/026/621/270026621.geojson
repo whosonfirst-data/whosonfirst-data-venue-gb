@@ -2,13 +2,14 @@
   "id": 270026621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.429981,53.610004,-2.429981,53.610004",
     "geom:latitude":53.610004,
     "geom:longitude":-2.429981,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Andrew Lane",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":270026621,
-    "wof:lastmodified":1449010092,
+    "wof:lastmodified":1466261265,
     "wof:name":"Longlands Residential Home For The Elderly",
     "wof:parent_id":85792981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-2.429981,53.610004,-2.429981,53.610004],
+  "bbox": [
+    -2.429981,
+    53.610004,
+    -2.429981,
+    53.610004
+],
   "geometry": {"coordinates":[-2.429981,53.610004],"type":"Point"}
 }

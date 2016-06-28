@@ -2,13 +2,14 @@
   "id": 118509045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.425514,56.211327,-3.425514,56.211327",
     "geom:latitude":56.211327,
     "geom:longitude":-3.425514,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lochside Garage, Bridgend",
     "sg:city":"Kinross",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118509045,
-    "wof:lastmodified":1449053196,
+    "wof:lastmodified":1466274861,
     "wof:name":"I G Vehicles Ltd.",
     "wof:parent_id":101877123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.425514,56.211327,-3.425514,56.211327],
+  "bbox": [
+    -3.425514,
+    56.211327,
+    -3.425514,
+    56.211327
+],
   "geometry": {"coordinates":[-3.425514,56.211327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118832231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.260292,50.505444,-4.260292,50.505444",
     "geom:latitude":50.505444,
     "geom:longitude":-4.260292,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Rustlings, Harrowbarrow",
     "sg:city":"Callington",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118832231,
-    "wof:lastmodified":1449053156,
+    "wof:lastmodified":1466275150,
     "wof:name":"Amigo Publications",
     "wof:parent_id":85684547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.260292,50.505444,-4.260292,50.505444],
+  "bbox": [
+    -4.260292,
+    50.505444,
+    -4.260292,
+    50.505444
+],
   "geometry": {"coordinates":[-4.260292,50.505444],"type":"Point"}
 }

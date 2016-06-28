@@ -2,13 +2,14 @@
   "id": 135589809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.402034,50.899494,-1.402034,50.899494",
     "geom:latitude":50.899494,
     "geom:longitude":-1.402034,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wheatsheaf House, 24 Bernard Street",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135589809,
-    "wof:lastmodified":1449022624,
+    "wof:lastmodified":1466281959,
     "wof:name":"Chamber Training",
     "wof:parent_id":85787189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.402034,50.899494,-1.402034,50.899494],
+  "bbox": [
+    -1.402034,
+    50.899494,
+    -1.402034,
+    50.899494
+],
   "geometry": {"coordinates":[-1.402034,50.899494],"type":"Point"}
 }

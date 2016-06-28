@@ -2,13 +2,14 @@
   "id": 236427393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.304619,55.881443,-4.304619,55.881443",
     "geom:latitude":55.881443,
     "geom:longitude":-4.304619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Hyndland Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236427393,
-    "wof:lastmodified":1449002474,
+    "wof:lastmodified":1466264541,
     "wof:name":"R M C Media",
     "wof:parent_id":85792459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-4.304619,55.881443,-4.304619,55.881443],
+  "bbox": [
+    -4.304619,
+    55.881443,
+    -4.304619,
+    55.881443
+],
   "geometry": {"coordinates":[-4.304619,55.881443],"type":"Point"}
 }

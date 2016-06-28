@@ -2,13 +2,14 @@
   "id": 320500913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.248997,51.506004,-0.248997,51.506004",
     "geom:latitude":51.506004,
     "geom:longitude":-0.248997,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 114, Metrostore 5 Eastman Rd",
     "sg:city":"Acton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320500913,
-    "wof:lastmodified":1449012192,
+    "wof:lastmodified":1466281122,
     "wof:name":"Robert Davighi",
     "wof:parent_id":85860407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-0.248997,51.506004,-0.248997,51.506004],
+  "bbox": [
+    -0.248997,
+    51.506004,
+    -0.248997,
+    51.506004
+],
   "geometry": {"coordinates":[-0.248997,51.506004],"type":"Point"}
 }

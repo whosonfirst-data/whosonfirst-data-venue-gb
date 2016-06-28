@@ -2,13 +2,14 @@
   "id": 270070735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.398668,53.375912,-1.398668,53.375912",
     "geom:latitude":53.375912,
     "geom:longitude":-1.398668,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Richmond Park Crescent",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270070735,
-    "wof:lastmodified":1449009822,
+    "wof:lastmodified":1466262586,
     "wof:name":"T & M Mini Travel",
     "wof:parent_id":85787895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-1.398668,53.375912,-1.398668,53.375912],
+  "bbox": [
+    -1.398668,
+    53.375912,
+    -1.398668,
+    53.375912
+],
   "geometry": {"coordinates":[-1.398668,53.375912],"type":"Point"}
 }

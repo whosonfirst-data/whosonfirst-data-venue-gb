@@ -2,13 +2,14 @@
   "id": 118872361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.419067,56.388321,-3.419067,56.388321",
     "geom:latitude":56.388321,
     "geom:longitude":-3.419067,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Branklyn House, 116 Dundee Road",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118872361,
-    "wof:lastmodified":1449053271,
+    "wof:lastmodified":1466278026,
     "wof:name":"The National Trust for Scotland",
     "wof:parent_id":101872645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.419067,56.388321,-3.419067,56.388321],
+  "bbox": [
+    -3.419067,
+    56.388321,
+    -3.419067,
+    56.388321
+],
   "geometry": {"coordinates":[-3.419067,56.388321],"type":"Point"}
 }

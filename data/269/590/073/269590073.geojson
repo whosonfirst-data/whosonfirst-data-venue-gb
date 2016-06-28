@@ -2,13 +2,14 @@
   "id": 269590073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.163134,51.98719,-2.163134,51.98719",
     "geom:latitude":51.98719,
     "geom:longitude":-2.163134,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Webber House, Shephard Mead",
     "sg:city":"Tewkesbury",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269590073,
-    "wof:lastmodified":1449037571,
+    "wof:lastmodified":1466263268,
     "wof:name":"Shephard Mead",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "housing"
     ]
 },
-  "bbox": [-2.163134,51.98719,-2.163134,51.98719],
+  "bbox": [
+    -2.163134,
+    51.98719,
+    -2.163134,
+    51.98719
+],
   "geometry": {"coordinates":[-2.163134,51.98719],"type":"Point"}
 }

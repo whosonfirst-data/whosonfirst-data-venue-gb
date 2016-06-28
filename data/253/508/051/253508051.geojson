@@ -2,13 +2,14 @@
   "id": 253508051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.078618,50.810345,-1.078618,50.810345",
     "geom:latitude":50.810345,
     "geom:longitude":-1.078618,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Kingston Road",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253508051,
-    "wof:lastmodified":1449064485,
+    "wof:lastmodified":1466268159,
     "wof:name":"Christopher Shoes",
     "wof:parent_id":85861975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "footwear"
     ]
 },
-  "bbox": [-1.078618,50.810345,-1.078618,50.810345],
+  "bbox": [
+    -1.078618,
+    50.810345,
+    -1.078618,
+    50.810345
+],
   "geometry": {"coordinates":[-1.078618,50.810345],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118518791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.40609,50.904011,-1.40609,50.904011",
     "geom:latitude":50.904011,
     "geom:longitude":-1.40609,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit, 2",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118518791,
-    "wof:lastmodified":1449053937,
+    "wof:lastmodified":1466276411,
     "wof:name":"West Country Warehouses",
     "wof:parent_id":85787189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.40609,50.904011,-1.40609,50.904011],
+  "bbox": [
+    -1.40609,
+    50.904011,
+    -1.40609,
+    50.904011
+],
   "geometry": {"coordinates":[-1.40609,50.904011],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135505065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.226649,52.96529,-1.226649,52.96529",
     "geom:latitude":52.96529,
     "geom:longitude":-1.226649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Bracebridge Dr",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135505065,
-    "wof:lastmodified":1449023518,
+    "wof:lastmodified":1466275087,
     "wof:name":"David Etherington",
     "wof:parent_id":85785691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.226649,52.96529,-1.226649,52.96529],
+  "bbox": [
+    -1.226649,
+    52.96529,
+    -1.226649,
+    52.96529
+],
   "geometry": {"coordinates":[-1.226649,52.96529],"type":"Point"}
 }

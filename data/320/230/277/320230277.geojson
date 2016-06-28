@@ -2,13 +2,14 @@
   "id": 320230277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.655658,54.975456,-1.655658,54.975456",
     "geom:latitude":54.975456,
     "geom:longitude":-1.655658,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Farndale Rd",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320230277,
-    "wof:lastmodified":1449014025,
+    "wof:lastmodified":1466274927,
     "wof:name":"Blockbusters",
     "wof:parent_id":85787399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sewer"
     ]
 },
-  "bbox": [-1.655658,54.975456,-1.655658,54.975456],
+  "bbox": [
+    -1.655658,
+    54.975456,
+    -1.655658,
+    54.975456
+],
   "geometry": {"coordinates":[-1.655658,54.975456],"type":"Point"}
 }

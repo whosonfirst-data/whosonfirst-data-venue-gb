@@ -2,13 +2,14 @@
   "id": 270010255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.224969,55.82584,-4.224969,55.82584",
     "geom:latitude":55.82584,
     "geom:longitude":-4.224969,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Cathcart Road, Rutherglen",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270010255,
-    "wof:lastmodified":1449010166,
+    "wof:lastmodified":1466260773,
     "wof:name":"Busby Glass",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glazier"
     ]
 },
-  "bbox": [-4.224969,55.82584,-4.224969,55.82584],
+  "bbox": [
+    -4.224969,
+    55.82584,
+    -4.224969,
+    55.82584
+],
   "geometry": {"coordinates":[-4.224969,55.82584],"type":"Point"}
 }

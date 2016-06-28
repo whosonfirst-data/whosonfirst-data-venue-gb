@@ -2,13 +2,14 @@
   "id": 135834527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.419018,50.925575,-1.419018,50.925575",
     "geom:latitude":50.925575,
     "geom:longitude":-1.419018,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Wilton Gardens",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135834527,
-    "wof:lastmodified":1449021285,
+    "wof:lastmodified":1466287817,
     "wof:name":"David G Shearing",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.419018,50.925575,-1.419018,50.925575],
+  "bbox": [
+    -1.419018,
+    50.925575,
+    -1.419018,
+    50.925575
+],
   "geometry": {"coordinates":[-1.419018,50.925575],"type":"Point"}
 }

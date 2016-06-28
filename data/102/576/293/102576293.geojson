@@ -2,13 +2,14 @@
   "id": 102576293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.545452,54.98914,-1.545452,54.98914",
     "geom:latitude":54.98914,
     "geom:longitude":-1.545452,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1072 Shields Road",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102576293,
-    "wof:lastmodified":1449069630,
+    "wof:lastmodified":1466267670,
     "wof:name":"Jazz",
     "wof:parent_id":85791279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.545452,54.98914,-1.545452,54.98914],
+  "bbox": [
+    -1.545452,
+    54.98914,
+    -1.545452,
+    54.98914
+],
   "geometry": {"coordinates":[-1.545452,54.98914],"type":"Point"}
 }

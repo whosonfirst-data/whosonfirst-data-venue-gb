@@ -2,13 +2,14 @@
   "id": 236725811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.092507,53.943764,-1.092507,53.943764",
     "geom:latitude":53.943764,
     "geom:longitude":-1.092507,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Albemarle Road",
     "sg:city":"York",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236725811,
-    "wof:lastmodified":1449002281,
+    "wof:lastmodified":1466270244,
     "wof:name":"Nicholas King",
     "wof:parent_id":85787081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.092507,53.943764,-1.092507,53.943764],
+  "bbox": [
+    -1.092507,
+    53.943764,
+    -1.092507,
+    53.943764
+],
   "geometry": {"coordinates":[-1.092507,53.943764],"type":"Point"}
 }

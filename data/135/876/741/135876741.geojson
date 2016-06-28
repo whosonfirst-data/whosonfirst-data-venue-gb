@@ -2,13 +2,14 @@
   "id": 135876741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.855217,55.242546,-4.855217,55.242546",
     "geom:latitude":55.242546,
     "geom:longitude":-4.855217,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Dalrymple Street",
     "sg:city":"Girvan",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":135876741,
-    "wof:lastmodified":1449021587,
+    "wof:lastmodified":1466287985,
     "wof:name":"Poppins",
     "wof:parent_id":101873469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.855217,55.242546,-4.855217,55.242546],
+  "bbox": [
+    -4.855217,
+    55.242546,
+    -4.855217,
+    55.242546
+],
   "geometry": {"coordinates":[-4.855217,55.242546],"type":"Point"}
 }

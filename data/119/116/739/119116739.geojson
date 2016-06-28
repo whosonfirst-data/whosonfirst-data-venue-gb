@@ -2,13 +2,14 @@
   "id": 119116739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.869626,52.490501,-1.869626,52.490501",
     "geom:latitude":52.490501,
     "geom:longitude":-1.869626,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50a Cato Street",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119116739,
-    "wof:lastmodified":1449041214,
+    "wof:lastmodified":1466260622,
     "wof:name":"Heartlands Manufacturing",
     "wof:parent_id":85791263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.869626,52.490501,-1.869626,52.490501],
+  "bbox": [
+    -1.869626,
+    52.490501,
+    -1.869626,
+    52.490501
+],
   "geometry": {"coordinates":[-1.869626,52.490501],"type":"Point"}
 }

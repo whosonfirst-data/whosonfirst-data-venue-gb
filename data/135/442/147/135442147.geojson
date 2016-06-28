@@ -2,13 +2,14 @@
   "id": 135442147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.212101,57.469673,-4.212101,57.469673",
     "geom:latitude":57.469673,
     "geom:longitude":-4.212101,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit, 4, Inverness Business & Retail Park",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135442147,
-    "wof:lastmodified":1449022340,
+    "wof:lastmodified":1466267690,
     "wof:name":"ScottishPower",
     "wof:parent_id":85683747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.212101,57.469673,-4.212101,57.469673],
+  "bbox": [
+    -4.212101,
+    57.469673,
+    -4.212101,
+    57.469673
+],
   "geometry": {"coordinates":[-4.212101,57.469673],"type":"Point"}
 }

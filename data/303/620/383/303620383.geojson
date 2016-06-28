@@ -2,13 +2,14 @@
   "id": 303620383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.037239,55.7733,-4.037239,55.7733",
     "geom:latitude":55.7733,
     "geom:longitude":-4.037239,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Quarry Street",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303620383,
-    "wof:lastmodified":1449000353,
+    "wof:lastmodified":1466280373,
     "wof:name":"B S M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.037239,55.7733,-4.037239,55.7733],
+  "bbox": [
+    -4.037239,
+    55.7733,
+    -4.037239,
+    55.7733
+],
   "geometry": {"coordinates":[-4.037239,55.7733],"type":"Point"}
 }

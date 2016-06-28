@@ -2,13 +2,14 @@
   "id": 135586319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.516189,53.726685,-2.516189,53.726685",
     "geom:latitude":53.726685,
     "geom:longitude":-2.516189,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"627 Livesey Branch Road",
     "sg:city":"Blackburn",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":135586319,
-    "wof:lastmodified":1449023658,
+    "wof:lastmodified":1466282003,
     "wof:name":"Station Garage",
     "wof:parent_id":85786531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.516189,53.726685,-2.516189,53.726685],
+  "bbox": [
+    -2.516189,
+    53.726685,
+    -2.516189,
+    53.726685
+],
   "geometry": {"coordinates":[-2.516189,53.726685],"type":"Point"}
 }

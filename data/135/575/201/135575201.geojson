@@ -2,13 +2,14 @@
   "id": 135575201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.920542,50.390366,-3.920542,50.390366",
     "geom:latitude":50.390366,
     "geom:longitude":-3.920542,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Erme Road",
     "sg:city":"Ivybridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135575201,
-    "wof:lastmodified":1449021888,
+    "wof:lastmodified":1466281085,
     "wof:name":"Devon Youth Association",
     "wof:parent_id":101852565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.920542,50.390366,-3.920542,50.390366],
+  "bbox": [
+    -3.920542,
+    50.390366,
+    -3.920542,
+    50.390366
+],
   "geometry": {"coordinates":[-3.920542,50.390366],"type":"Point"}
 }

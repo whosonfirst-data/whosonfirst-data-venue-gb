@@ -2,13 +2,14 @@
   "id": 270177771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.077611,52.302608,-1.077611,52.302608",
     "geom:latitude":52.302608,
     "geom:longitude":-1.077611,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 High Street, West Haddon",
     "sg:city":"Northampton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270177771,
-    "wof:lastmodified":1449011115,
+    "wof:lastmodified":1466265787,
     "wof:name":"West Haddon Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.077611,52.302608,-1.077611,52.302608],
+  "bbox": [
+    -1.077611,
+    52.302608,
+    -1.077611,
+    52.302608
+],
   "geometry": {"coordinates":[-1.077611,52.302608],"type":"Point"}
 }

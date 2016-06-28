@@ -2,13 +2,14 @@
   "id": 253118055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.867548,52.411026,-1.867548,52.411026",
     "geom:latitude":52.411026,
     "geom:longitude":-1.867548,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Yardley Wood Rd, Kings Heath",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253118055,
-    "wof:lastmodified":1449065202,
+    "wof:lastmodified":1466259651,
     "wof:name":"The Warstock",
     "wof:parent_id":85791873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.867548,52.411026,-1.867548,52.411026],
+  "bbox": [
+    -1.867548,
+    52.411026,
+    -1.867548,
+    52.411026
+],
   "geometry": {"coordinates":[-1.867548,52.411026],"type":"Point"}
 }

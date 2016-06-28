@@ -2,13 +2,14 @@
   "id": 119136683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.289064,55.806389,-4.289064,55.806389",
     "geom:latitude":55.806389,
     "geom:longitude":-4.289064,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, The Forge",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119136683,
-    "wof:lastmodified":1449043524,
+    "wof:lastmodified":1466262173,
     "wof:name":"The Twilight Zone",
     "wof:parent_id":85787597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.289064,55.806389,-4.289064,55.806389],
+  "bbox": [
+    -4.289064,
+    55.806389,
+    -4.289064,
+    55.806389
+],
   "geometry": {"coordinates":[-4.289064,55.806389],"type":"Point"}
 }

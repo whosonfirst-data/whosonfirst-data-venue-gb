@@ -2,13 +2,14 @@
   "id": 320428981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.038865,51.853184,-1.038865,51.853184",
     "geom:latitude":51.853184,
     "geom:longitude":-1.038865,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Salters Close, Ludgershall",
     "sg:city":"Aylesbury",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":320428981,
-    "wof:lastmodified":1449014711,
+    "wof:lastmodified":1466280139,
     "wof:name":"M P S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-1.038865,51.853184,-1.038865,51.853184],
+  "bbox": [
+    -1.038865,
+    51.853184,
+    -1.038865,
+    51.853184
+],
   "geometry": {"coordinates":[-1.038865,51.853184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303333217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.227583,50.233852,-5.227583,50.233852",
     "geom:latitude":50.233852,
     "geom:longitude":-5.227583,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Green Lane",
     "sg:city":"Redruth",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":303333217,
-    "wof:lastmodified":1449000396,
+    "wof:lastmodified":1466272823,
     "wof:name":"Fruitland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-5.227583,50.233852,-5.227583,50.233852],
+  "bbox": [
+    -5.227583,
+    50.233852,
+    -5.227583,
+    50.233852
+],
   "geometry": {"coordinates":[-5.227583,50.233852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253407677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.423994,55.845467,-4.423994,55.845467",
     "geom:latitude":55.845467,
     "geom:longitude":-4.423994,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"High Street",
     "sg:city":"Paisley",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":253407677,
-    "wof:lastmodified":1449064470,
+    "wof:lastmodified":1466265737,
     "wof:name":"Paisley Museum & Art Galleries",
     "wof:parent_id":85786323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-4.423994,55.845467,-4.423994,55.845467],
+  "bbox": [
+    -4.423994,
+    55.845467,
+    -4.423994,
+    55.845467
+],
   "geometry": {"coordinates":[-4.423994,55.845467],"type":"Point"}
 }

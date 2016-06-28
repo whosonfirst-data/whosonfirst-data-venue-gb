@@ -2,13 +2,14 @@
   "id": 236289745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.111911,53.401123,-3.111911,53.401123",
     "geom:latitude":53.401123,
     "geom:longitude":-3.111911,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"205-207 Hoylake Road, Moreton",
     "sg:city":"Wirral",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236289745,
-    "wof:lastmodified":1449004589,
+    "wof:lastmodified":1466262035,
     "wof:name":"Lloyds Retail Chemists Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "chemist"
     ]
 },
-  "bbox": [-3.111911,53.401123,-3.111911,53.401123],
+  "bbox": [
+    -3.111911,
+    53.401123,
+    -3.111911,
+    53.401123
+],
   "geometry": {"coordinates":[-3.111911,53.401123],"type":"Point"}
 }

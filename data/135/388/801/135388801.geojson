@@ -2,13 +2,14 @@
   "id": 135388801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.453134,53.192299,-2.453134,53.192299",
     "geom:latitude":53.192299,
     "geom:longitude":-2.453134,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Middlewich Medical Centre, St Anns Walk",
     "sg:city":"Middlewich",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135388801,
-    "wof:lastmodified":1449021095,
+    "wof:lastmodified":1466261332,
     "wof:name":"Middlewich Medical Centre",
     "wof:parent_id":101871977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.453134,53.192299,-2.453134,53.192299],
+  "bbox": [
+    -2.453134,
+    53.192299,
+    -2.453134,
+    53.192299
+],
   "geometry": {"coordinates":[-2.453134,53.192299],"type":"Point"}
 }

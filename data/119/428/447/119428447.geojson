@@ -2,13 +2,14 @@
   "id": 119428447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.105536,52.615395,-1.105536,52.615395",
     "geom:latitude":52.615395,
     "geom:longitude":-1.105536,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"75 London Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119428447,
-    "wof:lastmodified":1449043369,
+    "wof:lastmodified":1466285988,
     "wof:name":"Howard R Weston",
     "wof:parent_id":85861117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.105536,52.615395,-1.105536,52.615395],
+  "bbox": [
+    -1.105536,
+    52.615395,
+    -1.105536,
+    52.615395
+],
   "geometry": {"coordinates":[-1.105536,52.615395],"type":"Point"}
 }

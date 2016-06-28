@@ -2,13 +2,14 @@
   "id": 135560261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.36741,51.376011,-2.36741,51.376011",
     "geom:latitude":51.376011,
     "geom:longitude":-2.36741,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Top Floor, Greystones Hayesfield Park",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135560261,
-    "wof:lastmodified":1449023307,
+    "wof:lastmodified":1466280104,
     "wof:name":"BC US Homes",
     "wof:parent_id":85785531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.36741,51.376011,-2.36741,51.376011],
+  "bbox": [
+    -2.36741,
+    51.376011,
+    -2.36741,
+    51.376011
+],
   "geometry": {"coordinates":[-2.36741,51.376011],"type":"Point"}
 }

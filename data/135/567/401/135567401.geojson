@@ -2,13 +2,14 @@
   "id": 135567401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.242511,55.857807,-4.242511,55.857807",
     "geom:latitude":55.857807,
     "geom:longitude":-4.242511,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Meadowside Quay, 355 Castlebank Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135567401,
-    "wof:lastmodified":1449024008,
+    "wof:lastmodified":1466280425,
     "wof:name":"W & M O'Neill",
     "wof:parent_id":85861551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.242511,55.857807,-4.242511,55.857807],
+  "bbox": [
+    -4.242511,
+    55.857807,
+    -4.242511,
+    55.857807
+],
   "geometry": {"coordinates":[-4.242511,55.857807],"type":"Point"}
 }

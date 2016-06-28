@@ -2,13 +2,14 @@
   "id": 135646631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.111679,51.59848,-1.111679,51.59848",
     "geom:latitude":51.59848,
     "geom:longitude":-1.111679,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72 The Street, Crowmarsh Gifford",
     "sg:city":"Wallingford",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135646631,
-    "wof:lastmodified":1449020899,
+    "wof:lastmodified":1466284513,
     "wof:name":"QUEENS HEAD",
     "wof:parent_id":85683867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.111679,51.59848,-1.111679,51.59848],
+  "bbox": [
+    -1.111679,
+    51.59848,
+    -1.111679,
+    51.59848
+],
   "geometry": {"coordinates":[-1.111679,51.59848],"type":"Point"}
 }

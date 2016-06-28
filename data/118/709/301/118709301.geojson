@@ -2,13 +2,14 @@
   "id": 118709301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.209423,55.949787,-3.209423,55.949787",
     "geom:latitude":55.949787,
     "geom:longitude":-3.209423,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Shandwick Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118709301,
-    "wof:lastmodified":1449053423,
+    "wof:lastmodified":1466266002,
     "wof:name":"Pickwicks (Scotland) Ltd.",
     "wof:parent_id":85861509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.209423,55.949787,-3.209423,55.949787],
+  "bbox": [
+    -3.209423,
+    55.949787,
+    -3.209423,
+    55.949787
+],
   "geometry": {"coordinates":[-3.209423,55.949787],"type":"Point"}
 }

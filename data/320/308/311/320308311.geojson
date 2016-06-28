@@ -2,13 +2,14 @@
   "id": 320308311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.007004,51.45409,-1.007004,51.45409",
     "geom:latitude":51.45409,
     "geom:longitude":-1.007004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Waverley Rd",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320308311,
-    "wof:lastmodified":1449015055,
+    "wof:lastmodified":1466277336,
     "wof:name":"Ace Aerials & Satellites",
     "wof:parent_id":85791053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "radio"
     ]
 },
-  "bbox": [-1.007004,51.45409,-1.007004,51.45409],
+  "bbox": [
+    -1.007004,
+    51.45409,
+    -1.007004,
+    51.45409
+],
   "geometry": {"coordinates":[-1.007004,51.45409],"type":"Point"}
 }

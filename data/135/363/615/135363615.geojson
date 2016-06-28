@@ -2,13 +2,14 @@
   "id": 135363615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.366574,52.411194,-1.366574,52.411194",
     "geom:latitude":52.411194,
     "geom:longitude":-1.366574,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Coventry Road, Brinklow",
     "sg:city":"Rugby",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135363615,
-    "wof:lastmodified":1449023642,
+    "wof:lastmodified":1466258772,
     "wof:name":"Brinklow Quarry",
     "wof:parent_id":85683907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.366574,52.411194,-1.366574,52.411194],
+  "bbox": [
+    -1.366574,
+    52.411194,
+    -1.366574,
+    52.411194
+],
   "geometry": {"coordinates":[-1.366574,52.411194],"type":"Point"}
 }

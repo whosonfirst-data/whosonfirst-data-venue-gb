@@ -2,13 +2,14 @@
   "id": 252964911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.63986,53.543991,-2.63986,53.543991",
     "geom:latitude":53.543991,
     "geom:longitude":-2.63986,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Leeds St, Off Miry La",
     "sg:city":"Wigan",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":252964911,
-    "wof:lastmodified":1449006235,
+    "wof:lastmodified":1466262139,
     "wof:name":"Wigan Accident Repair Centre",
     "wof:parent_id":85790863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "car"
     ]
 },
-  "bbox": [-2.63986,53.543991,-2.63986,53.543991],
+  "bbox": [
+    -2.63986,
+    53.543991,
+    -2.63986,
+    53.543991
+],
   "geometry": {"coordinates":[-2.63986,53.543991],"type":"Point"}
 }

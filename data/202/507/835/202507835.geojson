@@ -2,13 +2,14 @@
   "id": 202507835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.222593,55.933102,-3.222593,55.933102",
     "geom:latitude":55.933102,
     "geom:longitude":-3.222593,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Gillsland Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202507835,
-    "wof:lastmodified":1449061421,
+    "wof:lastmodified":1466254248,
     "wof:name":"The Gillsland Hotel",
     "wof:parent_id":85787641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.222593,55.933102,-3.222593,55.933102],
+  "bbox": [
+    -3.222593,
+    55.933102,
+    -3.222593,
+    55.933102
+],
   "geometry": {"coordinates":[-3.222593,55.933102],"type":"Point"}
 }

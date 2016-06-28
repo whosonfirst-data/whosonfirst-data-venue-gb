@@ -2,13 +2,14 @@
   "id": 119175617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.33729,53.060482,-1.33729,53.060482",
     "geom:latitude":53.060482,
     "geom:longitude":-1.33729,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Selston Road, Jacksdale",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119175617,
-    "wof:lastmodified":1449042728,
+    "wof:lastmodified":1466266420,
     "wof:name":"Jacksdale Library",
     "wof:parent_id":85683849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.33729,53.060482,-1.33729,53.060482],
+  "bbox": [
+    -1.33729,
+    53.060482,
+    -1.33729,
+    53.060482
+],
   "geometry": {"coordinates":[-1.33729,53.060482],"type":"Point"}
 }

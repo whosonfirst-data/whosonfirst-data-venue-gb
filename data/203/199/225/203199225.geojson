@@ -2,13 +2,14 @@
   "id": 203199225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.675522,53.708836,-1.675522,53.708836",
     "geom:latitude":53.708836,
     "geom:longitude":-1.675522,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2a Albion Street, Heckmondwike",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203199225,
-    "wof:lastmodified":1449025129,
+    "wof:lastmodified":1466255987,
     "wof:name":"H I T Group",
     "wof:parent_id":85789163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "record"
     ]
 },
-  "bbox": [-1.675522,53.708836,-1.675522,53.708836],
+  "bbox": [
+    -1.675522,
+    53.708836,
+    -1.675522,
+    53.708836
+],
   "geometry": {"coordinates":[-1.675522,53.708836],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320328877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.463517,50.924282,-1.463517,50.924282",
     "geom:latitude":50.924282,
     "geom:longitude":-1.463517,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Kendal Avenue",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320328877,
-    "wof:lastmodified":1449013454,
+    "wof:lastmodified":1466277991,
     "wof:name":"Kendals",
     "wof:parent_id":85792825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-1.463517,50.924282,-1.463517,50.924282],
+  "bbox": [
+    -1.463517,
+    50.924282,
+    -1.463517,
+    50.924282
+],
   "geometry": {"coordinates":[-1.463517,50.924282],"type":"Point"}
 }

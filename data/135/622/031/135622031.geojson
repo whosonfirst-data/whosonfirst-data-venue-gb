@@ -2,13 +2,14 @@
   "id": 135622031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.530529,50.686279,-1.530529,50.686279",
     "geom:latitude":50.686279,
     "geom:longitude":-1.530529,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Solent Gardens",
     "sg:city":"Freshwater",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135622031,
-    "wof:lastmodified":1449023469,
+    "wof:lastmodified":1466283555,
     "wof:name":"A Hammonds",
     "wof:parent_id":85684291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.530529,50.686279,-1.530529,50.686279],
+  "bbox": [
+    -1.530529,
+    50.686279,
+    -1.530529,
+    50.686279
+],
   "geometry": {"coordinates":[-1.530529,50.686279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336699629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.636979,53.793781,-2.636979,53.793781",
     "geom:latitude":53.793781,
     "geom:longitude":-2.636979,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit C12, Delukes Diner",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336699629,
-    "wof:lastmodified":1448997080,
+    "wof:lastmodified":1466275747,
     "wof:name":"Delukes Diner",
     "wof:parent_id":85790041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "room"
     ]
 },
-  "bbox": [-2.636979,53.793781,-2.636979,53.793781],
+  "bbox": [
+    -2.636979,
+    53.793781,
+    -2.636979,
+    53.793781
+],
   "geometry": {"coordinates":[-2.636979,53.793781],"type":"Point"}
 }

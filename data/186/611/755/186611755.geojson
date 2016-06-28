@@ -2,13 +2,14 @@
   "id": 186611755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.99122,53.408001,-2.99122,53.408001",
     "geom:latitude":53.408001,
     "geom:longitude":-2.99122,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 6 30 Exchange St East",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186611755,
-    "wof:lastmodified":1449052439,
+    "wof:lastmodified":1466261165,
     "wof:name":"Riverview Financial Services",
     "wof:parent_id":85793275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adviser"
     ]
 },
-  "bbox": [-2.99122,53.408001,-2.99122,53.408001],
+  "bbox": [
+    -2.99122,
+    53.408001,
+    -2.99122,
+    53.408001
+],
   "geometry": {"coordinates":[-2.99122,53.408001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303656897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.440419,52.426521,-1.440419,52.426521",
     "geom:latitude":52.426521,
     "geom:longitude":-1.440419,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Boswell Dr",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303656897,
-    "wof:lastmodified":1448999712,
+    "wof:lastmodified":1466280923,
     "wof:name":"Mastiff Karting Arena",
     "wof:parent_id":85791307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "karting"
     ]
 },
-  "bbox": [-1.440419,52.426521,-1.440419,52.426521],
+  "bbox": [
+    -1.440419,
+    52.426521,
+    -1.440419,
+    52.426521
+],
   "geometry": {"coordinates":[-1.440419,52.426521],"type":"Point"}
 }

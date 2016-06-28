@@ -2,13 +2,14 @@
   "id": 203169487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.173049,55.971809,-3.173049,55.971809",
     "geom:latitude":55.971809,
     "geom:longitude":-3.173049,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1-5 Henderson Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203169487,
-    "wof:lastmodified":1449026111,
+    "wof:lastmodified":1466255453,
     "wof:name":"Wilkies Bar",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.173049,55.971809,-3.173049,55.971809],
+  "bbox": [
+    -3.173049,
+    55.971809,
+    -3.173049,
+    55.971809
+],
   "geometry": {"coordinates":[-3.173049,55.971809],"type":"Point"}
 }

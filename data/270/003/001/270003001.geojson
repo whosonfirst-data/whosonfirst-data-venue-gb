@@ -2,13 +2,14 @@
   "id": 270003001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.554071,55.478493,-2.554071,55.478493",
     "geom:latitude":55.478493,
     "geom:longitude":-2.554071,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 High Street",
     "sg:city":"Jedburgh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270003001,
-    "wof:lastmodified":1449010910,
+    "wof:lastmodified":1466260571,
     "wof:name":"William & Caroline Ann McDermont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "health"
     ]
 },
-  "bbox": [-2.554071,55.478493,-2.554071,55.478493],
+  "bbox": [
+    -2.554071,
+    55.478493,
+    -2.554071,
+    55.478493
+],
   "geometry": {"coordinates":[-2.554071,55.478493],"type":"Point"}
 }

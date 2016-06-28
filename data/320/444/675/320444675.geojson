@@ -2,13 +2,14 @@
   "id": 320444675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.070441,51.8983,-2.070441,51.8983",
     "geom:latitude":51.8983,
     "geom:longitude":-2.070441,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 St James St",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320444675,
-    "wof:lastmodified":1449014461,
+    "wof:lastmodified":1466280330,
     "wof:name":"MIS Tool Chest",
     "wof:parent_id":85785541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.070441,51.8983,-2.070441,51.8983],
+  "bbox": [
+    -2.070441,
+    51.8983,
+    -2.070441,
+    51.8983
+],
   "geometry": {"coordinates":[-2.070441,51.8983],"type":"Point"}
 }

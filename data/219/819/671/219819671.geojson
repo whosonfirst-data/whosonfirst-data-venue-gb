@@ -2,13 +2,14 @@
   "id": 219819671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.301367,55.880024,-4.301367,55.880024",
     "geom:latitude":55.880024,
     "geom:longitude":-4.301367,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Lorraine Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219819671,
-    "wof:lastmodified":1449071232,
+    "wof:lastmodified":1466263998,
     "wof:name":"Kensington Nursing Home",
     "wof:parent_id":85792459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-4.301367,55.880024,-4.301367,55.880024],
+  "bbox": [
+    -4.301367,
+    55.880024,
+    -4.301367,
+    55.880024
+],
   "geometry": {"coordinates":[-4.301367,55.880024],"type":"Point"}
 }

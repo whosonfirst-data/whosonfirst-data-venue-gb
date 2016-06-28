@@ -2,13 +2,14 @@
   "id": 135476747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.604339,51.478443,-2.604339,51.478443",
     "geom:latitude":51.478443,
     "geom:longitude":-2.604339,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Cairns Road, Redland",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135476747,
-    "wof:lastmodified":1449022214,
+    "wof:lastmodified":1466271894,
     "wof:name":"Nicholas Little",
     "wof:parent_id":85790033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.604339,51.478443,-2.604339,51.478443],
+  "bbox": [
+    -2.604339,
+    51.478443,
+    -2.604339,
+    51.478443
+],
   "geometry": {"coordinates":[-2.604339,51.478443],"type":"Point"}
 }

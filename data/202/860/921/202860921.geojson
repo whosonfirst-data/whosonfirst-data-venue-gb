@@ -2,13 +2,14 @@
   "id": 202860921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.126695,52.821503,-2.126695,52.821503",
     "geom:latitude":52.821503,
     "geom:longitude":-2.126695,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Stone Road",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":202860921,
-    "wof:lastmodified":1449061251,
+    "wof:lastmodified":1466260102,
     "wof:name":"Stone Road Post Office",
     "wof:parent_id":85860991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.126695,52.821503,-2.126695,52.821503],
+  "bbox": [
+    -2.126695,
+    52.821503,
+    -2.126695,
+    52.821503
+],
   "geometry": {"coordinates":[-2.126695,52.821503],"type":"Point"}
 }

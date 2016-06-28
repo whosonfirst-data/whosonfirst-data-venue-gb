@@ -2,13 +2,14 @@
   "id": 269853331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.285488,55.86504,-4.285488,55.86504",
     "geom:latitude":55.86504,
     "geom:longitude":-4.285488,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1158 Argyle St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269853331,
-    "wof:lastmodified":1449037113,
+    "wof:lastmodified":1466271240,
     "wof:name":"Labels Direct",
     "wof:parent_id":85792613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fabric"
     ]
 },
-  "bbox": [-4.285488,55.86504,-4.285488,55.86504],
+  "bbox": [
+    -4.285488,
+    55.86504,
+    -4.285488,
+    55.86504
+],
   "geometry": {"coordinates":[-4.285488,55.86504],"type":"Point"}
 }

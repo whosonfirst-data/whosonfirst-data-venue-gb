@@ -2,13 +2,14 @@
   "id": 219969921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.42808,50.940231,-1.42808,50.940231",
     "geom:latitude":50.940231,
     "geom:longitude":-1.42808,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Aldermoor Health Centre, Aldermoor Clo",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219969921,
-    "wof:lastmodified":1449071242,
+    "wof:lastmodified":1466266818,
     "wof:name":"Morgan, S",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-1.42808,50.940231,-1.42808,50.940231],
+  "bbox": [
+    -1.42808,
+    50.940231,
+    -1.42808,
+    50.940231
+],
   "geometry": {"coordinates":[-1.42808,50.940231],"type":"Point"}
 }

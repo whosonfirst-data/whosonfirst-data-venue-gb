@@ -2,13 +2,14 @@
   "id": 336700451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.20726,55.828789,-4.20726,55.828789",
     "geom:latitude":55.828789,
     "geom:longitude":-4.20726,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Flat F 12 Eastcroft, Rutherglen",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336700451,
-    "wof:lastmodified":1448997926,
+    "wof:lastmodified":1466275783,
     "wof:name":"Eastcroft Sheltered Housing",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-4.20726,55.828789,-4.20726,55.828789],
+  "bbox": [
+    -4.20726,
+    55.828789,
+    -4.20726,
+    55.828789
+],
   "geometry": {"coordinates":[-4.20726,55.828789],"type":"Point"}
 }

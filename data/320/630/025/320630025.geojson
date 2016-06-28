@@ -2,13 +2,14 @@
   "id": 320630025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.691005,51.478325,-2.691005,51.478325",
     "geom:latitude":51.478325,
     "geom:longitude":-2.691005,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 10, Circuit32, Easton Rd,",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320630025,
-    "wof:lastmodified":1449012611,
+    "wof:lastmodified":1466283161,
     "wof:name":"Purnell,Steve,",
     "wof:parent_id":85789823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [-2.691005,51.478325,-2.691005,51.478325],
+  "bbox": [
+    -2.691005,
+    51.478325,
+    -2.691005,
+    51.478325
+],
   "geometry": {"coordinates":[-2.691005,51.478325],"type":"Point"}
 }

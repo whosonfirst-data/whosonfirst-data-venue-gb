@@ -2,13 +2,14 @@
   "id": 136002117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.998349,56.675529,-2.998349,56.675529",
     "geom:latitude":56.675529,
     "geom:longitude":-2.998349,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dryfield, 21 South Street",
     "sg:city":"Kirriemuir",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":136002117,
-    "wof:lastmodified":1449076002,
+    "wof:lastmodified":1466252835,
     "wof:name":"John Bruce & Son",
     "wof:parent_id":101873581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.998349,56.675529,-2.998349,56.675529],
+  "bbox": [
+    -2.998349,
+    56.675529,
+    -2.998349,
+    56.675529
+],
   "geometry": {"coordinates":[-2.998349,56.675529],"type":"Point"}
 }

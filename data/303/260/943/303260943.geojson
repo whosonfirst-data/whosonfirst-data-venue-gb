@@ -2,13 +2,14 @@
   "id": 303260943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.435991,53.623886,-2.435991,53.623886",
     "geom:latitude":53.623886,
     "geom:longitude":-2.435991,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, Dunscar Ind Est, Blackburn Rd, Egerton",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303260943,
-    "wof:lastmodified":1448998524,
+    "wof:lastmodified":1466270678,
     "wof:name":"Cofreth",
     "wof:parent_id":85792981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "conservation"
     ]
 },
-  "bbox": [-2.435991,53.623886,-2.435991,53.623886],
+  "bbox": [
+    -2.435991,
+    53.623886,
+    -2.435991,
+    53.623886
+],
   "geometry": {"coordinates":[-2.435991,53.623886],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253663355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.200063,52.916908,-1.200063,52.916908",
     "geom:latitude":52.916908,
     "geom:longitude":-1.200063,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Meadow Rd, Beeston",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253663355,
-    "wof:lastmodified":1449065006,
+    "wof:lastmodified":1466273069,
     "wof:name":"Happy Garden",
     "wof:parent_id":85861931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "take"
     ]
 },
-  "bbox": [-1.200063,52.916908,-1.200063,52.916908],
+  "bbox": [
+    -1.200063,
+    52.916908,
+    -1.200063,
+    52.916908
+],
   "geometry": {"coordinates":[-1.200063,52.916908],"type":"Point"}
 }

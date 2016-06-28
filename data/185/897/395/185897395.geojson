@@ -2,13 +2,14 @@
   "id": 185897395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.308494,55.856014,-4.308494,55.856014",
     "geom:latitude":55.856014,
     "geom:longitude":-4.308494,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Woodville Park, Ibrox",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185897395,
-    "wof:lastmodified":1449007974,
+    "wof:lastmodified":1466255867,
     "wof:name":"911 Recovery",
     "wof:parent_id":85792485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "recovery"
     ]
 },
-  "bbox": [-4.308494,55.856014,-4.308494,55.856014],
+  "bbox": [
+    -4.308494,
+    55.856014,
+    -4.308494,
+    55.856014
+],
   "geometry": {"coordinates":[-4.308494,55.856014],"type":"Point"}
 }

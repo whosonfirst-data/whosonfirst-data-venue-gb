@@ -2,13 +2,14 @@
   "id": 135928101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.0718,51.389645,0.0718,51.389645",
     "geom:latitude":51.389645,
     "geom:longitude":0.0718,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123a Queens Way, Petts Wood",
     "sg:city":"Orpington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135928101,
-    "wof:lastmodified":1449023588,
+    "wof:lastmodified":1466288229,
     "wof:name":"Simon Tolson",
     "wof:parent_id":85789817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.0718,51.389645,0.0718,51.389645],
+  "bbox": [
+    0.0718,
+    51.389645,
+    0.0718,
+    51.389645
+],
   "geometry": {"coordinates":[0.0718,51.389645],"type":"Point"}
 }

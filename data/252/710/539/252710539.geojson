@@ -2,13 +2,14 @@
   "id": 252710539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.993321,53.847858,-2.993321,53.847858",
     "geom:latitude":53.847858,
     "geom:longitude":-2.993321,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Tithebarn St",
     "sg:city":"Poulton Le Fylde",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":252710539,
-    "wof:lastmodified":1449005479,
+    "wof:lastmodified":1466257098,
     "wof:name":"Poulton Tile Centre",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "stockist"
     ]
 },
-  "bbox": [-2.993321,53.847858,-2.993321,53.847858],
+  "bbox": [
+    -2.993321,
+    53.847858,
+    -2.993321,
+    53.847858
+],
   "geometry": {"coordinates":[-2.993321,53.847858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303410335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.19252,57.412884,-6.19252,57.412884",
     "geom:latitude":57.412884,
     "geom:longitude":-6.19252,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Wentworth Street",
     "sg:city":"Portree",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303410335,
-    "wof:lastmodified":1448998152,
+    "wof:lastmodified":1466275160,
     "wof:name":"Portree Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.19252,57.412884,-6.19252,57.412884],
+  "bbox": [
+    -6.19252,
+    57.412884,
+    -6.19252,
+    57.412884
+],
   "geometry": {"coordinates":[-6.19252,57.412884],"type":"Point"}
 }

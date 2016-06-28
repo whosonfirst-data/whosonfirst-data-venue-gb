@@ -2,13 +2,14 @@
   "id": 119357409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.132707,52.934086,-1.132707,52.934086",
     "geom:latitude":52.934086,
     "geom:longitude":-1.132707,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Musters Rd",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119357409,
-    "wof:lastmodified":1449043208,
+    "wof:lastmodified":1466283131,
     "wof:name":"In-Practice",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.132707,52.934086,-1.132707,52.934086],
+  "bbox": [
+    -1.132707,
+    52.934086,
+    -1.132707,
+    52.934086
+],
   "geometry": {"coordinates":[-1.132707,52.934086],"type":"Point"}
 }

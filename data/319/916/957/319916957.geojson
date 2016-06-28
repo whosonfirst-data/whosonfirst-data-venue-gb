@@ -2,13 +2,14 @@
   "id": 319916957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.535195,53.8265,-1.535195,53.8265",
     "geom:latitude":53.8265,
     "geom:longitude":-1.535195,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Harrogate Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":319916957,
-    "wof:lastmodified":1449024512,
+    "wof:lastmodified":1466270428,
     "wof:name":"Rustic Pine",
     "wof:parent_id":85861577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pine"
     ]
 },
-  "bbox": [-1.535195,53.8265,-1.535195,53.8265],
+  "bbox": [
+    -1.535195,
+    53.8265,
+    -1.535195,
+    53.8265
+],
   "geometry": {"coordinates":[-1.535195,53.8265],"type":"Point"}
 }

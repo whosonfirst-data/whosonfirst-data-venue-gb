@@ -2,13 +2,14 @@
   "id": 203053273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.148087,51.74551,-1.148087,51.74551",
     "geom:latitude":51.74551,
     "geom:longitude":-1.148087,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Littleworth, Wheatley",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203053273,
-    "wof:lastmodified":1449025295,
+    "wof:lastmodified":1466253539,
     "wof:name":"B Hickey",
     "wof:parent_id":85864273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "artist"
     ]
 },
-  "bbox": [-1.148087,51.74551,-1.148087,51.74551],
+  "bbox": [
+    -1.148087,
+    51.74551,
+    -1.148087,
+    51.74551
+],
   "geometry": {"coordinates":[-1.148087,51.74551],"type":"Point"}
 }

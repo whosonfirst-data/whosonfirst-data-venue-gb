@@ -2,13 +2,14 @@
   "id": 320322273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.254839,55.85133,-4.254839,55.85133",
     "geom:latitude":55.85133,
     "geom:longitude":-4.254839,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"137-139 Norfolk Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320322273,
-    "wof:lastmodified":1449011221,
+    "wof:lastmodified":1466277802,
     "wof:name":"Pakistan Consulate",
     "wof:parent_id":85792597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consulate"
     ]
 },
-  "bbox": [-4.254839,55.85133,-4.254839,55.85133],
+  "bbox": [
+    -4.254839,
+    55.85133,
+    -4.254839,
+    55.85133
+],
   "geometry": {"coordinates":[-4.254839,55.85133],"type":"Point"}
 }

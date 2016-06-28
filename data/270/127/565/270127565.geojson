@@ -2,13 +2,14 @@
   "id": 270127565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.045821,53.851059,-3.045821,53.851059",
     "geom:latitude":53.851059,
     "geom:longitude":-3.045821,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Red Bank Road",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270127565,
-    "wof:lastmodified":1449010899,
+    "wof:lastmodified":1466264316,
     "wof:name":"Red Bank Rest Home",
     "wof:parent_id":85785755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-3.045821,53.851059,-3.045821,53.851059],
+  "bbox": [
+    -3.045821,
+    53.851059,
+    -3.045821,
+    53.851059
+],
   "geometry": {"coordinates":[-3.045821,53.851059],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252782245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.383986,53.514687,-2.383986,53.514687",
     "geom:latitude":53.514687,
     "geom:longitude":-2.383986,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Old Clough Lane, Walkden, Worsley",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252782245,
-    "wof:lastmodified":1449005400,
+    "wof:lastmodified":1466258515,
     "wof:name":"Atlas Concrete",
     "wof:parent_id":85791831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "concrete"
     ]
 },
-  "bbox": [-2.383986,53.514687,-2.383986,53.514687],
+  "bbox": [
+    -2.383986,
+    53.514687,
+    -2.383986,
+    53.514687
+],
   "geometry": {"coordinates":[-2.383986,53.514687],"type":"Point"}
 }

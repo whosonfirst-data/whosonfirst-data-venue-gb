@@ -2,13 +2,14 @@
   "id": 136195919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.015111,53.753254,-3.015111,53.753254",
     "geom:latitude":53.753254,
     "geom:longitude":-3.015111,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Banbury Road",
     "sg:city":"Lytham St Annes",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":136195919,
-    "wof:lastmodified":1449075812,
+    "wof:lastmodified":1466260646,
     "wof:name":"D Harry Jacks & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.015111,53.753254,-3.015111,53.753254],
+  "bbox": [
+    -3.015111,
+    53.753254,
+    -3.015111,
+    53.753254
+],
   "geometry": {"coordinates":[-3.015111,53.753254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320502245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.405947,51.654816,-0.405947,51.654816",
     "geom:latitude":51.654816,
     "geom:longitude":-0.405947,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Park Av",
     "sg:city":"Watford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320502245,
-    "wof:lastmodified":1449012965,
+    "wof:lastmodified":1466281156,
     "wof:name":"Acme Business Centre",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.405947,51.654816,-0.405947,51.654816],
+  "bbox": [
+    -0.405947,
+    51.654816,
+    -0.405947,
+    51.654816
+],
   "geometry": {"coordinates":[-0.405947,51.654816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320480501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.472627,50.581779,-3.472627,50.581779",
     "geom:latitude":50.581779,
     "geom:longitude":-3.472627,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18a Park Road",
     "sg:city":"Dawlish",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":320480501,
-    "wof:lastmodified":1449012492,
+    "wof:lastmodified":1466280764,
     "wof:name":"Dawlish Fresh Fish & Frozen Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fishmonger"
     ]
 },
-  "bbox": [-3.472627,50.581779,-3.472627,50.581779],
+  "bbox": [
+    -3.472627,
+    50.581779,
+    -3.472627,
+    50.581779
+],
   "geometry": {"coordinates":[-3.472627,50.581779],"type":"Point"}
 }

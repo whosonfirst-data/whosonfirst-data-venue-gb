@@ -2,13 +2,14 @@
   "id": 235959099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.530389,54.488499,-1.530389,54.488499",
     "geom:latitude":54.488499,
     "geom:longitude":-1.530389,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Southfield Close, Hurworth",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":235959099,
-    "wof:lastmodified":1449008580,
+    "wof:lastmodified":1466255695,
     "wof:name":"Bushview Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.530389,54.488499,-1.530389,54.488499],
+  "bbox": [
+    -1.530389,
+    54.488499,
+    -1.530389,
+    54.488499
+],
   "geometry": {"coordinates":[-1.530389,54.488499],"type":"Point"}
 }

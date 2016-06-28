@@ -2,13 +2,14 @@
   "id": 253683285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.132092,52.923653,-1.132092,52.923653",
     "geom:latitude":52.923653,
     "geom:longitude":-1.132092,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Musters Rd",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253683285,
-    "wof:lastmodified":1449063914,
+    "wof:lastmodified":1466273709,
     "wof:name":"Smith, E M",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-1.132092,52.923653,-1.132092,52.923653],
+  "bbox": [
+    -1.132092,
+    52.923653,
+    -1.132092,
+    52.923653
+],
   "geometry": {"coordinates":[-1.132092,52.923653],"type":"Point"}
 }

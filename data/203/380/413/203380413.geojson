@@ -2,13 +2,14 @@
   "id": 203380413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.14519,60.15382,-1.14519,60.15382",
     "geom:latitude":60.15382,
     "geom:longitude":-1.14519,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Pitt Lane, Lerwick",
     "sg:city":"Shetland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203380413,
-    "wof:lastmodified":1449025795,
+    "wof:lastmodified":1466259211,
     "wof:name":"Shetland Arts Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.14519,60.15382,-1.14519,60.15382],
+  "bbox": [
+    -1.14519,
+    60.15382,
+    -1.14519,
+    60.15382
+],
   "geometry": {"coordinates":[-1.14519,60.15382],"type":"Point"}
 }

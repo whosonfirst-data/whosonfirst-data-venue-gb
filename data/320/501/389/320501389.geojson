@@ -2,13 +2,14 @@
   "id": 320501389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.509019,53.680187,-1.509019,53.680187",
     "geom:latitude":53.680187,
     "geom:longitude":-1.509019,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Westgate End",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320501389,
-    "wof:lastmodified":1449015005,
+    "wof:lastmodified":1466281138,
     "wof:name":"Viditel",
     "wof:parent_id":85785297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "video"
     ]
 },
-  "bbox": [-1.509019,53.680187,-1.509019,53.680187],
+  "bbox": [
+    -1.509019,
+    53.680187,
+    -1.509019,
+    53.680187
+],
   "geometry": {"coordinates":[-1.509019,53.680187],"type":"Point"}
 }

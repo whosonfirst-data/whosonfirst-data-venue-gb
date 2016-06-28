@@ -2,13 +2,14 @@
   "id": 135799467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.784508,57.505299,-1.784508,57.505299",
     "geom:latitude":57.505299,
     "geom:longitude":-1.784508,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 St Peter Street",
     "sg:city":"Peterhead",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135799467,
-    "wof:lastmodified":1449024000,
+    "wof:lastmodified":1466287456,
     "wof:name":"The Bayview Hotel",
     "wof:parent_id":101877127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.784508,57.505299,-1.784508,57.505299],
+  "bbox": [
+    -1.784508,
+    57.505299,
+    -1.784508,
+    57.505299
+],
   "geometry": {"coordinates":[-1.784508,57.505299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186576125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.795777,50.722332,-1.795777,50.722332",
     "geom:latitude":50.722332,
     "geom:longitude":-1.795777,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Belle Vue Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186576125,
-    "wof:lastmodified":1449052385,
+    "wof:lastmodified":1466260593,
     "wof:name":"John Millard",
     "wof:parent_id":85790471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mason"
     ]
 },
-  "bbox": [-1.795777,50.722332,-1.795777,50.722332],
+  "bbox": [
+    -1.795777,
+    50.722332,
+    -1.795777,
+    50.722332
+],
   "geometry": {"coordinates":[-1.795777,50.722332],"type":"Point"}
 }

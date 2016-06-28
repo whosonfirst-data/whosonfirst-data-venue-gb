@@ -2,13 +2,14 @@
   "id": 220135609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.31198,54.56319,-1.31198,54.56319",
     "geom:latitude":54.56319,
     "geom:longitude":-1.31198,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Stephenson Way",
     "sg:city":"Stockton On Tees",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220135609,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466255380,
     "wof:name":"Shoe Express",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-1.31198,54.56319,-1.31198,54.56319],
+  "bbox": [
+    -1.31198,
+    54.56319,
+    -1.31198,
+    54.56319
+],
   "geometry": {"coordinates":[-1.31198,54.56319],"type":"Point"}
 }

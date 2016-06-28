@@ -2,13 +2,14 @@
   "id": 303585911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.087284,50.804008,-1.087284,50.804008",
     "geom:latitude":50.804008,
     "geom:longitude":-1.087284,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"P O Box 33, 257-259 Commercial Road",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303585911,
-    "wof:lastmodified":1448999745,
+    "wof:lastmodified":1466279795,
     "wof:name":"Beneficial Bank",
     "wof:parent_id":85861983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.087284,50.804008,-1.087284,50.804008],
+  "bbox": [
+    -1.087284,
+    50.804008,
+    -1.087284,
+    50.804008
+],
   "geometry": {"coordinates":[-1.087284,50.804008],"type":"Point"}
 }

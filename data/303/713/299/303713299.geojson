@@ -2,13 +2,14 @@
   "id": 303713299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.206014,55.904205,-4.206014,55.904205",
     "geom:latitude":55.904205,
     "geom:longitude":-4.206014,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Marys Road, Bishopbriggs",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303713299,
-    "wof:lastmodified":1449000336,
+    "wof:lastmodified":1466281957,
     "wof:name":"St. Mary's Kenmure School",
     "wof:parent_id":85793309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "authority"
     ]
 },
-  "bbox": [-4.206014,55.904205,-4.206014,55.904205],
+  "bbox": [
+    -4.206014,
+    55.904205,
+    -4.206014,
+    55.904205
+],
   "geometry": {"coordinates":[-4.206014,55.904205],"type":"Point"}
 }

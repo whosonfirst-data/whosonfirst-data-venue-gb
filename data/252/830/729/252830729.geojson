@@ -2,13 +2,14 @@
   "id": 252830729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.525345,50.479725,-3.525345,50.479725",
     "geom:latitude":50.479725,
     "geom:longitude":-3.525345,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"182 St Marychurch Road",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252830729,
-    "wof:lastmodified":1449005648,
+    "wof:lastmodified":1466259456,
     "wof:name":"Thunderbird Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "signwriters"
     ]
 },
-  "bbox": [-3.525345,50.479725,-3.525345,50.479725],
+  "bbox": [
+    -3.525345,
+    50.479725,
+    -3.525345,
+    50.479725
+],
   "geometry": {"coordinates":[-3.525345,50.479725],"type":"Point"}
 }

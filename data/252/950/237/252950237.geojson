@@ -2,13 +2,14 @@
   "id": 252950237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.619342,55.00729,-1.619342,55.00729",
     "geom:latitude":55.00729,
     "geom:longitude":-1.619342,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Church Rd",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252950237,
-    "wof:lastmodified":1449005835,
+    "wof:lastmodified":1466261844,
     "wof:name":"Walter Wright",
     "wof:parent_id":85790431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-1.619342,55.00729,-1.619342,55.00729],
+  "bbox": [
+    -1.619342,
+    55.00729,
+    -1.619342,
+    55.00729
+],
   "geometry": {"coordinates":[-1.619342,55.00729],"type":"Point"}
 }

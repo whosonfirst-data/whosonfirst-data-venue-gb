@@ -2,13 +2,14 @@
   "id": 135370315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.182105,53.385147,-2.182105,53.385147",
     "geom:latitude":53.385147,
     "geom:longitude":-2.182105,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11a Bridge Bldgs, Ladybridge Rd, Cheadle Hulme",
     "sg:city":"Cheadle",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135370315,
-    "wof:lastmodified":1449022655,
+    "wof:lastmodified":1466259443,
     "wof:name":"Airport Passenger Handling Service",
     "wof:parent_id":85786499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.182105,53.385147,-2.182105,53.385147],
+  "bbox": [
+    -2.182105,
+    53.385147,
+    -2.182105,
+    53.385147
+],
   "geometry": {"coordinates":[-2.182105,53.385147],"type":"Point"}
 }

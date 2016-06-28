@@ -2,13 +2,14 @@
   "id": 118623115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.101608,52.627415,-1.101608,52.627415",
     "geom:latitude":52.627415,
     "geom:longitude":-1.101608,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Chesterfield Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118623115,
-    "wof:lastmodified":1449054127,
+    "wof:lastmodified":1466259383,
     "wof:name":"EUROTRANS LEICESTER LTD",
     "wof:parent_id":85861117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.101608,52.627415,-1.101608,52.627415],
+  "bbox": [
+    -1.101608,
+    52.627415,
+    -1.101608,
+    52.627415
+],
   "geometry": {"coordinates":[-1.101608,52.627415],"type":"Point"}
 }

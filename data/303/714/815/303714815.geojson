@@ -2,13 +2,14 @@
   "id": 303714815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.220844,55.931316,-3.220844,55.931316",
     "geom:latitude":55.931316,
     "geom:longitude":-3.220844,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Mid Gillsland Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303714815,
-    "wof:lastmodified":1448999320,
+    "wof:lastmodified":1466281980,
     "wof:name":"John McWilliam Artist",
     "wof:parent_id":85789063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "artist"
     ]
 },
-  "bbox": [-3.220844,55.931316,-3.220844,55.931316],
+  "bbox": [
+    -3.220844,
+    55.931316,
+    -3.220844,
+    55.931316
+],
   "geometry": {"coordinates":[-3.220844,55.931316],"type":"Point"}
 }

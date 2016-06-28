@@ -2,13 +2,14 @@
   "id": 135636353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.418359,50.916878,-1.418359,50.916878",
     "geom:latitude":50.916878,
     "geom:longitude":-1.418359,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Atherley Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135636353,
-    "wof:lastmodified":1449022198,
+    "wof:lastmodified":1466284303,
     "wof:name":"Atherley Stores",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.418359,50.916878,-1.418359,50.916878],
+  "bbox": [
+    -1.418359,
+    50.916878,
+    -1.418359,
+    50.916878
+],
   "geometry": {"coordinates":[-1.418359,50.916878],"type":"Point"}
 }

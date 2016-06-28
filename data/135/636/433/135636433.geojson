@@ -2,13 +2,14 @@
   "id": 135636433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.639309,55.902908,-3.639309,55.902908",
     "geom:latitude":55.902908,
     "geom:longitude":-3.639309,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Acredale House, 9 Mid Street",
     "sg:city":"Bathgate",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135636433,
-    "wof:lastmodified":1449022198,
+    "wof:lastmodified":1466284207,
     "wof:name":"Acredale House",
     "wof:parent_id":101877115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.639309,55.902908,-3.639309,55.902908],
+  "bbox": [
+    -3.639309,
+    55.902908,
+    -3.639309,
+    55.902908
+],
   "geometry": {"coordinates":[-3.639309,55.902908],"type":"Point"}
 }

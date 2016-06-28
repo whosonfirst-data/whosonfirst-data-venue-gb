@@ -2,13 +2,14 @@
   "id": 202837875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.783445,51.521339,-1.783445,51.521339",
     "geom:latitude":51.521339,
     "geom:longitude":-1.783445,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Brimble Hill, Wroughton",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202837875,
-    "wof:lastmodified":1449060504,
+    "wof:lastmodified":1466259682,
     "wof:name":"Harmbridge Ltd.",
     "wof:parent_id":85786073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "electronic"
     ]
 },
-  "bbox": [-1.783445,51.521339,-1.783445,51.521339],
+  "bbox": [
+    -1.783445,
+    51.521339,
+    -1.783445,
+    51.521339
+],
   "geometry": {"coordinates":[-1.783445,51.521339],"type":"Point"}
 }

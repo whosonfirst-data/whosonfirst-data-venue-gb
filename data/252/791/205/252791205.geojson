@@ -2,13 +2,14 @@
   "id": 252791205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.235279,54.573391,-1.235279,54.573391",
     "geom:latitude":54.573391,
     "geom:longitude":-1.235279,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Albert Rd",
     "sg:city":"Middlesbrough",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":252791205,
-    "wof:lastmodified":1449006257,
+    "wof:lastmodified":1466258730,
     "wof:name":"Whitegates Estate Agency",
     "wof:parent_id":85789471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.235279,54.573391,-1.235279,54.573391],
+  "bbox": [
+    -1.235279,
+    54.573391,
+    -1.235279,
+    54.573391
+],
   "geometry": {"coordinates":[-1.235279,54.573391],"type":"Point"}
 }

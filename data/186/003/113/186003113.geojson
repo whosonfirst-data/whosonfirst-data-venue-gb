@@ -2,13 +2,14 @@
   "id": 186003113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.843289,53.650833,-1.843289,53.650833",
     "geom:latitude":53.650833,
     "geom:longitude":-1.843289,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dod Lee Lane, Longwood",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186003113,
-    "wof:lastmodified":1449052818,
+    "wof:lastmodified":1466278166,
     "wof:name":"Longwood Bowling Club",
     "wof:parent_id":85790127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.843289,53.650833,-1.843289,53.650833],
+  "bbox": [
+    -1.843289,
+    53.650833,
+    -1.843289,
+    53.650833
+],
   "geometry": {"coordinates":[-1.843289,53.650833],"type":"Point"}
 }

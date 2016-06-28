@@ -2,13 +2,14 @@
   "id": 336692095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.32428,53.440529,-1.32428,53.440529",
     "geom:latitude":53.440529,
     "geom:longitude":-1.32428,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Fitzwilliam Centre, Doncaster Road",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336692095,
-    "wof:lastmodified":1448997238,
+    "wof:lastmodified":1466275519,
     "wof:name":"The Inspection Unit",
     "wof:parent_id":85785261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-1.32428,53.440529,-1.32428,53.440529],
+  "bbox": [
+    -1.32428,
+    53.440529,
+    -1.32428,
+    53.440529
+],
   "geometry": {"coordinates":[-1.32428,53.440529],"type":"Point"}
 }

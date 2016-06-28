@@ -2,13 +2,14 @@
   "id": 286950567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.185109,52.625439,-2.185109,52.625439",
     "geom:latitude":52.625439,
     "geom:longitude":-2.185109,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bilbrook House Residential Home, 10 Carter Avenue, Codsall",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":286950567,
-    "wof:lastmodified":1449016331,
+    "wof:lastmodified":1466281420,
     "wof:name":"Bilbrook House",
     "wof:parent_id":85787477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-2.185109,52.625439,-2.185109,52.625439],
+  "bbox": [
+    -2.185109,
+    52.625439,
+    -2.185109,
+    52.625439
+],
   "geometry": {"coordinates":[-2.185109,52.625439],"type":"Point"}
 }

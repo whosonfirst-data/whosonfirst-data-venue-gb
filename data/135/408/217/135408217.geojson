@@ -2,13 +2,14 @@
   "id": 135408217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.139127,51.247925,-1.139127,51.247925",
     "geom:latitude":51.247925,
     "geom:longitude":-1.139127,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Kempshott Lane",
     "sg:city":"Basingstoke",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":135408217,
-    "wof:lastmodified":1449021359,
+    "wof:lastmodified":1466263629,
     "wof:name":"Fundamental Furnishings",
     "wof:parent_id":101750351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.139127,51.247925,-1.139127,51.247925],
+  "bbox": [
+    -1.139127,
+    51.247925,
+    -1.139127,
+    51.247925
+],
   "geometry": {"coordinates":[-1.139127,51.247925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236483833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.460034,52.969749,-1.460034,52.969749",
     "geom:latitude":52.969749,
     "geom:longitude":-1.460034,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Old Brewery, Duffield Road, Little Eaton",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236483833,
-    "wof:lastmodified":1449004398,
+    "wof:lastmodified":1466265550,
     "wof:name":"M W (Polymer Products) Ltd.",
     "wof:parent_id":85785285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-1.460034,52.969749,-1.460034,52.969749],
+  "bbox": [
+    -1.460034,
+    52.969749,
+    -1.460034,
+    52.969749
+],
   "geometry": {"coordinates":[-1.460034,52.969749],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304032819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.782307,55.996201,-3.782307,55.996201",
     "geom:latitude":55.996201,
     "geom:longitude":-3.782307,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, Comely Place",
     "sg:city":"Falkirk",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":304032819,
-    "wof:lastmodified":1449043839,
+    "wof:lastmodified":1466265241,
     "wof:name":"John Martin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mot"
     ]
 },
-  "bbox": [-3.782307,55.996201,-3.782307,55.996201],
+  "bbox": [
+    -3.782307,
+    55.996201,
+    -3.782307,
+    55.996201
+],
   "geometry": {"coordinates":[-3.782307,55.996201],"type":"Point"}
 }

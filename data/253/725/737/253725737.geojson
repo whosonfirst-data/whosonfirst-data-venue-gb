@@ -2,13 +2,14 @@
   "id": 253725737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.209393,55.933609,-3.209393,55.933609",
     "geom:latitude":55.933609,
     "geom:longitude":-3.209393,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Greenhill Park",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253725737,
-    "wof:lastmodified":1449063532,
+    "wof:lastmodified":1466275123,
     "wof:name":"JENKINS & POTTER",
     "wof:parent_id":85861531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "structural"
     ]
 },
-  "bbox": [-3.209393,55.933609,-3.209393,55.933609],
+  "bbox": [
+    -3.209393,
+    55.933609,
+    -3.209393,
+    55.933609
+],
   "geometry": {"coordinates":[-3.209393,55.933609],"type":"Point"}
 }

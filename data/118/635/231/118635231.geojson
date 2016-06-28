@@ -2,13 +2,14 @@
   "id": 118635231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.193588,52.962318,-1.193588,52.962318",
     "geom:latitude":52.962318,
     "geom:longitude":-1.193588,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Ennismore Gardens",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118635231,
-    "wof:lastmodified":1449053743,
+    "wof:lastmodified":1466260338,
     "wof:name":"Classic Construction",
     "wof:parent_id":85790001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.193588,52.962318,-1.193588,52.962318],
+  "bbox": [
+    -1.193588,
+    52.962318,
+    -1.193588,
+    52.962318
+],
   "geometry": {"coordinates":[-1.193588,52.962318],"type":"Point"}
 }

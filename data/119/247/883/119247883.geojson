@@ -2,13 +2,14 @@
   "id": 119247883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.268619,55.965553,-3.268619,55.965553",
     "geom:latitude":55.965553,
     "geom:longitude":-3.268619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Main Street, Davidsons Mains",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119247883,
-    "wof:lastmodified":1449042417,
+    "wof:lastmodified":1466274569,
     "wof:name":"The Village Inn",
     "wof:parent_id":85786975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.268619,55.965553,-3.268619,55.965553],
+  "bbox": [
+    -3.268619,
+    55.965553,
+    -3.268619,
+    55.965553
+],
   "geometry": {"coordinates":[-3.268619,55.965553],"type":"Point"}
 }

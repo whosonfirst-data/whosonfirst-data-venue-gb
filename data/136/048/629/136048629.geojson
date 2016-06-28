@@ -2,13 +2,14 @@
   "id": 136048629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.135603,55.858253,-4.135603,55.858253",
     "geom:latitude":55.858253,
     "geom:longitude":-4.135603,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Barlanark Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136048629,
-    "wof:lastmodified":1449075373,
+    "wof:lastmodified":1466278088,
     "wof:name":"Barlanark Childrens Centre",
     "wof:parent_id":85792567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.135603,55.858253,-4.135603,55.858253],
+  "bbox": [
+    -4.135603,
+    55.858253,
+    -4.135603,
+    55.858253
+],
   "geometry": {"coordinates":[-4.135603,55.858253],"type":"Point"}
 }

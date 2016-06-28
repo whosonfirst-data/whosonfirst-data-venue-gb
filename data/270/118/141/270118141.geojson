@@ -2,13 +2,14 @@
   "id": 270118141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.249096,53.42329,-2.249096,53.42329",
     "geom:latitude":53.42329,
     "geom:longitude":-2.249096,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Barrow Moor Rd, West Didsbury",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270118141,
-    "wof:lastmodified":1449010599,
+    "wof:lastmodified":1466264031,
     "wof:name":"Green Gables Guest House",
     "wof:parent_id":85791723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "guest"
     ]
 },
-  "bbox": [-2.249096,53.42329,-2.249096,53.42329],
+  "bbox": [
+    -2.249096,
+    53.42329,
+    -2.249096,
+    53.42329
+],
   "geometry": {"coordinates":[-2.249096,53.42329],"type":"Point"}
 }

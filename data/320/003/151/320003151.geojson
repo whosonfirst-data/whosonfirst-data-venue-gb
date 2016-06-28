@@ -2,13 +2,14 @@
   "id": 320003151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.05792,51.51939,-0.05792,51.51939",
     "geom:latitude":51.51939,
     "geom:longitude":-0.05792,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Whitechapel Tech Cen, 65 Whitechapel Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320003151,
-    "wof:lastmodified":1449014671,
+    "wof:lastmodified":1466268185,
     "wof:name":"Clark Smith Partnership",
     "wof:parent_id":85865133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "structural"
     ]
 },
-  "bbox": [-0.05792,51.51939,-0.05792,51.51939],
+  "bbox": [
+    -0.05792,
+    51.51939,
+    -0.05792,
+    51.51939
+],
   "geometry": {"coordinates":[-0.05792,51.51939],"type":"Point"}
 }

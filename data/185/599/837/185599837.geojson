@@ -2,13 +2,14 @@
   "id": 185599837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.251058,53.0508,-2.251058,53.0508",
     "geom:latitude":53.0508,
     "geom:longitude":-2.251058,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Crackley Bank, Chesteron",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185599837,
-    "wof:lastmodified":1449007356,
+    "wof:lastmodified":1466262163,
     "wof:name":"Chesterton Plumbing",
     "wof:parent_id":85785915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "heating"
     ]
 },
-  "bbox": [-2.251058,53.0508,-2.251058,53.0508],
+  "bbox": [
+    -2.251058,
+    53.0508,
+    -2.251058,
+    53.0508
+],
   "geometry": {"coordinates":[-2.251058,53.0508],"type":"Point"}
 }

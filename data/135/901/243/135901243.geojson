@@ -2,13 +2,14 @@
   "id": 135901243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.496344,51.285706,-2.496344,51.285706",
     "geom:latitude":51.285706,
     "geom:longitude":-2.496344,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Green Acres, Midsomer Norton",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135901243,
-    "wof:lastmodified":1449022264,
+    "wof:lastmodified":1466288088,
     "wof:name":"Green Acres Sheltered Housing",
     "wof:parent_id":85683823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.496344,51.285706,-2.496344,51.285706],
+  "bbox": [
+    -2.496344,
+    51.285706,
+    -2.496344,
+    51.285706
+],
   "geometry": {"coordinates":[-2.496344,51.285706],"type":"Point"}
 }

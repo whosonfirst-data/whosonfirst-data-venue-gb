@@ -2,13 +2,14 @@
   "id": 303192449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.073205,51.436375,0.073205,51.436375",
     "geom:latitude":51.436375,
     "geom:longitude":0.073205,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"406a Footscray Road, New Eltham",
     "sg:city":"London",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303192449,
-    "wof:lastmodified":1448999850,
+    "wof:lastmodified":1466268514,
     "wof:name":"Castle Doors",
     "wof:parent_id":85789331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "door"
     ]
 },
-  "bbox": [0.073205,51.436375,0.073205,51.436375],
+  "bbox": [
+    0.073205,
+    51.436375,
+    0.073205,
+    51.436375
+],
   "geometry": {"coordinates":[0.073205,51.436375],"type":"Point"}
 }

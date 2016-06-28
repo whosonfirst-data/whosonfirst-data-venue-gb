@@ -2,13 +2,14 @@
   "id": 303865801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.042901,52.585697,-2.042901,52.585697",
     "geom:latitude":52.585697,
     "geom:longitude":-2.042901,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36-40 Walsall Road",
     "sg:city":"Willenhall",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303865801,
-    "wof:lastmodified":1448999965,
+    "wof:lastmodified":1466283907,
     "wof:name":"Daner Ltd.",
     "wof:parent_id":85785623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cash"
     ]
 },
-  "bbox": [-2.042901,52.585697,-2.042901,52.585697],
+  "bbox": [
+    -2.042901,
+    52.585697,
+    -2.042901,
+    52.585697
+],
   "geometry": {"coordinates":[-2.042901,52.585697],"type":"Point"}
 }

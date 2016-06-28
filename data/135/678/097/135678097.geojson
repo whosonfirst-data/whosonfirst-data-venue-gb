@@ -2,13 +2,14 @@
   "id": 135678097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.40134,50.914261,-1.40134,50.914261",
     "geom:latitude":50.914261,
     "geom:longitude":-1.40134,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Avenue",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135678097,
-    "wof:lastmodified":1449022477,
+    "wof:lastmodified":1466285566,
     "wof:name":"University of Southampton New College",
     "wof:parent_id":85861259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.40134,50.914261,-1.40134,50.914261],
+  "bbox": [
+    -1.40134,
+    50.914261,
+    -1.40134,
+    50.914261
+],
   "geometry": {"coordinates":[-1.40134,50.914261],"type":"Point"}
 }

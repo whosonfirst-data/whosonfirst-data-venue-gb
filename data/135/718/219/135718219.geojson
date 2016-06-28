@@ -2,13 +2,14 @@
   "id": 135718219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.234275,52.914948,-1.234275,52.914948",
     "geom:latitude":52.914948,
     "geom:longitude":-1.234275,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Kirk Close, Chilwell Beeston",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135718219,
-    "wof:lastmodified":1449021637,
+    "wof:lastmodified":1466286408,
     "wof:name":"Flock - Off Ltd",
     "wof:parent_id":85786583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.234275,52.914948,-1.234275,52.914948],
+  "bbox": [
+    -1.234275,
+    52.914948,
+    -1.234275,
+    52.914948
+],
   "geometry": {"coordinates":[-1.234275,52.914948],"type":"Point"}
 }

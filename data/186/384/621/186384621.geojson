@@ -2,13 +2,14 @@
   "id": 186384621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.09538,52.681347,-1.09538,52.681347",
     "geom:latitude":52.681347,
     "geom:longitude":-1.09538,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Alexandra Street, Thurmaston",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186384621,
-    "wof:lastmodified":1449050628,
+    "wof:lastmodified":1466257315,
     "wof:name":"Greyhound Fabrications",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fabricated"
     ]
 },
-  "bbox": [-1.09538,52.681347,-1.09538,52.681347],
+  "bbox": [
+    -1.09538,
+    52.681347,
+    -1.09538,
+    52.681347
+],
   "geometry": {"coordinates":[-1.09538,52.681347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236559695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.187495,55.825558,-4.187495,55.825558",
     "geom:latitude":55.825558,
     "geom:longitude":-4.187495,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Cambuslang Road, Cambuslang",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236559695,
-    "wof:lastmodified":1449004378,
+    "wof:lastmodified":1466267019,
     "wof:name":"The Langfield Inn",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-4.187495,55.825558,-4.187495,55.825558],
+  "bbox": [
+    -4.187495,
+    55.825558,
+    -4.187495,
+    55.825558
+],
   "geometry": {"coordinates":[-4.187495,55.825558],"type":"Point"}
 }

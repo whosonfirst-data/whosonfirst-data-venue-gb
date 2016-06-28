@@ -2,13 +2,14 @@
   "id": 303885181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.250849,53.711105,-2.250849,53.711105",
     "geom:latitude":53.711105,
     "geom:longitude":-2.250849,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Osborne Terr, Whitewell Bottom",
     "sg:city":"Rossendale",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303885181,
-    "wof:lastmodified":1448999421,
+    "wof:lastmodified":1466284117,
     "wof:name":"S.A.F.E. (Security & Audio Fitting Engineers)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "audio"
     ]
 },
-  "bbox": [-2.250849,53.711105,-2.250849,53.711105],
+  "bbox": [
+    -2.250849,
+    53.711105,
+    -2.250849,
+    53.711105
+],
   "geometry": {"coordinates":[-2.250849,53.711105],"type":"Point"}
 }

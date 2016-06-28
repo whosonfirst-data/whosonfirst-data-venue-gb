@@ -2,13 +2,14 @@
   "id": 185983343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.013639,53.455551,-2.013639,53.455551",
     "geom:latitude":53.455551,
     "geom:longitude":-2.013639,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Chambers Court, Mottram",
     "sg:city":"Hyde",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185983343,
-    "wof:lastmodified":1449008086,
+    "wof:lastmodified":1466256896,
     "wof:name":"Chambers Court",
     "wof:parent_id":85786995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-2.013639,53.455551,-2.013639,53.455551],
+  "bbox": [
+    -2.013639,
+    53.455551,
+    -2.013639,
+    53.455551
+],
   "geometry": {"coordinates":[-2.013639,53.455551],"type":"Point"}
 }

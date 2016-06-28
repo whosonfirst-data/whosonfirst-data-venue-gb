@@ -2,13 +2,14 @@
   "id": 236052629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.505509,52.394505,-1.505509,52.394505",
     "geom:latitude":52.394505,
     "geom:longitude":-1.505509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Daventry Road",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236052629,
-    "wof:lastmodified":1449003092,
+    "wof:lastmodified":1466257523,
     "wof:name":"Three Cooks Ltd.",
     "wof:parent_id":85789723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-1.505509,52.394505,-1.505509,52.394505],
+  "bbox": [
+    -1.505509,
+    52.394505,
+    -1.505509,
+    52.394505
+],
   "geometry": {"coordinates":[-1.505509,52.394505],"type":"Point"}
 }

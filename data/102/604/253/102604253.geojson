@@ -2,13 +2,14 @@
   "id": 102604253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.305178,53.533348,-1.305178,53.533348",
     "geom:latitude":53.533348,
     "geom:longitude":-1.305178,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Jackson St",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102604253,
-    "wof:lastmodified":1449069904,
+    "wof:lastmodified":1466252625,
     "wof:name":"Auto Alert",
     "wof:parent_id":85684035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.305178,53.533348,-1.305178,53.533348],
+  "bbox": [
+    -1.305178,
+    53.533348,
+    -1.305178,
+    53.533348
+],
   "geometry": {"coordinates":[-1.305178,53.533348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303820059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.316001,51.555847,-0.316001,51.555847",
     "geom:latitude":51.555847,
     "geom:longitude":-0.316001,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rugby Avenue",
     "sg:city":"Wembley",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303820059,
-    "wof:lastmodified":1448999382,
+    "wof:lastmodified":1466283245,
     "wof:name":"Distribution Of Food And Vegetables",
     "wof:parent_id":85790821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.316001,51.555847,-0.316001,51.555847],
+  "bbox": [
+    -0.316001,
+    51.555847,
+    -0.316001,
+    51.555847
+],
   "geometry": {"coordinates":[-0.316001,51.555847],"type":"Point"}
 }

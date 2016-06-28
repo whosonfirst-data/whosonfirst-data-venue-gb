@@ -2,13 +2,14 @@
   "id": 135373119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.962139,52.465843,-1.962139,52.465843",
     "geom:latitude":52.465843,
     "geom:longitude":-1.962139,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Ellesboro Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135373119,
-    "wof:lastmodified":1449022582,
+    "wof:lastmodified":1466259723,
     "wof:name":"The Jazz Ramblers",
     "wof:parent_id":85787915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.962139,52.465843,-1.962139,52.465843],
+  "bbox": [
+    -1.962139,
+    52.465843,
+    -1.962139,
+    52.465843
+],
   "geometry": {"coordinates":[-1.962139,52.465843],"type":"Point"}
 }

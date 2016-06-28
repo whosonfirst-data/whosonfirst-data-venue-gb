@@ -2,13 +2,14 @@
   "id": 202380447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.462305,51.481842,-0.462305,51.481842",
     "geom:latitude":51.481842,
     "geom:longitude":-0.462305,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"International Training & Support Centre, 286 Bath Rd",
     "sg:city":"West Drayton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202380447,
-    "wof:lastmodified":1449061299,
+    "wof:lastmodified":1466276220,
     "wof:name":"Lawson Software",
     "wof:parent_id":85790373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "software"
     ]
 },
-  "bbox": [-0.462305,51.481842,-0.462305,51.481842],
+  "bbox": [
+    -0.462305,
+    51.481842,
+    -0.462305,
+    51.481842
+],
   "geometry": {"coordinates":[-0.462305,51.481842],"type":"Point"}
 }

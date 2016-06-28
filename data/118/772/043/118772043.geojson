@@ -2,13 +2,14 @@
   "id": 118772043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.536219,55.883549,-3.536219,55.883549",
     "geom:latitude":55.883549,
     "geom:longitude":-3.536219,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Kaims Court",
     "sg:city":"Livingston",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118772043,
-    "wof:lastmodified":1449053770,
+    "wof:lastmodified":1466270677,
     "wof:name":"Scotpave",
     "wof:parent_id":101750631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.536219,55.883549,-3.536219,55.883549],
+  "bbox": [
+    -3.536219,
+    55.883549,
+    -3.536219,
+    55.883549
+],
   "geometry": {"coordinates":[-3.536219,55.883549],"type":"Point"}
 }

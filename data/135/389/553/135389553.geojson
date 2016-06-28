@@ -2,13 +2,14 @@
   "id": 135389553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.619063,51.418026,-2.619063,51.418026",
     "geom:latitude":51.418026,
     "geom:longitude":-2.619063,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Vicarage Road, Bishopsworth",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135389553,
-    "wof:lastmodified":1449023410,
+    "wof:lastmodified":1466261413,
     "wof:name":"Bishopsworth Nursing Home",
     "wof:parent_id":85785751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.619063,51.418026,-2.619063,51.418026],
+  "bbox": [
+    -2.619063,
+    51.418026,
+    -2.619063,
+    51.418026
+],
   "geometry": {"coordinates":[-2.619063,51.418026],"type":"Point"}
 }

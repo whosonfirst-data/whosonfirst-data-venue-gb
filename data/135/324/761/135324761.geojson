@@ -2,13 +2,14 @@
   "id": 135324761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.187219,53.016048,-1.187219,53.016048",
     "geom:latitude":53.016048,
     "geom:longitude":-1.187219,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1228 Hucknall Lane Bulwell",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135324761,
-    "wof:lastmodified":1449022783,
+    "wof:lastmodified":1466254205,
     "wof:name":"Bridgeway Garages",
     "wof:parent_id":85861925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.187219,53.016048,-1.187219,53.016048],
+  "bbox": [
+    -1.187219,
+    53.016048,
+    -1.187219,
+    53.016048
+],
   "geometry": {"coordinates":[-1.187219,53.016048],"type":"Point"}
 }

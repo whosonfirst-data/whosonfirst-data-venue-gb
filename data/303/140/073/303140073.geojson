@@ -2,13 +2,14 @@
   "id": 303140073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.419751,52.534126,-2.419751,52.534126",
     "geom:latitude":52.534126,
     "geom:longitude":-2.419751,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 West Castle Street",
     "sg:city":"Bridgnorth",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303140073,
-    "wof:lastmodified":1448998471,
+    "wof:lastmodified":1466266872,
     "wof:name":"Catherine's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-2.419751,52.534126,-2.419751,52.534126],
+  "bbox": [
+    -2.419751,
+    52.534126,
+    -2.419751,
+    52.534126
+],
   "geometry": {"coordinates":[-2.419751,52.534126],"type":"Point"}
 }

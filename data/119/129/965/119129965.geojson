@@ -2,13 +2,14 @@
   "id": 119129965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.36166,53.752213,-2.36166,53.752213",
     "geom:latitude":53.752213,
     "geom:longitude":-2.36166,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Abbey Street",
     "sg:city":"Accrington",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":119129965,
-    "wof:lastmodified":1449042992,
+    "wof:lastmodified":1466261705,
     "wof:name":"Black Horse",
     "wof:parent_id":101750585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.36166,53.752213,-2.36166,53.752213],
+  "bbox": [
+    -2.36166,
+    53.752213,
+    -2.36166,
+    53.752213
+],
   "geometry": {"coordinates":[-2.36166,53.752213],"type":"Point"}
 }

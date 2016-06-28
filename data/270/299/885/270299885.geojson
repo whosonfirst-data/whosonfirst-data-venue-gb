@@ -2,13 +2,14 @@
   "id": 270299885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.524529,55.112534,-1.524529,55.112534",
     "geom:latitude":55.112534,
     "geom:longitude":-1.524529,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"South Harbour",
     "sg:city":"Blyth",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":270299885,
-    "wof:lastmodified":1449009245,
+    "wof:lastmodified":1466269393,
     "wof:name":"Blyth Harbour Commission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "ports"
     ]
 },
-  "bbox": [-1.524529,55.112534,-1.524529,55.112534],
+  "bbox": [
+    -1.524529,
+    55.112534,
+    -1.524529,
+    55.112534
+],
   "geometry": {"coordinates":[-1.524529,55.112534],"type":"Point"}
 }

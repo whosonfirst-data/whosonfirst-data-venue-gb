@@ -2,13 +2,14 @@
   "id": 320544833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.972558,53.439762,-2.972558,53.439762",
     "geom:latitude":53.439762,
     "geom:longitude":-2.972558,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Carisbrooke Rd",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320544833,
-    "wof:lastmodified":1449014961,
+    "wof:lastmodified":1466281864,
     "wof:name":"Carisbrooke Hotel",
     "wof:parent_id":85791317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "activity"
     ]
 },
-  "bbox": [-2.972558,53.439762,-2.972558,53.439762],
+  "bbox": [
+    -2.972558,
+    53.439762,
+    -2.972558,
+    53.439762
+],
   "geometry": {"coordinates":[-2.972558,53.439762],"type":"Point"}
 }

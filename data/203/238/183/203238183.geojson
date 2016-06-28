@@ -2,13 +2,14 @@
   "id": 203238183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.536314,55.212872,-1.536314,55.212872",
     "geom:latitude":55.212872,
     "geom:longitude":-1.536314,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 West Market Street, Lymemouth",
     "sg:city":"Morpeth",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203238183,
-    "wof:lastmodified":1449025626,
+    "wof:lastmodified":1466256721,
     "wof:name":"Storewise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.536314,55.212872,-1.536314,55.212872],
+  "bbox": [
+    -1.536314,
+    55.212872,
+    -1.536314,
+    55.212872
+],
   "geometry": {"coordinates":[-1.536314,55.212872],"type":"Point"}
 }

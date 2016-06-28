@@ -2,13 +2,14 @@
   "id": 119255821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.04949,52.290649,0.04949,52.290649",
     "geom:latitude":52.290649,
     "geom:longitude":0.04949,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Station Road",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119255821,
-    "wof:lastmodified":1449042030,
+    "wof:lastmodified":1466275441,
     "wof:name":"British Cardiac Patients Association",
     "wof:parent_id":85683871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.04949,52.290649,0.04949,52.290649],
+  "bbox": [
+    0.04949,
+    52.290649,
+    0.04949,
+    52.290649
+],
   "geometry": {"coordinates":[0.04949,52.290649],"type":"Point"}
 }

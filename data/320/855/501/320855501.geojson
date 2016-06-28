@@ -2,13 +2,14 @@
   "id": 320855501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.073408,53.783382,-1.073408,53.783382",
     "geom:latitude":53.783382,
     "geom:longitude":-1.073408,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"74-76 Gowthorpe",
     "sg:city":"Selby",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320855501,
-    "wof:lastmodified":1449014012,
+    "wof:lastmodified":1466285235,
     "wof:name":"The Selby Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-1.073408,53.783382,-1.073408,53.783382],
+  "bbox": [
+    -1.073408,
+    53.783382,
+    -1.073408,
+    53.783382
+],
   "geometry": {"coordinates":[-1.073408,53.783382],"type":"Point"}
 }

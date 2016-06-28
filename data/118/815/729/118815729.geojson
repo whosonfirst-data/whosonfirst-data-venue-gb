@@ -2,13 +2,14 @@
   "id": 118815729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.429544,54.997543,-1.429544,54.997543",
     "geom:latitude":54.997543,
     "geom:longitude":-1.429544,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Saville Chambers, 4 Saville Street",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118815729,
-    "wof:lastmodified":1449053827,
+    "wof:lastmodified":1466273928,
     "wof:name":"Charlton & Co",
     "wof:parent_id":85792733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.429544,54.997543,-1.429544,54.997543],
+  "bbox": [
+    -1.429544,
+    54.997543,
+    -1.429544,
+    54.997543
+],
   "geometry": {"coordinates":[-1.429544,54.997543],"type":"Point"}
 }

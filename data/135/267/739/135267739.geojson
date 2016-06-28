@@ -2,13 +2,14 @@
   "id": 135267739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.007099,53.209648,-1.007099,53.209648",
     "geom:latitude":53.209648,
     "geom:longitude":-1.007099,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Whitewater Road, New Ollerton",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135267739,
-    "wof:lastmodified":1449023730,
+    "wof:lastmodified":1466256518,
     "wof:name":"Betting World",
     "wof:parent_id":85683849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.007099,53.209648,-1.007099,53.209648],
+  "bbox": [
+    -1.007099,
+    53.209648,
+    -1.007099,
+    53.209648
+],
   "geometry": {"coordinates":[-1.007099,53.209648],"type":"Point"}
 }

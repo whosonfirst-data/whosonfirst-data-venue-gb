@@ -2,13 +2,14 @@
   "id": 136136779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.550751,54.975861,-1.550751,54.975861",
     "geom:latitude":54.975861,
     "geom:longitude":-1.550751,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Global House, 609 Welbeck Rd",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136136779,
-    "wof:lastmodified":1449076260,
+    "wof:lastmodified":1466257579,
     "wof:name":"Global Communication Networks",
     "wof:parent_id":85791271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.550751,54.975861,-1.550751,54.975861],
+  "bbox": [
+    -1.550751,
+    54.975861,
+    -1.550751,
+    54.975861
+],
   "geometry": {"coordinates":[-1.550751,54.975861],"type":"Point"}
 }

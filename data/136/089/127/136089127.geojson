@@ -2,13 +2,14 @@
   "id": 136089127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.356014,52.529995,-1.356014,52.529995",
     "geom:latitude":52.529995,
     "geom:longitude":-1.356014,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Falconers Green, Burbage",
     "sg:city":"Hinckley",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136089127,
-    "wof:lastmodified":1449075177,
+    "wof:lastmodified":1466254952,
     "wof:name":"On Site",
     "wof:parent_id":85683891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.356014,52.529995,-1.356014,52.529995],
+  "bbox": [
+    -1.356014,
+    52.529995,
+    -1.356014,
+    52.529995
+],
   "geometry": {"coordinates":[-1.356014,52.529995],"type":"Point"}
 }

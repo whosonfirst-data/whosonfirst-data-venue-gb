@@ -2,13 +2,14 @@
   "id": 286316641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.214978,55.94833,-3.214978,55.94833",
     "geom:latitude":55.94833,
     "geom:longitude":-3.214978,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Manor Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286316641,
-    "wof:lastmodified":1449017185,
+    "wof:lastmodified":1466263936,
     "wof:name":"Somerville & Russell",
     "wof:parent_id":85792715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-3.214978,55.94833,-3.214978,55.94833],
+  "bbox": [
+    -3.214978,
+    55.94833,
+    -3.214978,
+    55.94833
+],
   "geometry": {"coordinates":[-3.214978,55.94833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319977219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.357541,50.92252,-1.357541,50.92252",
     "geom:latitude":50.92252,
     "geom:longitude":-1.357541,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Vanguard Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":319977219,
-    "wof:lastmodified":1449024904,
+    "wof:lastmodified":1466272408,
     "wof:name":"A M Garage Doors",
     "wof:parent_id":85785761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "door"
     ]
 },
-  "bbox": [-1.357541,50.92252,-1.357541,50.92252],
+  "bbox": [
+    -1.357541,
+    50.92252,
+    -1.357541,
+    50.92252
+],
   "geometry": {"coordinates":[-1.357541,50.92252],"type":"Point"}
 }

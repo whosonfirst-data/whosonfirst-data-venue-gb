@@ -2,13 +2,14 @@
   "id": 220058623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.787549,55.422146,-2.787549,55.422146",
     "geom:latitude":55.422146,
     "geom:longitude":-2.787549,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hawick Station, Howden Bank",
     "sg:city":"Hawick",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220058623,
-    "wof:lastmodified":1449074152,
+    "wof:lastmodified":1466253972,
     "wof:name":"Scottish Ambulance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ambulance"
     ]
 },
-  "bbox": [-2.787549,55.422146,-2.787549,55.422146],
+  "bbox": [
+    -2.787549,
+    55.422146,
+    -2.787549,
+    55.422146
+],
   "geometry": {"coordinates":[-2.787549,55.422146],"type":"Point"}
 }

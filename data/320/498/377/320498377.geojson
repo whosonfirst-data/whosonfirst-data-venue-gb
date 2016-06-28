@@ -2,13 +2,14 @@
   "id": 320498377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.049055,53.517521,-2.049055,53.517521",
     "geom:latitude":53.517521,
     "geom:longitude":-2.049055,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sovereign Hall, Stamford St",
     "sg:city":"Ashton Under Lyne",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320498377,
-    "wof:lastmodified":1449014062,
+    "wof:lastmodified":1466281055,
     "wof:name":"Sovereign Properties",
     "wof:parent_id":85787801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.049055,53.517521,-2.049055,53.517521],
+  "bbox": [
+    -2.049055,
+    53.517521,
+    -2.049055,
+    53.517521
+],
   "geometry": {"coordinates":[-2.049055,53.517521],"type":"Point"}
 }

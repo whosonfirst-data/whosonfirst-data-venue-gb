@@ -2,13 +2,14 @@
   "id": 119199801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.532439,53.80883,-1.532439,53.80883",
     "geom:latitude":53.80883,
     "geom:longitude":-1.532439,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 51 Roundhay Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119199801,
-    "wof:lastmodified":1449041116,
+    "wof:lastmodified":1466269179,
     "wof:name":"British Combat Association",
     "wof:parent_id":85792931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.532439,53.80883,-1.532439,53.80883],
+  "bbox": [
+    -1.532439,
+    53.80883,
+    -1.532439,
+    53.80883
+],
   "geometry": {"coordinates":[-1.532439,53.80883],"type":"Point"}
 }

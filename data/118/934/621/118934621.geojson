@@ -2,13 +2,14 @@
   "id": 118934621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.054365,53.800095,-3.054365,53.800095",
     "geom:latitude":53.800095,
     "geom:longitude":-3.054365,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Bolton Street",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":118934621,
-    "wof:lastmodified":1449053212,
+    "wof:lastmodified":1466281201,
     "wof:name":"Andy's Cafe",
     "wof:parent_id":85866811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.054365,53.800095,-3.054365,53.800095],
+  "bbox": [
+    -3.054365,
+    53.800095,
+    -3.054365,
+    53.800095
+],
   "geometry": {"coordinates":[-3.054365,53.800095],"type":"Point"}
 }

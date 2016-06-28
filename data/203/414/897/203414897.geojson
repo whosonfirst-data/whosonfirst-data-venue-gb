@@ -2,13 +2,14 @@
   "id": 203414897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.355654,50.876614,-1.355654,50.876614",
     "geom:latitude":50.876614,
     "geom:longitude":-1.355654,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Netley Waterside House, Abbey Hill, Netley Abbey",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203414897,
-    "wof:lastmodified":1449025805,
+    "wof:lastmodified":1466259830,
     "wof:name":"Vitalise",
     "wof:parent_id":85791809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.355654,50.876614,-1.355654,50.876614],
+  "bbox": [
+    -1.355654,
+    50.876614,
+    -1.355654,
+    50.876614
+],
   "geometry": {"coordinates":[-1.355654,50.876614],"type":"Point"}
 }

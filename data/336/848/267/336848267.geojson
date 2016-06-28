@@ -2,13 +2,14 @@
   "id": 336848267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.983801,54.842525,-2.983801,54.842525",
     "geom:latitude":54.842525,
     "geom:longitude":-2.983801,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Recreation Field, The Green, Dalston",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":336848267,
-    "wof:lastmodified":1448997086,
+    "wof:lastmodified":1466279324,
     "wof:name":"Dalston Bowling Club",
     "wof:parent_id":85785823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "centre"
     ]
 },
-  "bbox": [-2.983801,54.842525,-2.983801,54.842525],
+  "bbox": [
+    -2.983801,
+    54.842525,
+    -2.983801,
+    54.842525
+],
   "geometry": {"coordinates":[-2.983801,54.842525],"type":"Point"}
 }

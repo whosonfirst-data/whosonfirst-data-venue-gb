@@ -2,13 +2,14 @@
   "id": 253330125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.437064,56.408279,-3.437064,56.408279",
     "geom:latitude":56.408279,
     "geom:longitude":-3.437064,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Harley Place",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":253330125,
-    "wof:lastmodified":1449064303,
+    "wof:lastmodified":1466263812,
     "wof:name":"Strathtay House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-3.437064,56.408279,-3.437064,56.408279],
+  "bbox": [
+    -3.437064,
+    56.408279,
+    -3.437064,
+    56.408279
+],
   "geometry": {"coordinates":[-3.437064,56.408279],"type":"Point"}
 }

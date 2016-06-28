@@ -2,13 +2,14 @@
   "id": 220167449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.102379,51.017254,-3.102379,51.017254",
     "geom:latitude":51.017254,
     "geom:longitude":-3.102379,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St James Street Garages, St James Street",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220167449,
-    "wof:lastmodified":1449074454,
+    "wof:lastmodified":1466255901,
     "wof:name":"Avis Rent A Car Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-3.102379,51.017254,-3.102379,51.017254],
+  "bbox": [
+    -3.102379,
+    51.017254,
+    -3.102379,
+    51.017254
+],
   "geometry": {"coordinates":[-3.102379,51.017254],"type":"Point"}
 }

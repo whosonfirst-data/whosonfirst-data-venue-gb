@@ -2,13 +2,14 @@
   "id": 202420237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.760314,53.781181,-1.760314,53.781181",
     "geom:latitude":53.781181,
     "geom:longitude":-1.760314,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Walker House, 16 Bottomley Street",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202420237,
-    "wof:lastmodified":1449061340,
+    "wof:lastmodified":1466252918,
     "wof:name":"Besco Ltd.",
     "wof:parent_id":85791453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-1.760314,53.781181,-1.760314,53.781181],
+  "bbox": [
+    -1.760314,
+    53.781181,
+    -1.760314,
+    53.781181
+],
   "geometry": {"coordinates":[-1.760314,53.781181],"type":"Point"}
 }

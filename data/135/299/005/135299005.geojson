@@ -2,13 +2,14 @@
   "id": 135299005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.558325,55.942921,-4.558325,55.942921",
     "geom:latitude":55.942921,
     "geom:longitude":-4.558325,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Glasgow Road",
     "sg:city":"Dumbarton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135299005,
-    "wof:lastmodified":1449021760,
+    "wof:lastmodified":1466276996,
     "wof:name":"T Smith & Son",
     "wof:parent_id":101872537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.558325,55.942921,-4.558325,55.942921],
+  "bbox": [
+    -4.558325,
+    55.942921,
+    -4.558325,
+    55.942921
+],
   "geometry": {"coordinates":[-4.558325,55.942921],"type":"Point"}
 }

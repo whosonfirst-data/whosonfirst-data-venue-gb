@@ -2,13 +2,14 @@
   "id": 202810891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.264192,53.777996,-2.264192,53.777996",
     "geom:latitude":53.777996,
     "geom:longitude":-2.264192,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Comrie Crescent",
     "sg:city":"Burnley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202810891,
-    "wof:lastmodified":1449060859,
+    "wof:lastmodified":1466259256,
     "wof:name":"Three Lions Private Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cab"
     ]
 },
-  "bbox": [-2.264192,53.777996,-2.264192,53.777996],
+  "bbox": [
+    -2.264192,
+    53.777996,
+    -2.264192,
+    53.777996
+],
   "geometry": {"coordinates":[-2.264192,53.777996],"type":"Point"}
 }

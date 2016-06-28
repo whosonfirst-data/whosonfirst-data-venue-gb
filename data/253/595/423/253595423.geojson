@@ -2,13 +2,14 @@
   "id": 253595423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.53795,53.797859,-1.53795,53.797859",
     "geom:latitude":53.797859,
     "geom:longitude":-1.53795,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Stall D, Row A",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253595423,
-    "wof:lastmodified":1449065496,
+    "wof:lastmodified":1466270983,
     "wof:name":"Ryan's",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-1.53795,53.797859,-1.53795,53.797859],
+  "bbox": [
+    -1.53795,
+    53.797859,
+    -1.53795,
+    53.797859
+],
   "geometry": {"coordinates":[-1.53795,53.797859],"type":"Point"}
 }

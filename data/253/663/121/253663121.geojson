@@ -2,13 +2,14 @@
   "id": 253663121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.211941,52.919758,-1.211941,52.919758",
     "geom:latitude":52.919758,
     "geom:longitude":-1.211941,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Redwood Crescent, Beeston",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253663121,
-    "wof:lastmodified":1449065009,
+    "wof:lastmodified":1466273060,
     "wof:name":"Castle Estates",
     "wof:parent_id":85788737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.211941,52.919758,-1.211941,52.919758],
+  "bbox": [
+    -1.211941,
+    52.919758,
+    -1.211941,
+    52.919758
+],
   "geometry": {"coordinates":[-1.211941,52.919758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319840647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.199299,53.001884,-1.199299,53.001884",
     "geom:latitude":53.001884,
     "geom:longitude":-1.199299,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Coventry Road",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":319840647,
-    "wof:lastmodified":1449024708,
+    "wof:lastmodified":1466268222,
     "wof:name":"The Red Lion Community Centre",
     "wof:parent_id":85786111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "centre"
     ]
 },
-  "bbox": [-1.199299,53.001884,-1.199299,53.001884],
+  "bbox": [
+    -1.199299,
+    53.001884,
+    -1.199299,
+    53.001884
+],
   "geometry": {"coordinates":[-1.199299,53.001884],"type":"Point"}
 }

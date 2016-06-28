@@ -2,13 +2,14 @@
   "id": 119499925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.445809,50.918415,-1.445809,50.918415",
     "geom:latitude":50.918415,
     "geom:longitude":-1.445809,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Prince Of Wales Av",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119499925,
-    "wof:lastmodified":1449041315,
+    "wof:lastmodified":1466287008,
     "wof:name":"Evans Property Maintenance",
     "wof:parent_id":85792825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.445809,50.918415,-1.445809,50.918415],
+  "bbox": [
+    -1.445809,
+    50.918415,
+    -1.445809,
+    50.918415
+],
   "geometry": {"coordinates":[-1.445809,50.918415],"type":"Point"}
 }

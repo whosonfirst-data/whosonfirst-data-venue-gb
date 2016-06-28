@@ -2,13 +2,14 @@
   "id": 135571125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.449579,53.585793,-2.449579,53.585793",
     "geom:latitude":53.585793,
     "geom:longitude":-2.449579,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Chorley Old Rd",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135571125,
-    "wof:lastmodified":1449023064,
+    "wof:lastmodified":1466280993,
     "wof:name":"SAS Crash Centre",
     "wof:parent_id":85792981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.449579,53.585793,-2.449579,53.585793],
+  "bbox": [
+    -2.449579,
+    53.585793,
+    -2.449579,
+    53.585793
+],
   "geometry": {"coordinates":[-2.449579,53.585793],"type":"Point"}
 }

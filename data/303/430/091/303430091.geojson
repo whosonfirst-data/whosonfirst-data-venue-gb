@@ -2,13 +2,14 @@
   "id": 303430091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.133511,53.425331,-2.133511,53.425331",
     "geom:latitude":53.425331,
     "geom:longitude":-2.133511,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Brinnington Road",
     "sg:city":"Stockport",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":303430091,
-    "wof:lastmodified":1448999675,
+    "wof:lastmodified":1466275769,
     "wof:name":"Walter Stockton Ltd",
     "wof:parent_id":85790023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.133511,53.425331,-2.133511,53.425331],
+  "bbox": [
+    -2.133511,
+    53.425331,
+    -2.133511,
+    53.425331
+],
   "geometry": {"coordinates":[-2.133511,53.425331],"type":"Point"}
 }

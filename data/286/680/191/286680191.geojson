@@ -2,13 +2,14 @@
   "id": 286680191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.31851,51.37841,-1.31851,51.37841",
     "geom:latitude":51.37841,
     "geom:longitude":-1.31851,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Sandleford Farm, Newtown Road",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":286680191,
-    "wof:lastmodified":1449017245,
+    "wof:lastmodified":1466275328,
     "wof:name":"Brian Matthews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.31851,51.37841,-1.31851,51.37841],
+  "bbox": [
+    -1.31851,
+    51.37841,
+    -1.31851,
+    51.37841
+],
   "geometry": {"coordinates":[-1.31851,51.37841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303207495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.185828,51.43594,-3.185828,51.43594",
     "geom:latitude":51.43594,
     "geom:longitude":-3.185828,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Cornerswell Rd",
     "sg:city":"Penarth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303207495,
-    "wof:lastmodified":1448999827,
+    "wof:lastmodified":1466269060,
     "wof:name":"Engineers Report",
     "wof:parent_id":85861453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "structural"
     ]
 },
-  "bbox": [-3.185828,51.43594,-3.185828,51.43594],
+  "bbox": [
+    -3.185828,
+    51.43594,
+    -3.185828,
+    51.43594
+],
   "geometry": {"coordinates":[-3.185828,51.43594],"type":"Point"}
 }

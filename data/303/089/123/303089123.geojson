@@ -2,13 +2,14 @@
   "id": 303089123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.486199,50.916801,-1.486199,50.916801",
     "geom:latitude":50.916801,
     "geom:longitude":-1.486199,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Junction Road, Totton",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303089123,
-    "wof:lastmodified":1448998612,
+    "wof:lastmodified":1466265255,
     "wof:name":"Hair Way",
     "wof:parent_id":85792825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.486199,50.916801,-1.486199,50.916801],
+  "bbox": [
+    -1.486199,
+    50.916801,
+    -1.486199,
+    50.916801
+],
   "geometry": {"coordinates":[-1.486199,50.916801],"type":"Point"}
 }

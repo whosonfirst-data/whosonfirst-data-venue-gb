@@ -2,13 +2,14 @@
   "id": 303148291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.418509,50.869228,-1.418509,50.869228",
     "geom:latitude":50.869228,
     "geom:longitude":-1.418509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Glenside, Hythe",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303148291,
-    "wof:lastmodified":1449000178,
+    "wof:lastmodified":1466267129,
     "wof:name":"Waterside Driving School",
     "wof:parent_id":85787189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.418509,50.869228,-1.418509,50.869228],
+  "bbox": [
+    -1.418509,
+    50.869228,
+    -1.418509,
+    50.869228
+],
   "geometry": {"coordinates":[-1.418509,50.869228],"type":"Point"}
 }

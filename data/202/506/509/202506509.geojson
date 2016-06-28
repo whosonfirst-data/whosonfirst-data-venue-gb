@@ -2,13 +2,14 @@
   "id": 202506509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.235915,56.289883,-3.235915,56.289883",
     "geom:latitude":56.289883,
     "geom:longitude":-3.235915,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Low Road, Auchtermuchty",
     "sg:city":"Cupar",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202506509,
-    "wof:lastmodified":1449060159,
+    "wof:lastmodified":1466254225,
     "wof:name":"Burnside Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-3.235915,56.289883,-3.235915,56.289883],
+  "bbox": [
+    -3.235915,
+    56.289883,
+    -3.235915,
+    56.289883
+],
   "geometry": {"coordinates":[-3.235915,56.289883],"type":"Point"}
 }

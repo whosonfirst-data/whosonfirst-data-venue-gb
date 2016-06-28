@@ -2,13 +2,14 @@
   "id": 220116413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.134411,55.81963,-4.134411,55.81963",
     "geom:latitude":55.81963,
     "geom:longitude":-4.134411,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Westburn Road, Cambuslang",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220116413,
-    "wof:lastmodified":1449074147,
+    "wof:lastmodified":1466255016,
     "wof:name":"Westburn Fabrications",
     "wof:parent_id":85786177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "erectors"
     ]
 },
-  "bbox": [-4.134411,55.81963,-4.134411,55.81963],
+  "bbox": [
+    -4.134411,
+    55.81963,
+    -4.134411,
+    55.81963
+],
   "geometry": {"coordinates":[-4.134411,55.81963],"type":"Point"}
 }

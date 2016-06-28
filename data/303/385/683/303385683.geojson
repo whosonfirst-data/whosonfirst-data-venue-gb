@@ -2,13 +2,14 @@
   "id": 303385683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.062621,54.61758,-1.062621,54.61758",
     "geom:latitude":54.61758,
     "geom:longitude":-1.062621,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"110 High St",
     "sg:city":"Redcar",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303385683,
-    "wof:lastmodified":1448999572,
+    "wof:lastmodified":1466274424,
     "wof:name":"Willows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.062621,54.61758,-1.062621,54.61758],
+  "bbox": [
+    -1.062621,
+    54.61758,
+    -1.062621,
+    54.61758
+],
   "geometry": {"coordinates":[-1.062621,54.61758],"type":"Point"}
 }

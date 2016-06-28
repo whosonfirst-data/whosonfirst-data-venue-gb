@@ -2,13 +2,14 @@
   "id": 303546769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.966178,53.44128,-2.966178,53.44128",
     "geom:latitude":53.44128,
     "geom:longitude":-2.966178,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"52 City Road",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":303546769,
-    "wof:lastmodified":1448998109,
+    "wof:lastmodified":1466279021,
     "wof:name":"City Stores",
     "wof:parent_id":85791317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.966178,53.44128,-2.966178,53.44128],
+  "bbox": [
+    -2.966178,
+    53.44128,
+    -2.966178,
+    53.44128
+],
   "geometry": {"coordinates":[-2.966178,53.44128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118743109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.261147,53.318089,-2.261147,53.318089",
     "geom:latitude":53.318089,
     "geom:longitude":-2.261147,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Moore Lane",
     "sg:city":"Wilmslow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118743109,
-    "wof:lastmodified":1449054523,
+    "wof:lastmodified":1466268546,
     "wof:name":"Pretty Things",
     "wof:parent_id":101751621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.261147,53.318089,-2.261147,53.318089],
+  "bbox": [
+    -2.261147,
+    53.318089,
+    -2.261147,
+    53.318089
+],
   "geometry": {"coordinates":[-2.261147,53.318089],"type":"Point"}
 }

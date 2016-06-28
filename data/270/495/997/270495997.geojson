@@ -2,13 +2,14 @@
   "id": 270495997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.25451,54.119617,-3.25451,54.119617",
     "geom:latitude":54.119617,
     "geom:longitude":-3.25451,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Crown Hotel, North Scale",
     "sg:city":"Barrow-in-furness",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270495997,
-    "wof:lastmodified":1449009719,
+    "wof:lastmodified":1466275240,
     "wof:name":"The Crown",
     "wof:parent_id":85793227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.25451,54.119617,-3.25451,54.119617],
+  "bbox": [
+    -3.25451,
+    54.119617,
+    -3.25451,
+    54.119617
+],
   "geometry": {"coordinates":[-3.25451,54.119617],"type":"Point"}
 }

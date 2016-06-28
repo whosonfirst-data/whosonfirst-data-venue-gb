@@ -2,13 +2,14 @@
   "id": 135624577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.208641,55.857323,-4.208641,55.857323",
     "geom:latitude":55.857323,
     "geom:longitude":-4.208641,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Glenpark Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135624577,
-    "wof:lastmodified":1449023078,
+    "wof:lastmodified":1466283868,
     "wof:name":"Reid Roof Ltd.",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.208641,55.857323,-4.208641,55.857323],
+  "bbox": [
+    -4.208641,
+    55.857323,
+    -4.208641,
+    55.857323
+],
   "geometry": {"coordinates":[-4.208641,55.857323],"type":"Point"}
 }

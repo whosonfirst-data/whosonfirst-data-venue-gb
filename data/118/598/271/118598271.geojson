@@ -2,13 +2,14 @@
   "id": 118598271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.8039,56.33165,-2.8039,56.33165",
     "geom:latitude":56.33165,
     "geom:longitude":-2.8039,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Largo Rd",
     "sg:city":"St Andrews",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118598271,
-    "wof:lastmodified":1449053216,
+    "wof:lastmodified":1466257624,
     "wof:name":"St Andrews Coaches",
     "wof:parent_id":101872553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.8039,56.33165,-2.8039,56.33165],
+  "bbox": [
+    -2.8039,
+    56.33165,
+    -2.8039,
+    56.33165
+],
   "geometry": {"coordinates":[-2.8039,56.33165],"type":"Point"}
 }

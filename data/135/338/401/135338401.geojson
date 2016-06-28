@@ -2,13 +2,14 @@
   "id": 135338401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.992499,51.582539,-2.992499,51.582539",
     "geom:latitude":51.582539,
     "geom:longitude":-2.992499,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Commercial Street",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135338401,
-    "wof:lastmodified":1449022054,
+    "wof:lastmodified":1466255873,
     "wof:name":"Brook Street",
     "wof:parent_id":85785465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.992499,51.582539,-2.992499,51.582539],
+  "bbox": [
+    -2.992499,
+    51.582539,
+    -2.992499,
+    51.582539
+],
   "geometry": {"coordinates":[-2.992499,51.582539],"type":"Point"}
 }

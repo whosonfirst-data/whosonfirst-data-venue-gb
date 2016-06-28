@@ -2,13 +2,14 @@
   "id": 236972203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.237306,52.179726,-2.237306,52.179726",
     "geom:latitude":52.179726,
     "geom:longitude":-2.237306,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Malvern Rd",
     "sg:city":"Worcester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236972203,
-    "wof:lastmodified":1449003279,
+    "wof:lastmodified":1466274942,
     "wof:name":"Birches Rest Home",
     "wof:parent_id":85861063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-2.237306,52.179726,-2.237306,52.179726],
+  "bbox": [
+    -2.237306,
+    52.179726,
+    -2.237306,
+    52.179726
+],
   "geometry": {"coordinates":[-2.237306,52.179726],"type":"Point"}
 }

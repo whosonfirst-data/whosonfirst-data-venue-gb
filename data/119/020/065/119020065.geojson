@@ -2,13 +2,14 @@
   "id": 119020065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.154259,52.924599,-1.154259,52.924599",
     "geom:latitude":52.924599,
     "geom:longitude":-1.154259,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 12 Compton Acres Shopping Centre",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119020065,
-    "wof:lastmodified":1449042077,
+    "wof:lastmodified":1466275946,
     "wof:name":"Pizzarama",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.154259,52.924599,-1.154259,52.924599],
+  "bbox": [
+    -1.154259,
+    52.924599,
+    -1.154259,
+    52.924599
+],
   "geometry": {"coordinates":[-1.154259,52.924599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186535079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.50119,51.415806,-2.50119,51.415806",
     "geom:latitude":51.415806,
     "geom:longitude":-2.50119,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Charlton Road, Keynsham",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186535079,
-    "wof:lastmodified":1449050903,
+    "wof:lastmodified":1466259882,
     "wof:name":"Dental Surgery",
     "wof:parent_id":85790759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.50119,51.415806,-2.50119,51.415806],
+  "bbox": [
+    -2.50119,
+    51.415806,
+    -2.50119,
+    51.415806
+],
   "geometry": {"coordinates":[-2.50119,51.415806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202892693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.446105,53.100578,-2.446105,53.100578",
     "geom:latitude":53.100578,
     "geom:longitude":-2.446105,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Courtyard, Grosvenor Street",
     "sg:city":"Crewe",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":202892693,
-    "wof:lastmodified":1449060481,
+    "wof:lastmodified":1466260635,
     "wof:name":"A & M Glazing (Glass Centre)",
     "wof:parent_id":85786645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glazier"
     ]
 },
-  "bbox": [-2.446105,53.100578,-2.446105,53.100578],
+  "bbox": [
+    -2.446105,
+    53.100578,
+    -2.446105,
+    53.100578
+],
   "geometry": {"coordinates":[-2.446105,53.100578],"type":"Point"}
 }

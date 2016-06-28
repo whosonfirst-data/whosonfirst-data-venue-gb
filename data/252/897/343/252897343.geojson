@@ -2,13 +2,14 @@
   "id": 252897343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.120423,52.974102,-1.120423,52.974102",
     "geom:latitude":52.974102,
     "geom:longitude":-1.120423,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Kenrick Road",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252897343,
-    "wof:lastmodified":1449006345,
+    "wof:lastmodified":1466260778,
     "wof:name":"Ace Autos",
     "wof:parent_id":85861941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-1.120423,52.974102,-1.120423,52.974102],
+  "bbox": [
+    -1.120423,
+    52.974102,
+    -1.120423,
+    52.974102
+],
   "geometry": {"coordinates":[-1.120423,52.974102],"type":"Point"}
 }

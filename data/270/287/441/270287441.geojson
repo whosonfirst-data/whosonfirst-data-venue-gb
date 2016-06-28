@@ -2,13 +2,14 @@
   "id": 270287441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.122584,56.137901,-3.122584,56.137901",
     "geom:latitude":56.137901,
     "geom:longitude":-3.122584,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 7 Randolph Court",
     "sg:city":"Kirkcaldy",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":270287441,
-    "wof:lastmodified":1449008804,
+    "wof:lastmodified":1466269052,
     "wof:name":"Cab Line of Fife",
     "wof:parent_id":85787131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cab"
     ]
 },
-  "bbox": [-3.122584,56.137901,-3.122584,56.137901],
+  "bbox": [
+    -3.122584,
+    56.137901,
+    -3.122584,
+    56.137901
+],
   "geometry": {"coordinates":[-3.122584,56.137901],"type":"Point"}
 }

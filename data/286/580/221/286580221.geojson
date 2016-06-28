@@ -2,13 +2,14 @@
   "id": 286580221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.269407,53.464363,-2.269407,53.464363",
     "geom:latitude":53.464363,
     "geom:longitude":-2.269407,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2a Chorlton Street, Old Trafford",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286580221,
-    "wof:lastmodified":1449017168,
+    "wof:lastmodified":1466272109,
     "wof:name":"Temperature Control Ltd.",
     "wof:parent_id":85792989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-2.269407,53.464363,-2.269407,53.464363],
+  "bbox": [
+    -2.269407,
+    53.464363,
+    -2.269407,
+    53.464363
+],
   "geometry": {"coordinates":[-2.269407,53.464363],"type":"Point"}
 }

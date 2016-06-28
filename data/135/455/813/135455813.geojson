@@ -2,13 +2,14 @@
   "id": 135455813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.525134,51.381153,0.525134,51.381153",
     "geom:latitude":51.381153,
     "geom:longitude":0.525134,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 The Paddock",
     "sg:city":"Chatham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135455813,
-    "wof:lastmodified":1449023534,
+    "wof:lastmodified":1466269361,
     "wof:name":"City Press Rochester",
     "wof:parent_id":85786063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.525134,51.381153,0.525134,51.381153],
+  "bbox": [
+    0.525134,
+    51.381153,
+    0.525134,
+    51.381153
+],
   "geometry": {"coordinates":[0.525134,51.381153],"type":"Point"}
 }

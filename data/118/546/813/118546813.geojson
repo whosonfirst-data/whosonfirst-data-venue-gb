@@ -2,13 +2,14 @@
   "id": 118546813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.240789,53.47718,-2.240789,53.47718",
     "geom:latitude":53.47718,
     "geom:longitude":-2.240789,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Gainsborough House, Portland St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118546813,
-    "wof:lastmodified":1449053147,
+    "wof:lastmodified":1466253689,
     "wof:name":"Environment Times",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.240789,53.47718,-2.240789,53.47718],
+  "bbox": [
+    -2.240789,
+    53.47718,
+    -2.240789,
+    53.47718
+],
   "geometry": {"coordinates":[-2.240789,53.47718],"type":"Point"}
 }

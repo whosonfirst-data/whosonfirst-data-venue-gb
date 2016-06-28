@@ -2,13 +2,14 @@
   "id": 135591865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.577438,51.50539,-2.577438,51.50539",
     "geom:latitude":51.50539,
     "geom:longitude":-2.577438,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Gloucester Road North, Filton",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135591865,
-    "wof:lastmodified":1449022628,
+    "wof:lastmodified":1466282028,
     "wof:name":"Elm Park Service Station",
     "wof:parent_id":85789507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.577438,51.50539,-2.577438,51.50539],
+  "bbox": [
+    -2.577438,
+    51.50539,
+    -2.577438,
+    51.50539
+],
   "geometry": {"coordinates":[-2.577438,51.50539],"type":"Point"}
 }

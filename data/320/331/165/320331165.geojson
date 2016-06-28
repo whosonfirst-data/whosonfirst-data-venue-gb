@@ -2,13 +2,14 @@
   "id": 320331165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.083509,52.509521,-2.083509,52.509521",
     "geom:latitude":52.509521,
     "geom:longitude":-2.083509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Churchill Shopping Centre",
     "sg:city":"Dudley",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320331165,
-    "wof:lastmodified":1449013525,
+    "wof:lastmodified":1466278062,
     "wof:name":"Sietech Hearing",
     "wof:parent_id":85789279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hearing"
     ]
 },
-  "bbox": [-2.083509,52.509521,-2.083509,52.509521],
+  "bbox": [
+    -2.083509,
+    52.509521,
+    -2.083509,
+    52.509521
+],
   "geometry": {"coordinates":[-2.083509,52.509521],"type":"Point"}
 }

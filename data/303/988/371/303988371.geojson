@@ -2,13 +2,14 @@
   "id": 303988371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.544689,51.504356,-2.544689,51.504356",
     "geom:latitude":51.504356,
     "geom:longitude":-2.544689,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"North Avon House, Coldharbour Lane",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303988371,
-    "wof:lastmodified":1448998960,
+    "wof:lastmodified":1466285217,
     "wof:name":"Higher Education Funding Council for England",
     "wof:parent_id":85787517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "authority"
     ]
 },
-  "bbox": [-2.544689,51.504356,-2.544689,51.504356],
+  "bbox": [
+    -2.544689,
+    51.504356,
+    -2.544689,
+    51.504356
+],
   "geometry": {"coordinates":[-2.544689,51.504356],"type":"Point"}
 }

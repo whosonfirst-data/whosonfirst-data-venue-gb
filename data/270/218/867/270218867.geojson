@@ -2,13 +2,14 @@
   "id": 270218867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.91458,53.41563,-2.91458,53.41563",
     "geom:latitude":53.41563,
     "geom:longitude":-2.91458,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"East Liverpool Probation Centre, 1b Derby Lane, Old Swan",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270218867,
-    "wof:lastmodified":1449010211,
+    "wof:lastmodified":1466266938,
     "wof:name":"Merseyside Probation Service",
     "wof:parent_id":85789605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-2.91458,53.41563,-2.91458,53.41563],
+  "bbox": [
+    -2.91458,
+    53.41563,
+    -2.91458,
+    53.41563
+],
   "geometry": {"coordinates":[-2.91458,53.41563],"type":"Point"}
 }

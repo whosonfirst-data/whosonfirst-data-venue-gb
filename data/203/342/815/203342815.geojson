@@ -2,13 +2,14 @@
   "id": 203342815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.489563,50.675629,-3.489563,50.675629",
     "geom:latitude":50.675629,
     "geom:longitude":-3.489563,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Berrybrook Meadow, Exminster",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203342815,
-    "wof:lastmodified":1449026741,
+    "wof:lastmodified":1466258539,
     "wof:name":"S S Surfacing",
     "wof:parent_id":85786799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-3.489563,50.675629,-3.489563,50.675629],
+  "bbox": [
+    -3.489563,
+    50.675629,
+    -3.489563,
+    50.675629
+],
   "geometry": {"coordinates":[-3.489563,50.675629],"type":"Point"}
 }

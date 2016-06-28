@@ -2,13 +2,14 @@
   "id": 102743089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.776412,57.510143,-1.776412,57.510143",
     "geom:latitude":57.510143,
     "geom:longitude":-1.776412,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 New Street",
     "sg:city":"Peterhead",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102743089,
-    "wof:lastmodified":1449070195,
+    "wof:lastmodified":1466258282,
     "wof:name":"G R Services",
     "wof:parent_id":85684253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.776412,57.510143,-1.776412,57.510143],
+  "bbox": [
+    -1.776412,
+    57.510143,
+    -1.776412,
+    57.510143
+],
   "geometry": {"coordinates":[-1.776412,57.510143],"type":"Point"}
 }

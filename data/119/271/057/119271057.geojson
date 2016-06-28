@@ -2,13 +2,14 @@
   "id": 119271057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.482026,53.338348,-1.482026,53.338348",
     "geom:latitude":53.338348,
     "geom:longitude":-1.482026,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Meadowhead",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119271057,
-    "wof:lastmodified":1449042239,
+    "wof:lastmodified":1466277087,
     "wof:name":"Parrot Line",
     "wof:parent_id":85791787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.482026,53.338348,-1.482026,53.338348],
+  "bbox": [
+    -1.482026,
+    53.338348,
+    -1.482026,
+    53.338348
+],
   "geometry": {"coordinates":[-1.482026,53.338348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119474509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.483571,53.339329,-1.483571,53.339329",
     "geom:latitude":53.339329,
     "geom:longitude":-1.483571,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Abbey Lane",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119474509,
-    "wof:lastmodified":1449040999,
+    "wof:lastmodified":1466286749,
     "wof:name":"Everything But the Girl",
     "wof:parent_id":85791787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.483571,53.339329,-1.483571,53.339329],
+  "bbox": [
+    -1.483571,
+    53.339329,
+    -1.483571,
+    53.339329
+],
   "geometry": {"coordinates":[-1.483571,53.339329],"type":"Point"}
 }

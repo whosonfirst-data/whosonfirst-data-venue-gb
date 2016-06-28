@@ -2,13 +2,14 @@
   "id": 320529059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.089754,52.978783,-1.089754,52.978783",
     "geom:latitude":52.978783,
     "geom:longitude":-1.089754,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49g Besecar Avenue, Gedling",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320529059,
-    "wof:lastmodified":1449012886,
+    "wof:lastmodified":1466281547,
     "wof:name":"PDB Builders",
     "wof:parent_id":85861941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.089754,52.978783,-1.089754,52.978783],
+  "bbox": [
+    -1.089754,
+    52.978783,
+    -1.089754,
+    52.978783
+],
   "geometry": {"coordinates":[-1.089754,52.978783],"type":"Point"}
 }

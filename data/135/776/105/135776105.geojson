@@ -2,13 +2,14 @@
   "id": 135776105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.072829,57.203426,-3.072829,57.203426",
     "geom:latitude":57.203426,
     "geom:longitude":-3.072829,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Strathdon Medical Centre, Waterside Road",
     "sg:city":"Strathdon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135776105,
-    "wof:lastmodified":1449021649,
+    "wof:lastmodified":1466287045,
     "wof:name":"Dr J Fitton",
     "wof:parent_id":85684253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.072829,57.203426,-3.072829,57.203426],
+  "bbox": [
+    -3.072829,
+    57.203426,
+    -3.072829,
+    57.203426
+],
   "geometry": {"coordinates":[-3.072829,57.203426],"type":"Point"}
 }

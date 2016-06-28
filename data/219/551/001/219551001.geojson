@@ -2,13 +2,14 @@
   "id": 219551001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.015659,53.392643,-3.015659,53.392643",
     "geom:latitude":53.392643,
     "geom:longitude":-3.015659,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Hamilton Square",
     "sg:city":"Birkenhead",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219551001,
-    "wof:lastmodified":1449071103,
+    "wof:lastmodified":1466259618,
     "wof:name":"G L Street",
     "wof:parent_id":85792741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.015659,53.392643,-3.015659,53.392643],
+  "bbox": [
+    -3.015659,
+    53.392643,
+    -3.015659,
+    53.392643
+],
   "geometry": {"coordinates":[-3.015659,53.392643],"type":"Point"}
 }

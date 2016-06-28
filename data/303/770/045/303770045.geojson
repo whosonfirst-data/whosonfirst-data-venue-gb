@@ -2,13 +2,14 @@
   "id": 303770045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.052596,53.838779,-3.052596,53.838779",
     "geom:latitude":53.838779,
     "geom:longitude":-3.052596,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Shaftesbury Avenue, North Shore",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303770045,
-    "wof:lastmodified":1449000614,
+    "wof:lastmodified":1466282752,
     "wof:name":"The Beechcliffe Hotel",
     "wof:parent_id":85785755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.052596,53.838779,-3.052596,53.838779],
+  "bbox": [
+    -3.052596,
+    53.838779,
+    -3.052596,
+    53.838779
+],
   "geometry": {"coordinates":[-3.052596,53.838779],"type":"Point"}
 }

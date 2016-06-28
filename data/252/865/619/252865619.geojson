@@ -2,13 +2,14 @@
   "id": 252865619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.539581,50.696243,-3.539581,50.696243",
     "geom:latitude":50.696243,
     "geom:longitude":-3.539581,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Lackaborough Court, Alphington",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252865619,
-    "wof:lastmodified":1449006235,
+    "wof:lastmodified":1466260143,
     "wof:name":"Adrian Pike",
     "wof:parent_id":85790683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "heating"
     ]
 },
-  "bbox": [-3.539581,50.696243,-3.539581,50.696243],
+  "bbox": [
+    -3.539581,
+    50.696243,
+    -3.539581,
+    50.696243
+],
   "geometry": {"coordinates":[-3.539581,50.696243],"type":"Point"}
 }

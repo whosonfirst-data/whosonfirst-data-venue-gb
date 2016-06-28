@@ -2,13 +2,14 @@
   "id": 202616283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.04821,51.503109,0.04821,51.503109",
     "geom:latitude":51.503109,
     "geom:longitude":0.04821,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Gate 14 Woolwich Manor Way, North Woolwich",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202616283,
-    "wof:lastmodified":1449061962,
+    "wof:lastmodified":1466256094,
     "wof:name":"Gallions Marine",
     "wof:parent_id":85790359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "tug"
     ]
 },
-  "bbox": [0.04821,51.503109,0.04821,51.503109],
+  "bbox": [
+    0.04821,
+    51.503109,
+    0.04821,
+    51.503109
+],
   "geometry": {"coordinates":[0.04821,51.503109],"type":"Point"}
 }

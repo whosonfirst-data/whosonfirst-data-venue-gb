@@ -2,13 +2,14 @@
   "id": 320365333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.240817,51.398766,-3.240817,51.398766",
     "geom:latitude":51.398766,
     "geom:longitude":-3.240817,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1a Hayes Lane, Sully",
     "sg:city":"Penarth",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320365333,
-    "wof:lastmodified":1449011859,
+    "wof:lastmodified":1466278770,
     "wof:name":"D R Harris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "garage"
     ]
 },
-  "bbox": [-3.240817,51.398766,-3.240817,51.398766],
+  "bbox": [
+    -3.240817,
+    51.398766,
+    -3.240817,
+    51.398766
+],
   "geometry": {"coordinates":[-3.240817,51.398766],"type":"Point"}
 }

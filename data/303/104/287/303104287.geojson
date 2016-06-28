@@ -2,13 +2,14 @@
   "id": 303104287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.568919,53.805889,-1.568919,53.805889",
     "geom:latitude":53.805889,
     "geom:longitude":-1.568919,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Hyde Park Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":303104287,
-    "wof:lastmodified":1448999125,
+    "wof:lastmodified":1466265801,
     "wof:name":"Echo2 (Bradford) Ltd.",
     "wof:parent_id":85792899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "letting"
     ]
 },
-  "bbox": [-1.568919,53.805889,-1.568919,53.805889],
+  "bbox": [
+    -1.568919,
+    53.805889,
+    -1.568919,
+    53.805889
+],
   "geometry": {"coordinates":[-1.568919,53.805889],"type":"Point"}
 }

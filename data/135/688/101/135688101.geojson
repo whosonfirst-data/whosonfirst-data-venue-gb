@@ -2,13 +2,14 @@
   "id": 135688101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.085349,55.830742,-4.085349,55.830742",
     "geom:latitude":55.830742,
     "geom:longitude":-4.085349,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Calderbraes Avenue, Uddingston",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135688101,
-    "wof:lastmodified":1449022127,
+    "wof:lastmodified":1466285754,
     "wof:name":"Patrick Sweeney",
     "wof:parent_id":85792557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.085349,55.830742,-4.085349,55.830742],
+  "bbox": [
+    -4.085349,
+    55.830742,
+    -4.085349,
+    55.830742
+],
   "geometry": {"coordinates":[-4.085349,55.830742],"type":"Point"}
 }

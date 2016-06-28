@@ -2,13 +2,14 @@
   "id": 135939409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.407528,53.554825,-2.407528,53.554825",
     "geom:latitude":53.554825,
     "geom:longitude":-2.407528,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2, 75 Campbell Street, Farnworth",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135939409,
-    "wof:lastmodified":1449021901,
+    "wof:lastmodified":1466288131,
     "wof:name":"Auto Service",
     "wof:parent_id":85792939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.407528,53.554825,-2.407528,53.554825],
+  "bbox": [
+    -2.407528,
+    53.554825,
+    -2.407528,
+    53.554825
+],
   "geometry": {"coordinates":[-2.407528,53.554825],"type":"Point"}
 }

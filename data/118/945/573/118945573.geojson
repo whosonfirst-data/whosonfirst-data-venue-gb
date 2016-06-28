@@ -2,13 +2,14 @@
   "id": 118945573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.266629,55.865925,-4.266629,55.865925",
     "geom:latitude":55.865925,
     "geom:longitude":-4.266629,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Sauchiehall Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":118945573,
-    "wof:lastmodified":1449053267,
+    "wof:lastmodified":1466281423,
     "wof:name":"Extra Hair Salon",
     "wof:parent_id":85792605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.266629,55.865925,-4.266629,55.865925],
+  "bbox": [
+    -4.266629,
+    55.865925,
+    -4.266629,
+    55.865925
+],
   "geometry": {"coordinates":[-4.266629,55.865925],"type":"Point"}
 }

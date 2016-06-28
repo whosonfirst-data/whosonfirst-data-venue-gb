@@ -2,13 +2,14 @@
   "id": 320538153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.74121,51.567188,-1.74121,51.567188",
     "geom:latitude":51.567188,
     "geom:longitude":-1.74121,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Surgery, 5 Keble Clo",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320538153,
-    "wof:lastmodified":1449011719,
+    "wof:lastmodified":1466281861,
     "wof:name":"Lee, M J",
     "wof:parent_id":85787057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-1.74121,51.567188,-1.74121,51.567188],
+  "bbox": [
+    -1.74121,
+    51.567188,
+    -1.74121,
+    51.567188
+],
   "geometry": {"coordinates":[-1.74121,51.567188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202796651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.592683,51.468849,-2.592683,51.468849",
     "geom:latitude":51.468849,
     "geom:longitude":-2.592683,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"204a Cheltenham Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202796651,
-    "wof:lastmodified":1449061318,
+    "wof:lastmodified":1466259044,
     "wof:name":"Bristol Taxi Co",
     "wof:parent_id":85790575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-2.592683,51.468849,-2.592683,51.468849],
+  "bbox": [
+    -2.592683,
+    51.468849,
+    -2.592683,
+    51.468849
+],
   "geometry": {"coordinates":[-2.592683,51.468849],"type":"Point"}
 }

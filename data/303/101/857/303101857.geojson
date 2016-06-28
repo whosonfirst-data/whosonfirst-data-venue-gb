@@ -2,13 +2,14 @@
   "id": 303101857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.02269,51.505711,-0.02269,51.505711",
     "geom:latitude":51.505711,
     "geom:longitude":-0.02269,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Cabot Square",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303101857,
-    "wof:lastmodified":1448999407,
+    "wof:lastmodified":1466265725,
     "wof:name":"Morgan Stanley Dean Witter Trustee Ltd.",
     "wof:parent_id":85860827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-0.02269,51.505711,-0.02269,51.505711],
+  "bbox": [
+    -0.02269,
+    51.505711,
+    -0.02269,
+    51.505711
+],
   "geometry": {"coordinates":[-0.02269,51.505711],"type":"Point"}
 }

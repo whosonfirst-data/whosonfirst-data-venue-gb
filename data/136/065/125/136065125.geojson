@@ -2,13 +2,14 @@
   "id": 136065125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.128266,51.238899,-1.128266,51.238899",
     "geom:latitude":51.238899,
     "geom:longitude":-1.128266,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Magnus Drive",
     "sg:city":"Basingstoke",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":136065125,
-    "wof:lastmodified":1449076270,
+    "wof:lastmodified":1466253501,
     "wof:name":"Class Events",
     "wof:parent_id":101750351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.128266,51.238899,-1.128266,51.238899],
+  "bbox": [
+    -1.128266,
+    51.238899,
+    -1.128266,
+    51.238899
+],
   "geometry": {"coordinates":[-1.128266,51.238899],"type":"Point"}
 }

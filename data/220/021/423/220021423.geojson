@@ -2,13 +2,14 @@
   "id": 220021423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.707167,52.192966,-1.707167,52.192966",
     "geom:latitude":52.192966,
     "geom:longitude":-1.707167,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Henley Street",
     "sg:city":"Stratford-upon-avon",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":220021423,
-    "wof:lastmodified":1449074553,
+    "wof:lastmodified":1466253305,
     "wof:name":"Castons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "quantity"
     ]
 },
-  "bbox": [-1.707167,52.192966,-1.707167,52.192966],
+  "bbox": [
+    -1.707167,
+    52.192966,
+    -1.707167,
+    52.192966
+],
   "geometry": {"coordinates":[-1.707167,52.192966],"type":"Point"}
 }

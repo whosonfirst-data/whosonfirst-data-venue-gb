@@ -2,13 +2,14 @@
   "id": 119102947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.606121,53.859844,-1.606121,53.859844",
     "geom:latitude":53.859844,
     "geom:longitude":-1.606121,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Holt Park Crescent",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119102947,
-    "wof:lastmodified":1449043338,
+    "wof:lastmodified":1466259135,
     "wof:name":"Douglas Decorators",
     "wof:parent_id":85861581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.606121,53.859844,-1.606121,53.859844],
+  "bbox": [
+    -1.606121,
+    53.859844,
+    -1.606121,
+    53.859844
+],
   "geometry": {"coordinates":[-1.606121,53.859844],"type":"Point"}
 }

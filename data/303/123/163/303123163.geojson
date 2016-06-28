@@ -2,13 +2,14 @@
   "id": 303123163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.362292,53.491211,-2.362292,53.491211",
     "geom:latitude":53.491211,
     "geom:longitude":-2.362292,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Parrin Lane, Eccles",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303123163,
-    "wof:lastmodified":1448998849,
+    "wof:lastmodified":1466266356,
     "wof:name":"Candle Concepts",
     "wof:parent_id":85860967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "candle"
     ]
 },
-  "bbox": [-2.362292,53.491211,-2.362292,53.491211],
+  "bbox": [
+    -2.362292,
+    53.491211,
+    -2.362292,
+    53.491211
+],
   "geometry": {"coordinates":[-2.362292,53.491211],"type":"Point"}
 }

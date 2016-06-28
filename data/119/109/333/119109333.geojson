@@ -2,13 +2,14 @@
   "id": 119109333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.50131,52.430553,-1.50131,52.430553",
     "geom:latitude":52.430553,
     "geom:longitude":-1.50131,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Station Street West",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119109333,
-    "wof:lastmodified":1449041708,
+    "wof:lastmodified":1466259837,
     "wof:name":"Brookes Frank (Coventry)",
     "wof:parent_id":85792035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.50131,52.430553,-1.50131,52.430553],
+  "bbox": [
+    -1.50131,
+    52.430553,
+    -1.50131,
+    52.430553
+],
   "geometry": {"coordinates":[-1.50131,52.430553],"type":"Point"}
 }

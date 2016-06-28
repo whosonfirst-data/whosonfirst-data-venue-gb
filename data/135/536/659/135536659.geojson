@@ -2,13 +2,14 @@
   "id": 135536659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.530161,53.998001,-1.530161,53.998001",
     "geom:latitude":53.998001,
     "geom:longitude":-1.530161,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Regent Pde",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135536659,
-    "wof:lastmodified":1449022824,
+    "wof:lastmodified":1466278672,
     "wof:name":"Friends",
     "wof:parent_id":85790715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.530161,53.998001,-1.530161,53.998001],
+  "bbox": [
+    -1.530161,
+    53.998001,
+    -1.530161,
+    53.998001
+],
   "geometry": {"coordinates":[-1.530161,53.998001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186182699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.1365,55.810741,-4.1365,55.810741",
     "geom:latitude":55.810741,
     "geom:longitude":-4.1365,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5-6 Flemington Industrial Estate, Hamilton Road, Cambuslang",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186182699,
-    "wof:lastmodified":1449052069,
+    "wof:lastmodified":1466254474,
     "wof:name":"John Anderson",
     "wof:parent_id":85786177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "customizing"
     ]
 },
-  "bbox": [-4.1365,55.810741,-4.1365,55.810741],
+  "bbox": [
+    -4.1365,
+    55.810741,
+    -4.1365,
+    55.810741
+],
   "geometry": {"coordinates":[-4.1365,55.810741],"type":"Point"}
 }

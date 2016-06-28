@@ -2,13 +2,14 @@
   "id": 202813135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.201314,53.085876,-2.201314,53.085876",
     "geom:latitude":53.085876,
     "geom:longitude":-2.201314,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Blackbird Way, Packmore",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202813135,
-    "wof:lastmodified":1449060768,
+    "wof:lastmodified":1466259290,
     "wof:name":"Carrington Scaffolding",
     "wof:parent_id":85861001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "scaffolding"
     ]
 },
-  "bbox": [-2.201314,53.085876,-2.201314,53.085876],
+  "bbox": [
+    -2.201314,
+    53.085876,
+    -2.201314,
+    53.085876
+],
   "geometry": {"coordinates":[-2.201314,53.085876],"type":"Point"}
 }

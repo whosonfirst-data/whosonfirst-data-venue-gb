@@ -2,13 +2,14 @@
   "id": 303164449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.135719,53.060829,-2.135719,53.060829",
     "geom:latitude":53.060829,
     "geom:longitude":-2.135719,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 The Cottages",
     "sg:city":"Stoke On Trent",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303164449,
-    "wof:lastmodified":1448998412,
+    "wof:lastmodified":1466267642,
     "wof:name":"Cottage Caterers",
     "wof:parent_id":85785431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-2.135719,53.060829,-2.135719,53.060829],
+  "bbox": [
+    -2.135719,
+    53.060829,
+    -2.135719,
+    53.060829
+],
   "geometry": {"coordinates":[-2.135719,53.060829],"type":"Point"}
 }

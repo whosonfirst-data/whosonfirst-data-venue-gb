@@ -2,13 +2,14 @@
   "id": 119302927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.355445,51.605129,-3.355445,51.605129",
     "geom:latitude":51.605129,
     "geom:longitude":-3.355445,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Oliver St, Hopkins Town",
     "sg:city":"Pontypridd",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119302927,
-    "wof:lastmodified":1449041678,
+    "wof:lastmodified":1466279850,
     "wof:name":"A New Sign",
     "wof:parent_id":101852813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.355445,51.605129,-3.355445,51.605129],
+  "bbox": [
+    -3.355445,
+    51.605129,
+    -3.355445,
+    51.605129
+],
   "geometry": {"coordinates":[-3.355445,51.605129],"type":"Point"}
 }

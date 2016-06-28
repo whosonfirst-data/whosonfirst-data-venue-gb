@@ -2,13 +2,14 @@
   "id": 135420151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.234747,51.851089,-2.234747,51.851089",
     "geom:latitude":51.851089,
     "geom:longitude":-2.234747,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Leonard Road",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135420151,
-    "wof:lastmodified":1449022461,
+    "wof:lastmodified":1466265076,
     "wof:name":"MICHAEL JOHN EMERY",
     "wof:parent_id":85793221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.234747,51.851089,-2.234747,51.851089],
+  "bbox": [
+    -2.234747,
+    51.851089,
+    -2.234747,
+    51.851089
+],
   "geometry": {"coordinates":[-2.234747,51.851089],"type":"Point"}
 }

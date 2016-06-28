@@ -2,13 +2,14 @@
   "id": 135624841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.216353,55.858627,-4.216353,55.858627",
     "geom:latitude":55.858627,
     "geom:longitude":-4.216353,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"567 Duke St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135624841,
-    "wof:lastmodified":1449023075,
+    "wof:lastmodified":1466283882,
     "wof:name":"David McCutcheon",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.216353,55.858627,-4.216353,55.858627],
+  "bbox": [
+    -4.216353,
+    55.858627,
+    -4.216353,
+    55.858627
+],
   "geometry": {"coordinates":[-4.216353,55.858627],"type":"Point"}
 }

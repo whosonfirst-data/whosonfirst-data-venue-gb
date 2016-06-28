@@ -2,13 +2,14 @@
   "id": 270203379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.392181,55.80331,-4.392181,55.80331",
     "geom:latitude":55.80331,
     "geom:longitude":-4.392181,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Carlibar Rd, Barrhead",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270203379,
-    "wof:lastmodified":1449009722,
+    "wof:lastmodified":1466266500,
     "wof:name":"Fereneze Inn",
     "wof:parent_id":85789427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "inn"
     ]
 },
-  "bbox": [-4.392181,55.80331,-4.392181,55.80331],
+  "bbox": [
+    -4.392181,
+    55.80331,
+    -4.392181,
+    55.80331
+],
   "geometry": {"coordinates":[-4.392181,55.80331],"type":"Point"}
 }

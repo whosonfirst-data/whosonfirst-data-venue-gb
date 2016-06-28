@@ -2,13 +2,14 @@
   "id": 185822597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.566219,50.87471,0.566219,50.87471",
     "geom:latitude":50.87471,
     "geom:longitude":0.566219,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Parkstone Parade, Parkstone Rd",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185822597,
-    "wof:lastmodified":1449008142,
+    "wof:lastmodified":1466254968,
     "wof:name":"Parkstone Video Library",
     "wof:parent_id":85861225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "library"
     ]
 },
-  "bbox": [0.566219,50.87471,0.566219,50.87471],
+  "bbox": [
+    0.566219,
+    50.87471,
+    0.566219,
+    50.87471
+],
   "geometry": {"coordinates":[0.566219,50.87471],"type":"Point"}
 }

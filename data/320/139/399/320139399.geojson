@@ -2,13 +2,14 @@
   "id": 320139399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.239523,51.856991,-2.239523,51.856991",
     "geom:latitude":51.856991,
     "geom:longitude":-2.239523,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Conduit St",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320139399,
-    "wof:lastmodified":1449011593,
+    "wof:lastmodified":1466272287,
     "wof:name":"John Goodlock",
     "wof:parent_id":85793221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "potato"
     ]
 },
-  "bbox": [-2.239523,51.856991,-2.239523,51.856991],
+  "bbox": [
+    -2.239523,
+    51.856991,
+    -2.239523,
+    51.856991
+],
   "geometry": {"coordinates":[-2.239523,51.856991],"type":"Point"}
 }

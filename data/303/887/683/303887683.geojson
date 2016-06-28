@@ -2,13 +2,14 @@
   "id": 303887683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.549252,53.829281,-1.549252,53.829281",
     "geom:latitude":53.829281,
     "geom:longitude":-1.549252,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39-41 Carrholm Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303887683,
-    "wof:lastmodified":1449000081,
+    "wof:lastmodified":1466284145,
     "wof:name":"Macqueen Air Conditioning",
     "wof:parent_id":85789051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-1.549252,53.829281,-1.549252,53.829281],
+  "bbox": [
+    -1.549252,
+    53.829281,
+    -1.549252,
+    53.829281
+],
   "geometry": {"coordinates":[-1.549252,53.829281],"type":"Point"}
 }

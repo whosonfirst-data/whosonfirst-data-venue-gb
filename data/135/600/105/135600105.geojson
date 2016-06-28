@@ -2,13 +2,14 @@
   "id": 135600105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.057309,51.085831,-4.057309,51.085831",
     "geom:latitude":51.085831,
     "geom:longitude":-4.057309,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Georges Road",
     "sg:city":"Barnstaple",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135600105,
-    "wof:lastmodified":1449021279,
+    "wof:lastmodified":1466282541,
     "wof:name":"Edmunds Walker",
     "wof:parent_id":101852617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.057309,51.085831,-4.057309,51.085831],
+  "bbox": [
+    -4.057309,
+    51.085831,
+    -4.057309,
+    51.085831
+],
   "geometry": {"coordinates":[-4.057309,51.085831],"type":"Point"}
 }

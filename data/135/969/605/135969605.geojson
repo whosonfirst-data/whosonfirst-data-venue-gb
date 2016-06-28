@@ -2,13 +2,14 @@
   "id": 135969605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.105201,55.86615,-4.105201,55.86615",
     "geom:latitude":55.86615,
     "geom:longitude":-4.105201,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Corsehill Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135969605,
-    "wof:lastmodified":1449021709,
+    "wof:lastmodified":1466288473,
     "wof:name":"Rogerfield Primary School",
     "wof:parent_id":85792561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.105201,55.86615,-4.105201,55.86615],
+  "bbox": [
+    -4.105201,
+    55.86615,
+    -4.105201,
+    55.86615
+],
   "geometry": {"coordinates":[-4.105201,55.86615],"type":"Point"}
 }

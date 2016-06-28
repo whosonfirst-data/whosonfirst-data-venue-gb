@@ -2,13 +2,14 @@
   "id": 219599899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.5191,50.729038,-3.5191,50.729038",
     "geom:latitude":50.729038,
     "geom:longitude":-3.5191,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"First Floor, Exeter Trust Ho, Blackboy Rd",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219599899,
-    "wof:lastmodified":1449072035,
+    "wof:lastmodified":1466260438,
     "wof:name":"East Devon Magistrates Court",
     "wof:parent_id":85792763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.5191,50.729038,-3.5191,50.729038],
+  "bbox": [
+    -3.5191,
+    50.729038,
+    -3.5191,
+    50.729038
+],
   "geometry": {"coordinates":[-3.5191,50.729038],"type":"Point"}
 }

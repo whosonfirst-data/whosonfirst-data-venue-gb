@@ -2,13 +2,14 @@
   "id": 303306539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.526031,52.39967,-1.526031,52.39967",
     "geom:latitude":52.39967,
     "geom:longitude":-1.526031,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Mayfield Road",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303306539,
-    "wof:lastmodified":1449000454,
+    "wof:lastmodified":1466272021,
     "wof:name":"Side Street Hair Salon",
     "wof:parent_id":85790551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.526031,52.39967,-1.526031,52.39967],
+  "bbox": [
+    -1.526031,
+    52.39967,
+    -1.526031,
+    52.39967
+],
   "geometry": {"coordinates":[-1.526031,52.39967],"type":"Point"}
 }

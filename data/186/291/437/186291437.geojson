@@ -2,13 +2,14 @@
   "id": 186291437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.088631,50.802151,-1.088631,50.802151",
     "geom:latitude":50.802151,
     "geom:longitude":-1.088631,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Charlotte Street",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186291437,
-    "wof:lastmodified":1449051202,
+    "wof:lastmodified":1466255983,
     "wof:name":"Fagins",
     "wof:parent_id":85861983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "room"
     ]
 },
-  "bbox": [-1.088631,50.802151,-1.088631,50.802151],
+  "bbox": [
+    -1.088631,
+    50.802151,
+    -1.088631,
+    50.802151
+],
   "geometry": {"coordinates":[-1.088631,50.802151],"type":"Point"}
 }

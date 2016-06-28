@@ -2,13 +2,14 @@
   "id": 303502773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.36212,53.433407,-1.36212,53.433407",
     "geom:latitude":53.433407,
     "geom:longitude":-1.36212,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Mary Street",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303502773,
-    "wof:lastmodified":1448999239,
+    "wof:lastmodified":1466278040,
     "wof:name":"The Kingfisher",
     "wof:parent_id":85786219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.36212,53.433407,-1.36212,53.433407],
+  "bbox": [
+    -1.36212,
+    53.433407,
+    -1.36212,
+    53.433407
+],
   "geometry": {"coordinates":[-1.36212,53.433407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119054849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.149514,55.955948,-3.149514,55.955948",
     "geom:latitude":55.955948,
     "geom:longitude":-3.149514,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Restalrig Road South",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119054849,
-    "wof:lastmodified":1449042088,
+    "wof:lastmodified":1466253785,
     "wof:name":"Frank Bryant",
     "wof:parent_id":85861527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.149514,55.955948,-3.149514,55.955948],
+  "bbox": [
+    -3.149514,
+    55.955948,
+    -3.149514,
+    55.955948
+],
   "geometry": {"coordinates":[-3.149514,55.955948],"type":"Point"}
 }

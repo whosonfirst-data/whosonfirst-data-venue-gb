@@ -2,13 +2,14 @@
   "id": 185830225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.21216,53.808529,-1.21216,53.808529",
     "geom:latitude":53.808529,
     "geom:longitude":-1.21216,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Grange Farm, Little Fenton Lane, Sherburn In Elmet",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185830225,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466255048,
     "wof:name":"J G Marshall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "arable"
     ]
 },
-  "bbox": [-1.21216,53.808529,-1.21216,53.808529],
+  "bbox": [
+    -1.21216,
+    53.808529,
+    -1.21216,
+    53.808529
+],
   "geometry": {"coordinates":[-1.21216,53.808529],"type":"Point"}
 }

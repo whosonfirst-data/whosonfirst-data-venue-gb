@@ -2,13 +2,14 @@
   "id": 269493811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.760633,52.675316,-2.760633,52.675316",
     "geom:latitude":52.675316,
     "geom:longitude":-2.760633,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Maltings, 59 Lythwood Road, Bayston Hill",
     "sg:city":"Shrewsbury",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269493811,
-    "wof:lastmodified":1449036909,
+    "wof:lastmodified":1466260137,
     "wof:name":"The Severn Partnership",
     "wof:parent_id":85789059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "land"
     ]
 },
-  "bbox": [-2.760633,52.675316,-2.760633,52.675316],
+  "bbox": [
+    -2.760633,
+    52.675316,
+    -2.760633,
+    52.675316
+],
   "geometry": {"coordinates":[-2.760633,52.675316],"type":"Point"}
 }

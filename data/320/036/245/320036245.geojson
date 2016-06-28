@@ -2,13 +2,14 @@
   "id": 320036245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.24317,53.476742,-2.24317,53.476742",
     "geom:latitude":53.476742,
     "geom:longitude":-2.24317,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Oxford Court, Oxford Street, Bishopsgate",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320036245,
-    "wof:lastmodified":1449012096,
+    "wof:lastmodified":1466269195,
     "wof:name":"Mace & Jones",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-2.24317,53.476742,-2.24317,53.476742],
+  "bbox": [
+    -2.24317,
+    53.476742,
+    -2.24317,
+    53.476742
+],
   "geometry": {"coordinates":[-2.24317,53.476742],"type":"Point"}
 }

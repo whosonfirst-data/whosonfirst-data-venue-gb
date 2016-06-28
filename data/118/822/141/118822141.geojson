@@ -2,13 +2,14 @@
   "id": 118822141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.040012,53.200428,-3.040012,53.200428",
     "geom:latitude":53.200428,
     "geom:longitude":-3.040012,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Aston Park Road, Queensferry",
     "sg:city":"Deeside",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118822141,
-    "wof:lastmodified":1449054483,
+    "wof:lastmodified":1466274418,
     "wof:name":"Aston Thrift",
     "wof:parent_id":85683839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.040012,53.200428,-3.040012,53.200428],
+  "bbox": [
+    -3.040012,
+    53.200428,
+    -3.040012,
+    53.200428
+],
   "geometry": {"coordinates":[-3.040012,53.200428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135367291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.01375,55.757347,-2.01375,55.757347",
     "geom:latitude":55.757347,
     "geom:longitude":-2.01375,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4a Grove Gardens, Tweedmouth",
     "sg:city":"Berwick-upon-tweed",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135367291,
-    "wof:lastmodified":1449022802,
+    "wof:lastmodified":1466259162,
     "wof:name":"H Richardson",
     "wof:parent_id":101878327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.01375,55.757347,-2.01375,55.757347],
+  "bbox": [
+    -2.01375,
+    55.757347,
+    -2.01375,
+    55.757347
+],
   "geometry": {"coordinates":[-2.01375,55.757347],"type":"Point"}
 }

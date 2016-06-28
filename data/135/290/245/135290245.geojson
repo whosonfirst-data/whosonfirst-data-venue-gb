@@ -2,13 +2,14 @@
   "id": 135290245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.854389,57.131126,-2.854389,57.131126",
     "geom:latitude":57.131126,
     "geom:longitude":-2.854389,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Garage, Tarland",
     "sg:city":"Aboyne",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135290245,
-    "wof:lastmodified":1449022306,
+    "wof:lastmodified":1466276617,
     "wof:name":"Patersons Garage",
     "wof:parent_id":85684253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.854389,57.131126,-2.854389,57.131126],
+  "bbox": [
+    -2.854389,
+    57.131126,
+    -2.854389,
+    57.131126
+],
   "geometry": {"coordinates":[-2.854389,57.131126],"type":"Point"}
 }

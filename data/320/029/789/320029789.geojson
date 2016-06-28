@@ -2,13 +2,14 @@
   "id": 320029789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.515283,50.478642,-3.515283,50.478642",
     "geom:latitude":50.478642,
     "geom:longitude":-3.515283,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Babbacombe Rd",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320029789,
-    "wof:lastmodified":1449012839,
+    "wof:lastmodified":1466269023,
     "wof:name":"Riviera Food & Wine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.515283,50.478642,-3.515283,50.478642],
+  "bbox": [
+    -3.515283,
+    50.478642,
+    -3.515283,
+    50.478642
+],
   "geometry": {"coordinates":[-3.515283,50.478642],"type":"Point"}
 }

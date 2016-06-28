@@ -2,13 +2,14 @@
   "id": 135582675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.308608,54.567451,-1.308608,54.567451",
     "geom:latitude":54.567451,
     "geom:longitude":-1.308608,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Church Road",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135582675,
-    "wof:lastmodified":1449022637,
+    "wof:lastmodified":1466281695,
     "wof:name":"David Wren",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.308608,54.567451,-1.308608,54.567451],
+  "bbox": [
+    -1.308608,
+    54.567451,
+    -1.308608,
+    54.567451
+],
   "geometry": {"coordinates":[-1.308608,54.567451],"type":"Point"}
 }

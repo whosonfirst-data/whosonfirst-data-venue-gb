@@ -2,13 +2,14 @@
   "id": 135672767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.086305,50.819004,-1.086305,50.819004",
     "geom:latitude":50.819004,
     "geom:longitude":-1.086305,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Newcomen Road",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":135672767,
-    "wof:lastmodified":1449021189,
+    "wof:lastmodified":1466285488,
     "wof:name":"Babcars Ltd.",
     "wof:parent_id":85792791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.086305,50.819004,-1.086305,50.819004],
+  "bbox": [
+    -1.086305,
+    50.819004,
+    -1.086305,
+    50.819004
+],
   "geometry": {"coordinates":[-1.086305,50.819004],"type":"Point"}
 }

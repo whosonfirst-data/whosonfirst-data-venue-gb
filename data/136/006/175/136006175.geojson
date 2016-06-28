@@ -2,13 +2,14 @@
   "id": 136006175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.70626,52.498486,-1.70626,52.498486",
     "geom:latitude":52.498486,
     "geom:longitude":-1.70626,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"109 High Street, Coleshill",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":136006175,
-    "wof:lastmodified":1449075968,
+    "wof:lastmodified":1466259777,
     "wof:name":"Malcolm Scott",
     "wof:parent_id":101853069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.70626,52.498486,-1.70626,52.498486],
+  "bbox": [
+    -1.70626,
+    52.498486,
+    -1.70626,
+    52.498486
+],
   "geometry": {"coordinates":[-1.70626,52.498486],"type":"Point"}
 }

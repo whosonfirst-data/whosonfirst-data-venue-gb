@@ -2,13 +2,14 @@
   "id": 118623865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.607472,55.068329,-3.607472,55.068329",
     "geom:latitude":55.068329,
     "geom:longitude":-3.607472,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Brooke Street",
     "sg:city":"Dumfries",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118623865,
-    "wof:lastmodified":1449054128,
+    "wof:lastmodified":1466259440,
     "wof:name":"Studio Six",
     "wof:parent_id":101873433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.607472,55.068329,-3.607472,55.068329],
+  "bbox": [
+    -3.607472,
+    55.068329,
+    -3.607472,
+    55.068329
+],
   "geometry": {"coordinates":[-3.607472,55.068329],"type":"Point"}
 }

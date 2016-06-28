@@ -2,13 +2,14 @@
   "id": 135544303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.971168,53.669384,-2.971168,53.669384",
     "geom:latitude":53.669384,
     "geom:longitude":-2.971168,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Fylde Rd",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135544303,
-    "wof:lastmodified":1449023983,
+    "wof:lastmodified":1466279310,
     "wof:name":"Southport Natural Gas Heating",
     "wof:parent_id":85860979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.971168,53.669384,-2.971168,53.669384],
+  "bbox": [
+    -2.971168,
+    53.669384,
+    -2.971168,
+    53.669384
+],
   "geometry": {"coordinates":[-2.971168,53.669384],"type":"Point"}
 }

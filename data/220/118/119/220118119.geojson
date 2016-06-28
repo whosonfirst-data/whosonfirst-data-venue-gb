@@ -2,13 +2,14 @@
   "id": 220118119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.560184,50.852955,0.560184,50.852955",
     "geom:latitude":50.852955,
     "geom:longitude":0.560184,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41 London Road",
     "sg:city":"St Leonards-on-sea",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220118119,
-    "wof:lastmodified":1449074694,
+    "wof:lastmodified":1466255050,
     "wof:name":"Harc Charity Shop",
     "wof:parent_id":85861225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "charity"
     ]
 },
-  "bbox": [0.560184,50.852955,0.560184,50.852955],
+  "bbox": [
+    0.560184,
+    50.852955,
+    0.560184,
+    50.852955
+],
   "geometry": {"coordinates":[0.560184,50.852955],"type":"Point"}
 }

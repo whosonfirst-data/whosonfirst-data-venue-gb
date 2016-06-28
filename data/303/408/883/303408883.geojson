@@ -2,13 +2,14 @@
   "id": 303408883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.576931,53.292896,-3.576931,53.292896",
     "geom:latitude":53.292896,
     "geom:longitude":-3.576931,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Lon Y Cyll",
     "sg:city":"Abergele",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303408883,
-    "wof:lastmodified":1448998421,
+    "wof:lastmodified":1466275125,
     "wof:name":"Abergele Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cab"
     ]
 },
-  "bbox": [-3.576931,53.292896,-3.576931,53.292896],
+  "bbox": [
+    -3.576931,
+    53.292896,
+    -3.576931,
+    53.292896
+],
   "geometry": {"coordinates":[-3.576931,53.292896],"type":"Point"}
 }

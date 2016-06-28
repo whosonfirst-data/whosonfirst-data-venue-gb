@@ -2,13 +2,14 @@
   "id": 303738389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.167633,53.389061,-2.167633,53.389061",
     "geom:latitude":53.389061,
     "geom:longitude":-2.167633,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Garners Lane, Adswood",
     "sg:city":"Stockport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303738389,
-    "wof:lastmodified":1448999911,
+    "wof:lastmodified":1466282335,
     "wof:name":"California Wines",
     "wof:parent_id":85786499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [-2.167633,53.389061,-2.167633,53.389061],
+  "bbox": [
+    -2.167633,
+    53.389061,
+    -2.167633,
+    53.389061
+],
   "geometry": {"coordinates":[-2.167633,53.389061],"type":"Point"}
 }

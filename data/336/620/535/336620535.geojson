@@ -2,13 +2,14 @@
   "id": 336620535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.011496,50.913601,-1.011496,50.913601",
     "geom:latitude":50.913601,
     "geom:longitude":-1.011496,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Catherington Lane",
     "sg:city":"Waterlooville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336620535,
-    "wof:lastmodified":1448997927,
+    "wof:lastmodified":1466273377,
     "wof:name":"Rustlings Nurseries",
     "wof:parent_id":85785573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "greenhouse"
     ]
 },
-  "bbox": [-1.011496,50.913601,-1.011496,50.913601],
+  "bbox": [
+    -1.011496,
+    50.913601,
+    -1.011496,
+    50.913601
+],
   "geometry": {"coordinates":[-1.011496,50.913601],"type":"Point"}
 }

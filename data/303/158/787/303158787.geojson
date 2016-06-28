@@ -2,13 +2,14 @@
   "id": 303158787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.88221,56.378891,-2.88221,56.378891",
     "geom:latitude":56.378891,
     "geom:longitude":-2.88221,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"R A F Leuchars",
     "sg:city":"St Andrews",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303158787,
-    "wof:lastmodified":1448999747,
+    "wof:lastmodified":1466267442,
     "wof:name":"Leuchars Bowl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.88221,56.378891,-2.88221,56.378891],
+  "bbox": [
+    -2.88221,
+    56.378891,
+    -2.88221,
+    56.378891
+],
   "geometry": {"coordinates":[-2.88221,56.378891],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252949877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.618458,55.007301,-1.618458,55.007301",
     "geom:latitude":55.007301,
     "geom:longitude":-1.618458,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Church Road, Gosforth",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252949877,
-    "wof:lastmodified":1449006098,
+    "wof:lastmodified":1466261837,
     "wof:name":"John Welsh Hairdressing",
     "wof:parent_id":85790431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.618458,55.007301,-1.618458,55.007301],
+  "bbox": [
+    -1.618458,
+    55.007301,
+    -1.618458,
+    55.007301
+],
   "geometry": {"coordinates":[-1.618458,55.007301],"type":"Point"}
 }

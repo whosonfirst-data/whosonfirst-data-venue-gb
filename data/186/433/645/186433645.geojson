@@ -2,13 +2,14 @@
   "id": 186433645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.738657,53.792645,-1.738657,53.792645",
     "geom:latitude":53.792645,
     "geom:longitude":-1.738657,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"358 Leeds Road",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186433645,
-    "wof:lastmodified":1449050555,
+    "wof:lastmodified":1466258195,
     "wof:name":"Bradford Fire Surround Centre",
     "wof:parent_id":85791921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "fireplace"
     ]
 },
-  "bbox": [-1.738657,53.792645,-1.738657,53.792645],
+  "bbox": [
+    -1.738657,
+    53.792645,
+    -1.738657,
+    53.792645
+],
   "geometry": {"coordinates":[-1.738657,53.792645],"type":"Point"}
 }

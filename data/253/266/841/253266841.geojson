@@ -2,13 +2,14 @@
   "id": 253266841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.101809,53.968353,-1.101809,53.968353",
     "geom:latitude":53.968353,
     "geom:longitude":-1.101809,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Water End",
     "sg:city":"York",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":253266841,
-    "wof:lastmodified":1449062914,
+    "wof:lastmodified":1466262563,
     "wof:name":"The Clifton Bridge Hotel",
     "wof:parent_id":85785215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.101809,53.968353,-1.101809,53.968353],
+  "bbox": [
+    -1.101809,
+    53.968353,
+    -1.101809,
+    53.968353
+],
   "geometry": {"coordinates":[-1.101809,53.968353],"type":"Point"}
 }

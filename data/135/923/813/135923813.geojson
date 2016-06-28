@@ -2,13 +2,14 @@
   "id": 135923813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.379181,52.240936,-3.379181,52.240936",
     "geom:latitude":52.240936,
     "geom:longitude":-3.379181,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Middleton Street",
     "sg:city":"Llandrindod Wells",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135923813,
-    "wof:lastmodified":1449023896,
+    "wof:lastmodified":1466288221,
     "wof:name":"A & M Millward",
     "wof:parent_id":101853113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.379181,52.240936,-3.379181,52.240936],
+  "bbox": [
+    -3.379181,
+    52.240936,
+    -3.379181,
+    52.240936
+],
   "geometry": {"coordinates":[-3.379181,52.240936],"type":"Point"}
 }

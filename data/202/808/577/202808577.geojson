@@ -2,13 +2,14 @@
   "id": 202808577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.734293,53.356148,-2.734293,53.356148",
     "geom:latitude":53.356148,
     "geom:longitude":-2.734293,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Waterloo Road",
     "sg:city":"Widnes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202808577,
-    "wof:lastmodified":1449060224,
+    "wof:lastmodified":1466259222,
     "wof:name":"Allbuild Building Supplies",
     "wof:parent_id":85787837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "builder"
     ]
 },
-  "bbox": [-2.734293,53.356148,-2.734293,53.356148],
+  "bbox": [
+    -2.734293,
+    53.356148,
+    -2.734293,
+    53.356148
+],
   "geometry": {"coordinates":[-2.734293,53.356148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135551639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.89408,53.72308,-1.89408,53.72308",
     "geom:latitude":53.72308,
     "geom:longitude":-1.89408,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Musgrave Block, Wellesley Park, High Road Well",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135551639,
-    "wof:lastmodified":1449021586,
+    "wof:lastmodified":1466279624,
     "wof:name":"Wellesley Park Gym",
     "wof:parent_id":85791037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.89408,53.72308,-1.89408,53.72308],
+  "bbox": [
+    -1.89408,
+    53.72308,
+    -1.89408,
+    53.72308
+],
   "geometry": {"coordinates":[-1.89408,53.72308],"type":"Point"}
 }

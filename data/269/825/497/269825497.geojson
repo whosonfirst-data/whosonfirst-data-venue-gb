@@ -2,13 +2,14 @@
   "id": 269825497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.08882,51.568211,-4.08882,51.568211",
     "geom:latitude":51.568211,
     "geom:longitude":-4.08882,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Southgate Road, Southgate",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269825497,
-    "wof:lastmodified":1449036224,
+    "wof:lastmodified":1466270398,
     "wof:name":"Southgate Service Stn",
     "wof:parent_id":85786341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-4.08882,51.568211,-4.08882,51.568211],
+  "bbox": [
+    -4.08882,
+    51.568211,
+    -4.08882,
+    51.568211
+],
   "geometry": {"coordinates":[-4.08882,51.568211],"type":"Point"}
 }

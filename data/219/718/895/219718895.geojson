@@ -2,13 +2,14 @@
   "id": 219718895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.160553,51.497623,-3.160553,51.497623",
     "geom:latitude":51.497623,
     "geom:longitude":-3.160553,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Mafeking Road",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":219718895,
-    "wof:lastmodified":1449071157,
+    "wof:lastmodified":1466262358,
     "wof:name":"Aureus Publishing",
     "wof:parent_id":85789785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "publishing"
     ]
 },
-  "bbox": [-3.160553,51.497623,-3.160553,51.497623],
+  "bbox": [
+    -3.160553,
+    51.497623,
+    -3.160553,
+    51.497623
+],
   "geometry": {"coordinates":[-3.160553,51.497623],"type":"Point"}
 }

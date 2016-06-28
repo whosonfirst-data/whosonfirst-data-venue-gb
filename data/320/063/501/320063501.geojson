@@ -2,13 +2,14 @@
   "id": 320063501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.125402,52.612389,-1.125402,52.612389",
     "geom:latitude":52.612389,
     "geom:longitude":-1.125402,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Wordsworth Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320063501,
-    "wof:lastmodified":1449011573,
+    "wof:lastmodified":1466269994,
     "wof:name":"WORDSWORTH ROAD HOSTEL",
     "wof:parent_id":85861113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.125402,52.612389,-1.125402,52.612389],
+  "bbox": [
+    -1.125402,
+    52.612389,
+    -1.125402,
+    52.612389
+],
   "geometry": {"coordinates":[-1.125402,52.612389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320784025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.345867,55.921993,-4.345867,55.921993",
     "geom:latitude":55.921993,
     "geom:longitude":-4.345867,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Westbourne Crescent, Bearsden",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320784025,
-    "wof:lastmodified":1449013770,
+    "wof:lastmodified":1466284764,
     "wof:name":"Property Displayed",
     "wof:parent_id":85785547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nameplate"
     ]
 },
-  "bbox": [-4.345867,55.921993,-4.345867,55.921993],
+  "bbox": [
+    -4.345867,
+    55.921993,
+    -4.345867,
+    55.921993
+],
   "geometry": {"coordinates":[-4.345867,55.921993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202502053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.47117,51.73431,0.47117,51.73431",
     "geom:latitude":51.73431,
     "geom:longitude":0.47117,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Market Road",
     "sg:city":"Chelmsford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202502053,
-    "wof:lastmodified":1449061288,
+    "wof:lastmodified":1466254162,
     "wof:name":"Travelcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.47117,51.73431,0.47117,51.73431],
+  "bbox": [
+    0.47117,
+    51.73431,
+    0.47117,
+    51.73431
+],
   "geometry": {"coordinates":[0.47117,51.73431],"type":"Point"}
 }

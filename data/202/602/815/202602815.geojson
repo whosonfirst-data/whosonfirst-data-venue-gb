@@ -2,13 +2,14 @@
   "id": 202602815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.553147,51.192505,-2.553147,51.192505",
     "geom:latitude":51.192505,
     "geom:longitude":-2.553147,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Prospect Cottages",
     "sg:city":"Shepton Mallet",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202602815,
-    "wof:lastmodified":1449061313,
+    "wof:lastmodified":1466255883,
     "wof:name":"Lucas Private Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-2.553147,51.192505,-2.553147,51.192505],
+  "bbox": [
+    -2.553147,
+    51.192505,
+    -2.553147,
+    51.192505
+],
   "geometry": {"coordinates":[-2.553147,51.192505],"type":"Point"}
 }

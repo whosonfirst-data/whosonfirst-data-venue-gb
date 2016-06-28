@@ -2,13 +2,14 @@
   "id": 269604127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.41205,54.904251,-1.41205,54.904251",
     "geom:latitude":54.904251,
     "geom:longitude":-1.41205,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Havelock Towers, Hylton Road",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269604127,
-    "wof:lastmodified":1449038652,
+    "wof:lastmodified":1466263704,
     "wof:name":"Duke of Edinburgh's Award",
     "wof:parent_id":85793169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.41205,54.904251,-1.41205,54.904251],
+  "bbox": [
+    -1.41205,
+    54.904251,
+    -1.41205,
+    54.904251
+],
   "geometry": {"coordinates":[-1.41205,54.904251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303048053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.463183,55.007877,-1.463183,55.007877",
     "geom:latitude":55.007877,
     "geom:longitude":-1.463183,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Front Street, Chirton",
     "sg:city":"North Shields",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303048053,
-    "wof:lastmodified":1448998968,
+    "wof:lastmodified":1466263842,
     "wof:name":"Chirton Post Office",
     "wof:parent_id":85792733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.463183,55.007877,-1.463183,55.007877],
+  "bbox": [
+    -1.463183,
+    55.007877,
+    -1.463183,
+    55.007877
+],
   "geometry": {"coordinates":[-1.463183,55.007877],"type":"Point"}
 }

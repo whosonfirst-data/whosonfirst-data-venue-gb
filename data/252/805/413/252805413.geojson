@@ -2,13 +2,14 @@
   "id": 252805413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.355654,50.876614,-1.355654,50.876614",
     "geom:latitude":50.876614,
     "geom:longitude":-1.355654,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 The Sidings, Hound Road, Netley Abbey",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252805413,
-    "wof:lastmodified":1449005770,
+    "wof:lastmodified":1466259008,
     "wof:name":"Computer Freedom Association",
     "wof:parent_id":85791809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "software"
     ]
 },
-  "bbox": [-1.355654,50.876614,-1.355654,50.876614],
+  "bbox": [
+    -1.355654,
+    50.876614,
+    -1.355654,
+    50.876614
+],
   "geometry": {"coordinates":[-1.355654,50.876614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320099847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.527922,50.484482,-3.527922,50.484482",
     "geom:latitude":50.484482,
     "geom:longitude":-3.527922,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 Warehouse",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320099847,
-    "wof:lastmodified":1449013696,
+    "wof:lastmodified":1466271107,
     "wof:name":"The Warehouse & Boxes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "night"
     ]
 },
-  "bbox": [-3.527922,50.484482,-3.527922,50.484482],
+  "bbox": [
+    -3.527922,
+    50.484482,
+    -3.527922,
+    50.484482
+],
   "geometry": {"coordinates":[-3.527922,50.484482],"type":"Point"}
 }

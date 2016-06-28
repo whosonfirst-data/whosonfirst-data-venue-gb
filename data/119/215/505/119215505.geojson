@@ -2,13 +2,14 @@
   "id": 119215505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.720258,53.289211,-2.720258,53.289211",
     "geom:latitude":53.289211,
     "geom:longitude":-2.720258,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Hillside Rd",
     "sg:city":"Warrington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119215505,
-    "wof:lastmodified":1449043048,
+    "wof:lastmodified":1466270969,
     "wof:name":"T Gregory",
     "wof:parent_id":85683927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.720258,53.289211,-2.720258,53.289211],
+  "bbox": [
+    -2.720258,
+    53.289211,
+    -2.720258,
+    53.289211
+],
   "geometry": {"coordinates":[-2.720258,53.289211],"type":"Point"}
 }

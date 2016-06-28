@@ -2,13 +2,14 @@
   "id": 320264557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.135593,52.977676,-1.135593,52.977676",
     "geom:latitude":52.977676,
     "geom:longitude":-1.135593,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"568 Woodborough Rd",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320264557,
-    "wof:lastmodified":1449013693,
+    "wof:lastmodified":1466275983,
     "wof:name":"Mapperley Plains P.O",
     "wof:parent_id":85861937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.135593,52.977676,-1.135593,52.977676],
+  "bbox": [
+    -1.135593,
+    52.977676,
+    -1.135593,
+    52.977676
+],
   "geometry": {"coordinates":[-1.135593,52.977676],"type":"Point"}
 }

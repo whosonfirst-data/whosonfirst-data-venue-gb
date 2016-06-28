@@ -2,13 +2,14 @@
   "id": 303481235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.241251,51.750416,-1.241251,51.750416",
     "geom:latitude":51.750416,
     "geom:longitude":-1.241251,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 St Clements",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303481235,
-    "wof:lastmodified":1449000250,
+    "wof:lastmodified":1466277296,
     "wof:name":"The Image Factory",
     "wof:parent_id":85793243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [-1.241251,51.750416,-1.241251,51.750416],
+  "bbox": [
+    -1.241251,
+    51.750416,
+    -1.241251,
+    51.750416
+],
   "geometry": {"coordinates":[-1.241251,51.750416],"type":"Point"}
 }

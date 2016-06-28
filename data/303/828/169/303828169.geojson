@@ -2,13 +2,14 @@
   "id": 303828169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.58955,55.085541,-1.58955,55.085541",
     "geom:latitude":55.085541,
     "geom:longitude":-1.58955,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Front Street, Crandyke",
     "sg:city":"Cramlington",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303828169,
-    "wof:lastmodified":1448999358,
+    "wof:lastmodified":1466283265,
     "wof:name":"Parkside Private Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cab"
     ]
 },
-  "bbox": [-1.58955,55.085541,-1.58955,55.085541],
+  "bbox": [
+    -1.58955,
+    55.085541,
+    -1.58955,
+    55.085541
+],
   "geometry": {"coordinates":[-1.58955,55.085541],"type":"Point"}
 }

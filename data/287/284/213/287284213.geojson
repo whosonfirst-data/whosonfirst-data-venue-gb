@@ -2,13 +2,14 @@
   "id": 287284213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.223953,55.903519,-4.223953,55.903519",
     "geom:latitude":55.903519,
     "geom:longitude":-4.223953,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Arnold Avenue",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":287284213,
-    "wof:lastmodified":1449001212,
+    "wof:lastmodified":1466271809,
     "wof:name":"Renfrew's Stores",
     "wof:parent_id":85785743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.223953,55.903519,-4.223953,55.903519],
+  "bbox": [
+    -4.223953,
+    55.903519,
+    -4.223953,
+    55.903519
+],
   "geometry": {"coordinates":[-4.223953,55.903519],"type":"Point"}
 }

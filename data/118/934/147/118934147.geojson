@@ -2,13 +2,14 @@
   "id": 118934147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.053331,53.803413,-3.053331,53.803413",
     "geom:latitude":53.803413,
     "geom:longitude":-3.053331,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31-33 Woodfield Road",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":118934147,
-    "wof:lastmodified":1449053212,
+    "wof:lastmodified":1466281355,
     "wof:name":"Woodfield Hotel",
     "wof:parent_id":85866811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.053331,53.803413,-3.053331,53.803413],
+  "bbox": [
+    -3.053331,
+    53.803413,
+    -3.053331,
+    53.803413
+],
   "geometry": {"coordinates":[-3.053331,53.803413],"type":"Point"}
 }

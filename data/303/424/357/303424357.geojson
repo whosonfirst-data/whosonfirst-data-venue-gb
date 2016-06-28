@@ -2,13 +2,14 @@
   "id": 303424357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.062209,50.840313,-1.062209,50.840313",
     "geom:latitude":50.840313,
     "geom:longitude":-1.062209,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Hawthorn Crescent, Cosham",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303424357,
-    "wof:lastmodified":1449000414,
+    "wof:lastmodified":1466275551,
     "wof:name":"Godfrey Philip Higgins",
     "wof:parent_id":85861961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "heating"
     ]
 },
-  "bbox": [-1.062209,50.840313,-1.062209,50.840313],
+  "bbox": [
+    -1.062209,
+    50.840313,
+    -1.062209,
+    50.840313
+],
   "geometry": {"coordinates":[-1.062209,50.840313],"type":"Point"}
 }

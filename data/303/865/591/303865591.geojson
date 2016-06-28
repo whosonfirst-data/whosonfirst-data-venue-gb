@@ -2,13 +2,14 @@
   "id": 303865591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.044223,52.585716,-2.044223,52.585716",
     "geom:latitude":52.585716,
     "geom:longitude":-2.044223,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"155-156 Walsall Road",
     "sg:city":"Willenhall",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303865591,
-    "wof:lastmodified":1448999964,
+    "wof:lastmodified":1466283899,
     "wof:name":"Kings News",
     "wof:parent_id":85785623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.044223,52.585716,-2.044223,52.585716],
+  "bbox": [
+    -2.044223,
+    52.585716,
+    -2.044223,
+    52.585716
+],
   "geometry": {"coordinates":[-2.044223,52.585716],"type":"Point"}
 }

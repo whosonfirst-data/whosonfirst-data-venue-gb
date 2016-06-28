@@ -2,13 +2,14 @@
   "id": 135399405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.423011,50.909698,-1.423011,50.909698",
     "geom:latitude":50.909698,
     "geom:longitude":-1.423011,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2a Park Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135399405,
-    "wof:lastmodified":1449021506,
+    "wof:lastmodified":1466262611,
     "wof:name":"Auto Electrical Supplies",
     "wof:parent_id":85791557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.423011,50.909698,-1.423011,50.909698],
+  "bbox": [
+    -1.423011,
+    50.909698,
+    -1.423011,
+    50.909698
+],
   "geometry": {"coordinates":[-1.423011,50.909698],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202818639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.424147,53.235168,-1.424147,53.235168",
     "geom:latitude":53.235168,
     "geom:longitude":-1.424147,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 St Marys Gate",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202818639,
-    "wof:lastmodified":1449061366,
+    "wof:lastmodified":1466259391,
     "wof:name":"Newbold Design Bedrooms",
     "wof:parent_id":85861099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bedroom"
     ]
 },
-  "bbox": [-1.424147,53.235168,-1.424147,53.235168],
+  "bbox": [
+    -1.424147,
+    53.235168,
+    -1.424147,
+    53.235168
+],
   "geometry": {"coordinates":[-1.424147,53.235168],"type":"Point"}
 }

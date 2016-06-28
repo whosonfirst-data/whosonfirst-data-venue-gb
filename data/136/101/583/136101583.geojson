@@ -2,13 +2,14 @@
   "id": 136101583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.747681,54.330482,-2.747681,54.330482",
     "geom:latitude":54.330482,
     "geom:longitude":-2.747681,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Maude Street",
     "sg:city":"Kendal",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136101583,
-    "wof:lastmodified":1449075617,
+    "wof:lastmodified":1466255692,
     "wof:name":"George Lightfoot & Son",
     "wof:parent_id":101872345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.747681,54.330482,-2.747681,54.330482],
+  "bbox": [
+    -2.747681,
+    54.330482,
+    -2.747681,
+    54.330482
+],
   "geometry": {"coordinates":[-2.747681,54.330482],"type":"Point"}
 }

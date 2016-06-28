@@ -2,13 +2,14 @@
   "id": 220082729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.777077,53.65004,-1.777077,53.65004",
     "geom:latitude":53.65004,
     "geom:longitude":-1.777077,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Old Leeds Road",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220082729,
-    "wof:lastmodified":1449074083,
+    "wof:lastmodified":1466254378,
     "wof:name":"P Z Cars",
     "wof:parent_id":85791183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-1.777077,53.65004,-1.777077,53.65004],
+  "bbox": [
+    -1.777077,
+    53.65004,
+    -1.777077,
+    53.65004
+],
   "geometry": {"coordinates":[-1.777077,53.65004],"type":"Point"}
 }

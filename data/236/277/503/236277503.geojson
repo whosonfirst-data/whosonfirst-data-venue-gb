@@ -2,13 +2,14 @@
   "id": 236277503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.731721,50.741631,-1.731721,50.741631",
     "geom:latitude":50.741631,
     "geom:longitude":-1.731721,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Hoburne Lane, Highcliffe",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236277503,
-    "wof:lastmodified":1449001960,
+    "wof:lastmodified":1466261824,
     "wof:name":"Nick Bullard",
     "wof:parent_id":85790471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-1.731721,50.741631,-1.731721,50.741631],
+  "bbox": [
+    -1.731721,
+    50.741631,
+    -1.731721,
+    50.741631
+],
   "geometry": {"coordinates":[-1.731721,50.741631],"type":"Point"}
 }

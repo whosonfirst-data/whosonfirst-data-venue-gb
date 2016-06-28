@@ -2,13 +2,14 @@
   "id": 203027003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.156958,56.112377,-3.156958,56.112377",
     "geom:latitude":56.112377,
     "geom:longitude":-3.156958,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"251 High St",
     "sg:city":"Kirkcaldy",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":203027003,
-    "wof:lastmodified":1449025291,
+    "wof:lastmodified":1466253091,
     "wof:name":"Reid Group PLC",
     "wof:parent_id":85789747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.156958,56.112377,-3.156958,56.112377],
+  "bbox": [
+    -3.156958,
+    56.112377,
+    -3.156958,
+    56.112377
+],
   "geometry": {"coordinates":[-3.156958,56.112377],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102678539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.860006,55.799576,-4.860006,55.799576",
     "geom:latitude":55.799576,
     "geom:longitude":-4.860006,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45-47 Moorburn Rd",
     "sg:city":"Largs",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102678539,
-    "wof:lastmodified":1449068928,
+    "wof:lastmodified":1466255589,
     "wof:name":"Moorburn Stores",
     "wof:parent_id":101872483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.860006,55.799576,-4.860006,55.799576],
+  "bbox": [
+    -4.860006,
+    55.799576,
+    -4.860006,
+    55.799576
+],
   "geometry": {"coordinates":[-4.860006,55.799576],"type":"Point"}
 }

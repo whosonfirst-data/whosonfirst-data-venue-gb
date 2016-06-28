@@ -2,13 +2,14 @@
   "id": 186484759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.159883,55.852486,-4.159883,55.852486",
     "geom:latitude":55.852486,
     "geom:longitude":-4.159883,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Eastmuir St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186484759,
-    "wof:lastmodified":1449052879,
+    "wof:lastmodified":1466259006,
     "wof:name":"UK Components Ltd",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [-4.159883,55.852486,-4.159883,55.852486],
+  "bbox": [
+    -4.159883,
+    55.852486,
+    -4.159883,
+    55.852486
+],
   "geometry": {"coordinates":[-4.159883,55.852486],"type":"Point"}
 }

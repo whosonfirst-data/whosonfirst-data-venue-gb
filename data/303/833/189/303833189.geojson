@@ -2,13 +2,14 @@
   "id": 303833189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.444566,54.883671,-1.444566,54.883671",
     "geom:latitude":54.883671,
     "geom:longitude":-1.444566,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 North Farm Avenue",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303833189,
-    "wof:lastmodified":1448998432,
+    "wof:lastmodified":1466283321,
     "wof:name":"Farley Paving",
     "wof:parent_id":85787173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "driveway"
     ]
 },
-  "bbox": [-1.444566,54.883671,-1.444566,54.883671],
+  "bbox": [
+    -1.444566,
+    54.883671,
+    -1.444566,
+    54.883671
+],
   "geometry": {"coordinates":[-1.444566,54.883671],"type":"Point"}
 }

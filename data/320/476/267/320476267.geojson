@@ -2,13 +2,14 @@
   "id": 320476267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.327454,50.631233,-3.327454,50.631233",
     "geom:latitude":50.631233,
     "geom:longitude":-3.327454,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Westfield Rd",
     "sg:city":"Budleigh Salterton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320476267,
-    "wof:lastmodified":1449012780,
+    "wof:lastmodified":1466280908,
     "wof:name":"Westfield House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "care"
     ]
 },
-  "bbox": [-3.327454,50.631233,-3.327454,50.631233],
+  "bbox": [
+    -3.327454,
+    50.631233,
+    -3.327454,
+    50.631233
+],
   "geometry": {"coordinates":[-3.327454,50.631233],"type":"Point"}
 }

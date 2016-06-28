@@ -2,13 +2,14 @@
   "id": 235959301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.023727,53.415394,-3.023727,53.415394",
     "geom:latitude":53.415394,
     "geom:longitude":-3.023727,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Brighton St",
     "sg:city":"Wallasey",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":235959301,
-    "wof:lastmodified":1449008577,
+    "wof:lastmodified":1466255702,
     "wof:name":"Wirral Press Printers",
     "wof:parent_id":85790213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-3.023727,53.415394,-3.023727,53.415394],
+  "bbox": [
+    -3.023727,
+    53.415394,
+    -3.023727,
+    53.415394
+],
   "geometry": {"coordinates":[-3.023727,53.415394],"type":"Point"}
 }

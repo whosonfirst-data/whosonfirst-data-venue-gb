@@ -2,13 +2,14 @@
   "id": 287259169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.885268,53.944607,-1.885268,53.944607",
     "geom:latitude":53.944607,
     "geom:longitude":-1.885268,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Main Street, Addingham",
     "sg:city":"Ilkley",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":287259169,
-    "wof:lastmodified":1449000871,
+    "wof:lastmodified":1466271061,
     "wof:name":"Addingham Newsagency",
     "wof:parent_id":85790053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.885268,53.944607,-1.885268,53.944607],
+  "bbox": [
+    -1.885268,
+    53.944607,
+    -1.885268,
+    53.944607
+],
   "geometry": {"coordinates":[-1.885268,53.944607],"type":"Point"}
 }

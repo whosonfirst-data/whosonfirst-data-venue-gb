@@ -2,13 +2,14 @@
   "id": 135431971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.242586,55.935238,-3.242586,55.935238",
     "geom:latitude":55.935238,
     "geom:longitude":-3.242586,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Gorgie Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135431971,
-    "wof:lastmodified":1449021393,
+    "wof:lastmodified":1466266519,
     "wof:name":"Gorgie Parish Church",
     "wof:parent_id":85787641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.242586,55.935238,-3.242586,55.935238],
+  "bbox": [
+    -3.242586,
+    55.935238,
+    -3.242586,
+    55.935238
+],
   "geometry": {"coordinates":[-3.242586,55.935238],"type":"Point"}
 }

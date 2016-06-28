@@ -2,13 +2,14 @@
   "id": 119177531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.132109,53.260811,-2.132109,53.260811",
     "geom:latitude":53.260811,
     "geom:longitude":-2.132109,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Chester Rd",
     "sg:city":"Macclesfield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119177531,
-    "wof:lastmodified":1449043538,
+    "wof:lastmodified":1466266615,
     "wof:name":"Chester Health Authority",
     "wof:parent_id":101750519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.132109,53.260811,-2.132109,53.260811],
+  "bbox": [
+    -2.132109,
+    53.260811,
+    -2.132109,
+    53.260811
+],
   "geometry": {"coordinates":[-2.132109,53.260811],"type":"Point"}
 }

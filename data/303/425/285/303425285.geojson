@@ -2,13 +2,14 @@
   "id": 303425285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.593704,51.469624,-2.593704,51.469624",
     "geom:latitude":51.469624,
     "geom:longitude":-2.593704,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Gloucester Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303425285,
-    "wof:lastmodified":1448998980,
+    "wof:lastmodified":1466275585,
     "wof:name":"Crispins",
     "wof:parent_id":85790575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-2.593704,51.469624,-2.593704,51.469624],
+  "bbox": [
+    -2.593704,
+    51.469624,
+    -2.593704,
+    51.469624
+],
   "geometry": {"coordinates":[-2.593704,51.469624],"type":"Point"}
 }

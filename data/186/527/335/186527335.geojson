@@ -2,13 +2,14 @@
   "id": 186527335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.404666,50.91008,-1.404666,50.91008",
     "geom:latitude":50.91008,
     "geom:longitude":-1.404666,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Above Bar St",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186527335,
-    "wof:lastmodified":1449052454,
+    "wof:lastmodified":1466259741,
     "wof:name":"DelMarco",
     "wof:parent_id":85792821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "room"
     ]
 },
-  "bbox": [-1.404666,50.91008,-1.404666,50.91008],
+  "bbox": [
+    -1.404666,
+    50.91008,
+    -1.404666,
+    50.91008
+],
   "geometry": {"coordinates":[-1.404666,50.91008],"type":"Point"}
 }

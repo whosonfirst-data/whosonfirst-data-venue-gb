@@ -2,13 +2,14 @@
   "id": 336938977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.794788,50.728497,-1.794788,50.728497",
     "geom:latitude":50.728497,
     "geom:longitude":-1.794788,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Tuckton Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336938977,
-    "wof:lastmodified":1448997742,
+    "wof:lastmodified":1466280881,
     "wof:name":"La Coiffure",
     "wof:parent_id":85790471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.794788,50.728497,-1.794788,50.728497],
+  "bbox": [
+    -1.794788,
+    50.728497,
+    -1.794788,
+    50.728497
+],
   "geometry": {"coordinates":[-1.794788,50.728497],"type":"Point"}
 }

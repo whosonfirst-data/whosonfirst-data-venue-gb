@@ -2,13 +2,14 @@
   "id": 202604765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.313749,50.823738,-0.313749,50.823738",
     "geom:latitude":50.823738,
     "geom:longitude":-0.313749,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Queens Parade",
     "sg:city":"Lancing",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202604765,
-    "wof:lastmodified":1449062352,
+    "wof:lastmodified":1466255906,
     "wof:name":"The Jewellers Workshop",
     "wof:parent_id":85786039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [-0.313749,50.823738,-0.313749,50.823738],
+  "bbox": [
+    -0.313749,
+    50.823738,
+    -0.313749,
+    50.823738
+],
   "geometry": {"coordinates":[-0.313749,50.823738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269902259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.028723,53.806019,-3.028723,53.806019",
     "geom:latitude":53.806019,
     "geom:longitude":-3.028723,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"283 Whitegate Drive",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269902259,
-    "wof:lastmodified":1449038069,
+    "wof:lastmodified":1466272819,
     "wof:name":"Whitegate Manor",
     "wof:parent_id":85866811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-3.028723,53.806019,-3.028723,53.806019],
+  "bbox": [
+    -3.028723,
+    53.806019,
+    -3.028723,
+    53.806019
+],
   "geometry": {"coordinates":[-3.028723,53.806019],"type":"Point"}
 }

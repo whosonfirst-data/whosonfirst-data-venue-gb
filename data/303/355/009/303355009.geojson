@@ -2,13 +2,14 @@
   "id": 303355009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.454359,50.607563,-2.454359,50.607563",
     "geom:latitude":50.607563,
     "geom:longitude":-2.454359,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 St Edmund Street",
     "sg:city":"Weymouth",
     "sg:classifiers":[
@@ -43,10 +44,11 @@
     "wof:geomhash":"47fb6cc34d8a9fb7750134eeff7ea505",
     "wof:hierarchy":[],
     "wof:id":303355009,
-    "wof:lastmodified":1448998797,
+    "wof:lastmodified":1466273452,
     "wof:name":"Duke Of Cornwall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -56,6 +58,11 @@
         "activity"
     ]
 },
-  "bbox": [-2.454359,50.607563,-2.454359,50.607563],
+  "bbox": [
+    -2.454359,
+    50.607563,
+    -2.454359,
+    50.607563
+],
   "geometry": {"coordinates":[-2.454359,50.607563],"type":"Point"}
 }

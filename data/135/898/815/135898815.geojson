@@ -2,13 +2,14 @@
   "id": 135898815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.361504,55.944645,-3.361504,55.944645",
     "geom:latitude":55.944645,
     "geom:longitude":-3.361504,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"John Courage House, 1 Broadway Park",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135898815,
-    "wof:lastmodified":1449020914,
+    "wof:lastmodified":1466288132,
     "wof:name":"Scottish Courage Brewing Ltd.",
     "wof:parent_id":85861499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.361504,55.944645,-3.361504,55.944645],
+  "bbox": [
+    -3.361504,
+    55.944645,
+    -3.361504,
+    55.944645
+],
   "geometry": {"coordinates":[-3.361504,55.944645],"type":"Point"}
 }

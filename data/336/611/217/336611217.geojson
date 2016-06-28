@@ -2,13 +2,14 @@
   "id": 336611217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.671652,50.757618,-1.671652,50.757618",
     "geom:latitude":50.757618,
     "geom:longitude":-1.671652,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2, Queensway, Stem Lane Industrial Estate",
     "sg:city":"New Milton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336611217,
-    "wof:lastmodified":1448997805,
+    "wof:lastmodified":1466273109,
     "wof:name":"Airflow (Nicoll Ventilators) Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-1.671652,50.757618,-1.671652,50.757618],
+  "bbox": [
+    -1.671652,
+    50.757618,
+    -1.671652,
+    50.757618
+],
   "geometry": {"coordinates":[-1.671652,50.757618],"type":"Point"}
 }

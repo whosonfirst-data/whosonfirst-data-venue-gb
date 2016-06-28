@@ -2,13 +2,14 @@
   "id": 303615017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.536905,50.470074,-3.536905,50.470074",
     "geom:latitude":50.470074,
     "geom:longitude":-3.536905,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Union Street",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303615017,
-    "wof:lastmodified":1448998888,
+    "wof:lastmodified":1466280294,
     "wof:name":"Phoenix Mortgage Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-3.536905,50.470074,-3.536905,50.470074],
+  "bbox": [
+    -3.536905,
+    50.470074,
+    -3.536905,
+    50.470074
+],
   "geometry": {"coordinates":[-3.536905,50.470074],"type":"Point"}
 }

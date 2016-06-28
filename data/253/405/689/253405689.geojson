@@ -2,13 +2,14 @@
   "id": 253405689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.191214,55.949825,-3.191214,55.949825",
     "geom:latitude":55.949825,
     "geom:longitude":-3.191214,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"367 High Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253405689,
-    "wof:lastmodified":1449065542,
+    "wof:lastmodified":1466265690,
     "wof:name":"Ness Scotland",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-3.191214,55.949825,-3.191214,55.949825],
+  "bbox": [
+    -3.191214,
+    55.949825,
+    -3.191214,
+    55.949825
+],
   "geometry": {"coordinates":[-3.191214,55.949825],"type":"Point"}
 }

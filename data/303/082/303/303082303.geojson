@@ -2,13 +2,14 @@
   "id": 303082303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.549203,54.966183,-1.549203,54.966183",
     "geom:latitude":54.966183,
     "geom:longitude":-1.549203,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1495 Walker Road",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303082303,
-    "wof:lastmodified":1448998179,
+    "wof:lastmodified":1466265019,
     "wof:name":"Style Tryle",
     "wof:parent_id":85790585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.549203,54.966183,-1.549203,54.966183],
+  "bbox": [
+    -1.549203,
+    54.966183,
+    -1.549203,
+    54.966183
+],
   "geometry": {"coordinates":[-1.549203,54.966183],"type":"Point"}
 }

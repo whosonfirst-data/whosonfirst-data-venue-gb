@@ -2,13 +2,14 @@
   "id": 252984203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.812029,53.288052,-3.812029,53.288052",
     "geom:latitude":53.288052,
     "geom:longitude":-3.812029,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Conway Road",
     "sg:city":"Conwy",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":252984203,
-    "wof:lastmodified":1449006030,
+    "wof:lastmodified":1466262560,
     "wof:name":"J P R Surgeries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dental"
     ]
 },
-  "bbox": [-3.812029,53.288052,-3.812029,53.288052],
+  "bbox": [
+    -3.812029,
+    53.288052,
+    -3.812029,
+    53.288052
+],
   "geometry": {"coordinates":[-3.812029,53.288052],"type":"Point"}
 }

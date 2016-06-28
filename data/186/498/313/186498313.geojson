@@ -2,13 +2,14 @@
   "id": 186498313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.44096,50.777161,-3.44096,50.777161",
     "geom:latitude":50.777161,
     "geom:longitude":-3.44096,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Broadcliff",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186498313,
-    "wof:lastmodified":1449052356,
+    "wof:lastmodified":1466259251,
     "wof:name":"Hay House Nursing Home",
     "wof:parent_id":85789833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-3.44096,50.777161,-3.44096,50.777161],
+  "bbox": [
+    -3.44096,
+    50.777161,
+    -3.44096,
+    50.777161
+],
   "geometry": {"coordinates":[-3.44096,50.777161],"type":"Point"}
 }

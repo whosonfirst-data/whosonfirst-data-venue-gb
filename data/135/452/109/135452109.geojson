@@ -2,13 +2,14 @@
   "id": 135452109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.133123,57.15696,-2.133123,57.15696",
     "geom:latitude":57.15696,
     "geom:longitude":-2.133123,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Cornhill Road",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135452109,
-    "wof:lastmodified":1449021690,
+    "wof:lastmodified":1466268886,
     "wof:name":"The Window Box",
     "wof:parent_id":85791947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.133123,57.15696,-2.133123,57.15696],
+  "bbox": [
+    -2.133123,
+    57.15696,
+    -2.133123,
+    57.15696
+],
   "geometry": {"coordinates":[-2.133123,57.15696],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286957273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.205411,51.50861,-3.205411,51.50861",
     "geom:latitude":51.50861,
     "geom:longitude":-3.205411,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Waun Treoda Road, Whitchurch",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286957273,
-    "wof:lastmodified":1449017674,
+    "wof:lastmodified":1466281329,
     "wof:name":"Billings Builders",
     "wof:parent_id":85790971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-3.205411,51.50861,-3.205411,51.50861],
+  "bbox": [
+    -3.205411,
+    51.50861,
+    -3.205411,
+    51.50861
+],
   "geometry": {"coordinates":[-3.205411,51.50861],"type":"Point"}
 }

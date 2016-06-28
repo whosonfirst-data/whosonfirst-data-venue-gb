@@ -2,13 +2,14 @@
   "id": 320270027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.116645,52.227306,0.116645,52.227306",
     "geom:latitude":52.227306,
     "geom:longitude":0.116645,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Molewood Close",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320270027,
-    "wof:lastmodified":1449011921,
+    "wof:lastmodified":1466276165,
     "wof:name":"Graham Scott",
     "wof:parent_id":85786543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [0.116645,52.227306,0.116645,52.227306],
+  "bbox": [
+    0.116645,
+    52.227306,
+    0.116645,
+    52.227306
+],
   "geometry": {"coordinates":[0.116645,52.227306],"type":"Point"}
 }

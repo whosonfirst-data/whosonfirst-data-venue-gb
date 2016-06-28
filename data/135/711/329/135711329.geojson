@@ -2,13 +2,14 @@
   "id": 135711329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.104808,52.976959,-2.104808,52.976959",
     "geom:latitude":52.976959,
     "geom:longitude":-2.104808,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Sandon Rd",
     "sg:city":"Stoke On Trent",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135711329,
-    "wof:lastmodified":1449023467,
+    "wof:lastmodified":1466286275,
     "wof:name":"Probation Service",
     "wof:parent_id":85861007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.104808,52.976959,-2.104808,52.976959],
+  "bbox": [
+    -2.104808,
+    52.976959,
+    -2.104808,
+    52.976959
+],
   "geometry": {"coordinates":[-2.104808,52.976959],"type":"Point"}
 }

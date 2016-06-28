@@ -2,13 +2,14 @@
   "id": 303655371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.024181,50.735832,-2.024181,50.735832",
     "geom:latitude":50.735832,
     "geom:longitude":-2.024181,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Factory Road",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303655371,
-    "wof:lastmodified":1448999528,
+    "wof:lastmodified":1466280881,
     "wof:name":"Eddie Stobart",
     "wof:parent_id":85861239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [-2.024181,50.735832,-2.024181,50.735832],
+  "bbox": [
+    -2.024181,
+    50.735832,
+    -2.024181,
+    50.735832
+],
   "geometry": {"coordinates":[-2.024181,50.735832],"type":"Point"}
 }

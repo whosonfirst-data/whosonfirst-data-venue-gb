@@ -2,13 +2,14 @@
   "id": 269615069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.751219,53.768398,-2.751219,53.768398",
     "geom:latitude":53.768398,
     "geom:longitude":-2.751219,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Blackpool Road, Ashton On Ribble",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269615069,
-    "wof:lastmodified":1449036902,
+    "wof:lastmodified":1466264058,
     "wof:name":"Edmond Mogey",
     "wof:parent_id":85861045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "chiropodist"
     ]
 },
-  "bbox": [-2.751219,53.768398,-2.751219,53.768398],
+  "bbox": [
+    -2.751219,
+    53.768398,
+    -2.751219,
+    53.768398
+],
   "geometry": {"coordinates":[-2.751219,53.768398],"type":"Point"}
 }

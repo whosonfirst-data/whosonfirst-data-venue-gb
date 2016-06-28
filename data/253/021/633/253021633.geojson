@@ -2,13 +2,14 @@
   "id": 253021633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.786463,55.423229,-2.786463,55.423229",
     "geom:latitude":55.423229,
     "geom:longitude":-2.786463,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49 High St",
     "sg:city":"Hawick",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253021633,
-    "wof:lastmodified":1449064685,
+    "wof:lastmodified":1466257843,
     "wof:name":"Borders Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-2.786463,55.423229,-2.786463,55.423229],
+  "bbox": [
+    -2.786463,
+    55.423229,
+    -2.786463,
+    55.423229
+],
   "geometry": {"coordinates":[-2.786463,55.423229],"type":"Point"}
 }

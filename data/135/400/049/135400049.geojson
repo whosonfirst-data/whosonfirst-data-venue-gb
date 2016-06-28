@@ -2,13 +2,14 @@
   "id": 135400049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.775414,57.506409,-1.775414,57.506409",
     "geom:latitude":57.506409,
     "geom:longitude":-1.775414,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 Seagate",
     "sg:city":"Peterhead",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135400049,
-    "wof:lastmodified":1449021293,
+    "wof:lastmodified":1466262684,
     "wof:name":"James Buchan Ltd.",
     "wof:parent_id":85684253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.775414,57.506409,-1.775414,57.506409],
+  "bbox": [
+    -1.775414,
+    57.506409,
+    -1.775414,
+    57.506409
+],
   "geometry": {"coordinates":[-1.775414,57.506409],"type":"Point"}
 }

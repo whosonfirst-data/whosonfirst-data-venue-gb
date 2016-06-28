@@ -2,13 +2,14 @@
   "id": 303968611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.595721,53.79348,-1.595721,53.79348",
     "geom:latitude":53.79348,
     "geom:longitude":-1.595721,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"264 Tong Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303968611,
-    "wof:lastmodified":1448998274,
+    "wof:lastmodified":1466285121,
     "wof:name":"Simpkin & Young",
     "wof:parent_id":85785343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-1.595721,53.79348,-1.595721,53.79348],
+  "bbox": [
+    -1.595721,
+    53.79348,
+    -1.595721,
+    53.79348
+],
   "geometry": {"coordinates":[-1.595721,53.79348],"type":"Point"}
 }

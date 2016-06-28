@@ -2,13 +2,14 @@
   "id": 303692035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.022583,53.745163,-3.022583,53.745163",
     "geom:latitude":53.745163,
     "geom:longitude":-3.022583,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Alexandria Drive",
     "sg:city":"Lytham St Annes",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303692035,
-    "wof:lastmodified":1448998761,
+    "wof:lastmodified":1466281624,
     "wof:name":"The Victorian Shop",
     "wof:parent_id":85785317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.022583,53.745163,-3.022583,53.745163],
+  "bbox": [
+    -3.022583,
+    53.745163,
+    -3.022583,
+    53.745163
+],
   "geometry": {"coordinates":[-3.022583,53.745163],"type":"Point"}
 }

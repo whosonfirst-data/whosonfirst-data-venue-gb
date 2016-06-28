@@ -2,13 +2,14 @@
   "id": 303473121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.421748,52.252579,-2.421748,52.252579",
     "geom:latitude":52.252579,
     "geom:longitude":-2.421748,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Village",
     "sg:city":"Worcester",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":303473121,
-    "wof:lastmodified":1448998624,
+    "wof:lastmodified":1466277123,
     "wof:name":"The Manor Arms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.421748,52.252579,-2.421748,52.252579],
+  "bbox": [
+    -2.421748,
+    52.252579,
+    -2.421748,
+    52.252579
+],
   "geometry": {"coordinates":[-2.421748,52.252579],"type":"Point"}
 }

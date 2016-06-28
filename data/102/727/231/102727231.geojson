@@ -2,13 +2,14 @@
   "id": 102727231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.132905,50.40004,-4.132905,50.40004",
     "geom:latitude":50.40004,
     "geom:longitude":-4.132905,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Leighton Rd",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102727231,
-    "wof:lastmodified":1449068163,
+    "wof:lastmodified":1466257408,
     "wof:name":"Reader Connection",
     "wof:parent_id":85787989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.132905,50.40004,-4.132905,50.40004],
+  "bbox": [
+    -4.132905,
+    50.40004,
+    -4.132905,
+    50.40004
+],
   "geometry": {"coordinates":[-4.132905,50.40004],"type":"Point"}
 }

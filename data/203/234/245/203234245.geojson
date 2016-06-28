@@ -2,13 +2,14 @@
   "id": 203234245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.542163,53.799038,-1.542163,53.799038",
     "geom:latitude":53.799038,
     "geom:longitude":-1.542163,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45-479the Headrow",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203234245,
-    "wof:lastmodified":1449026770,
+    "wof:lastmodified":1466256642,
     "wof:name":"Burton Menswear Ltd",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "menswear"
     ]
 },
-  "bbox": [-1.542163,53.799038,-1.542163,53.799038],
+  "bbox": [
+    -1.542163,
+    53.799038,
+    -1.542163,
+    53.799038
+],
   "geometry": {"coordinates":[-1.542163,53.799038],"type":"Point"}
 }

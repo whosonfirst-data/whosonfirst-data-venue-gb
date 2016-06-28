@@ -2,13 +2,14 @@
   "id": 102750041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.133483,50.380493,-4.133483,50.380493",
     "geom:latitude":50.380493,
     "geom:longitude":-4.133483,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hyde Park House, Mutley Plain",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102750041,
-    "wof:lastmodified":1449069193,
+    "wof:lastmodified":1466258764,
     "wof:name":"Robins Response",
     "wof:parent_id":85787761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.133483,50.380493,-4.133483,50.380493],
+  "bbox": [
+    -4.133483,
+    50.380493,
+    -4.133483,
+    50.380493
+],
   "geometry": {"coordinates":[-4.133483,50.380493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135649775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.158622,52.983395,-1.158622,52.983395",
     "geom:latitude":52.983395,
     "geom:longitude":-1.158622,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Perry Road, Sherwood",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135649775,
-    "wof:lastmodified":1449023059,
+    "wof:lastmodified":1466284462,
     "wof:name":"Captain Cod",
     "wof:parent_id":85790293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.158622,52.983395,-1.158622,52.983395],
+  "bbox": [
+    -1.158622,
+    52.983395,
+    -1.158622,
+    52.983395
+],
   "geometry": {"coordinates":[-1.158622,52.983395],"type":"Point"}
 }

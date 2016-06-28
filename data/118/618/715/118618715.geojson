@@ -2,13 +2,14 @@
   "id": 118618715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.512583,53.194134,-2.512583,53.194134",
     "geom:latitude":53.194134,
     "geom:longitude":-2.512583,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Wharton Road",
     "sg:city":"Winsford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118618715,
-    "wof:lastmodified":1449054030,
+    "wof:lastmodified":1466259084,
     "wof:name":"Phoenix",
     "wof:parent_id":101871961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.512583,53.194134,-2.512583,53.194134],
+  "bbox": [
+    -2.512583,
+    53.194134,
+    -2.512583,
+    53.194134
+],
   "geometry": {"coordinates":[-2.512583,53.194134],"type":"Point"}
 }

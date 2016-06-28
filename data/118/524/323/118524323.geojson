@@ -2,13 +2,14 @@
   "id": 118524323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.50903,55.684017,-4.50903,55.684017",
     "geom:latitude":55.684017,
     "geom:longitude":-4.50903,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Dean Street, Stewarton",
     "sg:city":"Kilmarnock",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118524323,
-    "wof:lastmodified":1449053130,
+    "wof:lastmodified":1466276949,
     "wof:name":"Millhouse Hotel",
     "wof:parent_id":101873489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.50903,55.684017,-4.50903,55.684017],
+  "bbox": [
+    -4.50903,
+    55.684017,
+    -4.50903,
+    55.684017
+],
   "geometry": {"coordinates":[-4.50903,55.684017],"type":"Point"}
 }

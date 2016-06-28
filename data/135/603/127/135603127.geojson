@@ -2,13 +2,14 @@
   "id": 135603127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.441736,52.691303,-2.441736,52.691303",
     "geom:latitude":52.691303,
     "geom:longitude":-2.441736,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Eaton Crescent, St Georges",
     "sg:city":"Telford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135603127,
-    "wof:lastmodified":1449023549,
+    "wof:lastmodified":1466282722,
     "wof:name":"G M Taxis",
     "wof:parent_id":101751611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.441736,52.691303,-2.441736,52.691303],
+  "bbox": [
+    -2.441736,
+    52.691303,
+    -2.441736,
+    52.691303
+],
   "geometry": {"coordinates":[-2.441736,52.691303],"type":"Point"}
 }

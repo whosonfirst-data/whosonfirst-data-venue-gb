@@ -2,13 +2,14 @@
   "id": 336919031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.245848,55.857536,-4.245848,55.857536",
     "geom:latitude":55.857536,
     "geom:longitude":-4.245848,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Candleriggs",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336919031,
-    "wof:lastmodified":1448997760,
+    "wof:lastmodified":1466280565,
     "wof:name":"The Clark Pub Co. Ltd.",
     "wof:parent_id":85861551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-4.245848,55.857536,-4.245848,55.857536],
+  "bbox": [
+    -4.245848,
+    55.857536,
+    -4.245848,
+    55.857536
+],
   "geometry": {"coordinates":[-4.245848,55.857536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202904507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.216558,52.988262,-1.216558,52.988262",
     "geom:latitude":52.988262,
     "geom:longitude":-1.216558,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Nottingham Rd, Nuthall",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":202904507,
-    "wof:lastmodified":1449062727,
+    "wof:lastmodified":1466260814,
     "wof:name":"Milestone Tours",
     "wof:parent_id":85861887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.216558,52.988262,-1.216558,52.988262],
+  "bbox": [
+    -1.216558,
+    52.988262,
+    -1.216558,
+    52.988262
+],
   "geometry": {"coordinates":[-1.216558,52.988262],"type":"Point"}
 }

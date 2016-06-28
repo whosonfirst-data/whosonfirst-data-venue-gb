@@ -2,13 +2,14 @@
   "id": 303393851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.04279,53.821491,-3.04279,53.821491",
     "geom:latitude":53.821491,
     "geom:longitude":-3.04279,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Gorton St",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303393851,
-    "wof:lastmodified":1448998884,
+    "wof:lastmodified":1466274694,
     "wof:name":"T L S Vehicle Rental",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "van"
     ]
 },
-  "bbox": [-3.04279,53.821491,-3.04279,53.821491],
+  "bbox": [
+    -3.04279,
+    53.821491,
+    -3.04279,
+    53.821491
+],
   "geometry": {"coordinates":[-3.04279,53.821491],"type":"Point"}
 }

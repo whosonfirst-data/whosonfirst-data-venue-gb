@@ -2,13 +2,14 @@
   "id": 304056049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.213954,53.005402,-1.213954,53.005402",
     "geom:latitude":53.005402,
     "geom:longitude":-1.213954,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Snape Wood Rd",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":304056049,
-    "wof:lastmodified":1449043720,
+    "wof:lastmodified":1466265944,
     "wof:name":"St.John's Family Centre",
     "wof:parent_id":85786111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "centre"
     ]
 },
-  "bbox": [-1.213954,53.005402,-1.213954,53.005402],
+  "bbox": [
+    -1.213954,
+    53.005402,
+    -1.213954,
+    53.005402
+],
   "geometry": {"coordinates":[-1.213954,53.005402],"type":"Point"}
 }

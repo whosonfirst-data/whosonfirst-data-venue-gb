@@ -2,13 +2,14 @@
   "id": 135283521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.23682,55.85437,-4.23682,55.85437",
     "geom:latitude":55.85437,
     "geom:longitude":-4.23682,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 14, 54 Calton Entry",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135283521,
-    "wof:lastmodified":1449021905,
+    "wof:lastmodified":1466275886,
     "wof:name":"Barrows Enterprise Trust Ltd.",
     "wof:parent_id":85861551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.23682,55.85437,-4.23682,55.85437],
+  "bbox": [
+    -4.23682,
+    55.85437,
+    -4.23682,
+    55.85437
+],
   "geometry": {"coordinates":[-4.23682,55.85437],"type":"Point"}
 }

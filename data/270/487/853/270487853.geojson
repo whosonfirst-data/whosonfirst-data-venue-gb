@@ -2,13 +2,14 @@
   "id": 270487853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.500277,52.515591,-1.500277,52.515591",
     "geom:latitude":52.515591,
     "geom:longitude":-1.500277,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Arbury Road",
     "sg:city":"Nuneaton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270487853,
-    "wof:lastmodified":1449009430,
+    "wof:lastmodified":1466274977,
     "wof:name":"C Jarvis",
     "wof:parent_id":85790749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [-1.500277,52.515591,-1.500277,52.515591],
+  "bbox": [
+    -1.500277,
+    52.515591,
+    -1.500277,
+    52.515591
+],
   "geometry": {"coordinates":[-1.500277,52.515591],"type":"Point"}
 }

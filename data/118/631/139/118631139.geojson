@@ -2,13 +2,14 @@
   "id": 118631139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.046619,51.440895,-1.046619,51.440895",
     "geom:latitude":51.440895,
     "geom:longitude":-1.046619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Red Cottage Drive",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":118631139,
-    "wof:lastmodified":1449053580,
+    "wof:lastmodified":1466260011,
     "wof:name":"Mark Strudley",
     "wof:parent_id":85786147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.046619,51.440895,-1.046619,51.440895],
+  "bbox": [
+    -1.046619,
+    51.440895,
+    -1.046619,
+    51.440895
+],
   "geometry": {"coordinates":[-1.046619,51.440895],"type":"Point"}
 }

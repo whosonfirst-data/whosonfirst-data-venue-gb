@@ -2,13 +2,14 @@
   "id": 303961153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.47241,51.455101,-2.47241,51.455101",
     "geom:latitude":51.455101,
     "geom:longitude":-2.47241,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unigate Distrib Depot, St Ivel Way, Warmley",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303961153,
-    "wof:lastmodified":1449000518,
+    "wof:lastmodified":1466285126,
     "wof:name":"Bowyers Ltd",
     "wof:parent_id":85791351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "frozen"
     ]
 },
-  "bbox": [-2.47241,51.455101,-2.47241,51.455101],
+  "bbox": [
+    -2.47241,
+    51.455101,
+    -2.47241,
+    51.455101
+],
   "geometry": {"coordinates":[-2.47241,51.455101],"type":"Point"}
 }

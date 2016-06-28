@@ -2,13 +2,14 @@
   "id": 186011233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.777012,52.501785,-1.777012,52.501785",
     "geom:latitude":52.501785,
     "geom:longitude":-1.777012,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"266 Bradford Road, Castle Bromwich",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186011233,
-    "wof:lastmodified":1449052522,
+    "wof:lastmodified":1466267780,
     "wof:name":"Bill S Bhagrath",
     "wof:parent_id":85786309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.777012,52.501785,-1.777012,52.501785],
+  "bbox": [
+    -1.777012,
+    52.501785,
+    -1.777012,
+    52.501785
+],
   "geometry": {"coordinates":[-1.777012,52.501785],"type":"Point"}
 }

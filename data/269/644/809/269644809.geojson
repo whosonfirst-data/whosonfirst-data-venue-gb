@@ -2,13 +2,14 @@
   "id": 269644809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.497239,53.318581,-3.497239,53.318581",
     "geom:latitude":53.318581,
     "geom:longitude":-3.497239,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Aquarium Street",
     "sg:city":"Rhyl",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269644809,
-    "wof:lastmodified":1449037507,
+    "wof:lastmodified":1466264965,
     "wof:name":"Harrison's News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-3.497239,53.318581,-3.497239,53.318581],
+  "bbox": [
+    -3.497239,
+    53.318581,
+    -3.497239,
+    53.318581
+],
   "geometry": {"coordinates":[-3.497239,53.318581],"type":"Point"}
 }

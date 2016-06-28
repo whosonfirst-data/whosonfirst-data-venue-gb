@@ -2,13 +2,14 @@
   "id": 253268111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.287075,51.81493,-1.287075,51.81493",
     "geom:latitude":51.81493,
     "geom:longitude":-1.287075,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Spruce Rd",
     "sg:city":"Kidlington",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253268111,
-    "wof:lastmodified":1449064508,
+    "wof:lastmodified":1466262587,
     "wof:name":"Pegasus Communications",
     "wof:parent_id":85790825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-1.287075,51.81493,-1.287075,51.81493],
+  "bbox": [
+    -1.287075,
+    51.81493,
+    -1.287075,
+    51.81493
+],
   "geometry": {"coordinates":[-1.287075,51.81493],"type":"Point"}
 }

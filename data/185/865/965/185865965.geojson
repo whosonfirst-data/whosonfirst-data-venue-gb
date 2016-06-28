@@ -2,13 +2,14 @@
   "id": 185865965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.028338,53.751743,-3.028338,53.751743",
     "geom:latitude":53.751743,
     "geom:longitude":-3.028338,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Wood St",
     "sg:city":"Lytham St. Annes",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185865965,
-    "wof:lastmodified":1449007828,
+    "wof:lastmodified":1466255475,
     "wof:name":"Queens Cafe",
     "wof:parent_id":85785317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "room"
     ]
 },
-  "bbox": [-3.028338,53.751743,-3.028338,53.751743],
+  "bbox": [
+    -3.028338,
+    53.751743,
+    -3.028338,
+    53.751743
+],
   "geometry": {"coordinates":[-3.028338,53.751743],"type":"Point"}
 }

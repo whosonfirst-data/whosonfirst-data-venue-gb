@@ -2,13 +2,14 @@
   "id": 119485219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.902179,52.581863,-1.902179,52.581863",
     "geom:latitude":52.581863,
     "geom:longitude":-1.902179,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Foley Road West",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119485219,
-    "wof:lastmodified":1449042478,
+    "wof:lastmodified":1466286831,
     "wof:name":"K M Smith",
     "wof:parent_id":85684155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.902179,52.581863,-1.902179,52.581863],
+  "bbox": [
+    -1.902179,
+    52.581863,
+    -1.902179,
+    52.581863
+],
   "geometry": {"coordinates":[-1.902179,52.581863],"type":"Point"}
 }

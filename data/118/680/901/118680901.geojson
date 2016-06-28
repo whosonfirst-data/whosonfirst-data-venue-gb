@@ -2,13 +2,14 @@
   "id": 118680901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.642379,54.977795,-1.642379,54.977795",
     "geom:latitude":54.977795,
     "geom:longitude":-1.642379,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14a-16 Fenham Road",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118680901,
-    "wof:lastmodified":1449054127,
+    "wof:lastmodified":1466263885,
     "wof:name":"Fenham Road Post Office",
     "wof:parent_id":85785351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.642379,54.977795,-1.642379,54.977795],
+  "bbox": [
+    -1.642379,
+    54.977795,
+    -1.642379,
+    54.977795
+],
   "geometry": {"coordinates":[-1.642379,54.977795],"type":"Point"}
 }

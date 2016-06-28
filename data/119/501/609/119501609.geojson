@@ -2,13 +2,14 @@
   "id": 119501609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.530061,52.415192,-1.530061,52.415192",
     "geom:latitude":52.415192,
     "geom:longitude":-1.530061,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Moseley Avenue",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119501609,
-    "wof:lastmodified":1449043556,
+    "wof:lastmodified":1466287102,
     "wof:name":"M Ward",
     "wof:parent_id":85790551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.530061,52.415192,-1.530061,52.415192],
+  "bbox": [
+    -1.530061,
+    52.415192,
+    -1.530061,
+    52.415192
+],
   "geometry": {"coordinates":[-1.530061,52.415192],"type":"Point"}
 }

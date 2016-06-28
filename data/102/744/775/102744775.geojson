@@ -2,13 +2,14 @@
   "id": 102744775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.119139,57.496506,-4.119139,57.496506",
     "geom:latitude":57.496506,
     "geom:longitude":-4.119139,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Culloden Rd",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102744775,
-    "wof:lastmodified":1449068652,
+    "wof:lastmodified":1466258411,
     "wof:name":"Duncan Masson & Robertson",
     "wof:parent_id":85683747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.119139,57.496506,-4.119139,57.496506],
+  "bbox": [
+    -4.119139,
+    57.496506,
+    -4.119139,
+    57.496506
+],
   "geometry": {"coordinates":[-4.119139,57.496506],"type":"Point"}
 }

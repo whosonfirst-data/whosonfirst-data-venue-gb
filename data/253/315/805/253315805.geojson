@@ -2,13 +2,14 @@
   "id": 253315805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.566008,52.398659,-1.566008,52.398659",
     "geom:latitude":52.398659,
     "geom:longitude":-1.566008,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 10, 219 Torrington Avenue",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253315805,
-    "wof:lastmodified":1449065645,
+    "wof:lastmodified":1466263583,
     "wof:name":"Projig",
     "wof:parent_id":85786225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.566008,52.398659,-1.566008,52.398659],
+  "bbox": [
+    -1.566008,
+    52.398659,
+    -1.566008,
+    52.398659
+],
   "geometry": {"coordinates":[-1.566008,52.398659],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135387565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.207613,52.768349,-1.207613,52.768349",
     "geom:latitude":52.768349,
     "geom:longitude":-1.207613,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Bedford Square",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135387565,
-    "wof:lastmodified":1449023607,
+    "wof:lastmodified":1466261201,
     "wof:name":"Mr Smith Dry Cleaners",
     "wof:parent_id":101750487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.207613,52.768349,-1.207613,52.768349],
+  "bbox": [
+    -1.207613,
+    52.768349,
+    -1.207613,
+    52.768349
+],
   "geometry": {"coordinates":[-1.207613,52.768349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135510675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.674201,53.743675,-2.674201,53.743675",
     "geom:latitude":53.743675,
     "geom:longitude":-2.674201,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Hennel Lane, Walton-le-dale",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135510675,
-    "wof:lastmodified":1449022845,
+    "wof:lastmodified":1466275735,
     "wof:name":"Wallis Cycles",
     "wof:parent_id":85793249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.674201,53.743675,-2.674201,53.743675],
+  "bbox": [
+    -2.674201,
+    53.743675,
+    -2.674201,
+    53.743675
+],
   "geometry": {"coordinates":[-2.674201,53.743675],"type":"Point"}
 }

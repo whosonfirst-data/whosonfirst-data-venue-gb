@@ -2,13 +2,14 @@
   "id": 286293661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.823343,51.569965,-1.823343,51.569965",
     "geom:latitude":51.569965,
     "geom:longitude":-1.823343,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 Rivergate, Rivermead Industrial Estate",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":286293661,
-    "wof:lastmodified":1449015744,
+    "wof:lastmodified":1466263328,
     "wof:name":"Kamco Design",
     "wof:parent_id":85790015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "maker"
     ]
 },
-  "bbox": [-1.823343,51.569965,-1.823343,51.569965],
+  "bbox": [
+    -1.823343,
+    51.569965,
+    -1.823343,
+    51.569965
+],
   "geometry": {"coordinates":[-1.823343,51.569965],"type":"Point"}
 }

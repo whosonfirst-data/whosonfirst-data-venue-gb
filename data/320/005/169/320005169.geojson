@@ -2,13 +2,14 @@
   "id": 320005169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.873233,52.433037,-1.873233,52.433037",
     "geom:latitude":52.433037,
     "geom:longitude":-1.873233,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Coldbath Road, Kings Heath",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320005169,
-    "wof:lastmodified":1449014662,
+    "wof:lastmodified":1466268255,
     "wof:name":"Man-With-Van",
     "wof:parent_id":85792017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "van"
     ]
 },
-  "bbox": [-1.873233,52.433037,-1.873233,52.433037],
+  "bbox": [
+    -1.873233,
+    52.433037,
+    -1.873233,
+    52.433037
+],
   "geometry": {"coordinates":[-1.873233,52.433037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135642795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.74593,54.8638,-1.74593,54.8638",
     "geom:latitude":54.8638,
     "geom:longitude":-1.74593,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 North Rd",
     "sg:city":"Stanley",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135642795,
-    "wof:lastmodified":1449021168,
+    "wof:lastmodified":1466284307,
     "wof:name":"WBM",
     "wof:parent_id":101873355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.74593,54.8638,-1.74593,54.8638],
+  "bbox": [
+    -1.74593,
+    54.8638,
+    -1.74593,
+    54.8638
+],
   "geometry": {"coordinates":[-1.74593,54.8638],"type":"Point"}
 }

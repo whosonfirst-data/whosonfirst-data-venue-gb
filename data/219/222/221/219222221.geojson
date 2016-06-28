@@ -2,13 +2,14 @@
   "id": 219222221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.429146,52.07238,-1.429146,52.07238",
     "geom:latitude":52.07238,
     "geom:longitude":-1.429146,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Balscote Mill, Balscote",
     "sg:city":"Banbury",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219222221,
-    "wof:lastmodified":1449072749,
+    "wof:lastmodified":1466253954,
     "wof:name":"Sensor Technology Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electronic"
     ]
 },
-  "bbox": [-1.429146,52.07238,-1.429146,52.07238],
+  "bbox": [
+    -1.429146,
+    52.07238,
+    -1.429146,
+    52.07238
+],
   "geometry": {"coordinates":[-1.429146,52.07238],"type":"Point"}
 }

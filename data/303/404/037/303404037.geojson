@@ -2,13 +2,14 @@
   "id": 303404037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.299514,51.514069,-0.299514,51.514069",
     "geom:latitude":51.514069,
     "geom:longitude":-0.299514,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 The Mall, Ealing Bdwy",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303404037,
-    "wof:lastmodified":1448999743,
+    "wof:lastmodified":1466275013,
     "wof:name":"Vinod Khannar",
     "wof:parent_id":85860781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "night"
     ]
 },
-  "bbox": [-0.299514,51.514069,-0.299514,51.514069],
+  "bbox": [
+    -0.299514,
+    51.514069,
+    -0.299514,
+    51.514069
+],
   "geometry": {"coordinates":[-0.299514,51.514069],"type":"Point"}
 }

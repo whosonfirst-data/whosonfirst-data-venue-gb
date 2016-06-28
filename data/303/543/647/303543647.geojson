@@ -2,13 +2,14 @@
   "id": 303543647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.476907,53.363777,-1.476907,53.363777",
     "geom:latitude":53.363777,
     "geom:longitude":-1.476907,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Abbeydale Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303543647,
-    "wof:lastmodified":1448998592,
+    "wof:lastmodified":1466279116,
     "wof:name":"City Pine Centre",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.476907,53.363777,-1.476907,53.363777],
+  "bbox": [
+    -1.476907,
+    53.363777,
+    -1.476907,
+    53.363777
+],
   "geometry": {"coordinates":[-1.476907,53.363777],"type":"Point"}
 }

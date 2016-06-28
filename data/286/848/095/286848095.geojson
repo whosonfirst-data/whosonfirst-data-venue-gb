@@ -2,13 +2,14 @@
   "id": 286848095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.544111,53.831261,-1.544111,53.831261",
     "geom:latitude":53.831261,
     "geom:longitude":-1.544111,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Wensley Drive",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":286848095,
-    "wof:lastmodified":1449015582,
+    "wof:lastmodified":1466279396,
     "wof:name":"Berridge Bowmaker",
     "wof:parent_id":85786417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.544111,53.831261,-1.544111,53.831261],
+  "bbox": [
+    -1.544111,
+    53.831261,
+    -1.544111,
+    53.831261
+],
   "geometry": {"coordinates":[-1.544111,53.831261],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169712787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.692399,52.656651,-1.692399,52.656651",
     "geom:latitude":52.656651,
     "geom:longitude":-1.692399,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Leonards Vicarage, Wigginton",
     "sg:city":"Tamworth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169712787,
-    "wof:lastmodified":1449034088,
+    "wof:lastmodified":1466253283,
     "wof:name":"ST LEONARDS C OF E CHURCH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.692399,52.656651,-1.692399,52.656651],
+  "bbox": [
+    -1.692399,
+    52.656651,
+    -1.692399,
+    52.656651
+],
   "geometry": {"coordinates":[-1.692399,52.656651],"type":"Point"}
 }

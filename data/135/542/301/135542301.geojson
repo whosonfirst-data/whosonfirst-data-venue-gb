@@ -2,13 +2,14 @@
   "id": 135542301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.401306,54.907948,-1.401306,54.907948",
     "geom:latitude":54.907948,
     "geom:longitude":-1.401306,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20runswick Close",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135542301,
-    "wof:lastmodified":1449023351,
+    "wof:lastmodified":1466279128,
     "wof:name":"Toucan Driver Training",
     "wof:parent_id":85793169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.401306,54.907948,-1.401306,54.907948],
+  "bbox": [
+    -1.401306,
+    54.907948,
+    -1.401306,
+    54.907948
+],
   "geometry": {"coordinates":[-1.401306,54.907948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135596495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.367234,54.939789,-1.367234,54.939789",
     "geom:latitude":54.939789,
     "geom:longitude":-1.367234,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3-5 Whitburn Bents Road",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135596495,
-    "wof:lastmodified":1449022564,
+    "wof:lastmodified":1466282402,
     "wof:name":"Paradise Garden",
     "wof:parent_id":85793177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.367234,54.939789,-1.367234,54.939789],
+  "bbox": [
+    -1.367234,
+    54.939789,
+    -1.367234,
+    54.939789
+],
   "geometry": {"coordinates":[-1.367234,54.939789],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303596131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.74362,54.995529,-1.74362,54.995529",
     "geom:latitude":54.995529,
     "geom:longitude":-1.74362,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hexham Rd",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303596131,
-    "wof:lastmodified":1448999373,
+    "wof:lastmodified":1466280003,
     "wof:name":"Feversham School",
     "wof:parent_id":85861861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "preparatory"
     ]
 },
-  "bbox": [-1.74362,54.995529,-1.74362,54.995529],
+  "bbox": [
+    -1.74362,
+    54.995529,
+    -1.74362,
+    54.995529
+],
   "geometry": {"coordinates":[-1.74362,54.995529],"type":"Point"}
 }

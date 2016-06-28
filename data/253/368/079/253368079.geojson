@@ -2,13 +2,14 @@
   "id": 253368079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.130622,51.509384,-3.130622,51.509384",
     "geom:latitude":51.509384,
     "geom:longitude":-3.130622,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"822 Newport Road, Rumney",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253368079,
-    "wof:lastmodified":1449063493,
+    "wof:lastmodified":1466264733,
     "wof:name":"les Jones",
     "wof:parent_id":85788831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-3.130622,51.509384,-3.130622,51.509384],
+  "bbox": [
+    -3.130622,
+    51.509384,
+    -3.130622,
+    51.509384
+],
   "geometry": {"coordinates":[-3.130622,51.509384],"type":"Point"}
 }

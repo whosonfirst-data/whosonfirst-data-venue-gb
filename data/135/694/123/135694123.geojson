@@ -2,13 +2,14 @@
   "id": 135694123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.314073,55.768848,-4.314073,55.768848",
     "geom:latitude":55.768848,
     "geom:longitude":-4.314073,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26e Castleton Court, Castleton Drive, Newton Mearns",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135694123,
-    "wof:lastmodified":1449021863,
+    "wof:lastmodified":1466285838,
     "wof:name":"Personal Market Research",
     "wof:parent_id":85792515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.314073,55.768848,-4.314073,55.768848],
+  "bbox": [
+    -4.314073,
+    55.768848,
+    -4.314073,
+    55.768848
+],
   "geometry": {"coordinates":[-4.314073,55.768848],"type":"Point"}
 }

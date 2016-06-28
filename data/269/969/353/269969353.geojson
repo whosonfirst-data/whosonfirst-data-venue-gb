@@ -2,13 +2,14 @@
   "id": 269969353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.0573,51.59251,-0.0573,51.59251",
     "geom:latitude":51.59251,
     "geom:longitude":-0.0573,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Mill Mead Industrial Centre, Mill Mead Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269969353,
-    "wof:lastmodified":1449036719,
+    "wof:lastmodified":1466274831,
     "wof:name":"Active Acustics",
     "wof:parent_id":85860365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "address"
     ]
 },
-  "bbox": [-0.0573,51.59251,-0.0573,51.59251],
+  "bbox": [
+    -0.0573,
+    51.59251,
+    -0.0573,
+    51.59251
+],
   "geometry": {"coordinates":[-0.0573,51.59251],"type":"Point"}
 }

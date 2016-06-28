@@ -2,13 +2,14 @@
   "id": 135524291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.713179,53.790054,-2.713179,53.790054",
     "geom:latitude":53.790054,
     "geom:longitude":-2.713179,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 The Pennines, Fulwood",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135524291,
-    "wof:lastmodified":1449020952,
+    "wof:lastmodified":1466277355,
     "wof:name":"Pennine Planning",
     "wof:parent_id":85861049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.713179,53.790054,-2.713179,53.790054],
+  "bbox": [
+    -2.713179,
+    53.790054,
+    -2.713179,
+    53.790054
+],
   "geometry": {"coordinates":[-2.713179,53.790054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119057483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.348143,53.379211,-2.348143,53.379211",
     "geom:latitude":53.379211,
     "geom:longitude":-2.348143,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Bath St",
     "sg:city":"Altrincham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119057483,
-    "wof:lastmodified":1449042152,
+    "wof:lastmodified":1466254058,
     "wof:name":"Station Garage",
     "wof:parent_id":85791535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.348143,53.379211,-2.348143,53.379211],
+  "bbox": [
+    -2.348143,
+    53.379211,
+    -2.348143,
+    53.379211
+],
   "geometry": {"coordinates":[-2.348143,53.379211],"type":"Point"}
 }

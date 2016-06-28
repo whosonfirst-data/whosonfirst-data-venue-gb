@@ -2,13 +2,14 @@
   "id": 269958583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.15439,51.463909,-3.15439,51.463909",
     "geom:latitude":51.463909,
     "geom:longitude":-3.15439,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Roath Entrance, Cardiff Docks",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269958583,
-    "wof:lastmodified":1449038300,
+    "wof:lastmodified":1466274467,
     "wof:name":"Cardiff Yacht Club",
     "wof:parent_id":85787045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-3.15439,51.463909,-3.15439,51.463909],
+  "bbox": [
+    -3.15439,
+    51.463909,
+    -3.15439,
+    51.463909
+],
   "geometry": {"coordinates":[-3.15439,51.463909],"type":"Point"}
 }

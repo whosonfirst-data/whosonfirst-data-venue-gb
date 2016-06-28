@@ -2,13 +2,14 @@
   "id": 270127015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.892874,53.19331,-2.892874,53.19331",
     "geom:latitude":53.19331,
     "geom:longitude":-2.892874,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Northgate Street",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270127015,
-    "wof:lastmodified":1449010895,
+    "wof:lastmodified":1466264289,
     "wof:name":"The Cheese Shop",
     "wof:parent_id":85787891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-2.892874,53.19331,-2.892874,53.19331],
+  "bbox": [
+    -2.892874,
+    53.19331,
+    -2.892874,
+    53.19331
+],
   "geometry": {"coordinates":[-2.892874,53.19331],"type":"Point"}
 }

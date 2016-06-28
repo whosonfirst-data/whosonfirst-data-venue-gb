@@ -2,13 +2,14 @@
   "id": 136146779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.149008,53.626369,-2.149008,53.626369",
     "geom:latitude":53.626369,
     "geom:longitude":-2.149008,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Foxholes Close",
     "sg:city":"Rochdale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136146779,
-    "wof:lastmodified":1449075468,
+    "wof:lastmodified":1466258104,
     "wof:name":"Direct Response",
     "wof:parent_id":85793077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.149008,53.626369,-2.149008,53.626369],
+  "bbox": [
+    -2.149008,
+    53.626369,
+    -2.149008,
+    53.626369
+],
   "geometry": {"coordinates":[-2.149008,53.626369],"type":"Point"}
 }

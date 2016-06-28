@@ -2,13 +2,14 @@
   "id": 135608745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.518887,53.758118,-1.518887,53.758118",
     "geom:latitude":53.758118,
     "geom:longitude":-1.518887,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 South Hill Gardens, Stourton Grange",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135608745,
-    "wof:lastmodified":1449022297,
+    "wof:lastmodified":1466283131,
     "wof:name":"Paul the Plumber",
     "wof:parent_id":85785599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.518887,53.758118,-1.518887,53.758118],
+  "bbox": [
+    -1.518887,
+    53.758118,
+    -1.518887,
+    53.758118
+],
   "geometry": {"coordinates":[-1.518887,53.758118],"type":"Point"}
 }

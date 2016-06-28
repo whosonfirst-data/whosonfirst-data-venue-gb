@@ -2,13 +2,14 @@
   "id": 119300187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.14472,55.969398,-3.14472,55.969398",
     "geom:latitude":55.969398,
     "geom:longitude":-3.14472,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Seagrove Centre, 5 Seafield Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119300187,
-    "wof:lastmodified":1449042365,
+    "wof:lastmodified":1466279595,
     "wof:name":"North Edinburgh Dementia Care",
     "wof:parent_id":85790219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.14472,55.969398,-3.14472,55.969398],
+  "bbox": [
+    -3.14472,
+    55.969398,
+    -3.14472,
+    55.969398
+],
   "geometry": {"coordinates":[-3.14472,55.969398],"type":"Point"}
 }

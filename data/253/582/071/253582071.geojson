@@ -2,13 +2,14 @@
   "id": 253582071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.14205,53.545429,-2.14205,53.545429",
     "geom:latitude":53.545429,
     "geom:longitude":-2.14205,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Chadderton Town Health Centre, Middleton Road, Chadderton",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253582071,
-    "wof:lastmodified":1449064422,
+    "wof:lastmodified":1466270528,
     "wof:name":"Chadderton Town Health Centre",
     "wof:parent_id":85793083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "practitioners"
     ]
 },
-  "bbox": [-2.14205,53.545429,-2.14205,53.545429],
+  "bbox": [
+    -2.14205,
+    53.545429,
+    -2.14205,
+    53.545429
+],
   "geometry": {"coordinates":[-2.14205,53.545429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303968443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.724503,53.858498,-1.724503,53.858498",
     "geom:latitude":53.858498,
     "geom:longitude":-1.724503,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Main St, Esholt",
     "sg:city":"Shipley",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303968443,
-    "wof:lastmodified":1448998274,
+    "wof:lastmodified":1466284980,
     "wof:name":"Esholt PO",
     "wof:parent_id":85790941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.724503,53.858498,-1.724503,53.858498],
+  "bbox": [
+    -1.724503,
+    53.858498,
+    -1.724503,
+    53.858498
+],
   "geometry": {"coordinates":[-1.724503,53.858498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102701443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.242331,53.482944,-2.242331,53.482944",
     "geom:latitude":53.482944,
     "geom:longitude":-2.242331,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Market Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102701443,
-    "wof:lastmodified":1449069683,
+    "wof:lastmodified":1466256450,
     "wof:name":"Foto Processing",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.242331,53.482944,-2.242331,53.482944],
+  "bbox": [
+    -2.242331,
+    53.482944,
+    -2.242331,
+    53.482944
+],
   "geometry": {"coordinates":[-2.242331,53.482944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119183763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.889001,56.648251,-2.889001,56.648251",
     "geom:latitude":56.648251,
     "geom:longitude":-2.889001,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Orchardbank, Newford Park Industrial Estate",
     "sg:city":"Forfar",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119183763,
-    "wof:lastmodified":1449042281,
+    "wof:lastmodified":1466267335,
     "wof:name":"Orchardbank Car Centre",
     "wof:parent_id":101872627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.889001,56.648251,-2.889001,56.648251],
+  "bbox": [
+    -2.889001,
+    56.648251,
+    -2.889001,
+    56.648251
+],
   "geometry": {"coordinates":[-2.889001,56.648251],"type":"Point"}
 }

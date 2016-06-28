@@ -2,13 +2,14 @@
   "id": 303339371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.297027,54.558308,-1.297027,54.558308",
     "geom:latitude":54.558308,
     "geom:longitude":-1.297027,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22b Wilson Street, Bonlea Trading Estate",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303339371,
-    "wof:lastmodified":1448999211,
+    "wof:lastmodified":1466273014,
     "wof:name":"Rebmit Timber",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "timber"
     ]
 },
-  "bbox": [-1.297027,54.558308,-1.297027,54.558308],
+  "bbox": [
+    -1.297027,
+    54.558308,
+    -1.297027,
+    54.558308
+],
   "geometry": {"coordinates":[-1.297027,54.558308],"type":"Point"}
 }

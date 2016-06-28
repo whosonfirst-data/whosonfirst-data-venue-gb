@@ -2,13 +2,14 @@
   "id": 135442451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.343878,56.111179,-3.343878,56.111179",
     "geom:latitude":56.111179,
     "geom:longitude":-3.343878,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"170 High Street",
     "sg:city":"Cowdenbeath",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":135442451,
-    "wof:lastmodified":1449022340,
+    "wof:lastmodified":1466267727,
     "wof:name":"Youth Enquiry Service",
     "wof:parent_id":101874199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.343878,56.111179,-3.343878,56.111179],
+  "bbox": [
+    -3.343878,
+    56.111179,
+    -3.343878,
+    56.111179
+],
   "geometry": {"coordinates":[-3.343878,56.111179],"type":"Point"}
 }

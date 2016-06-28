@@ -2,13 +2,14 @@
   "id": 119293095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.171439,55.819679,-4.171439,55.819679",
     "geom:latitude":55.819679,
     "geom:longitude":-4.171439,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Main Street, Cambuslang",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119293095,
-    "wof:lastmodified":1449041339,
+    "wof:lastmodified":1466279007,
     "wof:name":"The Black Bull",
     "wof:parent_id":85786177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.171439,55.819679,-4.171439,55.819679],
+  "bbox": [
+    -4.171439,
+    55.819679,
+    -4.171439,
+    55.819679
+],
   "geometry": {"coordinates":[-4.171439,55.819679],"type":"Point"}
 }

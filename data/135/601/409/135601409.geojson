@@ -2,13 +2,14 @@
   "id": 135601409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.156649,53.05703,-2.156649,53.05703",
     "geom:latitude":53.05703,
     "geom:longitude":-2.156649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Norton Lane",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135601409,
-    "wof:lastmodified":1449022365,
+    "wof:lastmodified":1466282639,
     "wof:name":"Thomas R Rutter",
     "wof:parent_id":85789515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.156649,53.05703,-2.156649,53.05703],
+  "bbox": [
+    -2.156649,
+    53.05703,
+    -2.156649,
+    53.05703
+],
   "geometry": {"coordinates":[-2.156649,53.05703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202528273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.254389,55.862099,-4.254389,55.862099",
     "geom:latitude":55.862099,
     "geom:longitude":-4.254389,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31-35 Nelson Mandela Pl",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":202528273,
-    "wof:lastmodified":1449060804,
+    "wof:lastmodified":1466254568,
     "wof:name":"Edinburgh Woollen Mill Ltd (The)",
     "wof:parent_id":85792621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-4.254389,55.862099,-4.254389,55.862099],
+  "bbox": [
+    -4.254389,
+    55.862099,
+    -4.254389,
+    55.862099
+],
   "geometry": {"coordinates":[-4.254389,55.862099],"type":"Point"}
 }

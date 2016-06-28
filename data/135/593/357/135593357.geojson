@@ -2,13 +2,14 @@
   "id": 135593357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.222227,52.771214,-1.222227,52.771214",
     "geom:latitude":52.771214,
     "geom:longitude":-1.222227,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Ashby Road, Loughborough",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135593357,
-    "wof:lastmodified":1449023010,
+    "wof:lastmodified":1466282327,
     "wof:name":"Registration of Births Deaths & Marriages",
     "wof:parent_id":101750487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.222227,52.771214,-1.222227,52.771214],
+  "bbox": [
+    -1.222227,
+    52.771214,
+    -1.222227,
+    52.771214
+],
   "geometry": {"coordinates":[-1.222227,52.771214],"type":"Point"}
 }

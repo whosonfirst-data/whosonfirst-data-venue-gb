@@ -2,13 +2,14 @@
   "id": 303671163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.077275,51.080509,1.077275,51.080509",
     "geom:latitude":51.080509,
     "geom:longitude":1.077275,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Green, Saltwood",
     "sg:city":"Hythe",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303671163,
-    "wof:lastmodified":1448998675,
+    "wof:lastmodified":1466281362,
     "wof:name":"The Castle Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.077275,51.080509,1.077275,51.080509],
+  "bbox": [
+    1.077275,
+    51.080509,
+    1.077275,
+    51.080509
+],
   "geometry": {"coordinates":[1.077275,51.080509],"type":"Point"}
 }

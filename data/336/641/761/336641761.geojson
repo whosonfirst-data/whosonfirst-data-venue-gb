@@ -2,13 +2,14 @@
   "id": 336641761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.39385,55.989578,-3.39385,55.989578",
     "geom:latitude":55.989578,
     "geom:longitude":-3.39385,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49-50 High Street",
     "sg:city":"South Queensferry",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":336641761,
-    "wof:lastmodified":1448997768,
+    "wof:lastmodified":1466274001,
     "wof:name":"Annabels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-3.39385,55.989578,-3.39385,55.989578],
+  "bbox": [
+    -3.39385,
+    55.989578,
+    -3.39385,
+    55.989578
+],
   "geometry": {"coordinates":[-3.39385,55.989578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203060405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.05388,53.814533,-3.05388,53.814533",
     "geom:latitude":53.814533,
     "geom:longitude":-3.05388,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Central Drive",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203060405,
-    "wof:lastmodified":1449026692,
+    "wof:lastmodified":1466253647,
     "wof:name":"Surfsiders",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "take"
     ]
 },
-  "bbox": [-3.05388,53.814533,-3.05388,53.814533],
+  "bbox": [
+    -3.05388,
+    53.814533,
+    -3.05388,
+    53.814533
+],
   "geometry": {"coordinates":[-3.05388,53.814533],"type":"Point"}
 }

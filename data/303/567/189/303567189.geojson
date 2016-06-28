@@ -2,13 +2,14 @@
   "id": 303567189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.112751,55.927544,-3.112751,55.927544",
     "geom:latitude":55.927544,
     "geom:longitude":-3.112751,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 The Wisp",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303567189,
-    "wof:lastmodified":1449000584,
+    "wof:lastmodified":1466279329,
     "wof:name":"Newton Garage (Edin) Ltd.",
     "wof:parent_id":85789419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-3.112751,55.927544,-3.112751,55.927544],
+  "bbox": [
+    -3.112751,
+    55.927544,
+    -3.112751,
+    55.927544
+],
   "geometry": {"coordinates":[-3.112751,55.927544],"type":"Point"}
 }

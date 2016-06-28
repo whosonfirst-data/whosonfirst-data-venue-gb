@@ -2,13 +2,14 @@
   "id": 202400693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.134656,53.523254,-1.134656,53.523254",
     "geom:latitude":53.523254,
     "geom:longitude":-1.134656,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Priory Pl",
     "sg:city":"Doncaster",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202400693,
-    "wof:lastmodified":1449060360,
+    "wof:lastmodified":1466252620,
     "wof:name":"Post Office Counters Ltd",
     "wof:parent_id":85789393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.134656,53.523254,-1.134656,53.523254],
+  "bbox": [
+    -1.134656,
+    53.523254,
+    -1.134656,
+    53.523254
+],
   "geometry": {"coordinates":[-1.134656,53.523254],"type":"Point"}
 }

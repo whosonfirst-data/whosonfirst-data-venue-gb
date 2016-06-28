@@ -2,13 +2,14 @@
   "id": 303871287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.25481,51.829643,-2.25481,51.829643",
     "geom:latitude":51.829643,
     "geom:longitude":-2.25481,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Holmwood Close, Tuffley",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303871287,
-    "wof:lastmodified":1448998920,
+    "wof:lastmodified":1466283982,
     "wof:name":"Richard Essex",
     "wof:parent_id":85789875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "removal"
     ]
 },
-  "bbox": [-2.25481,51.829643,-2.25481,51.829643],
+  "bbox": [
+    -2.25481,
+    51.829643,
+    -2.25481,
+    51.829643
+],
   "geometry": {"coordinates":[-2.25481,51.829643],"type":"Point"}
 }

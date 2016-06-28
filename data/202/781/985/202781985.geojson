@@ -2,13 +2,14 @@
   "id": 202781985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.851334,53.68499,-1.851334,53.68499",
     "geom:latitude":53.68499,
     "geom:longitude":-1.851334,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Bryan Road",
     "sg:city":"Elland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202781985,
-    "wof:lastmodified":1449060585,
+    "wof:lastmodified":1466258802,
     "wof:name":"John Lewis Associates",
     "wof:parent_id":85786549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-1.851334,53.68499,-1.851334,53.68499],
+  "bbox": [
+    -1.851334,
+    53.68499,
+    -1.851334,
+    53.68499
+],
   "geometry": {"coordinates":[-1.851334,53.68499],"type":"Point"}
 }

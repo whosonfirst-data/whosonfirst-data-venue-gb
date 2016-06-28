@@ -2,13 +2,14 @@
   "id": 303053523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.941256,50.747681,-1.941256,50.747681",
     "geom:latitude":50.747681,
     "geom:longitude":-1.941256,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Broom Road",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303053523,
-    "wof:lastmodified":1448998575,
+    "wof:lastmodified":1466264007,
     "wof:name":"Coopers Accountants",
     "wof:parent_id":85792773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-1.941256,50.747681,-1.941256,50.747681],
+  "bbox": [
+    -1.941256,
+    50.747681,
+    -1.941256,
+    50.747681
+],
   "geometry": {"coordinates":[-1.941256,50.747681],"type":"Point"}
 }

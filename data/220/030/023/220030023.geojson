@@ -2,13 +2,14 @@
   "id": 220030023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.510711,53.31662,-1.510711,53.31662",
     "geom:latitude":53.31662,
     "geom:longitude":-1.510711,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Annexe, Bradway Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220030023,
-    "wof:lastmodified":1449074326,
+    "wof:lastmodified":1466253469,
     "wof:name":"Bradway under Five Group",
     "wof:parent_id":85785911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "playgroups"
     ]
 },
-  "bbox": [-1.510711,53.31662,-1.510711,53.31662],
+  "bbox": [
+    -1.510711,
+    53.31662,
+    -1.510711,
+    53.31662
+],
   "geometry": {"coordinates":[-1.510711,53.31662],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287035223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.220317,53.01511,-2.220317,53.01511",
     "geom:latitude":53.01511,
     "geom:longitude":-2.220317,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Birches Children's Unit, 10 Sidmouth Avenue",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287035223,
-    "wof:lastmodified":1449001383,
+    "wof:lastmodified":1466264041,
     "wof:name":"Birches Children's Unit",
     "wof:parent_id":85789031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "home"
     ]
 },
-  "bbox": [-2.220317,53.01511,-2.220317,53.01511],
+  "bbox": [
+    -2.220317,
+    53.01511,
+    -2.220317,
+    53.01511
+],
   "geometry": {"coordinates":[-2.220317,53.01511],"type":"Point"}
 }

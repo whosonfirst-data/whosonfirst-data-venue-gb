@@ -2,13 +2,14 @@
   "id": 320307007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.751429,52.531872,-1.751429,52.531872",
     "geom:latitude":52.531872,
     "geom:longitude":-1.751429,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Oaklands, Curdworth",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320307007,
-    "wof:lastmodified":1449012231,
+    "wof:lastmodified":1466277284,
     "wof:name":"Home-Let Property Management",
     "wof:parent_id":85792849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.751429,52.531872,-1.751429,52.531872],
+  "bbox": [
+    -1.751429,
+    52.531872,
+    -1.751429,
+    52.531872
+],
   "geometry": {"coordinates":[-1.751429,52.531872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135751823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.713039,53.432419,-2.713039,53.432419",
     "geom:latitude":53.432419,
     "geom:longitude":-2.713039,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Ridgewood Drive",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135751823,
-    "wof:lastmodified":1449021163,
+    "wof:lastmodified":1466286765,
     "wof:name":"Centrepoint",
     "wof:parent_id":85793311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.713039,53.432419,-2.713039,53.432419],
+  "bbox": [
+    -2.713039,
+    53.432419,
+    -2.713039,
+    53.432419
+],
   "geometry": {"coordinates":[-2.713039,53.432419],"type":"Point"}
 }

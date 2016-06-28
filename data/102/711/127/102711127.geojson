@@ -2,13 +2,14 @@
   "id": 102711127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.354459,53.361336,-1.354459,53.361336",
     "geom:latitude":53.361336,
     "geom:longitude":-1.354459,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Junction Road, Woodhouse",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102711127,
-    "wof:lastmodified":1449069732,
+    "wof:lastmodified":1466256789,
     "wof:name":"W Hall & Sons",
     "wof:parent_id":85791779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.354459,53.361336,-1.354459,53.361336],
+  "bbox": [
+    -1.354459,
+    53.361336,
+    -1.354459,
+    53.361336
+],
   "geometry": {"coordinates":[-1.354459,53.361336],"type":"Point"}
 }

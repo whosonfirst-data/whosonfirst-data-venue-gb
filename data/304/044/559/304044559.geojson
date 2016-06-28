@@ -2,13 +2,14 @@
   "id": 304044559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.467435,52.913982,-1.467435,52.913982",
     "geom:latitude":52.913982,
     "geom:longitude":-1.467435,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1a Oxford Street",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":304044559,
-    "wof:lastmodified":1449043884,
+    "wof:lastmodified":1466265599,
     "wof:name":"Robins Motors",
     "wof:parent_id":85789757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-1.467435,52.913982,-1.467435,52.913982],
+  "bbox": [
+    -1.467435,
+    52.913982,
+    -1.467435,
+    52.913982
+],
   "geometry": {"coordinates":[-1.467435,52.913982],"type":"Point"}
 }

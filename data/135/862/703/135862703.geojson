@@ -2,13 +2,14 @@
   "id": 135862703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.365227,55.901615,-4.365227,55.901615",
     "geom:latitude":55.901615,
     "geom:longitude":-4.365227,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Balvie Avenue",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135862703,
-    "wof:lastmodified":1449024067,
+    "wof:lastmodified":1466287947,
     "wof:name":"Glas-Weld Windscreen Repair",
     "wof:parent_id":85791893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.365227,55.901615,-4.365227,55.901615],
+  "bbox": [
+    -4.365227,
+    55.901615,
+    -4.365227,
+    55.901615
+],
   "geometry": {"coordinates":[-4.365227,55.901615],"type":"Point"}
 }

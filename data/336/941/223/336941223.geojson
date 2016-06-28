@@ -2,13 +2,14 @@
   "id": 336941223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.193985,52.970596,-2.193985,52.970596",
     "geom:latitude":52.970596,
     "geom:longitude":-2.193985,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Allerton Road, Trentham",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336941223,
-    "wof:lastmodified":1448997578,
+    "wof:lastmodified":1466281255,
     "wof:name":"Alan Beardmore",
     "wof:parent_id":85791153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-2.193985,52.970596,-2.193985,52.970596],
+  "bbox": [
+    -2.193985,
+    52.970596,
+    -2.193985,
+    52.970596
+],
   "geometry": {"coordinates":[-2.193985,52.970596],"type":"Point"}
 }

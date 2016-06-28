@@ -2,13 +2,14 @@
   "id": 135701995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.806307,55.650879,-4.806307,55.650879",
     "geom:latitude":55.650879,
     "geom:longitude":-4.806307,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Central Avenue",
     "sg:city":"Ardrossan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135701995,
-    "wof:lastmodified":1449023396,
+    "wof:lastmodified":1466286081,
     "wof:name":"Central Bakery",
     "wof:parent_id":101872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.806307,55.650879,-4.806307,55.650879],
+  "bbox": [
+    -4.806307,
+    55.650879,
+    -4.806307,
+    55.650879
+],
   "geometry": {"coordinates":[-4.806307,55.650879],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253712119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.02505,51.496239,-0.02505,51.496239",
     "geom:latitude":51.496239,
     "geom:longitude":-0.02505,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10-16 Docklands Business Centre, Tiller Rd",
     "sg:city":"Poplar",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253712119,
-    "wof:lastmodified":1449064093,
+    "wof:lastmodified":1466274649,
     "wof:name":"Westrock",
     "wof:parent_id":85789115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cctv"
     ]
 },
-  "bbox": [-0.02505,51.496239,-0.02505,51.496239],
+  "bbox": [
+    -0.02505,
+    51.496239,
+    -0.02505,
+    51.496239
+],
   "geometry": {"coordinates":[-0.02505,51.496239],"type":"Point"}
 }

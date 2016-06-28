@@ -2,13 +2,14 @@
   "id": 202602859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.808749,53.07592,-0.808749,53.07592",
     "geom:latitude":53.07592,
     "geom:longitude":-0.808749,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Market Pl",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202602859,
-    "wof:lastmodified":1449061313,
+    "wof:lastmodified":1466255884,
     "wof:name":"The Barrel Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-0.808749,53.07592,-0.808749,53.07592],
+  "bbox": [
+    -0.808749,
+    53.07592,
+    -0.808749,
+    53.07592
+],
   "geometry": {"coordinates":[-0.808749,53.07592],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135445415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.123758,53.399532,-2.123758,53.399532",
     "geom:latitude":53.399532,
     "geom:longitude":-2.123758,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 The Fairway",
     "sg:city":"Stockport",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135445415,
-    "wof:lastmodified":1449021389,
+    "wof:lastmodified":1466268087,
     "wof:name":"Fairway Graphics",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.123758,53.399532,-2.123758,53.399532],
+  "bbox": [
+    -2.123758,
+    53.399532,
+    -2.123758,
+    53.399532
+],
   "geometry": {"coordinates":[-2.123758,53.399532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303615275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.444329,55.831329,-4.444329,55.831329",
     "geom:latitude":55.831329,
     "geom:longitude":-4.444329,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Corsebar Road",
     "sg:city":"Paisley",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303615275,
-    "wof:lastmodified":1448998888,
+    "wof:lastmodified":1466280300,
     "wof:name":"Gleniffer Home",
     "wof:parent_id":85792463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-4.444329,55.831329,-4.444329,55.831329],
+  "bbox": [
+    -4.444329,
+    55.831329,
+    -4.444329,
+    55.831329
+],
   "geometry": {"coordinates":[-4.444329,55.831329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286865863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.06512,50.844421,-1.06512,50.844421",
     "geom:latitude":50.844421,
     "geom:longitude":-1.06512,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Orford Court, Magdala Road, Cosham",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":286865863,
-    "wof:lastmodified":1449017405,
+    "wof:lastmodified":1466280000,
     "wof:name":"Salvation Army Housing Association",
     "wof:parent_id":85786783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.06512,50.844421,-1.06512,50.844421],
+  "bbox": [
+    -1.06512,
+    50.844421,
+    -1.06512,
+    50.844421
+],
   "geometry": {"coordinates":[-1.06512,50.844421],"type":"Point"}
 }

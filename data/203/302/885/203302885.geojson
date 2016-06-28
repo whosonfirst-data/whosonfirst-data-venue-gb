@@ -2,13 +2,14 @@
   "id": 203302885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.513452,52.407215,-1.513452,52.407215",
     "geom:latitude":52.407215,
     "geom:longitude":-1.513452,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Market Way",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203302885,
-    "wof:lastmodified":1449025553,
+    "wof:lastmodified":1466257901,
     "wof:name":"The Clarks Shop",
     "wof:parent_id":85790551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-1.513452,52.407215,-1.513452,52.407215],
+  "bbox": [
+    -1.513452,
+    52.407215,
+    -1.513452,
+    52.407215
+],
   "geometry": {"coordinates":[-1.513452,52.407215],"type":"Point"}
 }

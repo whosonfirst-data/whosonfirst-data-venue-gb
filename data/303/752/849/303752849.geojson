@@ -2,13 +2,14 @@
   "id": 303752849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.958101,50.609314,-1.958101,50.609314",
     "geom:latitude":50.609314,
     "geom:longitude":-1.958101,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Station Road",
     "sg:city":"Swanage",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303752849,
-    "wof:lastmodified":1448998526,
+    "wof:lastmodified":1466282571,
     "wof:name":"The Wool & Craft Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "retailer"
     ]
 },
-  "bbox": [-1.958101,50.609314,-1.958101,50.609314],
+  "bbox": [
+    -1.958101,
+    50.609314,
+    -1.958101,
+    50.609314
+],
   "geometry": {"coordinates":[-1.958101,50.609314],"type":"Point"}
 }

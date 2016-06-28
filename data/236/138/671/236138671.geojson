@@ -2,13 +2,14 @@
   "id": 236138671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.613372,51.482929,-2.613372,51.482929",
     "geom:latitude":51.482929,
     "geom:longitude":-2.613372,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Henleaze Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236138671,
-    "wof:lastmodified":1449002425,
+    "wof:lastmodified":1466259110,
     "wof:name":"Ferndown Residential Care Home",
     "wof:parent_id":85790033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-2.613372,51.482929,-2.613372,51.482929],
+  "bbox": [
+    -2.613372,
+    51.482929,
+    -2.613372,
+    51.482929
+],
   "geometry": {"coordinates":[-2.613372,51.482929],"type":"Point"}
 }

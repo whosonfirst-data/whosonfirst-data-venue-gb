@@ -2,13 +2,14 @@
   "id": 102605801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.85626,52.516731,-1.85626,52.516731",
     "geom:latitude":52.516731,
     "geom:longitude":-1.85626,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"252-254 Slade Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102605801,
-    "wof:lastmodified":1449068937,
+    "wof:lastmodified":1466252688,
     "wof:name":"J & K Warehouse",
     "wof:parent_id":85790751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.85626,52.516731,-1.85626,52.516731],
+  "bbox": [
+    -1.85626,
+    52.516731,
+    -1.85626,
+    52.516731
+],
   "geometry": {"coordinates":[-1.85626,52.516731],"type":"Point"}
 }

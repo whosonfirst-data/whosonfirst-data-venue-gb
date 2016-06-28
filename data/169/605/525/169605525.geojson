@@ -2,13 +2,14 @@
   "id": 169605525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.412369,53.407459,-1.412369,53.407459",
     "geom:latitude":53.407459,
     "geom:longitude":-1.412369,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Sheffield Rd",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169605525,
-    "wof:lastmodified":1449034288,
+    "wof:lastmodified":1466264020,
     "wof:name":"Zig Zag Hairdressers",
     "wof:parent_id":85786239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.412369,53.407459,-1.412369,53.407459],
+  "bbox": [
+    -1.412369,
+    53.407459,
+    -1.412369,
+    53.407459
+],
   "geometry": {"coordinates":[-1.412369,53.407459],"type":"Point"}
 }

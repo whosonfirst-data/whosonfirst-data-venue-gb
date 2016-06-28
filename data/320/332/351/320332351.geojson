@@ -2,13 +2,14 @@
   "id": 320332351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.153575,52.955841,-1.153575,52.955841",
     "geom:latitude":52.955841,
     "geom:longitude":-1.153575,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Chaddesdon House, Talbot Street",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320332351,
-    "wof:lastmodified":1449013341,
+    "wof:lastmodified":1466278113,
     "wof:name":"Insolvency Service",
     "wof:parent_id":85793185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "insolvency"
     ]
 },
-  "bbox": [-1.153575,52.955841,-1.153575,52.955841],
+  "bbox": [
+    -1.153575,
+    52.955841,
+    -1.153575,
+    52.955841
+],
   "geometry": {"coordinates":[-1.153575,52.955841],"type":"Point"}
 }

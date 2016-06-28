@@ -2,13 +2,14 @@
   "id": 118754953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.21125,51.943588,-1.21125,51.943588",
     "geom:latitude":51.943588,
     "geom:longitude":-1.21125,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Russet Rd, Ardley",
     "sg:city":"Bicester",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":118754953,
-    "wof:lastmodified":1449054061,
+    "wof:lastmodified":1466269401,
     "wof:name":"Resource Services",
     "wof:parent_id":85683867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.21125,51.943588,-1.21125,51.943588],
+  "bbox": [
+    -1.21125,
+    51.943588,
+    -1.21125,
+    51.943588
+],
   "geometry": {"coordinates":[-1.21125,51.943588],"type":"Point"}
 }

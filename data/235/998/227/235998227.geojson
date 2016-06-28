@@ -2,13 +2,14 @@
   "id": 235998227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.426169,53.027973,-1.426169,53.027973",
     "geom:latitude":53.027973,
     "geom:longitude":-1.426169,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Street Lane, Denby",
     "sg:city":"Ripley",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":235998227,
-    "wof:lastmodified":1449008370,
+    "wof:lastmodified":1466256410,
     "wof:name":"Terry's Ripley Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "private"
     ]
 },
-  "bbox": [-1.426169,53.027973,-1.426169,53.027973],
+  "bbox": [
+    -1.426169,
+    53.027973,
+    -1.426169,
+    53.027973
+],
   "geometry": {"coordinates":[-1.426169,53.027973],"type":"Point"}
 }

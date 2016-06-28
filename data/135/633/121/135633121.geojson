@@ -2,13 +2,14 @@
   "id": 135633121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.990063,52.792301,-1.990063,52.792301",
     "geom:latitude":52.792301,
     "geom:longitude":-1.990063,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 St Marys Road, Little Haywood",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135633121,
-    "wof:lastmodified":1449023962,
+    "wof:lastmodified":1466283911,
     "wof:name":"Tape That",
     "wof:parent_id":85683943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.990063,52.792301,-1.990063,52.792301],
+  "bbox": [
+    -1.990063,
+    52.792301,
+    -1.990063,
+    52.792301
+],
   "geometry": {"coordinates":[-1.990063,52.792301],"type":"Point"}
 }

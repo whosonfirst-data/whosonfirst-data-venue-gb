@@ -2,13 +2,14 @@
   "id": 119410655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.672139,55.58287,-2.672139,55.58287",
     "geom:latitude":55.58287,
     "geom:longitude":-2.672139,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Monksford Road",
     "sg:city":"Melrose",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119410655,
-    "wof:lastmodified":1449040919,
+    "wof:lastmodified":1466285528,
     "wof:name":"Le Provencale",
     "wof:parent_id":101872393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.672139,55.58287,-2.672139,55.58287],
+  "bbox": [
+    -2.672139,
+    55.58287,
+    -2.672139,
+    55.58287
+],
   "geometry": {"coordinates":[-2.672139,55.58287],"type":"Point"}
 }

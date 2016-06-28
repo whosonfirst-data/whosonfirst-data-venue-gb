@@ -2,13 +2,14 @@
   "id": 270488509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.14565,52.442963,-2.14565,52.442963",
     "geom:latitude":52.442963,
     "geom:longitude":-2.14565,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Melrose Avenue",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270488509,
-    "wof:lastmodified":1449011075,
+    "wof:lastmodified":1466275002,
     "wof:name":"M Ward",
     "wof:parent_id":85791731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.14565,52.442963,-2.14565,52.442963],
+  "bbox": [
+    -2.14565,
+    52.442963,
+    -2.14565,
+    52.442963
+],
   "geometry": {"coordinates":[-2.14565,52.442963],"type":"Point"}
 }

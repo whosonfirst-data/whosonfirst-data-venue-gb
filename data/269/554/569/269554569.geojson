@@ -2,13 +2,14 @@
   "id": 269554569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.117382,51.700359,0.117382,51.700359",
     "geom:latitude":51.700359,
     "geom:longitude":0.117382,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Theydon Gro",
     "sg:city":"Epping",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269554569,
-    "wof:lastmodified":1449036646,
+    "wof:lastmodified":1466262124,
     "wof:name":"Polygon",
     "wof:parent_id":85860845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [0.117382,51.700359,0.117382,51.700359],
+  "bbox": [
+    0.117382,
+    51.700359,
+    0.117382,
+    51.700359
+],
   "geometry": {"coordinates":[0.117382,51.700359],"type":"Point"}
 }

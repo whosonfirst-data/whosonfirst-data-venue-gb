@@ -2,13 +2,14 @@
   "id": 135413563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.085494,58.439243,-3.085494,58.439243",
     "geom:latitude":58.439243,
     "geom:longitude":-3.085494,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Harbour Office",
     "sg:city":"Wick",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135413563,
-    "wof:lastmodified":1449021459,
+    "wof:lastmodified":1466264277,
     "wof:name":"Wick Harbour Trustees",
     "wof:parent_id":101873675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.085494,58.439243,-3.085494,58.439243],
+  "bbox": [
+    -3.085494,
+    58.439243,
+    -3.085494,
+    58.439243
+],
   "geometry": {"coordinates":[-3.085494,58.439243],"type":"Point"}
 }

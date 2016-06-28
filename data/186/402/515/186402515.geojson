@@ -2,13 +2,14 @@
   "id": 186402515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.167982,51.466862,-3.167982,51.466862",
     "geom:latitude":51.466862,
     "geom:longitude":-3.167982,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 West Close",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186402515,
-    "wof:lastmodified":1449051244,
+    "wof:lastmodified":1466257603,
     "wof:name":"City Centre Cars",
     "wof:parent_id":85861429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-3.167982,51.466862,-3.167982,51.466862],
+  "bbox": [
+    -3.167982,
+    51.466862,
+    -3.167982,
+    51.466862
+],
   "geometry": {"coordinates":[-3.167982,51.466862],"type":"Point"}
 }

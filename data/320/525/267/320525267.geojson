@@ -2,13 +2,14 @@
   "id": 320525267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.797496,51.068844,-1.797496,51.068844",
     "geom:latitude":51.068844,
     "geom:longitude":-1.797496,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 St Thomas Square",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320525267,
-    "wof:lastmodified":1449014190,
+    "wof:lastmodified":1466281515,
     "wof:name":"Mat Cook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"
     ]
 },
-  "bbox": [-1.797496,51.068844,-1.797496,51.068844],
+  "bbox": [
+    -1.797496,
+    51.068844,
+    -1.797496,
+    51.068844
+],
   "geometry": {"coordinates":[-1.797496,51.068844],"type":"Point"}
 }

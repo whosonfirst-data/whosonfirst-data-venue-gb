@@ -2,13 +2,14 @@
   "id": 320045259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.595474,51.454525,-2.595474,51.454525",
     "geom:latitude":51.454525,
     "geom:longitude":-2.595474,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9-11 St Stephens Street",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":320045259,
-    "wof:lastmodified":1449014522,
+    "wof:lastmodified":1466269437,
     "wof:name":"Central Chambers Wine Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.595474,51.454525,-2.595474,51.454525],
+  "bbox": [
+    -2.595474,
+    51.454525,
+    -2.595474,
+    51.454525
+],
   "geometry": {"coordinates":[-2.595474,51.454525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118588821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.731514,51.563179,-1.731514,51.563179",
     "geom:latitude":51.563179,
     "geom:longitude":-1.731514,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Pauls Centre, St Pauls Drive",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":118588821,
-    "wof:lastmodified":1449054280,
+    "wof:lastmodified":1466256894,
     "wof:name":"Covingham Library",
     "wof:parent_id":85787057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.731514,51.563179,-1.731514,51.563179],
+  "bbox": [
+    -1.731514,
+    51.563179,
+    -1.731514,
+    51.563179
+],
   "geometry": {"coordinates":[-1.731514,51.563179],"type":"Point"}
 }

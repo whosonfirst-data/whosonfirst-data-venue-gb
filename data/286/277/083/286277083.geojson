@@ -2,13 +2,14 @@
   "id": 286277083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.263206,53.277649,-1.263206,53.277649",
     "geom:latitude":53.277649,
     "geom:longitude":-1.263206,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"98-100 North Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286277083,
-    "wof:lastmodified":1449015508,
+    "wof:lastmodified":1466262788,
     "wof:name":"Gower Domestic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.263206,53.277649,-1.263206,53.277649],
+  "bbox": [
+    -1.263206,
+    53.277649,
+    -1.263206,
+    53.277649
+],
   "geometry": {"coordinates":[-1.263206,53.277649],"type":"Point"}
 }

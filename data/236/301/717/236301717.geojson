@@ -2,13 +2,14 @@
   "id": 236301717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.154514,50.377056,-4.154514,50.377056",
     "geom:latitude":50.377056,
     "geom:longitude":-4.154514,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Wilton St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236301717,
-    "wof:lastmodified":1449002310,
+    "wof:lastmodified":1466262289,
     "wof:name":"Wilton House",
     "wof:parent_id":85789105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-4.154514,50.377056,-4.154514,50.377056],
+  "bbox": [
+    -4.154514,
+    50.377056,
+    -4.154514,
+    50.377056
+],
   "geometry": {"coordinates":[-4.154514,50.377056],"type":"Point"}
 }

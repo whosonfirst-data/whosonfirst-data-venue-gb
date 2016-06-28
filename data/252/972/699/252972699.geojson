@@ -2,13 +2,14 @@
   "id": 252972699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.388126,56.030663,-3.388126,56.030663",
     "geom:latitude":56.030663,
     "geom:longitude":-3.388126,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Fraser Avenue",
     "sg:city":"Inverkeithing",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":252972699,
-    "wof:lastmodified":1449005963,
+    "wof:lastmodified":1466262315,
     "wof:name":"Fraser Avenue Post Office",
     "wof:parent_id":85791133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.388126,56.030663,-3.388126,56.030663],
+  "bbox": [
+    -3.388126,
+    56.030663,
+    -3.388126,
+    56.030663
+],
   "geometry": {"coordinates":[-3.388126,56.030663],"type":"Point"}
 }

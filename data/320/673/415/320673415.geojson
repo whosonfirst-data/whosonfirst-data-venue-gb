@@ -2,13 +2,14 @@
   "id": 320673415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.255081,53.492004,-1.255081,53.492004",
     "geom:latitude":53.492004,
     "geom:longitude":-1.255081,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Hilltop Road, Denaby Main",
     "sg:city":"Doncaster",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320673415,
-    "wof:lastmodified":1449012717,
+    "wof:lastmodified":1466283691,
     "wof:name":"Easyway Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "coach"
     ]
 },
-  "bbox": [-1.255081,53.492004,-1.255081,53.492004],
+  "bbox": [
+    -1.255081,
+    53.492004,
+    -1.255081,
+    53.492004
+],
   "geometry": {"coordinates":[-1.255081,53.492004],"type":"Point"}
 }

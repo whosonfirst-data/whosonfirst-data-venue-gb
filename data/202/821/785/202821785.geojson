@@ -2,13 +2,14 @@
   "id": 202821785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.519509,51.367237,0.519509,51.367237",
     "geom:latitude":51.367237,
     "geom:longitude":0.519509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"95 - 97 Maidstone Road",
     "sg:city":"Chatham",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":202821785,
-    "wof:lastmodified":1449061493,
+    "wof:lastmodified":1466259443,
     "wof:name":"The Whitehouse",
     "wof:parent_id":85861263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [0.519509,51.367237,0.519509,51.367237],
+  "bbox": [
+    0.519509,
+    51.367237,
+    0.519509,
+    51.367237
+],
   "geometry": {"coordinates":[0.519509,51.367237],"type":"Point"}
 }

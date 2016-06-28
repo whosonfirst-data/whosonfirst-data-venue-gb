@@ -2,13 +2,14 @@
   "id": 304081015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.317545,54.557476,-1.317545,54.557476",
     "geom:latitude":54.557476,
     "geom:longitude":-1.317545,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Bowesfield Lane",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":304081015,
-    "wof:lastmodified":1449043732,
+    "wof:lastmodified":1466266707,
     "wof:name":"Shadbolt & Son",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-1.317545,54.557476,-1.317545,54.557476],
+  "bbox": [
+    -1.317545,
+    54.557476,
+    -1.317545,
+    54.557476
+],
   "geometry": {"coordinates":[-1.317545,54.557476],"type":"Point"}
 }

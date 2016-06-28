@@ -2,13 +2,14 @@
   "id": 253505031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.205956,55.942162,-3.205956,55.942162",
     "geom:latitude":55.942162,
     "geom:longitude":-3.205956,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Lochrin Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253505031,
-    "wof:lastmodified":1449065283,
+    "wof:lastmodified":1466268078,
     "wof:name":"Edinburgh Car Rental",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-3.205956,55.942162,-3.205956,55.942162],
+  "bbox": [
+    -3.205956,
+    55.942162,
+    -3.205956,
+    55.942162
+],
   "geometry": {"coordinates":[-3.205956,55.942162],"type":"Point"}
 }

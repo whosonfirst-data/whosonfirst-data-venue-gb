@@ -2,13 +2,14 @@
   "id": 136040001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.66089,54.606838,-1.66089,54.606838",
     "geom:latitude":54.606838,
     "geom:longitude":-1.66089,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"East Newbiggin Farm, Heighington",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136040001,
-    "wof:lastmodified":1449076237,
+    "wof:lastmodified":1466278376,
     "wof:name":"T P Beeston",
     "wof:parent_id":85684163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.66089,54.606838,-1.66089,54.606838],
+  "bbox": [
+    -1.66089,
+    54.606838,
+    -1.66089,
+    54.606838
+],
   "geometry": {"coordinates":[-1.66089,54.606838],"type":"Point"}
 }

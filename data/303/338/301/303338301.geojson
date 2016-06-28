@@ -2,13 +2,14 @@
   "id": 303338301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.43714,54.337479,-1.43714,54.337479",
     "geom:latitude":54.337479,
     "geom:longitude":-1.43714,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 25a Alverton Factory, Romanby Rd",
     "sg:city":"Northallerton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303338301,
-    "wof:lastmodified":1448998962,
+    "wof:lastmodified":1466272983,
     "wof:name":"D & C Suppliers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "painting"
     ]
 },
-  "bbox": [-1.43714,54.337479,-1.43714,54.337479],
+  "bbox": [
+    -1.43714,
+    54.337479,
+    -1.43714,
+    54.337479
+],
   "geometry": {"coordinates":[-1.43714,54.337479],"type":"Point"}
 }

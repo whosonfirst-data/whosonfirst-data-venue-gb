@@ -2,13 +2,14 @@
   "id": 252778659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.168449,51.589546,0.168449,51.589546",
     "geom:latitude":51.589546,
     "geom:longitude":0.168449,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Collier Row Lane",
     "sg:city":"Romford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":252778659,
-    "wof:lastmodified":1449005420,
+    "wof:lastmodified":1466258449,
     "wof:name":"Collier News",
     "wof:parent_id":85789027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [0.168449,51.589546,0.168449,51.589546],
+  "bbox": [
+    0.168449,
+    51.589546,
+    0.168449,
+    51.589546
+],
   "geometry": {"coordinates":[0.168449,51.589546],"type":"Point"}
 }

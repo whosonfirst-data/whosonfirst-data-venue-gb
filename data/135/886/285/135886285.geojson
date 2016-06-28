@@ -2,13 +2,14 @@
   "id": 135886285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.636061,55.754688,-4.636061,55.754688",
     "geom:latitude":55.754688,
     "geom:longitude":-4.636061,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Kings Road",
     "sg:city":"Beith",
     "sg:classifiers":[
@@ -35,14 +36,20 @@
     "wof:geomhash":"c234a7c7b81f4100ef592ed6ce711ddc",
     "wof:hierarchy":[],
     "wof:id":135886285,
-    "wof:lastmodified":1449022673,
+    "wof:lastmodified":1466288016,
     "wof:name":"John Wilson Joiner",
     "wof:parent_id":85684391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.636061,55.754688,-4.636061,55.754688],
+  "bbox": [
+    -4.636061,
+    55.754688,
+    -4.636061,
+    55.754688
+],
   "geometry": {"coordinates":[-4.636061,55.754688],"type":"Point"}
 }

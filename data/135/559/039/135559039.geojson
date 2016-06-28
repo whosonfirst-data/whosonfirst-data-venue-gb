@@ -2,13 +2,14 @@
   "id": 135559039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.330993,55.917088,-4.330993,55.917088",
     "geom:latitude":55.917088,
     "geom:longitude":-4.330993,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Drymen Rd, Bearsden",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135559039,
-    "wof:lastmodified":1449023368,
+    "wof:lastmodified":1466279933,
     "wof:name":"G.W Gordon Ltd",
     "wof:parent_id":85788211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.330993,55.917088,-4.330993,55.917088],
+  "bbox": [
+    -4.330993,
+    55.917088,
+    -4.330993,
+    55.917088
+],
   "geometry": {"coordinates":[-4.330993,55.917088],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135830973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.25619,55.862251,-4.25619,55.862251",
     "geom:latitude":55.862251,
     "geom:longitude":-4.25619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"117 West George St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135830973,
-    "wof:lastmodified":1449021625,
+    "wof:lastmodified":1466287813,
     "wof:name":"Westscot Homes PLC",
     "wof:parent_id":85792621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.25619,55.862251,-4.25619,55.862251],
+  "bbox": [
+    -4.25619,
+    55.862251,
+    -4.25619,
+    55.862251
+],
   "geometry": {"coordinates":[-4.25619,55.862251],"type":"Point"}
 }

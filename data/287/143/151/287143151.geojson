@@ -2,13 +2,14 @@
   "id": 287143151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.276888,55.789436,-4.276888,55.789436",
     "geom:latitude":55.789436,
     "geom:longitude":-4.276888,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Busby Road, Clarkston",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287143151,
-    "wof:lastmodified":1449001415,
+    "wof:lastmodified":1466267410,
     "wof:name":"Munro the Chemist",
     "wof:parent_id":85792535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "chemist"
     ]
 },
-  "bbox": [-4.276888,55.789436,-4.276888,55.789436],
+  "bbox": [
+    -4.276888,
+    55.789436,
+    -4.276888,
+    55.789436
+],
   "geometry": {"coordinates":[-4.276888,55.789436],"type":"Point"}
 }

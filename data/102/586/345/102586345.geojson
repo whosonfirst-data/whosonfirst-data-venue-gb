@@ -2,13 +2,14 @@
   "id": 102586345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.119815,51.357967,-2.119815,51.357967",
     "geom:latitude":51.357967,
     "geom:longitude":-2.119815,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Kingfisher Dr, Bowerhill",
     "sg:city":"Melksham",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102586345,
-    "wof:lastmodified":1449069909,
+    "wof:lastmodified":1466276430,
     "wof:name":"Smith,Matthew,",
     "wof:parent_id":85683939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.119815,51.357967,-2.119815,51.357967],
+  "bbox": [
+    -2.119815,
+    51.357967,
+    -2.119815,
+    51.357967
+],
   "geometry": {"coordinates":[-2.119815,51.357967],"type":"Point"}
 }

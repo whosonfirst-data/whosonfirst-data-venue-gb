@@ -2,13 +2,14 @@
   "id": 286869289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.406211,51.657387,-0.406211,51.657387",
     "geom:latitude":51.657387,
     "geom:longitude":-0.406211,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Station App, Rickmansworth Rd",
     "sg:city":"Watford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286869289,
-    "wof:lastmodified":1449017859,
+    "wof:lastmodified":1466280071,
     "wof:name":"Metline Breakers",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dismantlers"
     ]
 },
-  "bbox": [-0.406211,51.657387,-0.406211,51.657387],
+  "bbox": [
+    -0.406211,
+    51.657387,
+    -0.406211,
+    51.657387
+],
   "geometry": {"coordinates":[-0.406211,51.657387],"type":"Point"}
 }

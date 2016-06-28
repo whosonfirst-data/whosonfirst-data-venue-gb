@@ -2,13 +2,14 @@
   "id": 270427371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.182536,55.929569,-3.182536,55.929569",
     "geom:latitude":55.929569,
     "geom:longitude":-3.182536,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Relugas Rd",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270427371,
-    "wof:lastmodified":1449009351,
+    "wof:lastmodified":1466273204,
     "wof:name":"Robert Barton Associates",
     "wof:parent_id":85792691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-3.182536,55.929569,-3.182536,55.929569],
+  "bbox": [
+    -3.182536,
+    55.929569,
+    -3.182536,
+    55.929569
+],
   "geometry": {"coordinates":[-3.182536,55.929569],"type":"Point"}
 }

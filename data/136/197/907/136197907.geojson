@@ -2,13 +2,14 @@
   "id": 136197907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.123597,53.372105,-2.123597,53.372105",
     "geom:latitude":53.372105,
     "geom:longitude":-2.123597,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Chester Road, Hazel Grove",
     "sg:city":"Stockport",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136197907,
-    "wof:lastmodified":1449076098,
+    "wof:lastmodified":1466260752,
     "wof:name":"The Cavendish",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.123597,53.372105,-2.123597,53.372105],
+  "bbox": [
+    -2.123597,
+    53.372105,
+    -2.123597,
+    53.372105
+],
   "geometry": {"coordinates":[-2.123597,53.372105],"type":"Point"}
 }

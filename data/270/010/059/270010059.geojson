@@ -2,13 +2,14 @@
   "id": 270010059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.332651,55.864216,-4.332651,55.864216",
     "geom:latitude":55.864216,
     "geom:longitude":-4.332651,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lint House, 1205 Govan Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":270010059,
-    "wof:lastmodified":1449010166,
+    "wof:lastmodified":1466260766,
     "wof:name":"Thomas Morton",
     "wof:parent_id":85790307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "bookmaker"
     ]
 },
-  "bbox": [-4.332651,55.864216,-4.332651,55.864216],
+  "bbox": [
+    -4.332651,
+    55.864216,
+    -4.332651,
+    55.864216
+],
   "geometry": {"coordinates":[-4.332651,55.864216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336838867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.299168,50.910969,-1.299168,50.910969",
     "geom:latitude":50.910969,
     "geom:longitude":-1.299168,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Larkspur Gardens, Hedge End",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336838867,
-    "wof:lastmodified":1448997060,
+    "wof:lastmodified":1466279150,
     "wof:name":"Birchlands Builders",
     "wof:parent_id":85792803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.299168,50.910969,-1.299168,50.910969],
+  "bbox": [
+    -1.299168,
+    50.910969,
+    -1.299168,
+    50.910969
+],
   "geometry": {"coordinates":[-1.299168,50.910969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202490927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.211546,51.275536,-2.211546,51.275536",
     "geom:latitude":51.275536,
     "geom:longitude":-2.211546,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit, 137 Engineer Road, West Wilts Trading Estate",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202490927,
-    "wof:lastmodified":1449062389,
+    "wof:lastmodified":1466253993,
     "wof:name":"Atech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.211546,51.275536,-2.211546,51.275536],
+  "bbox": [
+    -2.211546,
+    51.275536,
+    -2.211546,
+    51.275536
+],
   "geometry": {"coordinates":[-2.211546,51.275536],"type":"Point"}
 }

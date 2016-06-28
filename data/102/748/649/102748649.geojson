@@ -2,13 +2,14 @@
   "id": 102748649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.85351,52.59095,-3.85351,52.59095",
     "geom:latitude":52.59095,
     "geom:longitude":-3.85351,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Maldwyn House, Penallt Street",
     "sg:city":"Machynlleth",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102748649,
-    "wof:lastmodified":1449069592,
+    "wof:lastmodified":1466258685,
     "wof:name":"P L Brunton",
     "wof:parent_id":101853107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.85351,52.59095,-3.85351,52.59095],
+  "bbox": [
+    -3.85351,
+    52.59095,
+    -3.85351,
+    52.59095
+],
   "geometry": {"coordinates":[-3.85351,52.59095],"type":"Point"}
 }

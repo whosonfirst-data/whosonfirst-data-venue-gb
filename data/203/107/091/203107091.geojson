@@ -2,13 +2,14 @@
   "id": 203107091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.170599,51.464134,-3.170599,51.464134",
     "geom:latitude":51.464134,
     "geom:longitude":-3.170599,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Harrowby Street Docks",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203107091,
-    "wof:lastmodified":1449024946,
+    "wof:lastmodified":1466254454,
     "wof:name":"Sealock Garage",
     "wof:parent_id":85861429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "garage"
     ]
 },
-  "bbox": [-3.170599,51.464134,-3.170599,51.464134],
+  "bbox": [
+    -3.170599,
+    51.464134,
+    -3.170599,
+    51.464134
+],
   "geometry": {"coordinates":[-3.170599,51.464134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118760809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.89631,52.906685,-2.89631,52.906685",
     "geom:latitude":52.906685,
     "geom:longitude":-2.89631,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Scotland Street",
     "sg:city":"Ellesmere",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118760809,
-    "wof:lastmodified":1449054476,
+    "wof:lastmodified":1466269831,
     "wof:name":"Derfennas",
     "wof:parent_id":101871875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.89631,52.906685,-2.89631,52.906685],
+  "bbox": [
+    -2.89631,
+    52.906685,
+    -2.89631,
+    52.906685
+],
   "geometry": {"coordinates":[-2.89631,52.906685],"type":"Point"}
 }

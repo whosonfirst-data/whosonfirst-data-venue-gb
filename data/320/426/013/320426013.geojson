@@ -2,13 +2,14 @@
   "id": 320426013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.398578,50.909542,-1.398578,50.909542",
     "geom:latitude":50.909542,
     "geom:longitude":-1.398578,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"131 St. Marys Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320426013,
-    "wof:lastmodified":1449012055,
+    "wof:lastmodified":1466279809,
     "wof:name":"Drs Desai & Pal",
     "wof:parent_id":85792821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-1.398578,50.909542,-1.398578,50.909542],
+  "bbox": [
+    -1.398578,
+    50.909542,
+    -1.398578,
+    50.909542
+],
   "geometry": {"coordinates":[-1.398578,50.909542],"type":"Point"}
 }

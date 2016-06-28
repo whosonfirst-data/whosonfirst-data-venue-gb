@@ -2,13 +2,14 @@
   "id": 303524825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.490717,53.354633,-1.490717,53.354633",
     "geom:latitude":53.354633,
     "geom:longitude":-1.490717,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Edgedale Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303524825,
-    "wof:lastmodified":1448998091,
+    "wof:lastmodified":1466278553,
     "wof:name":"M Wright",
     "wof:parent_id":85789271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "activity"
     ]
 },
-  "bbox": [-1.490717,53.354633,-1.490717,53.354633],
+  "bbox": [
+    -1.490717,
+    53.354633,
+    -1.490717,
+    53.354633
+],
   "geometry": {"coordinates":[-1.490717,53.354633],"type":"Point"}
 }

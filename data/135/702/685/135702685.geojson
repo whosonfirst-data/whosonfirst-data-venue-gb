@@ -2,13 +2,14 @@
   "id": 135702685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.52175,56.41853,-3.52175,56.41853",
     "geom:latitude":56.41853,
     "geom:longitude":-3.52175,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Tulloch Works, Tulloch Road",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135702685,
-    "wof:lastmodified":1449022523,
+    "wof:lastmodified":1466286010,
     "wof:name":"A & B Garage",
     "wof:parent_id":85683863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.52175,56.41853,-3.52175,56.41853],
+  "bbox": [
+    -3.52175,
+    56.41853,
+    -3.52175,
+    56.41853
+],
   "geometry": {"coordinates":[-3.52175,56.41853],"type":"Point"}
 }

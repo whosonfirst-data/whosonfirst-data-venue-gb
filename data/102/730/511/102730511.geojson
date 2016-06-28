@@ -2,13 +2,14 @@
   "id": 102730511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.448329,51.199181,-1.448329,51.199181",
     "geom:latitude":51.199181,
     "geom:longitude":-1.448329,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Cowdown Farm House, Cowdown Lane",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102730511,
-    "wof:lastmodified":1449069764,
+    "wof:lastmodified":1466257526,
     "wof:name":"Cowdown Nursery Ltd.",
     "wof:parent_id":85684375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.448329,51.199181,-1.448329,51.199181],
+  "bbox": [
+    -1.448329,
+    51.199181,
+    -1.448329,
+    51.199181
+],
   "geometry": {"coordinates":[-1.448329,51.199181],"type":"Point"}
 }

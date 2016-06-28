@@ -2,13 +2,14 @@
   "id": 135706569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.195589,55.954399,-3.195589,55.954399",
     "geom:latitude":55.954399,
     "geom:longitude":-3.195589,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Frederick St",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135706569,
-    "wof:lastmodified":1449021209,
+    "wof:lastmodified":1466286158,
     "wof:name":"Chez Jules",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.195589,55.954399,-3.195589,55.954399],
+  "bbox": [
+    -3.195589,
+    55.954399,
+    -3.195589,
+    55.954399
+],
   "geometry": {"coordinates":[-3.195589,55.954399],"type":"Point"}
 }

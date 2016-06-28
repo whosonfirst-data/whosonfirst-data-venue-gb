@@ -2,13 +2,14 @@
   "id": 119084501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.45649,55.570175,-2.45649,55.570175",
     "geom:latitude":55.570175,
     "geom:longitude":-2.45649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Main St",
     "sg:city":"Kelso",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":119084501,
-    "wof:lastmodified":1449041138,
+    "wof:lastmodified":1466257063,
     "wof:name":"Walter Culbertson",
     "wof:parent_id":85684241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.45649,55.570175,-2.45649,55.570175],
+  "bbox": [
+    -2.45649,
+    55.570175,
+    -2.45649,
+    55.570175
+],
   "geometry": {"coordinates":[-2.45649,55.570175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119020157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.148167,52.928257,-1.148167,52.928257",
     "geom:latitude":52.928257,
     "geom:longitude":-1.148167,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Wilford La",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119020157,
-    "wof:lastmodified":1449042077,
+    "wof:lastmodified":1466275956,
     "wof:name":"Big Tops",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.148167,52.928257,-1.148167,52.928257],
+  "bbox": [
+    -1.148167,
+    52.928257,
+    -1.148167,
+    52.928257
+],
   "geometry": {"coordinates":[-1.148167,52.928257],"type":"Point"}
 }

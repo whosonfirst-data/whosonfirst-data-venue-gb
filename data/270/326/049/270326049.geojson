@@ -2,13 +2,14 @@
   "id": 270326049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.182511,53.55508,-1.182511,53.55508",
     "geom:latitude":53.55508,
     "geom:longitude":-1.182511,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 St David's Drive",
     "sg:city":"Doncaster",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":270326049,
-    "wof:lastmodified":1449009686,
+    "wof:lastmodified":1466270265,
     "wof:name":"Country Fayre",
     "wof:parent_id":85790193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.182511,53.55508,-1.182511,53.55508],
+  "bbox": [
+    -1.182511,
+    53.55508,
+    -1.182511,
+    53.55508
+],
   "geometry": {"coordinates":[-1.182511,53.55508],"type":"Point"}
 }

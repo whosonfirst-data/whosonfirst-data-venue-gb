@@ -2,13 +2,14 @@
   "id": 119461025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.665874,55.628529,-4.665874,55.628529",
     "geom:latitude":55.628529,
     "geom:longitude":-4.665874,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"110-112 Dickson Drive",
     "sg:city":"Irvine",
     "sg:classifiers":[
@@ -32,14 +33,20 @@
     "wof:geomhash":"23d3173700b1fd35d34997796dfcb25f",
     "wof:hierarchy":[],
     "wof:id":119461025,
-    "wof:lastmodified":1449041776,
+    "wof:lastmodified":1466286516,
     "wof:name":"Sassa Ltd",
     "wof:parent_id":85684391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.665874,55.628529,-4.665874,55.628529],
+  "bbox": [
+    -4.665874,
+    55.628529,
+    -4.665874,
+    55.628529
+],
   "geometry": {"coordinates":[-4.665874,55.628529],"type":"Point"}
 }

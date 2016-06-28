@@ -2,13 +2,14 @@
   "id": 286897189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.453329,53.42643,-2.453329,53.42643",
     "geom:latitude":53.42643,
     "geom:longitude":-2.453329,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Glazebrook Lane, Glazebrook",
     "sg:city":"Warrington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286897189,
-    "wof:lastmodified":1449017635,
+    "wof:lastmodified":1466280312,
     "wof:name":"Glazebrook Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.453329,53.42643,-2.453329,53.42643],
+  "bbox": [
+    -2.453329,
+    53.42643,
+    -2.453329,
+    53.42643
+],
   "geometry": {"coordinates":[-2.453329,53.42643],"type":"Point"}
 }

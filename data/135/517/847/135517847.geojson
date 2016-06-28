@@ -2,13 +2,14 @@
   "id": 135517847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.369445,55.902195,-4.369445,55.902195",
     "geom:latitude":55.902195,
     "geom:longitude":-4.369445,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Manor Road, Old Drumchapel",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135517847,
-    "wof:lastmodified":1449022735,
+    "wof:lastmodified":1466276577,
     "wof:name":"Hugh Smith",
     "wof:parent_id":85791893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.369445,55.902195,-4.369445,55.902195],
+  "bbox": [
+    -4.369445,
+    55.902195,
+    -4.369445,
+    55.902195
+],
   "geometry": {"coordinates":[-4.369445,55.902195],"type":"Point"}
 }

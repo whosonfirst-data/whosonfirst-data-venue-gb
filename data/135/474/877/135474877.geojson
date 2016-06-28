@@ -2,13 +2,14 @@
   "id": 135474877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.143042,52.955418,-1.143042,52.955418",
     "geom:latitude":52.955418,
     "geom:longitude":-1.143042,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Beck Street",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135474877,
-    "wof:lastmodified":1449021107,
+    "wof:lastmodified":1466271687,
     "wof:name":"The Washroom",
     "wof:parent_id":85790407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.143042,52.955418,-1.143042,52.955418],
+  "bbox": [
+    -1.143042,
+    52.955418,
+    -1.143042,
+    52.955418
+],
   "geometry": {"coordinates":[-1.143042,52.955418],"type":"Point"}
 }

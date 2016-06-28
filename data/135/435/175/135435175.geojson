@@ -2,13 +2,14 @@
   "id": 135435175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.208969,55.821701,-4.208969,55.821701",
     "geom:latitude":55.821701,
     "geom:longitude":-4.208969,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Rodger Drive, Rutherglen",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135435175,
-    "wof:lastmodified":1449023726,
+    "wof:lastmodified":1466266866,
     "wof:name":"Rowantree Nursing Home",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.208969,55.821701,-4.208969,55.821701],
+  "bbox": [
+    -4.208969,
+    55.821701,
+    -4.208969,
+    55.821701
+],
   "geometry": {"coordinates":[-4.208969,55.821701],"type":"Point"}
 }

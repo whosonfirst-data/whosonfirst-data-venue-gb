@@ -2,13 +2,14 @@
   "id": 253490173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.822753,52.58284,-1.822753,52.58284",
     "geom:latitude":52.58284,
     "geom:longitude":-1.822753,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Devereux Road, Four Oaks",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253490173,
-    "wof:lastmodified":1449065480,
+    "wof:lastmodified":1466267721,
     "wof:name":"The Office",
     "wof:parent_id":85789067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.822753,52.58284,-1.822753,52.58284],
+  "bbox": [
+    -1.822753,
+    52.58284,
+    -1.822753,
+    52.58284
+],
   "geometry": {"coordinates":[-1.822753,52.58284],"type":"Point"}
 }

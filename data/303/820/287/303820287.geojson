@@ -2,13 +2,14 @@
   "id": 303820287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.130302,52.92942,-1.130302,52.92942",
     "geom:latitude":52.92942,
     "geom:longitude":-1.130302,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Highfield Road, West Bridgford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303820287,
-    "wof:lastmodified":1448999381,
+    "wof:lastmodified":1466283249,
     "wof:name":"The Appleton Group",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-1.130302,52.92942,-1.130302,52.92942],
+  "bbox": [
+    -1.130302,
+    52.92942,
+    -1.130302,
+    52.92942
+],
   "geometry": {"coordinates":[-1.130302,52.92942],"type":"Point"}
 }

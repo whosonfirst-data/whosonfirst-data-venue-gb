@@ -2,13 +2,14 @@
   "id": 303424177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.062634,50.848499,-1.062634,50.848499",
     "geom:latitude":50.848499,
     "geom:longitude":-1.062634,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Philips Church, Hawthorn Cres",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303424177,
-    "wof:lastmodified":1449000414,
+    "wof:lastmodified":1466275545,
     "wof:name":"Churches & Other Places of Worship",
     "wof:parent_id":85786783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.062634,50.848499,-1.062634,50.848499],
+  "bbox": [
+    -1.062634,
+    50.848499,
+    -1.062634,
+    50.848499
+],
   "geometry": {"coordinates":[-1.062634,50.848499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252713083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.608579,50.98357,-0.608579,50.98357",
     "geom:latitude":50.98357,
     "geom:longitude":-0.608579,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lund House, Wyndham Road",
     "sg:city":"Petworth",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":252713083,
-    "wof:lastmodified":1449006410,
+    "wof:lastmodified":1466257156,
     "wof:name":"Lund House Sheltered Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-0.608579,50.98357,-0.608579,50.98357],
+  "bbox": [
+    -0.608579,
+    50.98357,
+    -0.608579,
+    50.98357
+],
   "geometry": {"coordinates":[-0.608579,50.98357],"type":"Point"}
 }

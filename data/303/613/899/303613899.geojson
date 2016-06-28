@@ -2,13 +2,14 @@
   "id": 303613899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.514001,55.127682,-1.514001,55.127682",
     "geom:latitude":55.127682,
     "geom:longitude":-1.514001,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Thoroton Street",
     "sg:city":"Blyth",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303613899,
-    "wof:lastmodified":1448999259,
+    "wof:lastmodified":1466280292,
     "wof:name":"Blyth Community Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.514001,55.127682,-1.514001,55.127682],
+  "bbox": [
+    -1.514001,
+    55.127682,
+    -1.514001,
+    55.127682
+],
   "geometry": {"coordinates":[-1.514001,55.127682],"type":"Point"}
 }

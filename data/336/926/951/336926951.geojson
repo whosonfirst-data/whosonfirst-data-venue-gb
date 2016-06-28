@@ -2,13 +2,14 @@
   "id": 336926951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.246735,51.610996,-1.246735,51.610996",
     "geom:latitude":51.610996,
     "geom:longitude":-1.246735,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Cronshaw Close",
     "sg:city":"Didcot",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336926951,
-    "wof:lastmodified":1448997302,
+    "wof:lastmodified":1466280844,
     "wof:name":"Gould Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.246735,51.610996,-1.246735,51.610996],
+  "bbox": [
+    -1.246735,
+    51.610996,
+    -1.246735,
+    51.610996
+],
   "geometry": {"coordinates":[-1.246735,51.610996],"type":"Point"}
 }

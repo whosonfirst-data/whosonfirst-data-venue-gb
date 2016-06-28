@@ -2,13 +2,14 @@
   "id": 186372111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.512519,50.922001,-1.512519,50.922001",
     "geom:latitude":50.922001,
     "geom:longitude":-1.512519,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"128-132 Calmore Road, Totton",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186372111,
-    "wof:lastmodified":1449051991,
+    "wof:lastmodified":1466257145,
     "wof:name":"Calmore Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.512519,50.922001,-1.512519,50.922001],
+  "bbox": [
+    -1.512519,
+    50.922001,
+    -1.512519,
+    50.922001
+],
   "geometry": {"coordinates":[-1.512519,50.922001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336653603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.384026,50.929722,-1.384026,50.929722",
     "geom:latitude":50.929722,
     "geom:longitude":-1.384026,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"83-89 Belgrave Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336653603,
-    "wof:lastmodified":1448997005,
+    "wof:lastmodified":1466274369,
     "wof:name":"Rogers Yard",
     "wof:parent_id":85861259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-1.384026,50.929722,-1.384026,50.929722],
+  "bbox": [
+    -1.384026,
+    50.929722,
+    -1.384026,
+    50.929722
+],
   "geometry": {"coordinates":[-1.384026,50.929722],"type":"Point"}
 }

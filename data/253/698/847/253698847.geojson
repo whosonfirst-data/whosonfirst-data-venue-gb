@@ -2,13 +2,14 @@
   "id": 253698847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.041206,53.60199,-3.041206,53.60199",
     "geom:latitude":53.60199,
     "geom:longitude":-3.041206,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Station Rd",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253698847,
-    "wof:lastmodified":1449065608,
+    "wof:lastmodified":1466274233,
     "wof:name":"Berkeley Wines",
     "wof:parent_id":85785249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-3.041206,53.60199,-3.041206,53.60199],
+  "bbox": [
+    -3.041206,
+    53.60199,
+    -3.041206,
+    53.60199
+],
   "geometry": {"coordinates":[-3.041206,53.60199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303345575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.00629,51.463421,0.00629,51.463421",
     "geom:latitude":51.463421,
     "geom:longitude":0.00629,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Blackheath Hospital, 40-42 Lee Terr",
     "sg:city":"Blackheath",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303345575,
-    "wof:lastmodified":1449000373,
+    "wof:lastmodified":1466273218,
     "wof:name":"M.R.I Suite",
     "wof:parent_id":85866383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.00629,51.463421,0.00629,51.463421],
+  "bbox": [
+    0.00629,
+    51.463421,
+    0.00629,
+    51.463421
+],
   "geometry": {"coordinates":[0.00629,51.463421],"type":"Point"}
 }

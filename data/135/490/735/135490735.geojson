@@ -2,13 +2,14 @@
   "id": 135490735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.519106,51.450275,-2.519106,51.450275",
     "geom:latitude":51.450275,
     "geom:longitude":-2.519106,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 High Street",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135490735,
-    "wof:lastmodified":1449023695,
+    "wof:lastmodified":1466273477,
     "wof:name":"A C P Development",
     "wof:parent_id":85787903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.519106,51.450275,-2.519106,51.450275],
+  "bbox": [
+    -2.519106,
+    51.450275,
+    -2.519106,
+    51.450275
+],
   "geometry": {"coordinates":[-2.519106,51.450275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235954439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.330578,53.420963,-2.330578,53.420963",
     "geom:latitude":53.420963,
     "geom:longitude":-2.330578,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Washway Rd",
     "sg:city":"Sale",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":235954439,
-    "wof:lastmodified":1449008561,
+    "wof:lastmodified":1466255614,
     "wof:name":"Doppler Car Systems",
     "wof:parent_id":85785369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-2.330578,53.420963,-2.330578,53.420963],
+  "bbox": [
+    -2.330578,
+    53.420963,
+    -2.330578,
+    53.420963
+],
   "geometry": {"coordinates":[-2.330578,53.420963],"type":"Point"}
 }

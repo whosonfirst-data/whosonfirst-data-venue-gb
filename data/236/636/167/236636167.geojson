@@ -2,13 +2,14 @@
   "id": 236636167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.514294,54.852364,-1.514294,54.852364",
     "geom:latitude":54.852364,
     "geom:longitude":-1.514294,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1a Langtons Terrace",
     "sg:city":"Houghton-le-spring",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236636167,
-    "wof:lastmodified":1449002869,
+    "wof:lastmodified":1466268481,
     "wof:name":"Moor Taxis",
     "wof:parent_id":85787173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "private"
     ]
 },
-  "bbox": [-1.514294,54.852364,-1.514294,54.852364],
+  "bbox": [
+    -1.514294,
+    54.852364,
+    -1.514294,
+    54.852364
+],
   "geometry": {"coordinates":[-1.514294,54.852364],"type":"Point"}
 }

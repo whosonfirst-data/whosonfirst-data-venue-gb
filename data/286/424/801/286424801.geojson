@@ -2,13 +2,14 @@
   "id": 286424801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.149848,52.831516,-1.149848,52.831516",
     "geom:latitude":52.831516,
     "geom:longitude":-1.149848,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Main Street, Rempstone",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286424801,
-    "wof:lastmodified":1449017909,
+    "wof:lastmodified":1466267186,
     "wof:name":"Childs Play",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "castle"
     ]
 },
-  "bbox": [-1.149848,52.831516,-1.149848,52.831516],
+  "bbox": [
+    -1.149848,
+    52.831516,
+    -1.149848,
+    52.831516
+],
   "geometry": {"coordinates":[-1.149848,52.831516],"type":"Point"}
 }

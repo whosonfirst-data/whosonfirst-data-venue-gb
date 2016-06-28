@@ -2,13 +2,14 @@
   "id": 119282215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.211599,50.830956,-1.211599,50.830956",
     "geom:latitude":50.830956,
     "geom:longitude":-1.211599,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Windermere Avenue, Stubbington",
     "sg:city":"Fareham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119282215,
-    "wof:lastmodified":1449042536,
+    "wof:lastmodified":1466278187,
     "wof:name":"Steven Samways",
     "wof:parent_id":85787453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.211599,50.830956,-1.211599,50.830956],
+  "bbox": [
+    -1.211599,
+    50.830956,
+    -1.211599,
+    50.830956
+],
   "geometry": {"coordinates":[-1.211599,50.830956],"type":"Point"}
 }

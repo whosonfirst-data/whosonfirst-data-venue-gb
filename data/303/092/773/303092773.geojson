@@ -2,13 +2,14 @@
   "id": 303092773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.051578,53.38335,-3.051578,53.38335",
     "geom:latitude":53.38335,
     "geom:longitude":-3.051578,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Wellington Rd",
     "sg:city":"Birkenhead",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303092773,
-    "wof:lastmodified":1449000106,
+    "wof:lastmodified":1466265396,
     "wof:name":"Wellington Road Post Office",
     "wof:parent_id":85793097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.051578,53.38335,-3.051578,53.38335],
+  "bbox": [
+    -3.051578,
+    53.38335,
+    -3.051578,
+    53.38335
+],
   "geometry": {"coordinates":[-3.051578,53.38335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135271113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.207444,55.957626,-3.207444,55.957626",
     "geom:latitude":55.957626,
     "geom:longitude":-3.207444,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 St Stephen Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135271113,
-    "wof:lastmodified":1449022597,
+    "wof:lastmodified":1466263258,
     "wof:name":"The Lucky Inn",
     "wof:parent_id":85861507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.207444,55.957626,-3.207444,55.957626],
+  "bbox": [
+    -3.207444,
+    55.957626,
+    -3.207444,
+    55.957626
+],
   "geometry": {"coordinates":[-3.207444,55.957626],"type":"Point"}
 }

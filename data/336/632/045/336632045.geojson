@@ -2,13 +2,14 @@
   "id": 336632045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.619384,55.001732,-1.619384,55.001732",
     "geom:latitude":55.001732,
     "geom:longitude":-1.619384,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 High Street, Gosforth",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":336632045,
-    "wof:lastmodified":1448997616,
+    "wof:lastmodified":1466273735,
     "wof:name":"SOUTHCOURT RESIDENTIAL HOME",
     "wof:parent_id":85791507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-1.619384,55.001732,-1.619384,55.001732],
+  "bbox": [
+    -1.619384,
+    55.001732,
+    -1.619384,
+    55.001732
+],
   "geometry": {"coordinates":[-1.619384,55.001732],"type":"Point"}
 }

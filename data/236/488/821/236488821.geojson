@@ -2,13 +2,14 @@
   "id": 236488821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.255033,53.340843,-1.255033,53.340843",
     "geom:latitude":53.340843,
     "geom:longitude":-1.255033,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Hard Lane, Kiveton Park",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236488821,
-    "wof:lastmodified":1449005146,
+    "wof:lastmodified":1466265649,
     "wof:name":"Corner Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.255033,53.340843,-1.255033,53.340843],
+  "bbox": [
+    -1.255033,
+    53.340843,
+    -1.255033,
+    53.340843
+],
   "geometry": {"coordinates":[-1.255033,53.340843],"type":"Point"}
 }

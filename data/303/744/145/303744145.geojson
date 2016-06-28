@@ -2,13 +2,14 @@
   "id": 303744145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.21609,51.716518,-1.21609,51.716518",
     "geom:latitude":51.716518,
     "geom:longitude":-1.21609,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Medawar Centre, Oxford Science Park",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303744145,
-    "wof:lastmodified":1448999000,
+    "wof:lastmodified":1466282305,
     "wof:name":"Oxford Molecular Ltd.",
     "wof:parent_id":85788419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "software"
     ]
 },
-  "bbox": [-1.21609,51.716518,-1.21609,51.716518],
+  "bbox": [
+    -1.21609,
+    51.716518,
+    -1.21609,
+    51.716518
+],
   "geometry": {"coordinates":[-1.21609,51.716518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119421679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.420166,52.535675,-2.420166,52.535675",
     "geom:latitude":52.535675,
     "geom:longitude":-2.420166,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 High Street",
     "sg:city":"Bridgnorth",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119421679,
-    "wof:lastmodified":1449042574,
+    "wof:lastmodified":1466285942,
     "wof:name":"The Bakehouse Cafe",
     "wof:parent_id":101853631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.420166,52.535675,-2.420166,52.535675],
+  "bbox": [
+    -2.420166,
+    52.535675,
+    -2.420166,
+    52.535675
+],
   "geometry": {"coordinates":[-2.420166,52.535675],"type":"Point"}
 }

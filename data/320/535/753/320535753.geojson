@@ -2,13 +2,14 @@
   "id": 320535753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.472294,53.756767,-2.472294,53.756767",
     "geom:latitude":53.756767,
     "geom:longitude":-2.472294,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Whalley New Road",
     "sg:city":"Blackburn",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320535753,
-    "wof:lastmodified":1449011931,
+    "wof:lastmodified":1466281702,
     "wof:name":"The Gatehouse",
     "wof:parent_id":85792855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "home"
     ]
 },
-  "bbox": [-2.472294,53.756767,-2.472294,53.756767],
+  "bbox": [
+    -2.472294,
+    53.756767,
+    -2.472294,
+    53.756767
+],
   "geometry": {"coordinates":[-2.472294,53.756767],"type":"Point"}
 }

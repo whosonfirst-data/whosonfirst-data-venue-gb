@@ -2,13 +2,14 @@
   "id": 303179227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.640339,53.832603,-1.640339,53.832603",
     "geom:latitude":53.832603,
     "geom:longitude":-1.640339,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sunnybank Avenue, Horsforth",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303179227,
-    "wof:lastmodified":1449000317,
+    "wof:lastmodified":1466268112,
     "wof:name":"Cellar 5",
     "wof:parent_id":85790075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.640339,53.832603,-1.640339,53.832603],
+  "bbox": [
+    -1.640339,
+    53.832603,
+    -1.640339,
+    53.832603
+],
   "geometry": {"coordinates":[-1.640339,53.832603],"type":"Point"}
 }

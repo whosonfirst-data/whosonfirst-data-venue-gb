@@ -2,13 +2,14 @@
   "id": 287050667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.515088,55.834751,-4.515088,55.834751",
     "geom:latitude":55.834751,
     "geom:longitude":-4.515088,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Quarry Street",
     "sg:city":"Johnstone",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":287050667,
-    "wof:lastmodified":1449001161,
+    "wof:lastmodified":1466264545,
     "wof:name":"Johnstone Superstore",
     "wof:parent_id":85792519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.515088,55.834751,-4.515088,55.834751],
+  "bbox": [
+    -4.515088,
+    55.834751,
+    -4.515088,
+    55.834751
+],
   "geometry": {"coordinates":[-4.515088,55.834751],"type":"Point"}
 }

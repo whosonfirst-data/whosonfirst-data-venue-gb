@@ -2,13 +2,14 @@
   "id": 269735583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.628274,50.501137,-3.628274,50.501137",
     "geom:latitude":50.501137,
     "geom:longitude":-3.628274,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Two Mile Oak, Abbotskerswell",
     "sg:city":"Newton Abbot",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":269735583,
-    "wof:lastmodified":1449038891,
+    "wof:lastmodified":1466267718,
     "wof:name":"Ruby Landfill & Inceration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "waste"
     ]
 },
-  "bbox": [-3.628274,50.501137,-3.628274,50.501137],
+  "bbox": [
+    -3.628274,
+    50.501137,
+    -3.628274,
+    50.501137
+],
   "geometry": {"coordinates":[-3.628274,50.501137],"type":"Point"}
 }

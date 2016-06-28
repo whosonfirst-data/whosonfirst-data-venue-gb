@@ -2,13 +2,14 @@
   "id": 118823101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.087284,50.804008,-1.087284,50.804008",
     "geom:latitude":50.804008,
     "geom:longitude":-1.087284,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Royal Naval Barracks, Hms Nelson, Queen St",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118823101,
-    "wof:lastmodified":1449054516,
+    "wof:lastmodified":1466274493,
     "wof:name":"Welfare Garage",
     "wof:parent_id":85861983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.087284,50.804008,-1.087284,50.804008],
+  "bbox": [
+    -1.087284,
+    50.804008,
+    -1.087284,
+    50.804008
+],
   "geometry": {"coordinates":[-1.087284,50.804008],"type":"Point"}
 }

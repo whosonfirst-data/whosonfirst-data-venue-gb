@@ -2,13 +2,14 @@
   "id": 119188789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.862461,50.750481,-1.862461,50.750481",
     "geom:latitude":50.750481,
     "geom:longitude":-1.862461,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Brockenhurst Road, Charminster",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":119188789,
-    "wof:lastmodified":1449042161,
+    "wof:lastmodified":1466267917,
     "wof:name":"Area Deliveries & Removals",
     "wof:parent_id":85791709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.862461,50.750481,-1.862461,50.750481],
+  "bbox": [
+    -1.862461,
+    50.750481,
+    -1.862461,
+    50.750481
+],
   "geometry": {"coordinates":[-1.862461,50.750481],"type":"Point"}
 }

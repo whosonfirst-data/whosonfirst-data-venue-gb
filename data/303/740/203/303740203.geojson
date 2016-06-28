@@ -2,13 +2,14 @@
   "id": 303740203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.163282,50.39579,-4.163282,50.39579",
     "geom:latitude":50.39579,
     "geom:longitude":-4.163282,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Ham Grn",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303740203,
-    "wof:lastmodified":1448999227,
+    "wof:lastmodified":1466282215,
     "wof:name":"Beyond the Fringe",
     "wof:parent_id":85789477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-4.163282,50.39579,-4.163282,50.39579],
+  "bbox": [
+    -4.163282,
+    50.39579,
+    -4.163282,
+    50.39579
+],
   "geometry": {"coordinates":[-4.163282,50.39579],"type":"Point"}
 }

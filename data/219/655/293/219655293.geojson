@@ -2,13 +2,14 @@
   "id": 219655293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.146207,50.372185,-4.146207,50.372185",
     "geom:latitude":50.372185,
     "geom:longitude":-4.146207,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Cornwall St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219655293,
-    "wof:lastmodified":1449072405,
+    "wof:lastmodified":1466261301,
     "wof:name":"Dumplins",
     "wof:parent_id":85789105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "room"
     ]
 },
-  "bbox": [-4.146207,50.372185,-4.146207,50.372185],
+  "bbox": [
+    -4.146207,
+    50.372185,
+    -4.146207,
+    50.372185
+],
   "geometry": {"coordinates":[-4.146207,50.372185],"type":"Point"}
 }

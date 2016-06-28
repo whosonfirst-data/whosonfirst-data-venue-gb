@@ -2,13 +2,14 @@
   "id": 320798429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.149324,52.955349,-1.149324,52.955349",
     "geom:latitude":52.955349,
     "geom:longitude":-1.149324,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Kings Walk",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320798429,
-    "wof:lastmodified":1449011953,
+    "wof:lastmodified":1466284898,
     "wof:name":"Cafe De Paris",
     "wof:parent_id":85793185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "french"
     ]
 },
-  "bbox": [-1.149324,52.955349,-1.149324,52.955349],
+  "bbox": [
+    -1.149324,
+    52.955349,
+    -1.149324,
+    52.955349
+],
   "geometry": {"coordinates":[-1.149324,52.955349],"type":"Point"}
 }

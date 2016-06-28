@@ -2,13 +2,14 @@
   "id": 135852991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.440995,50.714825,-2.440995,50.714825",
     "geom:latitude":50.714825,
     "geom:longitude":-2.440995,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 High West Street",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135852991,
-    "wof:lastmodified":1449023503,
+    "wof:lastmodified":1466287911,
     "wof:name":"Loc-Out Ltd",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.440995,50.714825,-2.440995,50.714825],
+  "bbox": [
+    -2.440995,
+    50.714825,
+    -2.440995,
+    50.714825
+],
   "geometry": {"coordinates":[-2.440995,50.714825],"type":"Point"}
 }

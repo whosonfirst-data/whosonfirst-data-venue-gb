@@ -2,13 +2,14 @@
   "id": 102630275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.25094,51.420212,-3.25094,51.420212",
     "geom:latitude":51.420212,
     "geom:longitude":-3.25094,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Po Box 37",
     "sg:city":"Barry",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102630275,
-    "wof:lastmodified":1449068645,
+    "wof:lastmodified":1466253581,
     "wof:name":"Express Reports",
     "wof:parent_id":85861417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.25094,51.420212,-3.25094,51.420212],
+  "bbox": [
+    -3.25094,
+    51.420212,
+    -3.25094,
+    51.420212
+],
   "geometry": {"coordinates":[-3.25094,51.420212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286483241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.191893,53.444389,-2.191893,53.444389",
     "geom:latitude":53.444389,
     "geom:longitude":-2.191893,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Albert Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286483241,
-    "wof:lastmodified":1449017500,
+    "wof:lastmodified":1466269064,
     "wof:name":"The Little Book Shop",
     "wof:parent_id":85788745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "second-hand"
     ]
 },
-  "bbox": [-2.191893,53.444389,-2.191893,53.444389],
+  "bbox": [
+    -2.191893,
+    53.444389,
+    -2.191893,
+    53.444389
+],
   "geometry": {"coordinates":[-2.191893,53.444389],"type":"Point"}
 }

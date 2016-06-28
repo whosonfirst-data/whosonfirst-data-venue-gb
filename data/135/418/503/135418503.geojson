@@ -2,13 +2,14 @@
   "id": 135418503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.137863,50.368187,-4.137863,50.368187",
     "geom:latitude":50.368187,
     "geom:longitude":-4.137863,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Southside Ope, The Barbican",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135418503,
-    "wof:lastmodified":1449023373,
+    "wof:lastmodified":1466264868,
     "wof:name":"Michael Wood",
     "wof:parent_id":85790965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.137863,50.368187,-4.137863,50.368187],
+  "bbox": [
+    -4.137863,
+    50.368187,
+    -4.137863,
+    50.368187
+],
   "geometry": {"coordinates":[-4.137863,50.368187],"type":"Point"}
 }

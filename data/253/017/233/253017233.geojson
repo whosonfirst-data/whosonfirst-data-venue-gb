@@ -2,13 +2,14 @@
   "id": 253017233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.248789,51.611656,-1.248789,51.611656",
     "geom:latitude":51.611656,
     "geom:longitude":-1.248789,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 King Alfred Drive",
     "sg:city":"Didcot",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253017233,
-    "wof:lastmodified":1449064399,
+    "wof:lastmodified":1466257753,
     "wof:name":"Oxford & County Newspapers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-1.248789,51.611656,-1.248789,51.611656],
+  "bbox": [
+    -1.248789,
+    51.611656,
+    -1.248789,
+    51.611656
+],
   "geometry": {"coordinates":[-1.248789,51.611656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286871511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.007306,52.473331,-2.007306,52.473331",
     "geom:latitude":52.473331,
     "geom:longitude":-2.007306,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Queensway",
     "sg:city":"Oldbury",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286871511,
-    "wof:lastmodified":1449016144,
+    "wof:lastmodified":1466280100,
     "wof:name":"Kings Meadow",
     "wof:parent_id":85791347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-2.007306,52.473331,-2.007306,52.473331],
+  "bbox": [
+    -2.007306,
+    52.473331,
+    -2.007306,
+    52.473331
+],
   "geometry": {"coordinates":[-2.007306,52.473331],"type":"Point"}
 }

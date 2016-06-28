@@ -2,13 +2,14 @@
   "id": 303432703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.05803,51.519409,-0.05803,51.519409",
     "geom:latitude":51.519409,
     "geom:longitude":-0.05803,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"East London M L O, 206 Whitechapel Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303432703,
-    "wof:lastmodified":1448998072,
+    "wof:lastmodified":1466275855,
     "wof:name":"Post Office Counters",
     "wof:parent_id":85865133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.05803,51.519409,-0.05803,51.519409],
+  "bbox": [
+    -0.05803,
+    51.519409,
+    -0.05803,
+    51.519409
+],
   "geometry": {"coordinates":[-0.05803,51.519409],"type":"Point"}
 }

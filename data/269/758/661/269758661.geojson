@@ -2,13 +2,14 @@
   "id": 269758661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.407891,50.898781,-1.407891,50.898781",
     "geom:latitude":50.898781,
     "geom:longitude":-1.407891,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Mayflower Court, Bugle Street",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269758661,
-    "wof:lastmodified":1449036877,
+    "wof:lastmodified":1466268417,
     "wof:name":"John The Hairdresser",
     "wof:parent_id":85787189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.407891,50.898781,-1.407891,50.898781],
+  "bbox": [
+    -1.407891,
+    50.898781,
+    -1.407891,
+    50.898781
+],
   "geometry": {"coordinates":[-1.407891,50.898781],"type":"Point"}
 }

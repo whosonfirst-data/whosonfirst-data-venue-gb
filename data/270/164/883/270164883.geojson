@@ -2,13 +2,14 @@
   "id": 270164883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.828806,53.638649,-1.828806,53.638649",
     "geom:latitude":53.638649,
     "geom:longitude":-1.828806,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Morley Lane, Milnsbridge",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270164883,
-    "wof:lastmodified":1449008941,
+    "wof:lastmodified":1466265409,
     "wof:name":"Well Groomed",
     "wof:parent_id":85789119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.828806,53.638649,-1.828806,53.638649],
+  "bbox": [
+    -1.828806,
+    53.638649,
+    -1.828806,
+    53.638649
+],
   "geometry": {"coordinates":[-1.828806,53.638649],"type":"Point"}
 }

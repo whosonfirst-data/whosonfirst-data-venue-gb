@@ -2,13 +2,14 @@
   "id": 135401693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.12904,55.865421,-4.12904,55.865421",
     "geom:latitude":55.865421,
     "geom:longitude":-4.12904,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Billy Raferty Centre, 2 Trondra Path",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135401693,
-    "wof:lastmodified":1449023568,
+    "wof:lastmodified":1466262883,
     "wof:name":"Bosco Juniors",
     "wof:parent_id":85792561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.12904,55.865421,-4.12904,55.865421],
+  "bbox": [
+    -4.12904,
+    55.865421,
+    -4.12904,
+    55.865421
+],
   "geometry": {"coordinates":[-4.12904,55.865421],"type":"Point"}
 }

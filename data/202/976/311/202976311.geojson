@@ -2,13 +2,14 @@
   "id": 202976311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.50093,52.42638,-1.50093,52.42638",
     "geom:latitude":52.42638,
     "geom:longitude":-1.50093,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"346 Coleshill Road",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202976311,
-    "wof:lastmodified":1449061161,
+    "wof:lastmodified":1466261900,
     "wof:name":"Foleshill Warehouse",
     "wof:parent_id":85792035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "second-hand"
     ]
 },
-  "bbox": [-1.50093,52.42638,-1.50093,52.42638],
+  "bbox": [
+    -1.50093,
+    52.42638,
+    -1.50093,
+    52.42638
+],
   "geometry": {"coordinates":[-1.50093,52.42638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253515811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.05788,53.488018,-2.05788,53.488018",
     "geom:latitude":53.488018,
     "geom:longitude":-2.05788,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Bond St",
     "sg:city":"Stalybridge",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253515811,
-    "wof:lastmodified":1449063502,
+    "wof:lastmodified":1466268384,
     "wof:name":"Autoinspect",
     "wof:parent_id":85793057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-2.05788,53.488018,-2.05788,53.488018],
+  "bbox": [
+    -2.05788,
+    53.488018,
+    -2.05788,
+    53.488018
+],
   "geometry": {"coordinates":[-2.05788,53.488018],"type":"Point"}
 }

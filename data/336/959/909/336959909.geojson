@@ -2,13 +2,14 @@
   "id": 336959909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.4e-05,51.448414,-6.4e-05,51.448414",
     "geom:latitude":51.448414,
-    "geom:longitude":-6.4e-05,
+    "geom:longitude":-0.000064,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Wellmeadow Road, Lewisham",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336959909,
-    "wof:lastmodified":1448997911,
+    "wof:lastmodified":1466281245,
     "wof:name":"Edward Richards Builders",
     "wof:parent_id":85861189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-6.4e-05,51.448414,-6.4e-05,51.448414],
-  "geometry": {"coordinates":[-6.4e-05,51.448414],"type":"Point"}
+  "bbox": [
+    -6.4e-05,
+    51.448414,
+    -6.4e-05,
+    51.448414
+],
+  "geometry": {"coordinates":[-0.000064,51.448414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253410785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.87031,52.955421,-2.87031,52.955421",
     "geom:latitude":52.955421,
     "geom:longitude":-2.87031,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Penley",
     "sg:city":"Wrexham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253410785,
-    "wof:lastmodified":1449062862,
+    "wof:lastmodified":1466265812,
     "wof:name":"Polish Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.87031,52.955421,-2.87031,52.955421],
+  "bbox": [
+    -2.87031,
+    52.955421,
+    -2.87031,
+    52.955421
+],
   "geometry": {"coordinates":[-2.87031,52.955421],"type":"Point"}
 }

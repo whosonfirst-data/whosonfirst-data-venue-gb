@@ -2,13 +2,14 @@
   "id": 135906553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.445535,52.536877,-1.445535,52.536877",
     "geom:latitude":52.536877,
     "geom:longitude":-1.445535,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Clay Avenue",
     "sg:city":"Nuneaton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135906553,
-    "wof:lastmodified":1449022144,
+    "wof:lastmodified":1466288130,
     "wof:name":"1st Taxis",
     "wof:parent_id":85785407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.445535,52.536877,-1.445535,52.536877],
+  "bbox": [
+    -1.445535,
+    52.536877,
+    -1.445535,
+    52.536877
+],
   "geometry": {"coordinates":[-1.445535,52.536877],"type":"Point"}
 }

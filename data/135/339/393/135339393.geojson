@@ -2,13 +2,14 @@
   "id": 135339393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.321364,57.649181,-3.321364,57.649181",
     "geom:latitude":57.649181,
     "geom:longitude":-3.321364,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41-43 Blackfriars Road",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135339393,
-    "wof:lastmodified":1449022360,
+    "wof:lastmodified":1466255998,
     "wof:name":"Hawco Elgin",
     "wof:parent_id":101873635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.321364,57.649181,-3.321364,57.649181],
+  "bbox": [
+    -3.321364,
+    57.649181,
+    -3.321364,
+    57.649181
+],
   "geometry": {"coordinates":[-3.321364,57.649181],"type":"Point"}
 }

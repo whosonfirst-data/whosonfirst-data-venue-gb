@@ -2,13 +2,14 @@
   "id": 119065705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.75519,53.643356,-1.75519,53.643356",
     "geom:latitude":53.643356,
     "geom:longitude":-1.75519,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Ravensknowle Rd",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119065705,
-    "wof:lastmodified":1449043536,
+    "wof:lastmodified":1466254936,
     "wof:name":"Holly Rose House",
     "wof:parent_id":85785289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.75519,53.643356,-1.75519,53.643356],
+  "bbox": [
+    -1.75519,
+    53.643356,
+    -1.75519,
+    53.643356
+],
   "geometry": {"coordinates":[-1.75519,53.643356],"type":"Point"}
 }

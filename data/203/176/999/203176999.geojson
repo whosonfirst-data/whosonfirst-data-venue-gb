@@ -2,13 +2,14 @@
   "id": 203176999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.99171,51.58075,-2.99171,51.58075",
     "geom:latitude":51.58075,
     "geom:longitude":-2.99171,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Mountjoy Road",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203176999,
-    "wof:lastmodified":1449026220,
+    "wof:lastmodified":1466255586,
     "wof:name":"Mountjoy Garage",
     "wof:parent_id":85864255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.99171,51.58075,-2.99171,51.58075],
+  "bbox": [
+    -2.99171,
+    51.58075,
+    -2.99171,
+    51.58075
+],
   "geometry": {"coordinates":[-2.99171,51.58075],"type":"Point"}
 }

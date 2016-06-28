@@ -2,13 +2,14 @@
   "id": 102712105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.348858,54.470627,-2.348858,54.470627",
     "geom:latitude":54.470627,
     "geom:longitude":-2.348858,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 High Street",
     "sg:city":"Kirkby Stephen",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102712105,
-    "wof:lastmodified":1449068793,
+    "wof:lastmodified":1466256826,
     "wof:name":"Country Flavours",
     "wof:parent_id":85683641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.348858,54.470627,-2.348858,54.470627],
+  "bbox": [
+    -2.348858,
+    54.470627,
+    -2.348858,
+    54.470627
+],
   "geometry": {"coordinates":[-2.348858,54.470627],"type":"Point"}
 }

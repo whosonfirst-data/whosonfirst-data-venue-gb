@@ -2,13 +2,14 @@
   "id": 203085287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.193285,56.117077,-3.193285,56.117077",
     "geom:latitude":56.117077,
     "geom:longitude":-3.193285,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Melville Place",
     "sg:city":"Kirkcaldy",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203085287,
-    "wof:lastmodified":1449025384,
+    "wof:lastmodified":1466254070,
     "wof:name":"A 1 Taxi Cabs",
     "wof:parent_id":85786413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-3.193285,56.117077,-3.193285,56.117077],
+  "bbox": [
+    -3.193285,
+    56.117077,
+    -3.193285,
+    56.117077
+],
   "geometry": {"coordinates":[-3.193285,56.117077],"type":"Point"}
 }

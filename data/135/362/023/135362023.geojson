@@ -2,13 +2,14 @@
   "id": 135362023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.257749,50.86272,-1.257749,50.86272",
     "geom:latitude":50.86272,
     "geom:longitude":-1.257749,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Westminster Gardens",
     "sg:city":"Fareham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135362023,
-    "wof:lastmodified":1449022964,
+    "wof:lastmodified":1466258594,
     "wof:name":"Metro Rod",
     "wof:parent_id":85861211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.257749,50.86272,-1.257749,50.86272],
+  "bbox": [
+    -1.257749,
+    50.86272,
+    -1.257749,
+    50.86272
+],
   "geometry": {"coordinates":[-1.257749,50.86272],"type":"Point"}
 }

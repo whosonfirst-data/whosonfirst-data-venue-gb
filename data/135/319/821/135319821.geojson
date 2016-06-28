@@ -2,13 +2,14 @@
   "id": 135319821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.536719,56.059875,-3.536719,56.059875",
     "geom:latitude":56.059875,
     "geom:longitude":-3.536719,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Crombie Farm, Cairneyhill",
     "sg:city":"Dunfermline",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135319821,
-    "wof:lastmodified":1449022229,
+    "wof:lastmodified":1466253607,
     "wof:name":"A B Hamilton",
     "wof:parent_id":85684569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.536719,56.059875,-3.536719,56.059875],
+  "bbox": [
+    -3.536719,
+    56.059875,
+    -3.536719,
+    56.059875
+],
   "geometry": {"coordinates":[-3.536719,56.059875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136190663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.158888,51.150497,-3.158888,51.150497",
     "geom:latitude":51.150497,
     "geom:longitude":-3.158888,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Castle Street, Nether Stowey",
     "sg:city":"Bridgwater",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136190663,
-    "wof:lastmodified":1449076186,
+    "wof:lastmodified":1466260345,
     "wof:name":"Castle Stores",
     "wof:parent_id":85684013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.158888,51.150497,-3.158888,51.150497],
+  "bbox": [
+    -3.158888,
+    51.150497,
+    -3.158888,
+    51.150497
+],
   "geometry": {"coordinates":[-3.158888,51.150497],"type":"Point"}
 }

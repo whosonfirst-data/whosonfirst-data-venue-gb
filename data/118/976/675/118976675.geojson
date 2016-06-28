@@ -2,13 +2,14 @@
   "id": 118976675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.118009,57.165939,-2.118009,57.165939",
     "geom:latitude":57.165939,
     "geom:longitude":-2.118009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Woodside Library, 356 Clifton Road",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":118976675,
-    "wof:lastmodified":1449053712,
+    "wof:lastmodified":1466282745,
     "wof:name":"Woodside Library",
     "wof:parent_id":85789565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.118009,57.165939,-2.118009,57.165939],
+  "bbox": [
+    -2.118009,
+    57.165939,
+    -2.118009,
+    57.165939
+],
   "geometry": {"coordinates":[-2.118009,57.165939],"type":"Point"}
 }

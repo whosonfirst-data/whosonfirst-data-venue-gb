@@ -2,13 +2,14 @@
   "id": 303894983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.641301,53.831989,-1.641301,53.831989",
     "geom:latitude":53.831989,
     "geom:longitude":-1.641301,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"87 New Road Side",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303894983,
-    "wof:lastmodified":1448999128,
+    "wof:lastmodified":1466284142,
     "wof:name":"Thurstons",
     "wof:parent_id":85790075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-1.641301,53.831989,-1.641301,53.831989],
+  "bbox": [
+    -1.641301,
+    53.831989,
+    -1.641301,
+    53.831989
+],
   "geometry": {"coordinates":[-1.641301,53.831989],"type":"Point"}
 }

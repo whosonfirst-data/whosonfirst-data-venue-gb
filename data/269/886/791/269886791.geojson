@@ -2,13 +2,14 @@
   "id": 269886791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.406349,50.91481,-1.406349,50.91481",
     "geom:latitude":50.91481,
     "geom:longitude":-1.406349,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Carlton House, 1 Carlton Place",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":269886791,
-    "wof:lastmodified":1449037462,
+    "wof:lastmodified":1466272329,
     "wof:name":"Seymours Wine Bar",
     "wof:parent_id":85792821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.406349,50.91481,-1.406349,50.91481],
+  "bbox": [
+    -1.406349,
+    50.91481,
+    -1.406349,
+    50.91481
+],
   "geometry": {"coordinates":[-1.406349,50.91481],"type":"Point"}
 }

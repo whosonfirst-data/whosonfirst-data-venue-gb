@@ -2,13 +2,14 @@
   "id": 186444143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.185299,55.950508,-3.185299,55.950508",
     "geom:latitude":55.950508,
     "geom:longitude":-3.185299,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 High Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186444143,
-    "wof:lastmodified":1449052651,
+    "wof:lastmodified":1466258356,
     "wof:name":"Book Trust Scotland",
     "wof:parent_id":85792703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.185299,55.950508,-3.185299,55.950508],
+  "bbox": [
+    -3.185299,
+    55.950508,
+    -3.185299,
+    55.950508
+],
   "geometry": {"coordinates":[-3.185299,55.950508],"type":"Point"}
 }

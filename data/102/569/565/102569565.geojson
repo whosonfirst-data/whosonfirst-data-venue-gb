@@ -2,13 +2,14 @@
   "id": 102569565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.536314,51.618786,-3.536314,51.618786",
     "geom:latitude":51.618786,
     "geom:longitude":-3.536314,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Ogwy Street, Nantymoel",
     "sg:city":"Bridgend",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102569565,
-    "wof:lastmodified":1449070118,
+    "wof:lastmodified":1466261970,
     "wof:name":"Berwyn Centre",
     "wof:parent_id":85684263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.536314,51.618786,-3.536314,51.618786],
+  "bbox": [
+    -3.536314,
+    51.618786,
+    -3.536314,
+    51.618786
+],
   "geometry": {"coordinates":[-3.536314,51.618786],"type":"Point"}
 }

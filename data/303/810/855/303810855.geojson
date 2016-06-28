@@ -2,13 +2,14 @@
   "id": 303810855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.18556,53.475533,-1.18556,53.475533",
     "geom:latitude":53.475533,
     "geom:longitude":-1.18556,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Tait Avenue, Edlington",
     "sg:city":"Doncaster",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303810855,
-    "wof:lastmodified":1448998825,
+    "wof:lastmodified":1466283268,
     "wof:name":"Tait Avenue Sheltered Housing",
     "wof:parent_id":85785449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-1.18556,53.475533,-1.18556,53.475533],
+  "bbox": [
+    -1.18556,
+    53.475533,
+    -1.18556,
+    53.475533
+],
   "geometry": {"coordinates":[-1.18556,53.475533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135298591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.128945,52.613132,-1.128945,52.613132",
     "geom:latitude":52.613132,
     "geom:longitude":-1.128945,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Morris Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135298591,
-    "wof:lastmodified":1449021825,
+    "wof:lastmodified":1466277053,
     "wof:name":"Taskmaster Ltd.",
     "wof:parent_id":85861113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.128945,52.613132,-1.128945,52.613132],
+  "bbox": [
+    -1.128945,
+    52.613132,
+    -1.128945,
+    52.613132
+],
   "geometry": {"coordinates":[-1.128945,52.613132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220100253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.924634,53.440475,-2.924634,53.440475",
     "geom:latitude":53.440475,
     "geom:longitude":-2.924634,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Broad Lane",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":220100253,
-    "wof:lastmodified":1449074642,
+    "wof:lastmodified":1466254715,
     "wof:name":"Langbank Medical Centre",
     "wof:parent_id":85789443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "practitioners"
     ]
 },
-  "bbox": [-2.924634,53.440475,-2.924634,53.440475],
+  "bbox": [
+    -2.924634,
+    53.440475,
+    -2.924634,
+    53.440475
+],
   "geometry": {"coordinates":[-2.924634,53.440475],"type":"Point"}
 }

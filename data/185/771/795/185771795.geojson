@@ -2,13 +2,14 @@
   "id": 185771795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.123574,52.587212,-2.123574,52.587212",
     "geom:latitude":52.587212,
     "geom:longitude":-2.123574,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Fryer Street",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185771795,
-    "wof:lastmodified":1449007483,
+    "wof:lastmodified":1466254283,
     "wof:name":"Chubb Buildings",
     "wof:parent_id":85789157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.123574,52.587212,-2.123574,52.587212],
+  "bbox": [
+    -2.123574,
+    52.587212,
+    -2.123574,
+    52.587212
+],
   "geometry": {"coordinates":[-2.123574,52.587212],"type":"Point"}
 }

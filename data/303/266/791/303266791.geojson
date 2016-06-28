@@ -2,13 +2,14 @@
   "id": 303266791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.261597,55.863846,-4.261597,55.863846",
     "geom:latitude":55.863846,
     "geom:longitude":-4.261597,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"176 West Regent Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303266791,
-    "wof:lastmodified":1448998194,
+    "wof:lastmodified":1466270842,
     "wof:name":"The Brasserie",
     "wof:parent_id":85792619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.261597,55.863846,-4.261597,55.863846],
+  "bbox": [
+    -4.261597,
+    55.863846,
+    -4.261597,
+    55.863846
+],
   "geometry": {"coordinates":[-4.261597,55.863846],"type":"Point"}
 }

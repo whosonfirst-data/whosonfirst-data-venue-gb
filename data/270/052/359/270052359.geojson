@@ -2,13 +2,14 @@
   "id": 270052359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.50812,53.262447,-2.50812,53.262447",
     "geom:latitude":53.262447,
     "geom:longitude":-2.50812,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Witton Street",
     "sg:city":"Northwich",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270052359,
-    "wof:lastmodified":1449009735,
+    "wof:lastmodified":1466262036,
     "wof:name":"The Chip Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-2.50812,53.262447,-2.50812,53.262447],
+  "bbox": [
+    -2.50812,
+    53.262447,
+    -2.50812,
+    53.262447
+],
   "geometry": {"coordinates":[-2.50812,53.262447],"type":"Point"}
 }

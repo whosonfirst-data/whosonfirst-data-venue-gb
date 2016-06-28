@@ -2,13 +2,14 @@
   "id": 118607897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.41536,54.733768,-4.41536,54.733768",
     "geom:latitude":54.733768,
     "geom:longitude":-4.41536,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 George Street, Whithorn",
     "sg:city":"Newton Stewart",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":118607897,
-    "wof:lastmodified":1449053330,
+    "wof:lastmodified":1466258309,
     "wof:name":"M Mitchell",
     "wof:parent_id":85683743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.41536,54.733768,-4.41536,54.733768],
+  "bbox": [
+    -4.41536,
+    54.733768,
+    -4.41536,
+    54.733768
+],
   "geometry": {"coordinates":[-4.41536,54.733768],"type":"Point"}
 }

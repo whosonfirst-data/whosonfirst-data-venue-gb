@@ -2,13 +2,14 @@
   "id": 135872125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.456159,50.709099,-2.456159,50.709099",
     "geom:latitude":50.709099,
     "geom:longitude":-2.456159,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Coburg Road",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135872125,
-    "wof:lastmodified":1449021274,
+    "wof:lastmodified":1466287969,
     "wof:name":"R F C Dorchester",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.456159,50.709099,-2.456159,50.709099],
+  "bbox": [
+    -2.456159,
+    50.709099,
+    -2.456159,
+    50.709099
+],
   "geometry": {"coordinates":[-2.456159,50.709099],"type":"Point"}
 }

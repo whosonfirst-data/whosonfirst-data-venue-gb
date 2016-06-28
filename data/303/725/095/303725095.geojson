@@ -2,13 +2,14 @@
   "id": 303725095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.078621,53.486996,-2.078621,53.486996",
     "geom:latitude":53.486996,
     "geom:longitude":-2.078621,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66a Stamford Square",
     "sg:city":"Ashton-under-lyne",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303725095,
-    "wof:lastmodified":1448998705,
+    "wof:lastmodified":1466282024,
     "wof:name":"Kings Chippy",
     "wof:parent_id":85793057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-2.078621,53.486996,-2.078621,53.486996],
+  "bbox": [
+    -2.078621,
+    53.486996,
+    -2.078621,
+    53.486996
+],
   "geometry": {"coordinates":[-2.078621,53.486996],"type":"Point"}
 }

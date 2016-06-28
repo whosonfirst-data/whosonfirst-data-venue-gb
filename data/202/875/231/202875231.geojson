@@ -2,13 +2,14 @@
   "id": 202875231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.441014,53.207081,-1.441014,53.207081",
     "geom:latitude":53.207081,
     "geom:longitude":-1.441014,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Davids Drive",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202875231,
-    "wof:lastmodified":1449061988,
+    "wof:lastmodified":1466260348,
     "wof:name":"M I Taxis",
     "wof:parent_id":85861099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-1.441014,53.207081,-1.441014,53.207081],
+  "bbox": [
+    -1.441014,
+    53.207081,
+    -1.441014,
+    53.207081
+],
   "geometry": {"coordinates":[-1.441014,53.207081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286736603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.95261,51.618114,-3.95261,51.618114",
     "geom:latitude":51.618114,
     "geom:longitude":-3.95261,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 St Helens Road",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286736603,
-    "wof:lastmodified":1449018046,
+    "wof:lastmodified":1466277100,
     "wof:name":"SA1 Cafe",
     "wof:parent_id":85789043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "room"
     ]
 },
-  "bbox": [-3.95261,51.618114,-3.95261,51.618114],
+  "bbox": [
+    -3.95261,
+    51.618114,
+    -3.95261,
+    51.618114
+],
   "geometry": {"coordinates":[-3.95261,51.618114],"type":"Point"}
 }

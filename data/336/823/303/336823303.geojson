@@ -2,13 +2,14 @@
   "id": 336823303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.371117,50.911411,-1.371117,50.911411",
     "geom:latitude":50.911411,
     "geom:longitude":-1.371117,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Bronte Way, Bitterne",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336823303,
-    "wof:lastmodified":1448997992,
+    "wof:lastmodified":1466278887,
     "wof:name":"Wessex Gardeners",
     "wof:parent_id":85785761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardening"
     ]
 },
-  "bbox": [-1.371117,50.911411,-1.371117,50.911411],
+  "bbox": [
+    -1.371117,
+    50.911411,
+    -1.371117,
+    50.911411
+],
   "geometry": {"coordinates":[-1.371117,50.911411],"type":"Point"}
 }

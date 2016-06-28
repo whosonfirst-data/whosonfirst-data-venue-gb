@@ -2,13 +2,14 @@
   "id": 253700597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.086441,52.972889,-1.086441,52.972889",
     "geom:latitude":52.972889,
     "geom:longitude":-1.086441,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Westdale Lane, Carlton",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253700597,
-    "wof:lastmodified":1449065532,
+    "wof:lastmodified":1466274297,
     "wof:name":"Whiten's News",
     "wof:parent_id":85861921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.086441,52.972889,-1.086441,52.972889],
+  "bbox": [
+    -1.086441,
+    52.972889,
+    -1.086441,
+    52.972889
+],
   "geometry": {"coordinates":[-1.086441,52.972889],"type":"Point"}
 }

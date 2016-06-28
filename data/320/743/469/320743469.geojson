@@ -2,13 +2,14 @@
   "id": 320743469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.16389,52.460236,-2.16389,52.460236",
     "geom:latitude":52.460236,
     "geom:longitude":-2.16389,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Bridgnorth Road, Wollaston",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320743469,
-    "wof:lastmodified":1449014944,
+    "wof:lastmodified":1466284251,
     "wof:name":"The Princess",
     "wof:parent_id":85791731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "inn"
     ]
 },
-  "bbox": [-2.16389,52.460236,-2.16389,52.460236],
+  "bbox": [
+    -2.16389,
+    52.460236,
+    -2.16389,
+    52.460236
+],
   "geometry": {"coordinates":[-2.16389,52.460236],"type":"Point"}
 }

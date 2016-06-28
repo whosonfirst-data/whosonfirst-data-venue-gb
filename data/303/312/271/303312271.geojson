@@ -2,13 +2,14 @@
   "id": 303312271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.770982,55.955593,-4.770982,55.955593",
     "geom:latitude":55.955593,
     "geom:longitude":-4.770982,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Forsyth Street",
     "sg:city":"Greenock",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303312271,
-    "wof:lastmodified":1448999353,
+    "wof:lastmodified":1466272205,
     "wof:name":"Fyfe Gerrard & Paton",
     "wof:parent_id":85791237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "valuer"
     ]
 },
-  "bbox": [-4.770982,55.955593,-4.770982,55.955593],
+  "bbox": [
+    -4.770982,
+    55.955593,
+    -4.770982,
+    55.955593
+],
   "geometry": {"coordinates":[-4.770982,55.955593],"type":"Point"}
 }

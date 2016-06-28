@@ -2,13 +2,14 @@
   "id": 236535563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.90632,52.484657,-1.90632,52.484657",
     "geom:latitude":52.484657,
     "geom:longitude":-1.90632,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50-54 St Pauls Square, Hockley",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":236535563,
-    "wof:lastmodified":1449002122,
+    "wof:lastmodified":1466266504,
     "wof:name":"St.Pauls",
     "wof:parent_id":85792837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.90632,52.484657,-1.90632,52.484657],
+  "bbox": [
+    -1.90632,
+    52.484657,
+    -1.90632,
+    52.484657
+],
   "geometry": {"coordinates":[-1.90632,52.484657],"type":"Point"}
 }

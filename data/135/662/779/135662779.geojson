@@ -2,13 +2,14 @@
   "id": 135662779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.153971,55.917553,-4.153971,55.917553",
     "geom:latitude":55.917553,
     "geom:longitude":-4.153971,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Victoria Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135662779,
-    "wof:lastmodified":1449023047,
+    "wof:lastmodified":1466285238,
     "wof:name":"Care And Support At Home",
     "wof:parent_id":85861535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.153971,55.917553,-4.153971,55.917553],
+  "bbox": [
+    -4.153971,
+    55.917553,
+    -4.153971,
+    55.917553
+],
   "geometry": {"coordinates":[-4.153971,55.917553],"type":"Point"}
 }

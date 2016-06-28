@@ -2,13 +2,14 @@
   "id": 119199495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.203335,50.309723,-5.203335,50.309723",
     "geom:latitude":50.309723,
     "geom:longitude":-5.203335,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Vicarage Road",
     "sg:city":"St Agnes",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119199495,
-    "wof:lastmodified":1449041114,
+    "wof:lastmodified":1466269144,
     "wof:name":"Gossips",
     "wof:parent_id":101852399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.203335,50.309723,-5.203335,50.309723],
+  "bbox": [
+    -5.203335,
+    50.309723,
+    -5.203335,
+    50.309723
+],
   "geometry": {"coordinates":[-5.203335,50.309723],"type":"Point"}
 }

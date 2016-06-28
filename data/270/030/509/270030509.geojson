@@ -2,13 +2,14 @@
   "id": 270030509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.050571,51.528156,-0.050571,51.528156",
     "geom:latitude":51.528156,
     "geom:longitude":-0.050571,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Roman Rd",
     "sg:city":"Bethnal Green",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270030509,
-    "wof:lastmodified":1449009535,
+    "wof:lastmodified":1466261381,
     "wof:name":"IAP Fine Art",
     "wof:parent_id":85785657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-0.050571,51.528156,-0.050571,51.528156],
+  "bbox": [
+    -0.050571,
+    51.528156,
+    -0.050571,
+    51.528156
+],
   "geometry": {"coordinates":[-0.050571,51.528156],"type":"Point"}
 }

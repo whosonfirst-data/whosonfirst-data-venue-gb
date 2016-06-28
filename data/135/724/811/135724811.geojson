@@ -2,13 +2,14 @@
   "id": 135724811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.502534,55.829731,-4.502534,55.829731",
     "geom:latitude":55.829731,
     "geom:longitude":-4.502534,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Elm Drive",
     "sg:city":"Johnstone",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135724811,
-    "wof:lastmodified":1449023919,
+    "wof:lastmodified":1466286470,
     "wof:name":"Martin Brett",
     "wof:parent_id":85792519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.502534,55.829731,-4.502534,55.829731],
+  "bbox": [
+    -4.502534,
+    55.829731,
+    -4.502534,
+    55.829731
+],
   "geometry": {"coordinates":[-4.502534,55.829731],"type":"Point"}
 }

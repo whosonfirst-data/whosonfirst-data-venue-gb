@@ -2,13 +2,14 @@
   "id": 303675833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.469262,51.460999,-0.469262,51.460999",
     "geom:latitude":51.460999,
     "geom:longitude":-0.469262,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Cargo Sales, Building 552 Shoreham Road East, London Heathrow Airport",
     "sg:city":"Hounslow",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":303675833,
-    "wof:lastmodified":1448999359,
+    "wof:lastmodified":1466281243,
     "wof:name":"American Airlines",
     "wof:parent_id":85790701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airfreight"
     ]
 },
-  "bbox": [-0.469262,51.460999,-0.469262,51.460999],
+  "bbox": [
+    -0.469262,
+    51.460999,
+    -0.469262,
+    51.460999
+],
   "geometry": {"coordinates":[-0.469262,51.460999],"type":"Point"}
 }

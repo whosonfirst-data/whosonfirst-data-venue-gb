@@ -2,13 +2,14 @@
   "id": 320419995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.279594,55.831818,-4.279594,55.831818",
     "geom:latitude":55.831818,
     "geom:longitude":-4.279594,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Minard Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320419995,
-    "wof:lastmodified":1449014899,
+    "wof:lastmodified":1466279735,
     "wof:name":"Mortgage Check",
     "wof:parent_id":85792499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-4.279594,55.831818,-4.279594,55.831818],
+  "bbox": [
+    -4.279594,
+    55.831818,
+    -4.279594,
+    55.831818
+],
   "geometry": {"coordinates":[-4.279594,55.831818],"type":"Point"}
 }

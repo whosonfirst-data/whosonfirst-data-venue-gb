@@ -2,13 +2,14 @@
   "id": 320520633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.32234,53.517288,-1.32234,53.517288",
     "geom:latitude":53.517288,
     "geom:longitude":-1.32234,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Tramways, Wath Rd",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320520633,
-    "wof:lastmodified":1449012505,
+    "wof:lastmodified":1466281462,
     "wof:name":"Andrew Cowley Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "road"
     ]
 },
-  "bbox": [-1.32234,53.517288,-1.32234,53.517288],
+  "bbox": [
+    -1.32234,
+    53.517288,
+    -1.32234,
+    53.517288
+],
   "geometry": {"coordinates":[-1.32234,53.517288],"type":"Point"}
 }

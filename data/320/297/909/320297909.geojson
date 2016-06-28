@@ -2,13 +2,14 @@
   "id": 320297909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.038002,53.761459,-3.038002,53.761459",
     "geom:latitude":53.761459,
     "geom:longitude":-3.038002,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Barton Road",
     "sg:city":"Lytham St Annes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320297909,
-    "wof:lastmodified":1449013637,
+    "wof:lastmodified":1466277007,
     "wof:name":"F R S Car Air Conditioning",
     "wof:parent_id":85790579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-3.038002,53.761459,-3.038002,53.761459],
+  "bbox": [
+    -3.038002,
+    53.761459,
+    -3.038002,
+    53.761459
+],
   "geometry": {"coordinates":[-3.038002,53.761459],"type":"Point"}
 }

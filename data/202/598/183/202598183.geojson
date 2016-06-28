@@ -2,13 +2,14 @@
   "id": 202598183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.926823,55.947796,-4.926823,55.947796",
     "geom:latitude":55.947796,
     "geom:longitude":-4.926823,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Hillfoot Street",
     "sg:city":"Dunoon",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":202598183,
-    "wof:lastmodified":1449060233,
+    "wof:lastmodified":1466255813,
     "wof:name":"Cobbler's Shoe Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.926823,55.947796,-4.926823,55.947796],
+  "bbox": [
+    -4.926823,
+    55.947796,
+    -4.926823,
+    55.947796
+],
   "geometry": {"coordinates":[-4.926823,55.947796],"type":"Point"}
 }

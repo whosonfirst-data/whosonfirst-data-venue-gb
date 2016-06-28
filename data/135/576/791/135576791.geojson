@@ -2,13 +2,14 @@
   "id": 135576791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.507415,52.51614,-1.507415,52.51614",
     "geom:latitude":52.51614,
     "geom:longitude":-1.507415,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Priory Street",
     "sg:city":"Nuneaton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135576791,
-    "wof:lastmodified":1449023331,
+    "wof:lastmodified":1466281409,
     "wof:name":"Vogue Salon",
     "wof:parent_id":85790749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.507415,52.51614,-1.507415,52.51614],
+  "bbox": [
+    -1.507415,
+    52.51614,
+    -1.507415,
+    52.51614
+],
   "geometry": {"coordinates":[-1.507415,52.51614],"type":"Point"}
 }

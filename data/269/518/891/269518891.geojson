@@ -2,13 +2,14 @@
   "id": 269518891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.404143,54.901501,-1.404143,54.901501",
     "geom:latitude":54.901501,
     "geom:longitude":-1.404143,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Chester Road",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269518891,
-    "wof:lastmodified":1449037487,
+    "wof:lastmodified":1466261015,
     "wof:name":"Irvings Bakers",
     "wof:parent_id":85793169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-1.404143,54.901501,-1.404143,54.901501],
+  "bbox": [
+    -1.404143,
+    54.901501,
+    -1.404143,
+    54.901501
+],
   "geometry": {"coordinates":[-1.404143,54.901501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270340287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.135629,52.634392,-1.135629,52.634392",
     "geom:latitude":52.634392,
     "geom:longitude":-1.135629,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 St Martins Square",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":270340287,
-    "wof:lastmodified":1449010502,
+    "wof:lastmodified":1466270673,
     "wof:name":"Magic Toast",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-1.135629,52.634392,-1.135629,52.634392],
+  "bbox": [
+    -1.135629,
+    52.634392,
+    -1.135629,
+    52.634392
+],
   "geometry": {"coordinates":[-1.135629,52.634392],"type":"Point"}
 }

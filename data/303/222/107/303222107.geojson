@@ -2,13 +2,14 @@
   "id": 303222107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.158847,53.500023,-1.158847,53.500023",
     "geom:latitude":53.500023,
     "geom:longitude":-1.158847,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Springwell Lane, Balby",
     "sg:city":"Doncaster",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303222107,
-    "wof:lastmodified":1448999751,
+    "wof:lastmodified":1466269516,
     "wof:name":"Patron Racing",
     "wof:parent_id":85785449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motor"
     ]
 },
-  "bbox": [-1.158847,53.500023,-1.158847,53.500023],
+  "bbox": [
+    -1.158847,
+    53.500023,
+    -1.158847,
+    53.500023
+],
   "geometry": {"coordinates":[-1.158847,53.500023],"type":"Point"}
 }

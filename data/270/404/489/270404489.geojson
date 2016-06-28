@@ -2,13 +2,14 @@
   "id": 270404489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.754039,53.793385,-1.754039,53.793385",
     "geom:latitude":53.793385,
     "geom:longitude":-1.754039,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Sunbridge Road",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270404489,
-    "wof:lastmodified":1449010288,
+    "wof:lastmodified":1466272503,
     "wof:name":"The Inplaice",
     "wof:parent_id":85788797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-1.754039,53.793385,-1.754039,53.793385],
+  "bbox": [
+    -1.754039,
+    53.793385,
+    -1.754039,
+    53.793385
+],
   "geometry": {"coordinates":[-1.754039,53.793385],"type":"Point"}
 }

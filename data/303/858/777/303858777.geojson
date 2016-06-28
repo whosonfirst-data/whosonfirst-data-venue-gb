@@ -2,13 +2,14 @@
   "id": 303858777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.265116,51.778271,-1.265116,51.778271",
     "geom:latitude":51.778271,
     "geom:longitude":-1.265116,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"276 Banbury Road",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303858777,
-    "wof:lastmodified":1448998362,
+    "wof:lastmodified":1466283631,
     "wof:name":"No Place Like Home",
     "wof:parent_id":85790825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.265116,51.778271,-1.265116,51.778271],
+  "bbox": [
+    -1.265116,
+    51.778271,
+    -1.265116,
+    51.778271
+],
   "geometry": {"coordinates":[-1.265116,51.778271],"type":"Point"}
 }

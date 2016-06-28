@@ -2,13 +2,14 @@
   "id": 219585011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.443741,50.711231,-2.443741,50.711231",
     "geom:latitude":50.711231,
     "geom:longitude":-2.443741,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Damers Rd",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219585011,
-    "wof:lastmodified":1449072736,
+    "wof:lastmodified":1466260184,
     "wof:name":"BNA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "care"
     ]
 },
-  "bbox": [-2.443741,50.711231,-2.443741,50.711231],
+  "bbox": [
+    -2.443741,
+    50.711231,
+    -2.443741,
+    50.711231
+],
   "geometry": {"coordinates":[-2.443741,50.711231],"type":"Point"}
 }

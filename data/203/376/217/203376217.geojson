@@ -2,13 +2,14 @@
   "id": 203376217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.866271,50.720966,-1.866271,50.720966",
     "geom:latitude":50.720966,
     "geom:longitude":-1.866271,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Meyrick Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203376217,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466259154,
     "wof:name":"Lansdowne Library",
     "wof:parent_id":85791709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-1.866271,50.720966,-1.866271,50.720966],
+  "bbox": [
+    -1.866271,
+    50.720966,
+    -1.866271,
+    50.720966
+],
   "geometry": {"coordinates":[-1.866271,50.720966],"type":"Point"}
 }

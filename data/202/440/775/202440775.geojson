@@ -2,13 +2,14 @@
   "id": 202440775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.288593,51.669662,-1.288593,51.669662",
     "geom:latitude":51.669662,
     "geom:longitude":-1.288593,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Ock Street",
     "sg:city":"Abingdon",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":202440775,
-    "wof:lastmodified":1449060999,
+    "wof:lastmodified":1466253225,
     "wof:name":"Audreys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.288593,51.669662,-1.288593,51.669662],
+  "bbox": [
+    -1.288593,
+    51.669662,
+    -1.288593,
+    51.669662
+],
   "geometry": {"coordinates":[-1.288593,51.669662],"type":"Point"}
 }

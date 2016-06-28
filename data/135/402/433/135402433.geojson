@@ -2,13 +2,14 @@
   "id": 135402433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.496539,53.367767,-1.496539,53.367767",
     "geom:latitude":53.367767,
     "geom:longitude":-1.496539,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Sharrow Vale Rd",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135402433,
-    "wof:lastmodified":1449021974,
+    "wof:lastmodified":1466262985,
     "wof:name":"Nelson (The)",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.496539,53.367767,-1.496539,53.367767],
+  "bbox": [
+    -1.496539,
+    53.367767,
+    -1.496539,
+    53.367767
+],
   "geometry": {"coordinates":[-1.496539,53.367767],"type":"Point"}
 }

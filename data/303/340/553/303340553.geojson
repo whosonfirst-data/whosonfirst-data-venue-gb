@@ -2,13 +2,14 @@
   "id": 303340553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.350422,52.629204,1.350422,52.629204",
     "geom:latitude":52.629204,
     "geom:longitude":1.350422,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Hillside Avenue, Thorpe St Andrew",
     "sg:city":"Norwich",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303340553,
-    "wof:lastmodified":1449000005,
+    "wof:lastmodified":1466273067,
     "wof:name":"Michael Harrison Wines",
     "wof:parent_id":85791167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [1.350422,52.629204,1.350422,52.629204],
+  "bbox": [
+    1.350422,
+    52.629204,
+    1.350422,
+    52.629204
+],
   "geometry": {"coordinates":[1.350422,52.629204],"type":"Point"}
 }

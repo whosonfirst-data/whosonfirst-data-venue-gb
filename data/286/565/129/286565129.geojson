@@ -2,13 +2,14 @@
   "id": 286565129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.406416,55.847046,-4.406416,55.847046",
     "geom:latitude":55.847046,
     "geom:longitude":-4.406416,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Glasgow Road",
     "sg:city":"Paisley",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":286565129,
-    "wof:lastmodified":1449017836,
+    "wof:lastmodified":1466271604,
     "wof:name":"Paisley Pet Centre",
     "wof:parent_id":85792469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.406416,55.847046,-4.406416,55.847046],
+  "bbox": [
+    -4.406416,
+    55.847046,
+    -4.406416,
+    55.847046
+],
   "geometry": {"coordinates":[-4.406416,55.847046],"type":"Point"}
 }

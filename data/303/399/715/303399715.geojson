@@ -2,13 +2,14 @@
   "id": 303399715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.132124,57.160187,-2.132124,57.160187",
     "geom:latitude":57.160187,
     "geom:longitude":-2.132124,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Cornhill Drive",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303399715,
-    "wof:lastmodified":1448998550,
+    "wof:lastmodified":1466274874,
     "wof:name":"Cornhill Library",
     "wof:parent_id":85791947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-2.132124,57.160187,-2.132124,57.160187],
+  "bbox": [
+    -2.132124,
+    57.160187,
+    -2.132124,
+    57.160187
+],
   "geometry": {"coordinates":[-2.132124,57.160187],"type":"Point"}
 }

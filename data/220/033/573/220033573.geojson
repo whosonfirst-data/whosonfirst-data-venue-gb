@@ -2,13 +2,14 @@
   "id": 220033573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.32391,53.55965,-2.32391,53.55965",
     "geom:latitude":53.55965,
     "geom:longitude":-2.32391,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Church Street West, Radcliffe",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220033573,
-    "wof:lastmodified":1449074210,
+    "wof:lastmodified":1466253527,
     "wof:name":"Radcliffe Insurance Services",
     "wof:parent_id":85791629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"
     ]
 },
-  "bbox": [-2.32391,53.55965,-2.32391,53.55965],
+  "bbox": [
+    -2.32391,
+    53.55965,
+    -2.32391,
+    53.55965
+],
   "geometry": {"coordinates":[-2.32391,53.55965],"type":"Point"}
 }

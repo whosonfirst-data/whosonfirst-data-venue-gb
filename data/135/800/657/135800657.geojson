@@ -2,13 +2,14 @@
   "id": 135800657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.815968,52.546879,-1.815968,52.546879",
     "geom:latitude":52.546879,
     "geom:longitude":-1.815968,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Wylde Grn Road",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135800657,
-    "wof:lastmodified":1449021237,
+    "wof:lastmodified":1466287335,
     "wof:name":"P Martin",
     "wof:parent_id":85791301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.815968,52.546879,-1.815968,52.546879],
+  "bbox": [
+    -1.815968,
+    52.546879,
+    -1.815968,
+    52.546879
+],
   "geometry": {"coordinates":[-1.815968,52.546879],"type":"Point"}
 }

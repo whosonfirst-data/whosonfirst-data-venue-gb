@@ -2,13 +2,14 @@
   "id": 203185961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.23449,53.485641,-2.23449,53.485641",
     "geom:latitude":53.485641,
     "geom:longitude":-2.23449,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Fourth Floor, Swan Building, 20 Swan Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203185961,
-    "wof:lastmodified":1449025254,
+    "wof:lastmodified":1466255763,
     "wof:name":"N E A R I S",
     "wof:parent_id":85793015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"
     ]
 },
-  "bbox": [-2.23449,53.485641,-2.23449,53.485641],
+  "bbox": [
+    -2.23449,
+    53.485641,
+    -2.23449,
+    53.485641
+],
   "geometry": {"coordinates":[-2.23449,53.485641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119491211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.28006,50.874653,-1.28006,50.874653",
     "geom:latitude":50.874653,
     "geom:longitude":-1.28006,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Bridge Road, Sarisbury Grn",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119491211,
-    "wof:lastmodified":1449040837,
+    "wof:lastmodified":1466286909,
     "wof:name":"Carland",
     "wof:parent_id":85684375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.28006,50.874653,-1.28006,50.874653],
+  "bbox": [
+    -1.28006,
+    50.874653,
+    -1.28006,
+    50.874653
+],
   "geometry": {"coordinates":[-1.28006,50.874653],"type":"Point"}
 }

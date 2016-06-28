@@ -2,13 +2,14 @@
   "id": 135518687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.990149,51.591179,-2.990149,51.591179",
     "geom:latitude":51.591179,
     "geom:longitude":-2.990149,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"452 Chepstow Road",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135518687,
-    "wof:lastmodified":1449022715,
+    "wof:lastmodified":1466276685,
     "wof:name":"Herr Kutz",
     "wof:parent_id":85864253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.990149,51.591179,-2.990149,51.591179],
+  "bbox": [
+    -2.990149,
+    51.591179,
+    -2.990149,
+    51.591179
+],
   "geometry": {"coordinates":[-2.990149,51.591179],"type":"Point"}
 }

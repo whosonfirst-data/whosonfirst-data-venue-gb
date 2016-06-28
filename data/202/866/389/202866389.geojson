@@ -2,13 +2,14 @@
   "id": 202866389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.327526,52.112785,-2.327526,52.112785",
     "geom:latitude":52.112785,
     "geom:longitude":-2.327526,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Graham Road",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202866389,
-    "wof:lastmodified":1449061331,
+    "wof:lastmodified":1466260196,
     "wof:name":"Integrated Telemarketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "telemarketing"
     ]
 },
-  "bbox": [-2.327526,52.112785,-2.327526,52.112785],
+  "bbox": [
+    -2.327526,
+    52.112785,
+    -2.327526,
+    52.112785
+],
   "geometry": {"coordinates":[-2.327526,52.112785],"type":"Point"}
 }

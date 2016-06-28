@@ -2,13 +2,14 @@
   "id": 118863285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.01116,50.736469,-2.01116,50.736469",
     "geom:latitude":50.736469,
     "geom:longitude":-2.01116,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Heritage Centre, Upton Country Park, Poole Road, Upton",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":118863285,
-    "wof:lastmodified":1449054108,
+    "wof:lastmodified":1466277346,
     "wof:name":"Upton Country Park",
     "wof:parent_id":85861239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.01116,50.736469,-2.01116,50.736469],
+  "bbox": [
+    -2.01116,
+    50.736469,
+    -2.01116,
+    50.736469
+],
   "geometry": {"coordinates":[-2.01116,50.736469],"type":"Point"}
 }

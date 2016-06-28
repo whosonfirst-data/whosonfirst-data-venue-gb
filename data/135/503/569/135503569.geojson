@@ -2,13 +2,14 @@
   "id": 135503569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.95507,56.471851,-2.95507,56.471851",
     "geom:latitude":56.471851,
     "geom:longitude":-2.95507,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Maryfield Medical Centre, 9 Morgan Street",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135503569,
-    "wof:lastmodified":1449023998,
+    "wof:lastmodified":1466274909,
     "wof:name":"Maryfield Medical Centre",
     "wof:parent_id":85788839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.95507,56.471851,-2.95507,56.471851],
+  "bbox": [
+    -2.95507,
+    56.471851,
+    -2.95507,
+    56.471851
+],
   "geometry": {"coordinates":[-2.95507,56.471851],"type":"Point"}
 }

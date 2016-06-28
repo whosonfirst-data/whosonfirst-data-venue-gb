@@ -2,13 +2,14 @@
   "id": 286308121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.145854,50.366982,-4.145854,50.366982",
     "geom:latitude":50.366982,
     "geom:longitude":-4.145854,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Athenaeum Street, The Hoe",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286308121,
-    "wof:lastmodified":1449018173,
+    "wof:lastmodified":1466263722,
     "wof:name":"Athenaeum Lodge",
     "wof:parent_id":85790965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "guest"
     ]
 },
-  "bbox": [-4.145854,50.366982,-4.145854,50.366982],
+  "bbox": [
+    -4.145854,
+    50.366982,
+    -4.145854,
+    50.366982
+],
   "geometry": {"coordinates":[-4.145854,50.366982],"type":"Point"}
 }

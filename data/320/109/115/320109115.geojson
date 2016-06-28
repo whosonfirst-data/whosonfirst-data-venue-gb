@@ -2,13 +2,14 @@
   "id": 320109115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.694383,52.1576,-1.694383,52.1576",
     "geom:latitude":52.1576,
     "geom:longitude":-1.694383,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Beecham Buildings, Atherstone-on-stour Industrial Estate",
     "sg:city":"Stratford-upon-avon",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":320109115,
-    "wof:lastmodified":1449012565,
+    "wof:lastmodified":1466271395,
     "wof:name":"Prior Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "glazing"
     ]
 },
-  "bbox": [-1.694383,52.1576,-1.694383,52.1576],
+  "bbox": [
+    -1.694383,
+    52.1576,
+    -1.694383,
+    52.1576
+],
   "geometry": {"coordinates":[-1.694383,52.1576],"type":"Point"}
 }

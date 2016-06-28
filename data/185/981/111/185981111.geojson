@@ -2,13 +2,14 @@
   "id": 185981111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.156302,52.056076,1.156302,52.056076",
     "geom:latitude":52.056076,
     "geom:longitude":1.156302,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Upper Brook Street",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185981111,
-    "wof:lastmodified":1449008246,
+    "wof:lastmodified":1466256855,
     "wof:name":"Stop Press",
     "wof:parent_id":85793225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [1.156302,52.056076,1.156302,52.056076],
+  "bbox": [
+    1.156302,
+    52.056076,
+    1.156302,
+    52.056076
+],
   "geometry": {"coordinates":[1.156302,52.056076],"type":"Point"}
 }

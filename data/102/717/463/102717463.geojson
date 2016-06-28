@@ -2,13 +2,14 @@
   "id": 102717463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.273101,55.867771,-4.273101,55.867771",
     "geom:latitude":55.867771,
     "geom:longitude":-4.273101,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Woodside Terr",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102717463,
-    "wof:lastmodified":1449067833,
+    "wof:lastmodified":1466257049,
     "wof:name":"Sewer Services Ltd",
     "wof:parent_id":85792601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.273101,55.867771,-4.273101,55.867771],
+  "bbox": [
+    -4.273101,
+    55.867771,
+    -4.273101,
+    55.867771
+],
   "geometry": {"coordinates":[-4.273101,55.867771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135695489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.132677,55.858387,-4.132677,55.858387",
     "geom:latitude":55.858387,
     "geom:longitude":-4.132677,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Hallhill Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135695489,
-    "wof:lastmodified":1449022143,
+    "wof:lastmodified":1466285870,
     "wof:name":"Barlanark Clinic",
     "wof:parent_id":85792567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.132677,55.858387,-4.132677,55.858387],
+  "bbox": [
+    -4.132677,
+    55.858387,
+    -4.132677,
+    55.858387
+],
   "geometry": {"coordinates":[-4.132677,55.858387],"type":"Point"}
 }

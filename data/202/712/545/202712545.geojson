@@ -2,13 +2,14 @@
   "id": 202712545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.5311,55.48983,-4.5311,55.48983",
     "geom:latitude":55.48983,
     "geom:longitude":-4.5311,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Annbank Road, Mossblown",
     "sg:city":"Ayr",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202712545,
-    "wof:lastmodified":1449061203,
+    "wof:lastmodified":1466257621,
     "wof:name":"HENRY ROSS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painter"
     ]
 },
-  "bbox": [-4.5311,55.48983,-4.5311,55.48983],
+  "bbox": [
+    -4.5311,
+    55.48983,
+    -4.5311,
+    55.48983
+],
   "geometry": {"coordinates":[-4.5311,55.48983],"type":"Point"}
 }

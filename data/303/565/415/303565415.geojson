@@ -2,13 +2,14 @@
   "id": 303565415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.186829,52.53717,-2.186829,52.53717",
     "geom:latitude":52.53717,
     "geom:longitude":-2.186829,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4a Station Road, Wombourne",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303565415,
-    "wof:lastmodified":1449000348,
+    "wof:lastmodified":1466279293,
     "wof:name":"Richmond Kitchens",
     "wof:parent_id":85789803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-2.186829,52.53717,-2.186829,52.53717],
+  "bbox": [
+    -2.186829,
+    52.53717,
+    -2.186829,
+    52.53717
+],
   "geometry": {"coordinates":[-2.186829,52.53717],"type":"Point"}
 }

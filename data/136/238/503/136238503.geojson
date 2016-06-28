@@ -2,13 +2,14 @@
   "id": 136238503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.13347,52.632782,-1.13347,52.632782",
     "geom:latitude":52.632782,
     "geom:longitude":-1.13347,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Market Street",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136238503,
-    "wof:lastmodified":1449075417,
+    "wof:lastmodified":1466263024,
     "wof:name":"Fenwick of Leicester",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.13347,52.632782,-1.13347,52.632782],
+  "bbox": [
+    -1.13347,
+    52.632782,
+    -1.13347,
+    52.632782
+],
   "geometry": {"coordinates":[-1.13347,52.632782],"type":"Point"}
 }

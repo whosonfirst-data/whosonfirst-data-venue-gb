@@ -2,13 +2,14 @@
   "id": 236460433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.944445,51.645302,-3.944445,51.645302",
     "geom:latitude":51.645302,
     "geom:longitude":-3.944445,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Siloh Road, Landore",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236460433,
-    "wof:lastmodified":1449005023,
+    "wof:lastmodified":1466265120,
     "wof:name":"Complete Installations",
     "wof:parent_id":85786095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "barrier"
     ]
 },
-  "bbox": [-3.944445,51.645302,-3.944445,51.645302],
+  "bbox": [
+    -3.944445,
+    51.645302,
+    -3.944445,
+    51.645302
+],
   "geometry": {"coordinates":[-3.944445,51.645302],"type":"Point"}
 }

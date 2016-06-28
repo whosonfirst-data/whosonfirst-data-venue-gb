@@ -2,13 +2,14 @@
   "id": 336656859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.6981,52.795109,-1.6981,52.795109",
     "geom:latitude":52.795109,
     "geom:longitude":-1.6981,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Horseshoe Inn, Main Street, Tatenhall",
     "sg:city":"Burton-on-trent",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336656859,
-    "wof:lastmodified":1448997633,
+    "wof:lastmodified":1466274436,
     "wof:name":"Horseshoe Inn",
     "wof:parent_id":85785951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.6981,52.795109,-1.6981,52.795109],
+  "bbox": [
+    -1.6981,
+    52.795109,
+    -1.6981,
+    52.795109
+],
   "geometry": {"coordinates":[-1.6981,52.795109],"type":"Point"}
 }

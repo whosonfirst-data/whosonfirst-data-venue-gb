@@ -2,13 +2,14 @@
   "id": 303615381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.22453,57.481121,-4.22453,57.481121",
     "geom:latitude":57.481121,
     "geom:longitude":-4.22453,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Farraline Park",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303615381,
-    "wof:lastmodified":1448998888,
+    "wof:lastmodified":1466280306,
     "wof:name":"Inverness Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "local"
     ]
 },
-  "bbox": [-4.22453,57.481121,-4.22453,57.481121],
+  "bbox": [
+    -4.22453,
+    57.481121,
+    -4.22453,
+    57.481121
+],
   "geometry": {"coordinates":[-4.22453,57.481121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203359443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.015275,53.754738,-3.015275,53.754738",
     "geom:latitude":53.754738,
     "geom:longitude":-3.015275,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Church Rd, St Annes",
     "sg:city":"Lytham St. Annes",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203359443,
-    "wof:lastmodified":1449024917,
+    "wof:lastmodified":1466258857,
     "wof:name":"G Burbridge",
     "wof:parent_id":85790579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "heating"
     ]
 },
-  "bbox": [-3.015275,53.754738,-3.015275,53.754738],
+  "bbox": [
+    -3.015275,
+    53.754738,
+    -3.015275,
+    53.754738
+],
   "geometry": {"coordinates":[-3.015275,53.754738],"type":"Point"}
 }

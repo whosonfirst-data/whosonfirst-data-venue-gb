@@ -2,13 +2,14 @@
   "id": 202481537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.457303,52.428249,-1.457303,52.428249",
     "geom:latitude":52.428249,
     "geom:longitude":-1.457303,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Caradoc Close, Henley Grn",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202481537,
-    "wof:lastmodified":1449062332,
+    "wof:lastmodified":1466253868,
     "wof:name":"Shire Horse",
     "wof:parent_id":85791855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "greengrocer"
     ]
 },
-  "bbox": [-1.457303,52.428249,-1.457303,52.428249],
+  "bbox": [
+    -1.457303,
+    52.428249,
+    -1.457303,
+    52.428249
+],
   "geometry": {"coordinates":[-1.457303,52.428249],"type":"Point"}
 }

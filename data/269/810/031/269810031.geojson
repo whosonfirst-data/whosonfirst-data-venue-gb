@@ -2,13 +2,14 @@
   "id": 269810031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.13375,52.987801,-2.13375,52.987801",
     "geom:latitude":52.987801,
     "geom:longitude":-2.13375,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Longton Bus Station, Kingcross St",
     "sg:city":"Stoke On Trent",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269810031,
-    "wof:lastmodified":1449036864,
+    "wof:lastmodified":1466269958,
     "wof:name":"D & G Bus Ltd",
     "wof:parent_id":85788881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coach"
     ]
 },
-  "bbox": [-2.13375,52.987801,-2.13375,52.987801],
+  "bbox": [
+    -2.13375,
+    52.987801,
+    -2.13375,
+    52.987801
+],
   "geometry": {"coordinates":[-2.13375,52.987801],"type":"Point"}
 }

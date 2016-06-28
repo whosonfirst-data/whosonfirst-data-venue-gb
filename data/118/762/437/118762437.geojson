@@ -2,13 +2,14 @@
   "id": 118762437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.048811,51.90686,-2.048811,51.90686",
     "geom:latitude":51.90686,
     "geom:longitude":-2.048811,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Priors Road",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":118762437,
-    "wof:lastmodified":1449054137,
+    "wof:lastmodified":1466269946,
     "wof:name":"G B Drains",
     "wof:parent_id":85785541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.048811,51.90686,-2.048811,51.90686],
+  "bbox": [
+    -2.048811,
+    51.90686,
+    -2.048811,
+    51.90686
+],
   "geometry": {"coordinates":[-2.048811,51.90686],"type":"Point"}
 }

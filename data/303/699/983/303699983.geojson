@@ -2,13 +2,14 @@
   "id": 303699983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.050279,53.812168,-3.050279,53.812168",
     "geom:latitude":53.812168,
     "geom:longitude":-3.050279,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Chapel Street",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303699983,
-    "wof:lastmodified":1448998453,
+    "wof:lastmodified":1466281651,
     "wof:name":"Magistrates Court",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.050279,53.812168,-3.050279,53.812168],
+  "bbox": [
+    -3.050279,
+    53.812168,
+    -3.050279,
+    53.812168
+],
   "geometry": {"coordinates":[-3.050279,53.812168],"type":"Point"}
 }

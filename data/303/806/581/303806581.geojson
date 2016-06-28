@@ -2,13 +2,14 @@
   "id": 303806581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.494606,52.88195,-1.494606,52.88195",
     "geom:latitude":52.88195,
     "geom:longitude":-1.494606,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2a Cromarty Close, Sinfin",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303806581,
-    "wof:lastmodified":1448998107,
+    "wof:lastmodified":1466283238,
     "wof:name":"The Grampian",
     "wof:parent_id":85790369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.494606,52.88195,-1.494606,52.88195],
+  "bbox": [
+    -1.494606,
+    52.88195,
+    -1.494606,
+    52.88195
+],
   "geometry": {"coordinates":[-1.494606,52.88195],"type":"Point"}
 }

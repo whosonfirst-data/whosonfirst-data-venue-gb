@@ -2,13 +2,14 @@
   "id": 202809769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.871254,50.739197,-1.871254,50.739197",
     "geom:latitude":50.739197,
     "geom:longitude":-1.871254,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Crosby Lodge Residential Care Home, 2-2A Fitzharris Avenue",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202809769,
-    "wof:lastmodified":1449062209,
+    "wof:lastmodified":1466259244,
     "wof:name":"Crosby Lodge Residential Care Home",
     "wof:parent_id":85791709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "rest"
     ]
 },
-  "bbox": [-1.871254,50.739197,-1.871254,50.739197],
+  "bbox": [
+    -1.871254,
+    50.739197,
+    -1.871254,
+    50.739197
+],
   "geometry": {"coordinates":[-1.871254,50.739197],"type":"Point"}
 }

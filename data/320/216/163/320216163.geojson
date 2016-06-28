@@ -2,13 +2,14 @@
   "id": 320216163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.425709,50.917889,-1.425709,50.917889",
     "geom:latitude":50.917889,
     "geom:longitude":-1.425709,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Newlands Avenue",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320216163,
-    "wof:lastmodified":1449014540,
+    "wof:lastmodified":1466274526,
     "wof:name":"Dental Surgery",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.425709,50.917889,-1.425709,50.917889],
+  "bbox": [
+    -1.425709,
+    50.917889,
+    -1.425709,
+    50.917889
+],
   "geometry": {"coordinates":[-1.425709,50.917889],"type":"Point"}
 }

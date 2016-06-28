@@ -2,13 +2,14 @@
   "id": 253205799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.004464,53.340343,-3.004464,53.340343",
     "geom:latitude":53.340343,
     "geom:longitude":-3.004464,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Lancelyn Court Precinct, Bebington",
     "sg:city":"Wirral",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253205799,
-    "wof:lastmodified":1449064595,
+    "wof:lastmodified":1466261399,
     "wof:name":"W A Temple",
     "wof:parent_id":85790537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "chemist"
     ]
 },
-  "bbox": [-3.004464,53.340343,-3.004464,53.340343],
+  "bbox": [
+    -3.004464,
+    53.340343,
+    -3.004464,
+    53.340343
+],
   "geometry": {"coordinates":[-3.004464,53.340343],"type":"Point"}
 }

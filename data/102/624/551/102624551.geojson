@@ -2,13 +2,14 @@
   "id": 102624551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.66359,50.950001,-2.66359,50.950001",
     "geom:latitude":50.950001,
     "geom:longitude":-2.66359,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2, Abbey Hill Industrial Estate",
     "sg:city":"Yeovil",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102624551,
-    "wof:lastmodified":1449069450,
+    "wof:lastmodified":1466253363,
     "wof:name":"Surface Treatments",
     "wof:parent_id":85684013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.66359,50.950001,-2.66359,50.950001],
+  "bbox": [
+    -2.66359,
+    50.950001,
+    -2.66359,
+    50.950001
+],
   "geometry": {"coordinates":[-2.66359,50.950001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220165075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.86066,51.366211,-2.86066,51.366211",
     "geom:latitude":51.366211,
     "geom:longitude":-2.86066,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 Wolvershill Indust Units",
     "sg:city":"Weston Super Mare",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220165075,
-    "wof:lastmodified":1449074881,
+    "wof:lastmodified":1466255875,
     "wof:name":"Westcoast Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bedroom"
     ]
 },
-  "bbox": [-2.86066,51.366211,-2.86066,51.366211],
+  "bbox": [
+    -2.86066,
+    51.366211,
+    -2.86066,
+    51.366211
+],
   "geometry": {"coordinates":[-2.86066,51.366211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135536137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.265988,50.870975,-1.265988,50.870975",
     "geom:latitude":50.870975,
     "geom:longitude":-1.265988,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Bridge Rd, Pk Gate",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135536137,
-    "wof:lastmodified":1449022826,
+    "wof:lastmodified":1466278778,
     "wof:name":"Park Gate Fabrics",
     "wof:parent_id":85684375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.265988,50.870975,-1.265988,50.870975],
+  "bbox": [
+    -1.265988,
+    50.870975,
+    -1.265988,
+    50.870975
+],
   "geometry": {"coordinates":[-1.265988,50.870975],"type":"Point"}
 }

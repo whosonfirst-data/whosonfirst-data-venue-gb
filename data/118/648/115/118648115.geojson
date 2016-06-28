@@ -2,13 +2,14 @@
   "id": 118648115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.119629,53.606941,-2.119629,53.606941",
     "geom:latitude":53.606941,
     "geom:longitude":-2.119629,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Universal House, Buckley Hill Lane, Milnrow",
     "sg:city":"Rochdale",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118648115,
-    "wof:lastmodified":1449053533,
+    "wof:lastmodified":1466261313,
     "wof:name":"MET Instrumentation",
     "wof:parent_id":85793077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.119629,53.606941,-2.119629,53.606941],
+  "bbox": [
+    -2.119629,
+    53.606941,
+    -2.119629,
+    53.606941
+],
   "geometry": {"coordinates":[-2.119629,53.606941],"type":"Point"}
 }

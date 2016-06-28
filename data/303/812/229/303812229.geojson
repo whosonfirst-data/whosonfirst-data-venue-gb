@@ -2,13 +2,14 @@
   "id": 303812229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.969018,50.784256,-1.969018,50.784256",
     "geom:latitude":50.784256,
     "geom:longitude":-1.969018,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Sopwith Crescent",
     "sg:city":"Wimborne",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303812229,
-    "wof:lastmodified":1448998186,
+    "wof:lastmodified":1466283196,
     "wof:name":"Chinese Takeaway",
     "wof:parent_id":85787159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-1.969018,50.784256,-1.969018,50.784256],
+  "bbox": [
+    -1.969018,
+    50.784256,
+    -1.969018,
+    50.784256
+],
   "geometry": {"coordinates":[-1.969018,50.784256],"type":"Point"}
 }

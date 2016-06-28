@@ -2,13 +2,14 @@
   "id": 236166321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.183547,55.85297,-4.183547,55.85297",
     "geom:latitude":55.85297,
     "geom:longitude":-4.183547,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"567a Shettleston Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236166321,
-    "wof:lastmodified":1449003508,
+    "wof:lastmodified":1466259641,
     "wof:name":"Wise Group (The)",
     "wof:parent_id":85792593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-4.183547,55.85297,-4.183547,55.85297],
+  "bbox": [
+    -4.183547,
+    55.85297,
+    -4.183547,
+    55.85297
+],
   "geometry": {"coordinates":[-4.183547,55.85297],"type":"Point"}
 }

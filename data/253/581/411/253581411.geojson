@@ -2,13 +2,14 @@
   "id": 253581411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.738534,53.127628,-2.738534,53.127628",
     "geom:latitude":53.127628,
     "geom:longitude":-2.738534,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Newton Lane",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":253581411,
-    "wof:lastmodified":1449063431,
+    "wof:lastmodified":1466270500,
     "wof:name":"M & G Whittingham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.738534,53.127628,-2.738534,53.127628],
+  "bbox": [
+    -2.738534,
+    53.127628,
+    -2.738534,
+    53.127628
+],
   "geometry": {"coordinates":[-2.738534,53.127628],"type":"Point"}
 }

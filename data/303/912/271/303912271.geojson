@@ -2,13 +2,14 @@
   "id": 303912271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.505118,52.885338,-1.505118,52.885338",
     "geom:latitude":52.885338,
     "geom:longitude":-1.505118,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Swarkestone Drive, Littleover",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303912271,
-    "wof:lastmodified":1448999323,
+    "wof:lastmodified":1466284516,
     "wof:name":"Littleover Paving",
     "wof:parent_id":85790837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "driveway"
     ]
 },
-  "bbox": [-1.505118,52.885338,-1.505118,52.885338],
+  "bbox": [
+    -1.505118,
+    52.885338,
+    -1.505118,
+    52.885338
+],
   "geometry": {"coordinates":[-1.505118,52.885338],"type":"Point"}
 }

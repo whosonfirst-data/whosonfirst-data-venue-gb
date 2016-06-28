@@ -2,13 +2,14 @@
   "id": 119301835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.740634,54.940857,-2.740634,54.940857",
     "geom:latitude":54.940857,
     "geom:longitude":-2.740634,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"West Hill House, St Martins Drive",
     "sg:city":"Brampton",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":119301835,
-    "wof:lastmodified":1449041476,
+    "wof:lastmodified":1466279744,
     "wof:name":"West Hill House Sheltered Housing",
     "wof:parent_id":101873405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.740634,54.940857,-2.740634,54.940857],
+  "bbox": [
+    -2.740634,
+    54.940857,
+    -2.740634,
+    54.940857
+],
   "geometry": {"coordinates":[-2.740634,54.940857],"type":"Point"}
 }

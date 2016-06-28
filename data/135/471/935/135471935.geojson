@@ -2,13 +2,14 @@
   "id": 135471935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.332553,55.846661,-4.332553,55.846661",
     "geom:latitude":55.846661,
     "geom:longitude":-4.332553,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1498 Paisley Road West",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135471935,
-    "wof:lastmodified":1449022209,
+    "wof:lastmodified":1466271350,
     "wof:name":"Toggery",
     "wof:parent_id":85786247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.332553,55.846661,-4.332553,55.846661],
+  "bbox": [
+    -4.332553,
+    55.846661,
+    -4.332553,
+    55.846661
+],
   "geometry": {"coordinates":[-4.332553,55.846661],"type":"Point"}
 }

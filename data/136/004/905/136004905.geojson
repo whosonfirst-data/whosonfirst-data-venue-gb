@@ -2,13 +2,14 @@
   "id": 136004905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.575467,55.984943,-4.575467,55.984943",
     "geom:latitude":55.984943,
     "geom:longitude":-4.575467,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Kilpatrick House, 3 Bridge Street",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136004905,
-    "wof:lastmodified":1449075396,
+    "wof:lastmodified":1466257028,
     "wof:name":"Threshold Leven",
     "wof:parent_id":101872541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.575467,55.984943,-4.575467,55.984943],
+  "bbox": [
+    -4.575467,
+    55.984943,
+    -4.575467,
+    55.984943
+],
   "geometry": {"coordinates":[-4.575467,55.984943],"type":"Point"}
 }

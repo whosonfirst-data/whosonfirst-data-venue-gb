@@ -2,13 +2,14 @@
   "id": 119482891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.545098,50.472664,-3.545098,50.472664",
     "geom:latitude":50.472664,
     "geom:longitude":-3.545098,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Avenue Rd",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119482891,
-    "wof:lastmodified":1449041736,
+    "wof:lastmodified":1466286769,
     "wof:name":"Avenue Road Sales & Service",
     "wof:parent_id":101751577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.545098,50.472664,-3.545098,50.472664],
+  "bbox": [
+    -3.545098,
+    50.472664,
+    -3.545098,
+    50.472664
+],
   "geometry": {"coordinates":[-3.545098,50.472664],"type":"Point"}
 }

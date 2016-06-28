@@ -2,13 +2,14 @@
   "id": 118540943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.08885,56.150944,-3.08885,56.150944",
     "geom:latitude":56.150944,
     "geom:longitude":-3.08885,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Main Street, Thornton",
     "sg:city":"Kirkcaldy",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":118540943,
-    "wof:lastmodified":1449053702,
+    "wof:lastmodified":1466253223,
     "wof:name":"The Corner Shop",
     "wof:parent_id":85787131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.08885,56.150944,-3.08885,56.150944],
+  "bbox": [
+    -3.08885,
+    56.150944,
+    -3.08885,
+    56.150944
+],
   "geometry": {"coordinates":[-3.08885,56.150944],"type":"Point"}
 }

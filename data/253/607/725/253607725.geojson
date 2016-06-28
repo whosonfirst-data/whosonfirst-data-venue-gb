@@ -2,13 +2,14 @@
   "id": 253607725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.566339,51.551861,-0.566339,51.551861",
     "geom:latitude":51.551861,
     "geom:longitude":-0.566339,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wexham Park Hospital, Wexham Road",
     "sg:city":"Slough",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253607725,
-    "wof:lastmodified":1449063209,
+    "wof:lastmodified":1466271399,
     "wof:name":"Wexham Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-0.566339,51.551861,-0.566339,51.551861],
+  "bbox": [
+    -0.566339,
+    51.551861,
+    -0.566339,
+    51.551861
+],
   "geometry": {"coordinates":[-0.566339,51.551861],"type":"Point"}
 }

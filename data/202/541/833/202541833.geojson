@@ -2,13 +2,14 @@
   "id": 202541833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.32725,52.629059,1.32725,52.629059",
     "geom:latitude":52.629059,
     "geom:longitude":1.32725,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Holmwood Residential Care Home, 11 Harvey Lane",
     "sg:city":"Norwich",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":202541833,
-    "wof:lastmodified":1449060387,
+    "wof:lastmodified":1466254824,
     "wof:name":"Holmwood Residential Care Home",
     "wof:parent_id":85791167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [1.32725,52.629059,1.32725,52.629059],
+  "bbox": [
+    1.32725,
+    52.629059,
+    1.32725,
+    52.629059
+],
   "geometry": {"coordinates":[1.32725,52.629059],"type":"Point"}
 }

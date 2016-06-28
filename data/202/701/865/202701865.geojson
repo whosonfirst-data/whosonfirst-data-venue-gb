@@ -2,13 +2,14 @@
   "id": 202701865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.529626,50.479641,-3.529626,50.479641",
     "geom:latitude":50.479641,
     "geom:longitude":-3.529626,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Daison Cres",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":202701865,
-    "wof:lastmodified":1449062132,
+    "wof:lastmodified":1466257479,
     "wof:name":"A M S Building & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-3.529626,50.479641,-3.529626,50.479641],
+  "bbox": [
+    -3.529626,
+    50.479641,
+    -3.529626,
+    50.479641
+],
   "geometry": {"coordinates":[-3.529626,50.479641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269853357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.286188,55.86557,-4.286188,55.86557",
     "geom:latitude":55.86557,
     "geom:longitude":-4.286188,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 Argyle Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":269853357,
-    "wof:lastmodified":1449037113,
+    "wof:lastmodified":1466271241,
     "wof:name":"Morgan Stores",
     "wof:parent_id":85792613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.286188,55.86557,-4.286188,55.86557],
+  "bbox": [
+    -4.286188,
+    55.86557,
+    -4.286188,
+    55.86557
+],
   "geometry": {"coordinates":[-4.286188,55.86557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270101005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.40673,53.821468,-2.40673,53.821468",
     "geom:latitude":53.821468,
     "geom:longitude":-2.40673,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Abbott Works, Back King Street, Warley",
     "sg:city":"Clitheroe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270101005,
-    "wof:lastmodified":1449009933,
+    "wof:lastmodified":1466263535,
     "wof:name":"L & S Woodturners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beams"
     ]
 },
-  "bbox": [-2.40673,53.821468,-2.40673,53.821468],
+  "bbox": [
+    -2.40673,
+    53.821468,
+    -2.40673,
+    53.821468
+],
   "geometry": {"coordinates":[-2.40673,53.821468],"type":"Point"}
 }

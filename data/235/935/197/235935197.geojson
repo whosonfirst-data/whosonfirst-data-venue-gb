@@ -2,13 +2,14 @@
   "id": 235935197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.176632,55.963692,-3.176632,55.963692",
     "geom:latitude":55.963692,
     "geom:longitude":-3.176632,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19-21 Buchanan Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235935197,
-    "wof:lastmodified":1449008536,
+    "wof:lastmodified":1466255272,
     "wof:name":"Pilmeny Development Project",
     "wof:parent_id":85792709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.176632,55.963692,-3.176632,55.963692],
+  "bbox": [
+    -3.176632,
+    55.963692,
+    -3.176632,
+    55.963692
+],
   "geometry": {"coordinates":[-3.176632,55.963692],"type":"Point"}
 }

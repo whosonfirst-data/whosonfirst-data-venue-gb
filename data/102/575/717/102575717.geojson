@@ -2,13 +2,14 @@
   "id": 102575717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.469429,53.230911,-1.469429,53.230911",
     "geom:latitude":53.230911,
     "geom:longitude":-1.469429,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Chatsworth Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102575717,
-    "wof:lastmodified":1449068474,
+    "wof:lastmodified":1466267242,
     "wof:name":"Terminus Hotel",
     "wof:parent_id":85861103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.469429,53.230911,-1.469429,53.230911],
+  "bbox": [
+    -1.469429,
+    53.230911,
+    -1.469429,
+    53.230911
+],
   "geometry": {"coordinates":[-1.469429,53.230911],"type":"Point"}
 }

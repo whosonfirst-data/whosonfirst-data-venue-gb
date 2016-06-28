@@ -2,13 +2,14 @@
   "id": 320818395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.50228,51.39035,0.50228,51.39035",
     "geom:latitude":51.39035,
     "geom:longitude":0.50228,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Flat 3 Moat House, 1 Castle Hill",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320818395,
-    "wof:lastmodified":1449013078,
+    "wof:lastmodified":1466285055,
     "wof:name":"Medway Members Of Parliaments",
     "wof:parent_id":85786063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "meps"
     ]
 },
-  "bbox": [0.50228,51.39035,0.50228,51.39035],
+  "bbox": [
+    0.50228,
+    51.39035,
+    0.50228,
+    51.39035
+],
   "geometry": {"coordinates":[0.50228,51.39035],"type":"Point"}
 }

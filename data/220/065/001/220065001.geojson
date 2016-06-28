@@ -2,13 +2,14 @@
   "id": 220065001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.805777,54.859356,-1.805777,54.859356",
     "geom:latitude":54.859356,
     "geom:longitude":-1.805777,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Front Street, Leadgate",
     "sg:city":"Consett",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":220065001,
-    "wof:lastmodified":1449074872,
+    "wof:lastmodified":1466254062,
     "wof:name":"Consett Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cab"
     ]
 },
-  "bbox": [-1.805777,54.859356,-1.805777,54.859356],
+  "bbox": [
+    -1.805777,
+    54.859356,
+    -1.805777,
+    54.859356
+],
   "geometry": {"coordinates":[-1.805777,54.859356],"type":"Point"}
 }

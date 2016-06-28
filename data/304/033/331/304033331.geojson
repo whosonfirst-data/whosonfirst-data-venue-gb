@@ -2,13 +2,14 @@
   "id": 304033331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.260725,52.373909,-1.260725,52.373909",
     "geom:latitude":52.373909,
     "geom:longitude":-1.260725,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22a Regent Street",
     "sg:city":"Rugby",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":304033331,
-    "wof:lastmodified":1449043677,
+    "wof:lastmodified":1466265254,
     "wof:name":"Regent Street Dental Practice",
     "wof:parent_id":85789301,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.260725,52.373909,-1.260725,52.373909],
+  "bbox": [
+    -1.260725,
+    52.373909,
+    -1.260725,
+    52.373909
+],
   "geometry": {"coordinates":[-1.260725,52.373909],"type":"Point"}
 }

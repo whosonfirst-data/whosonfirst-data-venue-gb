@@ -2,13 +2,14 @@
   "id": 320371051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.253459,53.493439,-2.253459,53.493439",
     "geom:latitude":53.493439,
     "geom:longitude":-2.253459,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Stenor House, 1-3 Edward Street",
     "sg:city":"Salford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320371051,
-    "wof:lastmodified":1449014136,
+    "wof:lastmodified":1466279036,
     "wof:name":"David J Chadwick Ltd.",
     "wof:parent_id":85793005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leisure"
     ]
 },
-  "bbox": [-2.253459,53.493439,-2.253459,53.493439],
+  "bbox": [
+    -2.253459,
+    53.493439,
+    -2.253459,
+    53.493439
+],
   "geometry": {"coordinates":[-2.253459,53.493439],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219290115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.39667,50.888569,-1.39667,50.888569",
     "geom:latitude":50.888569,
     "geom:longitude":-1.39667,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Berth 40 Test Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219290115,
-    "wof:lastmodified":1449071904,
+    "wof:lastmodified":1466255092,
     "wof:name":"Soper Ltd",
     "wof:parent_id":85787189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "removal"
     ]
 },
-  "bbox": [-1.39667,50.888569,-1.39667,50.888569],
+  "bbox": [
+    -1.39667,
+    50.888569,
+    -1.39667,
+    50.888569
+],
   "geometry": {"coordinates":[-1.39667,50.888569],"type":"Point"}
 }

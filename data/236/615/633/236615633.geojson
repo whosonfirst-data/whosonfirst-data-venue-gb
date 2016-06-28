@@ -2,13 +2,14 @@
   "id": 236615633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.257801,55.864887,-4.257801,55.864887",
     "geom:latitude":55.864887,
     "geom:longitude":-4.257801,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Sauchihall Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236615633,
-    "wof:lastmodified":1449002535,
+    "wof:lastmodified":1466268088,
     "wof:name":"G N M Ltd.",
     "wof:parent_id":85792621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-4.257801,55.864887,-4.257801,55.864887],
+  "bbox": [
+    -4.257801,
+    55.864887,
+    -4.257801,
+    55.864887
+],
   "geometry": {"coordinates":[-4.257801,55.864887],"type":"Point"}
 }

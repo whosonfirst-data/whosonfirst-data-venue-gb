@@ -2,13 +2,14 @@
   "id": 253057255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.176441,51.486149,-3.176441,51.486149",
     "geom:latitude":51.486149,
     "geom:longitude":-3.176441,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Park Pl",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253057255,
-    "wof:lastmodified":1449064283,
+    "wof:lastmodified":1466258472,
     "wof:name":"David Webster",
     "wof:parent_id":85792749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "barrister"
     ]
 },
-  "bbox": [-3.176441,51.486149,-3.176441,51.486149],
+  "bbox": [
+    -3.176441,
+    51.486149,
+    -3.176441,
+    51.486149
+],
   "geometry": {"coordinates":[-3.176441,51.486149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286976823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.242549,53.48085,-2.242549,53.48085",
     "geom:latitude":53.48085,
     "geom:longitude":-2.242549,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"81 King Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286976823,
-    "wof:lastmodified":1449016396,
+    "wof:lastmodified":1466281659,
     "wof:name":"Mendelsons Solicitors",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-2.242549,53.48085,-2.242549,53.48085],
+  "bbox": [
+    -2.242549,
+    53.48085,
+    -2.242549,
+    53.48085
+],
   "geometry": {"coordinates":[-2.242549,53.48085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303626641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.416763,50.917007,-1.416763,50.917007",
     "geom:latitude":50.917007,
     "geom:longitude":-1.416763,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Rowan House Residential Care Home, 9 Darwin Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":303626641,
-    "wof:lastmodified":1449000568,
+    "wof:lastmodified":1466280488,
     "wof:name":"Rowan House Residential Care Home",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-1.416763,50.917007,-1.416763,50.917007],
+  "bbox": [
+    -1.416763,
+    50.917007,
+    -1.416763,
+    50.917007
+],
   "geometry": {"coordinates":[-1.416763,50.917007],"type":"Point"}
 }

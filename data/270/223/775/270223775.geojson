@@ -2,13 +2,14 @@
   "id": 270223775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.888695,50.744202,-1.888695,50.744202",
     "geom:latitude":50.744202,
     "geom:longitude":-1.888695,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Fernside Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270223775,
-    "wof:lastmodified":1449008821,
+    "wof:lastmodified":1466267059,
     "wof:name":"Wadcom Ltd.",
     "wof:parent_id":85791709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "software"
     ]
 },
-  "bbox": [-1.888695,50.744202,-1.888695,50.744202],
+  "bbox": [
+    -1.888695,
+    50.744202,
+    -1.888695,
+    50.744202
+],
   "geometry": {"coordinates":[-1.888695,50.744202],"type":"Point"}
 }

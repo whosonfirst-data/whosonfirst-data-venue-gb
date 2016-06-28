@@ -2,13 +2,14 @@
   "id": 118771169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.112257,53.453674,-2.112257,53.453674",
     "geom:latitude":53.453674,
     "geom:longitude":-2.112257,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Stockport Road, Denton",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118771169,
-    "wof:lastmodified":1449053911,
+    "wof:lastmodified":1466270619,
     "wof:name":"Communications Direct",
     "wof:parent_id":85786995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.112257,53.453674,-2.112257,53.453674],
+  "bbox": [
+    -2.112257,
+    53.453674,
+    -2.112257,
+    53.453674
+],
   "geometry": {"coordinates":[-2.112257,53.453674],"type":"Point"}
 }

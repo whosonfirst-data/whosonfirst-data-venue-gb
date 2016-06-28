@@ -2,13 +2,14 @@
   "id": 102574615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.824819,51.60442,-3.824819,51.60442",
     "geom:latitude":51.60442,
     "geom:longitude":-3.824819,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Mozart Drive",
     "sg:city":"Port Talbot",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102574615,
-    "wof:lastmodified":1449067751,
+    "wof:lastmodified":1466264153,
     "wof:name":"Mozart Drive Community Centre",
     "wof:parent_id":85684117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.824819,51.60442,-3.824819,51.60442],
+  "bbox": [
+    -3.824819,
+    51.60442,
+    -3.824819,
+    51.60442
+],
   "geometry": {"coordinates":[-3.824819,51.60442],"type":"Point"}
 }

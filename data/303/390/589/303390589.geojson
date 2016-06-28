@@ -2,13 +2,14 @@
   "id": 303390589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.556161,53.768108,-1.556161,53.768108",
     "geom:latitude":53.768108,
     "geom:longitude":-1.556161,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Atha Crescent",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":303390589,
-    "wof:lastmodified":1449000592,
+    "wof:lastmodified":1466274580,
     "wof:name":"Harry Booth House",
     "wof:parent_id":85785585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-1.556161,53.768108,-1.556161,53.768108],
+  "bbox": [
+    -1.556161,
+    53.768108,
+    -1.556161,
+    53.768108
+],
   "geometry": {"coordinates":[-1.556161,53.768108],"type":"Point"}
 }

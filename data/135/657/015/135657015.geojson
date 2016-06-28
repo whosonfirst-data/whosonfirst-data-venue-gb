@@ -2,13 +2,14 @@
   "id": 135657015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.556267,50.705021,-3.556267,50.705021",
     "geom:latitude":50.705021,
     "geom:longitude":-3.556267,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Pole House, Old Ide Lane, Ide",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135657015,
-    "wof:lastmodified":1449021328,
+    "wof:lastmodified":1466284766,
     "wof:name":"Hills",
     "wof:parent_id":85790683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.556267,50.705021,-3.556267,50.705021],
+  "bbox": [
+    -3.556267,
+    50.705021,
+    -3.556267,
+    50.705021
+],
   "geometry": {"coordinates":[-3.556267,50.705021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236186763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.105524,52.663235,-1.105524,52.663235",
     "geom:latitude":52.663235,
     "geom:longitude":-1.105524,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Lockerbie Walk, Rushey Mead",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236186763,
-    "wof:lastmodified":1449004386,
+    "wof:lastmodified":1466260061,
     "wof:name":"F W Pickford (Leicester) Ltd.",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "chemist"
     ]
 },
-  "bbox": [-1.105524,52.663235,-1.105524,52.663235],
+  "bbox": [
+    -1.105524,
+    52.663235,
+    -1.105524,
+    52.663235
+],
   "geometry": {"coordinates":[-1.105524,52.663235],"type":"Point"}
 }

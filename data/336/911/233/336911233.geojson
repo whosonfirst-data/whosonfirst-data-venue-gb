@@ -2,13 +2,14 @@
   "id": 336911233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.542822,53.798286,-1.542822,53.798286",
     "geom:latitude":53.798286,
     "geom:longitude":-1.542822,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Queen Victoria St",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336911233,
-    "wof:lastmodified":1448997859,
+    "wof:lastmodified":1466280421,
     "wof:name":"Strand Ladieswear",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ladieswear"
     ]
 },
-  "bbox": [-1.542822,53.798286,-1.542822,53.798286],
+  "bbox": [
+    -1.542822,
+    53.798286,
+    -1.542822,
+    53.798286
+],
   "geometry": {"coordinates":[-1.542822,53.798286],"type":"Point"}
 }

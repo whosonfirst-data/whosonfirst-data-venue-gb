@@ -2,13 +2,14 @@
   "id": 303850335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.779109,57.505955,-1.779109,57.505955",
     "geom:latitude":57.505955,
     "geom:longitude":-1.779109,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Back St",
     "sg:city":"Peterhead",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":303850335,
-    "wof:lastmodified":1448999539,
+    "wof:lastmodified":1466283639,
     "wof:name":"Finlay,A,",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.779109,57.505955,-1.779109,57.505955],
+  "bbox": [
+    -1.779109,
+    57.505955,
+    -1.779109,
+    57.505955
+],
   "geometry": {"coordinates":[-1.779109,57.505955],"type":"Point"}
 }

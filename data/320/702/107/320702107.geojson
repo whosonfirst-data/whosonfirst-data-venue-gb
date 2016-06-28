@@ -2,13 +2,14 @@
   "id": 320702107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.088699,50.788845,-1.088699,50.788845",
     "geom:latitude":50.788845,
     "geom:longitude":-1.088699,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Pelham Rd",
     "sg:city":"Southsea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320702107,
-    "wof:lastmodified":1449013129,
+    "wof:lastmodified":1466284022,
     "wof:name":"The Complete Fundraiser",
     "wof:parent_id":85790481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.088699,50.788845,-1.088699,50.788845],
+  "bbox": [
+    -1.088699,
+    50.788845,
+    -1.088699,
+    50.788845
+],
   "geometry": {"coordinates":[-1.088699,50.788845],"type":"Point"}
 }

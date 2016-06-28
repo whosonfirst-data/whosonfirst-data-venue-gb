@@ -2,13 +2,14 @@
   "id": 336824643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.796381,53.758598,-1.796381,53.758598",
     "geom:latitude":53.758598,
     "geom:longitude":-1.796381,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Church St",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336824643,
-    "wof:lastmodified":1448997310,
+    "wof:lastmodified":1466278922,
     "wof:name":"Danefield Rest Home",
     "wof:parent_id":85786133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-1.796381,53.758598,-1.796381,53.758598],
+  "bbox": [
+    -1.796381,
+    53.758598,
+    -1.796381,
+    53.758598
+],
   "geometry": {"coordinates":[-1.796381,53.758598],"type":"Point"}
 }

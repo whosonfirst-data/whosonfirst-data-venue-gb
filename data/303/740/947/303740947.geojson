@@ -2,13 +2,14 @@
   "id": 303740947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.188625,53.158104,-1.188625,53.158104",
     "geom:latitude":53.158104,
     "geom:longitude":-1.188625,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 93, Old Mill Lane Industrial Estate, Mansfield Woodhouse",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303740947,
-    "wof:lastmodified":1448999227,
+    "wof:lastmodified":1466282240,
     "wof:name":"Connect",
     "wof:parent_id":85787491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.188625,53.158104,-1.188625,53.158104],
+  "bbox": [
+    -1.188625,
+    53.158104,
+    -1.188625,
+    53.158104
+],
   "geometry": {"coordinates":[-1.188625,53.158104],"type":"Point"}
 }

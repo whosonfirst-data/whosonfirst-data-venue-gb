@@ -2,13 +2,14 @@
   "id": 135586811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.161834,55.957188,-3.161834,55.957188",
     "geom:latitude":55.957188,
     "geom:longitude":-3.161834,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Cambusnethan Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135586811,
-    "wof:lastmodified":1449023658,
+    "wof:lastmodified":1466282035,
     "wof:name":"John James White",
     "wof:parent_id":85792695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.161834,55.957188,-3.161834,55.957188],
+  "bbox": [
+    -3.161834,
+    55.957188,
+    -3.161834,
+    55.957188
+],
   "geometry": {"coordinates":[-3.161834,55.957188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219300209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.277949,56.845188,-2.277949,56.845188",
     "geom:latitude":56.845188,
     "geom:longitude":-2.277949,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Market Square, Inverbervie",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219300209,
-    "wof:lastmodified":1449072364,
+    "wof:lastmodified":1466255288,
     "wof:name":"Bervie Auctions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "auctioneer"
     ]
 },
-  "bbox": [-2.277949,56.845188,-2.277949,56.845188],
+  "bbox": [
+    -2.277949,
+    56.845188,
+    -2.277949,
+    56.845188
+],
   "geometry": {"coordinates":[-2.277949,56.845188],"type":"Point"}
 }

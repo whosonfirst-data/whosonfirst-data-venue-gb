@@ -2,13 +2,14 @@
   "id": 135792147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.273986,51.047749,-2.273986,51.047749",
     "geom:latitude":51.047749,
     "geom:longitude":-2.273986,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Cherryfields",
     "sg:city":"Gillingham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135792147,
-    "wof:lastmodified":1449021634,
+    "wof:lastmodified":1466287289,
     "wof:name":"Telecom Services",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.273986,51.047749,-2.273986,51.047749],
+  "bbox": [
+    -2.273986,
+    51.047749,
+    -2.273986,
+    51.047749
+],
   "geometry": {"coordinates":[-2.273986,51.047749],"type":"Point"}
 }

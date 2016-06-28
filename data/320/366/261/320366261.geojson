@@ -2,13 +2,14 @@
   "id": 320366261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.27164,55.870998,-4.27164,55.870998",
     "geom:latitude":55.870998,
     "geom:longitude":-4.27164,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Queens Crescent",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320366261,
-    "wof:lastmodified":1449013978,
+    "wof:lastmodified":1466278801,
     "wof:name":"Thistle Media",
     "wof:parent_id":85792601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazine"
     ]
 },
-  "bbox": [-4.27164,55.870998,-4.27164,55.870998],
+  "bbox": [
+    -4.27164,
+    55.870998,
+    -4.27164,
+    55.870998
+],
   "geometry": {"coordinates":[-4.27164,55.870998],"type":"Point"}
 }

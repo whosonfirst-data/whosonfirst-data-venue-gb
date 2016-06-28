@@ -2,13 +2,14 @@
   "id": 119053297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.312164,52.980656,-1.312164,52.980656",
     "geom:latitude":52.980656,
     "geom:longitude":-1.312164,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Heanor Road",
     "sg:city":"Ilkeston",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119053297,
-    "wof:lastmodified":1449041313,
+    "wof:lastmodified":1466253587,
     "wof:name":"White Knight (Derbyshire)",
     "wof:parent_id":101872095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.312164,52.980656,-1.312164,52.980656],
+  "bbox": [
+    -1.312164,
+    52.980656,
+    -1.312164,
+    52.980656
+],
   "geometry": {"coordinates":[-1.312164,52.980656],"type":"Point"}
 }

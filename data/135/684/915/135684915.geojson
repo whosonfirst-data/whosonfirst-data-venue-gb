@@ -2,13 +2,14 @@
   "id": 135684915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.16341,55.969406,-3.16341,55.969406",
     "geom:latitude":55.969406,
     "geom:longitude":-3.16341,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 East Hermitage Place, Leith",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135684915,
-    "wof:lastmodified":1449021744,
+    "wof:lastmodified":1466285568,
     "wof:name":"Mackenzie Guest House",
     "wof:parent_id":85861483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.16341,55.969406,-3.16341,55.969406],
+  "bbox": [
+    -3.16341,
+    55.969406,
+    -3.16341,
+    55.969406
+],
   "geometry": {"coordinates":[-3.16341,55.969406],"type":"Point"}
 }

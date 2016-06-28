@@ -2,13 +2,14 @@
   "id": 303092663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.83529,52.405399,-1.83529,52.405399",
     "geom:latitude":52.405399,
     "geom:longitude":-1.83529,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Po Box 3819, Shirley",
     "sg:city":"Solihull",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303092663,
-    "wof:lastmodified":1449000106,
+    "wof:lastmodified":1466265391,
     "wof:name":"Crown Communications",
     "wof:parent_id":85790319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [-1.83529,52.405399,-1.83529,52.405399],
+  "bbox": [
+    -1.83529,
+    52.405399,
+    -1.83529,
+    52.405399
+],
   "geometry": {"coordinates":[-1.83529,52.405399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135970649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.101986,53.003223,-1.101986,53.003223",
     "geom:latitude":53.003223,
     "geom:longitude":-1.101986,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Middlebeck Drive, Arnold",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135970649,
-    "wof:lastmodified":1449023933,
+    "wof:lastmodified":1466288482,
     "wof:name":"Harry James Combellack",
     "wof:parent_id":85791805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.101986,53.003223,-1.101986,53.003223],
+  "bbox": [
+    -1.101986,
+    53.003223,
+    -1.101986,
+    53.003223
+],
   "geometry": {"coordinates":[-1.101986,53.003223],"type":"Point"}
 }

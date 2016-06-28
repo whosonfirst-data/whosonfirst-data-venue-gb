@@ -2,13 +2,14 @@
   "id": 286348733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.74099,53.453426,-2.74099,53.453426",
     "geom:latitude":53.453426,
     "geom:longitude":-2.74099,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Westfield Street",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286348733,
-    "wof:lastmodified":1449015288,
+    "wof:lastmodified":1466264874,
     "wof:name":"Only Natural",
     "wof:parent_id":85792121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "health"
     ]
 },
-  "bbox": [-2.74099,53.453426,-2.74099,53.453426],
+  "bbox": [
+    -2.74099,
+    53.453426,
+    -2.74099,
+    53.453426
+],
   "geometry": {"coordinates":[-2.74099,53.453426],"type":"Point"}
 }

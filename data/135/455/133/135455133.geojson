@@ -2,13 +2,14 @@
   "id": 135455133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.222135,55.840832,-4.222135,55.840832",
     "geom:latitude":55.840832,
     "geom:longitude":-4.222135,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Colvend Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135455133,
-    "wof:lastmodified":1449023535,
+    "wof:lastmodified":1466269278,
     "wof:name":"I C W Autos",
     "wof:parent_id":85786951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.222135,55.840832,-4.222135,55.840832],
+  "bbox": [
+    -4.222135,
+    55.840832,
+    -4.222135,
+    55.840832
+],
   "geometry": {"coordinates":[-4.222135,55.840832],"type":"Point"}
 }

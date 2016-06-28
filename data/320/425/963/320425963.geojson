@@ -2,13 +2,14 @@
   "id": 320425963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.546035,51.378765,0.546035,51.378765",
     "geom:latitude":51.378765,
     "geom:longitude":0.546035,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Bakery, Montgomery Road",
     "sg:city":"Gillingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320425963,
-    "wof:lastmodified":1449012587,
+    "wof:lastmodified":1466279806,
     "wof:name":"T T Catering",
     "wof:parent_id":85861263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [0.546035,51.378765,0.546035,51.378765],
+  "bbox": [
+    0.546035,
+    51.378765,
+    0.546035,
+    51.378765
+],
   "geometry": {"coordinates":[0.546035,51.378765],"type":"Point"}
 }

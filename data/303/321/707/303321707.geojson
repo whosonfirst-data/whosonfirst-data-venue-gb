@@ -2,13 +2,14 @@
   "id": 303321707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.732246,52.452965,-1.732246,52.452965",
     "geom:latitude":52.452965,
     "geom:longitude":-1.732246,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sheldon Chambers, 2239-2243 Coventry Road, Sheldon",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303321707,
-    "wof:lastmodified":1448998176,
+    "wof:lastmodified":1466272494,
     "wof:name":"Data Craft Systems",
     "wof:parent_id":85787275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-1.732246,52.452965,-1.732246,52.452965],
+  "bbox": [
+    -1.732246,
+    52.452965,
+    -1.732246,
+    52.452965
+],
   "geometry": {"coordinates":[-1.732246,52.452965],"type":"Point"}
 }

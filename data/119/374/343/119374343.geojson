@@ -2,13 +2,14 @@
   "id": 119374343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.516251,53.395668,-1.516251,53.395668",
     "geom:latitude":53.395668,
     "geom:longitude":-1.516251,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Middle Lane",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119374343,
-    "wof:lastmodified":1449041980,
+    "wof:lastmodified":1466284088,
     "wof:name":"King's Garden Services",
     "wof:parent_id":85791283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.516251,53.395668,-1.516251,53.395668],
+  "bbox": [
+    -1.516251,
+    53.395668,
+    -1.516251,
+    53.395668
+],
   "geometry": {"coordinates":[-1.516251,53.395668],"type":"Point"}
 }

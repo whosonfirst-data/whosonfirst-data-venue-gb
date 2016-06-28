@@ -2,13 +2,14 @@
   "id": 320304291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.779963,52.288815,-1.779963,52.288815",
     "geom:latitude":52.288815,
     "geom:longitude":-1.779963,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"237 High Street, Henley-in-arden",
     "sg:city":"Solihull",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320304291,
-    "wof:lastmodified":1449014029,
+    "wof:lastmodified":1466277208,
     "wof:name":"Henley Wool Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wool"
     ]
 },
-  "bbox": [-1.779963,52.288815,-1.779963,52.288815],
+  "bbox": [
+    -1.779963,
+    52.288815,
+    -1.779963,
+    52.288815
+],
   "geometry": {"coordinates":[-1.779963,52.288815],"type":"Point"}
 }

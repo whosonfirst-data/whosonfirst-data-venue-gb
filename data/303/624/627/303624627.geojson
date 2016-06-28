@@ -2,13 +2,14 @@
   "id": 303624627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.064861,50.814796,-1.064861,50.814796",
     "geom:latitude":50.814796,
     "geom:longitude":-1.064861,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Copnor Road",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303624627,
-    "wof:lastmodified":1448999796,
+    "wof:lastmodified":1466280445,
     "wof:name":"Venthams Chemist",
     "wof:parent_id":85861975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chemist"
     ]
 },
-  "bbox": [-1.064861,50.814796,-1.064861,50.814796],
+  "bbox": [
+    -1.064861,
+    50.814796,
+    -1.064861,
+    50.814796
+],
   "geometry": {"coordinates":[-1.064861,50.814796],"type":"Point"}
 }

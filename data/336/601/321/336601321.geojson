@@ -2,13 +2,14 @@
   "id": 336601321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.229194,55.935501,-3.229194,55.935501",
     "geom:latitude":55.935501,
     "geom:longitude":-3.229194,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Primrose Terrace",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":336601321,
-    "wof:lastmodified":1448997431,
+    "wof:lastmodified":1466272810,
     "wof:name":"Dispatch Box",
     "wof:parent_id":85787641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "courier"
     ]
 },
-  "bbox": [-3.229194,55.935501,-3.229194,55.935501],
+  "bbox": [
+    -3.229194,
+    55.935501,
+    -3.229194,
+    55.935501
+],
   "geometry": {"coordinates":[-3.229194,55.935501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186415663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.2,55.959076,-3.2,55.959076",
     "geom:latitude":55.959076,
     "geom:longitude":-3.2,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Dundas Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":186415663,
-    "wof:lastmodified":1449052290,
+    "wof:lastmodified":1466257839,
     "wof:name":"KEITH R JACKSON",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.2,55.959076,-3.2,55.959076],
+  "bbox": [
+    -3.2,
+    55.959076,
+    -3.2,
+    55.959076
+],
   "geometry": {"coordinates":[-3.2,55.959076],"type":"Point"}
 }

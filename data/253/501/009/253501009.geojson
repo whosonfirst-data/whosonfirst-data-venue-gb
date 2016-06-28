@@ -2,13 +2,14 @@
   "id": 253501009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.941795,51.62088,-3.941795,51.62088",
     "geom:latitude":51.62088,
     "geom:longitude":-3.941795,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38-39 Castle Street",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":253501009,
-    "wof:lastmodified":1449065838,
+    "wof:lastmodified":1466267993,
     "wof:name":"The Sheep Shop",
     "wof:parent_id":85788985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "centre"
     ]
 },
-  "bbox": [-3.941795,51.62088,-3.941795,51.62088],
+  "bbox": [
+    -3.941795,
+    51.62088,
+    -3.941795,
+    51.62088
+],
   "geometry": {"coordinates":[-3.941795,51.62088],"type":"Point"}
 }

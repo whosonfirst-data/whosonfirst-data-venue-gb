@@ -2,13 +2,14 @@
   "id": 135328953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.175668,55.85228,-4.175668,55.85228",
     "geom:latitude":55.85228,
     "geom:longitude":-4.175668,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Shettleston Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":135328953,
-    "wof:lastmodified":1449022799,
+    "wof:lastmodified":1466254725,
     "wof:name":"DEANS BAR",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.175668,55.85228,-4.175668,55.85228],
+  "bbox": [
+    -4.175668,
+    55.85228,
+    -4.175668,
+    55.85228
+],
   "geometry": {"coordinates":[-4.175668,55.85228],"type":"Point"}
 }

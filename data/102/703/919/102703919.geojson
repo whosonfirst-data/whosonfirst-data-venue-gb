@@ -2,13 +2,14 @@
   "id": 102703919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.376492,52.769829,-2.376492,52.769829",
     "geom:latitude":52.769829,
     "geom:longitude":-2.376492,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"New Guild, Sutton",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102703919,
-    "wof:lastmodified":1449068510,
+    "wof:lastmodified":1466256531,
     "wof:name":"R Evans & Son",
     "wof:parent_id":85684431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.376492,52.769829,-2.376492,52.769829],
+  "bbox": [
+    -2.376492,
+    52.769829,
+    -2.376492,
+    52.769829
+],
   "geometry": {"coordinates":[-2.376492,52.769829],"type":"Point"}
 }

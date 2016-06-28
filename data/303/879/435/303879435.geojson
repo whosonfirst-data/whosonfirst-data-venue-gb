@@ -2,13 +2,14 @@
   "id": 303879435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.232098,57.475117,-4.232098,57.475117",
     "geom:latitude":57.475117,
     "geom:longitude":-4.232098,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Ardross Terrace",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303879435,
-    "wof:lastmodified":1448998140,
+    "wof:lastmodified":1466284073,
     "wof:name":"Winston Guest House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "guest"
     ]
 },
-  "bbox": [-4.232098,57.475117,-4.232098,57.475117],
+  "bbox": [
+    -4.232098,
+    57.475117,
+    -4.232098,
+    57.475117
+],
   "geometry": {"coordinates":[-4.232098,57.475117],"type":"Point"}
 }

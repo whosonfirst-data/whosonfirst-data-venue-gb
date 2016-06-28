@@ -2,13 +2,14 @@
   "id": 320225585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.781113,53.767136,-1.781113,53.767136",
     "geom:latitude":53.767136,
     "geom:longitude":-1.781113,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"141 St Helena Road, Wibsey",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320225585,
-    "wof:lastmodified":1449012433,
+    "wof:lastmodified":1466274777,
     "wof:name":"St. Marks Car Sales",
     "wof:parent_id":85791661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-1.781113,53.767136,-1.781113,53.767136],
+  "bbox": [
+    -1.781113,
+    53.767136,
+    -1.781113,
+    53.767136
+],
   "geometry": {"coordinates":[-1.781113,53.767136],"type":"Point"}
 }

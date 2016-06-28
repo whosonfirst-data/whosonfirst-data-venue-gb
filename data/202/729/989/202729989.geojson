@@ -2,13 +2,14 @@
   "id": 202729989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.250034,53.472019,-2.250034,53.472019",
     "geom:latitude":53.472019,
     "geom:longitude":-2.250034,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"River Place, City Rd East",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202729989,
-    "wof:lastmodified":1449061402,
+    "wof:lastmodified":1466257905,
     "wof:name":"Watt Energy",
     "wof:parent_id":85861853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-2.250034,53.472019,-2.250034,53.472019],
+  "bbox": [
+    -2.250034,
+    53.472019,
+    -2.250034,
+    53.472019
+],
   "geometry": {"coordinates":[-2.250034,53.472019],"type":"Point"}
 }

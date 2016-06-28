@@ -2,13 +2,14 @@
   "id": 219532083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.41942,55.90427,-4.41942,55.90427",
     "geom:latitude":55.90427,
     "geom:longitude":-4.41942,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Cable Depot Road, Riverside Industrial Estate",
     "sg:city":"Clydebank",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219532083,
-    "wof:lastmodified":1449071587,
+    "wof:lastmodified":1466259313,
     "wof:name":"Clark & Pearson Ltd.",
     "wof:parent_id":85786955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-4.41942,55.90427,-4.41942,55.90427],
+  "bbox": [
+    -4.41942,
+    55.90427,
+    -4.41942,
+    55.90427
+],
   "geometry": {"coordinates":[-4.41942,55.90427],"type":"Point"}
 }

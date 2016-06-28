@@ -2,13 +2,14 @@
   "id": 119176789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.36538,50.967628,-1.36538,50.967628",
     "geom:latitude":50.967628,
     "geom:longitude":-1.36538,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"P O Box 125, Eastleigh",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119176789,
-    "wof:lastmodified":1449042625,
+    "wof:lastmodified":1466266532,
     "wof:name":"Fixed Penalty Office",
     "wof:parent_id":85792829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.36538,50.967628,-1.36538,50.967628],
+  "bbox": [
+    -1.36538,
+    50.967628,
+    -1.36538,
+    50.967628
+],
   "geometry": {"coordinates":[-1.36538,50.967628],"type":"Point"}
 }

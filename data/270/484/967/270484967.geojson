@@ -2,13 +2,14 @@
   "id": 270484967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.0794,51.56205,-0.0794,51.56205",
     "geom:latitude":51.56205,
     "geom:longitude":-0.0794,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Stoke Newington Church Stree, T",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270484967,
-    "wof:lastmodified":1449010974,
+    "wof:lastmodified":1466274875,
     "wof:name":"The Auld Shillelagh",
     "wof:parent_id":85790769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-0.0794,51.56205,-0.0794,51.56205],
+  "bbox": [
+    -0.0794,
+    51.56205,
+    -0.0794,
+    51.56205
+],
   "geometry": {"coordinates":[-0.0794,51.56205],"type":"Point"}
 }

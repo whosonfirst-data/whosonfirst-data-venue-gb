@@ -2,13 +2,14 @@
   "id": 286860203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.355621,55.885201,-4.355621,55.885201",
     "geom:latitude":55.885201,
     "geom:longitude":-4.355621,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Anniesland Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":286860203,
-    "wof:lastmodified":1449016495,
+    "wof:lastmodified":1466279667,
     "wof:name":"Scotstounhill Bowling Club",
     "wof:parent_id":85790197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.355621,55.885201,-4.355621,55.885201],
+  "bbox": [
+    -4.355621,
+    55.885201,
+    -4.355621,
+    55.885201
+],
   "geometry": {"coordinates":[-4.355621,55.885201],"type":"Point"}
 }

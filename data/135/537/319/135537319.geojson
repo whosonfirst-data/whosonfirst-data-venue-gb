@@ -2,13 +2,14 @@
   "id": 135537319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.141443,53.554588,-2.141443,53.554588",
     "geom:latitude":53.554588,
     "geom:longitude":-2.141443,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Parkgate",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135537319,
-    "wof:lastmodified":1449021729,
+    "wof:lastmodified":1466279088,
     "wof:name":"The Cake Shop",
     "wof:parent_id":85793083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.141443,53.554588,-2.141443,53.554588],
+  "bbox": [
+    -2.141443,
+    53.554588,
+    -2.141443,
+    53.554588
+],
   "geometry": {"coordinates":[-2.141443,53.554588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135623015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.954158,53.432594,-2.954158,53.432594",
     "geom:latitude":53.432594,
     "geom:longitude":-2.954158,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Priory Road",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135623015,
-    "wof:lastmodified":1449023117,
+    "wof:lastmodified":1466283705,
     "wof:name":"M & L Cars",
     "wof:parent_id":85785305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.954158,53.432594,-2.954158,53.432594],
+  "bbox": [
+    -2.954158,
+    53.432594,
+    -2.954158,
+    53.432594
+],
   "geometry": {"coordinates":[-2.954158,53.432594],"type":"Point"}
 }

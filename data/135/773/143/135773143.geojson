@@ -2,13 +2,14 @@
   "id": 135773143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.853469,53.816605,-1.853469,53.816605",
     "geom:latitude":53.816605,
     "geom:longitude":-1.853469,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 The Avenue, Wilsden",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135773143,
-    "wof:lastmodified":1449021368,
+    "wof:lastmodified":1466287024,
     "wof:name":"Wilsden Builders",
     "wof:parent_id":85785275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.853469,53.816605,-1.853469,53.816605],
+  "bbox": [
+    -1.853469,
+    53.816605,
+    -1.853469,
+    53.816605
+],
   "geometry": {"coordinates":[-1.853469,53.816605],"type":"Point"}
 }

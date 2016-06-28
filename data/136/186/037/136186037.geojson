@@ -2,13 +2,14 @@
   "id": 136186037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.256248,55.863258,-4.256248,55.863258",
     "geom:latitude":55.863258,
     "geom:longitude":-4.256248,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77a Renfield Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":136186037,
-    "wof:lastmodified":1449075945,
+    "wof:lastmodified":1466260096,
     "wof:name":"Glasgow Shaver Centre",
     "wof:parent_id":85792621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.256248,55.863258,-4.256248,55.863258],
+  "bbox": [
+    -4.256248,
+    55.863258,
+    -4.256248,
+    55.863258
+],
   "geometry": {"coordinates":[-4.256248,55.863258],"type":"Point"}
 }

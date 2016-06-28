@@ -2,13 +2,14 @@
   "id": 202885589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.547173,54.547581,-1.547173,54.547581",
     "geom:latitude":54.547581,
     "geom:longitude":-1.547173,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"364 North Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":202885589,
-    "wof:lastmodified":1449061459,
+    "wof:lastmodified":1466260499,
     "wof:name":"Blue Diamond Mini Buses",
     "wof:parent_id":85787981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coach"
     ]
 },
-  "bbox": [-1.547173,54.547581,-1.547173,54.547581],
+  "bbox": [
+    -1.547173,
+    54.547581,
+    -1.547173,
+    54.547581
+],
   "geometry": {"coordinates":[-1.547173,54.547581],"type":"Point"}
 }

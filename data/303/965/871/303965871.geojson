@@ -2,13 +2,14 @@
   "id": 303965871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.990659,52.699478,-1.990659,52.699478",
     "geom:latitude":52.699478,
     "geom:longitude":-1.990659,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"P O Box 52",
     "sg:city":"Cannock",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303965871,
-    "wof:lastmodified":1448999824,
+    "wof:lastmodified":1466284940,
     "wof:name":"Staffordshire Filter Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "filter"
     ]
 },
-  "bbox": [-1.990659,52.699478,-1.990659,52.699478],
+  "bbox": [
+    -1.990659,
+    52.699478,
+    -1.990659,
+    52.699478
+],
   "geometry": {"coordinates":[-1.990659,52.699478],"type":"Point"}
 }

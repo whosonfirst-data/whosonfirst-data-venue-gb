@@ -2,13 +2,14 @@
   "id": 136105363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.000701,50.930885,-1.000701,50.930885",
     "geom:latitude":50.930885,
     "geom:longitude":-1.000701,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Francis Rd",
     "sg:city":"Waterlooville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136105363,
-    "wof:lastmodified":1449075422,
+    "wof:lastmodified":1466255904,
     "wof:name":"S R Way",
     "wof:parent_id":101913909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.000701,50.930885,-1.000701,50.930885],
+  "bbox": [
+    -1.000701,
+    50.930885,
+    -1.000701,
+    50.930885
+],
   "geometry": {"coordinates":[-1.000701,50.930885],"type":"Point"}
 }

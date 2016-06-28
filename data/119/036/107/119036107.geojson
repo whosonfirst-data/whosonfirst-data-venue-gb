@@ -2,13 +2,14 @@
   "id": 119036107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.093363,52.585697,-4.093363,52.585697",
     "geom:latitude":52.585697,
     "geom:longitude":-4.093363,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Brynmair",
     "sg:city":"Tywyn",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119036107,
-    "wof:lastmodified":1449041393,
+    "wof:lastmodified":1466277557,
     "wof:name":"Weigh Out",
     "wof:parent_id":101853665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.093363,52.585697,-4.093363,52.585697],
+  "bbox": [
+    -4.093363,
+    52.585697,
+    -4.093363,
+    52.585697
+],
   "geometry": {"coordinates":[-4.093363,52.585697],"type":"Point"}
 }

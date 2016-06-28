@@ -2,13 +2,14 @@
   "id": 135370803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.125211,51.745502,-1.125211,51.745502",
     "geom:latitude":51.745502,
     "geom:longitude":-1.125211,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 London Road",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135370803,
-    "wof:lastmodified":1449022655,
+    "wof:lastmodified":1466259492,
     "wof:name":"Wheatley Car Centre",
     "wof:parent_id":101852923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.125211,51.745502,-1.125211,51.745502],
+  "bbox": [
+    -1.125211,
+    51.745502,
+    -1.125211,
+    51.745502
+],
   "geometry": {"coordinates":[-1.125211,51.745502],"type":"Point"}
 }

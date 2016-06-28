@@ -2,13 +2,14 @@
   "id": 320082647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.178072,55.933285,-3.178072,55.933285",
     "geom:latitude":55.933285,
     "geom:longitude":-3.178072,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Fountainhall Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320082647,
-    "wof:lastmodified":1449011353,
+    "wof:lastmodified":1466270631,
     "wof:name":"Hutchison Pharmacy Ltd",
     "wof:parent_id":85787675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chemist"
     ]
 },
-  "bbox": [-3.178072,55.933285,-3.178072,55.933285],
+  "bbox": [
+    -3.178072,
+    55.933285,
+    -3.178072,
+    55.933285
+],
   "geometry": {"coordinates":[-3.178072,55.933285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119525873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.612841,54.976631,-1.612841,54.976631",
     "geom:latitude":54.976631,
     "geom:longitude":-1.612841,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Northumberland Street",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119525873,
-    "wof:lastmodified":1449042937,
+    "wof:lastmodified":1466287571,
     "wof:name":"Sandwich Express",
     "wof:parent_id":85861867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.612841,54.976631,-1.612841,54.976631],
+  "bbox": [
+    -1.612841,
+    54.976631,
+    -1.612841,
+    54.976631
+],
   "geometry": {"coordinates":[-1.612841,54.976631],"type":"Point"}
 }

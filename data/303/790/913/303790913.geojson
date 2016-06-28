@@ -2,13 +2,14 @@
   "id": 303790913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.166379,51.487179,-3.166379,51.487179",
     "geom:latitude":51.487179,
     "geom:longitude":-3.166379,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Shakespeare St",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303790913,
-    "wof:lastmodified":1448999992,
+    "wof:lastmodified":1466282902,
     "wof:name":"City Motor Services",
     "wof:parent_id":85789785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disability"
     ]
 },
-  "bbox": [-3.166379,51.487179,-3.166379,51.487179],
+  "bbox": [
+    -3.166379,
+    51.487179,
+    -3.166379,
+    51.487179
+],
   "geometry": {"coordinates":[-3.166379,51.487179],"type":"Point"}
 }

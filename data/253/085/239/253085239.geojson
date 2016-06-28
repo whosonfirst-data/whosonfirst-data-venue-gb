@@ -2,13 +2,14 @@
   "id": 253085239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.986739,50.714485,-1.986739,50.714485",
     "geom:latitude":50.714485,
     "geom:longitude":-1.986739,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Dolphin Centre",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253085239,
-    "wof:lastmodified":1449063558,
+    "wof:lastmodified":1466259042,
     "wof:name":"Sweet Station",
     "wof:parent_id":85792767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-1.986739,50.714485,-1.986739,50.714485],
+  "bbox": [
+    -1.986739,
+    50.714485,
+    -1.986739,
+    50.714485
+],
   "geometry": {"coordinates":[-1.986739,50.714485],"type":"Point"}
 }

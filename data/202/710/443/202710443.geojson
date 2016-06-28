@@ -2,13 +2,14 @@
   "id": 202710443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.330217,54.231796,-1.330217,54.231796",
     "geom:latitude":54.231796,
     "geom:longitude":-1.330217,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 8, Severfield Close, Thirsk Industrial Park",
     "sg:city":"Thirsk",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202710443,
-    "wof:lastmodified":1449060265,
+    "wof:lastmodified":1466257600,
     "wof:name":"Safel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.330217,54.231796,-1.330217,54.231796],
+  "bbox": [
+    -1.330217,
+    54.231796,
+    -1.330217,
+    54.231796
+],
   "geometry": {"coordinates":[-1.330217,54.231796],"type":"Point"}
 }

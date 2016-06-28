@@ -2,13 +2,14 @@
   "id": 203220057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.188839,55.868149,-4.188839,55.868149",
     "geom:latitude":55.868149,
     "geom:longitude":-4.188839,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Smithycroft Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203220057,
-    "wof:lastmodified":1449026804,
+    "wof:lastmodified":1466256384,
     "wof:name":"R Laurie",
     "wof:parent_id":85792585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "butcher"
     ]
 },
-  "bbox": [-4.188839,55.868149,-4.188839,55.868149],
+  "bbox": [
+    -4.188839,
+    55.868149,
+    -4.188839,
+    55.868149
+],
   "geometry": {"coordinates":[-4.188839,55.868149],"type":"Point"}
 }

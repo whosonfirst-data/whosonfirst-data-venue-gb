@@ -2,13 +2,14 @@
   "id": 269745267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.622562,55.749504,-4.622562,55.749504",
     "geom:latitude":55.749504,
     "geom:longitude":-4.622562,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Wardrop Terr",
     "sg:city":"Beith",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269745267,
-    "wof:lastmodified":1449038853,
+    "wof:lastmodified":1466268029,
     "wof:name":"Domestic Electrical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-4.622562,55.749504,-4.622562,55.749504],
+  "bbox": [
+    -4.622562,
+    55.749504,
+    -4.622562,
+    55.749504
+],
   "geometry": {"coordinates":[-4.622562,55.749504],"type":"Point"}
 }

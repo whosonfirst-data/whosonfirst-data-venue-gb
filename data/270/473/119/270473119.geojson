@@ -2,13 +2,14 @@
   "id": 270473119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.825019,52.450329,-1.825019,52.450329",
     "geom:latitude":52.450329,
     "geom:longitude":-1.825019,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Arden Road, Acocks Grn",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270473119,
-    "wof:lastmodified":1449009139,
+    "wof:lastmodified":1466274517,
     "wof:name":"Birmingham City Mission",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.825019,52.450329,-1.825019,52.450329],
+  "bbox": [
+    -1.825019,
+    52.450329,
+    -1.825019,
+    52.450329
+],
   "geometry": {"coordinates":[-1.825019,52.450329],"type":"Point"}
 }

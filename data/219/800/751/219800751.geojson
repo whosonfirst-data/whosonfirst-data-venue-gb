@@ -2,13 +2,14 @@
   "id": 219800751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.234498,53.120281,-1.234498,53.120281",
     "geom:latitude":53.120281,
     "geom:longitude":-1.234498,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Searby Road",
     "sg:city":"Sutton-in-ashfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219800751,
-    "wof:lastmodified":1449070667,
+    "wof:lastmodified":1466263688,
     "wof:name":"K M Cooke",
     "wof:parent_id":85787491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contracting"
     ]
 },
-  "bbox": [-1.234498,53.120281,-1.234498,53.120281],
+  "bbox": [
+    -1.234498,
+    53.120281,
+    -1.234498,
+    53.120281
+],
   "geometry": {"coordinates":[-1.234498,53.120281],"type":"Point"}
 }

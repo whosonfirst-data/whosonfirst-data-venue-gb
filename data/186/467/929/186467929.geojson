@@ -2,13 +2,14 @@
   "id": 186467929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.97349,53.471954,-1.97349,53.471954",
     "geom:latitude":53.471954,
     "geom:longitude":-1.97349,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Manchester Road, Tintwistle, Hadfield",
     "sg:city":"Glossop",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186467929,
-    "wof:lastmodified":1449052432,
+    "wof:lastmodified":1466258723,
     "wof:name":"J & J Hairdressing",
     "wof:parent_id":85786995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.97349,53.471954,-1.97349,53.471954],
+  "bbox": [
+    -1.97349,
+    53.471954,
+    -1.97349,
+    53.471954
+],
   "geometry": {"coordinates":[-1.97349,53.471954],"type":"Point"}
 }

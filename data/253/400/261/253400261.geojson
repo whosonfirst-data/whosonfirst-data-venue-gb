@@ -2,13 +2,14 @@
   "id": 253400261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.192512,51.27277,0.192512,51.27277",
     "geom:latitude":51.27277,
     "geom:longitude":0.192512,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"143-143c High Street",
     "sg:city":"Sevenoaks",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253400261,
-    "wof:lastmodified":1449063093,
+    "wof:lastmodified":1466265552,
     "wof:name":"Wine Cellars & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [0.192512,51.27277,0.192512,51.27277],
+  "bbox": [
+    0.192512,
+    51.27277,
+    0.192512,
+    51.27277
+],
   "geometry": {"coordinates":[0.192512,51.27277],"type":"Point"}
 }

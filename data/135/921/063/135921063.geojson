@@ -2,13 +2,14 @@
   "id": 135921063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.042485,53.553795,-3.042485,53.553795",
     "geom:latitude":53.553795,
     "geom:longitude":-3.042485,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Altcar Rd, Formby",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135921063,
-    "wof:lastmodified":1449022948,
+    "wof:lastmodified":1466288199,
     "wof:name":"Stanley Parts",
     "wof:parent_id":101872227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.042485,53.553795,-3.042485,53.553795],
+  "bbox": [
+    -3.042485,
+    53.553795,
+    -3.042485,
+    53.553795
+],
   "geometry": {"coordinates":[-3.042485,53.553795],"type":"Point"}
 }

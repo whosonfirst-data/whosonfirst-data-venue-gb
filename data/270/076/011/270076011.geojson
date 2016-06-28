@@ -2,13 +2,14 @@
   "id": 270076011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.507549,51.481297,-2.507549,51.481297",
     "geom:latitude":51.481297,
     "geom:longitude":-2.507549,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"131 High Street, Staplehill",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":270076011,
-    "wof:lastmodified":1449010534,
+    "wof:lastmodified":1466262727,
     "wof:name":"Harris Furnishers",
     "wof:parent_id":85790707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.507549,51.481297,-2.507549,51.481297],
+  "bbox": [
+    -2.507549,
+    51.481297,
+    -2.507549,
+    51.481297
+],
   "geometry": {"coordinates":[-2.507549,51.481297],"type":"Point"}
 }

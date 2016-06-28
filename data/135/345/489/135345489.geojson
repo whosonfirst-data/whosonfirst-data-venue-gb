@@ -2,13 +2,14 @@
   "id": 135345489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.324751,51.85162,-4.324751,51.85162",
     "geom:latitude":51.85162,
     "geom:longitude":-4.324751,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bowyers Depot, Llansteffan Rd",
     "sg:city":"Carmarthen",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135345489,
-    "wof:lastmodified":1449023767,
+    "wof:lastmodified":1466256683,
     "wof:name":"Bowyers Ltd",
     "wof:parent_id":101852977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.324751,51.85162,-4.324751,51.85162],
+  "bbox": [
+    -4.324751,
+    51.85162,
+    -4.324751,
+    51.85162
+],
   "geometry": {"coordinates":[-4.324751,51.85162],"type":"Point"}
 }

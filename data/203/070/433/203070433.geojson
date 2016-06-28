@@ -2,13 +2,14 @@
   "id": 203070433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.784057,51.482269,-2.784057,51.482269",
     "geom:latitude":51.482269,
     "geom:longitude":-2.784057,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Quantock Rd, Portishead",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203070433,
-    "wof:lastmodified":1449025834,
+    "wof:lastmodified":1466253834,
     "wof:name":"Glass Designs",
     "wof:parent_id":85785419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "replacement"
     ]
 },
-  "bbox": [-2.784057,51.482269,-2.784057,51.482269],
+  "bbox": [
+    -2.784057,
+    51.482269,
+    -2.784057,
+    51.482269
+],
   "geometry": {"coordinates":[-2.784057,51.482269],"type":"Point"}
 }

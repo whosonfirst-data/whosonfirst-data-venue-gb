@@ -2,13 +2,14 @@
   "id": 202424153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.743284,54.820999,-1.743284,54.820999",
     "geom:latitude":54.820999,
     "geom:longitude":-1.743284,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Westlands, Front Street, Lanchester",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202424153,
-    "wof:lastmodified":1449062490,
+    "wof:lastmodified":1466252976,
     "wof:name":"M I Matthews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.743284,54.820999,-1.743284,54.820999],
+  "bbox": [
+    -1.743284,
+    54.820999,
+    -1.743284,
+    54.820999
+],
   "geometry": {"coordinates":[-1.743284,54.820999],"type":"Point"}
 }

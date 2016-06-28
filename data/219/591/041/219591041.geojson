@@ -2,13 +2,14 @@
   "id": 219591041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.210061,53.345417,-2.210061,53.345417",
     "geom:latitude":53.345417,
     "geom:longitude":-2.210061,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Green, Wilmslow Rd",
     "sg:city":"Wilmslow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219591041,
-    "wof:lastmodified":1449072269,
+    "wof:lastmodified":1466260289,
     "wof:name":"Handforth Library",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-2.210061,53.345417,-2.210061,53.345417],
+  "bbox": [
+    -2.210061,
+    53.345417,
+    -2.210061,
+    53.345417
+],
   "geometry": {"coordinates":[-2.210061,53.345417],"type":"Point"}
 }

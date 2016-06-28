@@ -2,13 +2,14 @@
   "id": 135630139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.714208,52.205925,-1.714208,52.205925",
     "geom:latitude":52.205925,
     "geom:longitude":-1.714208,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Woodlands Road",
     "sg:city":"Stratford-upon-avon",
     "sg:classifiers":[
@@ -63,14 +64,20 @@
         }
     ],
     "wof:id":135630139,
-    "wof:lastmodified":1449022079,
+    "wof:lastmodified":1466283933,
     "wof:name":"A111 Services",
     "wof:parent_id":101853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.714208,52.205925,-1.714208,52.205925],
+  "bbox": [
+    -1.714208,
+    52.205925,
+    -1.714208,
+    52.205925
+],
   "geometry": {"coordinates":[-1.714208,52.205925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269504619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.218379,51.757835,-1.218379,51.757835",
     "geom:latitude":51.757835,
     "geom:longitude":-1.218379,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bury Knowle House, North Place, Headington",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269504619,
-    "wof:lastmodified":1449036550,
+    "wof:lastmodified":1466260543,
     "wof:name":"Bury Knowle Library",
     "wof:parent_id":85788043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-1.218379,51.757835,-1.218379,51.757835],
+  "bbox": [
+    -1.218379,
+    51.757835,
+    -1.218379,
+    51.757835
+],
   "geometry": {"coordinates":[-1.218379,51.757835],"type":"Point"}
 }

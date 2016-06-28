@@ -2,13 +2,14 @@
   "id": 135702025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.809514,55.658669,-4.809514,55.658669",
     "geom:latitude":55.658669,
     "geom:longitude":-4.809514,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dalry Road",
     "sg:city":"Ardrossan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135702025,
-    "wof:lastmodified":1449022523,
+    "wof:lastmodified":1466285983,
     "wof:name":"James Mcfarlane School",
     "wof:parent_id":101872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.809514,55.658669,-4.809514,55.658669],
+  "bbox": [
+    -4.809514,
+    55.658669,
+    -4.809514,
+    55.658669
+],
   "geometry": {"coordinates":[-4.809514,55.658669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203340281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.083019,52.604,-1.083019,52.604",
     "geom:latitude":52.604,
     "geom:longitude":-1.083019,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4 Cross Street, Oadby",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":203340281,
-    "wof:lastmodified":1449026405,
+    "wof:lastmodified":1466258502,
     "wof:name":"B C R Photographic Ltd",
     "wof:parent_id":85861113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-1.083019,52.604,-1.083019,52.604],
+  "bbox": [
+    -1.083019,
+    52.604,
+    -1.083019,
+    52.604
+],
   "geometry": {"coordinates":[-1.083019,52.604],"type":"Point"}
 }

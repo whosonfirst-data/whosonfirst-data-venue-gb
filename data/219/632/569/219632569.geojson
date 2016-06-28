@@ -2,13 +2,14 @@
   "id": 219632569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.010085,53.633789,-3.010085,53.633789",
     "geom:latitude":53.633789,
     "geom:longitude":-3.010085,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Clarence Rd",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219632569,
-    "wof:lastmodified":1449072639,
+    "wof:lastmodified":1466260937,
     "wof:name":"Cystic Fibrosis Trust",
     "wof:parent_id":85785733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.010085,53.633789,-3.010085,53.633789],
+  "bbox": [
+    -3.010085,
+    53.633789,
+    -3.010085,
+    53.633789
+],
   "geometry": {"coordinates":[-3.010085,53.633789],"type":"Point"}
 }

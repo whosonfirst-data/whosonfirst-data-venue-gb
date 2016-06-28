@@ -2,13 +2,14 @@
   "id": 303666731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.078887,51.889488,-2.078887,51.889488",
     "geom:latitude":51.889488,
     "geom:longitude":-2.078887,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"176 Bath Road",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303666731,
-    "wof:lastmodified":1448999015,
+    "wof:lastmodified":1466281102,
     "wof:name":"Allen & Harris",
     "wof:parent_id":85793223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.078887,51.889488,-2.078887,51.889488],
+  "bbox": [
+    -2.078887,
+    51.889488,
+    -2.078887,
+    51.889488
+],
   "geometry": {"coordinates":[-2.078887,51.889488],"type":"Point"}
 }

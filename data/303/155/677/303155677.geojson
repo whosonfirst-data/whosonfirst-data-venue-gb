@@ -2,13 +2,14 @@
   "id": 303155677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.208825,53.385509,-2.208825,53.385509",
     "geom:latitude":53.385509,
     "geom:longitude":-2.208825,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Cheadle Ho, Mary St",
     "sg:city":"Cheadle",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303155677,
-    "wof:lastmodified":1449000134,
+    "wof:lastmodified":1466267336,
     "wof:name":"S B M Security Systems",
     "wof:parent_id":85786499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cctv"
     ]
 },
-  "bbox": [-2.208825,53.385509,-2.208825,53.385509],
+  "bbox": [
+    -2.208825,
+    53.385509,
+    -2.208825,
+    53.385509
+],
   "geometry": {"coordinates":[-2.208825,53.385509],"type":"Point"}
 }

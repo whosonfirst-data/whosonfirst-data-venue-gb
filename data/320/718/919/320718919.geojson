@@ -2,13 +2,14 @@
   "id": 320718919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.652699,55.006626,-1.652699,55.006626",
     "geom:latitude":55.006626,
     "geom:longitude":-1.652699,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Kirkwood Drive",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320718919,
-    "wof:lastmodified":1449012060,
+    "wof:lastmodified":1466284180,
     "wof:name":"Kirkwood Newsagents",
     "wof:parent_id":85861871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.652699,55.006626,-1.652699,55.006626],
+  "bbox": [
+    -1.652699,
+    55.006626,
+    -1.652699,
+    55.006626
+],
   "geometry": {"coordinates":[-1.652699,55.006626],"type":"Point"}
 }

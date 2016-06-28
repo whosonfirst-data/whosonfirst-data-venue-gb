@@ -2,13 +2,14 @@
   "id": 119172685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.038249,51.714729,-5.038249,51.714729",
     "geom:latitude":51.714729,
     "geom:longitude":-5.038249,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dartmouth Street",
     "sg:city":"Milford Haven",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119172685,
-    "wof:lastmodified":1449041850,
+    "wof:lastmodified":1466266104,
     "wof:name":"Milford House",
     "wof:parent_id":101852993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.038249,51.714729,-5.038249,51.714729],
+  "bbox": [
+    -5.038249,
+    51.714729,
+    -5.038249,
+    51.714729
+],
   "geometry": {"coordinates":[-5.038249,51.714729],"type":"Point"}
 }

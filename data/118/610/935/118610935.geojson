@@ -2,13 +2,14 @@
   "id": 118610935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.533585,55.712727,-4.533585,55.712727",
     "geom:latitude":55.712727,
     "geom:longitude":-4.533585,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Main Street, Dunlop",
     "sg:city":"Kilmarnock",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118610935,
-    "wof:lastmodified":1449054505,
+    "wof:lastmodified":1466258535,
     "wof:name":"Corner Cut",
     "wof:parent_id":85684085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.533585,55.712727,-4.533585,55.712727],
+  "bbox": [
+    -4.533585,
+    55.712727,
+    -4.533585,
+    55.712727
+],
   "geometry": {"coordinates":[-4.533585,55.712727],"type":"Point"}
 }

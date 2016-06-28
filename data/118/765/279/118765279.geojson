@@ -2,13 +2,14 @@
   "id": 118765279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.999819,51.598118,-2.999819,51.598118",
     "geom:latitude":51.598118,
     "geom:longitude":-2.999819,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Malpas Road",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118765279,
-    "wof:lastmodified":1449053966,
+    "wof:lastmodified":1466270174,
     "wof:name":"West 'N' Welsh",
     "wof:parent_id":85864251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.999819,51.598118,-2.999819,51.598118],
+  "bbox": [
+    -2.999819,
+    51.598118,
+    -2.999819,
+    51.598118
+],
   "geometry": {"coordinates":[-2.999819,51.598118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320235103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.131577,55.869534,-3.131577,55.869534",
     "geom:latitude":55.869534,
     "geom:longitude":-3.131577,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Dequincey Road",
     "sg:city":"Lasswade",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320235103,
-    "wof:lastmodified":1449011899,
+    "wof:lastmodified":1466275094,
     "wof:name":"J L Private Hire",
     "wof:parent_id":85787605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-3.131577,55.869534,-3.131577,55.869534],
+  "bbox": [
+    -3.131577,
+    55.869534,
+    -3.131577,
+    55.869534
+],
   "geometry": {"coordinates":[-3.131577,55.869534],"type":"Point"}
 }

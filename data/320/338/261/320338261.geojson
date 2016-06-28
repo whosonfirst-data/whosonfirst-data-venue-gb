@@ -2,13 +2,14 @@
   "id": 320338261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.44112,53.2323,-1.44112,53.2323",
     "geom:latitude":53.2323,
     "geom:longitude":-1.44112,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 21 Boythorpe Depot, Central Av",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320338261,
-    "wof:lastmodified":1449012563,
+    "wof:lastmodified":1466278260,
     "wof:name":"Rent-It Self Drive Hire",
     "wof:parent_id":85861103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "van"
     ]
 },
-  "bbox": [-1.44112,53.2323,-1.44112,53.2323],
+  "bbox": [
+    -1.44112,
+    53.2323,
+    -1.44112,
+    53.2323
+],
   "geometry": {"coordinates":[-1.44112,53.2323],"type":"Point"}
 }

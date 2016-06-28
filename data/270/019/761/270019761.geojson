@@ -2,13 +2,14 @@
   "id": 270019761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.26254,51.49255,-0.26254,51.49255",
     "geom:latitude":51.49255,
     "geom:longitude":-0.26254,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Chiswick High Road, Chiswick",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270019761,
-    "wof:lastmodified":1449010062,
+    "wof:lastmodified":1466261043,
     "wof:name":"Clifton News",
     "wof:parent_id":85786621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-0.26254,51.49255,-0.26254,51.49255],
+  "bbox": [
+    -0.26254,
+    51.49255,
+    -0.26254,
+    51.49255
+],
   "geometry": {"coordinates":[-0.26254,51.49255],"type":"Point"}
 }

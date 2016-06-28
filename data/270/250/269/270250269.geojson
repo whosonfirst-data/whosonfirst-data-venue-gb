@@ -2,13 +2,14 @@
   "id": 270250269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.077303,52.970142,-1.077303,52.970142",
     "geom:latitude":52.970142,
     "geom:longitude":-1.077303,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Burton Road, Carlton",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":270250269,
-    "wof:lastmodified":1449010051,
+    "wof:lastmodified":1466267879,
     "wof:name":"Burton Road Sub Post Office",
     "wof:parent_id":85861921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.077303,52.970142,-1.077303,52.970142],
+  "bbox": [
+    -1.077303,
+    52.970142,
+    -1.077303,
+    52.970142
+],
   "geometry": {"coordinates":[-1.077303,52.970142],"type":"Point"}
 }

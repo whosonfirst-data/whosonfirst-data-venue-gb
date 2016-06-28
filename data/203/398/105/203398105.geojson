@@ -2,13 +2,14 @@
   "id": 203398105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.404857,53.170601,-1.404857,53.170601",
     "geom:latitude":53.170601,
     "geom:longitude":-1.404857,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 John Street, Clay Cross",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203398105,
-    "wof:lastmodified":1449025083,
+    "wof:lastmodified":1466259531,
     "wof:name":"Egstow Family Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-1.404857,53.170601,-1.404857,53.170601],
+  "bbox": [
+    -1.404857,
+    53.170601,
+    -1.404857,
+    53.170601
+],
   "geometry": {"coordinates":[-1.404857,53.170601],"type":"Point"}
 }

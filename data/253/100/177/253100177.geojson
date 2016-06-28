@@ -2,13 +2,14 @@
   "id": 253100177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.603341,51.455498,-2.603341,51.455498",
     "geom:latitude":51.455498,
     "geom:longitude":-2.603341,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Park Row",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253100177,
-    "wof:lastmodified":1449065017,
+    "wof:lastmodified":1466259318,
     "wof:name":"The Prince's Bar",
     "wof:parent_id":85861357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-2.603341,51.455498,-2.603341,51.455498],
+  "bbox": [
+    -2.603341,
+    51.455498,
+    -2.603341,
+    51.455498
+],
   "geometry": {"coordinates":[-2.603341,51.455498],"type":"Point"}
 }

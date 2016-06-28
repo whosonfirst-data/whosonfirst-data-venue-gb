@@ -2,13 +2,14 @@
   "id": 135292771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.546427,54.984699,-1.546427,54.984699",
     "geom:latitude":54.984699,
     "geom:longitude":-1.546427,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Vauxhall Road",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135292771,
-    "wof:lastmodified":1449021256,
+    "wof:lastmodified":1466276873,
     "wof:name":"GILL'S SUPERSTORE",
     "wof:parent_id":85791279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.546427,54.984699,-1.546427,54.984699],
+  "bbox": [
+    -1.546427,
+    54.984699,
+    -1.546427,
+    54.984699
+],
   "geometry": {"coordinates":[-1.546427,54.984699],"type":"Point"}
 }

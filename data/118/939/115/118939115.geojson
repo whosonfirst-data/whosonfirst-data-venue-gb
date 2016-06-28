@@ -2,13 +2,14 @@
   "id": 118939115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.519423,52.301205,-1.519423,52.301205",
     "geom:latitude":52.301205,
     "geom:longitude":-1.519423,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Valley Road, Lillington",
     "sg:city":"Leamington Spa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118939115,
-    "wof:lastmodified":1449053567,
+    "wof:lastmodified":1466281151,
     "wof:name":"The Leonard Cheshire Foundation",
     "wof:parent_id":101750473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.519423,52.301205,-1.519423,52.301205],
+  "bbox": [
+    -1.519423,
+    52.301205,
+    -1.519423,
+    52.301205
+],
   "geometry": {"coordinates":[-1.519423,52.301205],"type":"Point"}
 }

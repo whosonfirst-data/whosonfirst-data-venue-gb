@@ -2,13 +2,14 @@
   "id": 270476013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.187649,53.055859,-2.187649,53.055859",
     "geom:latitude":53.055859,
     "geom:longitude":-2.187649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"306 High Lane",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270476013,
-    "wof:lastmodified":1449009625,
+    "wof:lastmodified":1466274615,
     "wof:name":"Gorsfield Residential Home",
     "wof:parent_id":85786115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "care"
     ]
 },
-  "bbox": [-2.187649,53.055859,-2.187649,53.055859],
+  "bbox": [
+    -2.187649,
+    53.055859,
+    -2.187649,
+    53.055859
+],
   "geometry": {"coordinates":[-2.187649,53.055859],"type":"Point"}
 }

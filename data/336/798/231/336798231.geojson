@@ -2,13 +2,14 @@
   "id": 336798231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.326124,52.122555,-2.326124,52.122555",
     "geom:latitude":52.122555,
     "geom:longitude":-2.326124,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Galen House, 31 Worcester Road, Malvern Link",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336798231,
-    "wof:lastmodified":1448997149,
+    "wof:lastmodified":1466278483,
     "wof:name":"Evans Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "chemist"
     ]
 },
-  "bbox": [-2.326124,52.122555,-2.326124,52.122555],
+  "bbox": [
+    -2.326124,
+    52.122555,
+    -2.326124,
+    52.122555
+],
   "geometry": {"coordinates":[-2.326124,52.122555],"type":"Point"}
 }

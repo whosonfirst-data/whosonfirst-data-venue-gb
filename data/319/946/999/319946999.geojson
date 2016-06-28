@@ -2,13 +2,14 @@
   "id": 319946999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.185445,55.8088,-4.185445,55.8088",
     "geom:latitude":55.8088,
     "geom:longitude":-4.185445,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Ardbeg Avenue, Rutherglen",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":319946999,
-    "wof:lastmodified":1449024797,
+    "wof:lastmodified":1466271399,
     "wof:name":"Cleanright",
     "wof:parent_id":85786177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "flooring"
     ]
 },
-  "bbox": [-4.185445,55.8088,-4.185445,55.8088],
+  "bbox": [
+    -4.185445,
+    55.8088,
+    -4.185445,
+    55.8088
+],
   "geometry": {"coordinates":[-4.185445,55.8088],"type":"Point"}
 }

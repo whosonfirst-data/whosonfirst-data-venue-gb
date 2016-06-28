@@ -2,13 +2,14 @@
   "id": 203021809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.381534,51.509892,-1.381534,51.509892",
     "geom:latitude":51.509892,
     "geom:longitude":-1.381534,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Granby Court, Brightwalton Holt",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":203021809,
-    "wof:lastmodified":1449026158,
+    "wof:lastmodified":1466253010,
     "wof:name":"T Hibberd Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.381534,51.509892,-1.381534,51.509892],
+  "bbox": [
+    -1.381534,
+    51.509892,
+    -1.381534,
+    51.509892
+],
   "geometry": {"coordinates":[-1.381534,51.509892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118798081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.283987,50.802032,0.283987,50.802032",
     "geom:latitude":50.802032,
     "geom:longitude":0.283987,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Hydneye",
     "sg:city":"Eastbourne",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118798081,
-    "wof:lastmodified":1449053402,
+    "wof:lastmodified":1466272607,
     "wof:name":"St Peters Church",
     "wof:parent_id":101750315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.283987,50.802032,0.283987,50.802032],
+  "bbox": [
+    0.283987,
+    50.802032,
+    0.283987,
+    50.802032
+],
   "geometry": {"coordinates":[0.283987,50.802032],"type":"Point"}
 }

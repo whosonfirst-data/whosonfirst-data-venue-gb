@@ -2,13 +2,14 @@
   "id": 303240983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.09182,51.52821,-0.09182,51.52821",
     "geom:latitude":51.52821,
     "geom:longitude":-0.09182,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16-25 Age Group, 202 City Rd",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303240983,
-    "wof:lastmodified":1448998378,
+    "wof:lastmodified":1466270093,
     "wof:name":"City Road Youth Counselling",
     "wof:parent_id":85792171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "counselling"
     ]
 },
-  "bbox": [-0.09182,51.52821,-0.09182,51.52821],
+  "bbox": [
+    -0.09182,
+    51.52821,
+    -0.09182,
+    51.52821
+],
   "geometry": {"coordinates":[-0.09182,51.52821],"type":"Point"}
 }

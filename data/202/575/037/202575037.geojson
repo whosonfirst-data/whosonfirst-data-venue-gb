@@ -2,13 +2,14 @@
   "id": 202575037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.028295,51.525471,0.028295,51.525471",
     "geom:latitude":51.525471,
     "geom:longitude":0.028295,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Barking Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202575037,
-    "wof:lastmodified":1449060858,
+    "wof:lastmodified":1466255412,
     "wof:name":"Durling Engineers",
     "wof:parent_id":85789849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "sale"
     ]
 },
-  "bbox": [0.028295,51.525471,0.028295,51.525471],
+  "bbox": [
+    0.028295,
+    51.525471,
+    0.028295,
+    51.525471
+],
   "geometry": {"coordinates":[0.028295,51.525471],"type":"Point"}
 }

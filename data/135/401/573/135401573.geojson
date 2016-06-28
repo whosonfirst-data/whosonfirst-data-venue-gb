@@ -2,13 +2,14 @@
   "id": 135401573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.119851,55.868595,-4.119851,55.868595",
     "geom:latitude":55.868595,
     "geom:longitude":-4.119851,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bogbain Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135401573,
-    "wof:lastmodified":1449023571,
+    "wof:lastmodified":1466262865,
     "wof:name":"Easterhouse Swimming Pool",
     "wof:parent_id":85792561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.119851,55.868595,-4.119851,55.868595],
+  "bbox": [
+    -4.119851,
+    55.868595,
+    -4.119851,
+    55.868595
+],
   "geometry": {"coordinates":[-4.119851,55.868595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118903539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.269763,51.758499,-1.269763,51.758499",
     "geom:latitude":51.758499,
     "geom:longitude":-1.269763,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17-18 Victor Street",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118903539,
-    "wof:lastmodified":1449053232,
+    "wof:lastmodified":1466279615,
     "wof:name":"The Bookbinders Arms",
     "wof:parent_id":85785875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.269763,51.758499,-1.269763,51.758499],
+  "bbox": [
+    -1.269763,
+    51.758499,
+    -1.269763,
+    51.758499
+],
   "geometry": {"coordinates":[-1.269763,51.758499],"type":"Point"}
 }

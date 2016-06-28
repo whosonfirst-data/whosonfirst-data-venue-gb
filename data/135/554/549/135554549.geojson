@@ -2,13 +2,14 @@
   "id": 135554549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.442493,53.418125,-1.442493,53.418125",
     "geom:latitude":53.418125,
     "geom:longitude":-1.442493,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Heather Rd",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135554549,
-    "wof:lastmodified":1449021601,
+    "wof:lastmodified":1466279848,
     "wof:name":"Gold Plate",
     "wof:parent_id":85787797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.442493,53.418125,-1.442493,53.418125],
+  "bbox": [
+    -1.442493,
+    53.418125,
+    -1.442493,
+    53.418125
+],
   "geometry": {"coordinates":[-1.442493,53.418125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286322923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.123649,52.586632,-2.123649,52.586632",
     "geom:latitude":52.586632,
     "geom:longitude":-2.123649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Lichfield Rd",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":286322923,
-    "wof:lastmodified":1449015135,
+    "wof:lastmodified":1466264118,
     "wof:name":"Express Insurance",
     "wof:parent_id":85789157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.123649,52.586632,-2.123649,52.586632],
+  "bbox": [
+    -2.123649,
+    52.586632,
+    -2.123649,
+    52.586632
+],
   "geometry": {"coordinates":[-2.123649,52.586632],"type":"Point"}
 }

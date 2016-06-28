@@ -2,13 +2,14 @@
   "id": 202968759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.842855,52.522648,-1.842855,52.522648",
     "geom:latitude":52.522648,
     "geom:longitude":-1.842855,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Coton Lane",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":202968759,
-    "wof:lastmodified":1449060270,
+    "wof:lastmodified":1466261789,
     "wof:name":"Tower Vacum",
     "wof:parent_id":85787293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-1.842855,52.522648,-1.842855,52.522648],
+  "bbox": [
+    -1.842855,
+    52.522648,
+    -1.842855,
+    52.522648
+],
   "geometry": {"coordinates":[-1.842855,52.522648],"type":"Point"}
 }

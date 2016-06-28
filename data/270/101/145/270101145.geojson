@@ -2,13 +2,14 @@
   "id": 270101145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.406624,53.820118,-2.406624,53.820118",
     "geom:latitude":53.820118,
     "geom:longitude":-2.406624,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21-23 King Street",
     "sg:city":"Clitheroe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":270101145,
-    "wof:lastmodified":1449009931,
+    "wof:lastmodified":1466263537,
     "wof:name":"Crooks Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.406624,53.820118,-2.406624,53.820118],
+  "bbox": [
+    -2.406624,
+    53.820118,
+    -2.406624,
+    53.820118
+],
   "geometry": {"coordinates":[-2.406624,53.820118],"type":"Point"}
 }

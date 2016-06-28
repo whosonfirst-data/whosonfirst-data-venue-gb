@@ -2,13 +2,14 @@
   "id": 303461043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.205246,51.018837,-4.205246,51.018837",
     "geom:latitude":51.018837,
     "geom:longitude":-4.205246,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"7a Cooper Street",
     "sg:city":"Bideford",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303461043,
-    "wof:lastmodified":1448999040,
+    "wof:lastmodified":1466276805,
     "wof:name":"The Cooper Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.205246,51.018837,-4.205246,51.018837],
+  "bbox": [
+    -4.205246,
+    51.018837,
+    -4.205246,
+    51.018837
+],
   "geometry": {"coordinates":[-4.205246,51.018837],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320326945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.23541,54.697361,-1.23541,54.697361",
     "geom:latitude":54.697361,
     "geom:longitude":-1.23541,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Springwell Flats",
     "sg:city":"Hartlepool",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320326945,
-    "wof:lastmodified":1449012847,
+    "wof:lastmodified":1466277935,
     "wof:name":"Springwell Flats Sheltered Housing",
     "wof:parent_id":85791503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-1.23541,54.697361,-1.23541,54.697361],
+  "bbox": [
+    -1.23541,
+    54.697361,
+    -1.23541,
+    54.697361
+],
   "geometry": {"coordinates":[-1.23541,54.697361],"type":"Point"}
 }

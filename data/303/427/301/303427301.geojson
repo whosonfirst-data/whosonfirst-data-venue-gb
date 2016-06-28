@@ -2,13 +2,14 @@
   "id": 303427301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.924295,53.40295,-2.924295,53.40295",
     "geom:latitude":53.40295,
     "geom:longitude":-2.924295,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Rathbone Road, Wavertree",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303427301,
-    "wof:lastmodified":1448998850,
+    "wof:lastmodified":1466275668,
     "wof:name":"Munchies Deli",
     "wof:parent_id":85791397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "take"
     ]
 },
-  "bbox": [-2.924295,53.40295,-2.924295,53.40295],
+  "bbox": [
+    -2.924295,
+    53.40295,
+    -2.924295,
+    53.40295
+],
   "geometry": {"coordinates":[-2.924295,53.40295],"type":"Point"}
 }

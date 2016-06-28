@@ -2,13 +2,14 @@
   "id": 135725055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.933546,52.68248,-1.933546,52.68248",
     "geom:latitude":52.68248,
     "geom:longitude":-1.933546,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Victory Avenue, Burntwood",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135725055,
-    "wof:lastmodified":1449021722,
+    "wof:lastmodified":1466286539,
     "wof:name":"Walsall Eating Disorder",
     "wof:parent_id":85789777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.933546,52.68248,-1.933546,52.68248],
+  "bbox": [
+    -1.933546,
+    52.68248,
+    -1.933546,
+    52.68248
+],
   "geometry": {"coordinates":[-1.933546,52.68248],"type":"Point"}
 }

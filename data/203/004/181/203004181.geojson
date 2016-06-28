@@ -2,13 +2,14 @@
   "id": 203004181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.167217,55.817249,-4.167217,55.817249",
     "geom:latitude":55.817249,
     "geom:longitude":-4.167217,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Greenless Road, Cambuslang",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":203004181,
-    "wof:lastmodified":1449025607,
+    "wof:lastmodified":1466252732,
     "wof:name":"Cambuslang Institute",
     "wof:parent_id":85786177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-4.167217,55.817249,-4.167217,55.817249],
+  "bbox": [
+    -4.167217,
+    55.817249,
+    -4.167217,
+    55.817249
+],
   "geometry": {"coordinates":[-4.167217,55.817249],"type":"Point"}
 }

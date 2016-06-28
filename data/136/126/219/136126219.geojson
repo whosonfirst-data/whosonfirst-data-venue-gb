@@ -2,13 +2,14 @@
   "id": 136126219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.980844,52.58239,-1.980844,52.58239",
     "geom:latitude":52.58239,
     "geom:longitude":-1.980844,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"56 George Street",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136126219,
-    "wof:lastmodified":1449075407,
+    "wof:lastmodified":1466257017,
     "wof:name":"Empress",
     "wof:parent_id":85791913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.980844,52.58239,-1.980844,52.58239],
+  "bbox": [
+    -1.980844,
+    52.58239,
+    -1.980844,
+    52.58239
+],
   "geometry": {"coordinates":[-1.980844,52.58239],"type":"Point"}
 }

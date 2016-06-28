@@ -2,13 +2,14 @@
   "id": 135773727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.026289,52.551395,-2.026289,52.551395",
     "geom:latitude":52.551395,
     "geom:longitude":-2.026289,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St James Street",
     "sg:city":"Wednesbury",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135773727,
-    "wof:lastmodified":1449021366,
+    "wof:lastmodified":1466287090,
     "wof:name":"St. James Church",
     "wof:parent_id":85787625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.026289,52.551395,-2.026289,52.551395],
+  "bbox": [
+    -2.026289,
+    52.551395,
+    -2.026289,
+    52.551395
+],
   "geometry": {"coordinates":[-2.026289,52.551395],"type":"Point"}
 }

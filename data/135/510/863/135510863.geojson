@@ -2,13 +2,14 @@
   "id": 135510863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.89636,53.800289,-1.89636,53.800289",
     "geom:latitude":53.800289,
     "geom:longitude":-1.89636,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Fairfield, Denholme",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135510863,
-    "wof:lastmodified":1449022846,
+    "wof:lastmodified":1466275761,
     "wof:name":"N Atkinson & Son",
     "wof:parent_id":85791013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.89636,53.800289,-1.89636,53.800289],
+  "bbox": [
+    -1.89636,
+    53.800289,
+    -1.89636,
+    53.800289
+],
   "geometry": {"coordinates":[-1.89636,53.800289],"type":"Point"}
 }

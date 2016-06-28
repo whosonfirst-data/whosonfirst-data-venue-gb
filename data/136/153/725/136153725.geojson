@@ -2,13 +2,14 @@
   "id": 136153725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.250973,55.871681,-4.250973,55.871681",
     "geom:latitude":55.871681,
     "geom:longitude":-4.250973,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Payne Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":136153725,
-    "wof:lastmodified":1449075845,
+    "wof:lastmodified":1466258473,
     "wof:name":"Payne Street Electrics",
     "wof:parent_id":85792605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.250973,55.871681,-4.250973,55.871681],
+  "bbox": [
+    -4.250973,
+    55.871681,
+    -4.250973,
+    55.871681
+],
   "geometry": {"coordinates":[-4.250973,55.871681],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286871725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.560192,53.785172,-1.560192,53.785172",
     "geom:latitude":53.785172,
     "geom:longitude":-1.560192,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5a Shafton Lane",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286871725,
-    "wof:lastmodified":1449016143,
+    "wof:lastmodified":1466280105,
     "wof:name":"Holbeck Pharmacy",
     "wof:parent_id":85785589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "chemist"
     ]
 },
-  "bbox": [-1.560192,53.785172,-1.560192,53.785172],
+  "bbox": [
+    -1.560192,
+    53.785172,
+    -1.560192,
+    53.785172
+],
   "geometry": {"coordinates":[-1.560192,53.785172],"type":"Point"}
 }

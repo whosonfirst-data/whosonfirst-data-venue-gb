@@ -2,13 +2,14 @@
   "id": 336820979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.142,51.4809,-3.142,51.4809",
     "geom:latitude":51.4809,
     "geom:longitude":-3.142,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Service, Unit 95 Seawall Rd",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336820979,
-    "wof:lastmodified":1448997514,
+    "wof:lastmodified":1466279002,
     "wof:name":"Drulight Distribution Ltd",
     "wof:parent_id":85789789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-3.142,51.4809,-3.142,51.4809],
+  "bbox": [
+    -3.142,
+    51.4809,
+    -3.142,
+    51.4809
+],
   "geometry": {"coordinates":[-3.142,51.4809],"type":"Point"}
 }

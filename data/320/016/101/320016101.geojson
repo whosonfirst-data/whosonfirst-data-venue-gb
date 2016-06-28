@@ -2,13 +2,14 @@
   "id": 320016101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.611483,51.462627,-2.611483,51.462627",
     "geom:latitude":51.462627,
     "geom:longitude":-2.611483,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Alma Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320016101,
-    "wof:lastmodified":1449011905,
+    "wof:lastmodified":1466268609,
     "wof:name":"Marriage Care",
     "wof:parent_id":85786701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "counselling"
     ]
 },
-  "bbox": [-2.611483,51.462627,-2.611483,51.462627],
+  "bbox": [
+    -2.611483,
+    51.462627,
+    -2.611483,
+    51.462627
+],
   "geometry": {"coordinates":[-2.611483,51.462627],"type":"Point"}
 }

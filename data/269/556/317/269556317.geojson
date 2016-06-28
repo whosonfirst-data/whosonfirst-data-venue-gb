@@ -2,13 +2,14 @@
   "id": 269556317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.57798,54.97773,-1.57798,54.97773",
     "geom:latitude":54.97773,
     "geom:longitude":-1.57798,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Shields Road",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269556317,
-    "wof:lastmodified":1449036743,
+    "wof:lastmodified":1466262201,
     "wof:name":"Byker Bakery",
     "wof:parent_id":85786139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-1.57798,54.97773,-1.57798,54.97773],
+  "bbox": [
+    -1.57798,
+    54.97773,
+    -1.57798,
+    54.97773
+],
   "geometry": {"coordinates":[-1.57798,54.97773],"type":"Point"}
 }

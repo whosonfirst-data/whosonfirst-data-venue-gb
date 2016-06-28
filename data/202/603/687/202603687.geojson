@@ -2,13 +2,14 @@
   "id": 202603687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.069687,52.335869,-2.069687,52.335869",
     "geom:latitude":52.335869,
     "geom:longitude":-2.069687,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Willow Close",
     "sg:city":"Bromsgrove",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202603687,
-    "wof:lastmodified":1449062266,
+    "wof:lastmodified":1466255894,
     "wof:name":"Economy Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "private"
     ]
 },
-  "bbox": [-2.069687,52.335869,-2.069687,52.335869],
+  "bbox": [
+    -2.069687,
+    52.335869,
+    -2.069687,
+    52.335869
+],
   "geometry": {"coordinates":[-2.069687,52.335869],"type":"Point"}
 }

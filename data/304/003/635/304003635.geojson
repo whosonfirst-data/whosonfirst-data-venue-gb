@@ -2,13 +2,14 @@
   "id": 304003635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.941267,52.30727,-1.941267,52.30727",
     "geom:latitude":52.30727,
     "geom:longitude":-1.941267,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2c The Old Forge, Hewell Road",
     "sg:city":"Redditch",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":304003635,
-    "wof:lastmodified":1449044124,
+    "wof:lastmodified":1466264329,
     "wof:name":"Artimagination",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "artist"
     ]
 },
-  "bbox": [-1.941267,52.30727,-1.941267,52.30727],
+  "bbox": [
+    -1.941267,
+    52.30727,
+    -1.941267,
+    52.30727
+],
   "geometry": {"coordinates":[-1.941267,52.30727],"type":"Point"}
 }

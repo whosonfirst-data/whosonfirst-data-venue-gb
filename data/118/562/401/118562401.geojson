@@ -2,13 +2,14 @@
   "id": 118562401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.290551,50.766693,0.290551,50.766693",
     "geom:latitude":50.766693,
     "geom:longitude":0.290551,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Terminus Road",
     "sg:city":"Eastbourne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118562401,
-    "wof:lastmodified":1449053893,
+    "wof:lastmodified":1466254924,
     "wof:name":"Golden Phoenix Restaurant",
     "wof:parent_id":101750315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.290551,50.766693,0.290551,50.766693],
+  "bbox": [
+    0.290551,
+    50.766693,
+    0.290551,
+    50.766693
+],
   "geometry": {"coordinates":[0.290551,50.766693],"type":"Point"}
 }

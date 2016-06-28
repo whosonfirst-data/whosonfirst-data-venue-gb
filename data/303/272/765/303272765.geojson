@@ -2,13 +2,14 @@
   "id": 303272765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.183486,52.939358,-1.183486,52.939358",
     "geom:latitude":52.939358,
     "geom:longitude":-1.183486,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dunkirk Post Office, 57 Beeston Road",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303272765,
-    "wof:lastmodified":1449000397,
+    "wof:lastmodified":1466271026,
     "wof:name":"Dunkirk Sub Post Office",
     "wof:parent_id":85861931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.183486,52.939358,-1.183486,52.939358],
+  "bbox": [
+    -1.183486,
+    52.939358,
+    -1.183486,
+    52.939358
+],
   "geometry": {"coordinates":[-1.183486,52.939358],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119000409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.012407,53.923004,-3.012407,53.923004",
     "geom:latitude":53.923004,
     "geom:longitude":-3.012407,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 London Street",
     "sg:city":"Fleetwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119000409,
-    "wof:lastmodified":1449041245,
+    "wof:lastmodified":1466252629,
     "wof:name":"Sunspot Hair Design",
     "wof:parent_id":101750591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.012407,53.923004,-3.012407,53.923004],
+  "bbox": [
+    -3.012407,
+    53.923004,
+    -3.012407,
+    53.923004
+],
   "geometry": {"coordinates":[-3.012407,53.923004],"type":"Point"}
 }

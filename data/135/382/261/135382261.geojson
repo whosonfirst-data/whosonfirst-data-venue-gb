@@ -2,13 +2,14 @@
   "id": 135382261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.2649,55.85746,-4.2649,55.85746",
     "geom:latitude":55.85746,
     "geom:longitude":-4.2649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Atalantic Quay, 160 Broomielaw",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135382261,
-    "wof:lastmodified":1449021806,
+    "wof:lastmodified":1466260680,
     "wof:name":"Scottish Enterprise Ayrshire",
     "wof:parent_id":85792597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.2649,55.85746,-4.2649,55.85746],
+  "bbox": [
+    -4.2649,
+    55.85746,
+    -4.2649,
+    55.85746
+],
   "geometry": {"coordinates":[-4.2649,55.85746],"type":"Point"}
 }

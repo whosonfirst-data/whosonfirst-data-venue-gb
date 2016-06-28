@@ -2,13 +2,14 @@
   "id": 303890415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.137924,53.517429,-1.137924,53.517429",
     "geom:latitude":53.517429,
     "geom:longitude":-1.137924,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Brodsworth Ho, St James St",
     "sg:city":"Doncaster",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303890415,
-    "wof:lastmodified":1448998650,
+    "wof:lastmodified":1466284336,
     "wof:name":"Doncaster Area Pool League",
     "wof:parent_id":85789393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pool"
     ]
 },
-  "bbox": [-1.137924,53.517429,-1.137924,53.517429],
+  "bbox": [
+    -1.137924,
+    53.517429,
+    -1.137924,
+    53.517429
+],
   "geometry": {"coordinates":[-1.137924,53.517429],"type":"Point"}
 }

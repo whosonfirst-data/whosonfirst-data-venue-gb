@@ -2,13 +2,14 @@
   "id": 253379077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.97247,50.606201,-1.97247,50.606201",
     "geom:latitude":50.606201,
     "geom:longitude":-1.97247,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"California Quarry, Panorama Road, Herston",
     "sg:city":"Swanage",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253379077,
-    "wof:lastmodified":1449064536,
+    "wof:lastmodified":1466265034,
     "wof:name":"Purbeck Stone Quarry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "slate"
     ]
 },
-  "bbox": [-1.97247,50.606201,-1.97247,50.606201],
+  "bbox": [
+    -1.97247,
+    50.606201,
+    -1.97247,
+    50.606201
+],
   "geometry": {"coordinates":[-1.97247,50.606201],"type":"Point"}
 }

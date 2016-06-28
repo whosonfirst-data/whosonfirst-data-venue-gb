@@ -2,13 +2,14 @@
   "id": 135745061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.045533,50.388882,-4.045533,50.388882",
     "geom:latitude":50.388882,
     "geom:longitude":-4.045533,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Mallard Close",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135745061,
-    "wof:lastmodified":1449023868,
+    "wof:lastmodified":1466286581,
     "wof:name":"Don L Smith",
     "wof:parent_id":85789861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.045533,50.388882,-4.045533,50.388882],
+  "bbox": [
+    -4.045533,
+    50.388882,
+    -4.045533,
+    50.388882
+],
   "geometry": {"coordinates":[-4.045533,50.388882],"type":"Point"}
 }

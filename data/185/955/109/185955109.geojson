@@ -2,13 +2,14 @@
   "id": 185955109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.812944,51.592224,-1.812944,51.592224",
     "geom:latitude":51.592224,
     "geom:longitude":-1.812944,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Haydonleigh Drive, Haydonleigh",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185955109,
-    "wof:lastmodified":1449007704,
+    "wof:lastmodified":1466256536,
     "wof:name":"Designtime",
     "wof:parent_id":85787779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "designer"
     ]
 },
-  "bbox": [-1.812944,51.592224,-1.812944,51.592224],
+  "bbox": [
+    -1.812944,
+    51.592224,
+    -1.812944,
+    51.592224
+],
   "geometry": {"coordinates":[-1.812944,51.592224],"type":"Point"}
 }

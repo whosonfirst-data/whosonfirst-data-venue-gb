@@ -2,13 +2,14 @@
   "id": 119181161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.197331,50.374123,-4.197331,50.374123",
     "geom:latitude":50.374123,
     "geom:longitude":-4.197331,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5-7 St James Road",
     "sg:city":"Torpoint",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119181161,
-    "wof:lastmodified":1449042482,
+    "wof:lastmodified":1466267024,
     "wof:name":"Greenview",
     "wof:parent_id":85789111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.197331,50.374123,-4.197331,50.374123],
+  "bbox": [
+    -4.197331,
+    50.374123,
+    -4.197331,
+    50.374123
+],
   "geometry": {"coordinates":[-4.197331,50.374123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319829955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.136245,56.128128,-3.136245,56.128128",
     "geom:latitude":56.128128,
     "geom:longitude":-3.136245,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Caithness Pl",
     "sg:city":"Kirkcaldy",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":319829955,
-    "wof:lastmodified":1449024836,
+    "wof:lastmodified":1466267907,
     "wof:name":"Caithness Place Sheltered Housing",
     "wof:parent_id":85790363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-3.136245,56.128128,-3.136245,56.128128],
+  "bbox": [
+    -3.136245,
+    56.128128,
+    -3.136245,
+    56.128128
+],
   "geometry": {"coordinates":[-3.136245,56.128128],"type":"Point"}
 }

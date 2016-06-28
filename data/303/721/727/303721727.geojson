@@ -2,13 +2,14 @@
   "id": 303721727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.206299,54.133709,-3.206299,54.133709",
     "geom:latitude":54.133709,
     "geom:longitude":-3.206299,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Abbey Road",
     "sg:city":"Barrow-in-furness",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303721727,
-    "wof:lastmodified":1449000558,
+    "wof:lastmodified":1466282086,
     "wof:name":"Barrow Cricket Club",
     "wof:parent_id":85791877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.206299,54.133709,-3.206299,54.133709],
+  "bbox": [
+    -3.206299,
+    54.133709,
+    -3.206299,
+    54.133709
+],
   "geometry": {"coordinates":[-3.206299,54.133709],"type":"Point"}
 }

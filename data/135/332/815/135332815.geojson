@@ -2,13 +2,14 @@
   "id": 135332815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.110781,52.965977,-1.110781,52.965977",
     "geom:latitude":52.965977,
     "geom:longitude":-1.110781,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"364 Carlton Hill, Carlton",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135332815,
-    "wof:lastmodified":1449022683,
+    "wof:lastmodified":1466255188,
     "wof:name":"Hayward House Cancer Care Trust",
     "wof:parent_id":85790993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.110781,52.965977,-1.110781,52.965977],
+  "bbox": [
+    -1.110781,
+    52.965977,
+    -1.110781,
+    52.965977
+],
   "geometry": {"coordinates":[-1.110781,52.965977],"type":"Point"}
 }

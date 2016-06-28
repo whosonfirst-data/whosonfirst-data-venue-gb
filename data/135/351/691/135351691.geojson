@@ -2,13 +2,14 @@
   "id": 135351691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.590614,51.476208,-2.590614,51.476208",
     "geom:latitude":51.476208,
     "geom:longitude":-2.590614,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"106-114 Gloucester Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135351691,
-    "wof:lastmodified":1449023559,
+    "wof:lastmodified":1466257396,
     "wof:name":"Bishopston Service Station",
     "wof:parent_id":85785747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.590614,51.476208,-2.590614,51.476208],
+  "bbox": [
+    -2.590614,
+    51.476208,
+    -2.590614,
+    51.476208
+],
   "geometry": {"coordinates":[-2.590614,51.476208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320233119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.345099,53.387508,-2.345099,53.387508",
     "geom:latitude":53.387508,
     "geom:longitude":-2.345099,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 22 Oakfield House, 9 Oakfield Road",
     "sg:city":"Altrincham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320233119,
-    "wof:lastmodified":1449015030,
+    "wof:lastmodified":1466275010,
     "wof:name":"Outlook",
     "wof:parent_id":85791535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "counselling"
     ]
 },
-  "bbox": [-2.345099,53.387508,-2.345099,53.387508],
+  "bbox": [
+    -2.345099,
+    53.387508,
+    -2.345099,
+    53.387508
+],
   "geometry": {"coordinates":[-2.345099,53.387508],"type":"Point"}
 }

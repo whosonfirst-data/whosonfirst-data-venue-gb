@@ -2,13 +2,14 @@
   "id": 135304681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.497099,51.216156,-1.497099,51.216156",
     "geom:latitude":51.216156,
     "geom:longitude":-1.497099,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Harrow Way Community School, Harrow Way",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135304681,
-    "wof:lastmodified":1449023247,
+    "wof:lastmodified":1466277617,
     "wof:name":"Community Education",
     "wof:parent_id":101750345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.497099,51.216156,-1.497099,51.216156],
+  "bbox": [
+    -1.497099,
+    51.216156,
+    -1.497099,
+    51.216156
+],
   "geometry": {"coordinates":[-1.497099,51.216156],"type":"Point"}
 }

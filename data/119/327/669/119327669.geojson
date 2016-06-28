@@ -2,13 +2,14 @@
   "id": 119327669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.576576,51.506554,-2.576576,51.506554",
     "geom:latitude":51.506554,
     "geom:longitude":-2.576576,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Gloucester Road North",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119327669,
-    "wof:lastmodified":1449041046,
+    "wof:lastmodified":1466281811,
     "wof:name":"The Whitehouse",
     "wof:parent_id":85789507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.576576,51.506554,-2.576576,51.506554],
+  "bbox": [
+    -2.576576,
+    51.506554,
+    -2.576576,
+    51.506554
+],
   "geometry": {"coordinates":[-2.576576,51.506554],"type":"Point"}
 }

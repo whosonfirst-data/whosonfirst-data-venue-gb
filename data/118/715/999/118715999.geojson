@@ -2,13 +2,14 @@
   "id": 118715999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.931783,50.715141,-1.931783,50.715141",
     "geom:latitude":50.715141,
     "geom:longitude":-1.931783,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Overlinks Drive",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":118715999,
-    "wof:lastmodified":1449054277,
+    "wof:lastmodified":1466266530,
     "wof:name":"Mr Fixit",
     "wof:parent_id":85786213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.931783,50.715141,-1.931783,50.715141],
+  "bbox": [
+    -1.931783,
+    50.715141,
+    -1.931783,
+    50.715141
+],
   "geometry": {"coordinates":[-1.931783,50.715141],"type":"Point"}
 }

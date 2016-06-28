@@ -2,13 +2,14 @@
   "id": 202768831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.467233,52.93581,-1.467233,52.93581",
     "geom:latitude":52.93581,
     "geom:longitude":-1.467233,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 42 Parker Centre, Mansfield Road",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202768831,
-    "wof:lastmodified":1449061092,
+    "wof:lastmodified":1466258599,
     "wof:name":"Derby Tyres Ltd.",
     "wof:parent_id":85786967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "tyre"
     ]
 },
-  "bbox": [-1.467233,52.93581,-1.467233,52.93581],
+  "bbox": [
+    -1.467233,
+    52.93581,
+    -1.467233,
+    52.93581
+],
   "geometry": {"coordinates":[-1.467233,52.93581],"type":"Point"}
 }

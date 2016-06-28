@@ -2,13 +2,14 @@
   "id": 185887675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.389556,51.947212,-3.389556,51.947212",
     "geom:latitude":51.947212,
     "geom:longitude":-3.389556,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Lion Street",
     "sg:city":"Brecon",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185887675,
-    "wof:lastmodified":1449007902,
+    "wof:lastmodified":1466255760,
     "wof:name":"E D I Initiative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-3.389556,51.947212,-3.389556,51.947212],
+  "bbox": [
+    -3.389556,
+    51.947212,
+    -3.389556,
+    51.947212
+],
   "geometry": {"coordinates":[-3.389556,51.947212],"type":"Point"}
 }

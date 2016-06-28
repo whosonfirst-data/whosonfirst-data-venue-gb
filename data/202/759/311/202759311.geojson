@@ -2,13 +2,14 @@
   "id": 202759311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.438075,50.715279,-2.438075,50.715279",
     "geom:latitude":50.715279,
     "geom:longitude":-2.438075,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 High West Street",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202759311,
-    "wof:lastmodified":1449062692,
+    "wof:lastmodified":1466258430,
     "wof:name":"The Horse With A Red Umbrella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bar"
     ]
 },
-  "bbox": [-2.438075,50.715279,-2.438075,50.715279],
+  "bbox": [
+    -2.438075,
+    50.715279,
+    -2.438075,
+    50.715279
+],
   "geometry": {"coordinates":[-2.438075,50.715279],"type":"Point"}
 }

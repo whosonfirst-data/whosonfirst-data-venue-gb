@@ -2,13 +2,14 @@
   "id": 135662601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.064229,50.804771,-1.064229,50.804771",
     "geom:latitude":50.804771,
     "geom:longitude":-1.064229,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Milton Road",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135662601,
-    "wof:lastmodified":1449023047,
+    "wof:lastmodified":1466285225,
     "wof:name":"The Rose in June",
     "wof:parent_id":85861975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.064229,50.804771,-1.064229,50.804771],
+  "bbox": [
+    -1.064229,
+    50.804771,
+    -1.064229,
+    50.804771
+],
   "geometry": {"coordinates":[-1.064229,50.804771],"type":"Point"}
 }

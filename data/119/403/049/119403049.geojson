@@ -2,13 +2,14 @@
   "id": 119403049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.707764,56.504574,-2.707764,56.504574",
     "geom:latitude":56.504574,
     "geom:longitude":-2.707764,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Maule Street",
     "sg:city":"Carnoustie",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119403049,
-    "wof:lastmodified":1449043159,
+    "wof:lastmodified":1466285123,
     "wof:name":"Holyrood Church",
     "wof:parent_id":101873587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.707764,56.504574,-2.707764,56.504574],
+  "bbox": [
+    -2.707764,
+    56.504574,
+    -2.707764,
+    56.504574
+],
   "geometry": {"coordinates":[-2.707764,56.504574],"type":"Point"}
 }

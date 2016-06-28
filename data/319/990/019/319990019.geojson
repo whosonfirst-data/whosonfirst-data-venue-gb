@@ -2,13 +2,14 @@
   "id": 319990019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.711673,53.74535,-2.711673,53.74535",
     "geom:latitude":53.74535,
     "geom:longitude":-2.711673,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Leyland Road, Penwortham",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":319990019,
-    "wof:lastmodified":1449024602,
+    "wof:lastmodified":1466272826,
     "wof:name":"Leyland Road Garage",
     "wof:parent_id":85793249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.711673,53.74535,-2.711673,53.74535],
+  "bbox": [
+    -2.711673,
+    53.74535,
+    -2.711673,
+    53.74535
+],
   "geometry": {"coordinates":[-2.711673,53.74535],"type":"Point"}
 }

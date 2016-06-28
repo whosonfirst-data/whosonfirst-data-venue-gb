@@ -2,13 +2,14 @@
   "id": 186241979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.4311,53.2355,-1.4311,53.2355",
     "geom:latitude":53.2355,
     "geom:longitude":-1.4311,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dent Chambers, 81 New Square",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186241979,
-    "wof:lastmodified":1449052969,
+    "wof:lastmodified":1466255299,
     "wof:name":"Customs & Excise",
     "wof:parent_id":85861099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "excise"
     ]
 },
-  "bbox": [-1.4311,53.2355,-1.4311,53.2355],
+  "bbox": [
+    -1.4311,
+    53.2355,
+    -1.4311,
+    53.2355
+],
   "geometry": {"coordinates":[-1.4311,53.2355],"type":"Point"}
 }

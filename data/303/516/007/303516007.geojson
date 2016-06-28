@@ -2,13 +2,14 @@
   "id": 303516007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.019733,51.617641,-4.019733,51.617641",
     "geom:latitude":51.617641,
     "geom:longitude":-4.019733,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"448 Gower Road",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303516007,
-    "wof:lastmodified":1448998585,
+    "wof:lastmodified":1466278599,
     "wof:name":"Lawson West End",
     "wof:parent_id":85791391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookmaker"
     ]
 },
-  "bbox": [-4.019733,51.617641,-4.019733,51.617641],
+  "bbox": [
+    -4.019733,
+    51.617641,
+    -4.019733,
+    51.617641
+],
   "geometry": {"coordinates":[-4.019733,51.617641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287079121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.803279,51.554707,-1.803279,51.554707",
     "geom:latitude":51.554707,
     "geom:longitude":-1.803279,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Old Court, Wootton Bassett",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287079121,
-    "wof:lastmodified":1449001419,
+    "wof:lastmodified":1466265404,
     "wof:name":"Old Court Logs & Solid Fuels",
     "wof:parent_id":85791513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "logs"
     ]
 },
-  "bbox": [-1.803279,51.554707,-1.803279,51.554707],
+  "bbox": [
+    -1.803279,
+    51.554707,
+    -1.803279,
+    51.554707
+],
   "geometry": {"coordinates":[-1.803279,51.554707],"type":"Point"}
 }

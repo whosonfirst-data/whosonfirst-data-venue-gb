@@ -2,13 +2,14 @@
   "id": 253150969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.576119,51.466,-2.576119,51.466",
     "geom:latitude":51.466,
     "geom:longitude":-2.576119,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253150969,
-    "wof:lastmodified":1449062858,
+    "wof:lastmodified":1466260308,
     "wof:name":"St.Philips Litho",
     "wof:parent_id":85790571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printers'"
     ]
 },
-  "bbox": [-2.576119,51.466,-2.576119,51.466],
+  "bbox": [
+    -2.576119,
+    51.466,
+    -2.576119,
+    51.466
+],
   "geometry": {"coordinates":[-2.576119,51.466],"type":"Point"}
 }

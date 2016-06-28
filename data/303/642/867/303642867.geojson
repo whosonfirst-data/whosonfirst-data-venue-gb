@@ -2,13 +2,14 @@
   "id": 303642867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.467111,53.344372,-1.467111,53.344372",
     "geom:latitude":53.344372,
     "geom:longitude":-1.467111,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Harvey Clough Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303642867,
-    "wof:lastmodified":1448998262,
+    "wof:lastmodified":1466280635,
     "wof:name":"G T News",
     "wof:parent_id":85791787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.467111,53.344372,-1.467111,53.344372],
+  "bbox": [
+    -1.467111,
+    53.344372,
+    -1.467111,
+    53.344372
+],
   "geometry": {"coordinates":[-1.467111,53.344372],"type":"Point"}
 }

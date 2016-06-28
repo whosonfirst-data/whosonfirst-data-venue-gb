@@ -2,13 +2,14 @@
   "id": 135835477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.26312,52.51429,-2.26312,52.51429",
     "geom:latitude":52.51429,
     "geom:longitude":-2.26312,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Building 3c, Halfpenny Green Airport",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135835477,
-    "wof:lastmodified":1449021414,
+    "wof:lastmodified":1466287756,
     "wof:name":"Philip Griffith",
     "wof:parent_id":85683943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.26312,52.51429,-2.26312,52.51429],
+  "bbox": [
+    -2.26312,
+    52.51429,
+    -2.26312,
+    52.51429
+],
   "geometry": {"coordinates":[-2.26312,52.51429],"type":"Point"}
 }

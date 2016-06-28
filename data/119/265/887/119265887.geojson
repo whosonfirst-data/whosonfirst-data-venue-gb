@@ -2,13 +2,14 @@
   "id": 119265887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.250061,51.752686,-1.250061,51.752686",
     "geom:latitude":51.752686,
     "geom:longitude":-1.250061,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 High Street",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119265887,
-    "wof:lastmodified":1449041690,
+    "wof:lastmodified":1466276537,
     "wof:name":"Sahara",
     "wof:parent_id":85793243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.250061,51.752686,-1.250061,51.752686],
+  "bbox": [
+    -1.250061,
+    51.752686,
+    -1.250061,
+    51.752686
+],
   "geometry": {"coordinates":[-1.250061,51.752686],"type":"Point"}
 }

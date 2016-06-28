@@ -2,13 +2,14 @@
   "id": 186017971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.450999,51.399239,-1.450999,51.399239",
     "geom:latitude":51.399239,
     "geom:longitude":-1.450999,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 High Street, Kintbury",
     "sg:city":"Hungerford",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":186017971,
-    "wof:lastmodified":1449051800,
+    "wof:lastmodified":1466275386,
     "wof:name":"Kintbury Corner Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.450999,51.399239,-1.450999,51.399239],
+  "bbox": [
+    -1.450999,
+    51.399239,
+    -1.450999,
+    51.399239
+],
   "geometry": {"coordinates":[-1.450999,51.399239],"type":"Point"}
 }

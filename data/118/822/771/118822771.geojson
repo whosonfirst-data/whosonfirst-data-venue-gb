@@ -2,13 +2,14 @@
   "id": 118822771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.048794,50.393829,-4.048794,50.393829",
     "geom:latitude":50.393829,
     "geom:longitude":-4.048794,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Galileo Clo, Newnham Indust Est",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118822771,
-    "wof:lastmodified":1449054484,
+    "wof:lastmodified":1466274467,
     "wof:name":"BRS",
     "wof:parent_id":85789861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.048794,50.393829,-4.048794,50.393829],
+  "bbox": [
+    -4.048794,
+    50.393829,
+    -4.048794,
+    50.393829
+],
   "geometry": {"coordinates":[-4.048794,50.393829],"type":"Point"}
 }

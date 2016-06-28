@@ -2,13 +2,14 @@
   "id": 252727941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.452209,53.804497,-1.452209,53.804497",
     "geom:latitude":53.804497,
     "geom:longitude":-1.452209,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Station Road, Crossgates",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":252727941,
-    "wof:lastmodified":1449005571,
+    "wof:lastmodified":1466257451,
     "wof:name":"Drink Stop",
     "wof:parent_id":85787853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.452209,53.804497,-1.452209,53.804497],
+  "bbox": [
+    -1.452209,
+    53.804497,
+    -1.452209,
+    53.804497
+],
   "geometry": {"coordinates":[-1.452209,53.804497],"type":"Point"}
 }

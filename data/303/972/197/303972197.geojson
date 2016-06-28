@@ -2,13 +2,14 @@
   "id": 303972197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.93695,53.27319,-2.93695,53.27319",
     "geom:latitude":53.27319,
     "geom:longitude":-2.93695,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Old Chester Road, Great Sutton",
     "sg:city":"Ellesmere Port",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303972197,
-    "wof:lastmodified":1448999346,
+    "wof:lastmodified":1466285062,
     "wof:name":"Whetstone Hey Residential Home",
     "wof:parent_id":85786571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "care"
     ]
 },
-  "bbox": [-2.93695,53.27319,-2.93695,53.27319],
+  "bbox": [
+    -2.93695,
+    53.27319,
+    -2.93695,
+    53.27319
+],
   "geometry": {"coordinates":[-2.93695,53.27319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304032889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.975188,51.3307,-2.975188,51.3307",
     "geom:latitude":51.3307,
     "geom:longitude":-2.975188,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Frenchay Road",
     "sg:city":"Weston-super-mare",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":304032889,
-    "wof:lastmodified":1449043839,
+    "wof:lastmodified":1466265243,
     "wof:name":"Frenchay House Alcohol & Drug Rehabilitation Centr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "drug"
     ]
 },
-  "bbox": [-2.975188,51.3307,-2.975188,51.3307],
+  "bbox": [
+    -2.975188,
+    51.3307,
+    -2.975188,
+    51.3307
+],
   "geometry": {"coordinates":[-2.975188,51.3307],"type":"Point"}
 }

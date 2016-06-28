@@ -2,13 +2,14 @@
   "id": 270017125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.975156,51.22126,-2.975156,51.22126",
     "geom:latitude":51.22126,
     "geom:longitude":-2.975156,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sycamore House, 17 Church Street",
     "sg:city":"Highbridge",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270017125,
-    "wof:lastmodified":1449009944,
+    "wof:lastmodified":1466260977,
     "wof:name":"Switch Electrical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-2.975156,51.22126,-2.975156,51.22126],
+  "bbox": [
+    -2.975156,
+    51.22126,
+    -2.975156,
+    51.22126
+],
   "geometry": {"coordinates":[-2.975156,51.22126],"type":"Point"}
 }

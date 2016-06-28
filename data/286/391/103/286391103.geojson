@@ -2,13 +2,14 @@
   "id": 286391103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.399418,53.788162,-1.399418,53.788162",
     "geom:latitude":53.788162,
     "geom:longitude":-1.399418,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Westbourne Av",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286391103,
-    "wof:lastmodified":1449017071,
+    "wof:lastmodified":1466266182,
     "wof:name":"S Foster",
     "wof:parent_id":85860949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-1.399418,53.788162,-1.399418,53.788162],
+  "bbox": [
+    -1.399418,
+    53.788162,
+    -1.399418,
+    53.788162
+],
   "geometry": {"coordinates":[-1.399418,53.788162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135595195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.135912,51.255245,-1.135912,51.255245",
     "geom:latitude":51.255245,
     "geom:longitude":-1.135912,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Dalewood",
     "sg:city":"Basingstoke",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135595195,
-    "wof:lastmodified":1449023709,
+    "wof:lastmodified":1466282223,
     "wof:name":"Stockwell's Ltd.",
     "wof:parent_id":101750351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.135912,51.255245,-1.135912,51.255245],
+  "bbox": [
+    -1.135912,
+    51.255245,
+    -1.135912,
+    51.255245
+],
   "geometry": {"coordinates":[-1.135912,51.255245],"type":"Point"}
 }

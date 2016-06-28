@@ -2,13 +2,14 @@
   "id": 270506649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.048928,52.323895,-2.048928,52.323895",
     "geom:latitude":52.323895,
     "geom:longitude":-2.048928,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"142 New Rd",
     "sg:city":"Bromsgrove",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270506649,
-    "wof:lastmodified":1449008720,
+    "wof:lastmodified":1466275546,
     "wof:name":"Redman Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.048928,52.323895,-2.048928,52.323895],
+  "bbox": [
+    -2.048928,
+    52.323895,
+    -2.048928,
+    52.323895
+],
   "geometry": {"coordinates":[-2.048928,52.323895],"type":"Point"}
 }

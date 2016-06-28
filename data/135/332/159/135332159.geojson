@@ -2,13 +2,14 @@
   "id": 135332159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.528983,52.695652,-2.528983,52.695652",
     "geom:latitude":52.695652,
     "geom:longitude":-2.528983,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Herbert Av",
     "sg:city":"Telford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135332159,
-    "wof:lastmodified":1449022683,
+    "wof:lastmodified":1466255105,
     "wof:name":"Mencap",
     "wof:parent_id":101751611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.528983,52.695652,-2.528983,52.695652],
+  "bbox": [
+    -2.528983,
+    52.695652,
+    -2.528983,
+    52.695652
+],
   "geometry": {"coordinates":[-2.528983,52.695652],"type":"Point"}
 }

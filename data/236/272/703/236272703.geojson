@@ -2,13 +2,14 @@
   "id": 236272703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.75115,51.55418,-1.75115,51.55418",
     "geom:latitude":51.55418,
     "geom:longitude":-1.75115,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Whitbourne Service Station, Whitbourne Avenue, Park South",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236272703,
-    "wof:lastmodified":1449004979,
+    "wof:lastmodified":1466261698,
     "wof:name":"Greenmeadow Recovery",
     "wof:parent_id":85786073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "recovery"
     ]
 },
-  "bbox": [-1.75115,51.55418,-1.75115,51.55418],
+  "bbox": [
+    -1.75115,
+    51.55418,
+    -1.75115,
+    51.55418
+],
   "geometry": {"coordinates":[-1.75115,51.55418],"type":"Point"}
 }

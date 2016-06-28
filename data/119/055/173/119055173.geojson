@@ -2,13 +2,14 @@
   "id": 119055173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.355472,55.122208,-3.355472,55.122208",
     "geom:latitude":55.122208,
     "geom:longitude":-3.355472,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72/74 High Street",
     "sg:city":"Lockerbie",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119055173,
-    "wof:lastmodified":1449041400,
+    "wof:lastmodified":1466253820,
     "wof:name":"T H Carson",
     "wof:parent_id":101873445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.355472,55.122208,-3.355472,55.122208],
+  "bbox": [
+    -3.355472,
+    55.122208,
+    -3.355472,
+    55.122208
+],
   "geometry": {"coordinates":[-3.355472,55.122208],"type":"Point"}
 }

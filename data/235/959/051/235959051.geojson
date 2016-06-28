@@ -2,13 +2,14 @@
   "id": 235959051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.183676,55.865685,-4.183676,55.865685",
     "geom:latitude":55.865685,
     "geom:longitude":-4.183676,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Gartcraig Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235959051,
-    "wof:lastmodified":1449008578,
+    "wof:lastmodified":1466255693,
     "wof:name":"G101 Off Sales",
     "wof:parent_id":85792575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [-4.183676,55.865685,-4.183676,55.865685],
+  "bbox": [
+    -4.183676,
+    55.865685,
+    -4.183676,
+    55.865685
+],
   "geometry": {"coordinates":[-4.183676,55.865685],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303682063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.143381,55.811306,-4.143381,55.811306",
     "geom:latitude":55.811306,
     "geom:longitude":-4.143381,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Lightburn Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303682063,
-    "wof:lastmodified":1448998542,
+    "wof:lastmodified":1466281365,
     "wof:name":"Mings Dragon",
     "wof:parent_id":85786177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "take"
     ]
 },
-  "bbox": [-4.143381,55.811306,-4.143381,55.811306],
+  "bbox": [
+    -4.143381,
+    55.811306,
+    -4.143381,
+    55.811306
+],
   "geometry": {"coordinates":[-4.143381,55.811306],"type":"Point"}
 }

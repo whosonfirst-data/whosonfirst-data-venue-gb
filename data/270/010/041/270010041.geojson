@@ -2,13 +2,14 @@
   "id": 270010041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.331942,55.864216,-4.331942,55.864216",
     "geom:latitude":55.864216,
     "geom:longitude":-4.331942,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1193 Govan Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":270010041,
-    "wof:lastmodified":1449010164,
+    "wof:lastmodified":1466260765,
     "wof:name":"Javed Bros",
     "wof:parent_id":85790307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.331942,55.864216,-4.331942,55.864216],
+  "bbox": [
+    -4.331942,
+    55.864216,
+    -4.331942,
+    55.864216
+],
   "geometry": {"coordinates":[-4.331942,55.864216],"type":"Point"}
 }

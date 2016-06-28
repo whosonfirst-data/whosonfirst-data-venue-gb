@@ -2,13 +2,14 @@
   "id": 136235219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.266909,53.455498,-2.266909,53.455498",
     "geom:latitude":53.455498,
     "geom:longitude":-2.266909,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"79 St Johns Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136235219,
-    "wof:lastmodified":1449075144,
+    "wof:lastmodified":1466262828,
     "wof:name":"William Whelan",
     "wof:parent_id":85789609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.266909,53.455498,-2.266909,53.455498],
+  "bbox": [
+    -2.266909,
+    53.455498,
+    -2.266909,
+    53.455498
+],
   "geometry": {"coordinates":[-2.266909,53.455498],"type":"Point"}
 }

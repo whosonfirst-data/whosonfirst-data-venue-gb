@@ -2,13 +2,14 @@
   "id": 135982915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.031315,53.750198,-3.031315,53.750198",
     "geom:latitude":53.750198,
     "geom:longitude":-3.031315,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Annes Post Office, 52 Wood Street",
     "sg:city":"Lytham St Annes",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135982915,
-    "wof:lastmodified":1449021489,
+    "wof:lastmodified":1466288558,
     "wof:name":"St Annes Sub Post Office",
     "wof:parent_id":85785317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.031315,53.750198,-3.031315,53.750198],
+  "bbox": [
+    -3.031315,
+    53.750198,
+    -3.031315,
+    53.750198
+],
   "geometry": {"coordinates":[-3.031315,53.750198],"type":"Point"}
 }

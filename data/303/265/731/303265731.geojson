@@ -2,13 +2,14 @@
   "id": 303265731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.99675,51.353195,-1.99675,51.353195",
     "geom:latitude":51.353195,
     "geom:longitude":-1.99675,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Northgate Street",
     "sg:city":"Devizes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303265731,
-    "wof:lastmodified":1448998950,
+    "wof:lastmodified":1466270805,
     "wof:name":"The Dolphin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.99675,51.353195,-1.99675,51.353195],
+  "bbox": [
+    -1.99675,
+    51.353195,
+    -1.99675,
+    51.353195
+],
   "geometry": {"coordinates":[-1.99675,51.353195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135408281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.469012,50.913406,-3.469012,50.913406",
     "geom:latitude":50.913406,
     "geom:longitude":-3.469012,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Marguerite Road, Lowman Park",
     "sg:city":"Tiverton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135408281,
-    "wof:lastmodified":1449021359,
+    "wof:lastmodified":1466263637,
     "wof:name":"R L Clarke",
     "wof:parent_id":101852627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.469012,50.913406,-3.469012,50.913406],
+  "bbox": [
+    -3.469012,
+    50.913406,
+    -3.469012,
+    50.913406
+],
   "geometry": {"coordinates":[-3.469012,50.913406],"type":"Point"}
 }

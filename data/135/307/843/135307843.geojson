@@ -2,13 +2,14 @@
   "id": 135307843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.60076,53.745049,-1.60076,53.745049",
     "geom:latitude":53.745049,
     "geom:longitude":-1.60076,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2, Co-op Building, Morley",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135307843,
-    "wof:lastmodified":1449021776,
+    "wof:lastmodified":1466278030,
     "wof:name":"Thrifty",
     "wof:parent_id":85789085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.60076,53.745049,-1.60076,53.745049],
+  "bbox": [
+    -1.60076,
+    53.745049,
+    -1.60076,
+    53.745049
+],
   "geometry": {"coordinates":[-1.60076,53.745049],"type":"Point"}
 }

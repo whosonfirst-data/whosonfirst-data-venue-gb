@@ -2,13 +2,14 @@
   "id": 135585053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.78125,52.430798,-1.78125,52.430798",
     "geom:latitude":52.430798,
     "geom:longitude":-1.78125,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Henley Crescent",
     "sg:city":"Solihull",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135585053,
-    "wof:lastmodified":1449023016,
+    "wof:lastmodified":1466281656,
     "wof:name":"Allen Cavanagh Partnership",
     "wof:parent_id":85787275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.78125,52.430798,-1.78125,52.430798],
+  "bbox": [
+    -1.78125,
+    52.430798,
+    -1.78125,
+    52.430798
+],
   "geometry": {"coordinates":[-1.78125,52.430798],"type":"Point"}
 }

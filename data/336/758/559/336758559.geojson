@@ -2,13 +2,14 @@
   "id": 336758559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.053569,53.831516,-3.053569,53.831516",
     "geom:latitude":53.831516,
     "geom:longitude":-3.053569,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Dickson Road",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336758559,
-    "wof:lastmodified":1448997271,
+    "wof:lastmodified":1466277476,
     "wof:name":"The Pint Pot",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [-3.053569,53.831516,-3.053569,53.831516],
+  "bbox": [
+    -3.053569,
+    53.831516,
+    -3.053569,
+    53.831516
+],
   "geometry": {"coordinates":[-3.053569,53.831516],"type":"Point"}
 }

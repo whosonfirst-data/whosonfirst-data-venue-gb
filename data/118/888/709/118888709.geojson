@@ -2,13 +2,14 @@
   "id": 118888709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.247295,51.398785,-1.247295,51.398785",
     "geom:latitude":51.398785,
     "geom:longitude":-1.247295,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Thompson Drive",
     "sg:city":"Thatcham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118888709,
-    "wof:lastmodified":1449054032,
+    "wof:lastmodified":1466278707,
     "wof:name":"Anthony Eeley",
     "wof:parent_id":101852665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.247295,51.398785,-1.247295,51.398785],
+  "bbox": [
+    -1.247295,
+    51.398785,
+    -1.247295,
+    51.398785
+],
   "geometry": {"coordinates":[-1.247295,51.398785],"type":"Point"}
 }

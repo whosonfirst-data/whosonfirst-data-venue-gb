@@ -2,13 +2,14 @@
   "id": 287267623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.904414,53.288143,-2.904414,53.288143",
     "geom:latitude":53.288143,
     "geom:longitude":-2.904414,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Poole Centre, New Grosvenor Rd",
     "sg:city":"Ellesmere Port",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":287267623,
-    "wof:lastmodified":1449001504,
+    "wof:lastmodified":1466271334,
     "wof:name":"Direct Payments Advice",
     "wof:parent_id":85791747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-2.904414,53.288143,-2.904414,53.288143],
+  "bbox": [
+    -2.904414,
+    53.288143,
+    -2.904414,
+    53.288143
+],
   "geometry": {"coordinates":[-2.904414,53.288143],"type":"Point"}
 }

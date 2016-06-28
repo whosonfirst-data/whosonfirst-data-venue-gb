@@ -2,13 +2,14 @@
   "id": 304050139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.618476,53.691547,-1.618476,53.691547",
     "geom:latitude":53.691547,
     "geom:longitude":-1.618476,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Almscliffe Avenue",
     "sg:city":"Dewsbury",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":304050139,
-    "wof:lastmodified":1449043918,
+    "wof:lastmodified":1466265762,
     "wof:name":"Wilbuild",
     "wof:parent_id":85786835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.618476,53.691547,-1.618476,53.691547],
+  "bbox": [
+    -1.618476,
+    53.691547,
+    -1.618476,
+    53.691547
+],
   "geometry": {"coordinates":[-1.618476,53.691547],"type":"Point"}
 }

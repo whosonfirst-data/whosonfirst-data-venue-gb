@@ -2,13 +2,14 @@
   "id": 253588173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.355757,50.875713,-1.355757,50.875713",
     "geom:latitude":50.875713,
     "geom:longitude":-1.355757,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Victoria Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253588173,
-    "wof:lastmodified":1449065186,
+    "wof:lastmodified":1466270757,
     "wof:name":"Tony Casa",
     "wof:parent_id":85791809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.355757,50.875713,-1.355757,50.875713],
+  "bbox": [
+    -1.355757,
+    50.875713,
+    -1.355757,
+    50.875713
+],
   "geometry": {"coordinates":[-1.355757,50.875713],"type":"Point"}
 }

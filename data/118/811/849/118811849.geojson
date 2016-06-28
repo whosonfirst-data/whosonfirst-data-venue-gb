@@ -2,13 +2,14 @@
   "id": 118811849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.476599,50.216015,-5.476599,50.216015",
     "geom:latitude":50.216015,
     "geom:longitude":-5.476599,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wheal Dream",
     "sg:city":"St Ives",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118811849,
-    "wof:lastmodified":1449053820,
+    "wof:lastmodified":1466273691,
     "wof:name":"St.Ives Museum",
     "wof:parent_id":101852393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.476599,50.216015,-5.476599,50.216015],
+  "bbox": [
+    -5.476599,
+    50.216015,
+    -5.476599,
+    50.216015
+],
   "geometry": {"coordinates":[-5.476599,50.216015],"type":"Point"}
 }

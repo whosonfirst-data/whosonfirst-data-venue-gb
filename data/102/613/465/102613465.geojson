@@ -2,13 +2,14 @@
   "id": 102613465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.019568,50.893169,-1.019568,50.893169",
     "geom:latitude":50.893169,
     "geom:longitude":-1.019568,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37a London Road, Cowplain",
     "sg:city":"Waterlooville",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102613465,
-    "wof:lastmodified":1449068892,
+    "wof:lastmodified":1466252945,
     "wof:name":"Flower Centre Cowplain",
     "wof:parent_id":85785573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.019568,50.893169,-1.019568,50.893169],
+  "bbox": [
+    -1.019568,
+    50.893169,
+    -1.019568,
+    50.893169
+],
   "geometry": {"coordinates":[-1.019568,50.893169],"type":"Point"}
 }

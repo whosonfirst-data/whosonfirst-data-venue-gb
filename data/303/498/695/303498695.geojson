@@ -2,13 +2,14 @@
   "id": 303498695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.257032,53.370941,-2.257032,53.370941",
     "geom:latitude":53.370941,
     "geom:longitude":-2.257032,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Portway",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303498695,
-    "wof:lastmodified":1448999971,
+    "wof:lastmodified":1466277912,
     "wof:name":"The Cornish Pastry",
     "wof:parent_id":85786655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectioner"
     ]
 },
-  "bbox": [-2.257032,53.370941,-2.257032,53.370941],
+  "bbox": [
+    -2.257032,
+    53.370941,
+    -2.257032,
+    53.370941
+],
   "geometry": {"coordinates":[-2.257032,53.370941],"type":"Point"}
 }

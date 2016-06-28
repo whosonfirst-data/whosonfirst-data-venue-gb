@@ -2,13 +2,14 @@
   "id": 118984447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.29313,55.89986,-4.29313,55.89986",
     "geom:latitude":55.89986,
     "geom:longitude":-4.29313,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Care Of Asda, 20 Rothes Drive",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118984447,
-    "wof:lastmodified":1449053942,
+    "wof:lastmodified":1466282803,
     "wof:name":"Summerston Sub Post Office",
     "wof:parent_id":85789015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.29313,55.89986,-4.29313,55.89986],
+  "bbox": [
+    -4.29313,
+    55.89986,
+    -4.29313,
+    55.89986
+],
   "geometry": {"coordinates":[-4.29313,55.89986],"type":"Point"}
 }

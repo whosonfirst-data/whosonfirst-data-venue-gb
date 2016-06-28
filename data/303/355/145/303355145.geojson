@@ -2,13 +2,14 @@
   "id": 303355145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.454668,50.607796,-2.454668,50.607796",
     "geom:latitude":50.607796,
     "geom:longitude":-2.454668,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 St Edmund Street",
     "sg:city":"Weymouth",
     "sg:classifiers":[
@@ -43,10 +44,11 @@
     "wof:geomhash":"cf352f2e8ff18989025e0e7d0948b6fe",
     "wof:hierarchy":[],
     "wof:id":303355145,
-    "wof:lastmodified":1448998796,
+    "wof:lastmodified":1466273456,
     "wof:name":"The Golden Lion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -56,6 +58,11 @@
         "activity"
     ]
 },
-  "bbox": [-2.454668,50.607796,-2.454668,50.607796],
+  "bbox": [
+    -2.454668,
+    50.607796,
+    -2.454668,
+    50.607796
+],
   "geometry": {"coordinates":[-2.454668,50.607796],"type":"Point"}
 }

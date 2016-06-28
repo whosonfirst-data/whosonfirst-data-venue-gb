@@ -2,13 +2,14 @@
   "id": 303225169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.295316,52.88364,-1.295316,52.88364",
     "geom:latitude":52.88364,
     "geom:longitude":-1.295316,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Grosvnor Avenue, Long Eaton",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303225169,
-    "wof:lastmodified":1448998878,
+    "wof:lastmodified":1466269592,
     "wof:name":"Grosvnor Training Services",
     "wof:parent_id":85791095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "centre"
     ]
 },
-  "bbox": [-1.295316,52.88364,-1.295316,52.88364],
+  "bbox": [
+    -1.295316,
+    52.88364,
+    -1.295316,
+    52.88364
+],
   "geometry": {"coordinates":[-1.295316,52.88364],"type":"Point"}
 }

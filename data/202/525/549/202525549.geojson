@@ -2,13 +2,14 @@
   "id": 202525549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.211171,55.772484,-4.211171,55.772484",
     "geom:latitude":55.772484,
     "geom:longitude":-4.211171,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Hawbank Road, East Kilbride",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202525549,
-    "wof:lastmodified":1449062134,
+    "wof:lastmodified":1466254532,
     "wof:name":"Fusion Marine",
     "wof:parent_id":85786279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "marine"
     ]
 },
-  "bbox": [-4.211171,55.772484,-4.211171,55.772484],
+  "bbox": [
+    -4.211171,
+    55.772484,
+    -4.211171,
+    55.772484
+],
   "geometry": {"coordinates":[-4.211171,55.772484],"type":"Point"}
 }

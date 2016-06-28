@@ -2,13 +2,14 @@
   "id": 303464527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.351095,53.438286,-1.351095,53.438286",
     "geom:latitude":53.438286,
     "geom:longitude":-1.351095,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Erskine Road Garage, Erskine Road",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303464527,
-    "wof:lastmodified":1448998771,
+    "wof:lastmodified":1466276891,
     "wof:name":"Brian Seniors",
     "wof:parent_id":85785261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "road"
     ]
 },
-  "bbox": [-1.351095,53.438286,-1.351095,53.438286],
+  "bbox": [
+    -1.351095,
+    53.438286,
+    -1.351095,
+    53.438286
+],
   "geometry": {"coordinates":[-1.351095,53.438286],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185716553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.145984,53.547283,-1.145984,53.547283",
     "geom:latitude":53.547283,
     "geom:longitude":-1.145984,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"142 High Street, Bentley",
     "sg:city":"Doncaster",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":185716553,
-    "wof:lastmodified":1449006832,
+    "wof:lastmodified":1466253620,
     "wof:name":"Bentley Post Office",
     "wof:parent_id":85790193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-1.145984,53.547283,-1.145984,53.547283],
+  "bbox": [
+    -1.145984,
+    53.547283,
+    -1.145984,
+    53.547283
+],
   "geometry": {"coordinates":[-1.145984,53.547283],"type":"Point"}
 }

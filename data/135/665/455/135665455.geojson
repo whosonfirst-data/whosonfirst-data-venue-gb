@@ -2,13 +2,14 @@
   "id": 135665455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.38199,50.900501,-1.38199,50.900501",
     "geom:latitude":50.900501,
     "geom:longitude":-1.38199,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Smiths Quay, Hazel Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135665455,
-    "wof:lastmodified":1449021932,
+    "wof:lastmodified":1466285347,
     "wof:name":"Chidwick & Langdown",
     "wof:parent_id":85788485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.38199,50.900501,-1.38199,50.900501],
+  "bbox": [
+    -1.38199,
+    50.900501,
+    -1.38199,
+    50.900501
+],
   "geometry": {"coordinates":[-1.38199,50.900501],"type":"Point"}
 }

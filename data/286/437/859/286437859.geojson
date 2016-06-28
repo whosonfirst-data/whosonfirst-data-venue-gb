@@ -2,13 +2,14 @@
   "id": 286437859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.300514,55.86412,-4.300514,55.86412",
     "geom:latitude":55.86412,
     "geom:longitude":-4.300514,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Stobcross Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":286437859,
-    "wof:lastmodified":1449017310,
+    "wof:lastmodified":1466267559,
     "wof:name":"Foster & Partners",
     "wof:parent_id":85792659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.300514,55.86412,-4.300514,55.86412],
+  "bbox": [
+    -4.300514,
+    55.86412,
+    -4.300514,
+    55.86412
+],
   "geometry": {"coordinates":[-4.300514,55.86412],"type":"Point"}
 }

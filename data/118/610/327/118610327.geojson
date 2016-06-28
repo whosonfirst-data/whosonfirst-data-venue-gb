@@ -2,13 +2,14 @@
   "id": 118610327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.629318,53.313839,-4.629318,53.313839",
     "geom:latitude":53.313839,
     "geom:longitude":-4.629318,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Haven, Marine Square",
     "sg:city":"Holyhead",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118610327,
-    "wof:lastmodified":1449054503,
+    "wof:lastmodified":1466258500,
     "wof:name":"The Haven Hotel",
     "wof:parent_id":101872743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.629318,53.313839,-4.629318,53.313839],
+  "bbox": [
+    -4.629318,
+    53.313839,
+    -4.629318,
+    53.313839
+],
   "geometry": {"coordinates":[-4.629318,53.313839],"type":"Point"}
 }

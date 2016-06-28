@@ -2,13 +2,14 @@
   "id": 135865783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.583531,53.806721,-1.583531,53.806721",
     "geom:latitude":53.806721,
     "geom:longitude":-1.583531,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"382 Kirkstall Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135865783,
-    "wof:lastmodified":1449023283,
+    "wof:lastmodified":1466287956,
     "wof:name":"Mister Fish",
     "wof:parent_id":85861565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.583531,53.806721,-1.583531,53.806721],
+  "bbox": [
+    -1.583531,
+    53.806721,
+    -1.583531,
+    53.806721
+],
   "geometry": {"coordinates":[-1.583531,53.806721],"type":"Point"}
 }

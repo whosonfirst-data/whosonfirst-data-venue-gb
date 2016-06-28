@@ -2,13 +2,14 @@
   "id": 135703217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.926613,52.311935,-1.926613,52.311935",
     "geom:latitude":52.311935,
     "geom:longitude":-1.926613,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Lygon Clo",
     "sg:city":"Redditch",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135703217,
-    "wof:lastmodified":1449021929,
+    "wof:lastmodified":1466285967,
     "wof:name":"Abbey Roofing",
     "wof:parent_id":101750455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.926613,52.311935,-1.926613,52.311935],
+  "bbox": [
+    -1.926613,
+    52.311935,
+    -1.926613,
+    52.311935
+],
   "geometry": {"coordinates":[-1.926613,52.311935],"type":"Point"}
 }

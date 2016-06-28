@@ -2,13 +2,14 @@
   "id": 320585649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.098069,53.570343,-2.098069,53.570343",
     "geom:latitude":53.570343,
     "geom:longitude":-2.098069,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Oldham Road, Shaw",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320585649,
-    "wof:lastmodified":1449013759,
+    "wof:lastmodified":1466282454,
     "wof:name":"Shaw Side Residential & Nursing Home",
     "wof:parent_id":85860961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-2.098069,53.570343,-2.098069,53.570343],
+  "bbox": [
+    -2.098069,
+    53.570343,
+    -2.098069,
+    53.570343
+],
   "geometry": {"coordinates":[-2.098069,53.570343],"type":"Point"}
 }

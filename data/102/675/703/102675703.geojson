@@ -2,13 +2,14 @@
   "id": 102675703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.508456,51.473129,-2.508456,51.473129",
     "geom:latitude":51.473129,
     "geom:longitude":-2.508456,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"152a Soundwell Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102675703,
-    "wof:lastmodified":1449068969,
+    "wof:lastmodified":1466255492,
     "wof:name":"M S Bodies (Bristol)",
     "wof:parent_id":85790707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.508456,51.473129,-2.508456,51.473129],
+  "bbox": [
+    -2.508456,
+    51.473129,
+    -2.508456,
+    51.473129
+],
   "geometry": {"coordinates":[-2.508456,51.473129],"type":"Point"}
 }

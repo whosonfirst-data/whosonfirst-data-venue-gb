@@ -2,13 +2,14 @@
   "id": 303955777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.44998,60.488323,-1.44998,60.488323",
     "geom:latitude":60.488323,
     "geom:longitude":-1.44998,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Valladale, Heylor",
     "sg:city":"Shetland",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303955777,
-    "wof:lastmodified":1448999814,
+    "wof:lastmodified":1466284952,
     "wof:name":"Valladale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-1.44998,60.488323,-1.44998,60.488323],
+  "bbox": [
+    -1.44998,
+    60.488323,
+    -1.44998,
+    60.488323
+],
   "geometry": {"coordinates":[-1.44998,60.488323],"type":"Point"}
 }

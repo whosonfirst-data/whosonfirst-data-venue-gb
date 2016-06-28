@@ -2,13 +2,14 @@
   "id": 135300721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.606059,52.26133,-1.606059,52.26133",
     "geom:latitude":52.26133,
     "geom:longitude":-1.606059,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Stratford Road, Longbridge",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135300721,
-    "wof:lastmodified":1449022707,
+    "wof:lastmodified":1466277209,
     "wof:name":"Martin R Liggins",
     "wof:parent_id":85683907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.606059,52.26133,-1.606059,52.26133],
+  "bbox": [
+    -1.606059,
+    52.26133,
+    -1.606059,
+    52.26133
+],
   "geometry": {"coordinates":[-1.606059,52.26133],"type":"Point"}
 }

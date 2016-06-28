@@ -2,13 +2,14 @@
   "id": 336598313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.229556,55.935921,-3.229556,55.935921",
     "geom:latitude":55.935921,
     "geom:longitude":-3.229556,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Slateford Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336598313,
-    "wof:lastmodified":1448996968,
+    "wof:lastmodified":1466272716,
     "wof:name":"Slateford Signs",
     "wof:parent_id":85787641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "signwriters"
     ]
 },
-  "bbox": [-3.229556,55.935921,-3.229556,55.935921],
+  "bbox": [
+    -3.229556,
+    55.935921,
+    -3.229556,
+    55.935921
+],
   "geometry": {"coordinates":[-3.229556,55.935921],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169626601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.304546,53.420109,-2.304546,53.420109",
     "geom:latitude":53.420109,
     "geom:longitude":-2.304546,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Northenden Road",
     "sg:city":"Sale",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169626601,
-    "wof:lastmodified":1449035971,
+    "wof:lastmodified":1466277116,
     "wof:name":"David Silcock",
     "wof:parent_id":85786069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-2.304546,53.420109,-2.304546,53.420109],
+  "bbox": [
+    -2.304546,
+    53.420109,
+    -2.304546,
+    53.420109
+],
   "geometry": {"coordinates":[-2.304546,53.420109],"type":"Point"}
 }

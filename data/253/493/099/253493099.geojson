@@ -2,13 +2,14 @@
   "id": 253493099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.410178,50.86721,-1.410178,50.86721",
     "geom:latitude":50.86721,
     "geom:longitude":-1.410178,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Malwood Road West",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253493099,
-    "wof:lastmodified":1449063762,
+    "wof:lastmodified":1466267802,
     "wof:name":"Scribe",
     "wof:parent_id":85787189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.410178,50.86721,-1.410178,50.86721],
+  "bbox": [
+    -1.410178,
+    50.86721,
+    -1.410178,
+    50.86721
+],
   "geometry": {"coordinates":[-1.410178,50.86721],"type":"Point"}
 }

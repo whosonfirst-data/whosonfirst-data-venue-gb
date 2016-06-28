@@ -2,13 +2,14 @@
   "id": 135494123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.708116,55.412949,-1.708116,55.412949",
     "geom:latitude":55.412949,
     "geom:longitude":-1.708116,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Clayport Street",
     "sg:city":"Alnwick",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135494123,
-    "wof:lastmodified":1449023676,
+    "wof:lastmodified":1466273771,
     "wof:name":"Upstairs At Sams",
     "wof:parent_id":85683821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.708116,55.412949,-1.708116,55.412949],
+  "bbox": [
+    -1.708116,
+    55.412949,
+    -1.708116,
+    55.412949
+],
   "geometry": {"coordinates":[-1.708116,55.412949],"type":"Point"}
 }

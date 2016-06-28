@@ -2,13 +2,14 @@
   "id": 303533117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.224754,51.801216,-3.224754,51.801216",
     "geom:latitude":51.801216,
     "geom:longitude":-3.224754,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Honeyfield Road, Rassau",
     "sg:city":"Ebbw Vale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303533117,
-    "wof:lastmodified":1448998087,
+    "wof:lastmodified":1466278730,
     "wof:name":"The BIG Fry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "chip"
     ]
 },
-  "bbox": [-3.224754,51.801216,-3.224754,51.801216],
+  "bbox": [
+    -3.224754,
+    51.801216,
+    -3.224754,
+    51.801216
+],
   "geometry": {"coordinates":[-3.224754,51.801216],"type":"Point"}
 }

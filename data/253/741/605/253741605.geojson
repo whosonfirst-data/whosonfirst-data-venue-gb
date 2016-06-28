@@ -2,13 +2,14 @@
   "id": 253741605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.369258,50.916714,-1.369258,50.916714",
     "geom:latitude":50.916714,
     "geom:longitude":-1.369258,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"176 Bitterne Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253741605,
-    "wof:lastmodified":1449062977,
+    "wof:lastmodified":1466275664,
     "wof:name":"Edward Oliver",
     "wof:parent_id":85785761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.369258,50.916714,-1.369258,50.916714],
+  "bbox": [
+    -1.369258,
+    50.916714,
+    -1.369258,
+    50.916714
+],
   "geometry": {"coordinates":[-1.369258,50.916714],"type":"Point"}
 }

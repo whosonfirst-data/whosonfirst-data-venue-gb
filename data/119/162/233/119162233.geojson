@@ -2,13 +2,14 @@
   "id": 119162233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.51935,50.729404,-3.51935,50.729404",
     "geom:latitude":50.729404,
     "geom:longitude":-3.51935,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Westward House, 6a Blackboy Rd",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119162233,
-    "wof:lastmodified":1449043140,
+    "wof:lastmodified":1466264934,
     "wof:name":"SMS Agencies",
     "wof:parent_id":85792763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.51935,50.729404,-3.51935,50.729404],
+  "bbox": [
+    -3.51935,
+    50.729404,
+    -3.51935,
+    50.729404
+],
   "geometry": {"coordinates":[-3.51935,50.729404],"type":"Point"}
 }

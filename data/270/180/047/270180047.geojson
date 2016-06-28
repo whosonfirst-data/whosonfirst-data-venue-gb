@@ -2,13 +2,14 @@
   "id": 270180047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.972469,55.742149,-3.972469,55.742149",
     "geom:latitude":55.742149,
     "geom:longitude":-3.972469,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Percy Street",
     "sg:city":"Larkhall",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270180047,
-    "wof:lastmodified":1449008772,
+    "wof:lastmodified":1466265845,
     "wof:name":"Joe Brodie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [-3.972469,55.742149,-3.972469,55.742149],
+  "bbox": [
+    -3.972469,
+    55.742149,
+    -3.972469,
+    55.742149
+],
   "geometry": {"coordinates":[-3.972469,55.742149],"type":"Point"}
 }

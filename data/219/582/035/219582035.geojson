@@ -2,13 +2,14 @@
   "id": 219582035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.254379,54.55621,-1.254379,54.55621",
     "geom:latitude":54.55621,
     "geom:longitude":-1.254379,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"91a Oxford Road",
     "sg:city":"Middlesbrough",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":219582035,
-    "wof:lastmodified":1449072282,
+    "wof:lastmodified":1466260139,
     "wof:name":"ALBERT HOUSE",
     "wof:parent_id":85788781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-1.254379,54.55621,-1.254379,54.55621],
+  "bbox": [
+    -1.254379,
+    54.55621,
+    -1.254379,
+    54.55621
+],
   "geometry": {"coordinates":[-1.254379,54.55621],"type":"Point"}
 }

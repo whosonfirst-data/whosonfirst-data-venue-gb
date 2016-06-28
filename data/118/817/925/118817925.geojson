@@ -2,13 +2,14 @@
   "id": 118817925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.42925,53.237572,-1.42925,53.237572",
     "geom:latitude":53.237572,
     "geom:longitude":-1.42925,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Saltergate",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118817925,
-    "wof:lastmodified":1449054280,
+    "wof:lastmodified":1466274094,
     "wof:name":"Multi-Storey Car Park",
     "wof:parent_id":85861099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.42925,53.237572,-1.42925,53.237572],
+  "bbox": [
+    -1.42925,
+    53.237572,
+    -1.42925,
+    53.237572
+],
   "geometry": {"coordinates":[-1.42925,53.237572],"type":"Point"}
 }

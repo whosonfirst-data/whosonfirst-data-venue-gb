@@ -2,13 +2,14 @@
   "id": 286786803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.10586,51.019173,-3.10586,51.019173",
     "geom:latitude":51.019173,
     "geom:longitude":-3.10586,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Staplegrove Road",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286786803,
-    "wof:lastmodified":1449015558,
+    "wof:lastmodified":1466278500,
     "wof:name":"Cut 'N' Curl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-3.10586,51.019173,-3.10586,51.019173],
+  "bbox": [
+    -3.10586,
+    51.019173,
+    -3.10586,
+    51.019173
+],
   "geometry": {"coordinates":[-3.10586,51.019173],"type":"Point"}
 }

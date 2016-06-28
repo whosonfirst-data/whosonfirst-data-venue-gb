@@ -2,13 +2,14 @@
   "id": 220122205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.387521,50.927555,-1.387521,50.927555",
     "geom:latitude":50.927555,
     "geom:longitude":-1.387521,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Portswood Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220122205,
-    "wof:lastmodified":1449074510,
+    "wof:lastmodified":1466255121,
     "wof:name":"Portswood Chinese Take-Away",
     "wof:parent_id":85861259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "take"
     ]
 },
-  "bbox": [-1.387521,50.927555,-1.387521,50.927555],
+  "bbox": [
+    -1.387521,
+    50.927555,
+    -1.387521,
+    50.927555
+],
   "geometry": {"coordinates":[-1.387521,50.927555],"type":"Point"}
 }

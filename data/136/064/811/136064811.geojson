@@ -2,13 +2,14 @@
   "id": 136064811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.140048,55.915817,-3.140048,55.915817",
     "geom:latitude":55.915817,
     "geom:longitude":-3.140048,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Moredunvale Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":136064811,
-    "wof:lastmodified":1449075382,
+    "wof:lastmodified":1466253487,
     "wof:name":"Moredun Primary School",
     "wof:parent_id":85861489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.140048,55.915817,-3.140048,55.915817],
+  "bbox": [
+    -3.140048,
+    55.915817,
+    -3.140048,
+    55.915817
+],
   "geometry": {"coordinates":[-3.140048,55.915817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135923001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.107136,53.610161,-2.107136,53.610161",
     "geom:latitude":53.610161,
     "geom:longitude":-2.107136,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Merlin Road",
     "sg:city":"Rochdale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135923001,
-    "wof:lastmodified":1449023896,
+    "wof:lastmodified":1466288073,
     "wof:name":"Tasty House",
     "wof:parent_id":85793077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.107136,53.610161,-2.107136,53.610161],
+  "bbox": [
+    -2.107136,
+    53.610161,
+    -2.107136,
+    53.610161
+],
   "geometry": {"coordinates":[-2.107136,53.610161],"type":"Point"}
 }

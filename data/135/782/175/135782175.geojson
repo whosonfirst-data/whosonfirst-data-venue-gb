@@ -2,13 +2,14 @@
   "id": 135782175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.42272,51.452236,-2.42272,51.452236",
     "geom:latitude":51.452236,
     "geom:longitude":-2.42272,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"107a High Street, Wick",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135782175,
-    "wof:lastmodified":1449020974,
+    "wof:lastmodified":1466287380,
     "wof:name":"Wicks Stores",
     "wof:parent_id":85785999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.42272,51.452236,-2.42272,51.452236],
+  "bbox": [
+    -2.42272,
+    51.452236,
+    -2.42272,
+    51.452236
+],
   "geometry": {"coordinates":[-2.42272,51.452236],"type":"Point"}
 }

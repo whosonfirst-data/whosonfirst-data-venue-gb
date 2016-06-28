@@ -2,13 +2,14 @@
   "id": 118596509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.74081,56.004257,-4.74081,56.004257",
     "geom:latitude":56.004257,
     "geom:longitude":-4.74081,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"91 West Clyde Street",
     "sg:city":"Helensburgh",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":118596509,
-    "wof:lastmodified":1449053870,
+    "wof:lastmodified":1466257517,
     "wof:name":"McLaren Books",
     "wof:parent_id":101872617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.74081,56.004257,-4.74081,56.004257],
+  "bbox": [
+    -4.74081,
+    56.004257,
+    -4.74081,
+    56.004257
+],
   "geometry": {"coordinates":[-4.74081,56.004257],"type":"Point"}
 }

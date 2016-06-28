@@ -2,13 +2,14 @@
   "id": 303207601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.867018,53.73711,-1.867018,53.73711",
     "geom:latitude":53.73711,
     "geom:longitude":-1.867018,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Boothtown Rd",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303207601,
-    "wof:lastmodified":1448999828,
+    "wof:lastmodified":1466269064,
     "wof:name":"Michael Lawrence Associates",
     "wof:parent_id":85785863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.867018,53.73711,-1.867018,53.73711],
+  "bbox": [
+    -1.867018,
+    53.73711,
+    -1.867018,
+    53.73711
+],
   "geometry": {"coordinates":[-1.867018,53.73711],"type":"Point"}
 }

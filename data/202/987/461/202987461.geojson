@@ -2,13 +2,14 @@
   "id": 202987461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.70315,53.61174,-1.70315,53.61174",
     "geom:latitude":53.61174,
     "geom:longitude":-1.70315,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111 North Road, Kirkburton",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202987461,
-    "wof:lastmodified":1449061522,
+    "wof:lastmodified":1466262094,
     "wof:name":"TASTE FINE WINES",
     "wof:parent_id":85788741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.70315,53.61174,-1.70315,53.61174],
+  "bbox": [
+    -1.70315,
+    53.61174,
+    -1.70315,
+    53.61174
+],
   "geometry": {"coordinates":[-1.70315,53.61174],"type":"Point"}
 }

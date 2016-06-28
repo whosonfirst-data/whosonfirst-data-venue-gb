@@ -2,13 +2,14 @@
   "id": 304006375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.692321,51.494617,-2.692321,51.494617",
     "geom:latitude":51.494617,
     "geom:longitude":-2.692321,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Portview Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":304006375,
-    "wof:lastmodified":1449044033,
+    "wof:lastmodified":1466264409,
     "wof:name":"Charity Search",
     "wof:parent_id":85785419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "charity"
     ]
 },
-  "bbox": [-2.692321,51.494617,-2.692321,51.494617],
+  "bbox": [
+    -2.692321,
+    51.494617,
+    -2.692321,
+    51.494617
+],
   "geometry": {"coordinates":[-2.692321,51.494617],"type":"Point"}
 }

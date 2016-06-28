@@ -2,13 +2,14 @@
   "id": 118910593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.151721,51.537724,-2.151721,51.537724",
     "geom:latitude":51.537724,
     "geom:longitude":-2.151721,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 The Street, Hullavington",
     "sg:city":"Chippenham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118910593,
-    "wof:lastmodified":1449053718,
+    "wof:lastmodified":1466279986,
     "wof:name":"Queens Head",
     "wof:parent_id":85683939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.151721,51.537724,-2.151721,51.537724],
+  "bbox": [
+    -2.151721,
+    51.537724,
+    -2.151721,
+    51.537724
+],
   "geometry": {"coordinates":[-2.151721,51.537724],"type":"Point"}
 }

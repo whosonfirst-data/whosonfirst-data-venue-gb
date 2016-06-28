@@ -2,13 +2,14 @@
   "id": 102652603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.549992,50.107296,-5.549992,50.107296",
     "geom:latitude":50.107296,
     "geom:longitude":-5.549992,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 New Road, Newlyn",
     "sg:city":"Penzance",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102652603,
-    "wof:lastmodified":1449069325,
+    "wof:lastmodified":1466254531,
     "wof:name":"Alf Revell",
     "wof:parent_id":85684547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.549992,50.107296,-5.549992,50.107296],
+  "bbox": [
+    -5.549992,
+    50.107296,
+    -5.549992,
+    50.107296
+],
   "geometry": {"coordinates":[-5.549992,50.107296],"type":"Point"}
 }

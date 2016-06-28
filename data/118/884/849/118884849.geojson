@@ -2,13 +2,14 @@
   "id": 118884849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.529576,50.465572,-3.529576,50.465572",
     "geom:latitude":50.465572,
     "geom:longitude":-3.529576,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41-43 Abbey Rd",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118884849,
-    "wof:lastmodified":1449054287,
+    "wof:lastmodified":1466278569,
     "wof:name":"Abbey Stores",
     "wof:parent_id":101751577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.529576,50.465572,-3.529576,50.465572],
+  "bbox": [
+    -3.529576,
+    50.465572,
+    -3.529576,
+    50.465572
+],
   "geometry": {"coordinates":[-3.529576,50.465572],"type":"Point"}
 }

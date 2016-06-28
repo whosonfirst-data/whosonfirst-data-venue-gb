@@ -2,13 +2,14 @@
   "id": 135379255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.369082,58.213753,-6.369082,58.213753",
     "geom:latitude":58.213753,
     "geom:longitude":-6.369082,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Tolmie Terrace",
     "sg:city":"Stornoway",
     "sg:classifiers":[
@@ -36,14 +37,20 @@
     "wof:geomhash":"018abe090085e2d92af74b58df731755",
     "wof:hierarchy":[],
     "wof:id":135379255,
-    "wof:lastmodified":1449022773,
+    "wof:lastmodified":1466260362,
     "wof:name":"Sally's Taxis",
     "wof:parent_id":85683725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.369082,58.213753,-6.369082,58.213753],
+  "bbox": [
+    -6.369082,
+    58.213753,
+    -6.369082,
+    58.213753
+],
   "geometry": {"coordinates":[-6.369082,58.213753],"type":"Point"}
 }

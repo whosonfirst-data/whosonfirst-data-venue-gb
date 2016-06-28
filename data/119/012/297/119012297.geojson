@@ -2,13 +2,14 @@
   "id": 119012297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.112207,52.004929,-2.112207,52.004929",
     "geom:latitude":52.004929,
     "geom:longitude":-2.112207,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Brannigan Court, Northway",
     "sg:city":"Tewkesbury",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119012297,
-    "wof:lastmodified":1449043269,
+    "wof:lastmodified":1466267477,
     "wof:name":"Brannigan Court",
     "wof:parent_id":85683931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.112207,52.004929,-2.112207,52.004929],
+  "bbox": [
+    -2.112207,
+    52.004929,
+    -2.112207,
+    52.004929
+],
   "geometry": {"coordinates":[-2.112207,52.004929],"type":"Point"}
 }

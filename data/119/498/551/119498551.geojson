@@ -2,13 +2,14 @@
   "id": 119498551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.090318,55.792736,-4.090318,55.792736",
     "geom:latitude":55.792736,
     "geom:longitude":-4.090318,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Victoria Street, Blantyre",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119498551,
-    "wof:lastmodified":1449042862,
+    "wof:lastmodified":1466287048,
     "wof:name":"William Prentice",
     "wof:parent_id":85683955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.090318,55.792736,-4.090318,55.792736],
+  "bbox": [
+    -4.090318,
+    55.792736,
+    -4.090318,
+    55.792736
+],
   "geometry": {"coordinates":[-4.090318,55.792736],"type":"Point"}
 }

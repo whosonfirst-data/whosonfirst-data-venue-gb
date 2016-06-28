@@ -2,13 +2,14 @@
   "id": 135612461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.423745,56.400795,-3.423745,56.400795",
     "geom:latitude":56.400795,
     "geom:longitude":-3.423745,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Main Street, Bridgend",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":135612461,
-    "wof:lastmodified":1449022347,
+    "wof:lastmodified":1466283098,
     "wof:name":"Park Hall Estate Agents",
     "wof:parent_id":101872645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.423745,56.400795,-3.423745,56.400795],
+  "bbox": [
+    -3.423745,
+    56.400795,
+    -3.423745,
+    56.400795
+],
   "geometry": {"coordinates":[-3.423745,56.400795],"type":"Point"}
 }

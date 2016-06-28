@@ -2,13 +2,14 @@
   "id": 303691249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.01193,53.746799,-3.01193,53.746799",
     "geom:latitude":53.746799,
     "geom:longitude":-3.01193,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"South Promanade",
     "sg:city":"Lytham St. Annes",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303691249,
-    "wof:lastmodified":1448998319,
+    "wof:lastmodified":1466281629,
     "wof:name":"St. Annes Pleasure Island",
     "wof:parent_id":85790579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "entertainment"
     ]
 },
-  "bbox": [-3.01193,53.746799,-3.01193,53.746799],
+  "bbox": [
+    -3.01193,
+    53.746799,
+    -3.01193,
+    53.746799
+],
   "geometry": {"coordinates":[-3.01193,53.746799],"type":"Point"}
 }

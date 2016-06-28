@@ -2,13 +2,14 @@
   "id": 320331471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.236149,53.478306,-2.236149,53.478306",
     "geom:latitude":53.478306,
     "geom:longitude":-2.236149,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Albert House, Bloom Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320331471,
-    "wof:lastmodified":1449013522,
+    "wof:lastmodified":1466278075,
     "wof:name":"Regional Independent Media",
     "wof:parent_id":85792993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.236149,53.478306,-2.236149,53.478306],
+  "bbox": [
+    -2.236149,
+    53.478306,
+    -2.236149,
+    53.478306
+],
   "geometry": {"coordinates":[-2.236149,53.478306],"type":"Point"}
 }

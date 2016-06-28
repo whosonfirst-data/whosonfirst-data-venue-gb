@@ -2,13 +2,14 @@
   "id": 203070073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.274857,55.784901,-4.274857,55.784901",
     "geom:latitude":55.784901,
     "geom:longitude":-4.274857,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Arthur Place, Eaglesham Road, Clarkston",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203070073,
-    "wof:lastmodified":1449025833,
+    "wof:lastmodified":1466253830,
     "wof:name":"English Rose Kitchen Centre",
     "wof:parent_id":85786665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-4.274857,55.784901,-4.274857,55.784901],
+  "bbox": [
+    -4.274857,
+    55.784901,
+    -4.274857,
+    55.784901
+],
   "geometry": {"coordinates":[-4.274857,55.784901],"type":"Point"}
 }

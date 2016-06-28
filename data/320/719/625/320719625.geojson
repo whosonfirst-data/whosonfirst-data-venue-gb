@@ -2,13 +2,14 @@
   "id": 320719625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.258305,53.461956,-2.258305,53.461956",
     "geom:latitude":53.461956,
     "geom:longitude":-2.258305,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Chorlton Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320719625,
-    "wof:lastmodified":1449011735,
+    "wof:lastmodified":1466284079,
     "wof:name":"F.C.S.",
     "wof:parent_id":85789609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-2.258305,53.461956,-2.258305,53.461956],
+  "bbox": [
+    -2.258305,
+    53.461956,
+    -2.258305,
+    53.461956
+],
   "geometry": {"coordinates":[-2.258305,53.461956],"type":"Point"}
 }

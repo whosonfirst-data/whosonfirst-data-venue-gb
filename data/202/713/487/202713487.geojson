@@ -2,13 +2,14 @@
   "id": 202713487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.143635,52.639275,-1.143635,52.639275",
     "geom:latitude":52.639275,
     "geom:longitude":-1.143635,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Swan St",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202713487,
-    "wof:lastmodified":1449062413,
+    "wof:lastmodified":1466257637,
     "wof:name":"I.S.L.",
     "wof:parent_id":85792039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "audio-visual"
     ]
 },
-  "bbox": [-1.143635,52.639275,-1.143635,52.639275],
+  "bbox": [
+    -1.143635,
+    52.639275,
+    -1.143635,
+    52.639275
+],
   "geometry": {"coordinates":[-1.143635,52.639275],"type":"Point"}
 }

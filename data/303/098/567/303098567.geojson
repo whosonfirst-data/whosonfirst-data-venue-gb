@@ -2,13 +2,14 @@
   "id": 303098567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.961,51.454159,-0.961,51.454159",
     "geom:latitude":51.454159,
     "geom:longitude":-0.961,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Kennet St",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303098567,
-    "wof:lastmodified":1449000310,
+    "wof:lastmodified":1466265600,
     "wof:name":"A.B.C Taxis",
     "wof:parent_id":85861261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cab"
     ]
 },
-  "bbox": [-0.961,51.454159,-0.961,51.454159],
+  "bbox": [
+    -0.961,
+    51.454159,
+    -0.961,
+    51.454159
+],
   "geometry": {"coordinates":[-0.961,51.454159],"type":"Point"}
 }

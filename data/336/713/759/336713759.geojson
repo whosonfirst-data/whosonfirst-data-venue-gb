@@ -2,13 +2,14 @@
   "id": 336713759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.959025,51.61668,-3.959025,51.61668",
     "geom:latitude":51.61668,
     "geom:longitude":-3.959025,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Catherine Street",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":336713759,
-    "wof:lastmodified":1448997921,
+    "wof:lastmodified":1466276173,
     "wof:name":"Stripped Pine Workshop",
     "wof:parent_id":85786099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.959025,51.61668,-3.959025,51.61668],
+  "bbox": [
+    -3.959025,
+    51.61668,
+    -3.959025,
+    51.61668
+],
   "geometry": {"coordinates":[-3.959025,51.61668],"type":"Point"}
 }

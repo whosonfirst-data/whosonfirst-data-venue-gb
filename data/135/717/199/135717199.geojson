@@ -2,13 +2,14 @@
   "id": 135717199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.380671,58.206825,-6.380671,58.206825",
     "geom:latitude":58.206825,
     "geom:longitude":-6.380671,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bells Rd",
     "sg:city":"Stornoway",
     "sg:classifiers":[
@@ -34,14 +35,20 @@
     "wof:geomhash":"1ad46132be471fa8b10003e35e686040",
     "wof:hierarchy":[],
     "wof:id":135717199,
-    "wof:lastmodified":1449021049,
+    "wof:lastmodified":1466286407,
     "wof:name":"Maciver,Iain,",
     "wof:parent_id":85683725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.380671,58.206825,-6.380671,58.206825],
+  "bbox": [
+    -6.380671,
+    58.206825,
+    -6.380671,
+    58.206825
+],
   "geometry": {"coordinates":[-6.380671,58.206825],"type":"Point"}
 }

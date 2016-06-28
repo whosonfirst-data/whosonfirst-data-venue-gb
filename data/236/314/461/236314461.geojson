@@ -2,13 +2,14 @@
   "id": 236314461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.299473,55.796005,-4.299473,55.796005",
     "geom:latitude":55.796005,
     "geom:longitude":-4.299473,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Eastwoodmains Road, Giffnock",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":236314461,
-    "wof:lastmodified":1449005081,
+    "wof:lastmodified":1466262519,
     "wof:name":"A Crawford & Son",
     "wof:parent_id":85787597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "accessory"
     ]
 },
-  "bbox": [-4.299473,55.796005,-4.299473,55.796005],
+  "bbox": [
+    -4.299473,
+    55.796005,
+    -4.299473,
+    55.796005
+],
   "geometry": {"coordinates":[-4.299473,55.796005],"type":"Point"}
 }

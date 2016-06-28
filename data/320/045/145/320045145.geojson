@@ -2,13 +2,14 @@
   "id": 320045145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.53385,53.819389,-1.53385,53.819389",
     "geom:latitude":53.819389,
     "geom:longitude":-1.53385,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Umoja House Hostel, 6 Sholebroke Avenue",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320045145,
-    "wof:lastmodified":1449014522,
+    "wof:lastmodified":1466269431,
     "wof:name":"Leeds Federated Housing Association",
     "wof:parent_id":85789921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.53385,53.819389,-1.53385,53.819389],
+  "bbox": [
+    -1.53385,
+    53.819389,
+    -1.53385,
+    53.819389
+],
   "geometry": {"coordinates":[-1.53385,53.819389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303786115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.10081,51.468063,0.10081,51.468063",
     "geom:latitude":51.468063,
     "geom:longitude":0.10081,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Central Av",
     "sg:city":"Welling",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303786115,
-    "wof:lastmodified":1448998437,
+    "wof:lastmodified":1466282979,
     "wof:name":"T J Wines",
     "wof:parent_id":85791423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [0.10081,51.468063,0.10081,51.468063],
+  "bbox": [
+    0.10081,
+    51.468063,
+    0.10081,
+    51.468063
+],
   "geometry": {"coordinates":[0.10081,51.468063],"type":"Point"}
 }

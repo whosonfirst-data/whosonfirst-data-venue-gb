@@ -2,13 +2,14 @@
   "id": 303251203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.288629,53.415588,-2.288629,53.415588",
     "geom:latitude":53.415588,
     "geom:longitude":-2.288629,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"462 Northenden Road",
     "sg:city":"Sale",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303251203,
-    "wof:lastmodified":1448998164,
+    "wof:lastmodified":1466270392,
     "wof:name":"Boundary House Medical Centre",
     "wof:parent_id":85785441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-2.288629,53.415588,-2.288629,53.415588],
+  "bbox": [
+    -2.288629,
+    53.415588,
+    -2.288629,
+    53.415588
+],
   "geometry": {"coordinates":[-2.288629,53.415588],"type":"Point"}
 }

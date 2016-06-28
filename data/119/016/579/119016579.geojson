@@ -2,13 +2,14 @@
   "id": 119016579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.147483,50.549591,-4.147483,50.549591",
     "geom:latitude":50.549591,
     "geom:longitude":-4.147483,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"74 West St",
     "sg:city":"Tavistock",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":119016579,
-    "wof:lastmodified":1449041285,
+    "wof:lastmodified":1466273967,
     "wof:name":"Exmoor Pine",
     "wof:parent_id":101852555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.147483,50.549591,-4.147483,50.549591],
+  "bbox": [
+    -4.147483,
+    50.549591,
+    -4.147483,
+    50.549591
+],
   "geometry": {"coordinates":[-4.147483,50.549591],"type":"Point"}
 }

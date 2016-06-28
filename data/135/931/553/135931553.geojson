@@ -2,13 +2,14 @@
   "id": 135931553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.606451,54.969437,-1.606451,54.969437",
     "geom:latitude":54.969437,
     "geom:longitude":-1.606451,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Queen St",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135931553,
-    "wof:lastmodified":1449023732,
+    "wof:lastmodified":1466288258,
     "wof:name":"Landscape Concern",
     "wof:parent_id":85786375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.606451,54.969437,-1.606451,54.969437],
+  "bbox": [
+    -1.606451,
+    54.969437,
+    -1.606451,
+    54.969437
+],
   "geometry": {"coordinates":[-1.606451,54.969437],"type":"Point"}
 }

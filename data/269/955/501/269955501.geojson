@@ -2,13 +2,14 @@
   "id": 269955501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.174639,51.439709,-3.174639,51.439709",
     "geom:latitude":51.439709,
     "geom:longitude":-3.174639,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Glebe Street",
     "sg:city":"Penarth",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269955501,
-    "wof:lastmodified":1449037782,
+    "wof:lastmodified":1466278276,
     "wof:name":"Penarth Cars",
     "wof:parent_id":85861453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "private"
     ]
 },
-  "bbox": [-3.174639,51.439709,-3.174639,51.439709],
+  "bbox": [
+    -3.174639,
+    51.439709,
+    -3.174639,
+    51.439709
+],
   "geometry": {"coordinates":[-3.174639,51.439709],"type":"Point"}
 }

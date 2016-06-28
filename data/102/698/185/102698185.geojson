@@ -2,13 +2,14 @@
   "id": 102698185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.281849,53.014687,-1.281849,53.014687",
     "geom:latitude":53.014687,
     "geom:longitude":-1.281849,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Park View, 158 Moorgreen, Newthorpe",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102698185,
-    "wof:lastmodified":1449070040,
+    "wof:lastmodified":1466256335,
     "wof:name":"Brian Sutton",
     "wof:parent_id":101871915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.281849,53.014687,-1.281849,53.014687],
+  "bbox": [
+    -1.281849,
+    53.014687,
+    -1.281849,
+    53.014687
+],
   "geometry": {"coordinates":[-1.281849,53.014687],"type":"Point"}
 }

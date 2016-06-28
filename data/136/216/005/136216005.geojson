@@ -2,13 +2,14 @@
   "id": 136216005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.340123,54.588551,-1.340123,54.588551",
     "geom:latitude":54.588551,
     "geom:longitude":-1.340123,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Redhill Road",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136216005,
-    "wof:lastmodified":1449076115,
+    "wof:lastmodified":1466261735,
     "wof:name":"Roseworth Library",
     "wof:parent_id":101750603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.340123,54.588551,-1.340123,54.588551],
+  "bbox": [
+    -1.340123,
+    54.588551,
+    -1.340123,
+    54.588551
+],
   "geometry": {"coordinates":[-1.340123,54.588551],"type":"Point"}
 }

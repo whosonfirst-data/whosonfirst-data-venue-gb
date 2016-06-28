@@ -2,13 +2,14 @@
   "id": 135333031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.142531,51.356174,-1.142531,51.356174",
     "geom:latitude":51.356174,
     "geom:longitude":-1.142531,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Mulfords Hill",
     "sg:city":"Tadley",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135333031,
-    "wof:lastmodified":1449023786,
+    "wof:lastmodified":1466255215,
     "wof:name":"Besom Brooms",
     "wof:parent_id":85684375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.142531,51.356174,-1.142531,51.356174],
+  "bbox": [
+    -1.142531,
+    51.356174,
+    -1.142531,
+    51.356174
+],
   "geometry": {"coordinates":[-1.142531,51.356174],"type":"Point"}
 }

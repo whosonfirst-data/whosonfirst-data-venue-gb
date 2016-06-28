@@ -2,13 +2,14 @@
   "id": 320707635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.406009,50.912052,-1.406009,50.912052",
     "geom:latitude":50.912052,
     "geom:longitude":-1.406009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Bedford Place",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320707635,
-    "wof:lastmodified":1449014382,
+    "wof:lastmodified":1466283974,
     "wof:name":"Med 20",
     "wof:parent_id":85792821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.406009,50.912052,-1.406009,50.912052],
+  "bbox": [
+    -1.406009,
+    50.912052,
+    -1.406009,
+    50.912052
+],
   "geometry": {"coordinates":[-1.406009,50.912052],"type":"Point"}
 }

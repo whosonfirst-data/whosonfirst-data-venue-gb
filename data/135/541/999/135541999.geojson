@@ -2,13 +2,14 @@
   "id": 135541999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.760737,54.08593,-1.760737,54.08593",
     "geom:latitude":54.08593,
     "geom:longitude":-1.760737,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 High Street, Pateley Bridge",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135541999,
-    "wof:lastmodified":1449021325,
+    "wof:lastmodified":1466279114,
     "wof:name":"David J Tickner",
     "wof:parent_id":85683811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.760737,54.08593,-1.760737,54.08593],
+  "bbox": [
+    -1.760737,
+    54.08593,
+    -1.760737,
+    54.08593
+],
   "geometry": {"coordinates":[-1.760737,54.08593],"type":"Point"}
 }

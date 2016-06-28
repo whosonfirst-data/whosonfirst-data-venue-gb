@@ -2,13 +2,14 @@
   "id": 303502947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.523693,54.527653,-3.523693,54.527653",
     "geom:latitude":54.527653,
     "geom:longitude":-3.523693,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Bowthorn Road",
     "sg:city":"Cleator Moor",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303502947,
-    "wof:lastmodified":1448999240,
+    "wof:lastmodified":1466278043,
     "wof:name":"Orion Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.523693,54.527653,-3.523693,54.527653],
+  "bbox": [
+    -3.523693,
+    54.527653,
+    -3.523693,
+    54.527653
+],
   "geometry": {"coordinates":[-3.523693,54.527653],"type":"Point"}
 }

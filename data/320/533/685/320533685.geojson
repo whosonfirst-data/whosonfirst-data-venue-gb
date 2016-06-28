@@ -2,13 +2,14 @@
   "id": 320533685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.548992,54.524391,-1.548992,54.524391",
     "geom:latitude":54.524391,
     "geom:longitude":-1.548992,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Parkgate",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320533685,
-    "wof:lastmodified":1449011218,
+    "wof:lastmodified":1466281630,
     "wof:name":"Wedding Day Fashions",
     "wof:parent_id":85787981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wedding"
     ]
 },
-  "bbox": [-1.548992,54.524391,-1.548992,54.524391],
+  "bbox": [
+    -1.548992,
+    54.524391,
+    -1.548992,
+    54.524391
+],
   "geometry": {"coordinates":[-1.548992,54.524391],"type":"Point"}
 }

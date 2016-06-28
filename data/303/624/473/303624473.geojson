@@ -2,13 +2,14 @@
   "id": 303624473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.978131,53.403095,-2.978131,53.403095",
     "geom:latitude":53.403095,
     "geom:longitude":-2.978131,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"First Floor, 57 Bold Street",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303624473,
-    "wof:lastmodified":1448999795,
+    "wof:lastmodified":1466280444,
     "wof:name":"L Bennett",
     "wof:parent_id":85793261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-2.978131,53.403095,-2.978131,53.403095],
+  "bbox": [
+    -2.978131,
+    53.403095,
+    -2.978131,
+    53.403095
+],
   "geometry": {"coordinates":[-2.978131,53.403095],"type":"Point"}
 }

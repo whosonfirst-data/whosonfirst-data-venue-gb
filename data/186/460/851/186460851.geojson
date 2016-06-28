@@ -2,13 +2,14 @@
   "id": 186460851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.569139,53.792416,-1.569139,53.792416",
     "geom:latitude":53.792416,
     "geom:longitude":-1.569139,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"New Wortley Health Centre, Green Lane",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186460851,
-    "wof:lastmodified":1449052882,
+    "wof:lastmodified":1466258620,
     "wof:name":"West Yorkshire Strategic Health Authority",
     "wof:parent_id":85789357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-1.569139,53.792416,-1.569139,53.792416],
+  "bbox": [
+    -1.569139,
+    53.792416,
+    -1.569139,
+    53.792416
+],
   "geometry": {"coordinates":[-1.569139,53.792416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118818715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.234542,55.909554,-3.234542,55.909554",
     "geom:latitude":55.909554,
     "geom:longitude":-3.234542,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Colinton Mains Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118818715,
-    "wof:lastmodified":1449053831,
+    "wof:lastmodified":1466274167,
     "wof:name":"Alan McBride",
     "wof:parent_id":85861513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.234542,55.909554,-3.234542,55.909554],
+  "bbox": [
+    -3.234542,
+    55.909554,
+    -3.234542,
+    55.909554
+],
   "geometry": {"coordinates":[-3.234542,55.909554],"type":"Point"}
 }

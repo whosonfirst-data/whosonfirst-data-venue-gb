@@ -2,13 +2,14 @@
   "id": 135676981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.43567,53.428093,-2.43567,53.428093",
     "geom:latitude":53.428093,
     "geom:longitude":-2.43567,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Liverpool Rd, Cadishead",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135676981,
-    "wof:lastmodified":1449022947,
+    "wof:lastmodified":1466285640,
     "wof:name":"Alan Miller",
     "wof:parent_id":85793235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.43567,53.428093,-2.43567,53.428093],
+  "bbox": [
+    -2.43567,
+    53.428093,
+    -2.43567,
+    53.428093
+],
   "geometry": {"coordinates":[-2.43567,53.428093],"type":"Point"}
 }

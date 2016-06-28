@@ -2,13 +2,14 @@
   "id": 203350523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.20668,55.953419,-3.20668,55.953419",
     "geom:latitude":55.953419,
     "geom:longitude":-3.20668,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Queen Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203350523,
-    "wof:lastmodified":1449025894,
+    "wof:lastmodified":1466258675,
     "wof:name":"Rossconnel Ltd",
     "wof:parent_id":85792719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-3.20668,55.953419,-3.20668,55.953419],
+  "bbox": [
+    -3.20668,
+    55.953419,
+    -3.20668,
+    55.953419
+],
   "geometry": {"coordinates":[-3.20668,55.953419],"type":"Point"}
 }

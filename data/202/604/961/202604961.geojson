@@ -2,13 +2,14 @@
   "id": 202604961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.321691,52.119411,-2.321691,52.119411",
     "geom:latitude":52.119411,
     "geom:longitude":-2.321691,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Tennyson Drive, Malvern",
     "sg:city":"Worcester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202604961,
-    "wof:lastmodified":1449062354,
+    "wof:lastmodified":1466255911,
     "wof:name":"Nicholas Programming Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "software"
     ]
 },
-  "bbox": [-2.321691,52.119411,-2.321691,52.119411],
+  "bbox": [
+    -2.321691,
+    52.119411,
+    -2.321691,
+    52.119411
+],
   "geometry": {"coordinates":[-2.321691,52.119411],"type":"Point"}
 }

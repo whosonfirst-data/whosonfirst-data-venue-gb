@@ -2,13 +2,14 @@
   "id": 270320509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.153179,52.648022,-1.153179,52.648022",
     "geom:latitude":52.648022,
     "geom:longitude":-1.153179,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Buckminster Rd",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270320509,
-    "wof:lastmodified":1449009238,
+    "wof:lastmodified":1466270104,
     "wof:name":"B Tyers",
     "wof:parent_id":85860905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.153179,52.648022,-1.153179,52.648022],
+  "bbox": [
+    -1.153179,
+    52.648022,
+    -1.153179,
+    52.648022
+],
   "geometry": {"coordinates":[-1.153179,52.648022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236068109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.710172,53.764244,-2.710172,53.764244",
     "geom:latitude":53.764244,
     "geom:longitude":-2.710172,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Fylde Road",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236068109,
-    "wof:lastmodified":1449003331,
+    "wof:lastmodified":1466257808,
     "wof:name":"Fylde Chippy",
     "wof:parent_id":85785379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-2.710172,53.764244,-2.710172,53.764244],
+  "bbox": [
+    -2.710172,
+    53.764244,
+    -2.710172,
+    53.764244
+],
   "geometry": {"coordinates":[-2.710172,53.764244],"type":"Point"}
 }

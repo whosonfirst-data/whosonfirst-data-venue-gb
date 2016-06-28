@@ -2,13 +2,14 @@
   "id": 119229533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.625539,54.971119,-1.625539,54.971119",
     "geom:latitude":54.971119,
     "geom:longitude":-1.625539,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Westgate Road",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119229533,
-    "wof:lastmodified":1449042965,
+    "wof:lastmodified":1466272536,
     "wof:name":"Demon Bikes",
     "wof:parent_id":85861857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.625539,54.971119,-1.625539,54.971119],
+  "bbox": [
+    -1.625539,
+    54.971119,
+    -1.625539,
+    54.971119
+],
   "geometry": {"coordinates":[-1.625539,54.971119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119497183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.220331,57.486,-4.220331,57.486",
     "geom:latitude":57.486,
     "geom:longitude":-4.220331,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Longman Road",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119497183,
-    "wof:lastmodified":1449043529,
+    "wof:lastmodified":1466287011,
     "wof:name":"D V L A Local Office",
     "wof:parent_id":101873667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.220331,57.486,-4.220331,57.486],
+  "bbox": [
+    -4.220331,
+    57.486,
+    -4.220331,
+    57.486
+],
   "geometry": {"coordinates":[-4.220331,57.486],"type":"Point"}
 }

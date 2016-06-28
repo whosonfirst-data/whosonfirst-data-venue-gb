@@ -2,13 +2,14 @@
   "id": 253601121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.057321,53.481113,-2.057321,53.481113",
     "geom:latitude":53.481113,
     "geom:longitude":-2.057321,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Grosvenor Street",
     "sg:city":"Stalybridge",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":253601121,
-    "wof:lastmodified":1449064148,
+    "wof:lastmodified":1466271152,
     "wof:name":"Stalybridge Home Brew",
     "wof:parent_id":85793057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "wines"
     ]
 },
-  "bbox": [-2.057321,53.481113,-2.057321,53.481113],
+  "bbox": [
+    -2.057321,
+    53.481113,
+    -2.057321,
+    53.481113
+],
   "geometry": {"coordinates":[-2.057321,53.481113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203090783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.13865,51.904175,-1.13865,51.904175",
     "geom:latitude":51.904175,
     "geom:longitude":-1.13865,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Wedgewood Road",
     "sg:city":"Bicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203090783,
-    "wof:lastmodified":1449026443,
+    "wof:lastmodified":1466254172,
     "wof:name":"Wedgewood Crash Repair Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "repairer"
     ]
 },
-  "bbox": [-1.13865,51.904175,-1.13865,51.904175],
+  "bbox": [
+    -1.13865,
+    51.904175,
+    -1.13865,
+    51.904175
+],
   "geometry": {"coordinates":[-1.13865,51.904175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202471825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.203404,55.943901,-3.203404,55.943901",
     "geom:latitude":55.943901,
     "geom:longitude":-3.203404,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Bread St",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202471825,
-    "wof:lastmodified":1449061131,
+    "wof:lastmodified":1466253720,
     "wof:name":"Tipplers",
     "wof:parent_id":85861505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.203404,55.943901,-3.203404,55.943901],
+  "bbox": [
+    -3.203404,
+    55.943901,
+    -3.203404,
+    55.943901
+],
   "geometry": {"coordinates":[-3.203404,55.943901],"type":"Point"}
 }

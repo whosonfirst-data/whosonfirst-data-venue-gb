@@ -2,13 +2,14 @@
   "id": 135526885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.452004,50.714119,-2.452004,50.714119",
     "geom:latitude":50.714119,
     "geom:longitude":-2.452004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Wessex Road",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135526885,
-    "wof:lastmodified":1449021935,
+    "wof:lastmodified":1466277674,
     "wof:name":"PAM SAMWAYS",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.452004,50.714119,-2.452004,50.714119],
+  "bbox": [
+    -2.452004,
+    50.714119,
+    -2.452004,
+    50.714119
+],
   "geometry": {"coordinates":[-2.452004,50.714119],"type":"Point"}
 }

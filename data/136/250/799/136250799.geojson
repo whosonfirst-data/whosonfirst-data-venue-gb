@@ -2,13 +2,14 @@
   "id": 136250799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.637259,55.048691,-1.637259,55.048691",
     "geom:latitude":55.048691,
     "geom:longitude":-1.637259,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, Sandison Court, Brunswick Village",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136250799,
-    "wof:lastmodified":1449075685,
+    "wof:lastmodified":1466263734,
     "wof:name":"Company Name Plates",
     "wof:parent_id":85787373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.637259,55.048691,-1.637259,55.048691],
+  "bbox": [
+    -1.637259,
+    55.048691,
+    -1.637259,
+    55.048691
+],
   "geometry": {"coordinates":[-1.637259,55.048691],"type":"Point"}
 }

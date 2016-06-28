@@ -2,13 +2,14 @@
   "id": 119420481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.380709,56.038799,-4.380709,56.038799",
     "geom:latitude":56.038799,
     "geom:longitude":-4.380709,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Lampson Road, Killearn",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119420481,
-    "wof:lastmodified":1449042110,
+    "wof:lastmodified":1466285748,
     "wof:name":"M Harley",
     "wof:parent_id":85683979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.380709,56.038799,-4.380709,56.038799],
+  "bbox": [
+    -4.380709,
+    56.038799,
+    -4.380709,
+    56.038799
+],
   "geometry": {"coordinates":[-4.380709,56.038799],"type":"Point"}
 }

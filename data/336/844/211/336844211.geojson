@@ -2,13 +2,14 @@
   "id": 336844211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.04805,51.668705,-4.04805,51.668705",
     "geom:latitude":51.668705,
     "geom:longitude":-4.04805,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Alexandra Rd",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":336844211,
-    "wof:lastmodified":1448997403,
+    "wof:lastmodified":1466279241,
     "wof:name":"Ian Davies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.04805,51.668705,-4.04805,51.668705],
+  "bbox": [
+    -4.04805,
+    51.668705,
+    -4.04805,
+    51.668705
+],
   "geometry": {"coordinates":[-4.04805,51.668705],"type":"Point"}
 }

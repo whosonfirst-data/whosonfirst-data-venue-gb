@@ -2,13 +2,14 @@
   "id": 270525455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.030005,53.752026,-3.030005,53.752026",
     "geom:latitude":53.752026,
     "geom:longitude":-3.030005,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"60 St Annes Road West",
     "sg:city":"Lytham St Annes",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":270525455,
-    "wof:lastmodified":1449010546,
+    "wof:lastmodified":1466276135,
     "wof:name":"Bradford & Bingley plc",
     "wof:parent_id":85785317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "institution"
     ]
 },
-  "bbox": [-3.030005,53.752026,-3.030005,53.752026],
+  "bbox": [
+    -3.030005,
+    53.752026,
+    -3.030005,
+    53.752026
+],
   "geometry": {"coordinates":[-3.030005,53.752026],"type":"Point"}
 }

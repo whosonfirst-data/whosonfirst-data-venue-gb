@@ -2,13 +2,14 @@
   "id": 135355315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.455064,55.045235,-1.455064,55.045235",
     "geom:latitude":55.045235,
     "geom:longitude":-1.455064,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Marine Avenue",
     "sg:city":"Whitley Bay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135355315,
-    "wof:lastmodified":1449021854,
+    "wof:lastmodified":1466257811,
     "wof:name":"Holly Court",
     "wof:parent_id":101751655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.455064,55.045235,-1.455064,55.045235],
+  "bbox": [
+    -1.455064,
+    55.045235,
+    -1.455064,
+    55.045235
+],
   "geometry": {"coordinates":[-1.455064,55.045235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219529721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.496255,53.339226,-1.496255,53.339226",
     "geom:latitude":53.339226,
     "geom:longitude":-1.496255,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Hutcliffe Wood Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219529721,
-    "wof:lastmodified":1449071940,
+    "wof:lastmodified":1466259264,
     "wof:name":"Jeffery Deacon",
     "wof:parent_id":85860933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "removal"
     ]
 },
-  "bbox": [-1.496255,53.339226,-1.496255,53.339226],
+  "bbox": [
+    -1.496255,
+    53.339226,
+    -1.496255,
+    53.339226
+],
   "geometry": {"coordinates":[-1.496255,53.339226],"type":"Point"}
 }

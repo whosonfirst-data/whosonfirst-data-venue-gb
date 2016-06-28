@@ -2,13 +2,14 @@
   "id": 286687421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.728235,55.989887,-3.728235,55.989887",
     "geom:latitude":55.989887,
     "geom:longitude":-3.728235,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Street, Redding",
     "sg:city":"Falkirk",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":286687421,
-    "wof:lastmodified":1449016012,
+    "wof:lastmodified":1466275547,
     "wof:name":"Redding Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.728235,55.989887,-3.728235,55.989887],
+  "bbox": [
+    -3.728235,
+    55.989887,
+    -3.728235,
+    55.989887
+],
   "geometry": {"coordinates":[-3.728235,55.989887],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118902909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.030488,52.520939,-1.030488,52.520939",
     "geom:latitude":52.520939,
     "geom:longitude":-1.030488,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Street, Saddington",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118902909,
-    "wof:lastmodified":1449054185,
+    "wof:lastmodified":1466279728,
     "wof:name":"The Queens Head",
     "wof:parent_id":85683891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.030488,52.520939,-1.030488,52.520939],
+  "bbox": [
+    -1.030488,
+    52.520939,
+    -1.030488,
+    52.520939
+],
   "geometry": {"coordinates":[-1.030488,52.520939],"type":"Point"}
 }

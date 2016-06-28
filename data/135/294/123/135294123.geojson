@@ -2,13 +2,14 @@
   "id": 135294123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.327473,53.449219,-2.327473,53.449219",
     "geom:latitude":53.449219,
     "geom:longitude":-2.327473,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Ripon Road",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135294123,
-    "wof:lastmodified":1449023152,
+    "wof:lastmodified":1466276860,
     "wof:name":"Ripon Road Foodstore",
     "wof:parent_id":85790811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.327473,53.449219,-2.327473,53.449219],
+  "bbox": [
+    -2.327473,
+    53.449219,
+    -2.327473,
+    53.449219
+],
   "geometry": {"coordinates":[-2.327473,53.449219],"type":"Point"}
 }

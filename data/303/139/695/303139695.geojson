@@ -2,13 +2,14 @@
   "id": 303139695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.850878,50.728325,-1.850878,50.728325",
     "geom:latitude":50.728325,
     "geom:longitude":-1.850878,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Knole Road, Boscombe",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303139695,
-    "wof:lastmodified":1448998351,
+    "wof:lastmodified":1466266860,
     "wof:name":"The Studley Guest House",
     "wof:parent_id":85785869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "guest"
     ]
 },
-  "bbox": [-1.850878,50.728325,-1.850878,50.728325],
+  "bbox": [
+    -1.850878,
+    50.728325,
+    -1.850878,
+    50.728325
+],
   "geometry": {"coordinates":[-1.850878,50.728325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336705177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.27358,51.748501,-1.27358,51.748501",
     "geom:latitude":51.748501,
     "geom:longitude":-1.27358,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 6 Centre Mead, Osney Mead",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336705177,
-    "wof:lastmodified":1448998019,
+    "wof:lastmodified":1466275915,
     "wof:name":"Oxford City Supplies Ltd.",
     "wof:parent_id":85785875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-1.27358,51.748501,-1.27358,51.748501],
+  "bbox": [
+    -1.27358,
+    51.748501,
+    -1.27358,
+    51.748501
+],
   "geometry": {"coordinates":[-1.27358,51.748501],"type":"Point"}
 }

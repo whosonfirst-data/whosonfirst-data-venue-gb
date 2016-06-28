@@ -2,13 +2,14 @@
   "id": 202567573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.186432,55.957832,-3.186432,55.957832",
     "geom:latitude":55.957832,
     "geom:longitude":-3.186432,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Forth Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202567573,
-    "wof:lastmodified":1449062667,
+    "wof:lastmodified":1466255242,
     "wof:name":"Zonal Retail Data Systems Ltd.",
     "wof:parent_id":85861517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-3.186432,55.957832,-3.186432,55.957832],
+  "bbox": [
+    -3.186432,
+    55.957832,
+    -3.186432,
+    55.957832
+],
   "geometry": {"coordinates":[-3.186432,55.957832],"type":"Point"}
 }

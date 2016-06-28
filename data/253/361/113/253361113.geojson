@@ -2,13 +2,14 @@
   "id": 253361113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.798677,56.340969,-2.798677,56.340969",
     "geom:latitude":56.340969,
     "geom:longitude":-2.798677,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6a Greyfriars Gardens",
     "sg:city":"St Andrews",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253361113,
-    "wof:lastmodified":1449064984,
+    "wof:lastmodified":1466264552,
     "wof:name":"The Coffee House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.798677,56.340969,-2.798677,56.340969],
+  "bbox": [
+    -2.798677,
+    56.340969,
+    -2.798677,
+    56.340969
+],
   "geometry": {"coordinates":[-2.798677,56.340969],"type":"Point"}
 }

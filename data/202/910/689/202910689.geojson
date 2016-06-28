@@ -2,13 +2,14 @@
   "id": 202910689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.046084,53.493771,-2.046084,53.493771",
     "geom:latitude":53.493771,
     "geom:longitude":-2.046084,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"293-295 Wakefield Road, Heyrod",
     "sg:city":"Stalybridge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202910689,
-    "wof:lastmodified":1449061172,
+    "wof:lastmodified":1466260906,
     "wof:name":"Flushing Meadow",
     "wof:parent_id":85793057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "guest"
     ]
 },
-  "bbox": [-2.046084,53.493771,-2.046084,53.493771],
+  "bbox": [
+    -2.046084,
+    53.493771,
+    -2.046084,
+    53.493771
+],
   "geometry": {"coordinates":[-2.046084,53.493771],"type":"Point"}
 }

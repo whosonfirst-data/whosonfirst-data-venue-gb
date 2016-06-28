@@ -2,13 +2,14 @@
   "id": 303584817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.93848,50.730076,-1.93848,50.730076",
     "geom:latitude":50.730076,
     "geom:longitude":-1.93848,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Chuchhill Road, Parkstone",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303584817,
-    "wof:lastmodified":1448998389,
+    "wof:lastmodified":1466279623,
     "wof:name":"The Piano Shop",
     "wof:parent_id":85785943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [-1.93848,50.730076,-1.93848,50.730076],
+  "bbox": [
+    -1.93848,
+    50.730076,
+    -1.93848,
+    50.730076
+],
   "geometry": {"coordinates":[-1.93848,50.730076],"type":"Point"}
 }

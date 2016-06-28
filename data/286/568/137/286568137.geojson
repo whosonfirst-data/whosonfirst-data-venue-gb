@@ -2,13 +2,14 @@
   "id": 286568137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.045564,53.519295,-2.045564,53.519295",
     "geom:latitude":53.519295,
     "geom:longitude":-2.045564,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 George Street, Mossley",
     "sg:city":"Ashton-under-lyne",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286568137,
-    "wof:lastmodified":1449015090,
+    "wof:lastmodified":1466271719,
     "wof:name":"Blazing Rag Inn",
     "wof:parent_id":85787801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "inn"
     ]
 },
-  "bbox": [-2.045564,53.519295,-2.045564,53.519295],
+  "bbox": [
+    -2.045564,
+    53.519295,
+    -2.045564,
+    53.519295
+],
   "geometry": {"coordinates":[-2.045564,53.519295],"type":"Point"}
 }

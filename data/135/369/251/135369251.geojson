@@ -2,13 +2,14 @@
   "id": 135369251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.437458,54.987629,-1.437458,54.987629",
     "geom:latitude":54.987629,
     "geom:longitude":-1.437458,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"89-93 Frederick Street",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135369251,
-    "wof:lastmodified":1449023840,
+    "wof:lastmodified":1466259339,
     "wof:name":"Barker Bikes",
     "wof:parent_id":85792737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.437458,54.987629,-1.437458,54.987629],
+  "bbox": [
+    -1.437458,
+    54.987629,
+    -1.437458,
+    54.987629
+],
   "geometry": {"coordinates":[-1.437458,54.987629],"type":"Point"}
 }

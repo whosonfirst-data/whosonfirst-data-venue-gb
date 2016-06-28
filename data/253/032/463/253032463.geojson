@@ -2,13 +2,14 @@
   "id": 253032463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.549089,53.800976,-1.549089,53.800976",
     "geom:latitude":53.800976,
     "geom:longitude":-1.549089,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Calverley Street",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":253032463,
-    "wof:lastmodified":1449064267,
+    "wof:lastmodified":1466258039,
     "wof:name":"Mid Yorkshire European Information Centre",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "information"
     ]
 },
-  "bbox": [-1.549089,53.800976,-1.549089,53.800976],
+  "bbox": [
+    -1.549089,
+    53.800976,
+    -1.549089,
+    53.800976
+],
   "geometry": {"coordinates":[-1.549089,53.800976],"type":"Point"}
 }

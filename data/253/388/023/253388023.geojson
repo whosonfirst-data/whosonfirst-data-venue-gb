@@ -2,13 +2,14 @@
   "id": 253388023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.21383,50.814861,-1.21383,50.814861",
     "geom:latitude":50.814861,
     "geom:longitude":-1.21383,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Nursery Workshop, Stubbington Lane",
     "sg:city":"Fareham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253388023,
-    "wof:lastmodified":1449062936,
+    "wof:lastmodified":1466265246,
     "wof:name":"Stubbington Trailers",
     "wof:parent_id":85787453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trailer"
     ]
 },
-  "bbox": [-1.21383,50.814861,-1.21383,50.814861],
+  "bbox": [
+    -1.21383,
+    50.814861,
+    -1.21383,
+    50.814861
+],
   "geometry": {"coordinates":[-1.21383,50.814861],"type":"Point"}
 }

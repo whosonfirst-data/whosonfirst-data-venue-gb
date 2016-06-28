@@ -2,13 +2,14 @@
   "id": 235976955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.31353,50.856369,-1.31353,50.856369",
     "geom:latitude":50.856369,
     "geom:longitude":-1.31353,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Ferry Hard, Hamble",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":235976955,
-    "wof:lastmodified":1449008395,
+    "wof:lastmodified":1466256003,
     "wof:name":"Hamble River Sailing Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.31353,50.856369,-1.31353,50.856369],
+  "bbox": [
+    -1.31353,
+    50.856369,
+    -1.31353,
+    50.856369
+],
   "geometry": {"coordinates":[-1.31353,50.856369],"type":"Point"}
 }

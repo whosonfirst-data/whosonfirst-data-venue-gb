@@ -2,13 +2,14 @@
   "id": 169725935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.34313,53.90361,-1.34313,53.90361",
     "geom:latitude":53.90361,
     "geom:longitude":-1.34313,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Spa Surgery, 205 High St",
     "sg:city":"Wetherby",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169725935,
-    "wof:lastmodified":1449033496,
+    "wof:lastmodified":1466253415,
     "wof:name":"McArdle, J M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-1.34313,53.90361,-1.34313,53.90361],
+  "bbox": [
+    -1.34313,
+    53.90361,
+    -1.34313,
+    53.90361
+],
   "geometry": {"coordinates":[-1.34313,53.90361],"type":"Point"}
 }

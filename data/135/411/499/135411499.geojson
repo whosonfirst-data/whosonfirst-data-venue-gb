@@ -2,13 +2,14 @@
   "id": 135411499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.0699,51.519379,-0.0699,51.519379",
     "geom:latitude":51.519379,
     "geom:longitude":-0.0699,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Links Yard, Spelman St",
     "sg:city":"Whitechapel",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135411499,
-    "wof:lastmodified":1449021123,
+    "wof:lastmodified":1466264014,
     "wof:name":"The Cottage",
     "wof:parent_id":85790545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.0699,51.519379,-0.0699,51.519379],
+  "bbox": [
+    -0.0699,
+    51.519379,
+    -0.0699,
+    51.519379
+],
   "geometry": {"coordinates":[-0.0699,51.519379],"type":"Point"}
 }

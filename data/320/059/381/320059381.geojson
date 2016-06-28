@@ -2,13 +2,14 @@
   "id": 320059381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.976015,55.941345,-3.976015,55.941345",
     "geom:latitude":55.941345,
     "geom:longitude":-3.976015,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Lenziemill Road, Cumbernauld",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320059381,
-    "wof:lastmodified":1449012281,
+    "wof:lastmodified":1466269849,
     "wof:name":"Sprite Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "engineer"
     ]
 },
-  "bbox": [-3.976015,55.941345,-3.976015,55.941345],
+  "bbox": [
+    -3.976015,
+    55.941345,
+    -3.976015,
+    55.941345
+],
   "geometry": {"coordinates":[-3.976015,55.941345],"type":"Point"}
 }

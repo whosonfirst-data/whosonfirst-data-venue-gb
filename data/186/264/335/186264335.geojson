@@ -2,13 +2,14 @@
   "id": 186264335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.406522,55.913246,-4.406522,55.913246",
     "geom:latitude":55.913246,
     "geom:longitude":-4.406522,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Young Street",
     "sg:city":"Clydebank",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186264335,
-    "wof:lastmodified":1449052117,
+    "wof:lastmodified":1466255603,
     "wof:name":"Young Street Sheltered Housing",
     "wof:parent_id":85786955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "accommodation"
     ]
 },
-  "bbox": [-4.406522,55.913246,-4.406522,55.913246],
+  "bbox": [
+    -4.406522,
+    55.913246,
+    -4.406522,
+    55.913246
+],
   "geometry": {"coordinates":[-4.406522,55.913246],"type":"Point"}
 }

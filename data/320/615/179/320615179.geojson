@@ -2,13 +2,14 @@
   "id": 320615179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.080162,51.887688,-2.080162,51.887688",
     "geom:latitude":51.887688,
     "geom:longitude":-2.080162,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Bath Road",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":320615179,
-    "wof:lastmodified":1449012454,
+    "wof:lastmodified":1466283007,
     "wof:name":"Well Heck",
     "wof:parent_id":85793223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-2.080162,51.887688,-2.080162,51.887688],
+  "bbox": [
+    -2.080162,
+    51.887688,
+    -2.080162,
+    51.887688
+],
   "geometry": {"coordinates":[-2.080162,51.887688],"type":"Point"}
 }

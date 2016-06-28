@@ -2,13 +2,14 @@
   "id": 119357053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.739526,50.728344,-1.739526,50.728344",
     "geom:latitude":50.728344,
     "geom:longitude":-1.739526,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Falcon Drive",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119357053,
-    "wof:lastmodified":1449043208,
+    "wof:lastmodified":1466283199,
     "wof:name":"Garbo",
     "wof:parent_id":85790471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.739526,50.728344,-1.739526,50.728344],
+  "bbox": [
+    -1.739526,
+    50.728344,
+    -1.739526,
+    50.728344
+],
   "geometry": {"coordinates":[-1.739526,50.728344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135535247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.097289,55.832146,-4.097289,55.832146",
     "geom:latitude":55.832146,
     "geom:longitude":-4.097289,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Dunvagan Place",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135535247,
-    "wof:lastmodified":1449021522,
+    "wof:lastmodified":1466278560,
     "wof:name":"Wylmac Garage",
     "wof:parent_id":85792557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.097289,55.832146,-4.097289,55.832146],
+  "bbox": [
+    -4.097289,
+    55.832146,
+    -4.097289,
+    55.832146
+],
   "geometry": {"coordinates":[-4.097289,55.832146],"type":"Point"}
 }

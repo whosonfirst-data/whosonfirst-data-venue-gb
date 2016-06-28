@@ -2,13 +2,14 @@
   "id": 270051549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.14785,50.369663,-4.14785,50.369663",
     "geom:latitude":50.369663,
     "geom:longitude":-4.14785,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Union St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270051549,
-    "wof:lastmodified":1449010154,
+    "wof:lastmodified":1466262014,
     "wof:name":"Ocean",
     "wof:parent_id":85790965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-4.14785,50.369663,-4.14785,50.369663],
+  "bbox": [
+    -4.14785,
+    50.369663,
+    -4.14785,
+    50.369663
+],
   "geometry": {"coordinates":[-4.14785,50.369663],"type":"Point"}
 }

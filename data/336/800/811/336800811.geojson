@@ -2,13 +2,14 @@
   "id": 336800811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.15666,52.947857,-1.15666,52.947857",
     "geom:latitude":52.947857,
     "geom:longitude":-1.15666,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Castle Boulevard",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336800811,
-    "wof:lastmodified":1448997014,
+    "wof:lastmodified":1466278900,
     "wof:name":"The Boulevard Service Station",
     "wof:parent_id":85793185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "petrol"
     ]
 },
-  "bbox": [-1.15666,52.947857,-1.15666,52.947857],
+  "bbox": [
+    -1.15666,
+    52.947857,
+    -1.15666,
+    52.947857
+],
   "geometry": {"coordinates":[-1.15666,52.947857],"type":"Point"}
 }

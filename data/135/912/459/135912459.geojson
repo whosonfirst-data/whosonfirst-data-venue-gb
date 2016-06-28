@@ -2,13 +2,14 @@
   "id": 135912459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.077096,50.799351,-1.077096,50.799351",
     "geom:latitude":50.799351,
     "geom:longitude":-1.077096,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Garnier Street",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135912459,
-    "wof:lastmodified":1449022510,
+    "wof:lastmodified":1466288169,
     "wof:name":"Premier Pine",
     "wof:parent_id":85861255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.077096,50.799351,-1.077096,50.799351],
+  "bbox": [
+    -1.077096,
+    50.799351,
+    -1.077096,
+    50.799351
+],
   "geometry": {"coordinates":[-1.077096,50.799351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118725959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.199805,55.973988,-4.199805,55.973988",
     "geom:latitude":55.973988,
     "geom:longitude":-4.199805,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"School Lane, Lennoxtown",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118725959,
-    "wof:lastmodified":1449053488,
+    "wof:lastmodified":1466267307,
     "wof:name":"Lennoxtown Primary School",
     "wof:parent_id":101872515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.199805,55.973988,-4.199805,55.973988],
+  "bbox": [
+    -4.199805,
+    55.973988,
+    -4.199805,
+    55.973988
+],
   "geometry": {"coordinates":[-4.199805,55.973988],"type":"Point"}
 }

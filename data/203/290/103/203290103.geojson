@@ -2,13 +2,14 @@
   "id": 203290103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.233365,51.759319,-1.233365,51.759319",
     "geom:latitude":51.759319,
     "geom:longitude":-1.233365,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 William St, Off Marston Rd, New Marston",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203290103,
-    "wof:lastmodified":1449025741,
+    "wof:lastmodified":1466257670,
     "wof:name":"The Alexander Technique",
     "wof:parent_id":85789597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "speech"
     ]
 },
-  "bbox": [-1.233365,51.759319,-1.233365,51.759319],
+  "bbox": [
+    -1.233365,
+    51.759319,
+    -1.233365,
+    51.759319
+],
   "geometry": {"coordinates":[-1.233365,51.759319],"type":"Point"}
 }

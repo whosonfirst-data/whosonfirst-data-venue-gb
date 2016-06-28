@@ -2,13 +2,14 @@
   "id": 135356755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.630157,55.467758,-4.630157,55.467758",
     "geom:latitude":55.467758,
     "geom:longitude":-4.630157,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Main Street",
     "sg:city":"Ayr",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135356755,
-    "wof:lastmodified":1449023489,
+    "wof:lastmodified":1466257977,
     "wof:name":"Geordie's Byre",
     "wof:parent_id":101873467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.630157,55.467758,-4.630157,55.467758],
+  "bbox": [
+    -4.630157,
+    55.467758,
+    -4.630157,
+    55.467758
+],
   "geometry": {"coordinates":[-4.630157,55.467758],"type":"Point"}
 }

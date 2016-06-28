@@ -2,13 +2,14 @@
   "id": 320811217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.351434,53.447701,-2.351434,53.447701",
     "geom:latitude":53.447701,
     "geom:longitude":-2.351434,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 8, Victoria Parade, Urmston",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320811217,
-    "wof:lastmodified":1449013061,
+    "wof:lastmodified":1466285000,
     "wof:name":"Arthur Roye Ltd",
     "wof:parent_id":85793237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookmaker"
     ]
 },
-  "bbox": [-2.351434,53.447701,-2.351434,53.447701],
+  "bbox": [
+    -2.351434,
+    53.447701,
+    -2.351434,
+    53.447701
+],
   "geometry": {"coordinates":[-2.351434,53.447701],"type":"Point"}
 }

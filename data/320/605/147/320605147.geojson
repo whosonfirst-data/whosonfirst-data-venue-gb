@@ -2,13 +2,14 @@
   "id": 320605147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.50311,52.424671,-1.50311,52.424671",
     "geom:latitude":52.424671,
     "geom:longitude":-1.50311,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Enterprise House, Foleshill Enterprise Park, Courtaulds Way",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320605147,
-    "wof:lastmodified":1449013081,
+    "wof:lastmodified":1466283045,
     "wof:name":"Cathode",
     "wof:parent_id":85792035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "design"
     ]
 },
-  "bbox": [-1.50311,52.424671,-1.50311,52.424671],
+  "bbox": [
+    -1.50311,
+    52.424671,
+    -1.50311,
+    52.424671
+],
   "geometry": {"coordinates":[-1.50311,52.424671],"type":"Point"}
 }

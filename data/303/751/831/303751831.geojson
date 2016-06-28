@@ -2,13 +2,14 @@
   "id": 303751831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.55521,53.810005,-1.55521,53.810005",
     "geom:latitude":53.810005,
     "geom:longitude":-1.55521,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"188a Woodhouse Lane",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303751831,
-    "wof:lastmodified":1448998257,
+    "wof:lastmodified":1466282433,
     "wof:name":"Age Concern Leeds",
     "wof:parent_id":85792925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.55521,53.810005,-1.55521,53.810005],
+  "bbox": [
+    -1.55521,
+    53.810005,
+    -1.55521,
+    53.810005
+],
   "geometry": {"coordinates":[-1.55521,53.810005],"type":"Point"}
 }

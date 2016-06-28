@@ -2,13 +2,14 @@
   "id": 219599185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.364606,55.841228,-4.364606,55.841228",
     "geom:latitude":55.841228,
     "geom:longitude":-4.364606,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Crookston Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":219599185,
-    "wof:lastmodified":1449072032,
+    "wof:lastmodified":1466260428,
     "wof:name":"Crookston Hotel",
     "wof:parent_id":85792479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.364606,55.841228,-4.364606,55.841228],
+  "bbox": [
+    -4.364606,
+    55.841228,
+    -4.364606,
+    55.841228
+],
   "geometry": {"coordinates":[-4.364606,55.841228],"type":"Point"}
 }

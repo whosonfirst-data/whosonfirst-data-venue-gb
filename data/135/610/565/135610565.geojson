@@ -2,13 +2,14 @@
   "id": 135610565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.157175,53.595379,-2.157175,53.595379",
     "geom:latitude":53.595379,
     "geom:longitude":-2.157175,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 The Strand",
     "sg:city":"Rochdale",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135610565,
-    "wof:lastmodified":1449023938,
+    "wof:lastmodified":1466282939,
     "wof:name":"Strand Private Hire",
     "wof:parent_id":85793073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.157175,53.595379,-2.157175,53.595379],
+  "bbox": [
+    -2.157175,
+    53.595379,
+    -2.157175,
+    53.595379
+],
   "geometry": {"coordinates":[-2.157175,53.595379],"type":"Point"}
 }

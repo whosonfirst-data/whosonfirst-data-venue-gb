@@ -2,13 +2,14 @@
   "id": 119063355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.370204,50.203903,-5.370204,50.203903",
     "geom:latitude":50.203903,
     "geom:longitude":-5.370204,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hope Farm, Gwithian Rd, Connor Downs",
     "sg:city":"Hayle",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119063355,
-    "wof:lastmodified":1449041082,
+    "wof:lastmodified":1466254670,
     "wof:name":"ComputaService",
     "wof:parent_id":85684547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.370204,50.203903,-5.370204,50.203903],
+  "bbox": [
+    -5.370204,
+    50.203903,
+    -5.370204,
+    50.203903
+],
   "geometry": {"coordinates":[-5.370204,50.203903],"type":"Point"}
 }

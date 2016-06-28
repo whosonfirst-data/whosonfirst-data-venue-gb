@@ -2,13 +2,14 @@
   "id": 220084169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.222509,51.512005,-3.222509,51.512005",
     "geom:latitude":51.512005,
     "geom:longitude":-3.222509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Churchgate House Church Road, Whitchurch",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220084169,
-    "wof:lastmodified":1449074117,
+    "wof:lastmodified":1466254405,
     "wof:name":"Datum Precision Ltd",
     "wof:parent_id":85785717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "engineer"
     ]
 },
-  "bbox": [-3.222509,51.512005,-3.222509,51.512005],
+  "bbox": [
+    -3.222509,
+    51.512005,
+    -3.222509,
+    51.512005
+],
   "geometry": {"coordinates":[-3.222509,51.512005],"type":"Point"}
 }

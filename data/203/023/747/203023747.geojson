@@ -2,13 +2,14 @@
   "id": 203023747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.214154,55.917809,-4.214154,55.917809",
     "geom:latitude":55.917809,
     "geom:longitude":-4.214154,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirkintilloch Road, Bishopsbriggs",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":203023747,
-    "wof:lastmodified":1449026681,
+    "wof:lastmodified":1466253044,
     "wof:name":"Tarmac Building",
     "wof:parent_id":85786143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-4.214154,55.917809,-4.214154,55.917809],
+  "bbox": [
+    -4.214154,
+    55.917809,
+    -4.214154,
+    55.917809
+],
   "geometry": {"coordinates":[-4.214154,55.917809],"type":"Point"}
 }

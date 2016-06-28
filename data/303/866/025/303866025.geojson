@@ -2,13 +2,14 @@
   "id": 303866025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.73245,52.704189,-2.73245,52.704189",
     "geom:latitude":52.704189,
     "geom:longitude":-2.73245,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 27 Shires Business Park, Abbey Foregate",
     "sg:city":"Shrewsbury",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303866025,
-    "wof:lastmodified":1448999284,
+    "wof:lastmodified":1466283915,
     "wof:name":"Comet Cars",
     "wof:parent_id":85792747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-2.73245,52.704189,-2.73245,52.704189],
+  "bbox": [
+    -2.73245,
+    52.704189,
+    -2.73245,
+    52.704189
+],
   "geometry": {"coordinates":[-2.73245,52.704189],"type":"Point"}
 }

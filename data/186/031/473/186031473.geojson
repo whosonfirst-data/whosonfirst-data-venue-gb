@@ -2,13 +2,14 @@
   "id": 186031473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.15151,56.117493,-3.15151,56.117493",
     "geom:latitude":56.117493,
     "geom:longitude":-3.15151,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"469 High Street",
     "sg:city":"Kirkcaldy",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186031473,
-    "wof:lastmodified":1449051376,
+    "wof:lastmodified":1466276792,
     "wof:name":"The Fyfe Brewing Co.",
     "wof:parent_id":85789747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brewer"
     ]
 },
-  "bbox": [-3.15151,56.117493,-3.15151,56.117493],
+  "bbox": [
+    -3.15151,
+    56.117493,
+    -3.15151,
+    56.117493
+],
   "geometry": {"coordinates":[-3.15151,56.117493],"type":"Point"}
 }

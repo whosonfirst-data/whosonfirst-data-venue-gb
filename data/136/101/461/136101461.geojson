@@ -2,13 +2,14 @@
   "id": 136101461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.24182,51.512619,-1.24182,51.512619",
     "geom:latitude":51.512619,
     "geom:longitude":-1.24182,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Church Farm, Aldworth Rd",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136101461,
-    "wof:lastmodified":1449075614,
+    "wof:lastmodified":1466255686,
     "wof:name":"M T Stone",
     "wof:parent_id":85684137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.24182,51.512619,-1.24182,51.512619],
+  "bbox": [
+    -1.24182,
+    51.512619,
+    -1.24182,
+    51.512619
+],
   "geometry": {"coordinates":[-1.24182,51.512619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135477593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.140843,60.15316,-1.140843,60.15316",
     "geom:latitude":60.15316,
     "geom:longitude":-1.140843,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Commercial Street",
     "sg:city":"Lerwick",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135477593,
-    "wof:lastmodified":1449021492,
+    "wof:lastmodified":1466271980,
     "wof:name":"Faerdie-Maet",
     "wof:parent_id":85683653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.140843,60.15316,-1.140843,60.15316],
+  "bbox": [
+    -1.140843,
+    60.15316,
+    -1.140843,
+    60.15316
+],
   "geometry": {"coordinates":[-1.140843,60.15316],"type":"Point"}
 }

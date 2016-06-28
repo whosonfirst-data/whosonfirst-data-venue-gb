@@ -2,13 +2,14 @@
   "id": 336841237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.892004,52.577679,-1.892004,52.577679",
     "geom:latitude":52.577679,
     "geom:longitude":-1.892004,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Blackwood Health Centre, Blackwood Road",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336841237,
-    "wof:lastmodified":1448997173,
+    "wof:lastmodified":1466279172,
     "wof:name":"Walsall Community Health Trust",
     "wof:parent_id":85787497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nh"
     ]
 },
-  "bbox": [-1.892004,52.577679,-1.892004,52.577679],
+  "bbox": [
+    -1.892004,
+    52.577679,
+    -1.892004,
+    52.577679
+],
   "geometry": {"coordinates":[-1.892004,52.577679],"type":"Point"}
 }

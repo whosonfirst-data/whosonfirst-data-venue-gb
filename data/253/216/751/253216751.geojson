@@ -2,13 +2,14 @@
   "id": 253216751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.79521,52.448666,-1.79521,52.448666",
     "geom:latitude":52.448666,
     "geom:longitude":-1.79521,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Lyndon Road, Olton",
     "sg:city":"Solihull",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253216751,
-    "wof:lastmodified":1449065439,
+    "wof:lastmodified":1466261586,
     "wof:name":"Lyndon Electrical",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-1.79521,52.448666,-1.79521,52.448666],
+  "bbox": [
+    -1.79521,
+    52.448666,
+    -1.79521,
+    52.448666
+],
   "geometry": {"coordinates":[-1.79521,52.448666],"type":"Point"}
 }

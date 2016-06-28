@@ -2,13 +2,14 @@
   "id": 320703547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.075907,54.00573,-1.075907,54.00573",
     "geom:latitude":54.00573,
     "geom:longitude":-1.075907,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Eastfield Avenue, Haxby",
     "sg:city":"York",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320703547,
-    "wof:lastmodified":1449012397,
+    "wof:lastmodified":1466283934,
     "wof:name":"Haxby Roofline & Windows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "glazing"
     ]
 },
-  "bbox": [-1.075907,54.00573,-1.075907,54.00573],
+  "bbox": [
+    -1.075907,
+    54.00573,
+    -1.075907,
+    54.00573
+],
   "geometry": {"coordinates":[-1.075907,54.00573],"type":"Point"}
 }

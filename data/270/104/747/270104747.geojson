@@ -2,13 +2,14 @@
   "id": 270104747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.499259,52.413376,-1.499259,52.413376",
     "geom:latitude":52.413376,
     "geom:longitude":-1.499259,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"88-89 King William Street",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270104747,
-    "wof:lastmodified":1449009651,
+    "wof:lastmodified":1466263638,
     "wof:name":"Leslie Bonham Chemists",
     "wof:parent_id":85789723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chemist"
     ]
 },
-  "bbox": [-1.499259,52.413376,-1.499259,52.413376],
+  "bbox": [
+    -1.499259,
+    52.413376,
+    -1.499259,
+    52.413376
+],
   "geometry": {"coordinates":[-1.499259,52.413376],"type":"Point"}
 }

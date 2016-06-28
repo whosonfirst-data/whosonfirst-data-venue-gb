@@ -2,13 +2,14 @@
   "id": 135504807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.432693,54.873116,-1.432693,54.873116",
     "geom:latitude":54.873116,
     "geom:longitude":-1.432693,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Avonmouth Rd",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135504807,
-    "wof:lastmodified":1449021498,
+    "wof:lastmodified":1466275057,
     "wof:name":"S G S",
     "wof:parent_id":85787173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.432693,54.873116,-1.432693,54.873116],
+  "bbox": [
+    -1.432693,
+    54.873116,
+    -1.432693,
+    54.873116
+],
   "geometry": {"coordinates":[-1.432693,54.873116],"type":"Point"}
 }

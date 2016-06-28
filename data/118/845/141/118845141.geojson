@@ -2,13 +2,14 @@
   "id": 118845141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.981468,55.940109,-3.981468,55.940109",
     "geom:latitude":55.940109,
     "geom:longitude":-3.981468,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Kelvin Road North, Lenzie Mill",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118845141,
-    "wof:lastmodified":1449053371,
+    "wof:lastmodified":1466276072,
     "wof:name":"Audio Visual Presentations",
     "wof:parent_id":101750633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.981468,55.940109,-3.981468,55.940109],
+  "bbox": [
+    -3.981468,
+    55.940109,
+    -3.981468,
+    55.940109
+],
   "geometry": {"coordinates":[-3.981468,55.940109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303645103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.395345,50.976707,-1.395345,50.976707",
     "geom:latitude":50.976707,
     "geom:longitude":-1.395345,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"York House, School Lane, Chandlers Ford",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303645103,
-    "wof:lastmodified":1448998368,
+    "wof:lastmodified":1466280871,
     "wof:name":"York Ltd.",
     "wof:parent_id":85792829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apparatus"
     ]
 },
-  "bbox": [-1.395345,50.976707,-1.395345,50.976707],
+  "bbox": [
+    -1.395345,
+    50.976707,
+    -1.395345,
+    50.976707
+],
   "geometry": {"coordinates":[-1.395345,50.976707],"type":"Point"}
 }

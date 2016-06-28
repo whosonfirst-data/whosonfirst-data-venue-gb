@@ -2,13 +2,14 @@
   "id": 203000549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.520877,51.541851,-0.520877,51.541851",
     "geom:latitude":51.541851,
     "geom:longitude":-0.520877,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 St. Davids Close",
     "sg:city":"Iver",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203000549,
-    "wof:lastmodified":1449025238,
+    "wof:lastmodified":1466278128,
     "wof:name":"Hairloom",
     "wof:parent_id":85789325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-0.520877,51.541851,-0.520877,51.541851],
+  "bbox": [
+    -0.520877,
+    51.541851,
+    -0.520877,
+    51.541851
+],
   "geometry": {"coordinates":[-0.520877,51.541851],"type":"Point"}
 }

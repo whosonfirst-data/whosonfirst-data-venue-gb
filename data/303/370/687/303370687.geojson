@@ -2,13 +2,14 @@
   "id": 303370687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.152253,52.972733,-1.152253,52.972733",
     "geom:latitude":52.972733,
     "geom:longitude":-1.152253,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"361a Mansfield Road",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303370687,
-    "wof:lastmodified":1448999453,
+    "wof:lastmodified":1466273922,
     "wof:name":"The Flower Gallery",
     "wof:parent_id":85786295,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.152253,52.972733,-1.152253,52.972733],
+  "bbox": [
+    -1.152253,
+    52.972733,
+    -1.152253,
+    52.972733
+],
   "geometry": {"coordinates":[-1.152253,52.972733],"type":"Point"}
 }

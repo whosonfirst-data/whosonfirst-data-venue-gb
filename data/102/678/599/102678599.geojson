@@ -2,13 +2,14 @@
   "id": 102678599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.860849,55.804741,-4.860849,55.804741",
     "geom:latitude":55.804741,
     "geom:longitude":-4.860849,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Windsor Gdn(s)",
     "sg:city":"Largs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102678599,
-    "wof:lastmodified":1449068927,
+    "wof:lastmodified":1466255591,
     "wof:name":"William Meech",
     "wof:parent_id":101872483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.860849,55.804741,-4.860849,55.804741],
+  "bbox": [
+    -4.860849,
+    55.804741,
+    -4.860849,
+    55.804741
+],
   "geometry": {"coordinates":[-4.860849,55.804741],"type":"Point"}
 }

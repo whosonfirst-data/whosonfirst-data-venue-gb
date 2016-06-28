@@ -2,13 +2,14 @@
   "id": 202390907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.483049,53.375999,-1.483049,53.375999",
     "geom:latitude":53.375999,
     "geom:longitude":-1.483049,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Broomhall Street",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202390907,
-    "wof:lastmodified":1449062682,
+    "wof:lastmodified":1466277429,
     "wof:name":"Winchester Garage",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.483049,53.375999,-1.483049,53.375999],
+  "bbox": [
+    -1.483049,
+    53.375999,
+    -1.483049,
+    53.375999
+],
   "geometry": {"coordinates":[-1.483049,53.375999],"type":"Point"}
 }

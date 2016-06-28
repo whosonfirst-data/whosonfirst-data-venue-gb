@@ -2,13 +2,14 @@
   "id": 119305129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.826053,52.019321,-4.826053,52.019321",
     "geom:latitude":52.019321,
     "geom:longitude":-4.826053,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Grove Park, Pen-y-bont",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119305129,
-    "wof:lastmodified":1449041229,
+    "wof:lastmodified":1466280059,
     "wof:name":"Grove Park Guest House",
     "wof:parent_id":85683613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.826053,52.019321,-4.826053,52.019321],
+  "bbox": [
+    -4.826053,
+    52.019321,
+    -4.826053,
+    52.019321
+],
   "geometry": {"coordinates":[-4.826053,52.019321],"type":"Point"}
 }

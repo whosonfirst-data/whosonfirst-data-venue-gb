@@ -2,13 +2,14 @@
   "id": 186297845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.003628,51.127552,-3.003628,51.127552",
     "geom:latitude":51.127552,
     "geom:longitude":-3.003628,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 St. Mary St",
     "sg:city":"Bridgwater",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186297845,
-    "wof:lastmodified":1449052081,
+    "wof:lastmodified":1466256071,
     "wof:name":"Alpha Cabs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cab"
     ]
 },
-  "bbox": [-3.003628,51.127552,-3.003628,51.127552],
+  "bbox": [
+    -3.003628,
+    51.127552,
+    -3.003628,
+    51.127552
+],
   "geometry": {"coordinates":[-3.003628,51.127552],"type":"Point"}
 }

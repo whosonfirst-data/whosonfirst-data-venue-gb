@@ -2,13 +2,14 @@
   "id": 303401373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.17368,51.484573,-3.17368,51.484573",
     "geom:latitude":51.484573,
     "geom:longitude":-3.17368,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Windsor Place",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303401373,
-    "wof:lastmodified":1449000199,
+    "wof:lastmodified":1466274933,
     "wof:name":"Dolmans",
     "wof:parent_id":85792749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-3.17368,51.484573,-3.17368,51.484573],
+  "bbox": [
+    -3.17368,
+    51.484573,
+    -3.17368,
+    51.484573
+],
   "geometry": {"coordinates":[-3.17368,51.484573],"type":"Point"}
 }

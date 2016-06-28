@@ -2,13 +2,14 @@
   "id": 303418021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.210366,55.933102,-3.210366,55.933102",
     "geom:latitude":55.933102,
     "geom:longitude":-3.210366,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Morningside Rd",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303418021,
-    "wof:lastmodified":1449000036,
+    "wof:lastmodified":1466275364,
     "wof:name":"Persian Village",
     "wof:parent_id":85861531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "matting"
     ]
 },
-  "bbox": [-3.210366,55.933102,-3.210366,55.933102],
+  "bbox": [
+    -3.210366,
+    55.933102,
+    -3.210366,
+    55.933102
+],
   "geometry": {"coordinates":[-3.210366,55.933102],"type":"Point"}
 }

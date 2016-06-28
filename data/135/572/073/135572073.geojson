@@ -2,13 +2,14 @@
   "id": 135572073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.074197,50.355766,-4.074197,50.355766",
     "geom:latitude":50.355766,
     "geom:longitude":-4.074197,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Charnhill Close, Albert",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135572073,
-    "wof:lastmodified":1449022878,
+    "wof:lastmodified":1466280884,
     "wof:name":"Mike & Sandra Ashford",
     "wof:parent_id":85787269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.074197,50.355766,-4.074197,50.355766],
+  "bbox": [
+    -4.074197,
+    50.355766,
+    -4.074197,
+    50.355766
+],
   "geometry": {"coordinates":[-4.074197,50.355766],"type":"Point"}
 }

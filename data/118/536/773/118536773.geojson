@@ -2,13 +2,14 @@
   "id": 118536773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.496136,53.989086,-1.496136,53.989086",
     "geom:latitude":53.989086,
     "geom:longitude":-1.496136,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Plompton Drive",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118536773,
-    "wof:lastmodified":1449053992,
+    "wof:lastmodified":1466252909,
     "wof:name":"D.F Smith",
     "wof:parent_id":85790715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.496136,53.989086,-1.496136,53.989086],
+  "bbox": [
+    -1.496136,
+    53.989086,
+    -1.496136,
+    53.989086
+],
   "geometry": {"coordinates":[-1.496136,53.989086],"type":"Point"}
 }

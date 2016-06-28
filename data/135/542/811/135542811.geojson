@@ -2,13 +2,14 @@
   "id": 135542811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.501394,51.115238,-1.501394,51.115238",
     "geom:latitude":51.115238,
     "geom:longitude":-1.501394,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Clarendon House, High Street",
     "sg:city":"Stockbridge",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135542811,
-    "wof:lastmodified":1449023355,
+    "wof:lastmodified":1466279168,
     "wof:name":"Nibex",
     "wof:parent_id":85684375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.501394,51.115238,-1.501394,51.115238],
+  "bbox": [
+    -1.501394,
+    51.115238,
+    -1.501394,
+    51.115238
+],
   "geometry": {"coordinates":[-1.501394,51.115238],"type":"Point"}
 }

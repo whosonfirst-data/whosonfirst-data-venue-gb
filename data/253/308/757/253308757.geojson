@@ -2,13 +2,14 @@
   "id": 253308757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.51621,53.79229,-1.51621,53.79229",
     "geom:latitude":53.79229,
     "geom:longitude":-1.51621,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Samson Works, Clark View",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":253308757,
-    "wof:lastmodified":1449065875,
+    "wof:lastmodified":1466263435,
     "wof:name":"Dowson Brothers",
     "wof:parent_id":85786891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [-1.51621,53.79229,-1.51621,53.79229],
+  "bbox": [
+    -1.51621,
+    53.79229,
+    -1.51621,
+    53.79229
+],
   "geometry": {"coordinates":[-1.51621,53.79229],"type":"Point"}
 }

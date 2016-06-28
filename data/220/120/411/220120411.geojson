@@ -2,13 +2,14 @@
   "id": 220120411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.065688,51.387684,0.065688,51.387684",
     "geom:latitude":51.387684,
     "geom:longitude":0.065688,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Langley Gardens",
     "sg:city":"Orpington",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":220120411,
-    "wof:lastmodified":1449074757,
+    "wof:lastmodified":1466255088,
     "wof:name":"Central Radio Phone",
     "wof:parent_id":85792371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.065688,51.387684,0.065688,51.387684],
+  "bbox": [
+    0.065688,
+    51.387684,
+    0.065688,
+    51.387684
+],
   "geometry": {"coordinates":[0.065688,51.387684],"type":"Point"}
 }

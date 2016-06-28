@@ -2,13 +2,14 @@
   "id": 320091863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.828656,51.713631,-3.828656,51.713631",
     "geom:latitude":51.713631,
     "geom:longitude":-3.828656,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Delffordd, Rhos, Pontardawe",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320091863,
-    "wof:lastmodified":1449011609,
+    "wof:lastmodified":1466270880,
     "wof:name":"Rhos Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.828656,51.713631,-3.828656,51.713631],
+  "bbox": [
+    -3.828656,
+    51.713631,
+    -3.828656,
+    51.713631
+],
   "geometry": {"coordinates":[-3.828656,51.713631],"type":"Point"}
 }

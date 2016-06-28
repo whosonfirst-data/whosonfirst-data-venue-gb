@@ -2,13 +2,14 @@
   "id": 219248985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.351017,53.401268,-2.351017,53.401268",
     "geom:latitude":53.401268,
     "geom:longitude":-2.351017,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Churchhill Road, Broadheath",
     "sg:city":"Altrincham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219248985,
-    "wof:lastmodified":1449072314,
+    "wof:lastmodified":1466254362,
     "wof:name":"Park Paving & Fencing",
     "wof:parent_id":85791535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "driveway"
     ]
 },
-  "bbox": [-2.351017,53.401268,-2.351017,53.401268],
+  "bbox": [
+    -2.351017,
+    53.401268,
+    -2.351017,
+    53.401268
+],
   "geometry": {"coordinates":[-2.351017,53.401268],"type":"Point"}
 }

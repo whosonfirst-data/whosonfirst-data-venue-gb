@@ -2,13 +2,14 @@
   "id": 135430739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.585387,51.657749,-1.585387,51.657749",
     "geom:latitude":51.657749,
     "geom:longitude":-1.585387,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10a Marlborough Street",
     "sg:city":"Faringdon",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":135430739,
-    "wof:lastmodified":1449022932,
+    "wof:lastmodified":1466266374,
     "wof:name":"Parkers Pine Ltd",
     "wof:parent_id":101852939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.585387,51.657749,-1.585387,51.657749],
+  "bbox": [
+    -1.585387,
+    51.657749,
+    -1.585387,
+    51.657749
+],
   "geometry": {"coordinates":[-1.585387,51.657749],"type":"Point"}
 }

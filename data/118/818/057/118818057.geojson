@@ -2,13 +2,14 @@
   "id": 118818057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.145851,53.509575,-1.145851,53.509575",
     "geom:latitude":53.509575,
     "geom:longitude":-1.145851,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"129a Balby Road",
     "sg:city":"Doncaster",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118818057,
-    "wof:lastmodified":1449053829,
+    "wof:lastmodified":1466274108,
     "wof:name":"Tony's Sandwich Bar",
     "wof:parent_id":85785449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.145851,53.509575,-1.145851,53.509575],
+  "bbox": [
+    -1.145851,
+    53.509575,
+    -1.145851,
+    53.509575
+],
   "geometry": {"coordinates":[-1.145851,53.509575],"type":"Point"}
 }

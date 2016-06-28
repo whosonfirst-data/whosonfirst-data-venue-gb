@@ -2,13 +2,14 @@
   "id": 119043537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.833009,53.813683,-1.833009,53.813683",
     "geom:latitude":53.813683,
     "geom:longitude":-1.833009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"459 Haworth Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119043537,
-    "wof:lastmodified":1449042852,
+    "wof:lastmodified":1466278042,
     "wof:name":"Village Stores",
     "wof:parent_id":85785275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.833009,53.813683,-1.833009,53.813683],
+  "bbox": [
+    -1.833009,
+    53.813683,
+    -1.833009,
+    53.813683
+],
   "geometry": {"coordinates":[-1.833009,53.813683],"type":"Point"}
 }

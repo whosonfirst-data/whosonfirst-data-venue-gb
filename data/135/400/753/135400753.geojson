@@ -2,13 +2,14 @@
   "id": 135400753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.93024,51.127369,-1.93024,51.127369",
     "geom:latitude":51.127369,
     "geom:longitude":-1.93024,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Hungerford Lodge, Little Langford",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135400753,
-    "wof:lastmodified":1449021290,
+    "wof:lastmodified":1466262757,
     "wof:name":"A B S Waterworks",
     "wof:parent_id":85683939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.93024,51.127369,-1.93024,51.127369],
+  "bbox": [
+    -1.93024,
+    51.127369,
+    -1.93024,
+    51.127369
+],
   "geometry": {"coordinates":[-1.93024,51.127369],"type":"Point"}
 }

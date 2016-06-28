@@ -2,13 +2,14 @@
   "id": 303302957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.049174,51.076172,-4.049174,51.076172",
     "geom:latitude":51.076172,
     "geom:longitude":-4.049174,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Clayfield Villas, Victoria Road",
     "sg:city":"Barnstaple",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":303302957,
-    "wof:lastmodified":1448998943,
+    "wof:lastmodified":1466271930,
     "wof:name":"Clayfield Residential Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-4.049174,51.076172,-4.049174,51.076172],
+  "bbox": [
+    -4.049174,
+    51.076172,
+    -4.049174,
+    51.076172
+],
   "geometry": {"coordinates":[-4.049174,51.076172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135505055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.232209,52.963432,-1.232209,52.963432",
     "geom:latitude":52.963432,
     "geom:longitude":-1.232209,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Bracebridge Drive",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135505055,
-    "wof:lastmodified":1449023516,
+    "wof:lastmodified":1466275085,
     "wof:name":"Greater Nottingham Co-Op",
     "wof:parent_id":85785691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.232209,52.963432,-1.232209,52.963432],
+  "bbox": [
+    -1.232209,
+    52.963432,
+    -1.232209,
+    52.963432
+],
   "geometry": {"coordinates":[-1.232209,52.963432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303376313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.443619,53.50425,-2.443619,53.50425",
     "geom:latitude":53.50425,
     "geom:longitude":-2.443619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 22/23, Astley Park Estate, Kennedy Road",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303376313,
-    "wof:lastmodified":1448998951,
+    "wof:lastmodified":1466274124,
     "wof:name":"Battery Contacts International",
     "wof:parent_id":85785389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supplier"
     ]
 },
-  "bbox": [-2.443619,53.50425,-2.443619,53.50425],
+  "bbox": [
+    -2.443619,
+    53.50425,
+    -2.443619,
+    53.50425
+],
   "geometry": {"coordinates":[-2.443619,53.50425],"type":"Point"}
 }

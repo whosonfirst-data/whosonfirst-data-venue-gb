@@ -2,13 +2,14 @@
   "id": 320364877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.112266,50.850655,-1.112266,50.850655",
     "geom:latitude":50.850655,
     "geom:longitude":-1.112266,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Pamela Avenue, Cosham",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320364877,
-    "wof:lastmodified":1449013358,
+    "wof:lastmodified":1466278763,
     "wof:name":"Spencer & Hinks",
     "wof:parent_id":85861951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.112266,50.850655,-1.112266,50.850655],
+  "bbox": [
+    -1.112266,
+    50.850655,
+    -1.112266,
+    50.850655
+],
   "geometry": {"coordinates":[-1.112266,50.850655],"type":"Point"}
 }

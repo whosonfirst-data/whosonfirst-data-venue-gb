@@ -2,13 +2,14 @@
   "id": 303288779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.209399,52.929379,-1.209399,52.929379",
     "geom:latitude":52.929379,
     "geom:longitude":-1.209399,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Humber Road",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303288779,
-    "wof:lastmodified":1448998378,
+    "wof:lastmodified":1466271520,
     "wof:name":"Humber Lodge",
     "wof:parent_id":85788737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-1.209399,52.929379,-1.209399,52.929379],
+  "bbox": [
+    -1.209399,
+    52.929379,
+    -1.209399,
+    52.929379
+],
   "geometry": {"coordinates":[-1.209399,52.929379],"type":"Point"}
 }

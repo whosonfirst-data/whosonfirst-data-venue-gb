@@ -2,13 +2,14 @@
   "id": 303339705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.29864,54.558067,-1.29864,54.558067",
     "geom:latitude":54.558067,
     "geom:longitude":-1.29864,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 27, Glasgow Street, Bonlea Industrial Estate",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303339705,
-    "wof:lastmodified":1448999212,
+    "wof:lastmodified":1466273028,
     "wof:name":"John T Metcalfe Ltd.",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-1.29864,54.558067,-1.29864,54.558067],
+  "bbox": [
+    -1.29864,
+    54.558067,
+    -1.29864,
+    54.558067
+],
   "geometry": {"coordinates":[-1.29864,54.558067],"type":"Point"}
 }

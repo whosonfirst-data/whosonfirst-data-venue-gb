@@ -2,13 +2,14 @@
   "id": 336686275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.223534,51.769238,-1.223534,51.769238",
     "geom:latitude":51.769238,
     "geom:longitude":-1.223534,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Westlands Drive, Headington",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336686275,
-    "wof:lastmodified":1448997764,
+    "wof:lastmodified":1466275367,
     "wof:name":"Northway Pharmacy",
     "wof:parent_id":85789597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "chemist"
     ]
 },
-  "bbox": [-1.223534,51.769238,-1.223534,51.769238],
+  "bbox": [
+    -1.223534,
+    51.769238,
+    -1.223534,
+    51.769238
+],
   "geometry": {"coordinates":[-1.223534,51.769238],"type":"Point"}
 }

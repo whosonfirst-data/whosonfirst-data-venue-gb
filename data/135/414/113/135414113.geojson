@@ -2,13 +2,14 @@
   "id": 135414113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.234758,52.189201,-2.234758,52.189201",
     "geom:latitude":52.189201,
     "geom:longitude":-2.234758,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Bromyard Terrace",
     "sg:city":"Worcester",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135414113,
-    "wof:lastmodified":1449022426,
+    "wof:lastmodified":1466264343,
     "wof:name":"Spice Cuisine",
     "wof:parent_id":85861063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.234758,52.189201,-2.234758,52.189201],
+  "bbox": [
+    -2.234758,
+    52.189201,
+    -2.234758,
+    52.189201
+],
   "geometry": {"coordinates":[-2.234758,52.189201],"type":"Point"}
 }

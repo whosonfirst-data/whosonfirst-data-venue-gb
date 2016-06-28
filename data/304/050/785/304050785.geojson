@@ -2,13 +2,14 @@
   "id": 304050785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.299014,52.878777,-1.299014,52.878777",
     "geom:latitude":52.878777,
     "geom:longitude":-1.299014,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"352 Tamworth Road, Long Eaton",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":304050785,
-    "wof:lastmodified":1449043925,
+    "wof:lastmodified":1466265780,
     "wof:name":"The White Lion",
     "wof:parent_id":85791095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.299014,52.878777,-1.299014,52.878777],
+  "bbox": [
+    -1.299014,
+    52.878777,
+    -1.299014,
+    52.878777
+],
   "geometry": {"coordinates":[-1.299014,52.878777],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252755873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.070175,51.897327,-2.070175,51.897327",
     "geom:latitude":51.897327,
     "geom:longitude":-2.070175,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 High St",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252755873,
-    "wof:lastmodified":1449005719,
+    "wof:lastmodified":1466257931,
     "wof:name":"Francis Bacon",
     "wof:parent_id":85785541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "artist"
     ]
 },
-  "bbox": [-2.070175,51.897327,-2.070175,51.897327],
+  "bbox": [
+    -2.070175,
+    51.897327,
+    -2.070175,
+    51.897327
+],
   "geometry": {"coordinates":[-2.070175,51.897327],"type":"Point"}
 }

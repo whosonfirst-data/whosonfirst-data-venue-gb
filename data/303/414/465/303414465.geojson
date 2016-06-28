@@ -2,13 +2,14 @@
   "id": 303414465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.583935,51.481873,-2.583935,51.481873",
     "geom:latitude":51.481873,
     "geom:longitude":-2.583935,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"88a Ashley Down Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303414465,
-    "wof:lastmodified":1448999260,
+    "wof:lastmodified":1466275266,
     "wof:name":"Quality Used Cars",
     "wof:parent_id":85785365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-2.583935,51.481873,-2.583935,51.481873],
+  "bbox": [
+    -2.583935,
+    51.481873,
+    -2.583935,
+    51.481873
+],
   "geometry": {"coordinates":[-2.583935,51.481873],"type":"Point"}
 }

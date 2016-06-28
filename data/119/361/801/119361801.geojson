@@ -2,13 +2,14 @@
   "id": 119361801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.091039,51.825275,-3.091039,51.825275",
     "geom:latitude":51.825275,
     "geom:longitude":-3.091039,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lion Terrace, Gilwern",
     "sg:city":"Abergavenny",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119361801,
-    "wof:lastmodified":1449042817,
+    "wof:lastmodified":1466283350,
     "wof:name":"The Lion Hotel",
     "wof:parent_id":101852895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.091039,51.825275,-3.091039,51.825275],
+  "bbox": [
+    -3.091039,
+    51.825275,
+    -3.091039,
+    51.825275
+],
   "geometry": {"coordinates":[-3.091039,51.825275],"type":"Point"}
 }

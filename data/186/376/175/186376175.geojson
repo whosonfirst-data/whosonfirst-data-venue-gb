@@ -2,13 +2,14 @@
   "id": 186376175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.192415,52.556263,-1.192415,52.556263",
     "geom:latitude":52.556263,
     "geom:longitude":-1.192415,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Brooklands Rd",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186376175,
-    "wof:lastmodified":1449051308,
+    "wof:lastmodified":1466257210,
     "wof:name":"P Riddington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engraving"
     ]
 },
-  "bbox": [-1.192415,52.556263,-1.192415,52.556263],
+  "bbox": [
+    -1.192415,
+    52.556263,
+    -1.192415,
+    52.556263
+],
   "geometry": {"coordinates":[-1.192415,52.556263],"type":"Point"}
 }

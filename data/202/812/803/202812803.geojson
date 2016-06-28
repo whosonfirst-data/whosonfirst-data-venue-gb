@@ -2,13 +2,14 @@
   "id": 202812803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.068428,51.904552,-2.068428,51.904552",
     "geom:latitude":51.904552,
     "geom:longitude":-2.068428,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Prestbury Road",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202812803,
-    "wof:lastmodified":1449060173,
+    "wof:lastmodified":1466259284,
     "wof:name":"Hair Systems",
     "wof:parent_id":85785541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.068428,51.904552,-2.068428,51.904552],
+  "bbox": [
+    -2.068428,
+    51.904552,
+    -2.068428,
+    51.904552
+],
   "geometry": {"coordinates":[-2.068428,51.904552],"type":"Point"}
 }

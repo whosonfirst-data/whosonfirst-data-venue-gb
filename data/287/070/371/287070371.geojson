@@ -2,13 +2,14 @@
   "id": 287070371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.180697,54.572227,-1.180697,54.572227",
     "geom:latitude":54.572227,
     "geom:longitude":-1.180697,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1-2 Wallis Road, Skippers Lane Industrial Estate",
     "sg:city":"Middlesbrough",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":287070371,
-    "wof:lastmodified":1449001085,
+    "wof:lastmodified":1466265112,
     "wof:name":"John Jasper",
     "wof:parent_id":85786257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.180697,54.572227,-1.180697,54.572227],
+  "bbox": [
+    -1.180697,
+    54.572227,
+    -1.180697,
+    54.572227
+],
   "geometry": {"coordinates":[-1.180697,54.572227],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119114103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.485073,52.410244,-1.485073,52.410244",
     "geom:latitude":52.410244,
     "geom:longitude":-1.485073,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Walsgrave Road, Ball Hill",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119114103,
-    "wof:lastmodified":1449041945,
+    "wof:lastmodified":1466260330,
     "wof:name":"The Old Ball Hotel",
     "wof:parent_id":85792035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.485073,52.410244,-1.485073,52.410244],
+  "bbox": [
+    -1.485073,
+    52.410244,
+    -1.485073,
+    52.410244
+],
   "geometry": {"coordinates":[-1.485073,52.410244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118495455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.005556,53.499519,-3.005556,53.499519",
     "geom:latitude":53.499519,
     "geom:longitude":-3.005556,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 The Crescent",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118495455,
-    "wof:lastmodified":1449053754,
+    "wof:lastmodified":1466257290,
     "wof:name":"Barrons Butchers",
     "wof:parent_id":85791019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.005556,53.499519,-3.005556,53.499519],
+  "bbox": [
+    -3.005556,
+    53.499519,
+    -3.005556,
+    53.499519
+],
   "geometry": {"coordinates":[-3.005556,53.499519],"type":"Point"}
 }

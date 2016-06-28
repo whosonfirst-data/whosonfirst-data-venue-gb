@@ -2,13 +2,14 @@
   "id": 286962479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.215531,51.507725,-0.215531,51.507725",
     "geom:latitude":51.507725,
     "geom:longitude":-0.215531,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Swanscombe Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286962479,
-    "wof:lastmodified":1449016921,
+    "wof:lastmodified":1466281430,
     "wof:name":"Swanscombe News",
     "wof:parent_id":85882211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-0.215531,51.507725,-0.215531,51.507725],
+  "bbox": [
+    -0.215531,
+    51.507725,
+    -0.215531,
+    51.507725
+],
   "geometry": {"coordinates":[-0.215531,51.507725],"type":"Point"}
 }

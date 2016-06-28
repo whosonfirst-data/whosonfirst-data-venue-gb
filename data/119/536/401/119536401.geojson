@@ -2,13 +2,14 @@
   "id": 119536401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.268116,52.760429,-3.268116,52.760429",
     "geom:latitude":52.760429,
     "geom:longitude":-3.268116,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Llwyn-teg",
     "sg:city":"Llanfyllin",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119536401,
-    "wof:lastmodified":1449042448,
+    "wof:lastmodified":1466287672,
     "wof:name":"Llanfyllin Area Resource",
     "wof:parent_id":85683965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.268116,52.760429,-3.268116,52.760429],
+  "bbox": [
+    -3.268116,
+    52.760429,
+    -3.268116,
+    52.760429
+],
   "geometry": {"coordinates":[-3.268116,52.760429],"type":"Point"}
 }

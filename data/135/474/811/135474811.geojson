@@ -2,13 +2,14 @@
   "id": 135474811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.267254,50.979218,-1.267254,50.979218",
     "geom:latitude":50.979218,
     "geom:longitude":-1.267254,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hollywell, Stroudwood",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135474811,
-    "wof:lastmodified":1449021106,
+    "wof:lastmodified":1466271681,
     "wof:name":"H Hill",
     "wof:parent_id":85684375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.267254,50.979218,-1.267254,50.979218],
+  "bbox": [
+    -1.267254,
+    50.979218,
+    -1.267254,
+    50.979218
+],
   "geometry": {"coordinates":[-1.267254,50.979218],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252808881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.559701,51.472057,-2.559701,51.472057",
     "geom:latitude":51.472057,
     "geom:longitude":-2.559701,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Fishponds Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":252808881,
-    "wof:lastmodified":1449005450,
+    "wof:lastmodified":1466259082,
     "wof:name":"Marchant",
     "wof:parent_id":85787211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "agent"
     ]
 },
-  "bbox": [-2.559701,51.472057,-2.559701,51.472057],
+  "bbox": [
+    -2.559701,
+    51.472057,
+    -2.559701,
+    51.472057
+],
   "geometry": {"coordinates":[-2.559701,51.472057],"type":"Point"}
 }

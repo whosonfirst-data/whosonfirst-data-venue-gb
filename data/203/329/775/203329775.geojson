@@ -2,13 +2,14 @@
   "id": 203329775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.147959,52.955151,-1.147959,52.955151",
     "geom:latitude":52.955151,
     "geom:longitude":-1.147959,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Nottingham House, 5-13 Upper Parliament Street",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203329775,
-    "wof:lastmodified":1449025435,
+    "wof:lastmodified":1466258343,
     "wof:name":"Nottingham Building Society",
     "wof:parent_id":85793185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "society"
     ]
 },
-  "bbox": [-1.147959,52.955151,-1.147959,52.955151],
+  "bbox": [
+    -1.147959,
+    52.955151,
+    -1.147959,
+    52.955151
+],
   "geometry": {"coordinates":[-1.147959,52.955151],"type":"Point"}
 }

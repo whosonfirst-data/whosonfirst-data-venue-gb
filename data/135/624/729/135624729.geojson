@@ -2,13 +2,14 @@
   "id": 135624729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.972736,51.349087,-2.972736,51.349087",
     "geom:latitude":51.349087,
     "geom:longitude":-2.972736,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Baker Street",
     "sg:city":"Weston-super-mare",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135624729,
-    "wof:lastmodified":1449023076,
+    "wof:lastmodified":1466283777,
     "wof:name":"Baker Street Launderette",
     "wof:parent_id":101751595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.972736,51.349087,-2.972736,51.349087],
+  "bbox": [
+    -2.972736,
+    51.349087,
+    -2.972736,
+    51.349087
+],
   "geometry": {"coordinates":[-2.972736,51.349087],"type":"Point"}
 }

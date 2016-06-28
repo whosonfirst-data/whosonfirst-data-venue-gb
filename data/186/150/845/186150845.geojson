@@ -2,13 +2,14 @@
   "id": 186150845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.27909,51.669647,-1.27909,51.669647",
     "geom:latitude":51.669647,
     "geom:longitude":-1.27909,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Thames Street",
     "sg:city":"Abingdon",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186150845,
-    "wof:lastmodified":1449050290,
+    "wof:lastmodified":1466253987,
     "wof:name":"Friends of Abingdon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.27909,51.669647,-1.27909,51.669647],
+  "bbox": [
+    -1.27909,
+    51.669647,
+    -1.27909,
+    51.669647
+],
   "geometry": {"coordinates":[-1.27909,51.669647],"type":"Point"}
 }

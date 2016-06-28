@@ -2,13 +2,14 @@
   "id": 135379625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.550258,53.741688,-1.550258,53.741688",
     "geom:latitude":53.741688,
     "geom:longitude":-1.550258,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Throstle Lane",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135379625,
-    "wof:lastmodified":1449022775,
+    "wof:lastmodified":1466260410,
     "wof:name":"G S Dobson",
     "wof:parent_id":85789085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.550258,53.741688,-1.550258,53.741688],
+  "bbox": [
+    -1.550258,
+    53.741688,
+    -1.550258,
+    53.741688
+],
   "geometry": {"coordinates":[-1.550258,53.741688],"type":"Point"}
 }

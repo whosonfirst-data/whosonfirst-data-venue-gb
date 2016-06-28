@@ -2,13 +2,14 @@
   "id": 270358793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.432719,50.921494,-1.432719,50.921494",
     "geom:latitude":50.921494,
     "geom:longitude":-1.432719,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26-28 Shirley High Street",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270358793,
-    "wof:lastmodified":1449009671,
+    "wof:lastmodified":1466271210,
     "wof:name":"Q S Shirley",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-1.432719,50.921494,-1.432719,50.921494],
+  "bbox": [
+    -1.432719,
+    50.921494,
+    -1.432719,
+    50.921494
+],
   "geometry": {"coordinates":[-1.432719,50.921494],"type":"Point"}
 }

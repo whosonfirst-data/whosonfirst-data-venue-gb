@@ -2,13 +2,14 @@
   "id": 319983935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.432981,50.921139,-1.432981,50.921139",
     "geom:latitude":50.921139,
     "geom:longitude":-1.432981,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Emsworth Road, Shirley",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":319983935,
-    "wof:lastmodified":1449024818,
+    "wof:lastmodified":1466272632,
     "wof:name":"The Shirley Bookshop",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "second-hand"
     ]
 },
-  "bbox": [-1.432981,50.921139,-1.432981,50.921139],
+  "bbox": [
+    -1.432981,
+    50.921139,
+    -1.432981,
+    50.921139
+],
   "geometry": {"coordinates":[-1.432981,50.921139],"type":"Point"}
 }

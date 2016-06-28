@@ -2,13 +2,14 @@
   "id": 118577723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.209554,55.94046,-3.209554,55.94046",
     "geom:latitude":55.94046,
     "geom:longitude":-3.209554,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Leamington Terrace",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118577723,
-    "wof:lastmodified":1449054597,
+    "wof:lastmodified":1466256043,
     "wof:name":"Scottish European Aid",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.209554,55.94046,-3.209554,55.94046],
+  "bbox": [
+    -3.209554,
+    55.94046,
+    -3.209554,
+    55.94046
+],
   "geometry": {"coordinates":[-3.209554,55.94046],"type":"Point"}
 }

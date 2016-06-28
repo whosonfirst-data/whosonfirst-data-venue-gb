@@ -2,13 +2,14 @@
   "id": 135462121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.212402,53.043015,-1.212402,53.043015",
     "geom:latitude":53.043015,
     "geom:longitude":-1.212402,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"86-88 Annesley Rd",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135462121,
-    "wof:lastmodified":1449023884,
+    "wof:lastmodified":1466270163,
     "wof:name":"Newbeau Home Improvements",
     "wof:parent_id":101871933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.212402,53.043015,-1.212402,53.043015],
+  "bbox": [
+    -1.212402,
+    53.043015,
+    -1.212402,
+    53.043015
+],
   "geometry": {"coordinates":[-1.212402,53.043015],"type":"Point"}
 }

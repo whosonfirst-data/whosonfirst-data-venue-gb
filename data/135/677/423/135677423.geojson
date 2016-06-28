@@ -2,13 +2,14 @@
   "id": 135677423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.496631,50.546337,-3.496631,50.546337",
     "geom:latitude":50.546337,
     "geom:longitude":-3.496631,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bank Street",
     "sg:city":"Teignmouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135677423,
-    "wof:lastmodified":1449022089,
+    "wof:lastmodified":1466285583,
     "wof:name":"Bristol & West Plc",
     "wof:parent_id":101852581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.496631,50.546337,-3.496631,50.546337],
+  "bbox": [
+    -3.496631,
+    50.546337,
+    -3.496631,
+    50.546337
+],
   "geometry": {"coordinates":[-3.496631,50.546337],"type":"Point"}
 }

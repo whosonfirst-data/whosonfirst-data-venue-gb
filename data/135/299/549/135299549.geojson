@@ -2,13 +2,14 @@
   "id": 135299549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.604935,55.976086,-3.604935,55.976086",
     "geom:latitude":55.976086,
     "geom:longitude":-3.604935,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"179 High Street",
     "sg:city":"Linlithgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135299549,
-    "wof:lastmodified":1449021758,
+    "wof:lastmodified":1466277057,
     "wof:name":"The Crown Arms",
     "wof:parent_id":85684249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.604935,55.976086,-3.604935,55.976086],
+  "bbox": [
+    -3.604935,
+    55.976086,
+    -3.604935,
+    55.976086
+],
   "geometry": {"coordinates":[-3.604935,55.976086],"type":"Point"}
 }

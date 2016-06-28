@@ -2,13 +2,14 @@
   "id": 336725709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.184764,51.476505,-3.184764,51.476505",
     "geom:latitude":51.476505,
     "geom:longitude":-3.184764,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14-20 Tudor St",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336725709,
-    "wof:lastmodified":1448997211,
+    "wof:lastmodified":1466276568,
     "wof:name":"Tudor Filling Station",
     "wof:parent_id":85792749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "petrol"
     ]
 },
-  "bbox": [-3.184764,51.476505,-3.184764,51.476505],
+  "bbox": [
+    -3.184764,
+    51.476505,
+    -3.184764,
+    51.476505
+],
   "geometry": {"coordinates":[-3.184764,51.476505],"type":"Point"}
 }

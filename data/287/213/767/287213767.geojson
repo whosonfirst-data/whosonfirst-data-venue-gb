@@ -2,13 +2,14 @@
   "id": 287213767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.20588,52.966599,-1.20588,52.966599",
     "geom:latitude":52.966599,
     "geom:longitude":-1.20588,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Nottingham Community Health, N H S Trust, 261 Beechdale Rd",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":287213767,
-    "wof:lastmodified":1449000673,
+    "wof:lastmodified":1466269590,
     "wof:name":"COMMUNITY DENTAL SERVICE",
     "wof:parent_id":85861891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.20588,52.966599,-1.20588,52.966599],
+  "bbox": [
+    -1.20588,
+    52.966599,
+    -1.20588,
+    52.966599
+],
   "geometry": {"coordinates":[-1.20588,52.966599],"type":"Point"}
 }

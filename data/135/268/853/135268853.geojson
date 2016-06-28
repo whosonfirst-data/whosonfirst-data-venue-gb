@@ -2,13 +2,14 @@
   "id": 135268853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.477569,51.449688,-2.477569,51.449688",
     "geom:latitude":51.449688,
     "geom:longitude":-2.477569,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Tower Road South",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135268853,
-    "wof:lastmodified":1449022727,
+    "wof:lastmodified":1466256856,
     "wof:name":"Tower Videos",
     "wof:parent_id":85785495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.477569,51.449688,-2.477569,51.449688],
+  "bbox": [
+    -2.477569,
+    51.449688,
+    -2.477569,
+    51.449688
+],
   "geometry": {"coordinates":[-2.477569,51.449688],"type":"Point"}
 }

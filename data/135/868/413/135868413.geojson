@@ -2,13 +2,14 @@
   "id": 135868413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.35995,55.846359,-4.35995,55.846359",
     "geom:latitude":55.846359,
     "geom:longitude":-4.35995,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Westfield Health Centre, Hillington Rd South",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135868413,
-    "wof:lastmodified":1449021117,
+    "wof:lastmodified":1466287946,
     "wof:name":"W.B Thomson",
     "wof:parent_id":85792479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.35995,55.846359,-4.35995,55.846359],
+  "bbox": [
+    -4.35995,
+    55.846359,
+    -4.35995,
+    55.846359
+],
   "geometry": {"coordinates":[-4.35995,55.846359],"type":"Point"}
 }

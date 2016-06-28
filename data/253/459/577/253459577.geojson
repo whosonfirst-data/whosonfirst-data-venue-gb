@@ -2,13 +2,14 @@
   "id": 253459577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.591574,53.854408,-1.591574,53.854408",
     "geom:latitude":53.854408,
     "geom:longitude":-1.591574,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"473a Otley Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253459577,
-    "wof:lastmodified":1449064033,
+    "wof:lastmodified":1466266945,
     "wof:name":"The Hadfield Clinic",
     "wof:parent_id":85785231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "chiropodist"
     ]
 },
-  "bbox": [-1.591574,53.854408,-1.591574,53.854408],
+  "bbox": [
+    -1.591574,
+    53.854408,
+    -1.591574,
+    53.854408
+],
   "geometry": {"coordinates":[-1.591574,53.854408],"type":"Point"}
 }

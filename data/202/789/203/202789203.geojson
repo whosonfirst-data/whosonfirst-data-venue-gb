@@ -2,13 +2,14 @@
   "id": 202789203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.163411,51.539471,0.163411,51.539471",
     "geom:latitude":51.539471,
     "geom:longitude":0.163411,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Wyhill Walk",
     "sg:city":"Dagenham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202789203,
-    "wof:lastmodified":1449061272,
+    "wof:lastmodified":1466258932,
     "wof:name":"Wyhill Walk Sheltered Housing",
     "wof:parent_id":85786939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sheltered"
     ]
 },
-  "bbox": [0.163411,51.539471,0.163411,51.539471],
+  "bbox": [
+    0.163411,
+    51.539471,
+    0.163411,
+    51.539471
+],
   "geometry": {"coordinates":[0.163411,51.539471],"type":"Point"}
 }

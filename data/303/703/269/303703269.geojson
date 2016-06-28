@@ -2,13 +2,14 @@
   "id": 303703269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.280577,55.831894,-4.280577,55.831894",
     "geom:latitude":55.831894,
     "geom:longitude":-4.280577,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Norham St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303703269,
-    "wof:lastmodified":1448998858,
+    "wof:lastmodified":1466281720,
     "wof:name":"Art Tech Taylor",
     "wof:parent_id":85792499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-4.280577,55.831894,-4.280577,55.831894],
+  "bbox": [
+    -4.280577,
+    55.831894,
+    -4.280577,
+    55.831894
+],
   "geometry": {"coordinates":[-4.280577,55.831894],"type":"Point"}
 }

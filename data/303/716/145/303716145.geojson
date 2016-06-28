@@ -2,13 +2,14 @@
   "id": 303716145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.070239,50.155613,-5.070239,50.155613",
     "geom:latitude":50.155613,
     "geom:longitude":-5.070239,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Market Street",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303716145,
-    "wof:lastmodified":1448998463,
+    "wof:lastmodified":1466281872,
     "wof:name":"Cavendish Coffee House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "room"
     ]
 },
-  "bbox": [-5.070239,50.155613,-5.070239,50.155613],
+  "bbox": [
+    -5.070239,
+    50.155613,
+    -5.070239,
+    50.155613
+],
   "geometry": {"coordinates":[-5.070239,50.155613],"type":"Point"}
 }

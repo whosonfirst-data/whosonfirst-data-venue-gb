@@ -2,13 +2,14 @@
   "id": 286906519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.238823,55.854462,-4.238823,55.854462",
     "geom:latitude":55.854462,
     "geom:longitude":-4.238823,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"188 London Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286906519,
-    "wof:lastmodified":1449016303,
+    "wof:lastmodified":1466280796,
     "wof:name":"R A Newsagent",
     "wof:parent_id":85861551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-4.238823,55.854462,-4.238823,55.854462],
+  "bbox": [
+    -4.238823,
+    55.854462,
+    -4.238823,
+    55.854462
+],
   "geometry": {"coordinates":[-4.238823,55.854462],"type":"Point"}
 }

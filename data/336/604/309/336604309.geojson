@@ -2,13 +2,14 @@
   "id": 336604309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.04948,51.532131,-0.04948,51.532131",
     "geom:latitude":51.532131,
     "geom:longitude":-0.04948,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The London Chest Hospital, Bonner Rd",
     "sg:city":"Bethnal Green",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":336604309,
-    "wof:lastmodified":1448997893,
+    "wof:lastmodified":1466272905,
     "wof:name":"The Royal Hospitals NHS Trust",
     "wof:parent_id":85785657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.04948,51.532131,-0.04948,51.532131],
+  "bbox": [
+    -0.04948,
+    51.532131,
+    -0.04948,
+    51.532131
+],
   "geometry": {"coordinates":[-0.04948,51.532131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135837363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.708081,55.413418,-1.708081,55.413418",
     "geom:latitude":55.413418,
     "geom:longitude":-1.708081,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Fenkle Street",
     "sg:city":"Alnwick",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135837363,
-    "wof:lastmodified":1449021453,
+    "wof:lastmodified":1466287607,
     "wof:name":"Bedrock Communications",
     "wof:parent_id":85683821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.708081,55.413418,-1.708081,55.413418],
+  "bbox": [
+    -1.708081,
+    55.413418,
+    -1.708081,
+    55.413418
+],
   "geometry": {"coordinates":[-1.708081,55.413418],"type":"Point"}
 }

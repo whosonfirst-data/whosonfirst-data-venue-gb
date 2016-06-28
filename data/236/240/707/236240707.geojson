@@ -2,13 +2,14 @@
   "id": 236240707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.124949,52.614498,-1.124949,52.614498",
     "geom:latitude":52.614498,
     "geom:longitude":-1.124949,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4c Oakland Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236240707,
-    "wof:lastmodified":1449001934,
+    "wof:lastmodified":1466261086,
     "wof:name":"Oakland Joiners",
     "wof:parent_id":85861117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "joinery"
     ]
 },
-  "bbox": [-1.124949,52.614498,-1.124949,52.614498],
+  "bbox": [
+    -1.124949,
+    52.614498,
+    -1.124949,
+    52.614498
+],
   "geometry": {"coordinates":[-1.124949,52.614498],"type":"Point"}
 }

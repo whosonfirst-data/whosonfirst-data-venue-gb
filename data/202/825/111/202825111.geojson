@@ -2,13 +2,14 @@
   "id": 202825111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.58204,54.97065,-1.58204,54.97065",
     "geom:latitude":54.97065,
     "geom:longitude":-1.58204,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hoults Estate, Walker Rd, Newcastle",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202825111,
-    "wof:lastmodified":1449060196,
+    "wof:lastmodified":1466259485,
     "wof:name":"DHS Promotions",
     "wof:parent_id":85861877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "consultant"
     ]
 },
-  "bbox": [-1.58204,54.97065,-1.58204,54.97065],
+  "bbox": [
+    -1.58204,
+    54.97065,
+    -1.58204,
+    54.97065
+],
   "geometry": {"coordinates":[-1.58204,54.97065],"type":"Point"}
 }

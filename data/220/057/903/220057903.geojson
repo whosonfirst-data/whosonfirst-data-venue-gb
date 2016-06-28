@@ -2,13 +2,14 @@
   "id": 220057903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.511533,52.405296,-1.511533,52.405296",
     "geom:latitude":52.405296,
     "geom:longitude":-1.511533,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Second Floor, 145-149 New Union Street",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220057903,
-    "wof:lastmodified":1449074425,
+    "wof:lastmodified":1466253963,
     "wof:name":"Coventry Victim Support",
     "wof:parent_id":85789723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.511533,52.405296,-1.511533,52.405296],
+  "bbox": [
+    -1.511533,
+    52.405296,
+    -1.511533,
+    52.405296
+],
   "geometry": {"coordinates":[-1.511533,52.405296],"type":"Point"}
 }

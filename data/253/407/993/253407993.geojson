@@ -2,13 +2,14 @@
   "id": 253407993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.900444,52.508415,-1.900444,52.508415",
     "geom:latitude":52.508415,
     "geom:longitude":-1.900444,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Trinity Road, Aston",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253407993,
-    "wof:lastmodified":1449064469,
+    "wof:lastmodified":1466265745,
     "wof:name":"Trinity Rest Home",
     "wof:parent_id":85785713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "care"
     ]
 },
-  "bbox": [-1.900444,52.508415,-1.900444,52.508415],
+  "bbox": [
+    -1.900444,
+    52.508415,
+    -1.900444,
+    52.508415
+],
   "geometry": {"coordinates":[-1.900444,52.508415],"type":"Point"}
 }

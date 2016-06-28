@@ -2,13 +2,14 @@
   "id": 135889471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.149453,51.906528,-1.149453,51.906528",
     "geom:latitude":51.906528,
     "geom:longitude":-1.149453,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Buckingham Road",
     "sg:city":"Bicester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135889471,
-    "wof:lastmodified":1449020923,
+    "wof:lastmodified":1466287843,
     "wof:name":"The Engine Room",
     "wof:parent_id":101852925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.149453,51.906528,-1.149453,51.906528],
+  "bbox": [
+    -1.149453,
+    51.906528,
+    -1.149453,
+    51.906528
+],
   "geometry": {"coordinates":[-1.149453,51.906528],"type":"Point"}
 }

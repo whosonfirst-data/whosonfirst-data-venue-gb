@@ -2,13 +2,14 @@
   "id": 102610405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.890816,52.314804,-1.890816,52.314804",
     "geom:latitude":52.314804,
     "geom:longitude":-1.890816,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Colemeadow Rd, North Moons Moat Indstl Est",
     "sg:city":"Redditch",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102610405,
-    "wof:lastmodified":1449070179,
+    "wof:lastmodified":1466252846,
     "wof:name":"Package",
     "wof:parent_id":101750455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.890816,52.314804,-1.890816,52.314804],
+  "bbox": [
+    -1.890816,
+    52.314804,
+    -1.890816,
+    52.314804
+],
   "geometry": {"coordinates":[-1.890816,52.314804],"type":"Point"}
 }

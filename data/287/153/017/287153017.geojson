@@ -2,13 +2,14 @@
   "id": 287153017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.097851,53.441887,-2.097851,53.441887",
     "geom:latitude":53.441887,
     "geom:longitude":-2.097851,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Haughton Green Post Office, 107 Haughton Green Road, Denton",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":287153017,
-    "wof:lastmodified":1449001295,
+    "wof:lastmodified":1466267698,
     "wof:name":"Haughton Green Sub Post Office",
     "wof:parent_id":85786995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.097851,53.441887,-2.097851,53.441887],
+  "bbox": [
+    -2.097851,
+    53.441887,
+    -2.097851,
+    53.441887
+],
   "geometry": {"coordinates":[-2.097851,53.441887],"type":"Point"}
 }

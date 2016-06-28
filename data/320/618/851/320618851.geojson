@@ -2,13 +2,14 @@
   "id": 320618851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.99523,53.047356,-2.99523,53.047356",
     "geom:latitude":53.047356,
     "geom:longitude":-2.99523,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Lord Street",
     "sg:city":"Wrexham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320618851,
-    "wof:lastmodified":1449013574,
+    "wof:lastmodified":1466282884,
     "wof:name":"Going Places",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.99523,53.047356,-2.99523,53.047356],
+  "bbox": [
+    -2.99523,
+    53.047356,
+    -2.99523,
+    53.047356
+],
   "geometry": {"coordinates":[-2.99523,53.047356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320204273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.406827,54.916416,-1.406827,54.916416",
     "geom:latitude":54.916416,
     "geom:longitude":-1.406827,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Wear Street",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320204273,
-    "wof:lastmodified":1449015066,
+    "wof:lastmodified":1466274170,
     "wof:name":"Bridge Commercials",
     "wof:parent_id":85790487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-1.406827,54.916416,-1.406827,54.916416],
+  "bbox": [
+    -1.406827,
+    54.916416,
+    -1.406827,
+    54.916416
+],
   "geometry": {"coordinates":[-1.406827,54.916416],"type":"Point"}
 }

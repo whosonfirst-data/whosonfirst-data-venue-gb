@@ -2,13 +2,14 @@
   "id": 136241205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.103237,50.363914,-4.103237,50.363914",
     "geom:latitude":50.363914,
     "geom:longitude":-4.103237,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Oreston Road",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136241205,
-    "wof:lastmodified":1449076248,
+    "wof:lastmodified":1466263171,
     "wof:name":"Oreston Motor Centre",
     "wof:parent_id":85789893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.103237,50.363914,-4.103237,50.363914],
+  "bbox": [
+    -4.103237,
+    50.363914,
+    -4.103237,
+    50.363914
+],
   "geometry": {"coordinates":[-4.103237,50.363914],"type":"Point"}
 }

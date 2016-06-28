@@ -2,13 +2,14 @@
   "id": 269935223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.630156,51.428333,-2.630156,51.428333",
     "geom:latitude":51.428333,
     "geom:longitude":-2.630156,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"220 South Liberty Lane",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269935223,
-    "wof:lastmodified":1449038417,
+    "wof:lastmodified":1466273779,
     "wof:name":"Abattoir Services",
     "wof:parent_id":85785373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "abattoir"
     ]
 },
-  "bbox": [-2.630156,51.428333,-2.630156,51.428333],
+  "bbox": [
+    -2.630156,
+    51.428333,
+    -2.630156,
+    51.428333
+],
   "geometry": {"coordinates":[-2.630156,51.428333],"type":"Point"}
 }

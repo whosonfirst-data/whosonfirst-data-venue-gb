@@ -2,13 +2,14 @@
   "id": 303273569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.858183,50.75919,-1.858183,50.75919",
     "geom:latitude":50.75919,
     "geom:longitude":-1.858183,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Stratton Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303273569,
-    "wof:lastmodified":1448999389,
+    "wof:lastmodified":1466271051,
     "wof:name":"Mobile Maid",
     "wof:parent_id":85789483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-1.858183,50.75919,-1.858183,50.75919],
+  "bbox": [
+    -1.858183,
+    50.75919,
+    -1.858183,
+    50.75919
+],
   "geometry": {"coordinates":[-1.858183,50.75919],"type":"Point"}
 }

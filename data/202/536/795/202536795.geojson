@@ -2,13 +2,14 @@
   "id": 202536795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.494102,51.114281,-1.494102,51.114281",
     "geom:latitude":51.114281,
     "geom:longitude":-1.494102,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Danebury View, Kents Boro",
     "sg:city":"Stockbridge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202536795,
-    "wof:lastmodified":1449061629,
+    "wof:lastmodified":1466254724,
     "wof:name":"GNG Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.494102,51.114281,-1.494102,51.114281],
+  "bbox": [
+    -1.494102,
+    51.114281,
+    -1.494102,
+    51.114281
+],
   "geometry": {"coordinates":[-1.494102,51.114281],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135600119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.001959,51.088425,-4.001959,51.088425",
     "geom:latitude":51.088425,
     "geom:longitude":-4.001959,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Haldene Terrace",
     "sg:city":"Barnstaple",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135600119,
-    "wof:lastmodified":1449021280,
+    "wof:lastmodified":1466282424,
     "wof:name":"C & C Electrics",
     "wof:parent_id":85683773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.001959,51.088425,-4.001959,51.088425],
+  "bbox": [
+    -4.001959,
+    51.088425,
+    -4.001959,
+    51.088425
+],
   "geometry": {"coordinates":[-4.001959,51.088425],"type":"Point"}
 }

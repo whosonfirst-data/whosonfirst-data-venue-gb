@@ -2,13 +2,14 @@
   "id": 135419885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.333057,53.413013,-2.333057,53.413013",
     "geom:latitude":53.413013,
     "geom:longitude":-2.333057,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Trevor Avenue",
     "sg:city":"Sale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135419885,
-    "wof:lastmodified":1449023928,
+    "wof:lastmodified":1466265038,
     "wof:name":"Eric Roberts",
     "wof:parent_id":85791535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.333057,53.413013,-2.333057,53.413013],
+  "bbox": [
+    -2.333057,
+    53.413013,
+    -2.333057,
+    53.413013
+],
   "geometry": {"coordinates":[-2.333057,53.413013],"type":"Point"}
 }

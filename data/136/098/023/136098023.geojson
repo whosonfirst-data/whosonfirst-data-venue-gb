@@ -2,13 +2,14 @@
   "id": 136098023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.028063,53.752178,-3.028063,53.752178",
     "geom:latitude":53.752178,
     "geom:longitude":-3.028063,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 St. Andrews Road South",
     "sg:city":"Lytham St Annes",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136098023,
-    "wof:lastmodified":1449076131,
+    "wof:lastmodified":1466255485,
     "wof:name":"Collectors Corner",
     "wof:parent_id":85785317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.028063,53.752178,-3.028063,53.752178],
+  "bbox": [
+    -3.028063,
+    53.752178,
+    -3.028063,
+    53.752178
+],
   "geometry": {"coordinates":[-3.028063,53.752178],"type":"Point"}
 }

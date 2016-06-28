@@ -2,13 +2,14 @@
   "id": 303719093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.796584,53.835743,-1.796584,53.835743",
     "geom:latitude":53.835743,
     "geom:longitude":-1.796584,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Bingley Road",
     "sg:city":"Shipley",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303719093,
-    "wof:lastmodified":1448998433,
+    "wof:lastmodified":1466281927,
     "wof:name":"News Parade",
     "wof:parent_id":85790131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.796584,53.835743,-1.796584,53.835743],
+  "bbox": [
+    -1.796584,
+    53.835743,
+    -1.796584,
+    53.835743
+],
   "geometry": {"coordinates":[-1.796584,53.835743],"type":"Point"}
 }

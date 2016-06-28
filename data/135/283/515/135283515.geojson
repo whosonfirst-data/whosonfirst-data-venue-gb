@@ -2,13 +2,14 @@
   "id": 135283515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.228312,55.853291,-4.228312,55.853291",
     "geom:latitude":55.853291,
     "geom:longitude":-4.228312,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Abercromby St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135283515,
-    "wof:lastmodified":1449021903,
+    "wof:lastmodified":1466275885,
     "wof:name":"Brodie,Elizabeth,",
     "wof:parent_id":85792633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.228312,55.853291,-4.228312,55.853291],
+  "bbox": [
+    -4.228312,
+    55.853291,
+    -4.228312,
+    55.853291
+],
   "geometry": {"coordinates":[-4.228312,55.853291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336876479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.154098,51.470615,0.154098,51.470615",
     "geom:latitude":51.470615,
     "geom:longitude":0.154098,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Birchington Close",
     "sg:city":"Bexleyheath",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":336876479,
-    "wof:lastmodified":1448997168,
+    "wof:lastmodified":1466279816,
     "wof:name":"Route 1",
     "wof:parent_id":85789501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.154098,51.470615,0.154098,51.470615],
+  "bbox": [
+    0.154098,
+    51.470615,
+    0.154098,
+    51.470615
+],
   "geometry": {"coordinates":[0.154098,51.470615],"type":"Point"}
 }

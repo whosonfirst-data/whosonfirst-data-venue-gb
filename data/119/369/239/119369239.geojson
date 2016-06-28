@@ -2,13 +2,14 @@
   "id": 119369239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.301039,55.960442,-3.301039,55.960442",
     "geom:latitude":55.960442,
     "geom:longitude":-3.301039,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Queensferry Road, Cramond Brig",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119369239,
-    "wof:lastmodified":1449043423,
+    "wof:lastmodified":1466283991,
     "wof:name":"Cramond Brig",
     "wof:parent_id":85861469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.301039,55.960442,-3.301039,55.960442],
+  "bbox": [
+    -3.301039,
+    55.960442,
+    -3.301039,
+    55.960442
+],
   "geometry": {"coordinates":[-3.301039,55.960442],"type":"Point"}
 }

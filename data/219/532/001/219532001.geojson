@@ -2,13 +2,14 @@
   "id": 219532001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.419444,55.904301,-4.419444,55.904301",
     "geom:latitude":55.904301,
     "geom:longitude":-4.419444,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Cable Depot Road",
     "sg:city":"Clydebank",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219532001,
-    "wof:lastmodified":1449071586,
+    "wof:lastmodified":1466259311,
     "wof:name":"The Scottish Wildlife Trust",
     "wof:parent_id":85786955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conservation"
     ]
 },
-  "bbox": [-4.419444,55.904301,-4.419444,55.904301],
+  "bbox": [
+    -4.419444,
+    55.904301,
+    -4.419444,
+    55.904301
+],
   "geometry": {"coordinates":[-4.419444,55.904301],"type":"Point"}
 }

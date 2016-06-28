@@ -2,13 +2,14 @@
   "id": 202424397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.595967,51.453865,-2.595967,51.453865",
     "geom:latitude":51.453865,
     "geom:longitude":-2.595967,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Clare St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":202424397,
-    "wof:lastmodified":1449062486,
+    "wof:lastmodified":1466252981,
     "wof:name":"Margaret Baker Bureau",
     "wof:parent_id":85861353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-2.595967,51.453865,-2.595967,51.453865],
+  "bbox": [
+    -2.595967,
+    51.453865,
+    -2.595967,
+    51.453865
+],
   "geometry": {"coordinates":[-2.595967,51.453865],"type":"Point"}
 }

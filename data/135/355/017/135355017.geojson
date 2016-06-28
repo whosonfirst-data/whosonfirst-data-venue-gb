@@ -2,13 +2,14 @@
   "id": 135355017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.35149,51.761028,-1.35149,51.761028",
     "geom:latitude":51.761028,
     "geom:longitude":-1.35149,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Farmoor",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135355017,
-    "wof:lastmodified":1449021853,
+    "wof:lastmodified":1466257779,
     "wof:name":"Farmoor Stores & Post Office",
     "wof:parent_id":85785875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.35149,51.761028,-1.35149,51.761028],
+  "bbox": [
+    -1.35149,
+    51.761028,
+    -1.35149,
+    51.761028
+],
   "geometry": {"coordinates":[-1.35149,51.761028],"type":"Point"}
 }

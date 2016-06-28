@@ -2,13 +2,14 @@
   "id": 135463179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.386007,55.878193,-4.386007,55.878193",
     "geom:latitude":55.878193,
     "geom:longitude":-4.386007,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 High Street",
     "sg:city":"Renfrew",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135463179,
-    "wof:lastmodified":1449023098,
+    "wof:lastmodified":1466270285,
     "wof:name":"M R McCloghlan",
     "wof:parent_id":85791893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.386007,55.878193,-4.386007,55.878193],
+  "bbox": [
+    -4.386007,
+    55.878193,
+    -4.386007,
+    55.878193
+],
   "geometry": {"coordinates":[-4.386007,55.878193],"type":"Point"}
 }

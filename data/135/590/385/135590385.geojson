@@ -2,13 +2,14 @@
   "id": 135590385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.995714,51.354149,-1.995714,51.354149",
     "geom:latitude":51.354149,
     "geom:longitude":-1.995714,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"New Park Street",
     "sg:city":"Devizes",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135590385,
-    "wof:lastmodified":1449022822,
+    "wof:lastmodified":1466282117,
     "wof:name":"New Park Street Filling Station",
     "wof:parent_id":101852733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.995714,51.354149,-1.995714,51.354149],
+  "bbox": [
+    -1.995714,
+    51.354149,
+    -1.995714,
+    51.354149
+],
   "geometry": {"coordinates":[-1.995714,51.354149],"type":"Point"}
 }

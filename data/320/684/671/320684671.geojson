@@ -2,13 +2,14 @@
   "id": 320684671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.94849,56.155388,-3.94849,56.155388",
     "geom:latitude":56.155388,
     "geom:longitude":-3.94849,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Henderson Street, Bridge Of Allan",
     "sg:city":"Stirling",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320684671,
-    "wof:lastmodified":1449012186,
+    "wof:lastmodified":1466283670,
     "wof:name":"The Coffee Pot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "room"
     ]
 },
-  "bbox": [-3.94849,56.155388,-3.94849,56.155388],
+  "bbox": [
+    -3.94849,
+    56.155388,
+    -3.94849,
+    56.155388
+],
   "geometry": {"coordinates":[-3.94849,56.155388],"type":"Point"}
 }

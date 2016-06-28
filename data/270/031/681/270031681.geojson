@@ -2,13 +2,14 @@
   "id": 270031681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.99394,53.466248,-1.99394,53.466248",
     "geom:latitude":53.466248,
     "geom:longitude":-1.99394,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Green La",
     "sg:city":"Hyde",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270031681,
-    "wof:lastmodified":1449009550,
+    "wof:lastmodified":1466261412,
     "wof:name":"Millers",
     "wof:parent_id":85786995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.99394,53.466248,-1.99394,53.466248],
+  "bbox": [
+    -1.99394,
+    53.466248,
+    -1.99394,
+    53.466248
+],
   "geometry": {"coordinates":[-1.99394,53.466248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119467015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.176261,51.485874,-3.176261,51.485874",
     "geom:latitude":51.485874,
     "geom:longitude":-3.176261,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Park Place",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119467015,
-    "wof:lastmodified":1449042930,
+    "wof:lastmodified":1466286579,
     "wof:name":"The British Council",
     "wof:parent_id":85792749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.176261,51.485874,-3.176261,51.485874],
+  "bbox": [
+    -3.176261,
+    51.485874,
+    -3.176261,
+    51.485874
+],
   "geometry": {"coordinates":[-3.176261,51.485874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135451337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.047799,52.46719,-2.047799,52.46719",
     "geom:latitude":52.46719,
     "geom:longitude":-2.047799,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Coombs Road",
     "sg:city":"Halesowen",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135451337,
-    "wof:lastmodified":1449022330,
+    "wof:lastmodified":1466268779,
     "wof:name":"The Lighthouse",
     "wof:parent_id":85789589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.047799,52.46719,-2.047799,52.46719],
+  "bbox": [
+    -2.047799,
+    52.46719,
+    -2.047799,
+    52.46719
+],
   "geometry": {"coordinates":[-2.047799,52.46719],"type":"Point"}
 }

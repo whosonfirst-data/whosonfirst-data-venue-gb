@@ -2,13 +2,14 @@
   "id": 118719401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.545005,54.513191,-1.545005,54.513191",
     "geom:latitude":54.513191,
     "geom:longitude":-1.545005,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Parkside",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118719401,
-    "wof:lastmodified":1449053324,
+    "wof:lastmodified":1466266804,
     "wof:name":"David Barker",
     "wof:parent_id":85787981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.545005,54.513191,-1.545005,54.513191],
+  "bbox": [
+    -1.545005,
+    54.513191,
+    -1.545005,
+    54.513191
+],
   "geometry": {"coordinates":[-1.545005,54.513191],"type":"Point"}
 }

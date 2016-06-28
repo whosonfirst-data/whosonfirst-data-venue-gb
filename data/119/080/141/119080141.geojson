@@ -2,13 +2,14 @@
   "id": 119080141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.318707,51.065659,-1.318707,51.065659",
     "geom:latitude":51.065659,
     "geom:longitude":-1.318707,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Sussex Street",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119080141,
-    "wof:lastmodified":1449043492,
+    "wof:lastmodified":1466256584,
     "wof:name":"E N W Dispatch",
     "wof:parent_id":101852447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.318707,51.065659,-1.318707,51.065659],
+  "bbox": [
+    -1.318707,
+    51.065659,
+    -1.318707,
+    51.065659
+],
   "geometry": {"coordinates":[-1.318707,51.065659],"type":"Point"}
 }

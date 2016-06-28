@@ -2,13 +2,14 @@
   "id": 203241849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.546587,53.794495,-1.546587,53.794495",
     "geom:latitude":53.794495,
     "geom:longitude":-1.546587,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Manston Surgery, 76 Austhorpe Rd",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203241849,
-    "wof:lastmodified":1449026834,
+    "wof:lastmodified":1466256781,
     "wof:name":"Lewis, P D",
     "wof:parent_id":85792901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-1.546587,53.794495,-1.546587,53.794495],
+  "bbox": [
+    -1.546587,
+    53.794495,
+    -1.546587,
+    53.794495
+],
   "geometry": {"coordinates":[-1.546587,53.794495],"type":"Point"}
 }

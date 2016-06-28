@@ -2,13 +2,14 @@
   "id": 203246155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.21529,55.930805,-3.21529,55.930805",
     "geom:latitude":55.930805,
     "geom:longitude":-3.21529,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Tipperlinn Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203246155,
-    "wof:lastmodified":1449025065,
+    "wof:lastmodified":1466256881,
     "wof:name":"Morningside Nursing Home (the )",
     "wof:parent_id":85861531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-3.21529,55.930805,-3.21529,55.930805],
+  "bbox": [
+    -3.21529,
+    55.930805,
+    -3.21529,
+    55.930805
+],
   "geometry": {"coordinates":[-3.21529,55.930805],"type":"Point"}
 }

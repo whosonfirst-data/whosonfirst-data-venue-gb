@@ -2,13 +2,14 @@
   "id": 135416783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.206207,53.034779,-1.206207,53.034779",
     "geom:latitude":53.034779,
     "geom:longitude":-1.206207,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Watnall Road, Hucknall",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135416783,
-    "wof:lastmodified":1449022372,
+    "wof:lastmodified":1466264656,
     "wof:name":"Watnall News",
     "wof:parent_id":101871933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.206207,53.034779,-1.206207,53.034779],
+  "bbox": [
+    -1.206207,
+    53.034779,
+    -1.206207,
+    53.034779
+],
   "geometry": {"coordinates":[-1.206207,53.034779],"type":"Point"}
 }

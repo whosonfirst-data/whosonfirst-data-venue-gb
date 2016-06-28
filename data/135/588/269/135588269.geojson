@@ -2,13 +2,14 @@
   "id": 135588269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.730569,55.005165,-3.730569,55.005165",
     "geom:latitude":55.005165,
     "geom:longitude":-3.730569,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Drum Farm, Beeswing",
     "sg:city":"Dumfries",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135588269,
-    "wof:lastmodified":1449023428,
+    "wof:lastmodified":1466281833,
     "wof:name":"The Drum Farming Co.",
     "wof:parent_id":85683743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.730569,55.005165,-3.730569,55.005165],
+  "bbox": [
+    -3.730569,
+    55.005165,
+    -3.730569,
+    55.005165
+],
   "geometry": {"coordinates":[-3.730569,55.005165],"type":"Point"}
 }

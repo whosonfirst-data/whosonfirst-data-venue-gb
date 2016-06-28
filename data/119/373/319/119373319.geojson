@@ -2,13 +2,14 @@
   "id": 119373319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.264599,51.844093,-2.264599,51.844093",
     "geom:latitude":51.844093,
     "geom:longitude":-2.264599,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"271 Bristol Road",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119373319,
-    "wof:lastmodified":1449042212,
+    "wof:lastmodified":1466283923,
     "wof:name":"Motorland",
     "wof:parent_id":85789875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.264599,51.844093,-2.264599,51.844093],
+  "bbox": [
+    -2.264599,
+    51.844093,
+    -2.264599,
+    51.844093
+],
   "geometry": {"coordinates":[-2.264599,51.844093],"type":"Point"}
 }

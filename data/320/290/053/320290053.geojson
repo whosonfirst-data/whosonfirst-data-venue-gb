@@ -2,13 +2,14 @@
   "id": 320290053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.222619,50.40287,-4.222619,50.40287",
     "geom:latitude":50.40287,
     "geom:longitude":-4.222619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Mead Way",
     "sg:city":"Saltash",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320290053,
-    "wof:lastmodified":1449012862,
+    "wof:lastmodified":1466276771,
     "wof:name":"A W Taxis",
     "wof:parent_id":85790593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-4.222619,50.40287,-4.222619,50.40287],
+  "bbox": [
+    -4.222619,
+    50.40287,
+    -4.222619,
+    50.40287
+],
   "geometry": {"coordinates":[-4.222619,50.40287],"type":"Point"}
 }

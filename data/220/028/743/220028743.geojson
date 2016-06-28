@@ -2,13 +2,14 @@
   "id": 220028743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.858633,50.724167,-1.858633,50.724167",
     "geom:latitude":50.724167,
     "geom:longitude":-1.858633,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Knyveton Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220028743,
-    "wof:lastmodified":1449074488,
+    "wof:lastmodified":1466253444,
     "wof:name":"Cransley Hotel",
     "wof:parent_id":85785869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "guest"
     ]
 },
-  "bbox": [-1.858633,50.724167,-1.858633,50.724167],
+  "bbox": [
+    -1.858633,
+    50.724167,
+    -1.858633,
+    50.724167
+],
   "geometry": {"coordinates":[-1.858633,50.724167],"type":"Point"}
 }

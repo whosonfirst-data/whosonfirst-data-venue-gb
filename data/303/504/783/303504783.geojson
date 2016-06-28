@@ -2,13 +2,14 @@
   "id": 303504783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.758515,50.732857,-2.758515,50.732857",
     "geom:latitude":50.732857,
     "geom:longitude":-2.758515,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 South Street",
     "sg:city":"Bridport",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303504783,
-    "wof:lastmodified":1448998544,
+    "wof:lastmodified":1466278105,
     "wof:name":"Mencap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "charity"
     ]
 },
-  "bbox": [-2.758515,50.732857,-2.758515,50.732857],
+  "bbox": [
+    -2.758515,
+    50.732857,
+    -2.758515,
+    50.732857
+],
   "geometry": {"coordinates":[-2.758515,50.732857],"type":"Point"}
 }

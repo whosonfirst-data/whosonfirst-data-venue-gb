@@ -2,13 +2,14 @@
   "id": 119009813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.974707,51.348854,-2.974707,51.348854",
     "geom:latitude":51.348854,
     "geom:longitude":-2.974707,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Meadow St",
     "sg:city":"Weston Super Mare",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119009813,
-    "wof:lastmodified":1449043512,
+    "wof:lastmodified":1466262828,
     "wof:name":"Tasters",
     "wof:parent_id":101751595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.974707,51.348854,-2.974707,51.348854],
+  "bbox": [
+    -2.974707,
+    51.348854,
+    -2.974707,
+    51.348854
+],
   "geometry": {"coordinates":[-2.974707,51.348854],"type":"Point"}
 }

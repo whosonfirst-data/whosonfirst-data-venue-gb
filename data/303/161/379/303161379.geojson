@@ -2,13 +2,14 @@
   "id": 303161379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.073033,50.808708,-1.073033,50.808708",
     "geom:latitude":50.808708,
     "geom:longitude":-1.073033,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"108 New Road",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303161379,
-    "wof:lastmodified":1448999090,
+    "wof:lastmodified":1466267536,
     "wof:name":"I Glancey",
     "wof:parent_id":85861975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.073033,50.808708,-1.073033,50.808708],
+  "bbox": [
+    -1.073033,
+    50.808708,
+    -1.073033,
+    50.808708
+],
   "geometry": {"coordinates":[-1.073033,50.808708],"type":"Point"}
 }

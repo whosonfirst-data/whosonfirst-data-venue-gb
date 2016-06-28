@@ -2,13 +2,14 @@
   "id": 135475817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.31414,51.773331,-1.31414,51.773331",
     "geom:latitude":51.773331,
     "geom:longitude":-1.31414,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 36 Curtis Yard, North Hinskey La",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135475817,
-    "wof:lastmodified":1449022256,
+    "wof:lastmodified":1466271795,
     "wof:name":"Big Bite",
     "wof:parent_id":85785875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.31414,51.773331,-1.31414,51.773331],
+  "bbox": [
+    -1.31414,
+    51.773331,
+    -1.31414,
+    51.773331
+],
   "geometry": {"coordinates":[-1.31414,51.773331],"type":"Point"}
 }

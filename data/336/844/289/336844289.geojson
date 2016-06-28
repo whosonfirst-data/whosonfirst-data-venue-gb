@@ -2,13 +2,14 @@
   "id": 336844289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.533888,50.719944,-3.533888,50.719944",
     "geom:latitude":50.719944,
     "geom:longitude":-3.533888,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Preston Street",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336844289,
-    "wof:lastmodified":1448997404,
+    "wof:lastmodified":1466279243,
     "wof:name":"Spacex Ltd.",
     "wof:parent_id":85790623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-3.533888,50.719944,-3.533888,50.719944],
+  "bbox": [
+    -3.533888,
+    50.719944,
+    -3.533888,
+    50.719944
+],
   "geometry": {"coordinates":[-3.533888,50.719944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269632753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.851874,55.756748,-4.851874,55.756748",
     "geom:latitude":55.756748,
     "geom:longitude":-4.851874,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Castle Park Drive, Fairlie",
     "sg:city":"Largs",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269632753,
-    "wof:lastmodified":1449037651,
+    "wof:lastmodified":1466264581,
     "wof:name":"Campbell Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.851874,55.756748,-4.851874,55.756748],
+  "bbox": [
+    -4.851874,
+    55.756748,
+    -4.851874,
+    55.756748
+],
   "geometry": {"coordinates":[-4.851874,55.756748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320701721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.092304,50.789944,-1.092304,50.789944",
     "geom:latitude":50.789944,
     "geom:longitude":-1.092304,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22-28 Castle Rd",
     "sg:city":"Southsea",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320701721,
-    "wof:lastmodified":1449014187,
+    "wof:lastmodified":1466283897,
     "wof:name":"Everest Residential Care Home",
     "wof:parent_id":85861987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "care"
     ]
 },
-  "bbox": [-1.092304,50.789944,-1.092304,50.789944],
+  "bbox": [
+    -1.092304,
+    50.789944,
+    -1.092304,
+    50.789944
+],
   "geometry": {"coordinates":[-1.092304,50.789944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269772689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.826258,52.428829,-1.826258,52.428829",
     "geom:latitude":52.428829,
     "geom:longitude":-1.826258,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Redstone Farm Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269772689,
-    "wof:lastmodified":1449037220,
+    "wof:lastmodified":1466268850,
     "wof:name":"Brewgenie",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brewing"
     ]
 },
-  "bbox": [-1.826258,52.428829,-1.826258,52.428829],
+  "bbox": [
+    -1.826258,
+    52.428829,
+    -1.826258,
+    52.428829
+],
   "geometry": {"coordinates":[-1.826258,52.428829],"type":"Point"}
 }

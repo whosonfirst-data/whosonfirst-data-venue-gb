@@ -2,13 +2,14 @@
   "id": 270098673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.083029,53.450111,-2.083029,53.450111",
     "geom:latitude":53.450111,
     "geom:longitude":-2.083029,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Great Norbury St",
     "sg:city":"Hyde",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270098673,
-    "wof:lastmodified":1449010835,
+    "wof:lastmodified":1466263465,
     "wof:name":"Station Tyres",
     "wof:parent_id":85786995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tyre"
     ]
 },
-  "bbox": [-2.083029,53.450111,-2.083029,53.450111],
+  "bbox": [
+    -2.083029,
+    53.450111,
+    -2.083029,
+    53.450111
+],
   "geometry": {"coordinates":[-2.083029,53.450111],"type":"Point"}
 }

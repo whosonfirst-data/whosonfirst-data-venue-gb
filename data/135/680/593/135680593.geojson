@@ -2,13 +2,14 @@
   "id": 135680593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.375404,53.331226,-4.375404,53.331226",
     "geom:latitude":53.331226,
     "geom:longitude":-4.375404,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wellington Street",
     "sg:city":"Llanerchymedd",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135680593,
-    "wof:lastmodified":1449023115,
+    "wof:lastmodified":1466285642,
     "wof:name":"Ysgol Llannerchymedd",
     "wof:parent_id":85683833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.375404,53.331226,-4.375404,53.331226],
+  "bbox": [
+    -4.375404,
+    53.331226,
+    -4.375404,
+    53.331226
+],
   "geometry": {"coordinates":[-4.375404,53.331226],"type":"Point"}
 }

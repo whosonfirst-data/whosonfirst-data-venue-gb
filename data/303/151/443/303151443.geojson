@@ -2,13 +2,14 @@
   "id": 303151443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.268914,51.784508,-1.268914,51.784508",
     "geom:latitude":51.784508,
     "geom:longitude":-1.268914,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Banbury Road",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303151443,
-    "wof:lastmodified":1448998144,
+    "wof:lastmodified":1466267213,
     "wof:name":"Cotswold House",
     "wof:parent_id":85790825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "guest"
     ]
 },
-  "bbox": [-1.268914,51.784508,-1.268914,51.784508],
+  "bbox": [
+    -1.268914,
+    51.784508,
+    -1.268914,
+    51.784508
+],
   "geometry": {"coordinates":[-1.268914,51.784508],"type":"Point"}
 }

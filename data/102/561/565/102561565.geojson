@@ -2,13 +2,14 @@
   "id": 102561565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.340671,54.835583,-1.340671,54.835583",
     "geom:latitude":54.835583,
     "geom:longitude":-1.340671,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Princess Road",
     "sg:city":"Seaham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102561565,
-    "wof:lastmodified":1449069510,
+    "wof:lastmodified":1466277285,
     "wof:name":"Newbles",
     "wof:parent_id":101872335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.340671,54.835583,-1.340671,54.835583],
+  "bbox": [
+    -1.340671,
+    54.835583,
+    -1.340671,
+    54.835583
+],
   "geometry": {"coordinates":[-1.340671,54.835583],"type":"Point"}
 }

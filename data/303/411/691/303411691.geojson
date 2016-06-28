@@ -2,13 +2,14 @@
   "id": 303411691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.129553,53.002739,-1.129553,53.002739",
     "geom:latitude":53.002739,
     "geom:longitude":-1.129553,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Furlong Street, Arnold",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":303411691,
-    "wof:lastmodified":1448998231,
+    "wof:lastmodified":1466275192,
     "wof:name":"Stenhouse Medical Centre",
     "wof:parent_id":85786979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "practitioners"
     ]
 },
-  "bbox": [-1.129553,53.002739,-1.129553,53.002739],
+  "bbox": [
+    -1.129553,
+    53.002739,
+    -1.129553,
+    53.002739
+],
   "geometry": {"coordinates":[-1.129553,53.002739],"type":"Point"}
 }

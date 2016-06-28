@@ -2,13 +2,14 @@
   "id": 135577109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.665712,55.018883,-1.665712,55.018883",
     "geom:latitude":55.018883,
     "geom:longitude":-1.665712,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Brunton Mews",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135577109,
-    "wof:lastmodified":1449024087,
+    "wof:lastmodified":1466281336,
     "wof:name":"W3soft Ltd.",
     "wof:parent_id":85861871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.665712,55.018883,-1.665712,55.018883],
+  "bbox": [
+    -1.665712,
+    55.018883,
+    -1.665712,
+    55.018883
+],
   "geometry": {"coordinates":[-1.665712,55.018883],"type":"Point"}
 }

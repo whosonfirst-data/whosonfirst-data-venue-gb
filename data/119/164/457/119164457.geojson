@@ -2,13 +2,14 @@
   "id": 119164457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.261084,55.885094,-4.261084,55.885094",
     "geom:latitude":55.885094,
     "geom:longitude":-4.261084,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Stronend Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119164457,
-    "wof:lastmodified":1449041160,
+    "wof:lastmodified":1466265189,
     "wof:name":"Fans & Grills",
     "wof:parent_id":85792655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.261084,55.885094,-4.261084,55.885094],
+  "bbox": [
+    -4.261084,
+    55.885094,
+    -4.261084,
+    55.885094
+],
   "geometry": {"coordinates":[-4.261084,55.885094],"type":"Point"}
 }

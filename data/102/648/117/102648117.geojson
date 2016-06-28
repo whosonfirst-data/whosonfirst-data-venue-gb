@@ -2,13 +2,14 @@
   "id": 102648117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.210087,55.828999,-4.210087,55.828999",
     "geom:latitude":55.828999,
     "geom:longitude":-4.210087,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Kings Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102648117,
-    "wof:lastmodified":1449068440,
+    "wof:lastmodified":1466254266,
     "wof:name":"W J Paton",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.210087,55.828999,-4.210087,55.828999],
+  "bbox": [
+    -4.210087,
+    55.828999,
+    -4.210087,
+    55.828999
+],
   "geometry": {"coordinates":[-4.210087,55.828999],"type":"Point"}
 }

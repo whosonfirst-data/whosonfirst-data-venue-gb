@@ -2,13 +2,14 @@
   "id": 253280875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.144359,53.006752,-1.144359,53.006752",
     "geom:latitude":53.006752,
     "geom:longitude":-1.144359,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1-2 Stamford Court, Casterton Road, Bestwood Park",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253280875,
-    "wof:lastmodified":1449064276,
+    "wof:lastmodified":1466262867,
     "wof:name":"Sanscreen Ltd.",
     "wof:parent_id":85793191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "printer"
     ]
 },
-  "bbox": [-1.144359,53.006752,-1.144359,53.006752],
+  "bbox": [
+    -1.144359,
+    53.006752,
+    -1.144359,
+    53.006752
+],
   "geometry": {"coordinates":[-1.144359,53.006752],"type":"Point"}
 }

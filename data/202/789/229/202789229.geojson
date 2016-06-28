@@ -2,13 +2,14 @@
   "id": 202789229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.901525,51.643387,-3.901525,51.643387",
     "geom:latitude":51.643387,
     "geom:longitude":-3.901525,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Cefn Rd, Bon-y-maen",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202789229,
-    "wof:lastmodified":1449061272,
+    "wof:lastmodified":1466258933,
     "wof:name":"Thomas,Ivor,& Sons",
     "wof:parent_id":85791679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "machinery"
     ]
 },
-  "bbox": [-3.901525,51.643387,-3.901525,51.643387],
+  "bbox": [
+    -3.901525,
+    51.643387,
+    -3.901525,
+    51.643387
+],
   "geometry": {"coordinates":[-3.901525,51.643387],"type":"Point"}
 }

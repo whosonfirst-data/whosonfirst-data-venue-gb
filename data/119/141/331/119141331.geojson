@@ -2,13 +2,14 @@
   "id": 119141331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.23568,53.482609,-2.23568,53.482609",
     "geom:latitude":53.482609,
     "geom:longitude":-2.23568,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit G8 Smithfield Buildings, Oldham Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":119141331,
-    "wof:lastmodified":1449041717,
+    "wof:lastmodified":1466262617,
     "wof:name":"Origin At Oxfam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.23568,53.482609,-2.23568,53.482609],
+  "bbox": [
+    -2.23568,
+    53.482609,
+    -2.23568,
+    53.482609
+],
   "geometry": {"coordinates":[-2.23568,53.482609],"type":"Point"}
 }

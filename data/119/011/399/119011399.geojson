@@ -2,13 +2,14 @@
   "id": 119011399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.48098,51.222477,-2.48098,51.222477",
     "geom:latitude":51.222477,
     "geom:longitude":-2.48098,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 St Michaels Close, Stoke St Michael",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119011399,
-    "wof:lastmodified":1449043022,
+    "wof:lastmodified":1466266927,
     "wof:name":"Dream Cars",
     "wof:parent_id":85684013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.48098,51.222477,-2.48098,51.222477],
+  "bbox": [
+    -2.48098,
+    51.222477,
+    -2.48098,
+    51.222477
+],
   "geometry": {"coordinates":[-2.48098,51.222477],"type":"Point"}
 }

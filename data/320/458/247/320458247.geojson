@@ -2,13 +2,14 @@
   "id": 320458247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.876423,52.459698,-1.876423,52.459698",
     "geom:latitude":52.459698,
     "geom:longitude":-1.876423,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Ladypool Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320458247,
-    "wof:lastmodified":1449013919,
+    "wof:lastmodified":1466280411,
     "wof:name":"Central Motors",
     "wof:parent_id":85790495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-1.876423,52.459698,-1.876423,52.459698],
+  "bbox": [
+    -1.876423,
+    52.459698,
+    -1.876423,
+    52.459698
+],
   "geometry": {"coordinates":[-1.876423,52.459698],"type":"Point"}
 }

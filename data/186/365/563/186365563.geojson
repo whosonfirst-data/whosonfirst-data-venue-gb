@@ -2,13 +2,14 @@
   "id": 186365563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.014455,51.440121,-1.014455,51.440121",
     "geom:latitude":51.440121,
     "geom:longitude":-1.014455,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Hatford Road, Southcote",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186365563,
-    "wof:lastmodified":1449050842,
+    "wof:lastmodified":1466257041,
     "wof:name":"Shire Fencing",
     "wof:parent_id":85791053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fencing"
     ]
 },
-  "bbox": [-1.014455,51.440121,-1.014455,51.440121],
+  "bbox": [
+    -1.014455,
+    51.440121,
+    -1.014455,
+    51.440121
+],
   "geometry": {"coordinates":[-1.014455,51.440121],"type":"Point"}
 }

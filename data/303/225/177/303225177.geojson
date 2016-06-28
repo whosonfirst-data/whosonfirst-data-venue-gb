@@ -2,13 +2,14 @@
   "id": 303225177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.297698,52.881588,-1.297698,52.881588",
     "geom:latitude":52.881588,
     "geom:longitude":-1.297698,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Draycott Road, Long Eaton",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303225177,
-    "wof:lastmodified":1448998879,
+    "wof:lastmodified":1466269593,
     "wof:name":"Sawley Post Office",
     "wof:parent_id":85791095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.297698,52.881588,-1.297698,52.881588],
+  "bbox": [
+    -1.297698,
+    52.881588,
+    -1.297698,
+    52.881588
+],
   "geometry": {"coordinates":[-1.297698,52.881588],"type":"Point"}
 }

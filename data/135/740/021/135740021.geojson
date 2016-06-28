@@ -2,13 +2,14 @@
   "id": 135740021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.878988,53.781731,-2.878988,53.781731",
     "geom:latitude":53.781731,
     "geom:longitude":-2.878988,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Moor Street, Kirkham",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135740021,
-    "wof:lastmodified":1449022388,
+    "wof:lastmodified":1466286517,
     "wof:name":"Moor Street Pharmacy",
     "wof:parent_id":101872273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.878988,53.781731,-2.878988,53.781731],
+  "bbox": [
+    -2.878988,
+    53.781731,
+    -2.878988,
+    53.781731
+],
   "geometry": {"coordinates":[-2.878988,53.781731],"type":"Point"}
 }

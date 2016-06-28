@@ -2,13 +2,14 @@
   "id": 320659009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.341778,53.153908,-2.341778,53.153908",
     "geom:latitude":53.153908,
     "geom:longitude":-2.341778,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Congleton Road",
     "sg:city":"Sandbach",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320659009,
-    "wof:lastmodified":1449011644,
+    "wof:lastmodified":1466283481,
     "wof:name":"Parkhouse Residential Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-2.341778,53.153908,-2.341778,53.153908],
+  "bbox": [
+    -2.341778,
+    53.153908,
+    -2.341778,
+    53.153908
+],
   "geometry": {"coordinates":[-2.341778,53.153908],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287256815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.93815,51.64584,-3.93815,51.64584",
     "geom:latitude":51.64584,
     "geom:longitude":-3.93815,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Grease Yard, Spelter Road, Morriston",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287256815,
-    "wof:lastmodified":1449001346,
+    "wof:lastmodified":1466270992,
     "wof:name":"Sherratt Auto Repairs",
     "wof:parent_id":85789853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "car"
     ]
 },
-  "bbox": [-3.93815,51.64584,-3.93815,51.64584],
+  "bbox": [
+    -3.93815,
+    51.64584,
+    -3.93815,
+    51.64584
+],
   "geometry": {"coordinates":[-3.93815,51.64584],"type":"Point"}
 }

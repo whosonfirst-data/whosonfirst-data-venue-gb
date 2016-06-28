@@ -2,13 +2,14 @@
   "id": 219836323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.245665,55.808098,-4.245665,55.808098",
     "geom:latitude":55.808098,
     "geom:longitude":-4.245665,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Raithburn Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219836323,
-    "wof:lastmodified":1449072716,
+    "wof:lastmodified":1466264281,
     "wof:name":"Castle Plumbing & Heating",
     "wof:parent_id":85792531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "heating"
     ]
 },
-  "bbox": [-4.245665,55.808098,-4.245665,55.808098],
+  "bbox": [
+    -4.245665,
+    55.808098,
+    -4.245665,
+    55.808098
+],
   "geometry": {"coordinates":[-4.245665,55.808098],"type":"Point"}
 }

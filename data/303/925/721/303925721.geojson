@@ -2,13 +2,14 @@
   "id": 303925721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.481579,53.387859,-1.481579,53.387859",
     "geom:latitude":53.387859,
     "geom:longitude":-1.481579,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Netherthorpe Place",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303925721,
-    "wof:lastmodified":1448998137,
+    "wof:lastmodified":1466284674,
     "wof:name":"Raymond Hudson",
     "wof:parent_id":85793123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.481579,53.387859,-1.481579,53.387859],
+  "bbox": [
+    -1.481579,
+    53.387859,
+    -1.481579,
+    53.387859
+],
   "geometry": {"coordinates":[-1.481579,53.387859],"type":"Point"}
 }

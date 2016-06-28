@@ -2,13 +2,14 @@
   "id": 220012545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.276504,55.91003,-3.276504,55.91003",
     "geom:latitude":55.91003,
     "geom:longitude":-3.276504,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Wester Hailes Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220012545,
-    "wof:lastmodified":1449074795,
+    "wof:lastmodified":1466253167,
     "wof:name":"Platform Adult Learning Centre",
     "wof:parent_id":85791551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adult"
     ]
 },
-  "bbox": [-3.276504,55.91003,-3.276504,55.91003],
+  "bbox": [
+    -3.276504,
+    55.91003,
+    -3.276504,
+    55.91003
+],
   "geometry": {"coordinates":[-3.276504,55.91003],"type":"Point"}
 }

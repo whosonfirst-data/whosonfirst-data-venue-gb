@@ -2,13 +2,14 @@
   "id": 303386141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.159596,52.632301,-1.159596,52.632301",
     "geom:latitude":52.632301,
     "geom:longitude":-1.159596,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Dunster St",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303386141,
-    "wof:lastmodified":1448999406,
+    "wof:lastmodified":1466274442,
     "wof:name":"Scott Instrell",
     "wof:parent_id":85792039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bricklaying"
     ]
 },
-  "bbox": [-1.159596,52.632301,-1.159596,52.632301],
+  "bbox": [
+    -1.159596,
+    52.632301,
+    -1.159596,
+    52.632301
+],
   "geometry": {"coordinates":[-1.159596,52.632301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303102453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.167329,55.97459,-3.167329,55.97459",
     "geom:latitude":55.97459,
     "geom:longitude":-3.167329,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Constitution Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303102453,
-    "wof:lastmodified":1449000382,
+    "wof:lastmodified":1466265749,
     "wof:name":"Web Advertising Ltd.",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"
     ]
 },
-  "bbox": [-3.167329,55.97459,-3.167329,55.97459],
+  "bbox": [
+    -3.167329,
+    55.97459,
+    -3.167329,
+    55.97459
+],
   "geometry": {"coordinates":[-3.167329,55.97459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135302627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.033261,51.098259,0.033261,51.098259",
     "geom:latitude":51.098259,
     "geom:longitude":0.033261,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Ashdown Forest Centre, Wych Cross",
     "sg:city":"Forest Row",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135302627,
-    "wof:lastmodified":1449022031,
+    "wof:lastmodified":1466277376,
     "wof:name":"Conservators of Ashdown Forest",
     "wof:parent_id":101854595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.033261,51.098259,0.033261,51.098259],
+  "bbox": [
+    0.033261,
+    51.098259,
+    0.033261,
+    51.098259
+],
   "geometry": {"coordinates":[0.033261,51.098259],"type":"Point"}
 }

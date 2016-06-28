@@ -2,13 +2,14 @@
   "id": 186227255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.105656,52.585621,-1.105656,52.585621",
     "geom:latitude":52.585621,
     "geom:longitude":-1.105656,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Bell Street",
     "sg:city":"Wigston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186227255,
-    "wof:lastmodified":1449050982,
+    "wof:lastmodified":1466255092,
     "wof:name":"Hampshires Bakery",
     "wof:parent_id":85861093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "baker"
     ]
 },
-  "bbox": [-1.105656,52.585621,-1.105656,52.585621],
+  "bbox": [
+    -1.105656,
+    52.585621,
+    -1.105656,
+    52.585621
+],
   "geometry": {"coordinates":[-1.105656,52.585621],"type":"Point"}
 }

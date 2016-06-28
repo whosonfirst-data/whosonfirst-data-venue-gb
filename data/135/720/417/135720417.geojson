@@ -2,13 +2,14 @@
   "id": 135720417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.111981,51.606323,0.111981,51.606323",
     "geom:latitude":51.606323,
     "geom:longitude":0.111981,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Elmbridge Rd",
     "sg:city":"Ilford",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135720417,
-    "wof:lastmodified":1449021705,
+    "wof:lastmodified":1466286546,
     "wof:name":"Services Call",
     "wof:parent_id":85787827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.111981,51.606323,0.111981,51.606323],
+  "bbox": [
+    0.111981,
+    51.606323,
+    0.111981,
+    51.606323
+],
   "geometry": {"coordinates":[0.111981,51.606323],"type":"Point"}
 }

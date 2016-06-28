@@ -2,13 +2,14 @@
   "id": 336648277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.25551,55.859779,-4.25551,55.859779",
     "geom:latitude":55.859779,
     "geom:longitude":-4.25551,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Gordon Chambers, 90 Mitchell St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336648277,
-    "wof:lastmodified":1448997242,
+    "wof:lastmodified":1466274207,
     "wof:name":"Anderson Jones",
     "wof:parent_id":85861547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-4.25551,55.859779,-4.25551,55.859779],
+  "bbox": [
+    -4.25551,
+    55.859779,
+    -4.25551,
+    55.859779
+],
   "geometry": {"coordinates":[-4.25551,55.859779],"type":"Point"}
 }

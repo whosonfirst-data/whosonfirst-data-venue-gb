@@ -2,13 +2,14 @@
   "id": 203263985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.259925,51.8312,-2.259925,51.8312",
     "geom:latitude":51.8312,
     "geom:longitude":-2.259925,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Holmleigh Pde, Tuffley",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203263985,
-    "wof:lastmodified":1449026821,
+    "wof:lastmodified":1466257194,
     "wof:name":"Tuffley Chemist",
     "wof:parent_id":85789875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "chemist"
     ]
 },
-  "bbox": [-2.259925,51.8312,-2.259925,51.8312],
+  "bbox": [
+    -2.259925,
+    51.8312,
+    -2.259925,
+    51.8312
+],
   "geometry": {"coordinates":[-2.259925,51.8312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253596005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.538122,53.798595,-1.538122,53.798595",
     "geom:latitude":53.798595,
     "geom:longitude":-1.538122,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Eastgate",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253596005,
-    "wof:lastmodified":1449064339,
+    "wof:lastmodified":1466271004,
     "wof:name":"English Herbal",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "health"
     ]
 },
-  "bbox": [-1.538122,53.798595,-1.538122,53.798595],
+  "bbox": [
+    -1.538122,
+    53.798595,
+    -1.538122,
+    53.798595
+],
   "geometry": {"coordinates":[-1.538122,53.798595],"type":"Point"}
 }

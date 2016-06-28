@@ -2,13 +2,14 @@
   "id": 303942757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.710049,52.193047,-1.710049,52.193047",
     "geom:latitude":52.193047,
     "geom:longitude":-1.710049,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Magistrates Court, Rother St",
     "sg:city":"Stratford Upon Avon",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303942757,
-    "wof:lastmodified":1448999234,
+    "wof:lastmodified":1466284905,
     "wof:name":"Witness Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.710049,52.193047,-1.710049,52.193047],
+  "bbox": [
+    -1.710049,
+    52.193047,
+    -1.710049,
+    52.193047
+],
   "geometry": {"coordinates":[-1.710049,52.193047],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303691181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.207141,52.772301,-1.207141,52.772301",
     "geom:latitude":52.772301,
     "geom:longitude":-1.207141,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Swan Street",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303691181,
-    "wof:lastmodified":1448998320,
+    "wof:lastmodified":1466281626,
     "wof:name":"Topic Hairstyles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.207141,52.772301,-1.207141,52.772301],
+  "bbox": [
+    -1.207141,
+    52.772301,
+    -1.207141,
+    52.772301
+],
   "geometry": {"coordinates":[-1.207141,52.772301],"type":"Point"}
 }

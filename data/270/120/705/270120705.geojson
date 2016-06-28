@@ -2,13 +2,14 @@
   "id": 270120705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.984161,53.32943,-1.984161,53.32943",
     "geom:latitude":53.32943,
     "geom:longitude":-1.984161,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Market St, Whaley Bridge",
     "sg:city":"High Peak",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270120705,
-    "wof:lastmodified":1449010739,
+    "wof:lastmodified":1466264116,
     "wof:name":"Pizza Pan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-1.984161,53.32943,-1.984161,53.32943],
+  "bbox": [
+    -1.984161,
+    53.32943,
+    -1.984161,
+    53.32943
+],
   "geometry": {"coordinates":[-1.984161,53.32943],"type":"Point"}
 }

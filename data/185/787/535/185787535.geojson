@@ -2,13 +2,14 @@
   "id": 185787535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.089066,57.15506,-2.089066,57.15506",
     "geom:latitude":57.15506,
     "geom:longitude":-2.089066,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Urquhart Rd",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":185787535,
-    "wof:lastmodified":1449007347,
+    "wof:lastmodified":1466254487,
     "wof:name":"City Hospital",
     "wof:parent_id":85789565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.089066,57.15506,-2.089066,57.15506],
+  "bbox": [
+    -2.089066,
+    57.15506,
+    -2.089066,
+    57.15506
+],
   "geometry": {"coordinates":[-2.089066,57.15506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186043421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.247688,51.866154,-2.247688,51.866154",
     "geom:latitude":51.866154,
     "geom:longitude":-2.247688,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Westgate Street",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186043421,
-    "wof:lastmodified":1449052351,
+    "wof:lastmodified":1466252610,
     "wof:name":"SCOPE",
     "wof:parent_id":85790951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "charity"
     ]
 },
-  "bbox": [-2.247688,51.866154,-2.247688,51.866154],
+  "bbox": [
+    -2.247688,
+    51.866154,
+    -2.247688,
+    51.866154
+],
   "geometry": {"coordinates":[-2.247688,51.866154],"type":"Point"}
 }

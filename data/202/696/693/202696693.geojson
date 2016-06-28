@@ -2,13 +2,14 @@
   "id": 202696693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.205462,51.483093,-3.205462,51.483093",
     "geom:latitude":51.483093,
     "geom:longitude":-3.205462,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Registrar Of Births Deaths & Marriages, 48 Park Pl",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202696693,
-    "wof:lastmodified":1449060301,
+    "wof:lastmodified":1466257404,
     "wof:name":"City & County Of Cardiff",
     "wof:parent_id":85861447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-3.205462,51.483093,-3.205462,51.483093],
+  "bbox": [
+    -3.205462,
+    51.483093,
+    -3.205462,
+    51.483093
+],
   "geometry": {"coordinates":[-3.205462,51.483093],"type":"Point"}
 }

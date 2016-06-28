@@ -2,13 +2,14 @@
   "id": 303602055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.50389,53.750019,-2.50389,53.750019",
     "geom:latitude":53.750019,
     "geom:longitude":-2.50389,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dental Surgery, 281 Preston New Road",
     "sg:city":"Blackburn",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303602055,
-    "wof:lastmodified":1448999266,
+    "wof:lastmodified":1466279875,
     "wof:name":"P S Edmundson",
     "wof:parent_id":85792855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.50389,53.750019,-2.50389,53.750019],
+  "bbox": [
+    -2.50389,
+    53.750019,
+    -2.50389,
+    53.750019
+],
   "geometry": {"coordinates":[-2.50389,53.750019],"type":"Point"}
 }

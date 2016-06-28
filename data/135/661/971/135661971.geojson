@@ -2,13 +2,14 @@
   "id": 135661971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.289508,54.593182,-1.289508,54.593182",
     "geom:latitude":54.593182,
     "geom:longitude":-1.289508,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Mill Lane",
     "sg:city":"Billingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135661971,
-    "wof:lastmodified":1449023679,
+    "wof:lastmodified":1466285169,
     "wof:name":"Billingham Aquatic Centre",
     "wof:parent_id":101750601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.289508,54.593182,-1.289508,54.593182],
+  "bbox": [
+    -1.289508,
+    54.593182,
+    -1.289508,
+    54.593182
+],
   "geometry": {"coordinates":[-1.289508,54.593182],"type":"Point"}
 }

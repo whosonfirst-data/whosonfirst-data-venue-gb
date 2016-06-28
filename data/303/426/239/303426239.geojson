@@ -2,13 +2,14 @@
   "id": 303426239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.138054,51.48645,-3.138054,51.48645",
     "geom:latitude":51.48645,
     "geom:longitude":-3.138054,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Meirion Place",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":303426239,
-    "wof:lastmodified":1448998635,
+    "wof:lastmodified":1466275626,
     "wof:name":"Minton Court Sheltered Housing",
     "wof:parent_id":85789789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-3.138054,51.48645,-3.138054,51.48645],
+  "bbox": [
+    -3.138054,
+    51.48645,
+    -3.138054,
+    51.48645
+],
   "geometry": {"coordinates":[-3.138054,51.48645],"type":"Point"}
 }

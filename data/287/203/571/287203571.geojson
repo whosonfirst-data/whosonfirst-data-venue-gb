@@ -2,13 +2,14 @@
   "id": 287203571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.500041,50.734268,-3.500041,50.734268",
     "geom:latitude":50.734268,
     "geom:longitude":-3.500041,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Beacon Lane",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287203571,
-    "wof:lastmodified":1449001052,
+    "wof:lastmodified":1466269254,
     "wof:name":"John Fricker & Sons",
     "wof:parent_id":85791615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cctv"
     ]
 },
-  "bbox": [-3.500041,50.734268,-3.500041,50.734268],
+  "bbox": [
+    -3.500041,
+    50.734268,
+    -3.500041,
+    50.734268
+],
   "geometry": {"coordinates":[-3.500041,50.734268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270045555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.424089,55.915501,-4.424089,55.915501",
     "geom:latitude":55.915501,
     "geom:longitude":-4.424089,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Overtoun Rd",
     "sg:city":"Clydebank",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270045555,
-    "wof:lastmodified":1449010808,
+    "wof:lastmodified":1466261823,
     "wof:name":"West Dunbartonshire Council",
     "wof:parent_id":85786955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "interest"
     ]
 },
-  "bbox": [-4.424089,55.915501,-4.424089,55.915501],
+  "bbox": [
+    -4.424089,
+    55.915501,
+    -4.424089,
+    55.915501
+],
   "geometry": {"coordinates":[-4.424089,55.915501],"type":"Point"}
 }

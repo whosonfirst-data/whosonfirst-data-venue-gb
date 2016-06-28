@@ -2,13 +2,14 @@
   "id": 269731463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.44302,52.423683,-1.44302,52.423683",
     "geom:latitude":52.423683,
     "geom:longitude":-1.44302,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Cloister Close",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269731463,
-    "wof:lastmodified":1449038682,
+    "wof:lastmodified":1466267609,
     "wof:name":"SECURITY 2000 COVENTRY",
     "wof:parent_id":85791307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "activity"
     ]
 },
-  "bbox": [-1.44302,52.423683,-1.44302,52.423683],
+  "bbox": [
+    -1.44302,
+    52.423683,
+    -1.44302,
+    52.423683
+],
   "geometry": {"coordinates":[-1.44302,52.423683],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219962489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.107275,51.89497,-2.107275,51.89497",
     "geom:latitude":51.89497,
     "geom:longitude":-2.107275,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Gloucester Road",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219962489,
-    "wof:lastmodified":1449072461,
+    "wof:lastmodified":1466266670,
     "wof:name":"Radio Call",
     "wof:parent_id":85790631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "radio"
     ]
 },
-  "bbox": [-2.107275,51.89497,-2.107275,51.89497],
+  "bbox": [
+    -2.107275,
+    51.89497,
+    -2.107275,
+    51.89497
+],
   "geometry": {"coordinates":[-2.107275,51.89497],"type":"Point"}
 }

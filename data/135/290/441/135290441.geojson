@@ -2,13 +2,14 @@
   "id": 135290441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.802318,51.621243,-3.802318,51.621243",
     "geom:latitude":51.621243,
     "geom:longitude":-3.802318,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Maes Ty Canol",
     "sg:city":"Port Talbot",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135290441,
-    "wof:lastmodified":1449022303,
+    "wof:lastmodified":1466276638,
     "wof:name":"M Ridd",
     "wof:parent_id":85684117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.802318,51.621243,-3.802318,51.621243],
+  "bbox": [
+    -3.802318,
+    51.621243,
+    -3.802318,
+    51.621243
+],
   "geometry": {"coordinates":[-3.802318,51.621243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135700367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.56819,54.53661,-3.56819,54.53661",
     "geom:latitude":54.53661,
     "geom:longitude":-3.56819,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Main Street, Hensingham",
     "sg:city":"Whitehaven",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135700367,
-    "wof:lastmodified":1449023742,
+    "wof:lastmodified":1466285963,
     "wof:name":"Cottage Chippy",
     "wof:parent_id":85683641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.56819,54.53661,-3.56819,54.53661],
+  "bbox": [
+    -3.56819,
+    54.53661,
+    -3.56819,
+    54.53661
+],
   "geometry": {"coordinates":[-3.56819,54.53661],"type":"Point"}
 }

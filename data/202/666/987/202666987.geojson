@@ -2,13 +2,14 @@
   "id": 202666987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.200392,51.531635,-3.200392,51.531635",
     "geom:latitude":51.531635,
     "geom:longitude":-3.200392,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Llangrange Road, Llanishen",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202666987,
-    "wof:lastmodified":1449061037,
+    "wof:lastmodified":1466256973,
     "wof:name":"Jacqui Davies",
     "wof:parent_id":85790999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.200392,51.531635,-3.200392,51.531635],
+  "bbox": [
+    -3.200392,
+    51.531635,
+    -3.200392,
+    51.531635
+],
   "geometry": {"coordinates":[-3.200392,51.531635],"type":"Point"}
 }

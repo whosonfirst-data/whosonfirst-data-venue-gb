@@ -2,13 +2,14 @@
   "id": 303140219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.849165,50.725357,-1.849165,50.725357",
     "geom:latitude":50.725357,
     "geom:longitude":-1.849165,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Knowle Road, Boscombe",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303140219,
-    "wof:lastmodified":1448998474,
+    "wof:lastmodified":1466266878,
     "wof:name":"Torbryan Hotel",
     "wof:parent_id":85785869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.849165,50.725357,-1.849165,50.725357],
+  "bbox": [
+    -1.849165,
+    50.725357,
+    -1.849165,
+    50.725357
+],
   "geometry": {"coordinates":[-1.849165,50.725357],"type":"Point"}
 }

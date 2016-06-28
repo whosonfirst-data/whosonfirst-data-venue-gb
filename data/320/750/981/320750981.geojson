@@ -2,13 +2,14 @@
   "id": 320750981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.213575,55.82896,-3.213575,55.82896",
     "geom:latitude":55.82896,
     "geom:longitude":-3.213575,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 6",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320750981,
-    "wof:lastmodified":1449013505,
+    "wof:lastmodified":1466284419,
     "wof:name":"Scotline Communications Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-3.213575,55.82896,-3.213575,55.82896],
+  "bbox": [
+    -3.213575,
+    55.82896,
+    -3.213575,
+    55.82896
+],
   "geometry": {"coordinates":[-3.213575,55.82896],"type":"Point"}
 }

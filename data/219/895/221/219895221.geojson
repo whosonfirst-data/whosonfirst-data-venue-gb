@@ -2,13 +2,14 @@
   "id": 219895221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.702216,55.65802,-4.702216,55.65802",
     "geom:latitude":55.65802,
     "geom:longitude":-4.702216,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Atholl Gardens",
     "sg:city":"Kilwinning",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219895221,
-    "wof:lastmodified":1449071882,
+    "wof:lastmodified":1466265344,
     "wof:name":"Scottish Marriage Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counselling"
     ]
 },
-  "bbox": [-4.702216,55.65802,-4.702216,55.65802],
+  "bbox": [
+    -4.702216,
+    55.65802,
+    -4.702216,
+    55.65802
+],
   "geometry": {"coordinates":[-4.702216,55.65802],"type":"Point"}
 }

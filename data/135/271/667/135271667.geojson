@@ -2,13 +2,14 @@
   "id": 135271667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.235049,50.849251,-1.235049,50.849251",
     "geom:latitude":50.849251,
     "geom:longitude":-1.235049,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 West Street, Titchfield",
     "sg:city":"Fareham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135271667,
-    "wof:lastmodified":1449022596,
+    "wof:lastmodified":1466263329,
     "wof:name":"A S Interface",
     "wof:parent_id":85861211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.235049,50.849251,-1.235049,50.849251],
+  "bbox": [
+    -1.235049,
+    50.849251,
+    -1.235049,
+    50.849251
+],
   "geometry": {"coordinates":[-1.235049,50.849251],"type":"Point"}
 }

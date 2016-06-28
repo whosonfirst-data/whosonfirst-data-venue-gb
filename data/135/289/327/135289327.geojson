@@ -2,13 +2,14 @@
   "id": 135289327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.244282,55.861019,-4.244282,55.861019",
     "geom:latitude":55.861019,
     "geom:longitude":-4.244282,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"80 George Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135289327,
-    "wof:lastmodified":1449023509,
+    "wof:lastmodified":1466276545,
     "wof:name":"Alldays",
     "wof:parent_id":85861551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.244282,55.861019,-4.244282,55.861019],
+  "bbox": [
+    -4.244282,
+    55.861019,
+    -4.244282,
+    55.861019
+],
   "geometry": {"coordinates":[-4.244282,55.861019],"type":"Point"}
 }

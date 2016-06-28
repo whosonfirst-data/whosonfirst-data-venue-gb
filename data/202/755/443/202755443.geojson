@@ -2,13 +2,14 @@
   "id": 202755443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.202258,55.952877,-3.202258,55.952877",
     "geom:latitude":55.952877,
     "geom:longitude":-3.202258,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"95 George Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202755443,
-    "wof:lastmodified":1449060839,
+    "wof:lastmodified":1466258362,
     "wof:name":"Office Angels Ltd.",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-3.202258,55.952877,-3.202258,55.952877],
+  "bbox": [
+    -3.202258,
+    55.952877,
+    -3.202258,
+    55.952877
+],
   "geometry": {"coordinates":[-3.202258,55.952877],"type":"Point"}
 }

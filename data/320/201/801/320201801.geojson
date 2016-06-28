@@ -2,13 +2,14 @@
   "id": 320201801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.405312,54.919559,-1.405312,54.919559",
     "geom:latitude":54.919559,
     "geom:longitude":-1.405312,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Crown Works, Crown Road, Low Southwick",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320201801,
-    "wof:lastmodified":1449014470,
+    "wof:lastmodified":1466274085,
     "wof:name":"Herrington Industrial Services Ltd.",
     "wof:parent_id":85790487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "blast"
     ]
 },
-  "bbox": [-1.405312,54.919559,-1.405312,54.919559],
+  "bbox": [
+    -1.405312,
+    54.919559,
+    -1.405312,
+    54.919559
+],
   "geometry": {"coordinates":[-1.405312,54.919559],"type":"Point"}
 }

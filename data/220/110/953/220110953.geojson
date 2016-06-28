@@ -2,13 +2,14 @@
   "id": 220110953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.880622,50.739315,-1.880622,50.739315",
     "geom:latitude":50.739315,
     "geom:longitude":-1.880622,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Bryanstone Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":220110953,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466254926,
     "wof:name":"Apollo Fitters",
     "wof:parent_id":85791709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-1.880622,50.739315,-1.880622,50.739315],
+  "bbox": [
+    -1.880622,
+    50.739315,
+    -1.880622,
+    50.739315
+],
   "geometry": {"coordinates":[-1.880622,50.739315],"type":"Point"}
 }

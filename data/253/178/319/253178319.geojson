@@ -2,13 +2,14 @@
   "id": 253178319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.986635,52.953529,-1.986635,52.953529",
     "geom:latitude":52.953529,
     "geom:longitude":-1.986635,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5 B, 1 Draycott Road, Tean",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253178319,
-    "wof:lastmodified":1449064957,
+    "wof:lastmodified":1466260885,
     "wof:name":"Curry & Bevans (Electrical Engineers)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.986635,52.953529,-1.986635,52.953529],
+  "bbox": [
+    -1.986635,
+    52.953529,
+    -1.986635,
+    52.953529
+],
   "geometry": {"coordinates":[-1.986635,52.953529],"type":"Point"}
 }

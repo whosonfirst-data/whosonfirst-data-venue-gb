@@ -2,13 +2,14 @@
   "id": 252873745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.799131,50.399582,-4.799131,50.399582",
     "geom:latitude":50.399582,
     "geom:longitude":-4.799131,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Roche Road, Bugle",
     "sg:city":"St Austell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":252873745,
-    "wof:lastmodified":1449005646,
+    "wof:lastmodified":1466260309,
     "wof:name":"British Fuels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "smokeless"
     ]
 },
-  "bbox": [-4.799131,50.399582,-4.799131,50.399582],
+  "bbox": [
+    -4.799131,
+    50.399582,
+    -4.799131,
+    50.399582
+],
   "geometry": {"coordinates":[-4.799131,50.399582],"type":"Point"}
 }

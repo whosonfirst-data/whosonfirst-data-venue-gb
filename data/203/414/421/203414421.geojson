@@ -2,13 +2,14 @@
   "id": 203414421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.337008,50.873875,-1.337008,50.873875",
     "geom:latitude":50.873875,
     "geom:longitude":-1.337008,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Hound Road Gardens",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203414421,
-    "wof:lastmodified":1449025806,
+    "wof:lastmodified":1466259816,
     "wof:name":"Brian Platt Components",
     "wof:parent_id":85791809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "washing"
     ]
 },
-  "bbox": [-1.337008,50.873875,-1.337008,50.873875],
+  "bbox": [
+    -1.337008,
+    50.873875,
+    -1.337008,
+    50.873875
+],
   "geometry": {"coordinates":[-1.337008,50.873875],"type":"Point"}
 }

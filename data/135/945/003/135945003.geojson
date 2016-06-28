@@ -2,13 +2,14 @@
   "id": 135945003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.033145,52.690952,-2.033145,52.690952",
     "geom:latitude":52.690952,
     "geom:longitude":-2.033145,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Linley House, Shirehall Place",
     "sg:city":"Cannock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135945003,
-    "wof:lastmodified":1449021262,
+    "wof:lastmodified":1466288561,
     "wof:name":"Universal Business Machines",
     "wof:parent_id":101750497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.033145,52.690952,-2.033145,52.690952],
+  "bbox": [
+    -2.033145,
+    52.690952,
+    -2.033145,
+    52.690952
+],
   "geometry": {"coordinates":[-2.033145,52.690952],"type":"Point"}
 }

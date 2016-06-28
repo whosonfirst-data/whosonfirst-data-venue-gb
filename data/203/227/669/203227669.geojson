@@ -2,13 +2,14 @@
   "id": 203227669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.32157,55.915485,-4.32157,55.915485",
     "geom:latitude":55.915485,
     "geom:longitude":-4.32157,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Milngavie Road, Bearsden",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203227669,
-    "wof:lastmodified":1449025330,
+    "wof:lastmodified":1466256512,
     "wof:name":"Haddows",
     "wof:parent_id":85788211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wines"
     ]
 },
-  "bbox": [-4.32157,55.915485,-4.32157,55.915485],
+  "bbox": [
+    -4.32157,
+    55.915485,
+    -4.32157,
+    55.915485
+],
   "geometry": {"coordinates":[-4.32157,55.915485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303049663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.125422,51.47559,-0.125422,51.47559",
     "geom:latitude":51.47559,
     "geom:longitude":-0.125422,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Guildford Road",
     "sg:city":"London",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303049663,
-    "wof:lastmodified":1448999330,
+    "wof:lastmodified":1466263889,
     "wof:name":"Gaskell Quartz Ltd.",
     "wof:parent_id":85792145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "agent"
     ]
 },
-  "bbox": [-0.125422,51.47559,-0.125422,51.47559],
+  "bbox": [
+    -0.125422,
+    51.47559,
+    -0.125422,
+    51.47559
+],
   "geometry": {"coordinates":[-0.125422,51.47559],"type":"Point"}
 }

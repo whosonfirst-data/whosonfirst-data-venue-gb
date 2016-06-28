@@ -2,13 +2,14 @@
   "id": 135700669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.421743,54.339752,-1.421743,54.339752",
     "geom:latitude":54.339752,
     "geom:longitude":-1.421743,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Ashlands Road",
     "sg:city":"Northallerton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135700669,
-    "wof:lastmodified":1449023742,
+    "wof:lastmodified":1466285890,
     "wof:name":"Rochester Signs",
     "wof:parent_id":85683811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.421743,54.339752,-1.421743,54.339752],
+  "bbox": [
+    -1.421743,
+    54.339752,
+    -1.421743,
+    54.339752
+],
   "geometry": {"coordinates":[-1.421743,54.339752],"type":"Point"}
 }

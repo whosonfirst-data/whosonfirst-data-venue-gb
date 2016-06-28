@@ -2,13 +2,14 @@
   "id": 219439263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.058116,51.505131,-0.058116,51.505131",
     "geom:latitude":51.505131,
     "geom:longitude":-0.058116,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Wapping Lane",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219439263,
-    "wof:lastmodified":1449071381,
+    "wof:lastmodified":1466257752,
     "wof:name":"Tower News",
     "wof:parent_id":85860165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-0.058116,51.505131,-0.058116,51.505131],
+  "bbox": [
+    -0.058116,
+    51.505131,
+    -0.058116,
+    51.505131
+],
   "geometry": {"coordinates":[-0.058116,51.505131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270112177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.007569,52.696671,-2.007569,52.696671",
     "geom:latitude":52.696671,
     "geom:longitude":-2.007569,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"A C House, Hyssop Close, Hemlock Park",
     "sg:city":"Cannock",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270112177,
-    "wof:lastmodified":1449009763,
+    "wof:lastmodified":1466263829,
     "wof:name":"Air Continental Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-2.007569,52.696671,-2.007569,52.696671],
+  "bbox": [
+    -2.007569,
+    52.696671,
+    -2.007569,
+    52.696671
+],
   "geometry": {"coordinates":[-2.007569,52.696671],"type":"Point"}
 }

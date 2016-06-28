@@ -2,13 +2,14 @@
   "id": 119438885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.491885,53.39119,-1.491885,53.39119",
     "geom:latitude":53.39119,
     "geom:longitude":-1.491885,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Blake Street",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119438885,
-    "wof:lastmodified":1449041679,
+    "wof:lastmodified":1466286151,
     "wof:name":"The Blake Hotel",
     "wof:parent_id":85789265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.491885,53.39119,-1.491885,53.39119],
+  "bbox": [
+    -1.491885,
+    53.39119,
+    -1.491885,
+    53.39119
+],
   "geometry": {"coordinates":[-1.491885,53.39119],"type":"Point"}
 }

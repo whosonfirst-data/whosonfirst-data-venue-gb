@@ -2,13 +2,14 @@
   "id": 320486353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.341464,55.826622,-4.341464,55.826622",
     "geom:latitude":55.826622,
     "geom:longitude":-4.341464,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Braidcraft Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320486353,
-    "wof:lastmodified":1449013342,
+    "wof:lastmodified":1466281065,
     "wof:name":"Ace Garage Doors",
     "wof:parent_id":85789877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "door"
     ]
 },
-  "bbox": [-4.341464,55.826622,-4.341464,55.826622],
+  "bbox": [
+    -4.341464,
+    55.826622,
+    -4.341464,
+    55.826622
+],
   "geometry": {"coordinates":[-4.341464,55.826622],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203220589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.145348,52.944183,-1.145348,52.944183",
     "geom:latitude":52.944183,
     "geom:longitude":-1.145348,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Room 279, Arkwright Building",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203220589,
-    "wof:lastmodified":1449026804,
+    "wof:lastmodified":1466256395,
     "wof:name":"Nottingham Trent Testing Services",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "calibration"
     ]
 },
-  "bbox": [-1.145348,52.944183,-1.145348,52.944183],
+  "bbox": [
+    -1.145348,
+    52.944183,
+    -1.145348,
+    52.944183
+],
   "geometry": {"coordinates":[-1.145348,52.944183],"type":"Point"}
 }

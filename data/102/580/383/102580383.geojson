@@ -2,13 +2,14 @@
   "id": 102580383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.118011,51.461044,-2.118011,51.461044",
     "geom:latitude":51.461044,
     "geom:longitude":-2.118011,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Station Hill",
     "sg:city":"Chippenham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102580383,
-    "wof:lastmodified":1449069411,
+    "wof:lastmodified":1466274317,
     "wof:name":"Acropolis",
     "wof:parent_id":101852747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.118011,51.461044,-2.118011,51.461044],
+  "bbox": [
+    -2.118011,
+    51.461044,
+    -2.118011,
+    51.461044
+],
   "geometry": {"coordinates":[-2.118011,51.461044],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102606281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.964006,50.992771,-2.964006,50.992771",
     "geom:latitude":50.992771,
     "geom:longitude":-2.964006,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Farm Buildings, Lower Street, Curry Mallet",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102606281,
-    "wof:lastmodified":1449068176,
+    "wof:lastmodified":1466252699,
     "wof:name":"John Down",
     "wof:parent_id":85684013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.964006,50.992771,-2.964006,50.992771],
+  "bbox": [
+    -2.964006,
+    50.992771,
+    -2.964006,
+    50.992771
+],
   "geometry": {"coordinates":[-2.964006,50.992771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135374251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.220441,55.814369,-4.220441,55.814369",
     "geom:latitude":55.814369,
     "geom:longitude":-4.220441,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Kyle Sq, Rutherglen",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135374251,
-    "wof:lastmodified":1449022325,
+    "wof:lastmodified":1466259852,
     "wof:name":"James McCluskey",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.220441,55.814369,-4.220441,55.814369],
+  "bbox": [
+    -4.220441,
+    55.814369,
+    -4.220441,
+    55.814369
+],
   "geometry": {"coordinates":[-4.220441,55.814369],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286698649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.200073,53.508167,-2.200073,53.508167",
     "geom:latitude":53.508167,
     "geom:longitude":-2.200073,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Waverley Crescent",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286698649,
-    "wof:lastmodified":1449017912,
+    "wof:lastmodified":1466275920,
     "wof:name":"Whitecab",
     "wof:parent_id":85789211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-2.200073,53.508167,-2.200073,53.508167],
+  "bbox": [
+    -2.200073,
+    53.508167,
+    -2.200073,
+    53.508167
+],
   "geometry": {"coordinates":[-2.200073,53.508167],"type":"Point"}
 }

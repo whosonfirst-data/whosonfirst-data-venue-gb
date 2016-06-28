@@ -2,13 +2,14 @@
   "id": 202816389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.139999,55.932621,-3.139999,55.932621",
     "geom:latitude":55.932621,
     "geom:longitude":-3.139999,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Niddrie Mains Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202816389,
-    "wof:lastmodified":1449061596,
+    "wof:lastmodified":1466259357,
     "wof:name":"R Cameron",
     "wof:parent_id":85786847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diy"
     ]
 },
-  "bbox": [-3.139999,55.932621,-3.139999,55.932621],
+  "bbox": [
+    -3.139999,
+    55.932621,
+    -3.139999,
+    55.932621
+],
   "geometry": {"coordinates":[-3.139999,55.932621],"type":"Point"}
 }

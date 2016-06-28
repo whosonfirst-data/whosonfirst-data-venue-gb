@@ -2,13 +2,14 @@
   "id": 269778317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.508808,51.091309,-2.508808,51.091309",
     "geom:latitude":51.091309,
     "geom:longitude":-2.508808,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Cumnock Terrace",
     "sg:city":"Castle Cary",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269778317,
-    "wof:lastmodified":1449036187,
+    "wof:lastmodified":1466269025,
     "wof:name":"Castle Vehicle Movements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "transportation"
     ]
 },
-  "bbox": [-2.508808,51.091309,-2.508808,51.091309],
+  "bbox": [
+    -2.508808,
+    51.091309,
+    -2.508808,
+    51.091309
+],
   "geometry": {"coordinates":[-2.508808,51.091309],"type":"Point"}
 }

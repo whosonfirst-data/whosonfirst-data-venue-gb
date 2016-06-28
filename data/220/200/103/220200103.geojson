@@ -2,13 +2,14 @@
   "id": 220200103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.206082,55.954346,-3.206082,55.954346",
     "geom:latitude":55.954346,
     "geom:longitude":-3.206082,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Wemyss Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220200103,
-    "wof:lastmodified":1449074360,
+    "wof:lastmodified":1466256452,
     "wof:name":"Cadence Envision",
     "wof:parent_id":85792719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "software"
     ]
 },
-  "bbox": [-3.206082,55.954346,-3.206082,55.954346],
+  "bbox": [
+    -3.206082,
+    55.954346,
+    -3.206082,
+    55.954346
+],
   "geometry": {"coordinates":[-3.206082,55.954346],"type":"Point"}
 }

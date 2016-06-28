@@ -2,13 +2,14 @@
   "id": 202623743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.508555,52.9884,-2.508555,52.9884",
     "geom:latitude":52.9884,
     "geom:longitude":-2.508555,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Shropshire Street",
     "sg:city":"Crewe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202623743,
-    "wof:lastmodified":1449061876,
+    "wof:lastmodified":1466256218,
     "wof:name":"Braids of Audlem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.508555,52.9884,-2.508555,52.9884],
+  "bbox": [
+    -2.508555,
+    52.9884,
+    -2.508555,
+    52.9884
+],
   "geometry": {"coordinates":[-2.508555,52.9884],"type":"Point"}
 }

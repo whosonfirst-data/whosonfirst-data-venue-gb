@@ -2,13 +2,14 @@
   "id": 303173581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.489687,53.388569,-1.489687,53.388569",
     "geom:latitude":53.388569,
     "geom:longitude":-1.489687,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Addy Drive",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303173581,
-    "wof:lastmodified":1448998586,
+    "wof:lastmodified":1466267933,
     "wof:name":"B & P House Clearances",
     "wof:parent_id":85793123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clearance"
     ]
 },
-  "bbox": [-1.489687,53.388569,-1.489687,53.388569],
+  "bbox": [
+    -1.489687,
+    53.388569,
+    -1.489687,
+    53.388569
+],
   "geometry": {"coordinates":[-1.489687,53.388569],"type":"Point"}
 }

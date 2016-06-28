@@ -2,13 +2,14 @@
   "id": 135298083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.343509,56.117851,-3.343509,56.117851",
     "geom:latitude":56.117851,
     "geom:longitude":-3.343509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Perth Road",
     "sg:city":"Cowdenbeath",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135298083,
-    "wof:lastmodified":1449021824,
+    "wof:lastmodified":1466276997,
     "wof:name":"Brian Hutton",
     "wof:parent_id":101874199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.343509,56.117851,-3.343509,56.117851],
+  "bbox": [
+    -3.343509,
+    56.117851,
+    -3.343509,
+    56.117851
+],
   "geometry": {"coordinates":[-3.343509,56.117851],"type":"Point"}
 }

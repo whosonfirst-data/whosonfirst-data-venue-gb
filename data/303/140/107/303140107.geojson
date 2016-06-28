@@ -2,13 +2,14 @@
   "id": 303140107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.419886,52.533852,-2.419886,52.533852",
     "geom:latitude":52.533852,
     "geom:longitude":-2.419886,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 West Castle Street",
     "sg:city":"Bridgnorth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303140107,
-    "wof:lastmodified":1448998471,
+    "wof:lastmodified":1466266873,
     "wof:name":"The Old Castle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-2.419886,52.533852,-2.419886,52.533852],
+  "bbox": [
+    -2.419886,
+    52.533852,
+    -2.419886,
+    52.533852
+],
   "geometry": {"coordinates":[-2.419886,52.533852],"type":"Point"}
 }

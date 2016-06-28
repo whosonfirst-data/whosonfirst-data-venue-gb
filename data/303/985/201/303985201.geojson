@@ -2,13 +2,14 @@
   "id": 303985201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.398848,51.345333,1.398848,51.345333",
     "geom:latitude":51.345333,
     "geom:longitude":1.398848,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"99-101 Newington Road",
     "sg:city":"Ramsgate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303985201,
-    "wof:lastmodified":1448999335,
+    "wof:lastmodified":1466285318,
     "wof:name":"Adams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [1.398848,51.345333,1.398848,51.345333],
+  "bbox": [
+    1.398848,
+    51.345333,
+    1.398848,
+    51.345333
+],
   "geometry": {"coordinates":[1.398848,51.345333],"type":"Point"}
 }

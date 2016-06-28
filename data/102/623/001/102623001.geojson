@@ -2,13 +2,14 @@
   "id": 102623001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.294069,52.353436,-2.294069,52.353436",
     "geom:latitude":52.353436,
     "geom:longitude":-2.294069,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lickhill Road North",
     "sg:city":"Stourport On Severn",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102623001,
-    "wof:lastmodified":1449069487,
+    "wof:lastmodified":1466253305,
     "wof:name":"Ravenhurst Rest Home",
     "wof:parent_id":101875493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.294069,52.353436,-2.294069,52.353436],
+  "bbox": [
+    -2.294069,
+    52.353436,
+    -2.294069,
+    52.353436
+],
   "geometry": {"coordinates":[-2.294069,52.353436],"type":"Point"}
 }

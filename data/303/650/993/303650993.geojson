@@ -2,13 +2,14 @@
   "id": 303650993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.85231,55.241325,-4.85231,55.241325",
     "geom:latitude":55.241325,
     "geom:longitude":-4.85231,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Ailsa St East",
     "sg:city":"Girvan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303650993,
-    "wof:lastmodified":1448999612,
+    "wof:lastmodified":1466280965,
     "wof:name":"Jacquies Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-4.85231,55.241325,-4.85231,55.241325],
+  "bbox": [
+    -4.85231,
+    55.241325,
+    -4.85231,
+    55.241325
+],
   "geometry": {"coordinates":[-4.85231,55.241325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253377331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.166417,51.466141,-3.166417,51.466141",
     "geom:latitude":51.466141,
     "geom:longitude":-3.166417,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"First Floor, 123-125 Bute Street",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253377331,
-    "wof:lastmodified":1449063948,
+    "wof:lastmodified":1466264997,
     "wof:name":"Bay Shipping Ltd.",
     "wof:parent_id":85787045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [-3.166417,51.466141,-3.166417,51.466141],
+  "bbox": [
+    -3.166417,
+    51.466141,
+    -3.166417,
+    51.466141
+],
   "geometry": {"coordinates":[-3.166417,51.466141],"type":"Point"}
 }

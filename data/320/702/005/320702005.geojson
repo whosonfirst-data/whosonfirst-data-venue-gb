@@ -2,13 +2,14 @@
   "id": 320702005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.090006,50.790016,-1.090006,50.790016",
     "geom:latitude":50.790016,
     "geom:longitude":-1.090006,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Fordham House, 15 Yarborough Road",
     "sg:city":"Southsea",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320702005,
-    "wof:lastmodified":1449013131,
+    "wof:lastmodified":1466283905,
     "wof:name":"Abbeyfield Portsmouth Society Ltd",
     "wof:parent_id":85790481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "accommodation"
     ]
 },
-  "bbox": [-1.090006,50.790016,-1.090006,50.790016],
+  "bbox": [
+    -1.090006,
+    50.790016,
+    -1.090006,
+    50.790016
+],
   "geometry": {"coordinates":[-1.090006,50.790016],"type":"Point"}
 }

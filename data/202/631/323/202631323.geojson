@@ -2,13 +2,14 @@
   "id": 202631323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.091039,51.825275,-3.091039,51.825275",
     "geom:latitude":51.825275,
     "geom:longitude":-3.091039,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hillcrest, Llanelly Church Road, Gilwern",
     "sg:city":"Abergavenny",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202631323,
-    "wof:lastmodified":1449060897,
+    "wof:lastmodified":1466256348,
     "wof:name":"HANCOCKS COACHES",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "coach"
     ]
 },
-  "bbox": [-3.091039,51.825275,-3.091039,51.825275],
+  "bbox": [
+    -3.091039,
+    51.825275,
+    -3.091039,
+    51.825275
+],
   "geometry": {"coordinates":[-3.091039,51.825275],"type":"Point"}
 }

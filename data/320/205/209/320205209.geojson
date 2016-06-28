@@ -2,13 +2,14 @@
   "id": 320205209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.247473,55.810715,-4.247473,55.810715",
     "geom:latitude":55.810715,
     "geom:longitude":-4.247473,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Farne Drive",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320205209,
-    "wof:lastmodified":1449013510,
+    "wof:lastmodified":1466274196,
     "wof:name":"THE SURGERY",
     "wof:parent_id":85792529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-4.247473,55.810715,-4.247473,55.810715],
+  "bbox": [
+    -4.247473,
+    55.810715,
+    -4.247473,
+    55.810715
+],
   "geometry": {"coordinates":[-4.247473,55.810715],"type":"Point"}
 }

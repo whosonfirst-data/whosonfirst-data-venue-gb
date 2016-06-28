@@ -2,13 +2,14 @@
   "id": 119215465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.234563,52.188114,-2.234563,52.188114",
     "geom:latitude":52.188114,
     "geom:longitude":-2.234563,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 St Johns",
     "sg:city":"Worcester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119215465,
-    "wof:lastmodified":1449043048,
+    "wof:lastmodified":1466270965,
     "wof:name":"The Bell Inn",
     "wof:parent_id":85861063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.234563,52.188114,-2.234563,52.188114],
+  "bbox": [
+    -2.234563,
+    52.188114,
+    -2.234563,
+    52.188114
+],
   "geometry": {"coordinates":[-2.234563,52.188114],"type":"Point"}
 }

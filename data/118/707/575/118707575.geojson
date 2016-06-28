@@ -2,13 +2,14 @@
   "id": 118707575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.53288,52.292515,-1.53288,52.292515",
     "geom:latitude":52.292515,
     "geom:longitude":-1.53288,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40-42 Oxford Street",
     "sg:city":"Leamington Spa",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118707575,
-    "wof:lastmodified":1449054336,
+    "wof:lastmodified":1466265860,
     "wof:name":"Super Tile",
     "wof:parent_id":101750473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.53288,52.292515,-1.53288,52.292515],
+  "bbox": [
+    -1.53288,
+    52.292515,
+    -1.53288,
+    52.292515
+],
   "geometry": {"coordinates":[-1.53288,52.292515],"type":"Point"}
 }

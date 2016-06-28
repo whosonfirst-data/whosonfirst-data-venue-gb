@@ -2,13 +2,14 @@
   "id": 118618697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.511539,53.194561,-2.511539,53.194561",
     "geom:latitude":53.194561,
     "geom:longitude":-2.511539,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"76-78 Wharton Rd",
     "sg:city":"Winsford",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118618697,
-    "wof:lastmodified":1449054030,
+    "wof:lastmodified":1466259083,
     "wof:name":"John Moors & Co",
     "wof:parent_id":101871961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.511539,53.194561,-2.511539,53.194561],
+  "bbox": [
+    -2.511539,
+    53.194561,
+    -2.511539,
+    53.194561
+],
   "geometry": {"coordinates":[-2.511539,53.194561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286985451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.250631,53.041508,-2.250631,53.041508",
     "geom:latitude":53.041508,
     "geom:longitude":-2.250631,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"54 London Road, Chesterton",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":286985451,
-    "wof:lastmodified":1449016648,
+    "wof:lastmodified":1466281964,
     "wof:name":"Mr Chips",
     "wof:parent_id":85785915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-2.250631,53.041508,-2.250631,53.041508],
+  "bbox": [
+    -2.250631,
+    53.041508,
+    -2.250631,
+    53.041508
+],
   "geometry": {"coordinates":[-2.250631,53.041508],"type":"Point"}
 }

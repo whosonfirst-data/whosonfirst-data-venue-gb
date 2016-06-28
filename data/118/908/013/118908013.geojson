@@ -2,13 +2,14 @@
   "id": 118908013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.641917,51.900486,-1.641917,51.900486",
     "geom:latitude":51.900486,
     "geom:longitude":-1.641917,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Jackson Road, Bledington",
     "sg:city":"Chipping Norton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118908013,
-    "wof:lastmodified":1449053944,
+    "wof:lastmodified":1466280060,
     "wof:name":"Robin Oldridge Private Hire",
     "wof:parent_id":85683931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.641917,51.900486,-1.641917,51.900486],
+  "bbox": [
+    -1.641917,
+    51.900486,
+    -1.641917,
+    51.900486
+],
   "geometry": {"coordinates":[-1.641917,51.900486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118980003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.090484,53.041965,-1.090484,53.041965",
     "geom:latitude":53.041965,
     "geom:longitude":-1.090484,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Pepper Rd, Calverton",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":118980003,
-    "wof:lastmodified":1449053247,
+    "wof:lastmodified":1466282714,
     "wof:name":"Secure Cars",
     "wof:parent_id":85683849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.090484,53.041965,-1.090484,53.041965],
+  "bbox": [
+    -1.090484,
+    53.041965,
+    -1.090484,
+    53.041965
+],
   "geometry": {"coordinates":[-1.090484,53.041965],"type":"Point"}
 }

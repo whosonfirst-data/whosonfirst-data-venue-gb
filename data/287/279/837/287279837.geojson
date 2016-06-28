@@ -2,13 +2,14 @@
   "id": 287279837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.142508,53.347652,-2.142508,53.347652",
     "geom:latitude":53.347652,
     "geom:longitude":-2.142508,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Gull Close, Poynton",
     "sg:city":"Stockport",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287279837,
-    "wof:lastmodified":1449001062,
+    "wof:lastmodified":1466271690,
     "wof:name":"Jones & Garner",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "heating"
     ]
 },
-  "bbox": [-2.142508,53.347652,-2.142508,53.347652],
+  "bbox": [
+    -2.142508,
+    53.347652,
+    -2.142508,
+    53.347652
+],
   "geometry": {"coordinates":[-2.142508,53.347652],"type":"Point"}
 }

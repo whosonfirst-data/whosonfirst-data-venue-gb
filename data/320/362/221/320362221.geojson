@@ -2,13 +2,14 @@
   "id": 320362221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.988513,52.583553,-1.988513,52.583553",
     "geom:latitude":52.583553,
     "geom:longitude":-1.988513,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Bridgeman Street",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320362221,
-    "wof:lastmodified":1449013679,
+    "wof:lastmodified":1466278918,
     "wof:name":"Express Motorists Centre",
     "wof:parent_id":85785719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.988513,52.583553,-1.988513,52.583553],
+  "bbox": [
+    -1.988513,
+    52.583553,
+    -1.988513,
+    52.583553
+],
   "geometry": {"coordinates":[-1.988513,52.583553],"type":"Point"}
 }

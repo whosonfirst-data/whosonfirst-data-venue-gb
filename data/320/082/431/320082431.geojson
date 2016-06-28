@@ -2,13 +2,14 @@
   "id": 320082431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.176619,55.931221,-3.176619,55.931221",
     "geom:latitude":55.931221,
     "geom:longitude":-3.176619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Mayfield Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320082431,
-    "wof:lastmodified":1449011351,
+    "wof:lastmodified":1466270628,
     "wof:name":"Saville Motor Co.",
     "wof:parent_id":85792691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "car"
     ]
 },
-  "bbox": [-3.176619,55.931221,-3.176619,55.931221],
+  "bbox": [
+    -3.176619,
+    55.931221,
+    -3.176619,
+    55.931221
+],
   "geometry": {"coordinates":[-3.176619,55.931221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303275067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.904667,55.759212,-3.904667,55.759212",
     "geom:latitude":55.759212,
     "geom:longitude":-3.904667,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Trotterbank House, Overtown",
     "sg:city":"Wishaw",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303275067,
-    "wof:lastmodified":1448998901,
+    "wof:lastmodified":1466271089,
     "wof:name":"Strathclyde Autoclean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "valet"
     ]
 },
-  "bbox": [-3.904667,55.759212,-3.904667,55.759212],
+  "bbox": [
+    -3.904667,
+    55.759212,
+    -3.904667,
+    55.759212
+],
   "geometry": {"coordinates":[-3.904667,55.759212],"type":"Point"}
 }

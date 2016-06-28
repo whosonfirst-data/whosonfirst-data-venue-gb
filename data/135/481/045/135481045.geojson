@@ -2,13 +2,14 @@
   "id": 135481045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.558848,51.482998,-2.558848,51.482998",
     "geom:latitude":51.482998,
     "geom:longitude":-2.558848,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Heath House Heath House Lane",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135481045,
-    "wof:lastmodified":1449023628,
+    "wof:lastmodified":1466272349,
     "wof:name":"Heath House",
     "wof:parent_id":85790711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.558848,51.482998,-2.558848,51.482998],
+  "bbox": [
+    -2.558848,
+    51.482998,
+    -2.558848,
+    51.482998
+],
   "geometry": {"coordinates":[-2.558848,51.482998],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135605911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.2426,53.509235,-2.2426,53.509235",
     "geom:latitude":53.509235,
     "geom:longitude":-2.2426,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Cheetham Hill Road",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135605911,
-    "wof:lastmodified":1449022494,
+    "wof:lastmodified":1466282921,
     "wof:name":"The Five Star Kebab House",
     "wof:parent_id":85793059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.2426,53.509235,-2.2426,53.509235],
+  "bbox": [
+    -2.2426,
+    53.509235,
+    -2.2426,
+    53.509235
+],
   "geometry": {"coordinates":[-2.2426,53.509235],"type":"Point"}
 }

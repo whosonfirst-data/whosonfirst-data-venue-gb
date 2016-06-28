@@ -2,13 +2,14 @@
   "id": 286794679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.171905,52.942123,-2.171905,52.942123",
     "geom:latitude":52.942123,
     "geom:longitude":-2.171905,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Orchard Place, Barlaston",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286794679,
-    "wof:lastmodified":1449016606,
+    "wof:lastmodified":1466278363,
     "wof:name":"Kitson's Chemist",
     "wof:parent_id":85788101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "chemist"
     ]
 },
-  "bbox": [-2.171905,52.942123,-2.171905,52.942123],
+  "bbox": [
+    -2.171905,
+    52.942123,
+    -2.171905,
+    52.942123
+],
   "geometry": {"coordinates":[-2.171905,52.942123],"type":"Point"}
 }

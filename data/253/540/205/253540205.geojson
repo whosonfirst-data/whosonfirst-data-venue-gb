@@ -2,13 +2,14 @@
   "id": 253540205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.231223,53.327312,-2.231223,53.327312",
     "geom:latitude":53.327312,
     "geom:longitude":-2.231223,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Grove Street",
     "sg:city":"Wilmslow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253540205,
-    "wof:lastmodified":1449063988,
+    "wof:lastmodified":1466269140,
     "wof:name":"Words of Wilmslow",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookseller"
     ]
 },
-  "bbox": [-2.231223,53.327312,-2.231223,53.327312],
+  "bbox": [
+    -2.231223,
+    53.327312,
+    -2.231223,
+    53.327312
+],
   "geometry": {"coordinates":[-2.231223,53.327312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135787123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.234031,52.391521,-1.234031,52.391521",
     "geom:latitude":52.391521,
     "geom:longitude":-1.234031,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Grendon Dr",
     "sg:city":"Rugby",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135787123,
-    "wof:lastmodified":1449022383,
+    "wof:lastmodified":1466287244,
     "wof:name":"Nu-Way",
     "wof:parent_id":85786087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.234031,52.391521,-1.234031,52.391521],
+  "bbox": [
+    -1.234031,
+    52.391521,
+    -1.234031,
+    52.391521
+],
   "geometry": {"coordinates":[-1.234031,52.391521],"type":"Point"}
 }

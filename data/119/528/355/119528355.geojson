@@ -2,13 +2,14 @@
   "id": 119528355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.775492,55.95525,-2.775492,55.95525",
     "geom:latitude":55.95525,
     "geom:longitude":-2.775492,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 High Street",
     "sg:city":"Haddington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119528355,
-    "wof:lastmodified":1449041501,
+    "wof:lastmodified":1466287557,
     "wof:name":"The Carlyle Cafe",
     "wof:parent_id":101872461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.775492,55.95525,-2.775492,55.95525],
+  "bbox": [
+    -2.775492,
+    55.95525,
+    -2.775492,
+    55.95525
+],
   "geometry": {"coordinates":[-2.775492,55.95525],"type":"Point"}
 }

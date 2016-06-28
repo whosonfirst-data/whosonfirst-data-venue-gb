@@ -2,13 +2,14 @@
   "id": 320419573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.278325,55.832176,-4.278325,55.832176",
     "geom:latitude":55.832176,
     "geom:longitude":-4.278325,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Pollokshaws Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320419573,
-    "wof:lastmodified":1449014899,
+    "wof:lastmodified":1466279722,
     "wof:name":"Organised Fairs",
     "wof:parent_id":85861549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "organiser"
     ]
 },
-  "bbox": [-4.278325,55.832176,-4.278325,55.832176],
+  "bbox": [
+    -4.278325,
+    55.832176,
+    -4.278325,
+    55.832176
+],
   "geometry": {"coordinates":[-4.278325,55.832176],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252707171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.323572,54.555538,-1.323572,54.555538",
     "geom:latitude":54.555538,
     "geom:longitude":-1.323572,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Richardson Rd",
     "sg:city":"Stockton On Tees",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":252707171,
-    "wof:lastmodified":1449006353,
+    "wof:lastmodified":1466257035,
     "wof:name":"Jacobs W.H. & Sons Ltd",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "matting"
     ]
 },
-  "bbox": [-1.323572,54.555538,-1.323572,54.555538],
+  "bbox": [
+    -1.323572,
+    54.555538,
+    -1.323572,
+    54.555538
+],
   "geometry": {"coordinates":[-1.323572,54.555538],"type":"Point"}
 }

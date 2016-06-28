@@ -2,13 +2,14 @@
   "id": 135338095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.508285,51.380795,0.508285,51.380795",
     "geom:latitude":51.380795,
     "geom:longitude":0.508285,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Delce Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135338095,
-    "wof:lastmodified":1449022052,
+    "wof:lastmodified":1466255832,
     "wof:name":"T Armstrong",
     "wof:parent_id":85786063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.508285,51.380795,0.508285,51.380795],
+  "bbox": [
+    0.508285,
+    51.380795,
+    0.508285,
+    51.380795
+],
   "geometry": {"coordinates":[0.508285,51.380795],"type":"Point"}
 }

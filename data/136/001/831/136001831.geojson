@@ -2,13 +2,14 @@
   "id": 136001831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.223646,55.860943,-4.223646,55.860943",
     "geom:latitude":55.860943,
     "geom:longitude":-4.223646,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Westercraigs",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136001831,
-    "wof:lastmodified":1449075210,
+    "wof:lastmodified":1466252744,
     "wof:name":"Craigielea House",
     "wof:parent_id":85792639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.223646,55.860943,-4.223646,55.860943],
+  "bbox": [
+    -4.223646,
+    55.860943,
+    -4.223646,
+    55.860943
+],
   "geometry": {"coordinates":[-4.223646,55.860943],"type":"Point"}
 }

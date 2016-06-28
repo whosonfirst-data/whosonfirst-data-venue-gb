@@ -2,13 +2,14 @@
   "id": 135356401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.229258,55.932526,-3.229258,55.932526",
     "geom:latitude":55.932526,
     "geom:longitude":-3.229258,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Hazelbank Terrace",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135356401,
-    "wof:lastmodified":1449023489,
+    "wof:lastmodified":1466257941,
     "wof:name":"H & G Robb",
     "wof:parent_id":85787641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.229258,55.932526,-3.229258,55.932526],
+  "bbox": [
+    -3.229258,
+    55.932526,
+    -3.229258,
+    55.932526
+],
   "geometry": {"coordinates":[-3.229258,55.932526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135305429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.491818,51.453945,-2.491818,51.453945",
     "geom:latitude":51.453945,
     "geom:longitude":-2.491818,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Cock Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135305429,
-    "wof:lastmodified":1449021438,
+    "wof:lastmodified":1466277834,
     "wof:name":"Stephen J Woods",
     "wof:parent_id":85785495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.491818,51.453945,-2.491818,51.453945],
+  "bbox": [
+    -2.491818,
+    51.453945,
+    -2.491818,
+    51.453945
+],
   "geometry": {"coordinates":[-2.491818,51.453945],"type":"Point"}
 }

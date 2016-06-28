@@ -2,13 +2,14 @@
   "id": 119478437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.396829,55.983311,-3.396829,55.983311",
     "geom:latitude":55.983311,
     "geom:longitude":-3.396829,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Admin",
     "sg:city":"South Queensferry",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119478437,
-    "wof:lastmodified":1449040972,
+    "wof:lastmodified":1466286688,
     "wof:name":"Forth Road Bridge",
     "wof:parent_id":101872459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.396829,55.983311,-3.396829,55.983311],
+  "bbox": [
+    -3.396829,
+    55.983311,
+    -3.396829,
+    55.983311
+],
   "geometry": {"coordinates":[-3.396829,55.983311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119120725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.106292,50.390705,-4.106292,50.390705",
     "geom:latitude":50.390705,
     "geom:longitude":-4.106292,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Eddystone Close",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119120725,
-    "wof:lastmodified":1449043149,
+    "wof:lastmodified":1466261026,
     "wof:name":"Total Vehicle Security",
     "wof:parent_id":85787255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.106292,50.390705,-4.106292,50.390705],
+  "bbox": [
+    -4.106292,
+    50.390705,
+    -4.106292,
+    50.390705
+],
   "geometry": {"coordinates":[-4.106292,50.390705],"type":"Point"}
 }

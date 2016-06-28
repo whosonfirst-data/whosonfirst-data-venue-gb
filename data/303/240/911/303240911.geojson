@@ -2,13 +2,14 @@
   "id": 303240911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.089628,51.52758,-0.089628,51.52758",
     "geom:latitude":51.52758,
     "geom:longitude":-0.089628,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"162 City Rd",
     "sg:city":"Clerkenwell",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303240911,
-    "wof:lastmodified":1448998376,
+    "wof:lastmodified":1466270091,
     "wof:name":"Moorfields Eye Hospital",
     "wof:parent_id":85792171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.089628,51.52758,-0.089628,51.52758],
+  "bbox": [
+    -0.089628,
+    51.52758,
+    -0.089628,
+    51.52758
+],
   "geometry": {"coordinates":[-0.089628,51.52758],"type":"Point"}
 }

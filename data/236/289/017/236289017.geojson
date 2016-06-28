@@ -2,13 +2,14 @@
   "id": 236289017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.324478,57.648315,-3.324478,57.648315",
     "geom:latitude":57.648315,
     "geom:longitude":-3.324478,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hill Street",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236289017,
-    "wof:lastmodified":1449004588,
+    "wof:lastmodified":1466262019,
     "wof:name":"Ladyhill Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cab"
     ]
 },
-  "bbox": [-3.324478,57.648315,-3.324478,57.648315],
+  "bbox": [
+    -3.324478,
+    57.648315,
+    -3.324478,
+    57.648315
+],
   "geometry": {"coordinates":[-3.324478,57.648315],"type":"Point"}
 }

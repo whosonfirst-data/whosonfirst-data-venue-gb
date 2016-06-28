@@ -2,13 +2,14 @@
   "id": 203400559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.494316,51.464638,-2.494316,51.464638",
     "geom:latitude":51.464638,
     "geom:longitude":-2.494316,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Holly Hill Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203400559,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1466259570,
     "wof:name":"T R News",
     "wof:parent_id":85789311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.494316,51.464638,-2.494316,51.464638],
+  "bbox": [
+    -2.494316,
+    51.464638,
+    -2.494316,
+    51.464638
+],
   "geometry": {"coordinates":[-2.494316,51.464638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135464377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.353921,53.612209,-1.353921,53.612209",
     "geom:latitude":53.612209,
     "geom:longitude":-1.353921,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8-10 Market Street, Hemsworth",
     "sg:city":"Pontefract",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135464377,
-    "wof:lastmodified":1449021819,
+    "wof:lastmodified":1466270440,
     "wof:name":"Hemsworth News",
     "wof:parent_id":101872195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.353921,53.612209,-1.353921,53.612209],
+  "bbox": [
+    -1.353921,
+    53.612209,
+    -1.353921,
+    53.612209
+],
   "geometry": {"coordinates":[-1.353921,53.612209],"type":"Point"}
 }

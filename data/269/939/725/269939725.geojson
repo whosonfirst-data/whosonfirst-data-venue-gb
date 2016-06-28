@@ -2,13 +2,14 @@
   "id": 269939725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.40039,50.90707,-1.40039,50.90707",
     "geom:latitude":50.90707,
     "geom:longitude":-1.40039,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 The Carronades, New Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269939725,
-    "wof:lastmodified":1449036867,
+    "wof:lastmodified":1466273901,
     "wof:name":"Robert Half Ltd.",
     "wof:parent_id":85792821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-1.40039,50.90707,-1.40039,50.90707],
+  "bbox": [
+    -1.40039,
+    50.90707,
+    -1.40039,
+    50.90707
+],
   "geometry": {"coordinates":[-1.40039,50.90707],"type":"Point"}
 }

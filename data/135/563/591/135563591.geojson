@@ -2,13 +2,14 @@
   "id": 135563591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.52451,54.139168,-1.52451,54.139168",
     "geom:latitude":54.139168,
     "geom:longitude":-1.52451,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 North Street",
     "sg:city":"Ripon",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":135563591,
-    "wof:lastmodified":1449021027,
+    "wof:lastmodified":1466280263,
     "wof:name":"North Street Prints",
     "wof:parent_id":101873281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.52451,54.139168,-1.52451,54.139168],
+  "bbox": [
+    -1.52451,
+    54.139168,
+    -1.52451,
+    54.139168
+],
   "geometry": {"coordinates":[-1.52451,54.139168],"type":"Point"}
 }

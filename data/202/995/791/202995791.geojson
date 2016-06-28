@@ -2,13 +2,14 @@
   "id": 202995791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.219948,51.574318,-3.219948,51.574318",
     "geom:latitude":51.574318,
     "geom:longitude":-3.219948,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Cardiff Road",
     "sg:city":"Caerphilly",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202995791,
-    "wof:lastmodified":1449062369,
+    "wof:lastmodified":1466262276,
     "wof:name":"Tesco Stores Ltd",
     "wof:parent_id":85864249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.219948,51.574318,-3.219948,51.574318],
+  "bbox": [
+    -3.219948,
+    51.574318,
+    -3.219948,
+    51.574318
+],
   "geometry": {"coordinates":[-3.219948,51.574318],"type":"Point"}
 }

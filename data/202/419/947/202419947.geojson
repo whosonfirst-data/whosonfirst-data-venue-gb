@@ -2,13 +2,14 @@
   "id": 202419947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.760819,53.780529,-1.760819,53.780529",
     "geom:latitude":53.780529,
     "geom:longitude":-1.760819,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Jacob Street",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202419947,
-    "wof:lastmodified":1449062587,
+    "wof:lastmodified":1466252914,
     "wof:name":"Albion Motors",
     "wof:parent_id":85791453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "car"
     ]
 },
-  "bbox": [-1.760819,53.780529,-1.760819,53.780529],
+  "bbox": [
+    -1.760819,
+    53.780529,
+    -1.760819,
+    53.780529
+],
   "geometry": {"coordinates":[-1.760819,53.780529],"type":"Point"}
 }

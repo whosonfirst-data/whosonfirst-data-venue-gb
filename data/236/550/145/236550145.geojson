@@ -2,13 +2,14 @@
   "id": 236550145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.123335,51.20145,-4.123335,51.20145",
     "geom:latitude":51.20145,
     "geom:longitude":-4.123335,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Furse Hill Road",
     "sg:city":"Ilfracombe",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":236550145,
-    "wof:lastmodified":1449003440,
+    "wof:lastmodified":1466266851,
     "wof:name":"Park View",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-4.123335,51.20145,-4.123335,51.20145],
+  "bbox": [
+    -4.123335,
+    51.20145,
+    -4.123335,
+    51.20145
+],
   "geometry": {"coordinates":[-4.123335,51.20145],"type":"Point"}
 }

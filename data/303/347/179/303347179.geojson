@@ -2,13 +2,14 @@
   "id": 303347179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.344114,55.778111,-2.344114,55.778111",
     "geom:latitude":55.778111,
     "geom:longitude":-2.344114,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Market Square",
     "sg:city":"Duns",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303347179,
-    "wof:lastmodified":1448999301,
+    "wof:lastmodified":1466273252,
     "wof:name":"Bank of Scotland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.344114,55.778111,-2.344114,55.778111],
+  "bbox": [
+    -2.344114,
+    55.778111,
+    -2.344114,
+    55.778111
+],
   "geometry": {"coordinates":[-2.344114,55.778111],"type":"Point"}
 }

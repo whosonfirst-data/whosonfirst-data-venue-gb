@@ -2,13 +2,14 @@
   "id": 303184195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.262967,51.755295,-1.262967,51.755295",
     "geom:latitude":51.755295,
     "geom:longitude":-1.262967,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Walton Street",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303184195,
-    "wof:lastmodified":1448998530,
+    "wof:lastmodified":1466268280,
     "wof:name":"Walton Guest House",
     "wof:parent_id":85793243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "guest"
     ]
 },
-  "bbox": [-1.262967,51.755295,-1.262967,51.755295],
+  "bbox": [
+    -1.262967,
+    51.755295,
+    -1.262967,
+    51.755295
+],
   "geometry": {"coordinates":[-1.262967,51.755295],"type":"Point"}
 }

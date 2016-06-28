@@ -2,13 +2,14 @@
   "id": 135927705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.312783,52.975777,-1.312783,52.975777",
     "geom:latitude":52.975777,
     "geom:longitude":-1.312783,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Manners Road",
     "sg:city":"Ilkeston",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135927705,
-    "wof:lastmodified":1449023688,
+    "wof:lastmodified":1466288268,
     "wof:name":"Brown & Aldred",
     "wof:parent_id":101872095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.312783,52.975777,-1.312783,52.975777],
+  "bbox": [
+    -1.312783,
+    52.975777,
+    -1.312783,
+    52.975777
+],
   "geometry": {"coordinates":[-1.312783,52.975777],"type":"Point"}
 }

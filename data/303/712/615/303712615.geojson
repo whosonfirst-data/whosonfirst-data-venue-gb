@@ -2,13 +2,14 @@
   "id": 303712615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.798279,51.576057,-1.798279,51.576057",
     "geom:latitude":51.576057,
     "geom:longitude":-1.798279,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Orchard, The Circle",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303712615,
-    "wof:lastmodified":1448999167,
+    "wof:lastmodified":1466281966,
     "wof:name":"Mental Health Team",
     "wof:parent_id":85790071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.798279,51.576057,-1.798279,51.576057],
+  "bbox": [
+    -1.798279,
+    51.576057,
+    -1.798279,
+    51.576057
+],
   "geometry": {"coordinates":[-1.798279,51.576057],"type":"Point"}
 }

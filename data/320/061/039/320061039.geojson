@@ -2,13 +2,14 @@
   "id": 320061039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.47192,53.382481,-1.47192,53.382481",
     "geom:latitude":53.382481,
     "geom:longitude":-1.47192,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Town Hall, Pinstone St",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320061039,
-    "wof:lastmodified":1449013955,
+    "wof:lastmodified":1466269915,
     "wof:name":"Sheffield Purchasing Organisation",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-1.47192,53.382481,-1.47192,53.382481],
+  "bbox": [
+    -1.47192,
+    53.382481,
+    -1.47192,
+    53.382481
+],
   "geometry": {"coordinates":[-1.47192,53.382481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136088603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.579962,56.556889,-2.579962,56.556889",
     "geom:latitude":56.556889,
     "geom:longitude":-2.579962,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 High Street",
     "sg:city":"Arbroath",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136088603,
-    "wof:lastmodified":1449075933,
+    "wof:lastmodified":1466254924,
     "wof:name":"The Golden Haddock",
     "wof:parent_id":101873579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.579962,56.556889,-2.579962,56.556889],
+  "bbox": [
+    -2.579962,
+    56.556889,
+    -2.579962,
+    56.556889
+],
   "geometry": {"coordinates":[-2.579962,56.556889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286552319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.633246,53.490234,-2.633246,53.490234",
     "geom:latitude":53.490234,
     "geom:longitude":-2.633246,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Bolton Road, Ashton In Makerfield",
     "sg:city":"Wigan",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286552319,
-    "wof:lastmodified":1449016407,
+    "wof:lastmodified":1466271189,
     "wof:name":"Ashton Aquatics",
     "wof:parent_id":85789571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "aquarium"
     ]
 },
-  "bbox": [-2.633246,53.490234,-2.633246,53.490234],
+  "bbox": [
+    -2.633246,
+    53.490234,
+    -2.633246,
+    53.490234
+],
   "geometry": {"coordinates":[-2.633246,53.490234],"type":"Point"}
 }

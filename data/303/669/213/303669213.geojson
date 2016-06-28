@@ -2,13 +2,14 @@
   "id": 303669213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.570915,53.090565,-1.570915,53.090565",
     "geom:latitude":53.090565,
     "geom:longitude":-1.570915,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wirksworth Health Centre, St Johns St",
     "sg:city":"Matlock",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303669213,
-    "wof:lastmodified":1448998398,
+    "wof:lastmodified":1466281324,
     "wof:name":"Derbyshire Dale Community Mental Health Team",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "community"
     ]
 },
-  "bbox": [-1.570915,53.090565,-1.570915,53.090565],
+  "bbox": [
+    -1.570915,
+    53.090565,
+    -1.570915,
+    53.090565
+],
   "geometry": {"coordinates":[-1.570915,53.090565],"type":"Point"}
 }

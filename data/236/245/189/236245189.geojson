@@ -2,13 +2,14 @@
   "id": 236245189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.54581,54.642155,-3.54581,54.642155",
     "geom:latitude":54.642155,
     "geom:longitude":-3.54581,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"71 John Street",
     "sg:city":"Workington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236245189,
-    "wof:lastmodified":1449005118,
+    "wof:lastmodified":1466261159,
     "wof:name":"The Barbers Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-3.54581,54.642155,-3.54581,54.642155],
+  "bbox": [
+    -3.54581,
+    54.642155,
+    -3.54581,
+    54.642155
+],
   "geometry": {"coordinates":[-3.54581,54.642155],"type":"Point"}
 }

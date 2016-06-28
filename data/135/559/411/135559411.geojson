@@ -2,13 +2,14 @@
   "id": 135559411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.743464,53.451038,-2.743464,53.451038",
     "geom:latitude":53.451038,
     "geom:longitude":-2.743464,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Liverpool Road",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135559411,
-    "wof:lastmodified":1449023364,
+    "wof:lastmodified":1466279772,
     "wof:name":"Royal Mail Letters",
     "wof:parent_id":85792121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.743464,53.451038,-2.743464,53.451038],
+  "bbox": [
+    -2.743464,
+    53.451038,
+    -2.743464,
+    53.451038
+],
   "geometry": {"coordinates":[-2.743464,53.451038],"type":"Point"}
 }

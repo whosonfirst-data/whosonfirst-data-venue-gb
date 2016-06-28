@@ -2,13 +2,14 @@
   "id": 270294023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.547261,51.793278,-1.547261,51.793278",
     "geom:latitude":51.793278,
     "geom:longitude":-1.547261,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Brize Norton Road, Minster Lovell",
     "sg:city":"Witney",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270294023,
-    "wof:lastmodified":1449010396,
+    "wof:lastmodified":1466269234,
     "wof:name":"Greenacres Caravan Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "caravan"
     ]
 },
-  "bbox": [-1.547261,51.793278,-1.547261,51.793278],
+  "bbox": [
+    -1.547261,
+    51.793278,
+    -1.547261,
+    51.793278
+],
   "geometry": {"coordinates":[-1.547261,51.793278],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118630119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.76085,55.939529,-4.76085,55.939529",
     "geom:latitude":55.939529,
     "geom:longitude":-4.76085,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Berryyards, Lynedoch Street",
     "sg:city":"Greenock",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118630119,
-    "wof:lastmodified":1449053640,
+    "wof:lastmodified":1466259924,
     "wof:name":"Westburn Autos",
     "wof:parent_id":85791237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.76085,55.939529,-4.76085,55.939529],
+  "bbox": [
+    -4.76085,
+    55.939529,
+    -4.76085,
+    55.939529
+],
   "geometry": {"coordinates":[-4.76085,55.939529],"type":"Point"}
 }

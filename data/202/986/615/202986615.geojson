@@ -2,13 +2,14 @@
   "id": 202986615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.854782,55.243347,-4.854782,55.243347",
     "geom:latitude":55.243347,
     "geom:longitude":-4.854782,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Hamilton Street",
     "sg:city":"Girvan",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":202986615,
-    "wof:lastmodified":1449062173,
+    "wof:lastmodified":1466262077,
     "wof:name":"Smith & Valentine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-4.854782,55.243347,-4.854782,55.243347],
+  "bbox": [
+    -4.854782,
+    55.243347,
+    -4.854782,
+    55.243347
+],
   "geometry": {"coordinates":[-4.854782,55.243347],"type":"Point"}
 }

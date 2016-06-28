@@ -2,13 +2,14 @@
   "id": 270433601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.063817,52.472301,-2.063817,52.472301",
     "geom:latitude":52.472301,
     "geom:longitude":-2.063817,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Halesowen Road",
     "sg:city":"Cradley Heath",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270433601,
-    "wof:lastmodified":1449008929,
+    "wof:lastmodified":1466273395,
     "wof:name":"Dave's Store",
     "wof:parent_id":85789589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wines"
     ]
 },
-  "bbox": [-2.063817,52.472301,-2.063817,52.472301],
+  "bbox": [
+    -2.063817,
+    52.472301,
+    -2.063817,
+    52.472301
+],
   "geometry": {"coordinates":[-2.063817,52.472301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185857755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.859098,52.491711,-1.859098,52.491711",
     "geom:latitude":52.491711,
     "geom:longitude":-1.859098,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Saltley Post Office, 8 Alum Rock Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185857755,
-    "wof:lastmodified":1449007642,
+    "wof:lastmodified":1466255376,
     "wof:name":"Saltley Post Office",
     "wof:parent_id":85791997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.859098,52.491711,-1.859098,52.491711],
+  "bbox": [
+    -1.859098,
+    52.491711,
+    -1.859098,
+    52.491711
+],
   "geometry": {"coordinates":[-1.859098,52.491711],"type":"Point"}
 }

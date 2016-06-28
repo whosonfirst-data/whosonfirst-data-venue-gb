@@ -2,13 +2,14 @@
   "id": 320141739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.099319,55.949085,-3.099319,55.949085",
     "geom:latitude":55.949085,
     "geom:longitude":-3.099319,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Joppa Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320141739,
-    "wof:lastmodified":1449012578,
+    "wof:lastmodified":1466272355,
     "wof:name":"Joppa Post Office",
     "wof:parent_id":85789915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.099319,55.949085,-3.099319,55.949085],
+  "bbox": [
+    -3.099319,
+    55.949085,
+    -3.099319,
+    55.949085
+],
   "geometry": {"coordinates":[-3.099319,55.949085],"type":"Point"}
 }

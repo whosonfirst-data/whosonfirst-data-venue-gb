@@ -2,13 +2,14 @@
   "id": 287157077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.040329,53.907349,-3.040329,53.907349",
     "geom:latitude":53.907349,
     "geom:longitude":-3.040329,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Larkholme Parade",
     "sg:city":"Fleetwood",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":287157077,
-    "wof:lastmodified":1449001447,
+    "wof:lastmodified":1466267849,
     "wof:name":"G B Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [-3.040329,53.907349,-3.040329,53.907349],
+  "bbox": [
+    -3.040329,
+    53.907349,
+    -3.040329,
+    53.907349
+],
   "geometry": {"coordinates":[-3.040329,53.907349],"type":"Point"}
 }

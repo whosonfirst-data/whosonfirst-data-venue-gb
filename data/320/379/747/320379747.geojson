@@ -2,13 +2,14 @@
   "id": 320379747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.19008,55.970638,-3.19008,55.970638",
     "geom:latitude":55.970638,
     "geom:longitude":-3.19008,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Bleachfield",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320379747,
-    "wof:lastmodified":1449013426,
+    "wof:lastmodified":1466279192,
     "wof:name":"L Rutherford & Sons",
     "wof:parent_id":85791361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-3.19008,55.970638,-3.19008,55.970638],
+  "bbox": [
+    -3.19008,
+    55.970638,
+    -3.19008,
+    55.970638
+],
   "geometry": {"coordinates":[-3.19008,55.970638],"type":"Point"}
 }

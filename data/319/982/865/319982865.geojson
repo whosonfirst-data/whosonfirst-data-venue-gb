@@ -2,13 +2,14 @@
   "id": 319982865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.585029,53.670803,-1.585029,53.670803",
     "geom:latitude":53.670803,
     "geom:longitude":-1.585029,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Healey Road",
     "sg:city":"Ossett",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":319982865,
-    "wof:lastmodified":1449024230,
+    "wof:lastmodified":1466272606,
     "wof:name":"J Wilson & Son",
     "wof:parent_id":85791001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"
     ]
 },
-  "bbox": [-1.585029,53.670803,-1.585029,53.670803],
+  "bbox": [
+    -1.585029,
+    53.670803,
+    -1.585029,
+    53.670803
+],
   "geometry": {"coordinates":[-1.585029,53.670803],"type":"Point"}
 }

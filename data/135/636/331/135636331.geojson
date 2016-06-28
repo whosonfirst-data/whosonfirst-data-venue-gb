@@ -2,13 +2,14 @@
   "id": 135636331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.416684,50.912228,-1.416684,50.912228",
     "geom:latitude":50.912228,
     "geom:longitude":-1.416684,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Landguard Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135636331,
-    "wof:lastmodified":1449022198,
+    "wof:lastmodified":1466284302,
     "wof:name":"Mayfair Guest House",
     "wof:parent_id":85791557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.416684,50.912228,-1.416684,50.912228],
+  "bbox": [
+    -1.416684,
+    50.912228,
+    -1.416684,
+    50.912228
+],
   "geometry": {"coordinates":[-1.416684,50.912228],"type":"Point"}
 }

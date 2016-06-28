@@ -2,13 +2,14 @@
   "id": 220122541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.38027,50.925079,-1.38027,50.925079",
     "geom:latitude":50.925079,
     "geom:longitude":-1.38027,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Units 9-11, Priory Avenue, St Denys",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220122541,
-    "wof:lastmodified":1449074506,
+    "wof:lastmodified":1466255123,
     "wof:name":"Priory Timbers",
     "wof:parent_id":85861259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "timber"
     ]
 },
-  "bbox": [-1.38027,50.925079,-1.38027,50.925079],
+  "bbox": [
+    -1.38027,
+    50.925079,
+    -1.38027,
+    50.925079
+],
   "geometry": {"coordinates":[-1.38027,50.925079],"type":"Point"}
 }

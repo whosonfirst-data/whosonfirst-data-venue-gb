@@ -2,13 +2,14 @@
   "id": 303181203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.327846,53.020344,-1.327846,53.020344",
     "geom:latitude":53.020344,
     "geom:longitude":-1.327846,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Cromford Road, Langley Mill",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303181203,
-    "wof:lastmodified":1448999619,
+    "wof:lastmodified":1466268182,
     "wof:name":"La Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-1.327846,53.020344,-1.327846,53.020344],
+  "bbox": [
+    -1.327846,
+    53.020344,
+    -1.327846,
+    53.020344
+],
   "geometry": {"coordinates":[-1.327846,53.020344],"type":"Point"}
 }

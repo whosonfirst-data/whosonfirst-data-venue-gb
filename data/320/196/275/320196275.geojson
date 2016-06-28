@@ -2,13 +2,14 @@
   "id": 320196275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.021055,50.730331,-2.021055,50.730331",
     "geom:latitude":50.730331,
     "geom:longitude":-2.021055,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 12 565 Blandford Rd",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320196275,
-    "wof:lastmodified":1449012101,
+    "wof:lastmodified":1466273919,
     "wof:name":"Multi-clad",
     "wof:parent_id":85787887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "stockist"
     ]
 },
-  "bbox": [-2.021055,50.730331,-2.021055,50.730331],
+  "bbox": [
+    -2.021055,
+    50.730331,
+    -2.021055,
+    50.730331
+],
   "geometry": {"coordinates":[-2.021055,50.730331],"type":"Point"}
 }

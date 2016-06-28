@@ -2,13 +2,14 @@
   "id": 320486379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.140681,53.035198,-2.140681,53.035198",
     "geom:latitude":53.035198,
     "geom:longitude":-2.140681,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Greasley Road, Abbey Hulton",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320486379,
-    "wof:lastmodified":1449013347,
+    "wof:lastmodified":1466281067,
     "wof:name":"The William Sutton Trust",
     "wof:parent_id":85786107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "housing"
     ]
 },
-  "bbox": [-2.140681,53.035198,-2.140681,53.035198],
+  "bbox": [
+    -2.140681,
+    53.035198,
+    -2.140681,
+    53.035198
+],
   "geometry": {"coordinates":[-2.140681,53.035198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219525587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.822493,50.732822,-1.822493,50.732822",
     "geom:latitude":50.732822,
     "geom:longitude":-1.822493,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Spurgeon Rd, Pokesdown",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219525587,
-    "wof:lastmodified":1449073196,
+    "wof:lastmodified":1466259176,
     "wof:name":"The House Painting Service",
     "wof:parent_id":85785869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "painter"
     ]
 },
-  "bbox": [-1.822493,50.732822,-1.822493,50.732822],
+  "bbox": [
+    -1.822493,
+    50.732822,
+    -1.822493,
+    50.732822
+],
   "geometry": {"coordinates":[-1.822493,50.732822],"type":"Point"}
 }

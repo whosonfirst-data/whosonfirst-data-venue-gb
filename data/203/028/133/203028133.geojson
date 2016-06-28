@@ -2,13 +2,14 @@
   "id": 203028133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.981342,50.851357,-0.981342,50.851357",
     "geom:latitude":50.851357,
     "geom:longitude":-0.981342,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 East Street",
     "sg:city":"Havant",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203028133,
-    "wof:lastmodified":1449025969,
+    "wof:lastmodified":1466253113,
     "wof:name":"The Havant Club",
     "wof:parent_id":85788685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-0.981342,50.851357,-0.981342,50.851357],
+  "bbox": [
+    -0.981342,
+    50.851357,
+    -0.981342,
+    50.851357
+],
   "geometry": {"coordinates":[-0.981342,50.851357],"type":"Point"}
 }

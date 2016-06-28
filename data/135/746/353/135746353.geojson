@@ -2,13 +2,14 @@
   "id": 135746353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.178145,50.379581,-4.178145,50.379581",
     "geom:latitude":50.379581,
     "geom:longitude":-4.178145,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Charlotte St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135746353,
-    "wof:lastmodified":1449020957,
+    "wof:lastmodified":1466286626,
     "wof:name":"AM Satellite Services",
     "wof:parent_id":85789177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.178145,50.379581,-4.178145,50.379581],
+  "bbox": [
+    -4.178145,
+    50.379581,
+    -4.178145,
+    50.379581
+],
   "geometry": {"coordinates":[-4.178145,50.379581],"type":"Point"}
 }

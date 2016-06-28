@@ -2,13 +2,14 @@
   "id": 286564125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.198448,53.007263,-2.198448,53.007263",
     "geom:latitude":53.007263,
     "geom:longitude":-2.198448,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Princes Street, Bedford Street",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286564125,
-    "wof:lastmodified":1449017917,
+    "wof:lastmodified":1466271569,
     "wof:name":"Weldon Creamware",
     "wof:parent_id":85787299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mnfrs"
     ]
 },
-  "bbox": [-2.198448,53.007263,-2.198448,53.007263],
+  "bbox": [
+    -2.198448,
+    53.007263,
+    -2.198448,
+    53.007263
+],
   "geometry": {"coordinates":[-2.198448,53.007263],"type":"Point"}
 }

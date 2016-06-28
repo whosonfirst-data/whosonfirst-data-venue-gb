@@ -2,13 +2,14 @@
   "id": 102704115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.134057,53.99799,-1.134057,53.99799",
     "geom:latitude":53.99799,
     "geom:longitude":-1.134057,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Grange Close",
     "sg:city":"York",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102704115,
-    "wof:lastmodified":1449068412,
+    "wof:lastmodified":1466256541,
     "wof:name":"John Dodds Training",
     "wof:parent_id":85683703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.134057,53.99799,-1.134057,53.99799],
+  "bbox": [
+    -1.134057,
+    53.99799,
+    -1.134057,
+    53.99799
+],
   "geometry": {"coordinates":[-1.134057,53.99799],"type":"Point"}
 }

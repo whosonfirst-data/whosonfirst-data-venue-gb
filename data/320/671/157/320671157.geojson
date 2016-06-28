@@ -2,13 +2,14 @@
   "id": 320671157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.436854,53.099297,-2.436854,53.099297",
     "geom:latitude":53.099297,
     "geom:longitude":-2.436854,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, Brierley Business Centre",
     "sg:city":"Crewe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320671157,
-    "wof:lastmodified":1449012127,
+    "wof:lastmodified":1466283681,
     "wof:name":"Congleton Dial A Ride",
     "wof:parent_id":85786645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-2.436854,53.099297,-2.436854,53.099297],
+  "bbox": [
+    -2.436854,
+    53.099297,
+    -2.436854,
+    53.099297
+],
   "geometry": {"coordinates":[-2.436854,53.099297],"type":"Point"}
 }

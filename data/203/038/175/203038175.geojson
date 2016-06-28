@@ -2,13 +2,14 @@
   "id": 203038175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.973159,53.401543,-2.973159,53.401543",
     "geom:latitude":53.401543,
     "geom:longitude":-2.973159,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Rodney Street",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203038175,
-    "wof:lastmodified":1449026190,
+    "wof:lastmodified":1466253289,
     "wof:name":"The Hearing Shop",
     "wof:parent_id":85787241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hearing"
     ]
 },
-  "bbox": [-2.973159,53.401543,-2.973159,53.401543],
+  "bbox": [
+    -2.973159,
+    53.401543,
+    -2.973159,
+    53.401543
+],
   "geometry": {"coordinates":[-2.973159,53.401543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270025283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.082188,52.511387,-2.082188,52.511387",
     "geom:latitude":52.511387,
     "geom:longitude":-2.082188,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 New Street",
     "sg:city":"Dudley",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270025283,
-    "wof:lastmodified":1449010668,
+    "wof:lastmodified":1466261230,
     "wof:name":"Rees Page",
     "wof:parent_id":85789279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-2.082188,52.511387,-2.082188,52.511387],
+  "bbox": [
+    -2.082188,
+    52.511387,
+    -2.082188,
+    52.511387
+],
   "geometry": {"coordinates":[-2.082188,52.511387],"type":"Point"}
 }

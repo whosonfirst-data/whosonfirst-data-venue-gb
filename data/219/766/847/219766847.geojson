@@ -2,13 +2,14 @@
   "id": 219766847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.545731,50.463886,-3.545731,50.463886",
     "geom:latitude":50.463886,
     "geom:longitude":-3.545731,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Rousdown Road",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219766847,
-    "wof:lastmodified":1449070332,
+    "wof:lastmodified":1466263143,
     "wof:name":"Cheltenham Residential Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-3.545731,50.463886,-3.545731,50.463886],
+  "bbox": [
+    -3.545731,
+    50.463886,
+    -3.545731,
+    50.463886
+],
   "geometry": {"coordinates":[-3.545731,50.463886],"type":"Point"}
 }

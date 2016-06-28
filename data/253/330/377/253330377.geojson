@@ -2,13 +2,14 @@
   "id": 253330377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.537562,51.440765,-2.537562,51.440765",
     "geom:latitude":51.440765,
     "geom:longitude":-2.537562,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Broomhill Road, Bridlington",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253330377,
-    "wof:lastmodified":1449064303,
+    "wof:lastmodified":1466263818,
     "wof:name":"Broomhill Barber Shop",
     "wof:parent_id":85786019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.537562,51.440765,-2.537562,51.440765],
+  "bbox": [
+    -2.537562,
+    51.440765,
+    -2.537562,
+    51.440765
+],
   "geometry": {"coordinates":[-2.537562,51.440765],"type":"Point"}
 }

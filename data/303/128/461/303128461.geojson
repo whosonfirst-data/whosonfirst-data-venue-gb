@@ -2,13 +2,14 @@
   "id": 303128461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.733654,51.800999,-4.733654,51.800999",
     "geom:latitude":51.800999,
     "geom:longitude":-4.733654,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Jesse Rd",
     "sg:city":"Narberth",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303128461,
-    "wof:lastmodified":1448999075,
+    "wof:lastmodified":1466266535,
     "wof:name":"Marberth Police Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "support"
     ]
 },
-  "bbox": [-4.733654,51.800999,-4.733654,51.800999],
+  "bbox": [
+    -4.733654,
+    51.800999,
+    -4.733654,
+    51.800999
+],
   "geometry": {"coordinates":[-4.733654,51.800999],"type":"Point"}
 }

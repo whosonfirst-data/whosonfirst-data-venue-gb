@@ -2,13 +2,14 @@
   "id": 269955399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.174334,51.439922,-3.174334,51.439922",
     "geom:latitude":51.439922,
     "geom:longitude":-3.174334,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Glebe Street",
     "sg:city":"Penarth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269955399,
-    "wof:lastmodified":1449037777,
+    "wof:lastmodified":1466274372,
     "wof:name":"Penarth Hearing Centre",
     "wof:parent_id":85861453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hearing"
     ]
 },
-  "bbox": [-3.174334,51.439922,-3.174334,51.439922],
+  "bbox": [
+    -3.174334,
+    51.439922,
+    -3.174334,
+    51.439922
+],
   "geometry": {"coordinates":[-3.174334,51.439922],"type":"Point"}
 }

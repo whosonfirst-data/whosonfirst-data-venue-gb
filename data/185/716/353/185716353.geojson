@@ -2,13 +2,14 @@
   "id": 185716353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.147292,53.545341,-1.147292,53.545341",
     "geom:latitude":53.545341,
     "geom:longitude":-1.147292,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"88 High Street, Bentley",
     "sg:city":"Doncaster",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185716353,
-    "wof:lastmodified":1449006835,
+    "wof:lastmodified":1466253616,
     "wof:name":"Londis Shop",
     "wof:parent_id":85790193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.147292,53.545341,-1.147292,53.545341],
+  "bbox": [
+    -1.147292,
+    53.545341,
+    -1.147292,
+    53.545341
+],
   "geometry": {"coordinates":[-1.147292,53.545341],"type":"Point"}
 }

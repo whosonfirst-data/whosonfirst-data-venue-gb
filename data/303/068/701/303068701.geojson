@@ -2,13 +2,14 @@
   "id": 303068701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.14643,53.53054,-2.14643,53.53054",
     "geom:latitude":53.53054,
     "geom:longitude":-2.14643,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Scholes Street",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303068701,
-    "wof:lastmodified":1448999380,
+    "wof:lastmodified":1466264556,
     "wof:name":"Bridal Cars",
     "wof:parent_id":85793081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wedding"
     ]
 },
-  "bbox": [-2.14643,53.53054,-2.14643,53.53054],
+  "bbox": [
+    -2.14643,
+    53.53054,
+    -2.14643,
+    53.53054
+],
   "geometry": {"coordinates":[-2.14643,53.53054],"type":"Point"}
 }

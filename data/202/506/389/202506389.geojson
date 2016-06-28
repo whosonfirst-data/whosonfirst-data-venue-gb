@@ -2,13 +2,14 @@
   "id": 202506389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.232304,56.290409,-3.232304,56.290409",
     "geom:latitude":56.290409,
     "geom:longitude":-3.232304,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Low Rd, Auchtermuchty",
     "sg:city":"Cupar",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202506389,
-    "wof:lastmodified":1449060162,
+    "wof:lastmodified":1466254221,
     "wof:name":"MURRAY & MURRAY",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-3.232304,56.290409,-3.232304,56.290409],
+  "bbox": [
+    -3.232304,
+    56.290409,
+    -3.232304,
+    56.290409
+],
   "geometry": {"coordinates":[-3.232304,56.290409],"type":"Point"}
 }

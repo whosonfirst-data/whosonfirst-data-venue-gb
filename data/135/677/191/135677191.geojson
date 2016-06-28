@@ -2,13 +2,14 @@
   "id": 135677191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.531099,52.281986,-1.531099,52.281986",
     "geom:latitude":52.281986,
     "geom:longitude":-1.531099,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Brunswick Street",
     "sg:city":"Leamington Spa",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135677191,
-    "wof:lastmodified":1449022089,
+    "wof:lastmodified":1466285562,
     "wof:name":"Leamington Spa Cemetery",
     "wof:parent_id":101750473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.531099,52.281986,-1.531099,52.281986],
+  "bbox": [
+    -1.531099,
+    52.281986,
+    -1.531099,
+    52.281986
+],
   "geometry": {"coordinates":[-1.531099,52.281986],"type":"Point"}
 }

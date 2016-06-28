@@ -2,13 +2,14 @@
   "id": 136058647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.879254,50.742008,-1.879254,50.742008",
     "geom:latitude":50.742008,
     "geom:longitude":-1.879254,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5-7 Withermoor Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136058647,
-    "wof:lastmodified":1449075102,
+    "wof:lastmodified":1466253100,
     "wof:name":"Moore Movies",
     "wof:parent_id":85791709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.879254,50.742008,-1.879254,50.742008],
+  "bbox": [
+    -1.879254,
+    50.742008,
+    -1.879254,
+    50.742008
+],
   "geometry": {"coordinates":[-1.879254,50.742008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270320059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.52635,52.403278,-1.52635,52.403278",
     "geom:latitude":52.403278,
     "geom:longitude":-1.52635,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Albany Road",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":270320059,
-    "wof:lastmodified":1449009237,
+    "wof:lastmodified":1466270096,
     "wof:name":"St Thomas'S House",
     "wof:parent_id":85790551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-1.52635,52.403278,-1.52635,52.403278],
+  "bbox": [
+    -1.52635,
+    52.403278,
+    -1.52635,
+    52.403278
+],
   "geometry": {"coordinates":[-1.52635,52.403278],"type":"Point"}
 }

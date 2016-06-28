@@ -2,13 +2,14 @@
   "id": 303297519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.463359,52.432026,-1.463359,52.432026",
     "geom:latitude":52.432026,
     "geom:longitude":-1.463359,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Ellacombe Road",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303297519,
-    "wof:lastmodified":1448999676,
+    "wof:lastmodified":1466271779,
     "wof:name":"P R Autos",
     "wof:parent_id":85787461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.463359,52.432026,-1.463359,52.432026],
+  "bbox": [
+    -1.463359,
+    52.432026,
+    -1.463359,
+    52.432026
+],
   "geometry": {"coordinates":[-1.463359,52.432026],"type":"Point"}
 }

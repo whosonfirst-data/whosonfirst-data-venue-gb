@@ -2,13 +2,14 @@
   "id": 119307101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.058118,51.080788,-4.058118,51.080788",
     "geom:latitude":51.080788,
     "geom:longitude":-4.058118,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Boutport St",
     "sg:city":"Barnstaple",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119307101,
-    "wof:lastmodified":1449041486,
+    "wof:lastmodified":1466280373,
     "wof:name":"Fernando Roost",
     "wof:parent_id":101852617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.058118,51.080788,-4.058118,51.080788],
+  "bbox": [
+    -4.058118,
+    51.080788,
+    -4.058118,
+    51.080788
+],
   "geometry": {"coordinates":[-4.058118,51.080788],"type":"Point"}
 }

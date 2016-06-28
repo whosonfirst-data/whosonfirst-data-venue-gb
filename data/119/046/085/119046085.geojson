@@ -2,13 +2,14 @@
   "id": 119046085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.077524,52.875332,-1.077524,52.875332",
     "geom:latitude":52.875332,
     "geom:longitude":-1.077524,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Meadow Drive, Keyworth",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119046085,
-    "wof:lastmodified":1449042323,
+    "wof:lastmodified":1466252806,
     "wof:name":"Ashton Garage",
     "wof:parent_id":85683849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.077524,52.875332,-1.077524,52.875332],
+  "bbox": [
+    -1.077524,
+    52.875332,
+    -1.077524,
+    52.875332
+],
   "geometry": {"coordinates":[-1.077524,52.875332],"type":"Point"}
 }

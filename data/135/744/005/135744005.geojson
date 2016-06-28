@@ -2,13 +2,14 @@
   "id": 135744005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.145101,52.989361,-1.145101,52.989361",
     "geom:latitude":52.989361,
     "geom:longitude":-1.145101,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Langar Close",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135744005,
-    "wof:lastmodified":1449022097,
+    "wof:lastmodified":1466286693,
     "wof:name":"Man Enterprise",
     "wof:parent_id":85790293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.145101,52.989361,-1.145101,52.989361],
+  "bbox": [
+    -1.145101,
+    52.989361,
+    -1.145101,
+    52.989361
+],
   "geometry": {"coordinates":[-1.145101,52.989361],"type":"Point"}
 }

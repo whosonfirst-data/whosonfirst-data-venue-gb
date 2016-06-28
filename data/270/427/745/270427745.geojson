@@ -2,13 +2,14 @@
   "id": 270427745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.181303,55.932098,-3.181303,55.932098",
     "geom:latitude":55.932098,
     "geom:longitude":-3.181303,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Fountainhall Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270427745,
-    "wof:lastmodified":1449009353,
+    "wof:lastmodified":1466273221,
     "wof:name":"Fountainhall Guest House",
     "wof:parent_id":85787675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "guest"
     ]
 },
-  "bbox": [-3.181303,55.932098,-3.181303,55.932098],
+  "bbox": [
+    -3.181303,
+    55.932098,
+    -3.181303,
+    55.932098
+],
   "geometry": {"coordinates":[-3.181303,55.932098],"type":"Point"}
 }

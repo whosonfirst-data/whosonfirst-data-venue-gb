@@ -2,13 +2,14 @@
   "id": 253153943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.960859,52.49556,-1.960859,52.49556",
     "geom:latitude":52.49556,
     "geom:longitude":-1.960859,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"James Watt House, Baldwin Street",
     "sg:city":"Smethwick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253153943,
-    "wof:lastmodified":1449064884,
+    "wof:lastmodified":1466260378,
     "wof:name":"Sharpe Project",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.960859,52.49556,-1.960859,52.49556],
+  "bbox": [
+    -1.960859,
+    52.49556,
+    -1.960859,
+    52.49556
+],
   "geometry": {"coordinates":[-1.960859,52.49556],"type":"Point"}
 }

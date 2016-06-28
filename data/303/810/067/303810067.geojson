@@ -2,13 +2,14 @@
   "id": 303810067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.13917,52.989014,-1.13917,52.989014",
     "geom:latitude":52.989014,
     "geom:longitude":-1.13917,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Albemarle Road, Woodthorpe",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303810067,
-    "wof:lastmodified":1448998823,
+    "wof:lastmodified":1466283261,
     "wof:name":"Albemarle Hall Nursing Home",
     "wof:parent_id":85791805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-1.13917,52.989014,-1.13917,52.989014],
+  "bbox": [
+    -1.13917,
+    52.989014,
+    -1.13917,
+    52.989014
+],
   "geometry": {"coordinates":[-1.13917,52.989014],"type":"Point"}
 }

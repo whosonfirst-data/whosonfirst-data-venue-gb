@@ -2,13 +2,14 @@
   "id": 202695033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.456765,50.987125,-4.456765,50.987125",
     "geom:latitude":50.987125,
     "geom:longitude":-4.456765,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Natcott Farm, Natcott Lane, Hartland",
     "sg:city":"Bideford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202695033,
-    "wof:lastmodified":1449061072,
+    "wof:lastmodified":1466257377,
     "wof:name":"K H Heard & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farmer"
     ]
 },
-  "bbox": [-4.456765,50.987125,-4.456765,50.987125],
+  "bbox": [
+    -4.456765,
+    50.987125,
+    -4.456765,
+    50.987125
+],
   "geometry": {"coordinates":[-4.456765,50.987125],"type":"Point"}
 }

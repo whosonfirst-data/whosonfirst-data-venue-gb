@@ -2,13 +2,14 @@
   "id": 303077911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.99999,53.651222,-2.99999,53.651222",
     "geom:latitude":53.651222,
     "geom:longitude":-2.99999,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"178 Lord Street,",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303077911,
-    "wof:lastmodified":1448998508,
+    "wof:lastmodified":1466264874,
     "wof:name":"Venue Boulevard",
     "wof:parent_id":85786647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-2.99999,53.651222,-2.99999,53.651222],
+  "bbox": [
+    -2.99999,
+    53.651222,
+    -2.99999,
+    53.651222
+],
   "geometry": {"coordinates":[-2.99999,53.651222],"type":"Point"}
 }

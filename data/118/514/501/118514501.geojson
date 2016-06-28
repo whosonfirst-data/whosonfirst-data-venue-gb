@@ -2,13 +2,14 @@
   "id": 118514501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.690058,53.914585,-1.690058,53.914585",
     "geom:latitude":53.914585,
     "geom:longitude":-1.690058,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Wrenbeck Drive",
     "sg:city":"Otley",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":118514501,
-    "wof:lastmodified":1449053859,
+    "wof:lastmodified":1466275961,
     "wof:name":"Wrenbeck News",
     "wof:parent_id":85684321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.690058,53.914585,-1.690058,53.914585],
+  "bbox": [
+    -1.690058,
+    53.914585,
+    -1.690058,
+    53.914585
+],
   "geometry": {"coordinates":[-1.690058,53.914585],"type":"Point"}
 }

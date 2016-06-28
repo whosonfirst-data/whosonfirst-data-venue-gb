@@ -2,13 +2,14 @@
   "id": 270023701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.94343,50.729156,-1.94343,50.729156",
     "geom:latitude":50.729156,
     "geom:longitude":-1.94343,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"486 Ashley Road",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270023701,
-    "wof:lastmodified":1449010857,
+    "wof:lastmodified":1466261166,
     "wof:name":"G & P Ledger",
     "wof:parent_id":85789727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-1.94343,50.729156,-1.94343,50.729156],
+  "bbox": [
+    -1.94343,
+    50.729156,
+    -1.94343,
+    50.729156
+],
   "geometry": {"coordinates":[-1.94343,50.729156],"type":"Point"}
 }

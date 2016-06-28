@@ -2,13 +2,14 @@
   "id": 303482741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.247113,55.935898,-3.247113,55.935898",
     "geom:latitude":55.935898,
     "geom:longitude":-3.247113,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Balgreen Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303482741,
-    "wof:lastmodified":1448998986,
+    "wof:lastmodified":1466277355,
     "wof:name":"Balgreen Library",
     "wof:parent_id":85790721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-3.247113,55.935898,-3.247113,55.935898],
+  "bbox": [
+    -3.247113,
+    55.935898,
+    -3.247113,
+    55.935898
+],
   "geometry": {"coordinates":[-3.247113,55.935898],"type":"Point"}
 }

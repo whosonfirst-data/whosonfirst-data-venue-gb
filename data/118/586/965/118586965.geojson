@@ -2,13 +2,14 @@
   "id": 118586965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.005506,53.646,-3.005506,53.646",
     "geom:latitude":53.646,
     "geom:longitude":-3.005506,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Eastbank Street, Southport Town Centre",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118586965,
-    "wof:lastmodified":1449054387,
+    "wof:lastmodified":1466256742,
     "wof:name":"Harpers",
     "wof:parent_id":85785733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.005506,53.646,-3.005506,53.646],
+  "bbox": [
+    -3.005506,
+    53.646,
+    -3.005506,
+    53.646
+],
   "geometry": {"coordinates":[-3.005506,53.646],"type":"Point"}
 }

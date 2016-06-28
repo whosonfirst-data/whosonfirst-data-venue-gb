@@ -2,13 +2,14 @@
   "id": 135636293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.416582,50.910633,-1.416582,50.910633",
     "geom:latitude":50.910633,
     "geom:longitude":-1.416582,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Roberts Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135636293,
-    "wof:lastmodified":1449022196,
+    "wof:lastmodified":1466284300,
     "wof:name":"Irving",
     "wof:parent_id":85791557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.416582,50.910633,-1.416582,50.910633],
+  "bbox": [
+    -1.416582,
+    50.910633,
+    -1.416582,
+    50.910633
+],
   "geometry": {"coordinates":[-1.416582,50.910633],"type":"Point"}
 }

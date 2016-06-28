@@ -2,13 +2,14 @@
   "id": 270325465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.156416,55.970005,-3.156416,55.970005",
     "geom:latitude":55.970005,
     "geom:longitude":-3.156416,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Claremont Park",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":270325465,
-    "wof:lastmodified":1449009586,
+    "wof:lastmodified":1466270242,
     "wof:name":"Claremont Park Ltd",
     "wof:parent_id":85861483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "private"
     ]
 },
-  "bbox": [-3.156416,55.970005,-3.156416,55.970005],
+  "bbox": [
+    -3.156416,
+    55.970005,
+    -3.156416,
+    55.970005
+],
   "geometry": {"coordinates":[-3.156416,55.970005],"type":"Point"}
 }

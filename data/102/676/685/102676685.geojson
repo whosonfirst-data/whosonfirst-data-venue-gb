@@ -2,13 +2,14 @@
   "id": 102676685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.2457,53.49218,-2.2457,53.49218",
     "geom:latitude":53.49218,
     "geom:longitude":-2.2457,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Souhall Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102676685,
-    "wof:lastmodified":1449069316,
+    "wof:lastmodified":1466255528,
     "wof:name":"Manchester Prison",
     "wof:parent_id":85793003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.2457,53.49218,-2.2457,53.49218],
+  "bbox": [
+    -2.2457,
+    53.49218,
+    -2.2457,
+    53.49218
+],
   "geometry": {"coordinates":[-2.2457,53.49218],"type":"Point"}
 }

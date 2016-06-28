@@ -2,13 +2,14 @@
   "id": 135321119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.49916,53.132,-1.49916,53.132",
     "geom:latitude":53.132,
     "geom:longitude":-1.49916,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hill Top Farm, Parkhead",
     "sg:city":"Matlock",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135321119,
-    "wof:lastmodified":1449021046,
+    "wof:lastmodified":1466253761,
     "wof:name":"B Sayles",
     "wof:parent_id":85684075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.49916,53.132,-1.49916,53.132],
+  "bbox": [
+    -1.49916,
+    53.132,
+    -1.49916,
+    53.132
+],
   "geometry": {"coordinates":[-1.49916,53.132],"type":"Point"}
 }

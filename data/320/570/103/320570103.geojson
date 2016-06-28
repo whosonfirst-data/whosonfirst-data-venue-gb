@@ -2,13 +2,14 @@
   "id": 320570103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.129035,51.570625,0.129035,51.570625",
     "geom:latitude":51.570625,
     "geom:longitude":0.129035,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1195 High Road",
     "sg:city":"Romford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320570103,
-    "wof:lastmodified":1449013472,
+    "wof:lastmodified":1466282209,
     "wof:name":"Agency Letting Services",
     "wof:parent_id":85786397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "agent"
     ]
 },
-  "bbox": [0.129035,51.570625,0.129035,51.570625],
+  "bbox": [
+    0.129035,
+    51.570625,
+    0.129035,
+    51.570625
+],
   "geometry": {"coordinates":[0.129035,51.570625],"type":"Point"}
 }

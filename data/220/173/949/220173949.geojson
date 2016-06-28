@@ -2,13 +2,14 @@
   "id": 220173949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.240619,53.427757,-2.240619,53.427757",
     "geom:latitude":53.427757,
     "geom:longitude":-2.240619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Lapwing Lane",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":220173949,
-    "wof:lastmodified":1449074196,
+    "wof:lastmodified":1466256012,
     "wof:name":"The Nose Wine Bar",
     "wof:parent_id":85791723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.240619,53.427757,-2.240619,53.427757],
+  "bbox": [
+    -2.240619,
+    53.427757,
+    -2.240619,
+    53.427757
+],
   "geometry": {"coordinates":[-2.240619,53.427757],"type":"Point"}
 }

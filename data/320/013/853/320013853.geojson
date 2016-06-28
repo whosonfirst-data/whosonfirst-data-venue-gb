@@ -2,13 +2,14 @@
   "id": 320013853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.432999,56.038795,-5.432999,56.038795",
     "geom:latitude":56.038795,
     "geom:longitude":-5.432999,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Argyll Street",
     "sg:city":"Lochgilphead",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320013853,
-    "wof:lastmodified":1449013802,
+    "wof:lastmodified":1466268536,
     "wof:name":"Mckellars Bookmakers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "bookmaker"
     ]
 },
-  "bbox": [-5.432999,56.038795,-5.432999,56.038795],
+  "bbox": [
+    -5.432999,
+    56.038795,
+    -5.432999,
+    56.038795
+],
   "geometry": {"coordinates":[-5.432999,56.038795],"type":"Point"}
 }

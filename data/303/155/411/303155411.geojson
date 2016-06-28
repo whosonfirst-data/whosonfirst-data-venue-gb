@@ -2,13 +2,14 @@
   "id": 303155411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.683621,53.86631,-1.683621,53.86631",
     "geom:latitude":53.86631,
     "geom:longitude":-1.683621,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 High Street, Yeadon",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303155411,
-    "wof:lastmodified":1449000134,
+    "wof:lastmodified":1466267328,
     "wof:name":"Blacks Solicitors",
     "wof:parent_id":85786761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-1.683621,53.86631,-1.683621,53.86631],
+  "bbox": [
+    -1.683621,
+    53.86631,
+    -1.683621,
+    53.86631
+],
   "geometry": {"coordinates":[-1.683621,53.86631],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202497315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.00113,51.458447,0.00113,51.458447",
     "geom:latitude":51.458447,
     "geom:longitude":0.00113,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Lee High Rd, Lewisham",
     "sg:city":"Lewisham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202497315,
-    "wof:lastmodified":1449062599,
+    "wof:lastmodified":1466254083,
     "wof:name":"Harlequin",
     "wof:parent_id":85861189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fancy"
     ]
 },
-  "bbox": [0.00113,51.458447,0.00113,51.458447],
+  "bbox": [
+    0.00113,
+    51.458447,
+    0.00113,
+    51.458447
+],
   "geometry": {"coordinates":[0.00113,51.458447],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303406491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.684596,54.650673,-1.684596,54.650673",
     "geom:latitude":54.650673,
     "geom:longitude":-1.684596,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Woodhouse Lane",
     "sg:city":"Bishop Auckland",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303406491,
-    "wof:lastmodified":1448999430,
+    "wof:lastmodified":1466275073,
     "wof:name":"John Barker Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.684596,54.650673,-1.684596,54.650673],
+  "bbox": [
+    -1.684596,
+    54.650673,
+    -1.684596,
+    54.650673
+],
   "geometry": {"coordinates":[-1.684596,54.650673],"type":"Point"}
 }

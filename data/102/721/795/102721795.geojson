@@ -2,13 +2,14 @@
   "id": 102721795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.303769,56.131512,-3.303769,56.131512",
     "geom:latitude":56.131512,
     "geom:longitude":-3.303769,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Auchterderran Road",
     "sg:city":"Lochgelly",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102721795,
-    "wof:lastmodified":1449070201,
+    "wof:lastmodified":1466257228,
     "wof:name":"Lochgelly Motor Co",
     "wof:parent_id":85684569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.303769,56.131512,-3.303769,56.131512],
+  "bbox": [
+    -3.303769,
+    56.131512,
+    -3.303769,
+    56.131512
+],
   "geometry": {"coordinates":[-3.303769,56.131512],"type":"Point"}
 }

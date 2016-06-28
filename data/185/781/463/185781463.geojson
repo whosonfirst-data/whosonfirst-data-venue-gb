@@ -2,13 +2,14 @@
   "id": 185781463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.116377,52.629772,-1.116377,52.629772",
     "geom:latitude":52.629772,
     "geom:longitude":-1.116377,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Peters Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185781463,
-    "wof:lastmodified":1449006924,
+    "wof:lastmodified":1466254414,
     "wof:name":"St. Peters Centre",
     "wof:parent_id":85861117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "centre"
     ]
 },
-  "bbox": [-1.116377,52.629772,-1.116377,52.629772],
+  "bbox": [
+    -1.116377,
+    52.629772,
+    -1.116377,
+    52.629772
+],
   "geometry": {"coordinates":[-1.116377,52.629772],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303270677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.41156,52.891918,-1.41156,52.891918",
     "geom:latitude":52.891918,
     "geom:longitude":-1.41156,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Slindon Croft, Keldholme Lane, Alvaston",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303270677,
-    "wof:lastmodified":1448998551,
+    "wof:lastmodified":1466270951,
     "wof:name":"Slindon Croft Sheltered Housing",
     "wof:parent_id":85785293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-1.41156,52.891918,-1.41156,52.891918],
+  "bbox": [
+    -1.41156,
+    52.891918,
+    -1.41156,
+    52.891918
+],
   "geometry": {"coordinates":[-1.41156,52.891918],"type":"Point"}
 }

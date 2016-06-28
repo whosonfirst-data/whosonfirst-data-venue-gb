@@ -2,13 +2,14 @@
   "id": 135840993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.143529,57.17025,-2.143529,57.17025",
     "geom:latitude":57.17025,
     "geom:longitude":-2.143529,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Smithfield Court",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":135840993,
-    "wof:lastmodified":1449023346,
+    "wof:lastmodified":1466287815,
     "wof:name":"Smithfield Court Sheltered Housing",
     "wof:parent_id":85791801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.143529,57.17025,-2.143529,57.17025],
+  "bbox": [
+    -2.143529,
+    57.17025,
+    -2.143529,
+    57.17025
+],
   "geometry": {"coordinates":[-2.143529,57.17025],"type":"Point"}
 }

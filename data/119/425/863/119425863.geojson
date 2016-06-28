@@ -2,13 +2,14 @@
   "id": 119425863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.193404,55.939404,-3.193404,55.939404",
     "geom:latitude":55.939404,
     "geom:longitude":-3.193404,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Roseneath Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119425863,
-    "wof:lastmodified":1449041726,
+    "wof:lastmodified":1466285877,
     "wof:name":"Centre for Human Ecology",
     "wof:parent_id":85788975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.193404,55.939404,-3.193404,55.939404],
+  "bbox": [
+    -3.193404,
+    55.939404,
+    -3.193404,
+    55.939404
+],
   "geometry": {"coordinates":[-3.193404,55.939404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119495931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.046338,52.860493,-3.046338,52.860493",
     "geom:latitude":52.860493,
     "geom:longitude":-3.046338,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Ardmillan Court",
     "sg:city":"Oswestry",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119495931,
-    "wof:lastmodified":1449042007,
+    "wof:lastmodified":1466286979,
     "wof:name":"A Thomas",
     "wof:parent_id":101874077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.046338,52.860493,-3.046338,52.860493],
+  "bbox": [
+    -3.046338,
+    52.860493,
+    -3.046338,
+    52.860493
+],
   "geometry": {"coordinates":[-3.046338,52.860493],"type":"Point"}
 }

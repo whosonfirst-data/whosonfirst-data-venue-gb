@@ -2,13 +2,14 @@
   "id": 135611263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.470526,51.204983,-1.470526,51.204983",
     "geom:latitude":51.204983,
     "geom:longitude":-1.470526,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Wolversdene Road",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135611263,
-    "wof:lastmodified":1449023386,
+    "wof:lastmodified":1466283008,
     "wof:name":"Fastwell Ltd",
     "wof:parent_id":101750345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.470526,51.204983,-1.470526,51.204983],
+  "bbox": [
+    -1.470526,
+    51.204983,
+    -1.470526,
+    51.204983
+],
   "geometry": {"coordinates":[-1.470526,51.204983],"type":"Point"}
 }

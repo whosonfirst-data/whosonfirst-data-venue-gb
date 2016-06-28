@@ -2,13 +2,14 @@
   "id": 135330023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.060547,53.193604,-1.060547,53.193604",
     "geom:latitude":53.193604,
     "geom:longitude":-1.060547,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Lansbury Road, Edwinstowe",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135330023,
-    "wof:lastmodified":1449022518,
+    "wof:lastmodified":1466254842,
     "wof:name":"David Evans Artist & Illustrator",
     "wof:parent_id":101871943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.060547,53.193604,-1.060547,53.193604],
+  "bbox": [
+    -1.060547,
+    53.193604,
+    -1.060547,
+    53.193604
+],
   "geometry": {"coordinates":[-1.060547,53.193604],"type":"Point"}
 }

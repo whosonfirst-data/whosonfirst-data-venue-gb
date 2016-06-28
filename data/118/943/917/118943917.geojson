@@ -2,13 +2,14 @@
   "id": 118943917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.139544,50.392536,-4.139544,50.392536",
     "geom:latitude":50.392536,
     "geom:longitude":-4.139544,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Berrow Park Rd, Peverell",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":118943917,
-    "wof:lastmodified":1449053521,
+    "wof:lastmodified":1466281379,
     "wof:name":"Master Building",
     "wof:parent_id":85787989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.139544,50.392536,-4.139544,50.392536],
+  "bbox": [
+    -4.139544,
+    50.392536,
+    -4.139544,
+    50.392536
+],
   "geometry": {"coordinates":[-4.139544,50.392536],"type":"Point"}
 }

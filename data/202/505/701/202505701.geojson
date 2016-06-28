@@ -2,13 +2,14 @@
   "id": 202505701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.270358,56.27787,-3.270358,56.27787",
     "geom:latitude":56.27787,
     "geom:longitude":-3.270358,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 High Street, Auchtermuchty",
     "sg:city":"Cupar",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202505701,
-    "wof:lastmodified":1449062242,
+    "wof:lastmodified":1466254215,
     "wof:name":"M G & A C Reid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "chemist"
     ]
 },
-  "bbox": [-3.270358,56.27787,-3.270358,56.27787],
+  "bbox": [
+    -3.270358,
+    56.27787,
+    -3.270358,
+    56.27787
+],
   "geometry": {"coordinates":[-3.270358,56.27787],"type":"Point"}
 }

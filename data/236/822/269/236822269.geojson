@@ -2,13 +2,14 @@
   "id": 236822269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.198314,55.980392,-3.198314,55.980392",
     "geom:latitude":55.980392,
     "geom:longitude":-3.198314,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1-1a Starbank Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236822269,
-    "wof:lastmodified":1449005126,
+    "wof:lastmodified":1466272115,
     "wof:name":"James Mason & Son",
     "wof:parent_id":85789381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-3.198314,55.980392,-3.198314,55.980392],
+  "bbox": [
+    -3.198314,
+    55.980392,
+    -3.198314,
+    55.980392
+],
   "geometry": {"coordinates":[-3.198314,55.980392],"type":"Point"}
 }

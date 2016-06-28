@@ -2,13 +2,14 @@
   "id": 135480211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.63295,55.46352,-4.63295,55.46352",
     "geom:latitude":55.46352,
     "geom:longitude":-4.63295,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Ayr Town Hall, Sandgate",
     "sg:city":"Ayr",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135480211,
-    "wof:lastmodified":1449021981,
+    "wof:lastmodified":1466272244,
     "wof:name":"South Ayrshire Council",
     "wof:parent_id":101873467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.63295,55.46352,-4.63295,55.46352],
+  "bbox": [
+    -4.63295,
+    55.46352,
+    -4.63295,
+    55.46352
+],
   "geometry": {"coordinates":[-4.63295,55.46352],"type":"Point"}
 }

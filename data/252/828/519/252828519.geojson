@@ -2,13 +2,14 @@
   "id": 252828519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.704949,54.979546,-1.704949,54.979546",
     "geom:latitude":54.979546,
     "geom:longitude":-1.704949,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Newbury Close, South West Denton",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252828519,
-    "wof:lastmodified":1449005978,
+    "wof:lastmodified":1466259419,
     "wof:name":"A R M Electrical Services",
     "wof:parent_id":85861875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.704949,54.979546,-1.704949,54.979546],
+  "bbox": [
+    -1.704949,
+    54.979546,
+    -1.704949,
+    54.979546
+],
   "geometry": {"coordinates":[-1.704949,54.979546],"type":"Point"}
 }

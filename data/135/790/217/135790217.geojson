@@ -2,13 +2,14 @@
   "id": 135790217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.187742,55.970245,-3.187742,55.970245",
     "geom:latitude":55.970245,
     "geom:longitude":-3.187742,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Stewartfield Newhaven Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135790217,
-    "wof:lastmodified":1449023324,
+    "wof:lastmodified":1466287394,
     "wof:name":"Andrew Bryce",
     "wof:parent_id":85792709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.187742,55.970245,-3.187742,55.970245],
+  "bbox": [
+    -3.187742,
+    55.970245,
+    -3.187742,
+    55.970245
+],
   "geometry": {"coordinates":[-3.187742,55.970245],"type":"Point"}
 }

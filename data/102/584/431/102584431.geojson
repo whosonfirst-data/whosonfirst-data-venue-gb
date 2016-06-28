@@ -2,13 +2,14 @@
   "id": 102584431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.054575,52.859272,-3.054575,52.859272",
     "geom:latitude":52.859272,
     "geom:longitude":-3.054575,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12-14 Cross Street",
     "sg:city":"Oswestry",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102584431,
-    "wof:lastmodified":1449068058,
+    "wof:lastmodified":1466275566,
     "wof:name":"Wilkinsons Hardware Stores",
     "wof:parent_id":101874077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.054575,52.859272,-3.054575,52.859272],
+  "bbox": [
+    -3.054575,
+    52.859272,
+    -3.054575,
+    52.859272
+],
   "geometry": {"coordinates":[-3.054575,52.859272],"type":"Point"}
 }

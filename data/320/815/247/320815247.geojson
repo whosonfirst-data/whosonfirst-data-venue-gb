@@ -2,13 +2,14 @@
   "id": 320815247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.367598,54.270061,-1.367598,54.270061",
     "geom:latitude":54.270061,
     "geom:longitude":-1.367598,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Thornton Park, Thornton Le Street",
     "sg:city":"Thirsk",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320815247,
-    "wof:lastmodified":1449013071,
+    "wof:lastmodified":1466285035,
     "wof:name":"Thornton Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "crop"
     ]
 },
-  "bbox": [-1.367598,54.270061,-1.367598,54.270061],
+  "bbox": [
+    -1.367598,
+    54.270061,
+    -1.367598,
+    54.270061
+],
   "geometry": {"coordinates":[-1.367598,54.270061],"type":"Point"}
 }

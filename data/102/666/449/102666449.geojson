@@ -2,13 +2,14 @@
   "id": 102666449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.392254,51.378536,-2.392254,51.378536",
     "geom:latitude":51.378536,
     "geom:longitude":-2.392254,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 High Street, Twerton",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102666449,
-    "wof:lastmodified":1449068662,
+    "wof:lastmodified":1466255128,
     "wof:name":"L Gunston",
     "wof:parent_id":85791197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.392254,51.378536,-2.392254,51.378536],
+  "bbox": [
+    -2.392254,
+    51.378536,
+    -2.392254,
+    51.378536
+],
   "geometry": {"coordinates":[-2.392254,51.378536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135939265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.394549,53.549641,-2.394549,53.549641",
     "geom:latitude":53.549641,
     "geom:longitude":-2.394549,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Market St",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135939265,
-    "wof:lastmodified":1449021901,
+    "wof:lastmodified":1466288123,
     "wof:name":"Motormania",
     "wof:parent_id":85792939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.394549,53.549641,-2.394549,53.549641],
+  "bbox": [
+    -2.394549,
+    53.549641,
+    -2.394549,
+    53.549641
+],
   "geometry": {"coordinates":[-2.394549,53.549641],"type":"Point"}
 }

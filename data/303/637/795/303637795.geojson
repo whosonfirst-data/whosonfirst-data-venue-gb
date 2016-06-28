@@ -2,13 +2,14 @@
   "id": 303637795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.10989,57.665375,-3.10989,57.665375",
     "geom:latitude":57.665375,
     "geom:longitude":-3.10989,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 High Street",
     "sg:city":"Fochabers",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303637795,
-    "wof:lastmodified":1448998116,
+    "wof:lastmodified":1466280513,
     "wof:name":"Watt's Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.10989,57.665375,-3.10989,57.665375],
+  "bbox": [
+    -3.10989,
+    57.665375,
+    -3.10989,
+    57.665375
+],
   "geometry": {"coordinates":[-3.10989,57.665375],"type":"Point"}
 }

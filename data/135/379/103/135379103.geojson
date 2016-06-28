@@ -2,13 +2,14 @@
   "id": 135379103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.055569,53.819599,-3.055569,53.819599",
     "geom:latitude":53.819599,
     "geom:longitude":-3.055569,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"124-130 Promenade",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135379103,
-    "wof:lastmodified":1449022773,
+    "wof:lastmodified":1466260345,
     "wof:name":"Edwards",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.055569,53.819599,-3.055569,53.819599],
+  "bbox": [
+    -3.055569,
+    53.819599,
+    -3.055569,
+    53.819599
+],
   "geometry": {"coordinates":[-3.055569,53.819599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303860279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.438174,53.236935,-1.438174,53.236935",
     "geom:latitude":53.236935,
     "geom:longitude":-1.438174,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Alexandra Road West",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303860279,
-    "wof:lastmodified":1448999207,
+    "wof:lastmodified":1466283667,
     "wof:name":"Chatsworth Tarmac",
     "wof:parent_id":85861099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-1.438174,53.236935,-1.438174,53.236935],
+  "bbox": [
+    -1.438174,
+    53.236935,
+    -1.438174,
+    53.236935
+],
   "geometry": {"coordinates":[-1.438174,53.236935],"type":"Point"}
 }

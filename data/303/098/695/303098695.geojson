@@ -2,13 +2,14 @@
   "id": 303098695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.385892,55.879723,-4.385892,55.879723",
     "geom:latitude":55.879723,
     "geom:longitude":-4.385892,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Renfield Street",
     "sg:city":"Renfrew",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303098695,
-    "wof:lastmodified":1449000309,
+    "wof:lastmodified":1466265604,
     "wof:name":"Flirtations",
     "wof:parent_id":85791893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.385892,55.879723,-4.385892,55.879723],
+  "bbox": [
+    -4.385892,
+    55.879723,
+    -4.385892,
+    55.879723
+],
   "geometry": {"coordinates":[-4.385892,55.879723],"type":"Point"}
 }

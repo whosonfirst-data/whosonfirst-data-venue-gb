@@ -2,13 +2,14 @@
   "id": 136146383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.681743,53.866249,-1.681743,53.866249",
     "geom:latitude":53.866249,
     "geom:longitude":-1.681743,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"High Street",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136146383,
-    "wof:lastmodified":1449075472,
+    "wof:lastmodified":1466258079,
     "wof:name":"Stagsome Ltd.",
     "wof:parent_id":85786761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.681743,53.866249,-1.681743,53.866249],
+  "bbox": [
+    -1.681743,
+    53.866249,
+    -1.681743,
+    53.866249
+],
   "geometry": {"coordinates":[-1.681743,53.866249],"type":"Point"}
 }

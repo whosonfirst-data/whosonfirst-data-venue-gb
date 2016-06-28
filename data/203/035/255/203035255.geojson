@@ -2,13 +2,14 @@
   "id": 203035255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.52306,52.412529,0.52306,52.412529",
     "geom:latitude":52.412529,
     "geom:longitude":0.52306,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bldg 777, Raf Lakenheath",
     "sg:city":"Brandon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203035255,
-    "wof:lastmodified":1449026471,
+    "wof:lastmodified":1466253229,
     "wof:name":"Lakenheath Rod & Gun Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [0.52306,52.412529,0.52306,52.412529],
+  "bbox": [
+    0.52306,
+    52.412529,
+    0.52306,
+    52.412529
+],
   "geometry": {"coordinates":[0.52306,52.412529],"type":"Point"}
 }

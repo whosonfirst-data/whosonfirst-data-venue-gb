@@ -2,13 +2,14 @@
   "id": 102652167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.297252,55.844986,-4.297252,55.844986",
     "geom:latitude":55.844986,
     "geom:longitude":-4.297252,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Sherbrooke Drive",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102652167,
-    "wof:lastmodified":1449069322,
+    "wof:lastmodified":1466254501,
     "wof:name":"Ian & Sylvia McKay",
     "wof:parent_id":85789887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.297252,55.844986,-4.297252,55.844986],
+  "bbox": [
+    -4.297252,
+    55.844986,
+    -4.297252,
+    55.844986
+],
   "geometry": {"coordinates":[-4.297252,55.844986],"type":"Point"}
 }

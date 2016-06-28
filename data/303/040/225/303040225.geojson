@@ -2,13 +2,14 @@
   "id": 303040225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.850429,56.471939,-2.850429,56.471939",
     "geom:latitude":56.471939,
     "geom:longitude":-2.850429,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Dalhousie Road",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303040225,
-    "wof:lastmodified":1449000497,
+    "wof:lastmodified":1466263623,
     "wof:name":"St Helens Guest House",
     "wof:parent_id":85786079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "guest"
     ]
 },
-  "bbox": [-2.850429,56.471939,-2.850429,56.471939],
+  "bbox": [
+    -2.850429,
+    56.471939,
+    -2.850429,
+    56.471939
+],
   "geometry": {"coordinates":[-2.850429,56.471939],"type":"Point"}
 }

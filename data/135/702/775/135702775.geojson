@@ -2,13 +2,14 @@
   "id": 135702775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.28638,55.881924,-4.28638,55.881924",
     "geom:latitude":55.881924,
     "geom:longitude":-4.28638,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Sanda St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135702775,
-    "wof:lastmodified":1449022521,
+    "wof:lastmodified":1466286012,
     "wof:name":"Dr Paul Quizzes",
     "wof:parent_id":85792649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.28638,55.881924,-4.28638,55.881924],
+  "bbox": [
+    -4.28638,
+    55.881924,
+    -4.28638,
+    55.881924
+],
   "geometry": {"coordinates":[-4.28638,55.881924],"type":"Point"}
 }

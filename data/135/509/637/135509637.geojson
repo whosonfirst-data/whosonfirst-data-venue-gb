@@ -2,13 +2,14 @@
   "id": 135509637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.239685,51.752098,-1.239685,51.752098",
     "geom:latitude":51.752098,
     "geom:longitude":-1.239685,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 Standingford House, 26 Cave Street",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135509637,
-    "wof:lastmodified":1449021099,
+    "wof:lastmodified":1466275601,
     "wof:name":"Barbell Press",
     "wof:parent_id":85793243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.239685,51.752098,-1.239685,51.752098],
+  "bbox": [
+    -1.239685,
+    51.752098,
+    -1.239685,
+    51.752098
+],
   "geometry": {"coordinates":[-1.239685,51.752098],"type":"Point"}
 }

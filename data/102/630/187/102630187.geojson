@@ -2,13 +2,14 @@
   "id": 102630187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.318025,57.656429,-3.318025,57.656429",
     "geom:latitude":57.656429,
     "geom:longitude":-3.318025,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42a North St",
     "sg:city":"Elgin",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102630187,
-    "wof:lastmodified":1449068645,
+    "wof:lastmodified":1466253578,
     "wof:name":"W H Taylor & Sons",
     "wof:parent_id":101873635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.318025,57.656429,-3.318025,57.656429],
+  "bbox": [
+    -3.318025,
+    57.656429,
+    -3.318025,
+    57.656429
+],
   "geometry": {"coordinates":[-3.318025,57.656429],"type":"Point"}
 }

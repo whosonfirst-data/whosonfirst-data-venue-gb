@@ -2,13 +2,14 @@
   "id": 286880735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.010637,53.646313,-3.010637,53.646313",
     "geom:latitude":53.646313,
     "geom:longitude":-3.010637,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2c Coronation Walk",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":286880735,
-    "wof:lastmodified":1449018112,
+    "wof:lastmodified":1466280355,
     "wof:name":"The Pantry",
     "wof:parent_id":85785733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.010637,53.646313,-3.010637,53.646313],
+  "bbox": [
+    -3.010637,
+    53.646313,
+    -3.010637,
+    53.646313
+],
   "geometry": {"coordinates":[-3.010637,53.646313],"type":"Point"}
 }

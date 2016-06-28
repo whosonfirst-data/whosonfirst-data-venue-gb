@@ -2,13 +2,14 @@
   "id": 185721725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.278533,55.874092,-4.278533,55.874092",
     "geom:latitude":55.874092,
     "geom:longitude":-4.278533,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Park Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185721725,
-    "wof:lastmodified":1449008204,
+    "wof:lastmodified":1466253679,
     "wof:name":"Park Laundrette",
     "wof:parent_id":85792601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "launderette"
     ]
 },
-  "bbox": [-4.278533,55.874092,-4.278533,55.874092],
+  "bbox": [
+    -4.278533,
+    55.874092,
+    -4.278533,
+    55.874092
+],
   "geometry": {"coordinates":[-4.278533,55.874092],"type":"Point"}
 }

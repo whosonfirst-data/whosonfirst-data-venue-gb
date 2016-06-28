@@ -2,13 +2,14 @@
   "id": 102628915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.820087,54.931099,-3.820087,54.931099",
     "geom:latitude":54.931099,
     "geom:longitude":-3.820087,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"91 High Street",
     "sg:city":"Dalbeattie",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":102628915,
-    "wof:lastmodified":1449069719,
+    "wof:lastmodified":1466253534,
     "wof:name":"James W Johnston & Son",
     "wof:parent_id":101872363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.820087,54.931099,-3.820087,54.931099],
+  "bbox": [
+    -3.820087,
+    54.931099,
+    -3.820087,
+    54.931099
+],
   "geometry": {"coordinates":[-3.820087,54.931099],"type":"Point"}
 }

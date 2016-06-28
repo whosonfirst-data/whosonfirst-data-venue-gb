@@ -2,13 +2,14 @@
   "id": 219287877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.695626,55.162964,-1.695626,55.162964",
     "geom:latitude":55.162964,
     "geom:longitude":-1.695626,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Postern Crescent",
     "sg:city":"Morpeth",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219287877,
-    "wof:lastmodified":1449070596,
+    "wof:lastmodified":1466255052,
     "wof:name":"Highway Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cab"
     ]
 },
-  "bbox": [-1.695626,55.162964,-1.695626,55.162964],
+  "bbox": [
+    -1.695626,
+    55.162964,
+    -1.695626,
+    55.162964
+],
   "geometry": {"coordinates":[-1.695626,55.162964],"type":"Point"}
 }

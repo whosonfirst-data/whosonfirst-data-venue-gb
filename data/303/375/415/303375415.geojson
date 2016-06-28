@@ -2,13 +2,14 @@
   "id": 303375415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.045199,51.5499,0.045199,51.5499",
     "geom:latitude":51.5499,
     "geom:longitude":0.045199,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Romford Road, Manor Park",
     "sg:city":"London",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303375415,
-    "wof:lastmodified":1448998204,
+    "wof:lastmodified":1466274087,
     "wof:name":"B & P Carpets Ltd.",
     "wof:parent_id":85785259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "carpets"
     ]
 },
-  "bbox": [0.045199,51.5499,0.045199,51.5499],
+  "bbox": [
+    0.045199,
+    51.5499,
+    0.045199,
+    51.5499
+],
   "geometry": {"coordinates":[0.045199,51.5499],"type":"Point"}
 }

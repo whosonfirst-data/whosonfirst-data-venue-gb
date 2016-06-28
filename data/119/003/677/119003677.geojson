@@ -2,13 +2,14 @@
   "id": 119003677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.016508,52.483269,-2.016508,52.483269",
     "geom:latitude":52.483269,
     "geom:longitude":-2.016508,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Causeway Green Road, Oldbury",
     "sg:city":"Smethwick",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":119003677,
-    "wof:lastmodified":1449043327,
+    "wof:lastmodified":1466257210,
     "wof:name":"David Christian",
     "wof:parent_id":85791347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.016508,52.483269,-2.016508,52.483269],
+  "bbox": [
+    -2.016508,
+    52.483269,
+    -2.016508,
+    52.483269
+],
   "geometry": {"coordinates":[-2.016508,52.483269],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135900227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.866039,51.590374,-1.866039,51.590374",
     "geom:latitude":51.590374,
     "geom:longitude":-1.866039,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 The Pry, Purton",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135900227,
-    "wof:lastmodified":1449022309,
+    "wof:lastmodified":1466288096,
     "wof:name":"Pryton Engineering",
     "wof:parent_id":85791363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.866039,51.590374,-1.866039,51.590374],
+  "bbox": [
+    -1.866039,
+    51.590374,
+    -1.866039,
+    51.590374
+],
   "geometry": {"coordinates":[-1.866039,51.590374],"type":"Point"}
 }

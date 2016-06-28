@@ -2,13 +2,14 @@
   "id": 320834805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.733035,52.12196,-1.733035,52.12196",
     "geom:latitude":52.12196,
     "geom:longitude":-1.733035,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Friday Street, Lower Quinton",
     "sg:city":"Stratford-upon-avon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320834805,
-    "wof:lastmodified":1449011582,
+    "wof:lastmodified":1466285095,
     "wof:name":"Angies Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.733035,52.12196,-1.733035,52.12196],
+  "bbox": [
+    -1.733035,
+    52.12196,
+    -1.733035,
+    52.12196
+],
   "geometry": {"coordinates":[-1.733035,52.12196],"type":"Point"}
 }

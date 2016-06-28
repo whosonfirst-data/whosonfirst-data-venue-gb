@@ -2,13 +2,14 @@
   "id": 135726009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.25122,53.473557,-2.25122,53.473557",
     "geom:latitude":53.473557,
     "geom:longitude":-2.25122,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Commercial Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135726009,
-    "wof:lastmodified":1449023070,
+    "wof:lastmodified":1466286646,
     "wof:name":"H Conduit",
     "wof:parent_id":85861853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.25122,53.473557,-2.25122,53.473557],
+  "bbox": [
+    -2.25122,
+    53.473557,
+    -2.25122,
+    53.473557
+],
   "geometry": {"coordinates":[-2.25122,53.473557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202603153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.688016,54.983276,-1.688016,54.983276",
     "geom:latitude":54.983276,
     "geom:longitude":-1.688016,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Broadwood Road",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202603153,
-    "wof:lastmodified":1449062266,
+    "wof:lastmodified":1466255887,
     "wof:name":"SUNTANS BY LISA",
     "wof:parent_id":85861875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "activity"
     ]
 },
-  "bbox": [-1.688016,54.983276,-1.688016,54.983276],
+  "bbox": [
+    -1.688016,
+    54.983276,
+    -1.688016,
+    54.983276
+],
   "geometry": {"coordinates":[-1.688016,54.983276],"type":"Point"}
 }

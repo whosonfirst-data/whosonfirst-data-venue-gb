@@ -2,13 +2,14 @@
   "id": 118541089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.314734,52.514931,-3.314734,52.514931",
     "geom:latitude":52.514931,
     "geom:longitude":-3.314734,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Short Bridge Street",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118541089,
-    "wof:lastmodified":1449053302,
+    "wof:lastmodified":1466253238,
     "wof:name":"Mitchell Meredith",
     "wof:parent_id":101853629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.314734,52.514931,-3.314734,52.514931],
+  "bbox": [
+    -3.314734,
+    52.514931,
+    -3.314734,
+    52.514931
+],
   "geometry": {"coordinates":[-3.314734,52.514931],"type":"Point"}
 }

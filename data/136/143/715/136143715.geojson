@@ -2,13 +2,14 @@
   "id": 136143715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.536684,52.285606,-1.536684,52.285606",
     "geom:latitude":52.285606,
     "geom:longitude":-1.536684,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Station App",
     "sg:city":"Leamington Spa",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136143715,
-    "wof:lastmodified":1449076023,
+    "wof:lastmodified":1466257928,
     "wof:name":"Target Vehicle Rental",
     "wof:parent_id":101750473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.536684,52.285606,-1.536684,52.285606],
+  "bbox": [
+    -1.536684,
+    52.285606,
+    -1.536684,
+    52.285606
+],
   "geometry": {"coordinates":[-1.536684,52.285606],"type":"Point"}
 }

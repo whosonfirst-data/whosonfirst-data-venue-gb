@@ -2,13 +2,14 @@
   "id": 102602433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.022025,52.575565,-1.022025,52.575565",
     "geom:latitude":52.575565,
     "geom:longitude":-1.022025,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Oaks Road, Great Glen",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":102602433,
-    "wof:lastmodified":1449068905,
+    "wof:lastmodified":1466278094,
     "wof:name":"Grundy & Harmer",
     "wof:parent_id":85683891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.022025,52.575565,-1.022025,52.575565],
+  "bbox": [
+    -1.022025,
+    52.575565,
+    -1.022025,
+    52.575565
+],
   "geometry": {"coordinates":[-1.022025,52.575565],"type":"Point"}
 }

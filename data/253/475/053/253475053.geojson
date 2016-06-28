@@ -2,13 +2,14 @@
   "id": 253475053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.15652,55.935001,-4.15652,55.935001",
     "geom:latitude":55.935001,
     "geom:longitude":-4.15652,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Strathkelvin Place, Kirkintilloch",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253475053,
-    "wof:lastmodified":1449064053,
+    "wof:lastmodified":1466267355,
     "wof:name":"Keyline Builders Merchants Ltd.",
     "wof:parent_id":85786143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "builder"
     ]
 },
-  "bbox": [-4.15652,55.935001,-4.15652,55.935001],
+  "bbox": [
+    -4.15652,
+    55.935001,
+    -4.15652,
+    55.935001
+],
   "geometry": {"coordinates":[-4.15652,55.935001],"type":"Point"}
 }

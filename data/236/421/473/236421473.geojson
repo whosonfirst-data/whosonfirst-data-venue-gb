@@ -2,13 +2,14 @@
   "id": 236421473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.335252,51.399925,-1.335252,51.399925",
     "geom:latitude":51.399925,
     "geom:longitude":-1.335252,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Russell Rd",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236421473,
-    "wof:lastmodified":1449003805,
+    "wof:lastmodified":1466264448,
     "wof:name":"Burdett-ward",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "journalist"
     ]
 },
-  "bbox": [-1.335252,51.399925,-1.335252,51.399925],
+  "bbox": [
+    -1.335252,
+    51.399925,
+    -1.335252,
+    51.399925
+],
   "geometry": {"coordinates":[-1.335252,51.399925],"type":"Point"}
 }

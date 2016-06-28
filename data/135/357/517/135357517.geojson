@@ -2,13 +2,14 @@
   "id": 135357517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.148039,50.366928,-4.148039,50.366928",
     "geom:latitude":50.366928,
     "geom:longitude":-4.148039,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Citadel Rd",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135357517,
-    "wof:lastmodified":1449023638,
+    "wof:lastmodified":1466258060,
     "wof:name":"Classic Floors",
     "wof:parent_id":85790965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.148039,50.366928,-4.148039,50.366928],
+  "bbox": [
+    -4.148039,
+    50.366928,
+    -4.148039,
+    50.366928
+],
   "geometry": {"coordinates":[-4.148039,50.366928],"type":"Point"}
 }

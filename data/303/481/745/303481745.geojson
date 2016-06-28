@@ -2,13 +2,14 @@
   "id": 303481745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.239465,51.750767,-1.239465,51.750767",
     "geom:latitude":51.750767,
     "geom:longitude":-1.239465,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 St Clements St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303481745,
-    "wof:lastmodified":1449000253,
+    "wof:lastmodified":1466277318,
     "wof:name":"Allen,Trevor,",
     "wof:parent_id":85793243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.239465,51.750767,-1.239465,51.750767],
+  "bbox": [
+    -1.239465,
+    51.750767,
+    -1.239465,
+    51.750767
+],
   "geometry": {"coordinates":[-1.239465,51.750767],"type":"Point"}
 }

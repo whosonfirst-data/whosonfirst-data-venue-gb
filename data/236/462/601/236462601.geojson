@@ -2,13 +2,14 @@
   "id": 236462601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.228485,51.860935,-2.228485,51.860935",
     "geom:latitude":51.860935,
     "geom:longitude":-2.228485,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Alfred Street",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236462601,
-    "wof:lastmodified":1449005093,
+    "wof:lastmodified":1466265157,
     "wof:name":"The Gap Project",
     "wof:parent_id":85790951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trade"
     ]
 },
-  "bbox": [-2.228485,51.860935,-2.228485,51.860935],
+  "bbox": [
+    -2.228485,
+    51.860935,
+    -2.228485,
+    51.860935
+],
   "geometry": {"coordinates":[-2.228485,51.860935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135786103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.97582,55.93895,-3.97582,55.93895",
     "geom:latitude":55.93895,
     "geom:longitude":-3.97582,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Kelvin Road North, Cumbernauld",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135786103,
-    "wof:lastmodified":1449021380,
+    "wof:lastmodified":1466287245,
     "wof:name":"Exetra",
     "wof:parent_id":101750633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.97582,55.93895,-3.97582,55.93895],
+  "bbox": [
+    -3.97582,
+    55.93895,
+    -3.97582,
+    55.93895
+],
   "geometry": {"coordinates":[-3.97582,55.93895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303463929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.930305,50.721252,-1.930305,50.721252",
     "geom:latitude":50.721252,
     "geom:longitude":-1.930305,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Stevenson Cres",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303463929,
-    "wof:lastmodified":1448999817,
+    "wof:lastmodified":1466276877,
     "wof:name":"Pearce Construction",
     "wof:parent_id":85785943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.930305,50.721252,-1.930305,50.721252],
+  "bbox": [
+    -1.930305,
+    50.721252,
+    -1.930305,
+    50.721252
+],
   "geometry": {"coordinates":[-1.930305,50.721252],"type":"Point"}
 }

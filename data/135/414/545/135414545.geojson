@@ -2,13 +2,14 @@
   "id": 135414545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.31668,50.663479,-2.31668,50.663479",
     "geom:latitude":50.663479,
     "geom:longitude":-2.31668,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Wareham Road, Owermoigne",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135414545,
-    "wof:lastmodified":1449022425,
+    "wof:lastmodified":1466264397,
     "wof:name":"Owermoigne Service Station",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.31668,50.663479,-2.31668,50.663479],
+  "bbox": [
+    -2.31668,
+    50.663479,
+    -2.31668,
+    50.663479
+],
   "geometry": {"coordinates":[-2.31668,50.663479],"type":"Point"}
 }

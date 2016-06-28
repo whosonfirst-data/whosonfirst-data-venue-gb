@@ -2,13 +2,14 @@
   "id": 135596621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.27626,55.868252,-4.27626,55.868252",
     "geom:latitude":55.868252,
     "geom:longitude":-4.27626,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Trinity Tower, Lynedoch Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135596621,
-    "wof:lastmodified":1449022568,
+    "wof:lastmodified":1466282411,
     "wof:name":"John Gahagan",
     "wof:parent_id":85792601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.27626,55.868252,-4.27626,55.868252],
+  "bbox": [
+    -4.27626,
+    55.868252,
+    -4.27626,
+    55.868252
+],
   "geometry": {"coordinates":[-4.27626,55.868252],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135623009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.95096,53.429546,-2.95096,53.429546",
     "geom:latitude":53.429546,
     "geom:longitude":-2.95096,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Priory Road",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135623009,
-    "wof:lastmodified":1449023120,
+    "wof:lastmodified":1466283704,
     "wof:name":"Welcome Chippy",
     "wof:parent_id":85785305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.95096,53.429546,-2.95096,53.429546],
+  "bbox": [
+    -2.95096,
+    53.429546,
+    -2.95096,
+    53.429546
+],
   "geometry": {"coordinates":[-2.95096,53.429546],"type":"Point"}
 }

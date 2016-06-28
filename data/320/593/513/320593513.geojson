@@ -2,13 +2,14 @@
   "id": 320593513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.152944,57.150009,-2.152944,57.150009",
     "geom:latitude":57.150009,
     "geom:longitude":-2.152944,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Summerhill Road",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":320593513,
-    "wof:lastmodified":1449013749,
+    "wof:lastmodified":1466282539,
     "wof:name":"Summerhill Eventide Home",
     "wof:parent_id":85791943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-2.152944,57.150009,-2.152944,57.150009],
+  "bbox": [
+    -2.152944,
+    57.150009,
+    -2.152944,
+    57.150009
+],
   "geometry": {"coordinates":[-2.152944,57.150009],"type":"Point"}
 }

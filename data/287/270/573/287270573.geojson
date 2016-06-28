@@ -2,13 +2,14 @@
   "id": 287270573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.036298,51.645794,-4.036298,51.645794",
     "geom:latitude":51.645794,
     "geom:longitude":-4.036298,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Cecil Rd, Gowerton",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":287270573,
-    "wof:lastmodified":1449000824,
+    "wof:lastmodified":1466271406,
     "wof:name":"STATS Ltd",
     "wof:parent_id":85791391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-4.036298,51.645794,-4.036298,51.645794],
+  "bbox": [
+    -4.036298,
+    51.645794,
+    -4.036298,
+    51.645794
+],
   "geometry": {"coordinates":[-4.036298,51.645794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135283503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.04445,51.469688,-1.04445,51.469688",
     "geom:latitude":51.469688,
     "geom:longitude":-1.04445,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 The Colonade, Overdown Road, Tilehurst",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135283503,
-    "wof:lastmodified":1449021908,
+    "wof:lastmodified":1466275883,
     "wof:name":"Rusts Ltd.",
     "wof:parent_id":85791053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.04445,51.469688,-1.04445,51.469688],
+  "bbox": [
+    -1.04445,
+    51.469688,
+    -1.04445,
+    51.469688
+],
   "geometry": {"coordinates":[-1.04445,51.469688],"type":"Point"}
 }

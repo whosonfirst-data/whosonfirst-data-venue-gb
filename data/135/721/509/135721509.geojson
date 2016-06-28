@@ -2,13 +2,14 @@
   "id": 135721509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.142735,56.558575,-3.142735,56.558575",
     "geom:latitude":56.558575,
     "geom:longitude":-3.142735,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Belmont Street, Newtyle",
     "sg:city":"Blairgowrie",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135721509,
-    "wof:lastmodified":1449023981,
+    "wof:lastmodified":1466286549,
     "wof:name":"Careline Scotland",
     "wof:parent_id":85684103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.142735,56.558575,-3.142735,56.558575],
+  "bbox": [
+    -3.142735,
+    56.558575,
+    -3.142735,
+    56.558575
+],
   "geometry": {"coordinates":[-3.142735,56.558575],"type":"Point"}
 }

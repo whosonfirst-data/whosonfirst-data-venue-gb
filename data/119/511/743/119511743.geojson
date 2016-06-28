@@ -2,13 +2,14 @@
   "id": 119511743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.40763,52.57003,-1.40763,52.57003",
     "geom:latitude":52.57003,
     "geom:longitude":-1.40763,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Surgery, 22 Pine Clo",
     "sg:city":"Nuneaton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119511743,
-    "wof:lastmodified":1449042061,
+    "wof:lastmodified":1466287184,
     "wof:name":"Sutton, F J",
     "wof:parent_id":85683891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.40763,52.57003,-1.40763,52.57003],
+  "bbox": [
+    -1.40763,
+    52.57003,
+    -1.40763,
+    52.57003
+],
   "geometry": {"coordinates":[-1.40763,52.57003],"type":"Point"}
 }

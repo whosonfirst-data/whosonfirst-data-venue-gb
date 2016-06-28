@@ -2,13 +2,14 @@
   "id": 135871221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.289207,55.951893,-3.289207,55.951893",
     "geom:latitude":55.951893,
     "geom:longitude":-3.289207,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Adshiel Avenue",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135871221,
-    "wof:lastmodified":1449021993,
+    "wof:lastmodified":1466287927,
     "wof:name":"Mackenzie Property Maintenance",
     "wof:parent_id":85786699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.289207,55.951893,-3.289207,55.951893],
+  "bbox": [
+    -3.289207,
+    55.951893,
+    -3.289207,
+    55.951893
+],
   "geometry": {"coordinates":[-3.289207,55.951893],"type":"Point"}
 }

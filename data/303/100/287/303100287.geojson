@@ -2,13 +2,14 @@
   "id": 303100287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.93848,54.8922,-2.93848,54.8922",
     "geom:latitude":54.8922,
     "geom:longitude":-2.93848,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Viaduct Garage, Viaduct Estate Road",
     "sg:city":"Carlisle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303100287,
-    "wof:lastmodified":1448999930,
+    "wof:lastmodified":1466265661,
     "wof:name":"Master Fit",
     "wof:parent_id":85786157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.93848,54.8922,-2.93848,54.8922],
+  "bbox": [
+    -2.93848,
+    54.8922,
+    -2.93848,
+    54.8922
+],
   "geometry": {"coordinates":[-2.93848,54.8922],"type":"Point"}
 }

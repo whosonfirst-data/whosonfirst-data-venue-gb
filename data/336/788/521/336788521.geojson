@@ -2,13 +2,14 @@
   "id": 336788521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.538761,50.81712,-0.538761,50.81712",
     "geom:latitude":50.81712,
     "geom:longitude":-0.538761,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Amberley Close, Wick",
     "sg:city":"Littlehampton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336788521,
-    "wof:lastmodified":1448997511,
+    "wof:lastmodified":1466278562,
     "wof:name":"Vehicle Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "inspection"
     ]
 },
-  "bbox": [-0.538761,50.81712,-0.538761,50.81712],
+  "bbox": [
+    -0.538761,
+    50.81712,
+    -0.538761,
+    50.81712
+],
   "geometry": {"coordinates":[-0.538761,50.81712],"type":"Point"}
 }

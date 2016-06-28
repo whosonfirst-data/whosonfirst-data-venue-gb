@@ -2,13 +2,14 @@
   "id": 320384435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.128579,52.926495,-1.128579,52.926495",
     "geom:latitude":52.926495,
     "geom:longitude":-1.128579,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Melton Road, West Bridgford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320384435,
-    "wof:lastmodified":1449011716,
+    "wof:lastmodified":1466279249,
     "wof:name":"Salon 99",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.128579,52.926495,-1.128579,52.926495],
+  "bbox": [
+    -1.128579,
+    52.926495,
+    -1.128579,
+    52.926495
+],
   "geometry": {"coordinates":[-1.128579,52.926495],"type":"Point"}
 }

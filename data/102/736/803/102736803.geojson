@@ -2,13 +2,14 @@
   "id": 102736803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.91719,56.123001,-3.91719,56.123001",
     "geom:latitude":56.123001,
     "geom:longitude":-3.91719,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Tower Orchard House, Cambuskenneth",
     "sg:city":"Stirling",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102736803,
-    "wof:lastmodified":1449070191,
+    "wof:lastmodified":1466257873,
     "wof:name":"Research & Project Consultancy",
     "wof:parent_id":101874203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.91719,56.123001,-3.91719,56.123001],
+  "bbox": [
+    -3.91719,
+    56.123001,
+    -3.91719,
+    56.123001
+],
   "geometry": {"coordinates":[-3.91719,56.123001],"type":"Point"}
 }

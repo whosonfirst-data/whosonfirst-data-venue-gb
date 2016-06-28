@@ -2,13 +2,14 @@
   "id": 236348205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.497188,53.420452,-1.497188,53.420452",
     "geom:latitude":53.420452,
     "geom:longitude":-1.497188,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Heath Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236348205,
-    "wof:lastmodified":1449001787,
+    "wof:lastmodified":1466263126,
     "wof:name":"Goodfellows Coaches",
     "wof:parent_id":85788231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coach"
     ]
 },
-  "bbox": [-1.497188,53.420452,-1.497188,53.420452],
+  "bbox": [
+    -1.497188,
+    53.420452,
+    -1.497188,
+    53.420452
+],
   "geometry": {"coordinates":[-1.497188,53.420452],"type":"Point"}
 }

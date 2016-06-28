@@ -2,13 +2,14 @@
   "id": 135318367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.96576,51.806602,-4.96576,51.806602",
     "geom:latitude":51.806602,
     "geom:longitude":-4.96576,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"68-70 Prendergast",
     "sg:city":"Haverfordwest",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135318367,
-    "wof:lastmodified":1449021656,
+    "wof:lastmodified":1466253442,
     "wof:name":"The Horse & Groom",
     "wof:parent_id":101853003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.96576,51.806602,-4.96576,51.806602],
+  "bbox": [
+    -4.96576,
+    51.806602,
+    -4.96576,
+    51.806602
+],
   "geometry": {"coordinates":[-4.96576,51.806602],"type":"Point"}
 }

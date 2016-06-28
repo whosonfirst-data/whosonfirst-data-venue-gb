@@ -2,13 +2,14 @@
   "id": 135875523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.961049,52.493542,-1.961049,52.493542",
     "geom:latitude":52.493542,
     "geom:longitude":-1.961049,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Corbett Street, Smethwick",
     "sg:city":"Smethwick",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135875523,
-    "wof:lastmodified":1449023244,
+    "wof:lastmodified":1466288050,
     "wof:name":"Figurevalue Ltd.",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.961049,52.493542,-1.961049,52.493542],
+  "bbox": [
+    -1.961049,
+    52.493542,
+    -1.961049,
+    52.493542
+],
   "geometry": {"coordinates":[-1.961049,52.493542],"type":"Point"}
 }

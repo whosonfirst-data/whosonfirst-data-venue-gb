@@ -2,13 +2,14 @@
   "id": 303459661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.207111,52.650059,-1.207111,52.650059",
     "geom:latitude":52.650059,
     "geom:longitude":-1.207111,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Main Street, Glenfield",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303459661,
-    "wof:lastmodified":1448999115,
+    "wof:lastmodified":1466276772,
     "wof:name":"D Sutton & Sons (Builders) Ltd.",
     "wof:parent_id":85787615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.207111,52.650059,-1.207111,52.650059],
+  "bbox": [
+    -1.207111,
+    52.650059,
+    -1.207111,
+    52.650059
+],
   "geometry": {"coordinates":[-1.207111,52.650059],"type":"Point"}
 }

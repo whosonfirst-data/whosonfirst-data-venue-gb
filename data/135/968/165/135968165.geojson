@@ -2,13 +2,14 @@
   "id": 135968165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.84101,53.360287,-2.84101,53.360287",
     "geom:latitude":53.360287,
     "geom:longitude":-2.84101,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Almond Close",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135968165,
-    "wof:lastmodified":1449021187,
+    "wof:lastmodified":1466288444,
     "wof:name":"Kwik Kook",
     "wof:parent_id":85788379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.84101,53.360287,-2.84101,53.360287],
+  "bbox": [
+    -2.84101,
+    53.360287,
+    -2.84101,
+    53.360287
+],
   "geometry": {"coordinates":[-2.84101,53.360287],"type":"Point"}
 }

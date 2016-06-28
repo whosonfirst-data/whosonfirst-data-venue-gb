@@ -2,13 +2,14 @@
   "id": 135530581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.384725,52.976006,-1.384725,52.976006",
     "geom:latitude":52.976006,
     "geom:longitude":-1.384725,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Hayeswood Road, Stanley Common",
     "sg:city":"Ilkeston",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135530581,
-    "wof:lastmodified":1449022619,
+    "wof:lastmodified":1466278099,
     "wof:name":"Mick Sadler",
     "wof:parent_id":85789551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.384725,52.976006,-1.384725,52.976006],
+  "bbox": [
+    -1.384725,
+    52.976006,
+    -1.384725,
+    52.976006
+],
   "geometry": {"coordinates":[-1.384725,52.976006],"type":"Point"}
 }

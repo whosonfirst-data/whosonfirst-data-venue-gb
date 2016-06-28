@@ -2,13 +2,14 @@
   "id": 336732487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.078751,51.55386,0.078751,51.55386",
     "geom:latitude":51.55386,
     "geom:longitude":0.078751,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Woodlands Rd",
     "sg:city":"Ilford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336732487,
-    "wof:lastmodified":1448998053,
+    "wof:lastmodified":1466276743,
     "wof:name":"Woodlands",
     "wof:parent_id":85860293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [0.078751,51.55386,0.078751,51.55386],
+  "bbox": [
+    0.078751,
+    51.55386,
+    0.078751,
+    51.55386
+],
   "geometry": {"coordinates":[0.078751,51.55386],"type":"Point"}
 }

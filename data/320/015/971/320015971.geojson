@@ -2,13 +2,14 @@
   "id": 320015971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.54023,54.911961,-1.54023,54.911961",
     "geom:latitude":54.911961,
     "geom:longitude":-1.54023,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Parsons House",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320015971,
-    "wof:lastmodified":1449012111,
+    "wof:lastmodified":1466268606,
     "wof:name":"Argus Security",
     "wof:parent_id":85787265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.54023,54.911961,-1.54023,54.911961],
+  "bbox": [
+    -1.54023,
+    54.911961,
+    -1.54023,
+    54.911961
+],
   "geometry": {"coordinates":[-1.54023,54.911961],"type":"Point"}
 }

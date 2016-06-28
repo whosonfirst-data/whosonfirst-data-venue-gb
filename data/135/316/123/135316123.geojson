@@ -2,13 +2,14 @@
   "id": 135316123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.204359,54.139214,-3.204359,54.139214",
     "geom:latitude":54.139214,
     "geom:longitude":-3.204359,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dalton Lane",
     "sg:city":"Barrow-in-furness",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135316123,
-    "wof:lastmodified":1449023050,
+    "wof:lastmodified":1466253187,
     "wof:name":"Furness General Hospital",
     "wof:parent_id":85791877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.204359,54.139214,-3.204359,54.139214],
+  "bbox": [
+    -3.204359,
+    54.139214,
+    -3.204359,
+    54.139214
+],
   "geometry": {"coordinates":[-3.204359,54.139214],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135301387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.257587,53.785969,-2.257587,53.785969",
     "geom:latitude":53.785969,
     "geom:longitude":-2.257587,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Queensberry Road",
     "sg:city":"Burnley",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135301387,
-    "wof:lastmodified":1449021765,
+    "wof:lastmodified":1466277180,
     "wof:name":"Now Transit",
     "wof:parent_id":101750587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.257587,53.785969,-2.257587,53.785969],
+  "bbox": [
+    -2.257587,
+    53.785969,
+    -2.257587,
+    53.785969
+],
   "geometry": {"coordinates":[-2.257587,53.785969],"type":"Point"}
 }

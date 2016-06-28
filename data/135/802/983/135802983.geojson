@@ -2,13 +2,14 @@
   "id": 135802983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.978602,55.783737,-3.978602,55.783737",
     "geom:latitude":55.783737,
     "geom:longitude":-3.978602,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Orbiston Street",
     "sg:city":"Motherwell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135802983,
-    "wof:lastmodified":1449023457,
+    "wof:lastmodified":1466287482,
     "wof:name":"Brian Pender",
     "wof:parent_id":85683687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.978602,55.783737,-3.978602,55.783737],
+  "bbox": [
+    -3.978602,
+    55.783737,
+    -3.978602,
+    55.783737
+],
   "geometry": {"coordinates":[-3.978602,55.783737],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253205553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.315773,55.862743,-4.315773,55.862743",
     "geom:latitude":55.862743,
     "geom:longitude":-4.315773,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Langlands Road, Govan",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253205553,
-    "wof:lastmodified":1449064590,
+    "wof:lastmodified":1466261393,
     "wof:name":"George Low & Sons",
     "wof:parent_id":85787669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "butcher"
     ]
 },
-  "bbox": [-4.315773,55.862743,-4.315773,55.862743],
+  "bbox": [
+    -4.315773,
+    55.862743,
+    -4.315773,
+    55.862743
+],
   "geometry": {"coordinates":[-4.315773,55.862743],"type":"Point"}
 }

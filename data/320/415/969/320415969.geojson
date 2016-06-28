@@ -2,13 +2,14 @@
   "id": 320415969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.300207,55.803986,-4.300207,55.803986",
     "geom:latitude":55.803986,
     "geom:longitude":-4.300207,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Belmont Drive, Giffnock",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320415969,
-    "wof:lastmodified":1449013948,
+    "wof:lastmodified":1466279806,
     "wof:name":"Global Freelancer Ltd",
     "wof:parent_id":85787597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "software"
     ]
 },
-  "bbox": [-4.300207,55.803986,-4.300207,55.803986],
+  "bbox": [
+    -4.300207,
+    55.803986,
+    -4.300207,
+    55.803986
+],
   "geometry": {"coordinates":[-4.300207,55.803986],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135361285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.676378,53.466515,-2.676378,53.466515",
     "geom:latitude":53.466515,
     "geom:longitude":-2.676378,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Clipsley Lane",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135361285,
-    "wof:lastmodified":1449023199,
+    "wof:lastmodified":1466258503,
     "wof:name":"Westwells",
     "wof:parent_id":85789571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.676378,53.466515,-2.676378,53.466515],
+  "bbox": [
+    -2.676378,
+    53.466515,
+    -2.676378,
+    53.466515
+],
   "geometry": {"coordinates":[-2.676378,53.466515],"type":"Point"}
 }

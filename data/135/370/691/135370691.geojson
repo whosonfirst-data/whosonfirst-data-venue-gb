@@ -2,13 +2,14 @@
   "id": 135370691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.80677,52.58429,-1.80677,52.58429",
     "geom:latitude":52.58429,
     "geom:longitude":-1.80677,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Fox Hill Farm, Weeford Road",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135370691,
-    "wof:lastmodified":1449022654,
+    "wof:lastmodified":1466259478,
     "wof:name":"The Hungry Horse",
     "wof:parent_id":85792015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.80677,52.58429,-1.80677,52.58429],
+  "bbox": [
+    -1.80677,
+    52.58429,
+    -1.80677,
+    52.58429
+],
   "geometry": {"coordinates":[-1.80677,52.58429],"type":"Point"}
 }

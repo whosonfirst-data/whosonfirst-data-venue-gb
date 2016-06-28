@@ -2,13 +2,14 @@
   "id": 119006529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.512114,56.415215,-3.512114,56.415215",
     "geom:latitude":56.415215,
     "geom:longitude":-3.512114,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Deer Park",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119006529,
-    "wof:lastmodified":1449042984,
+    "wof:lastmodified":1466261859,
     "wof:name":"Ian Paton",
     "wof:parent_id":85683863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.512114,56.415215,-3.512114,56.415215],
+  "bbox": [
+    -3.512114,
+    56.415215,
+    -3.512114,
+    56.415215
+],
   "geometry": {"coordinates":[-3.512114,56.415215],"type":"Point"}
 }

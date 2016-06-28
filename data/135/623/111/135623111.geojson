@@ -2,13 +2,14 @@
   "id": 135623111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.95352,53.425247,-2.95352,53.425247",
     "geom:latitude":53.425247,
     "geom:longitude":-2.95352,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Breck Rd",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135623111,
-    "wof:lastmodified":1449023120,
+    "wof:lastmodified":1466283721,
     "wof:name":"Tropicana Sun Centre",
     "wof:parent_id":85785305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.95352,53.425247,-2.95352,53.425247],
+  "bbox": [
+    -2.95352,
+    53.425247,
+    -2.95352,
+    53.425247
+],
   "geometry": {"coordinates":[-2.95352,53.425247],"type":"Point"}
 }

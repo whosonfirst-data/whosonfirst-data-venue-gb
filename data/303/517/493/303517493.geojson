@@ -2,13 +2,14 @@
   "id": 303517493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.185777,55.93391,-3.185777,55.93391",
     "geom:latitude":55.93391,
     "geom:longitude":-3.185777,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Lauder Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303517493,
-    "wof:lastmodified":1448999520,
+    "wof:lastmodified":1466278375,
     "wof:name":"James F Cullen",
     "wof:parent_id":85787675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [-3.185777,55.93391,-3.185777,55.93391],
+  "bbox": [
+    -3.185777,
+    55.93391,
+    -3.185777,
+    55.93391
+],
   "geometry": {"coordinates":[-3.185777,55.93391],"type":"Point"}
 }

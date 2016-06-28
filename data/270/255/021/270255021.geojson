@@ -2,13 +2,14 @@
   "id": 270255021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.664077,55.614147,-4.664077,55.614147",
     "geom:latitude":55.614147,
     "geom:longitude":-4.664077,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 High Street",
     "sg:city":"Irvine",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270255021,
-    "wof:lastmodified":1449009743,
+    "wof:lastmodified":1466267988,
     "wof:name":"Thompsons Hairdressing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-4.664077,55.614147,-4.664077,55.614147],
+  "bbox": [
+    -4.664077,
+    55.614147,
+    -4.664077,
+    55.614147
+],
   "geometry": {"coordinates":[-4.664077,55.614147],"type":"Point"}
 }

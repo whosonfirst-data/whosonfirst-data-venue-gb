@@ -2,13 +2,14 @@
   "id": 253718877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.569984,52.415344,-1.569984,52.415344",
     "geom:latitude":52.415344,
     "geom:longitude":-1.569984,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Sutherland Avenue, Eastern Grn",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253718877,
-    "wof:lastmodified":1449063440,
+    "wof:lastmodified":1466274892,
     "wof:name":"Mount Nod Chemist",
     "wof:parent_id":85787193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chemist"
     ]
 },
-  "bbox": [-1.569984,52.415344,-1.569984,52.415344],
+  "bbox": [
+    -1.569984,
+    52.415344,
+    -1.569984,
+    52.415344
+],
   "geometry": {"coordinates":[-1.569984,52.415344],"type":"Point"}
 }

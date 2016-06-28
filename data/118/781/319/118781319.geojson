@@ -2,13 +2,14 @@
   "id": 118781319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.855693,55.695732,-4.855693,55.695732",
     "geom:latitude":55.695732,
     "geom:longitude":-4.855693,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Main Street",
     "sg:city":"West Kilbride",
     "sg:classifiers":[
@@ -37,14 +38,20 @@
     "wof:geomhash":"f76ac9bc006f18fa43b132d8f0150a02",
     "wof:hierarchy":[],
     "wof:id":118781319,
-    "wof:lastmodified":1449053406,
+    "wof:lastmodified":1466271336,
     "wof:name":"George Young & Son",
     "wof:parent_id":85684391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.855693,55.695732,-4.855693,55.695732],
+  "bbox": [
+    -4.855693,
+    55.695732,
+    -4.855693,
+    55.695732
+],
   "geometry": {"coordinates":[-4.855693,55.695732],"type":"Point"}
 }

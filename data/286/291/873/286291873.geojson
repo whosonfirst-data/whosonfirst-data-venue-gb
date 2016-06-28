@@ -2,13 +2,14 @@
   "id": 286291873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.23282,55.880138,-4.23282,55.880138",
     "geom:latitude":55.880138,
     "geom:longitude":-4.23282,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20-22 Foundry Street, Atlas Industrial Estate",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286291873,
-    "wof:lastmodified":1449016093,
+    "wof:lastmodified":1466263284,
     "wof:name":"Briggs Tiles & Bathrooms",
     "wof:parent_id":85790559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "planner"
     ]
 },
-  "bbox": [-4.23282,55.880138,-4.23282,55.880138],
+  "bbox": [
+    -4.23282,
+    55.880138,
+    -4.23282,
+    55.880138
+],
   "geometry": {"coordinates":[-4.23282,55.880138],"type":"Point"}
 }

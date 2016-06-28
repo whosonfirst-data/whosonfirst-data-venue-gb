@@ -2,13 +2,14 @@
   "id": 303667899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.595453,53.085129,-1.595453,53.085129",
     "geom:latitude":53.085129,
     "geom:longitude":-1.595453,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Causeway, Wirksworth",
     "sg:city":"Matlock",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303667899,
-    "wof:lastmodified":1448999718,
+    "wof:lastmodified":1466281300,
     "wof:name":"The Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.595453,53.085129,-1.595453,53.085129],
+  "bbox": [
+    -1.595453,
+    53.085129,
+    -1.595453,
+    53.085129
+],
   "geometry": {"coordinates":[-1.595453,53.085129],"type":"Point"}
 }

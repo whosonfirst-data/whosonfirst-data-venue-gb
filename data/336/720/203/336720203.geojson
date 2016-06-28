@@ -2,13 +2,14 @@
   "id": 336720203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.210705,55.950935,-3.210705,55.950935",
     "geom:latitude":55.950935,
     "geom:longitude":-3.210705,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Melville Street Lane",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336720203,
-    "wof:lastmodified":1448997207,
+    "wof:lastmodified":1466276394,
     "wof:name":"Graham Mather Associates",
     "wof:parent_id":85792719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [-3.210705,55.950935,-3.210705,55.950935],
+  "bbox": [
+    -3.210705,
+    55.950935,
+    -3.210705,
+    55.950935
+],
   "geometry": {"coordinates":[-3.210705,55.950935],"type":"Point"}
 }

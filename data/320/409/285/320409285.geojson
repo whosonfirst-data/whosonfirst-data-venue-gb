@@ -2,13 +2,14 @@
   "id": 320409285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.117055,52.617912,-1.117055,52.617912",
     "geom:latitude":52.617912,
     "geom:longitude":-1.117055,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Queens Rd",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320409285,
-    "wof:lastmodified":1449012801,
+    "wof:lastmodified":1466279507,
     "wof:name":"Queens",
     "wof:parent_id":85861117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-1.117055,52.617912,-1.117055,52.617912],
+  "bbox": [
+    -1.117055,
+    52.617912,
+    -1.117055,
+    52.617912
+],
   "geometry": {"coordinates":[-1.117055,52.617912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320708405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.046309,53.78595,-3.046309,53.78595",
     "geom:latitude":53.78595,
     "geom:longitude":-3.046309,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 St. James Rd",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320708405,
-    "wof:lastmodified":1449011841,
+    "wof:lastmodified":1466283986,
     "wof:name":"Peter Lea",
     "wof:parent_id":85789011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "heating"
     ]
 },
-  "bbox": [-3.046309,53.78595,-3.046309,53.78595],
+  "bbox": [
+    -3.046309,
+    53.78595,
+    -3.046309,
+    53.78595
+],
   "geometry": {"coordinates":[-3.046309,53.78595],"type":"Point"}
 }

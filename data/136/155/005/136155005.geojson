@@ -2,13 +2,14 @@
   "id": 136155005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.872271,50.82093,-1.872271,50.82093",
     "geom:latitude":50.82093,
     "geom:longitude":-1.872271,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Heathfield Road, West Moors",
     "sg:city":"Ferndown",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136155005,
-    "wof:lastmodified":1449076004,
+    "wof:lastmodified":1466258543,
     "wof:name":"Ferndown Audio Visual",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.872271,50.82093,-1.872271,50.82093],
+  "bbox": [
+    -1.872271,
+    50.82093,
+    -1.872271,
+    50.82093
+],
   "geometry": {"coordinates":[-1.872271,50.82093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135504869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.210978,53.148827,-1.210978,53.148827",
     "geom:latitude":53.148827,
     "geom:longitude":-1.210978,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"100 George St",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135504869,
-    "wof:lastmodified":1449021502,
+    "wof:lastmodified":1466275064,
     "wof:name":"National Petwatch",
     "wof:parent_id":85787491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.210978,53.148827,-1.210978,53.148827],
+  "bbox": [
+    -1.210978,
+    53.148827,
+    -1.210978,
+    53.148827
+],
   "geometry": {"coordinates":[-1.210978,53.148827],"type":"Point"}
 }

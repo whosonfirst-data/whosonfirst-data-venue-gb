@@ -2,13 +2,14 @@
   "id": 303152521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.266058,51.783394,-1.266058,51.783394",
     "geom:latitude":51.783394,
     "geom:longitude":-1.266058,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Hernes Road",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303152521,
-    "wof:lastmodified":1449000002,
+    "wof:lastmodified":1466267237,
     "wof:name":"Oxford Transport",
     "wof:parent_id":85790825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "road"
     ]
 },
-  "bbox": [-1.266058,51.783394,-1.266058,51.783394],
+  "bbox": [
+    -1.266058,
+    51.783394,
+    -1.266058,
+    51.783394
+],
   "geometry": {"coordinates":[-1.266058,51.783394],"type":"Point"}
 }

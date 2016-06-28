@@ -2,13 +2,14 @@
   "id": 202422125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.750365,55.860279,-3.750365,55.860279",
     "geom:latitude":55.860279,
     "geom:longitude":-3.750365,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 West Main Street, Harthill",
     "sg:city":"Shotts",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202422125,
-    "wof:lastmodified":1449060286,
+    "wof:lastmodified":1466252944,
     "wof:name":"Salon 17",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-3.750365,55.860279,-3.750365,55.860279],
+  "bbox": [
+    -3.750365,
+    55.860279,
+    -3.750365,
+    55.860279
+],
   "geometry": {"coordinates":[-3.750365,55.860279],"type":"Point"}
 }

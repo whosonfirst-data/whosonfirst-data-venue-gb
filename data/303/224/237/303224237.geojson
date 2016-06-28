@@ -2,13 +2,14 @@
   "id": 303224237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.371415,52.547329,-1.371415,52.547329",
     "geom:latitude":52.547329,
     "geom:longitude":-1.371415,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Factory Road",
     "sg:city":"Hinckley",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303224237,
-    "wof:lastmodified":1448999904,
+    "wof:lastmodified":1466269568,
     "wof:name":"Choice Food & Wine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.371415,52.547329,-1.371415,52.547329],
+  "bbox": [
+    -1.371415,
+    52.547329,
+    -1.371415,
+    52.547329
+],
   "geometry": {"coordinates":[-1.371415,52.547329],"type":"Point"}
 }

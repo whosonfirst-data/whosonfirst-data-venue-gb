@@ -2,13 +2,14 @@
   "id": 169849727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.373162,50.894596,-1.373162,50.894596",
     "geom:latitude":50.894596,
     "geom:longitude":-1.373162,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Obelisk Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169849727,
-    "wof:lastmodified":1449033297,
+    "wof:lastmodified":1466254563,
     "wof:name":"Starboard House",
     "wof:parent_id":85791809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-1.373162,50.894596,-1.373162,50.894596],
+  "bbox": [
+    -1.373162,
+    50.894596,
+    -1.373162,
+    50.894596
+],
   "geometry": {"coordinates":[-1.373162,50.894596],"type":"Point"}
 }

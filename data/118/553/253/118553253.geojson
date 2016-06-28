@@ -2,13 +2,14 @@
   "id": 118553253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.336684,51.604477,-3.336684,51.604477",
     "geom:latitude":51.604477,
     "geom:longitude":-3.336684,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Bridge Street",
     "sg:city":"Pontypridd",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118553253,
-    "wof:lastmodified":1449053159,
+    "wof:lastmodified":1466254200,
     "wof:name":"Bridge Street Post Office",
     "wof:parent_id":101852813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.336684,51.604477,-3.336684,51.604477],
+  "bbox": [
+    -3.336684,
+    51.604477,
+    -3.336684,
+    51.604477
+],
   "geometry": {"coordinates":[-3.336684,51.604477],"type":"Point"}
 }

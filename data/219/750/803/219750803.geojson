@@ -2,13 +2,14 @@
   "id": 219750803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.060245,52.210323,0.060245,52.210323",
     "geom:latitude":52.210323,
     "geom:longitude":0.060245,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Madingley Garage Madingley Road, Coton",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219750803,
-    "wof:lastmodified":1449072525,
+    "wof:lastmodified":1466262864,
     "wof:name":"Madingley Garage Ltd",
     "wof:parent_id":85793131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "garage"
     ]
 },
-  "bbox": [0.060245,52.210323,0.060245,52.210323],
+  "bbox": [
+    0.060245,
+    52.210323,
+    0.060245,
+    52.210323
+],
   "geometry": {"coordinates":[0.060245,52.210323],"type":"Point"}
 }

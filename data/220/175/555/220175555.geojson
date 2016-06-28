@@ -2,13 +2,14 @@
   "id": 220175555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.225554,53.487545,-2.225554,53.487545",
     "geom:latitude":53.487545,
     "geom:longitude":-2.225554,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Oldham Road",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220175555,
-    "wof:lastmodified":1449074613,
+    "wof:lastmodified":1466256044,
     "wof:name":"Autodeal",
     "wof:parent_id":85793015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-2.225554,53.487545,-2.225554,53.487545],
+  "bbox": [
+    -2.225554,
+    53.487545,
+    -2.225554,
+    53.487545
+],
   "geometry": {"coordinates":[-2.225554,53.487545],"type":"Point"}
 }

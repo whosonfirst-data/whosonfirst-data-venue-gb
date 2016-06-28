@@ -2,13 +2,14 @@
   "id": 102562447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.09869,52.789421,-2.09869,52.789421",
     "geom:latitude":52.789421,
     "geom:longitude":-2.09869,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 58 Brittania Way Brittania",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102562447,
-    "wof:lastmodified":1449069021,
+    "wof:lastmodified":1466252649,
     "wof:name":"Comtel",
     "wof:parent_id":85860987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.09869,52.789421,-2.09869,52.789421],
+  "bbox": [
+    -2.09869,
+    52.789421,
+    -2.09869,
+    52.789421
+],
   "geometry": {"coordinates":[-2.09869,52.789421],"type":"Point"}
 }

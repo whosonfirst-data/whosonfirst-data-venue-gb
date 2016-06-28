@@ -2,13 +2,14 @@
   "id": 135550163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.436189,56.396351,-3.436189,56.396351",
     "geom:latitude":56.396351,
     "geom:longitude":-3.436189,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 New Row",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135550163,
-    "wof:lastmodified":1449022644,
+    "wof:lastmodified":1466279546,
     "wof:name":"Core",
     "wof:parent_id":101872645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.436189,56.396351,-3.436189,56.396351],
+  "bbox": [
+    -3.436189,
+    56.396351,
+    -3.436189,
+    56.396351
+],
   "geometry": {"coordinates":[-3.436189,56.396351],"type":"Point"}
 }

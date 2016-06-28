@@ -2,13 +2,14 @@
   "id": 253695777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.445079,53.500843,-2.445079,53.500843",
     "geom:latitude":53.500843,
     "geom:longitude":-2.445079,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"East Lancashire Road, Astley, Tyldesley",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253695777,
-    "wof:lastmodified":1449063961,
+    "wof:lastmodified":1466274109,
     "wof:name":"Shell Astley Service Station",
     "wof:parent_id":85785389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "petrol"
     ]
 },
-  "bbox": [-2.445079,53.500843,-2.445079,53.500843],
+  "bbox": [
+    -2.445079,
+    53.500843,
+    -2.445079,
+    53.500843
+],
   "geometry": {"coordinates":[-2.445079,53.500843],"type":"Point"}
 }

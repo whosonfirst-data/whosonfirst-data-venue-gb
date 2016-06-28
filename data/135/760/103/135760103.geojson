@@ -2,13 +2,14 @@
   "id": 135760103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.319847,52.62505,1.319847,52.62505",
     "geom:latitude":52.62505,
     "geom:longitude":1.319847,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Thorpe Rd",
     "sg:city":"Norwich",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135760103,
-    "wof:lastmodified":1449023887,
+    "wof:lastmodified":1466286959,
     "wof:name":"Environment Agency",
     "wof:parent_id":85791167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.319847,52.62505,1.319847,52.62505],
+  "bbox": [
+    1.319847,
+    52.62505,
+    1.319847,
+    52.62505
+],
   "geometry": {"coordinates":[1.319847,52.62505],"type":"Point"}
 }

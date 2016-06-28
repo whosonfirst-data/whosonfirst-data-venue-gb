@@ -2,13 +2,14 @@
   "id": 102724913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.125036,51.601078,-1.125036,51.601078",
     "geom:latitude":51.601078,
     "geom:longitude":-1.125036,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"79 High Street",
     "sg:city":"Wallingford",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102724913,
-    "wof:lastmodified":1449070166,
+    "wof:lastmodified":1466257346,
     "wof:name":"Annie's Tea Rooms",
     "wof:parent_id":85683867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.125036,51.601078,-1.125036,51.601078],
+  "bbox": [
+    -1.125036,
+    51.601078,
+    -1.125036,
+    51.601078
+],
   "geometry": {"coordinates":[-1.125036,51.601078],"type":"Point"}
 }

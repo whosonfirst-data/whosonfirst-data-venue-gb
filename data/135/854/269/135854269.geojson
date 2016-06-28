@@ -2,13 +2,14 @@
   "id": 135854269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.470753,50.686768,-3.470753,50.686768",
     "geom:latitude":50.686768,
     "geom:longitude":-3.470753,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Retreat Road",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135854269,
-    "wof:lastmodified":1449023894,
+    "wof:lastmodified":1466287861,
     "wof:name":"Richard Hargreaves",
     "wof:parent_id":85786799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.470753,50.686768,-3.470753,50.686768],
+  "bbox": [
+    -3.470753,
+    50.686768,
+    -3.470753,
+    50.686768
+],
   "geometry": {"coordinates":[-3.470753,50.686768],"type":"Point"}
 }

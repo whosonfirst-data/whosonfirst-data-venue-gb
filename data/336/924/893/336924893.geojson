@@ -2,13 +2,14 @@
   "id": 336924893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.34263,55.942581,-4.34263,55.942581",
     "geom:latitude":55.942581,
     "geom:longitude":-4.34263,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Craigbarnet Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336924893,
-    "wof:lastmodified":1448997244,
+    "wof:lastmodified":1466280819,
     "wof:name":"Fiona Hamill",
     "wof:parent_id":85785547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "public"
     ]
 },
-  "bbox": [-4.34263,55.942581,-4.34263,55.942581],
+  "bbox": [
+    -4.34263,
+    55.942581,
+    -4.34263,
+    55.942581
+],
   "geometry": {"coordinates":[-4.34263,55.942581],"type":"Point"}
 }

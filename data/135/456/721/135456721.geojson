@@ -2,13 +2,14 @@
   "id": 135456721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.517945,50.72702,-3.517945,50.72702",
     "geom:latitude":50.72702,
     "geom:longitude":-3.517945,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Clifton Road",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135456721,
-    "wof:lastmodified":1449021910,
+    "wof:lastmodified":1466269476,
     "wof:name":"A H Jones Investigations",
     "wof:parent_id":85790623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.517945,50.72702,-3.517945,50.72702],
+  "bbox": [
+    -3.517945,
+    50.72702,
+    -3.517945,
+    50.72702
+],
   "geometry": {"coordinates":[-3.517945,50.72702],"type":"Point"}
 }

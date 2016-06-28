@@ -2,13 +2,14 @@
   "id": 136097257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.514997,53.393444,-1.514997,53.393444",
     "geom:latitude":53.393444,
     "geom:longitude":-1.514997,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Walkley Bank Rd",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136097257,
-    "wof:lastmodified":1449075434,
+    "wof:lastmodified":1466255424,
     "wof:name":"Airport Services",
     "wof:parent_id":85791283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.514997,53.393444,-1.514997,53.393444],
+  "bbox": [
+    -1.514997,
+    53.393444,
+    -1.514997,
+    53.393444
+],
   "geometry": {"coordinates":[-1.514997,53.393444],"type":"Point"}
 }

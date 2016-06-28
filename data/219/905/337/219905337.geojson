@@ -2,13 +2,14 @@
   "id": 219905337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.191454,53.507622,-2.191454,53.507622",
     "geom:latitude":53.507622,
     "geom:longitude":-2.191454,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Egbert St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219905337,
-    "wof:lastmodified":1449071765,
+    "wof:lastmodified":1466265513,
     "wof:name":"M Berwick",
     "wof:parent_id":85789211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-2.191454,53.507622,-2.191454,53.507622],
+  "bbox": [
+    -2.191454,
+    53.507622,
+    -2.191454,
+    53.507622
+],
   "geometry": {"coordinates":[-2.191454,53.507622],"type":"Point"}
 }

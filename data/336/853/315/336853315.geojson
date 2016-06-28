@@ -2,13 +2,14 @@
   "id": 336853315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.880899,56.449219,-2.880899,56.449219",
     "geom:latitude":56.449219,
     "geom:longitude":-2.880899,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Castle Street",
     "sg:city":"Tayport",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":336853315,
-    "wof:lastmodified":1448997387,
+    "wof:lastmodified":1466279625,
     "wof:name":"Tayport Post Office",
     "wof:parent_id":85786079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.880899,56.449219,-2.880899,56.449219],
+  "bbox": [
+    -2.880899,
+    56.449219,
+    -2.880899,
+    56.449219
+],
   "geometry": {"coordinates":[-2.880899,56.449219],"type":"Point"}
 }

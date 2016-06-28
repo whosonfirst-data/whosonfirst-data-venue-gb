@@ -2,13 +2,14 @@
   "id": 135948225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.149433,50.397446,-4.149433,50.397446",
     "geom:latitude":50.397446,
     "geom:longitude":-4.149433,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Honicknowle Lane",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135948225,
-    "wof:lastmodified":1449023401,
+    "wof:lastmodified":1466288349,
     "wof:name":"Vicarage House Residential Home",
     "wof:parent_id":85787989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.149433,50.397446,-4.149433,50.397446],
+  "bbox": [
+    -4.149433,
+    50.397446,
+    -4.149433,
+    50.397446
+],
   "geometry": {"coordinates":[-4.149433,50.397446],"type":"Point"}
 }

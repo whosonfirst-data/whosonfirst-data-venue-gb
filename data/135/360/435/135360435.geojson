@@ -2,13 +2,14 @@
   "id": 135360435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.33283,55.800533,-4.33283,55.800533",
     "geom:latitude":55.800533,
     "geom:longitude":-4.33283,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Inverewe Avenue, Thornliebank",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135360435,
-    "wof:lastmodified":1449023334,
+    "wof:lastmodified":1466258390,
     "wof:name":"J & H Express Transport",
     "wof:parent_id":85792511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.33283,55.800533,-4.33283,55.800533],
+  "bbox": [
+    -4.33283,
+    55.800533,
+    -4.33283,
+    55.800533
+],
   "geometry": {"coordinates":[-4.33283,55.800533],"type":"Point"}
 }

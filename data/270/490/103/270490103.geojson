@@ -2,13 +2,14 @@
   "id": 270490103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.322009,51.399307,-1.322009,51.399307",
     "geom:latitude":51.399307,
     "geom:longitude":-1.322009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Cheap Street",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":270490103,
-    "wof:lastmodified":1449010845,
+    "wof:lastmodified":1466275050,
     "wof:name":"Laurel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.322009,51.399307,-1.322009,51.399307],
+  "bbox": [
+    -1.322009,
+    51.399307,
+    -1.322009,
+    51.399307
+],
   "geometry": {"coordinates":[-1.322009,51.399307],"type":"Point"}
 }

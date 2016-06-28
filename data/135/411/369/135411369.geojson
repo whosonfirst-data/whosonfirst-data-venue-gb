@@ -2,13 +2,14 @@
   "id": 135411369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.24137,53.479599,-2.24137,53.479599",
     "geom:latitude":53.479599,
     "geom:longitude":-2.24137,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"P O Box 244",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135411369,
-    "wof:lastmodified":1449021125,
+    "wof:lastmodified":1466263995,
     "wof:name":"Manlets",
     "wof:parent_id":85861843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.24137,53.479599,-2.24137,53.479599],
+  "bbox": [
+    -2.24137,
+    53.479599,
+    -2.24137,
+    53.479599
+],
   "geometry": {"coordinates":[-2.24137,53.479599],"type":"Point"}
 }

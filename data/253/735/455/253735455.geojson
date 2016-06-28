@@ -2,13 +2,14 @@
   "id": 253735455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.189368,55.848423,-4.189368,55.848423",
     "geom:latitude":55.848423,
     "geom:longitude":-4.189368,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"354 Tollcross Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253735455,
-    "wof:lastmodified":1449065737,
+    "wof:lastmodified":1466275472,
     "wof:name":"The Golden Cafe",
     "wof:parent_id":85792593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-4.189368,55.848423,-4.189368,55.848423],
+  "bbox": [
+    -4.189368,
+    55.848423,
+    -4.189368,
+    55.848423
+],
   "geometry": {"coordinates":[-4.189368,55.848423],"type":"Point"}
 }

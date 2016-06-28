@@ -2,13 +2,14 @@
   "id": 236297035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.746438,53.763947,-2.746438,53.763947",
     "geom:latitude":53.763947,
     "geom:longitude":-2.746438,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Whinfield Lane, Ashton-on-ribble",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236297035,
-    "wof:lastmodified":1449003813,
+    "wof:lastmodified":1466262197,
     "wof:name":"Whinfield Mews Rest Home",
     "wof:parent_id":85785379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rest"
     ]
 },
-  "bbox": [-2.746438,53.763947,-2.746438,53.763947],
+  "bbox": [
+    -2.746438,
+    53.763947,
+    -2.746438,
+    53.763947
+],
   "geometry": {"coordinates":[-2.746438,53.763947],"type":"Point"}
 }

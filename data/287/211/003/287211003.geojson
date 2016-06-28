@@ -2,13 +2,14 @@
   "id": 287211003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.166194,50.380566,-4.166194,50.380566",
     "geom:latitude":50.380566,
     "geom:longitude":-4.166194,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Devonport Rd",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":287211003,
-    "wof:lastmodified":1449000874,
+    "wof:lastmodified":1466269505,
     "wof:name":"Revolver",
     "wof:parent_id":85790761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.166194,50.380566,-4.166194,50.380566],
+  "bbox": [
+    -4.166194,
+    50.380566,
+    -4.166194,
+    50.380566
+],
   "geometry": {"coordinates":[-4.166194,50.380566],"type":"Point"}
 }

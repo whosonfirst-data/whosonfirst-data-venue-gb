@@ -2,13 +2,14 @@
   "id": 303179039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.072637,55.852882,-4.072637,55.852882",
     "geom:latitude":55.852882,
     "geom:longitude":-4.072637,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Langmuir Road, Baillieston",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303179039,
-    "wof:lastmodified":1449000318,
+    "wof:lastmodified":1466268104,
     "wof:name":"Bargeddie Post Office",
     "wof:parent_id":85785445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.072637,55.852882,-4.072637,55.852882],
+  "bbox": [
+    -4.072637,
+    55.852882,
+    -4.072637,
+    55.852882
+],
   "geometry": {"coordinates":[-4.072637,55.852882],"type":"Point"}
 }

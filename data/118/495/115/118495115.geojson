@@ -2,13 +2,14 @@
   "id": 118495115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.488973,51.646564,-3.488973,51.646564",
     "geom:latitude":51.646564,
     "geom:longitude":-3.488973,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Church Road, Ton Pentre",
     "sg:city":"Pentre",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":118495115,
-    "wof:lastmodified":1449053751,
+    "wof:lastmodified":1466257260,
     "wof:name":"The Village Plaice",
     "wof:parent_id":101750429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.488973,51.646564,-3.488973,51.646564],
+  "bbox": [
+    -3.488973,
+    51.646564,
+    -3.488973,
+    51.646564
+],
   "geometry": {"coordinates":[-3.488973,51.646564],"type":"Point"}
 }

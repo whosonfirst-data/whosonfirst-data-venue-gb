@@ -2,13 +2,14 @@
   "id": 336885569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.229349,53.031425,-2.229349,53.031425",
     "geom:latitude":53.031425,
     "geom:longitude":-2.229349,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hassam Parade",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336885569,
-    "wof:lastmodified":1448997526,
+    "wof:lastmodified":1466279955,
     "wof:name":"The Wolstanton Golf Club Ltd.",
     "wof:parent_id":85785915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "course"
     ]
 },
-  "bbox": [-2.229349,53.031425,-2.229349,53.031425],
+  "bbox": [
+    -2.229349,
+    53.031425,
+    -2.229349,
+    53.031425
+],
   "geometry": {"coordinates":[-2.229349,53.031425],"type":"Point"}
 }

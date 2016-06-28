@@ -2,13 +2,14 @@
   "id": 319918809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.656789,53.69389,-1.656789,53.69389",
     "geom:latitude":53.69389,
     "geom:longitude":-1.656789,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Heckmondwike Road",
     "sg:city":"Dewsbury",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":319918809,
-    "wof:lastmodified":1449024605,
+    "wof:lastmodified":1466270491,
     "wof:name":"News Gallery",
     "wof:parent_id":85789163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.656789,53.69389,-1.656789,53.69389],
+  "bbox": [
+    -1.656789,
+    53.69389,
+    -1.656789,
+    53.69389
+],
   "geometry": {"coordinates":[-1.656789,53.69389],"type":"Point"}
 }

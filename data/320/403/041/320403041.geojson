@@ -2,13 +2,14 @@
   "id": 320403041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.691939,51.506016,-2.691939,51.506016",
     "geom:latitude":51.506016,
     "geom:longitude":-2.691939,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Andrews Vicarage, St Andrews Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320403041,
-    "wof:lastmodified":1449014451,
+    "wof:lastmodified":1466279439,
     "wof:name":"St Andrews Parish Church Avonmouth",
     "wof:parent_id":85785419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.691939,51.506016,-2.691939,51.506016],
+  "bbox": [
+    -2.691939,
+    51.506016,
+    -2.691939,
+    51.506016
+],
   "geometry": {"coordinates":[-2.691939,51.506016],"type":"Point"}
 }

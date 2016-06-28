@@ -2,13 +2,14 @@
   "id": 102738833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.237516,57.488785,-4.237516,57.488785",
     "geom:latitude":57.488785,
     "geom:longitude":-4.237516,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Thornbush Rd",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102738833,
-    "wof:lastmodified":1449069566,
+    "wof:lastmodified":1466258007,
     "wof:name":"Paterson's Cars",
     "wof:parent_id":101873667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.237516,57.488785,-4.237516,57.488785],
+  "bbox": [
+    -4.237516,
+    57.488785,
+    -4.237516,
+    57.488785
+],
   "geometry": {"coordinates":[-4.237516,57.488785],"type":"Point"}
 }

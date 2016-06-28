@@ -2,13 +2,14 @@
   "id": 303252897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.642096,54.9743,-1.642096,54.9743",
     "geom:latitude":54.9743,
     "geom:longitude":-1.642096,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Brighton Gro, Fenham",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303252897,
-    "wof:lastmodified":1448998441,
+    "wof:lastmodified":1466270436,
     "wof:name":"The Angelou Centre",
     "wof:parent_id":85785351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "centre"
     ]
 },
-  "bbox": [-1.642096,54.9743,-1.642096,54.9743],
+  "bbox": [
+    -1.642096,
+    54.9743,
+    -1.642096,
+    54.9743
+],
   "geometry": {"coordinates":[-1.642096,54.9743],"type":"Point"}
 }

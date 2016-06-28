@@ -2,13 +2,14 @@
   "id": 286675801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.580499,54.980602,-1.580499,54.980602",
     "geom:latitude":54.980602,
     "geom:longitude":-1.580499,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Heaton Grove",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":286675801,
-    "wof:lastmodified":1449016692,
+    "wof:lastmodified":1466275181,
     "wof:name":"Heaton Nursery School",
     "wof:parent_id":85788073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "creche"
     ]
 },
-  "bbox": [-1.580499,54.980602,-1.580499,54.980602],
+  "bbox": [
+    -1.580499,
+    54.980602,
+    -1.580499,
+    54.980602
+],
   "geometry": {"coordinates":[-1.580499,54.980602],"type":"Point"}
 }

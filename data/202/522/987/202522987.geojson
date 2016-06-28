@@ -2,13 +2,14 @@
   "id": 202522987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.11457,52.210861,0.11457,52.210861",
     "geom:latitude":52.210861,
     "geom:longitude":0.11457,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Castle St",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202522987,
-    "wof:lastmodified":1449061335,
+    "wof:lastmodified":1466254493,
     "wof:name":"Castle Street Post Office & Grocery",
     "wof:parent_id":85793131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.11457,52.210861,0.11457,52.210861],
+  "bbox": [
+    0.11457,
+    52.210861,
+    0.11457,
+    52.210861
+],
   "geometry": {"coordinates":[0.11457,52.210861],"type":"Point"}
 }

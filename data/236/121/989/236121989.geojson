@@ -2,13 +2,14 @@
   "id": 236121989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.169257,51.464664,-3.169257,51.464664",
     "geom:latitude":51.464664,
     "geom:longitude":-3.169257,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64-66 James Street, Docks",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236121989,
-    "wof:lastmodified":1449004377,
+    "wof:lastmodified":1466258802,
     "wof:name":"White Hart Hotel",
     "wof:parent_id":85861429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.169257,51.464664,-3.169257,51.464664],
+  "bbox": [
+    -3.169257,
+    51.464664,
+    -3.169257,
+    51.464664
+],
   "geometry": {"coordinates":[-3.169257,51.464664],"type":"Point"}
 }

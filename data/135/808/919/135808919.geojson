@@ -2,13 +2,14 @@
   "id": 135808919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.966633,51.615227,-2.966633,51.615227",
     "geom:latitude":51.615227,
     "geom:longitude":-2.966633,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Roman Reach, Caerleon",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135808919,
-    "wof:lastmodified":1449021129,
+    "wof:lastmodified":1466287480,
     "wof:name":"A P Bath",
     "wof:parent_id":85864263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.966633,51.615227,-2.966633,51.615227],
+  "bbox": [
+    -2.966633,
+    51.615227,
+    -2.966633,
+    51.615227
+],
   "geometry": {"coordinates":[-2.966633,51.615227],"type":"Point"}
 }

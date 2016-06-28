@@ -2,13 +2,14 @@
   "id": 253406203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.188272,55.950111,-3.188272,55.950111",
     "geom:latitude":55.950111,
     "geom:longitude":-3.188272,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Cockburn Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253406203,
-    "wof:lastmodified":1449064411,
+    "wof:lastmodified":1466265702,
     "wof:name":"The Baked Potato Shop",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "take"
     ]
 },
-  "bbox": [-3.188272,55.950111,-3.188272,55.950111],
+  "bbox": [
+    -3.188272,
+    55.950111,
+    -3.188272,
+    55.950111
+],
   "geometry": {"coordinates":[-3.188272,55.950111],"type":"Point"}
 }

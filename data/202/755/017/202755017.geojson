@@ -2,13 +2,14 @@
   "id": 202755017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.238602,51.578823,-3.238602,51.578823",
     "geom:latitude":51.578823,
     "geom:longitude":-3.238602,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"106 St. Cenydd Rd, Trecynydd",
     "sg:city":"Caerphilly",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202755017,
-    "wof:lastmodified":1449060839,
+    "wof:lastmodified":1466258353,
     "wof:name":"Dr R Bashar",
     "wof:parent_id":85864249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-3.238602,51.578823,-3.238602,51.578823],
+  "bbox": [
+    -3.238602,
+    51.578823,
+    -3.238602,
+    51.578823
+],
   "geometry": {"coordinates":[-3.238602,51.578823],"type":"Point"}
 }

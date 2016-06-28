@@ -2,13 +2,14 @@
   "id": 320628189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.688489,53.763645,-2.688489,53.763645",
     "geom:latitude":53.763645,
     "geom:longitude":-2.688489,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St. Marys St North",
     "sg:city":"Preston",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320628189,
-    "wof:lastmodified":1449014260,
+    "wof:lastmodified":1466283047,
     "wof:name":"Halfords Garage Servicing",
     "wof:parent_id":85793249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [-2.688489,53.763645,-2.688489,53.763645],
+  "bbox": [
+    -2.688489,
+    53.763645,
+    -2.688489,
+    53.763645
+],
   "geometry": {"coordinates":[-2.688489,53.763645],"type":"Point"}
 }

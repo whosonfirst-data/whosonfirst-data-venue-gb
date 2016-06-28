@@ -2,13 +2,14 @@
   "id": 135394561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.120208,52.003292,-2.120208,52.003292",
     "geom:latitude":52.003292,
     "geom:longitude":-2.120208,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Oak Drive",
     "sg:city":"Tewkesbury",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135394561,
-    "wof:lastmodified":1449021562,
+    "wof:lastmodified":1466262012,
     "wof:name":"A Gibbard",
     "wof:parent_id":85683931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.120208,52.003292,-2.120208,52.003292],
+  "bbox": [
+    -2.120208,
+    52.003292,
+    -2.120208,
+    52.003292
+],
   "geometry": {"coordinates":[-2.120208,52.003292],"type":"Point"}
 }

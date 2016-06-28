@@ -2,13 +2,14 @@
   "id": 270115733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.26099,55.86657,-4.26099,55.86657",
     "geom:latitude":55.86657,
     "geom:longitude":-4.26099,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Drummond Ho, 1 Hill St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":270115733,
-    "wof:lastmodified":1449008652,
+    "wof:lastmodified":1466263932,
     "wof:name":"Centre Line Design",
     "wof:parent_id":85792605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.26099,55.86657,-4.26099,55.86657],
+  "bbox": [
+    -4.26099,
+    55.86657,
+    -4.26099,
+    55.86657
+],
   "geometry": {"coordinates":[-4.26099,55.86657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303755983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.960092,50.611679,-1.960092,50.611679",
     "geom:latitude":50.611679,
     "geom:longitude":-1.960092,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Victoria Avenue Industrial Estate",
     "sg:city":"Swanage",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303755983,
-    "wof:lastmodified":1448998804,
+    "wof:lastmodified":1466282584,
     "wof:name":"Swanage Coachworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "car"
     ]
 },
-  "bbox": [-1.960092,50.611679,-1.960092,50.611679],
+  "bbox": [
+    -1.960092,
+    50.611679,
+    -1.960092,
+    50.611679
+],
   "geometry": {"coordinates":[-1.960092,50.611679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186054643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.046096,51.577049,0.046096,51.577049",
     "geom:latitude":51.577049,
     "geom:longitude":0.046096,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Redbridge Lane East",
     "sg:city":"Ilford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186054643,
-    "wof:lastmodified":1449051648,
+    "wof:lastmodified":1466252771,
     "wof:name":"E Coomes",
     "wof:parent_id":85789351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookmaker"
     ]
 },
-  "bbox": [0.046096,51.577049,0.046096,51.577049],
+  "bbox": [
+    0.046096,
+    51.577049,
+    0.046096,
+    51.577049
+],
   "geometry": {"coordinates":[0.046096,51.577049],"type":"Point"}
 }

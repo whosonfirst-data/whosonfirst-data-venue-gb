@@ -2,13 +2,14 @@
   "id": 303956645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.315599,51.570446,-3.315599,51.570446",
     "geom:latitude":51.570446,
     "geom:longitude":-3.315599,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Denbigh Close",
     "sg:city":"Pontypridd",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303956645,
-    "wof:lastmodified":1448998532,
+    "wof:lastmodified":1466284948,
     "wof:name":"Pontypridd Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "heating"
     ]
 },
-  "bbox": [-3.315599,51.570446,-3.315599,51.570446],
+  "bbox": [
+    -3.315599,
+    51.570446,
+    -3.315599,
+    51.570446
+],
   "geometry": {"coordinates":[-3.315599,51.570446],"type":"Point"}
 }

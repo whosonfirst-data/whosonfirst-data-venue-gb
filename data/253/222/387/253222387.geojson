@@ -2,13 +2,14 @@
   "id": 253222387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.1152,51.83363,-2.1152,51.83363",
     "geom:latitude":51.83363,
     "geom:longitude":-2.1152,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hill Farm, Birdlip Hill, Witcombe",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253222387,
-    "wof:lastmodified":1449064818,
+    "wof:lastmodified":1466261706,
     "wof:name":"Birdlip Consultants Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "business"
     ]
 },
-  "bbox": [-2.1152,51.83363,-2.1152,51.83363],
+  "bbox": [
+    -2.1152,
+    51.83363,
+    -2.1152,
+    51.83363
+],
   "geometry": {"coordinates":[-2.1152,51.83363],"type":"Point"}
 }

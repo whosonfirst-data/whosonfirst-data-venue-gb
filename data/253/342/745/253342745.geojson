@@ -2,13 +2,14 @@
   "id": 253342745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.001489,52.578259,-2.001489,52.578259",
     "geom:latitude":52.578259,
     "geom:longitude":-2.001489,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Scarborough Road, Pleck",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":253342745,
-    "wof:lastmodified":1449065583,
+    "wof:lastmodified":1466264079,
     "wof:name":"Dects Ltd.",
     "wof:parent_id":85791909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.001489,52.578259,-2.001489,52.578259],
+  "bbox": [
+    -2.001489,
+    52.578259,
+    -2.001489,
+    52.578259
+],
   "geometry": {"coordinates":[-2.001489,52.578259],"type":"Point"}
 }

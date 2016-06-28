@@ -2,13 +2,14 @@
   "id": 186335959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.15447,53.206841,-1.15447,53.206841",
     "geom:latitude":53.206841,
     "geom:longitude":-1.15447,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 & 2 Portman Parade, Wood Street",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186335959,
-    "wof:lastmodified":1449052138,
+    "wof:lastmodified":1466256603,
     "wof:name":"The Pizza Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "take"
     ]
 },
-  "bbox": [-1.15447,53.206841,-1.15447,53.206841],
+  "bbox": [
+    -1.15447,
+    53.206841,
+    -1.15447,
+    53.206841
+],
   "geometry": {"coordinates":[-1.15447,53.206841],"type":"Point"}
 }

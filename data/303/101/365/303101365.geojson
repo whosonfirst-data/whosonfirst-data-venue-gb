@@ -2,13 +2,14 @@
   "id": 303101365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.540173,53.799416,-1.540173,53.799416",
     "geom:latitude":53.799416,
     "geom:longitude":-1.540173,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8a Harrison St (off Vicar La)",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303101365,
-    "wof:lastmodified":1448999407,
+    "wof:lastmodified":1466265702,
     "wof:name":"Mint Club",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "activity"
     ]
 },
-  "bbox": [-1.540173,53.799416,-1.540173,53.799416],
+  "bbox": [
+    -1.540173,
+    53.799416,
+    -1.540173,
+    53.799416
+],
   "geometry": {"coordinates":[-1.540173,53.799416],"type":"Point"}
 }

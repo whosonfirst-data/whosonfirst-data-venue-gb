@@ -2,13 +2,14 @@
   "id": 186320355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.566288,51.237682,-0.566288,51.237682",
     "geom:latitude":51.237682,
     "geom:longitude":-0.566288,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4-8 Epsom Rd",
     "sg:city":"Guildford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186320355,
-    "wof:lastmodified":1449051071,
+    "wof:lastmodified":1466256385,
     "wof:name":"Countrywide Residential Lettings",
     "wof:parent_id":85790795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "agent"
     ]
 },
-  "bbox": [-0.566288,51.237682,-0.566288,51.237682],
+  "bbox": [
+    -0.566288,
+    51.237682,
+    -0.566288,
+    51.237682
+],
   "geometry": {"coordinates":[-0.566288,51.237682],"type":"Point"}
 }

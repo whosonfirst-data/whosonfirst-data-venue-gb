@@ -2,13 +2,14 @@
   "id": 135468749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.6761,53.861179,-1.6761,53.861179",
     "geom:latitude":53.861179,
     "geom:longitude":-1.6761,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Leeds Bradford Airport, Yeadon",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135468749,
-    "wof:lastmodified":1449023164,
+    "wof:lastmodified":1466270964,
     "wof:name":"Alpha Retail Trading",
     "wof:parent_id":85786167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.6761,53.861179,-1.6761,53.861179],
+  "bbox": [
+    -1.6761,
+    53.861179,
+    -1.6761,
+    53.861179
+],
   "geometry": {"coordinates":[-1.6761,53.861179],"type":"Point"}
 }

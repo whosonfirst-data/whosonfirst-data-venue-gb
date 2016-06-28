@@ -2,13 +2,14 @@
   "id": 203000263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.883468,53.570454,-2.883468,53.570454",
     "geom:latitude":53.570454,
     "geom:longitude":-2.883468,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Burscough Street",
     "sg:city":"Ormskirk",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203000263,
-    "wof:lastmodified":1449025242,
+    "wof:lastmodified":1466278123,
     "wof:name":"Norris Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-2.883468,53.570454,-2.883468,53.570454],
+  "bbox": [
+    -2.883468,
+    53.570454,
+    -2.883468,
+    53.570454
+],
   "geometry": {"coordinates":[-2.883468,53.570454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269639099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.169983,51.478306,-3.169983,51.478306",
     "geom:latitude":51.478306,
     "geom:longitude":-3.169983,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6-8 Pellett St",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269639099,
-    "wof:lastmodified":1449038952,
+    "wof:lastmodified":1466264793,
     "wof:name":"Cardiff Print Co Ltd",
     "wof:parent_id":85861411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-3.169983,51.478306,-3.169983,51.478306],
+  "bbox": [
+    -3.169983,
+    51.478306,
+    -3.169983,
+    51.478306
+],
   "geometry": {"coordinates":[-3.169983,51.478306],"type":"Point"}
 }

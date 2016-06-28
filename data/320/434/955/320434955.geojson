@@ -2,13 +2,14 @@
   "id": 320434955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.255701,55.857925,-4.255701,55.857925",
     "geom:latitude":55.857925,
     "geom:longitude":-4.255701,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 36 St Enoch Centre",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320434955,
-    "wof:lastmodified":1449012067,
+    "wof:lastmodified":1466280195,
     "wof:name":"Thomas Auld & Sons Ltd.",
     "wof:parent_id":85861547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-4.255701,55.857925,-4.255701,55.857925],
+  "bbox": [
+    -4.255701,
+    55.857925,
+    -4.255701,
+    55.857925
+],
   "geometry": {"coordinates":[-4.255701,55.857925],"type":"Point"}
 }

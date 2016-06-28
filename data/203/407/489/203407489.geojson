@@ -2,13 +2,14 @@
   "id": 203407489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.146459,53.486179,-2.146459,53.486179",
     "geom:latitude":53.486179,
     "geom:longitude":-2.146459,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Chappell Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":203407489,
-    "wof:lastmodified":1449026001,
+    "wof:lastmodified":1466259695,
     "wof:name":"St Stephen's Presbytery",
     "wof:parent_id":85787085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.146459,53.486179,-2.146459,53.486179],
+  "bbox": [
+    -2.146459,
+    53.486179,
+    -2.146459,
+    53.486179
+],
   "geometry": {"coordinates":[-2.146459,53.486179],"type":"Point"}
 }

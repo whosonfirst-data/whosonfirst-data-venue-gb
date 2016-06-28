@@ -2,13 +2,14 @@
   "id": 135961585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.751385,54.66515,-2.751385,54.66515",
     "geom:latitude":54.66515,
     "geom:longitude":-2.751385,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Waites Yard, Burrowgate",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135961585,
-    "wof:lastmodified":1449023927,
+    "wof:lastmodified":1466288419,
     "wof:name":"Beacon Taxis",
     "wof:parent_id":101873419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.751385,54.66515,-2.751385,54.66515],
+  "bbox": [
+    -2.751385,
+    54.66515,
+    -2.751385,
+    54.66515
+],
   "geometry": {"coordinates":[-2.751385,54.66515],"type":"Point"}
 }

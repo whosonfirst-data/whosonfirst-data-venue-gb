@@ -2,13 +2,14 @@
   "id": 135569411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.534749,50.719933,-3.534749,50.719933",
     "geom:latitude":50.719933,
     "geom:longitude":-3.534749,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5-7 West Street",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":135569411,
-    "wof:lastmodified":1449023878,
+    "wof:lastmodified":1466280608,
     "wof:name":"Wee Willie Winkies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.534749,50.719933,-3.534749,50.719933],
+  "bbox": [
+    -3.534749,
+    50.719933,
+    -3.534749,
+    50.719933
+],
   "geometry": {"coordinates":[-3.534749,50.719933],"type":"Point"}
 }

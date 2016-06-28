@@ -2,13 +2,14 @@
   "id": 102685711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.186512,50.402153,-4.186512,50.402153",
     "geom:latitude":50.402153,
     "geom:longitude":-4.186512,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"642 Wolseley Road, St Budeaux",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102685711,
-    "wof:lastmodified":1449070157,
+    "wof:lastmodified":1466255860,
     "wof:name":"The Trelawney Arms",
     "wof:parent_id":85790593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.186512,50.402153,-4.186512,50.402153],
+  "bbox": [
+    -4.186512,
+    50.402153,
+    -4.186512,
+    50.402153
+],
   "geometry": {"coordinates":[-4.186512,50.402153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236724515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.599281,53.652054,-1.599281,53.652054",
     "geom:latitude":53.652054,
     "geom:longitude":-1.599281,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Thornhill Road, Middlestown",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":236724515,
-    "wof:lastmodified":1449005162,
+    "wof:lastmodified":1466270217,
     "wof:name":"Middlestown Post Office",
     "wof:parent_id":85791001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.599281,53.652054,-1.599281,53.652054],
+  "bbox": [
+    -1.599281,
+    53.652054,
+    -1.599281,
+    53.652054
+],
   "geometry": {"coordinates":[-1.599281,53.652054],"type":"Point"}
 }

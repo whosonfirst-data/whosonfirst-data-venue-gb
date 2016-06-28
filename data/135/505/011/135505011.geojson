@@ -2,13 +2,14 @@
   "id": 135505011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.224354,52.966305,-1.224354,52.966305",
     "geom:latitude":52.966305,
     "geom:longitude":-1.224354,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bracebridge Drive",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135505011,
-    "wof:lastmodified":1449023517,
+    "wof:lastmodified":1466275079,
     "wof:name":"Bilborough Library",
     "wof:parent_id":85785691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.224354,52.966305,-1.224354,52.966305],
+  "bbox": [
+    -1.224354,
+    52.966305,
+    -1.224354,
+    52.966305
+],
   "geometry": {"coordinates":[-1.224354,52.966305],"type":"Point"}
 }

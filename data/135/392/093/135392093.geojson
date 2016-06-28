@@ -2,13 +2,14 @@
   "id": 135392093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.250163,50.857265,0.250163,50.857265",
     "geom:latitude":50.857265,
     "geom:longitude":0.250163,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"146 South Road",
     "sg:city":"Hailsham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135392093,
-    "wof:lastmodified":1449023419,
+    "wof:lastmodified":1466261705,
     "wof:name":"The Kings Head",
     "wof:parent_id":85861235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.250163,50.857265,0.250163,50.857265],
+  "bbox": [
+    0.250163,
+    50.857265,
+    0.250163,
+    50.857265
+],
   "geometry": {"coordinates":[0.250163,50.857265],"type":"Point"}
 }

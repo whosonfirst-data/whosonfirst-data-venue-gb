@@ -2,13 +2,14 @@
   "id": 102671387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.500112,53.708084,-1.500112,53.708084",
     "geom:latitude":53.708084,
     "geom:longitude":-1.500112,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bolus Lane",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102671387,
-    "wof:lastmodified":1449068349,
+    "wof:lastmodified":1466255319,
     "wof:name":"N L Windows",
     "wof:parent_id":85789669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.500112,53.708084,-1.500112,53.708084],
+  "bbox": [
+    -1.500112,
+    53.708084,
+    -1.500112,
+    53.708084
+],
   "geometry": {"coordinates":[-1.500112,53.708084],"type":"Point"}
 }

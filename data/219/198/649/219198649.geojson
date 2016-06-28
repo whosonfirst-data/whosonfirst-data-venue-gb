@@ -2,13 +2,14 @@
   "id": 219198649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.395735,53.200615,-1.395735,53.200615",
     "geom:latitude":53.200615,
     "geom:longitude":-1.395735,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 New Street, North Wingfield",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219198649,
-    "wof:lastmodified":1449071670,
+    "wof:lastmodified":1466253543,
     "wof:name":"Chesterfield Hearing Care",
     "wof:parent_id":85788003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hearing"
     ]
 },
-  "bbox": [-1.395735,53.200615,-1.395735,53.200615],
+  "bbox": [
+    -1.395735,
+    53.200615,
+    -1.395735,
+    53.200615
+],
   "geometry": {"coordinates":[-1.395735,53.200615],"type":"Point"}
 }

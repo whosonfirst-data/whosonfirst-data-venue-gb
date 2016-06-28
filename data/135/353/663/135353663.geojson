@@ -2,13 +2,14 @@
   "id": 135353663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.942721,51.692562,-4.942721,51.692562",
     "geom:latitude":51.692562,
     "geom:longitude":-4.942721,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Meyrick St",
     "sg:city":"Pembroke Dock",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135353663,
-    "wof:lastmodified":1449021882,
+    "wof:lastmodified":1466257641,
     "wof:name":"Sue Davies",
     "wof:parent_id":101875485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.942721,51.692562,-4.942721,51.692562],
+  "bbox": [
+    -4.942721,
+    51.692562,
+    -4.942721,
+    51.692562
+],
   "geometry": {"coordinates":[-4.942721,51.692562],"type":"Point"}
 }

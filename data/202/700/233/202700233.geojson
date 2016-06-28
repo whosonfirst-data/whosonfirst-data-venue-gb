@@ -2,13 +2,14 @@
   "id": 202700233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.414187,54.908836,-1.414187,54.908836",
     "geom:latitude":54.908836,
     "geom:longitude":-1.414187,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 St Lukes Terrace",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202700233,
-    "wof:lastmodified":1449062433,
+    "wof:lastmodified":1466257454,
     "wof:name":"Road Race & Custom",
     "wof:parent_id":85789711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accessory"
     ]
 },
-  "bbox": [-1.414187,54.908836,-1.414187,54.908836],
+  "bbox": [
+    -1.414187,
+    54.908836,
+    -1.414187,
+    54.908836
+],
   "geometry": {"coordinates":[-1.414187,54.908836],"type":"Point"}
 }

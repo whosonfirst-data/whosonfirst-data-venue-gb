@@ -2,13 +2,14 @@
   "id": 118591269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.072251,52.527302,-2.072251,52.527302",
     "geom:latitude":52.527302,
     "geom:longitude":-2.072251,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 High St",
     "sg:city":"Tipton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118591269,
-    "wof:lastmodified":1449053902,
+    "wof:lastmodified":1466257107,
     "wof:name":"The Sandwich Shop",
     "wof:parent_id":85785839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.072251,52.527302,-2.072251,52.527302],
+  "bbox": [
+    -2.072251,
+    52.527302,
+    -2.072251,
+    52.527302
+],
   "geometry": {"coordinates":[-2.072251,52.527302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118623139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.101891,52.625793,-1.101891,52.625793",
     "geom:latitude":52.625793,
     "geom:longitude":-1.101891,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2, 90 Evington Valley Rd",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118623139,
-    "wof:lastmodified":1449054127,
+    "wof:lastmodified":1466259386,
     "wof:name":"FI Leisure",
     "wof:parent_id":85861117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.101891,52.625793,-1.101891,52.625793],
+  "bbox": [
+    -1.101891,
+    52.625793,
+    -1.101891,
+    52.625793
+],
   "geometry": {"coordinates":[-1.101891,52.625793],"type":"Point"}
 }

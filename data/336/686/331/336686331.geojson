@@ -2,13 +2,14 @@
   "id": 336686331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.087284,50.804008,-1.087284,50.804008",
     "geom:latitude":50.804008,
     "geom:longitude":-1.087284,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Victory Business Centre, Somers Road North",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336686331,
-    "wof:lastmodified":1448997764,
+    "wof:lastmodified":1466275371,
     "wof:name":"Delta Print",
     "wof:parent_id":85861983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-1.087284,50.804008,-1.087284,50.804008],
+  "bbox": [
+    -1.087284,
+    50.804008,
+    -1.087284,
+    50.804008
+],
   "geometry": {"coordinates":[-1.087284,50.804008],"type":"Point"}
 }

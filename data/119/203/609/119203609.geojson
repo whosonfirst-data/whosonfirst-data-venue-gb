@@ -2,13 +2,14 @@
   "id": 119203609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.778409,53.702625,-1.778409,53.702625",
     "geom:latitude":53.702625,
     "geom:longitude":-1.778409,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"King St",
     "sg:city":"Brighouse",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119203609,
-    "wof:lastmodified":1449042009,
+    "wof:lastmodified":1466269626,
     "wof:name":"Food Fair",
     "wof:parent_id":85785895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.778409,53.702625,-1.778409,53.702625],
+  "bbox": [
+    -1.778409,
+    53.702625,
+    -1.778409,
+    53.702625
+],
   "geometry": {"coordinates":[-1.778409,53.702625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320473465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.028448,53.136871,-1.028448,53.136871",
     "geom:latitude":53.136871,
     "geom:longitude":-1.028448,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Trust House, 6 Forest Link, Bilsthorpe",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320473465,
-    "wof:lastmodified":1449012037,
+    "wof:lastmodified":1466281037,
     "wof:name":"Trust Surveillance Projects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cctv"
     ]
 },
-  "bbox": [-1.028448,53.136871,-1.028448,53.136871],
+  "bbox": [
+    -1.028448,
+    53.136871,
+    -1.028448,
+    53.136871
+],
   "geometry": {"coordinates":[-1.028448,53.136871],"type":"Point"}
 }

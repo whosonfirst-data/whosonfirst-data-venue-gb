@@ -2,13 +2,14 @@
   "id": 303292779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.24944,55.861568,-4.24944,55.861568",
     "geom:latitude":55.861568,
     "geom:longitude":-4.24944,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"George Ho, 50 George Sq",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303292779,
-    "wof:lastmodified":1448998322,
+    "wof:lastmodified":1466271619,
     "wof:name":"Ernst & Young",
     "wof:parent_id":85792629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-4.24944,55.861568,-4.24944,55.861568],
+  "bbox": [
+    -4.24944,
+    55.861568,
+    -4.24944,
+    55.861568
+],
   "geometry": {"coordinates":[-4.24944,55.861568],"type":"Point"}
 }

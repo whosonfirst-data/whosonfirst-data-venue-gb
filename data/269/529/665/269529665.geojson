@@ -2,13 +2,14 @@
   "id": 269529665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.220868,51.571274,-3.220868,51.571274",
     "geom:latitude":51.571274,
     "geom:longitude":-3.220868,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Rectory, St Martins Road",
     "sg:city":"Caerphilly",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":269529665,
-    "wof:lastmodified":1449037187,
+    "wof:lastmodified":1466261372,
     "wof:name":"PARISH CHURCH OF ST MARTIN CAERPHILLY",
     "wof:parent_id":85864249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.220868,51.571274,-3.220868,51.571274],
+  "bbox": [
+    -3.220868,
+    51.571274,
+    -3.220868,
+    51.571274
+],
   "geometry": {"coordinates":[-3.220868,51.571274],"type":"Point"}
 }

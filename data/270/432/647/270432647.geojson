@@ -2,13 +2,14 @@
   "id": 270432647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.214772,55.898125,-4.214772,55.898125",
     "geom:latitude":55.898125,
     "geom:longitude":-4.214772,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"127-129 Auchinairn Road, Bishopbriggs",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270432647,
-    "wof:lastmodified":1449008622,
+    "wof:lastmodified":1466273364,
     "wof:name":"N Mansouri",
     "wof:parent_id":85793309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-4.214772,55.898125,-4.214772,55.898125],
+  "bbox": [
+    -4.214772,
+    55.898125,
+    -4.214772,
+    55.898125
+],
   "geometry": {"coordinates":[-4.214772,55.898125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119498063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.306186,55.872086,-4.306186,55.872086",
     "geom:latitude":55.872086,
     "geom:longitude":-4.306186,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Gardiner St, Partick",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":119498063,
-    "wof:lastmodified":1449042864,
+    "wof:lastmodified":1466287080,
     "wof:name":"P & R Joinery",
     "wof:parent_id":85789735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.306186,55.872086,-4.306186,55.872086],
+  "bbox": [
+    -4.306186,
+    55.872086,
+    -4.306186,
+    55.872086
+],
   "geometry": {"coordinates":[-4.306186,55.872086],"type":"Point"}
 }

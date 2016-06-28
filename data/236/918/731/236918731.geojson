@@ -2,13 +2,14 @@
   "id": 236918731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.987693,53.406345,-2.987693,53.406345",
     "geom:latitude":53.406345,
     "geom:longitude":-2.987693,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Mathew Street",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236918731,
-    "wof:lastmodified":1449003987,
+    "wof:lastmodified":1466273961,
     "wof:name":"The Cavern Club",
     "wof:parent_id":85793261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-2.987693,53.406345,-2.987693,53.406345],
+  "bbox": [
+    -2.987693,
+    53.406345,
+    -2.987693,
+    53.406345
+],
   "geometry": {"coordinates":[-2.987693,53.406345],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119403119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.709949,56.501419,-2.709949,56.501419",
     "geom:latitude":56.501419,
     "geom:longitude":-2.709949,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"54 High Street",
     "sg:city":"Carnoustie",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119403119,
-    "wof:lastmodified":1449043161,
+    "wof:lastmodified":1466285222,
     "wof:name":"B & D Keiller",
     "wof:parent_id":101873587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.709949,56.501419,-2.709949,56.501419],
+  "bbox": [
+    -2.709949,
+    56.501419,
+    -2.709949,
+    56.501419
+],
   "geometry": {"coordinates":[-2.709949,56.501419],"type":"Point"}
 }

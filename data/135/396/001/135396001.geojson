@@ -2,13 +2,14 @@
   "id": 135396001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.152398,55.971825,-3.152398,55.971825",
     "geom:latitude":55.971825,
     "geom:longitude":-3.152398,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Salamander Street, Leith",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135396001,
-    "wof:lastmodified":1449022984,
+    "wof:lastmodified":1466262192,
     "wof:name":"Gray Line (Scotland) Ltd.",
     "wof:parent_id":85790219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.152398,55.971825,-3.152398,55.971825],
+  "bbox": [
+    -3.152398,
+    55.971825,
+    -3.152398,
+    55.971825
+],
   "geometry": {"coordinates":[-3.152398,55.971825],"type":"Point"}
 }

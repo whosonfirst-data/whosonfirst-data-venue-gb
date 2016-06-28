@@ -2,13 +2,14 @@
   "id": 119494855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.856018,55.234409,-4.856018,55.234409",
     "geom:latitude":55.234409,
     "geom:longitude":-4.856018,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Glendoune Street",
     "sg:city":"Girvan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119494855,
-    "wof:lastmodified":1449043239,
+    "wof:lastmodified":1466286955,
     "wof:name":"E Sandilands",
     "wof:parent_id":101873469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.856018,55.234409,-4.856018,55.234409],
+  "bbox": [
+    -4.856018,
+    55.234409,
+    -4.856018,
+    55.234409
+],
   "geometry": {"coordinates":[-4.856018,55.234409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286552073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.635965,53.488453,-2.635965,53.488453",
     "geom:latitude":53.488453,
     "geom:longitude":-2.635965,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Bolton Rd, Ashton In Makerfield",
     "sg:city":"Wigan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286552073,
-    "wof:lastmodified":1449016408,
+    "wof:lastmodified":1466271179,
     "wof:name":"Filling Station",
     "wof:parent_id":85789571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "take"
     ]
 },
-  "bbox": [-2.635965,53.488453,-2.635965,53.488453],
+  "bbox": [
+    -2.635965,
+    53.488453,
+    -2.635965,
+    53.488453
+],
   "geometry": {"coordinates":[-2.635965,53.488453],"type":"Point"}
 }

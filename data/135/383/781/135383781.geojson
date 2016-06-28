@@ -2,13 +2,14 @@
   "id": 135383781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.907376,53.376564,-2.907376,53.376564",
     "geom:latitude":53.376564,
     "geom:longitude":-2.907376,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43-47 Storrsdale Road",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135383781,
-    "wof:lastmodified":1449022275,
+    "wof:lastmodified":1466260832,
     "wof:name":"Storrsdale",
     "wof:parent_id":85785269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.907376,53.376564,-2.907376,53.376564],
+  "bbox": [
+    -2.907376,
+    53.376564,
+    -2.907376,
+    53.376564
+],
   "geometry": {"coordinates":[-2.907376,53.376564],"type":"Point"}
 }

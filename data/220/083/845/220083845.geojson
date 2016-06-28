@@ -2,13 +2,14 @@
   "id": 220083845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.715076,53.816689,-1.715076,53.816689",
     "geom:latitude":53.816689,
     "geom:longitude":-1.715076,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Wharncliffe Drive",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":220083845,
-    "wof:lastmodified":1449074402,
+    "wof:lastmodified":1466254396,
     "wof:name":"Wharncliffe Drive Post Office",
     "wof:parent_id":85787327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.715076,53.816689,-1.715076,53.816689],
+  "bbox": [
+    -1.715076,
+    53.816689,
+    -1.715076,
+    53.816689
+],
   "geometry": {"coordinates":[-1.715076,53.816689],"type":"Point"}
 }

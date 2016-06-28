@@ -2,13 +2,14 @@
   "id": 135610625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.363055,50.895485,-1.363055,50.895485",
     "geom:latitude":50.895485,
     "geom:longitude":-1.363055,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Portsmouth Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135610625,
-    "wof:lastmodified":1449023938,
+    "wof:lastmodified":1466282944,
     "wof:name":"Shell U K Ltd.",
     "wof:parent_id":85791809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.363055,50.895485,-1.363055,50.895485],
+  "bbox": [
+    -1.363055,
+    50.895485,
+    -1.363055,
+    50.895485
+],
   "geometry": {"coordinates":[-1.363055,50.895485],"type":"Point"}
 }

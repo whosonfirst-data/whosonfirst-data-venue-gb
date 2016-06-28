@@ -2,13 +2,14 @@
   "id": 135271847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.546129,54.483631,-1.546129,54.483631",
     "geom:latitude":54.483631,
     "geom:longitude":-1.546129,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Rockcliffe Court, Hurworth Pla",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135271847,
-    "wof:lastmodified":1449022593,
+    "wof:lastmodified":1466263351,
     "wof:name":"The Rockcliffe Court",
     "wof:parent_id":85684163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.546129,54.483631,-1.546129,54.483631],
+  "bbox": [
+    -1.546129,
+    54.483631,
+    -1.546129,
+    54.483631
+],
   "geometry": {"coordinates":[-1.546129,54.483631],"type":"Point"}
 }

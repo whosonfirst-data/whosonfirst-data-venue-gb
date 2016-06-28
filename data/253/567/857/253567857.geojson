@@ -2,13 +2,14 @@
   "id": 253567857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.448405,53.408237,-1.448405,53.408237",
     "geom:latitude":53.408237,
     "geom:longitude":-1.448405,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Owler La",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253567857,
-    "wof:lastmodified":1449065829,
+    "wof:lastmodified":1466270045,
     "wof:name":"Abbey Vending Services",
     "wof:parent_id":85787797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sale"
     ]
 },
-  "bbox": [-1.448405,53.408237,-1.448405,53.408237],
+  "bbox": [
+    -1.448405,
+    53.408237,
+    -1.448405,
+    53.408237
+],
   "geometry": {"coordinates":[-1.448405,53.408237],"type":"Point"}
 }

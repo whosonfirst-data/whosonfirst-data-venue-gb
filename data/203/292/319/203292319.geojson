@@ -2,13 +2,14 @@
   "id": 203292319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.134264,53.432823,-2.134264,53.432823",
     "geom:latitude":53.432823,
     "geom:longitude":-2.134264,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lapwing Lane",
     "sg:city":"Stockport",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":203292319,
-    "wof:lastmodified":1449025092,
+    "wof:lastmodified":1466257712,
     "wof:name":"Cawood House",
     "wof:parent_id":85790023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-2.134264,53.432823,-2.134264,53.432823],
+  "bbox": [
+    -2.134264,
+    53.432823,
+    -2.134264,
+    53.432823
+],
   "geometry": {"coordinates":[-2.134264,53.432823],"type":"Point"}
 }

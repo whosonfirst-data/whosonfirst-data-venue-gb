@@ -2,13 +2,14 @@
   "id": 286669677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.437146,54.988949,-1.437146,54.988949",
     "geom:latitude":54.988949,
     "geom:longitude":-1.437146,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Frederick Street",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286669677,
-    "wof:lastmodified":1449015510,
+    "wof:lastmodified":1466274986,
     "wof:name":"John Forster",
     "wof:parent_id":85792737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.437146,54.988949,-1.437146,54.988949],
+  "bbox": [
+    -1.437146,
+    54.988949,
+    -1.437146,
+    54.988949
+],
   "geometry": {"coordinates":[-1.437146,54.988949],"type":"Point"}
 }

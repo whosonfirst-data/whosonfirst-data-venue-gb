@@ -2,13 +2,14 @@
   "id": 320074345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.80429,52.394588,-1.80429,52.394588",
     "geom:latitude":52.394588,
     "geom:longitude":-1.80429,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 12/16 Radway Industrial Estate, Ate Radway Road, Shirley",
     "sg:city":"Solihull",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320074345,
-    "wof:lastmodified":1449013279,
+    "wof:lastmodified":1466270381,
     "wof:name":"Winch Distribution",
     "wof:parent_id":85790319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "shower-baths"
     ]
 },
-  "bbox": [-1.80429,52.394588,-1.80429,52.394588],
+  "bbox": [
+    -1.80429,
+    52.394588,
+    -1.80429,
+    52.394588
+],
   "geometry": {"coordinates":[-1.80429,52.394588],"type":"Point"}
 }

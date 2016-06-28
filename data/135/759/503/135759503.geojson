@@ -2,13 +2,14 @@
   "id": 135759503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.748311,50.854126,-3.748311,50.854126",
     "geom:latitude":50.854126,
     "geom:longitude":-3.748311,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Surgery, Chulmleigh Road, Morchard Bishop",
     "sg:city":"Crediton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135759503,
-    "wof:lastmodified":1449024036,
+    "wof:lastmodified":1466286811,
     "wof:name":"Dr H M Friend",
     "wof:parent_id":85683773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.748311,50.854126,-3.748311,50.854126],
+  "bbox": [
+    -3.748311,
+    50.854126,
+    -3.748311,
+    50.854126
+],
   "geometry": {"coordinates":[-3.748311,50.854126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269850147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.489088,51.865383,-2.489088,51.865383",
     "geom:latitude":51.865383,
     "geom:longitude":-2.489088,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5 Stenders Business Park, The Stenders",
     "sg:city":"Mitcheldean",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269850147,
-    "wof:lastmodified":1449037537,
+    "wof:lastmodified":1466271147,
     "wof:name":"Wessex Craft Brewers Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bottle"
     ]
 },
-  "bbox": [-2.489088,51.865383,-2.489088,51.865383],
+  "bbox": [
+    -2.489088,
+    51.865383,
+    -2.489088,
+    51.865383
+],
   "geometry": {"coordinates":[-2.489088,51.865383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203361919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.746699,52.274445,-0.746699,52.274445",
     "geom:latitude":52.274445,
     "geom:longitude":-0.746699,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Control Tower, Wellingborough Rd",
     "sg:city":"Northampton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":203361919,
-    "wof:lastmodified":1449026348,
+    "wof:lastmodified":1466258906,
     "wof:name":"Northampton Airport-Sywell",
     "wof:parent_id":85787725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "airport"
     ]
 },
-  "bbox": [-0.746699,52.274445,-0.746699,52.274445],
+  "bbox": [
+    -0.746699,
+    52.274445,
+    -0.746699,
+    52.274445
+],
   "geometry": {"coordinates":[-0.746699,52.274445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135702733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.26152,50.916382,-1.26152,50.916382",
     "geom:latitude":50.916382,
     "geom:longitude":-1.26152,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hgv Mot Testing Station, Bottings Indust Est",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135702733,
-    "wof:lastmodified":1449022521,
+    "wof:lastmodified":1466286011,
     "wof:name":"Vehicle Inspectorate",
     "wof:parent_id":85684375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.26152,50.916382,-1.26152,50.916382],
+  "bbox": [
+    -1.26152,
+    50.916382,
+    -1.26152,
+    50.916382
+],
   "geometry": {"coordinates":[-1.26152,50.916382],"type":"Point"}
 }

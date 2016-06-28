@@ -2,13 +2,14 @@
   "id": 236832493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.222948,51.734135,-1.222948,51.734135",
     "geom:latitude":51.734135,
     "geom:longitude":-1.222948,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Outram Rd",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236832493,
-    "wof:lastmodified":1449001687,
+    "wof:lastmodified":1466272312,
     "wof:name":"Temple Book Binders",
     "wof:parent_id":85786815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookbinder"
     ]
 },
-  "bbox": [-1.222948,51.734135,-1.222948,51.734135],
+  "bbox": [
+    -1.222948,
+    51.734135,
+    -1.222948,
+    51.734135
+],
   "geometry": {"coordinates":[-1.222948,51.734135],"type":"Point"}
 }

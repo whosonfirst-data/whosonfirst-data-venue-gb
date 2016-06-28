@@ -2,13 +2,14 @@
   "id": 270012215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.215752,53.012321,-2.215752,53.012321",
     "geom:latitude":53.012321,
     "geom:longitude":-2.215752,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"61 George St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270012215,
-    "wof:lastmodified":1449010850,
+    "wof:lastmodified":1466260838,
     "wof:name":"Talkpoint",
     "wof:parent_id":85789031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-2.215752,53.012321,-2.215752,53.012321],
+  "bbox": [
+    -2.215752,
+    53.012321,
+    -2.215752,
+    53.012321
+],
   "geometry": {"coordinates":[-2.215752,53.012321],"type":"Point"}
 }

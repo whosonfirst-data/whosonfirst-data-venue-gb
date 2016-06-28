@@ -2,13 +2,14 @@
   "id": 203346195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.989421,50.725296,-1.989421,50.725296",
     "geom:latitude":50.725296,
     "geom:longitude":-1.989421,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"87-89 Sterte Avenue West",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":203346195,
-    "wof:lastmodified":1449024933,
+    "wof:lastmodified":1466258588,
     "wof:name":"Alberice Meters Ltd",
     "wof:parent_id":85792767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "metering"
     ]
 },
-  "bbox": [-1.989421,50.725296,-1.989421,50.725296],
+  "bbox": [
+    -1.989421,
+    50.725296,
+    -1.989421,
+    50.725296
+],
   "geometry": {"coordinates":[-1.989421,50.725296],"type":"Point"}
 }

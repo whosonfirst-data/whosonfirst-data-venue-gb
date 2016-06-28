@@ -2,13 +2,14 @@
   "id": 303467113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.370064,54.758228,-1.370064,54.758228",
     "geom:latitude":54.758228,
     "geom:longitude":-1.370064,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Whitworth Road, South West Industrial Estate",
     "sg:city":"Peterlee",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303467113,
-    "wof:lastmodified":1449000043,
+    "wof:lastmodified":1466276959,
     "wof:name":"First Choice Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "cab"
     ]
 },
-  "bbox": [-1.370064,54.758228,-1.370064,54.758228],
+  "bbox": [
+    -1.370064,
+    54.758228,
+    -1.370064,
+    54.758228
+],
   "geometry": {"coordinates":[-1.370064,54.758228],"type":"Point"}
 }

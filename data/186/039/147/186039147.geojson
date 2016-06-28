@@ -2,13 +2,14 @@
   "id": 186039147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.296237,50.760105,-1.296237,50.760105",
     "geom:latitude":50.760105,
     "geom:longitude":-1.296237,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Birmingham Rd",
     "sg:city":"Cowes",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186039147,
-    "wof:lastmodified":1449052681,
+    "wof:lastmodified":1466277785,
     "wof:name":"B J Field",
     "wof:parent_id":85791461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "party"
     ]
 },
-  "bbox": [-1.296237,50.760105,-1.296237,50.760105],
+  "bbox": [
+    -1.296237,
+    50.760105,
+    -1.296237,
+    50.760105
+],
   "geometry": {"coordinates":[-1.296237,50.760105],"type":"Point"}
 }

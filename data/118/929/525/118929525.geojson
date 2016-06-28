@@ -2,13 +2,14 @@
   "id": 118929525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.73385,50.808544,-2.73385,50.808544",
     "geom:latitude":50.808544,
     "geom:longitude":-2.73385,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Square",
     "sg:city":"Beaminster",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118929525,
-    "wof:lastmodified":1449053683,
+    "wof:lastmodified":1466280964,
     "wof:name":"Broadwindsor Stores",
     "wof:parent_id":101852363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.73385,50.808544,-2.73385,50.808544],
+  "bbox": [
+    -2.73385,
+    50.808544,
+    -2.73385,
+    50.808544
+],
   "geometry": {"coordinates":[-2.73385,50.808544],"type":"Point"}
 }

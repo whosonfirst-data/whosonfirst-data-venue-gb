@@ -2,13 +2,14 @@
   "id": 118540961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.454473,50.951748,-1.454473,50.951748",
     "geom:latitude":50.951748,
     "geom:longitude":-1.454473,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Horns Drove, Rownhams",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118540961,
-    "wof:lastmodified":1449053703,
+    "wof:lastmodified":1466253225,
     "wof:name":"Mallon Transport",
     "wof:parent_id":85790101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.454473,50.951748,-1.454473,50.951748],
+  "bbox": [
+    -1.454473,
+    50.951748,
+    -1.454473,
+    50.951748
+],
   "geometry": {"coordinates":[-1.454473,50.951748],"type":"Point"}
 }

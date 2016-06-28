@@ -2,13 +2,14 @@
   "id": 303503801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.757961,50.732086,-2.757961,50.732086",
     "geom:latitude":50.732086,
     "geom:longitude":-2.757961,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35a South Street",
     "sg:city":"Bridport",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303503801,
-    "wof:lastmodified":1449000574,
+    "wof:lastmodified":1466278071,
     "wof:name":"Bazaar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "import"
     ]
 },
-  "bbox": [-2.757961,50.732086,-2.757961,50.732086],
+  "bbox": [
+    -2.757961,
+    50.732086,
+    -2.757961,
+    50.732086
+],
   "geometry": {"coordinates":[-2.757961,50.732086],"type":"Point"}
 }

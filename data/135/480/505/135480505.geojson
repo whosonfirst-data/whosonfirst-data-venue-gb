@@ -2,13 +2,14 @@
   "id": 135480505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.050909,53.814819,-3.050909,53.814819",
     "geom:latitude":53.814819,
     "geom:longitude":-3.050909,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"68-70 Coronation Street",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135480505,
-    "wof:lastmodified":1449021983,
+    "wof:lastmodified":1466272282,
     "wof:name":"The Cleveland Chippy",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.050909,53.814819,-3.050909,53.814819],
+  "bbox": [
+    -3.050909,
+    53.814819,
+    -3.050909,
+    53.814819
+],
   "geometry": {"coordinates":[-3.050909,53.814819],"type":"Point"}
 }

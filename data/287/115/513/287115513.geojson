@@ -2,13 +2,14 @@
   "id": 287115513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.829032,53.207172,-2.829032,53.207172",
     "geom:latitude":53.207172,
     "geom:longitude":-2.829032,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Summerfield Road, Guilden Sutton",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":287115513,
-    "wof:lastmodified":1449000654,
+    "wof:lastmodified":1466266523,
     "wof:name":"Guilden Sutton Post Office",
     "wof:parent_id":85786639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.829032,53.207172,-2.829032,53.207172],
+  "bbox": [
+    -2.829032,
+    53.207172,
+    -2.829032,
+    53.207172
+],
   "geometry": {"coordinates":[-2.829032,53.207172],"type":"Point"}
 }

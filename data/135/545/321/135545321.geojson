@@ -2,13 +2,14 @@
   "id": 135545321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.884992,52.559227,-1.884992,52.559227",
     "geom:latitude":52.559227,
     "geom:longitude":-1.884992,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Anerley Gro",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135545321,
-    "wof:lastmodified":1449021714,
+    "wof:lastmodified":1466279315,
     "wof:name":"Peter S Worrall",
     "wof:parent_id":101750467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.884992,52.559227,-1.884992,52.559227],
+  "bbox": [
+    -1.884992,
+    52.559227,
+    -1.884992,
+    52.559227
+],
   "geometry": {"coordinates":[-1.884992,52.559227],"type":"Point"}
 }

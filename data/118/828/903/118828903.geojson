@@ -2,13 +2,14 @@
   "id": 118828903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.178667,55.937832,-3.178667,55.937832",
     "geom:latitude":55.937832,
     "geom:longitude":-3.178667,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Newington Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118828903,
-    "wof:lastmodified":1449053865,
+    "wof:lastmodified":1466274918,
     "wof:name":"Lothian Supermarket",
     "wof:parent_id":85789383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.178667,55.937832,-3.178667,55.937832],
+  "bbox": [
+    -3.178667,
+    55.937832,
+    -3.178667,
+    55.937832
+],
   "geometry": {"coordinates":[-3.178667,55.937832],"type":"Point"}
 }

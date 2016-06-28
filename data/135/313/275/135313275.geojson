@@ -2,13 +2,14 @@
   "id": 135313275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.57283,55.016869,-1.57283,55.016869",
     "geom:latitude":55.016869,
     "geom:longitude":-1.57283,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Goathland Avenue, Benton",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135313275,
-    "wof:lastmodified":1449021063,
+    "wof:lastmodified":1466252853,
     "wof:name":"John Gallagher",
     "wof:parent_id":85791517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.57283,55.016869,-1.57283,55.016869],
+  "bbox": [
+    -1.57283,
+    55.016869,
+    -1.57283,
+    55.016869
+],
   "geometry": {"coordinates":[-1.57283,55.016869],"type":"Point"}
 }

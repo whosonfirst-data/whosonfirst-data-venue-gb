@@ -2,13 +2,14 @@
   "id": 303498255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.570608,51.504192,-2.570608,51.504192",
     "geom:latitude":51.504192,
     "geom:longitude":-2.570608,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Fourth Avenue",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303498255,
-    "wof:lastmodified":1448999972,
+    "wof:lastmodified":1466277897,
     "wof:name":"The Balloon Man",
     "wof:parent_id":85789507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainer"
     ]
 },
-  "bbox": [-2.570608,51.504192,-2.570608,51.504192],
+  "bbox": [
+    -2.570608,
+    51.504192,
+    -2.570608,
+    51.504192
+],
   "geometry": {"coordinates":[-2.570608,51.504192],"type":"Point"}
 }

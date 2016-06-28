@@ -2,13 +2,14 @@
   "id": 303503109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.520419,57.663948,-2.520419,57.663948",
     "geom:latitude":57.663948,
     "geom:longitude":-2.520419,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35a Bridge Street",
     "sg:city":"Banff",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":303503109,
-    "wof:lastmodified":1449000573,
+    "wof:lastmodified":1466278049,
     "wof:name":"Carlogie House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-2.520419,57.663948,-2.520419,57.663948],
+  "bbox": [
+    -2.520419,
+    57.663948,
+    -2.520419,
+    57.663948
+],
   "geometry": {"coordinates":[-2.520419,57.663948],"type":"Point"}
 }

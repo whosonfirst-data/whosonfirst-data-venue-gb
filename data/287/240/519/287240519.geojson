@@ -2,13 +2,14 @@
   "id": 287240519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.903639,56.481136,-2.903639,56.481136",
     "geom:latitude":56.481136,
     "geom:longitude":-2.903639,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Balmoral Av",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287240519,
-    "wof:lastmodified":1449000747,
+    "wof:lastmodified":1466270473,
     "wof:name":"Douglas Neighbourhood Centre",
     "wof:parent_id":85791489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-2.903639,56.481136,-2.903639,56.481136],
+  "bbox": [
+    -2.903639,
+    56.481136,
+    -2.903639,
+    56.481136
+],
   "geometry": {"coordinates":[-2.903639,56.481136],"type":"Point"}
 }

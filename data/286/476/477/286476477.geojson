@@ -2,13 +2,14 @@
   "id": 286476477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.51067,51.476578,-2.51067,51.476578",
     "geom:latitude":51.476578,
     "geom:longitude":-2.51067,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Portland Street, Staple Hill",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286476477,
-    "wof:lastmodified":1449016363,
+    "wof:lastmodified":1466268823,
     "wof:name":"Anytime Taxis",
     "wof:parent_id":85790707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [-2.51067,51.476578,-2.51067,51.476578],
+  "bbox": [
+    -2.51067,
+    51.476578,
+    -2.51067,
+    51.476578
+],
   "geometry": {"coordinates":[-2.51067,51.476578],"type":"Point"}
 }

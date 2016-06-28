@@ -2,13 +2,14 @@
   "id": 253567281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.99173,53.742496,-2.99173,53.742496",
     "geom:latitude":53.742496,
     "geom:longitude":-2.99173,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Woodlands Road, Ansdell",
     "sg:city":"Lytham St Annes",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":253567281,
-    "wof:lastmodified":1449065830,
+    "wof:lastmodified":1466270025,
     "wof:name":"R Seedle Ltd.",
     "wof:parent_id":85790579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "sale"
     ]
 },
-  "bbox": [-2.99173,53.742496,-2.99173,53.742496],
+  "bbox": [
+    -2.99173,
+    53.742496,
+    -2.99173,
+    53.742496
+],
   "geometry": {"coordinates":[-2.99173,53.742496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135389167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.090408,51.273533,-1.090408,51.273533",
     "geom:latitude":51.273533,
     "geom:longitude":-1.090408,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Thomas Close, Darlington Road",
     "sg:city":"Basingstoke",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135389167,
-    "wof:lastmodified":1449023412,
+    "wof:lastmodified":1466261372,
     "wof:name":"St Thomas Nursing Home",
     "wof:parent_id":101750351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.090408,51.273533,-1.090408,51.273533],
+  "bbox": [
+    -1.090408,
+    51.273533,
+    -1.090408,
+    51.273533
+],
   "geometry": {"coordinates":[-1.090408,51.273533],"type":"Point"}
 }

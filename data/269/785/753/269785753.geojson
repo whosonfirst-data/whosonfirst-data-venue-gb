@@ -2,13 +2,14 @@
   "id": 269785753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.221323,55.94944,-3.221323,55.94944",
     "geom:latitude":55.94944,
     "geom:longitude":-3.221323,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Douglas Crescent",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":269785753,
-    "wof:lastmodified":1449038432,
+    "wof:lastmodified":1466269236,
     "wof:name":"Magnus Properties Ltd.",
     "wof:parent_id":85792715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accomodation"
     ]
 },
-  "bbox": [-3.221323,55.94944,-3.221323,55.94944],
+  "bbox": [
+    -3.221323,
+    55.94944,
+    -3.221323,
+    55.94944
+],
   "geometry": {"coordinates":[-3.221323,55.94944],"type":"Point"}
 }

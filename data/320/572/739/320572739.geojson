@@ -2,13 +2,14 @@
   "id": 320572739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.647279,53.547356,-2.647279,53.547356",
     "geom:latitude":53.547356,
     "geom:longitude":-2.647279,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 10 Miry Lane Indust Estate",
     "sg:city":"Wigan",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320572739,
-    "wof:lastmodified":1449013540,
+    "wof:lastmodified":1466282388,
     "wof:name":"Acorn Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cab"
     ]
 },
-  "bbox": [-2.647279,53.547356,-2.647279,53.547356],
+  "bbox": [
+    -2.647279,
+    53.547356,
+    -2.647279,
+    53.547356
+],
   "geometry": {"coordinates":[-2.647279,53.547356],"type":"Point"}
 }

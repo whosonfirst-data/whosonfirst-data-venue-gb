@@ -2,13 +2,14 @@
   "id": 186128441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.74343,54.995419,-1.74343,54.995419",
     "geom:latitude":54.995419,
     "geom:longitude":-1.74343,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dixons Industrial Estate, Hexham Rdthrockley, Newcastle",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186128441,
-    "wof:lastmodified":1449051408,
+    "wof:lastmodified":1466253689,
     "wof:name":"V I C S",
     "wof:parent_id":85861861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.74343,54.995419,-1.74343,54.995419],
+  "bbox": [
+    -1.74343,
+    54.995419,
+    -1.74343,
+    54.995419
+],
   "geometry": {"coordinates":[-1.74343,54.995419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336696941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.285127,52.98143,-1.285127,52.98143",
     "geom:latitude":52.98143,
     "geom:longitude":-1.285127,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Awsworth Lane, Cossall",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":336696941,
-    "wof:lastmodified":1448997011,
+    "wof:lastmodified":1466275669,
     "wof:name":"The Haven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "guest"
     ]
 },
-  "bbox": [-1.285127,52.98143,-1.285127,52.98143],
+  "bbox": [
+    -1.285127,
+    52.98143,
+    -1.285127,
+    52.98143
+],
   "geometry": {"coordinates":[-1.285127,52.98143],"type":"Point"}
 }

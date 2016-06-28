@@ -2,13 +2,14 @@
   "id": 135274021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.715742,55.654949,-4.715742,55.654949",
     "geom:latitude":55.654949,
     "geom:longitude":-4.715742,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Machrie Place",
     "sg:city":"Kilwinning",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135274021,
-    "wof:lastmodified":1449021353,
+    "wof:lastmodified":1466267325,
     "wof:name":"Ian W Paterson",
     "wof:parent_id":101872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.715742,55.654949,-4.715742,55.654949],
+  "bbox": [
+    -4.715742,
+    55.654949,
+    -4.715742,
+    55.654949
+],
   "geometry": {"coordinates":[-4.715742,55.654949],"type":"Point"}
 }

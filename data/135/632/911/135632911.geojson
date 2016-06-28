@@ -2,13 +2,14 @@
   "id": 135632911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.208724,53.13924,-1.208724,53.13924",
     "geom:latitude":53.13924,
     "geom:longitude":-1.208724,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Moor Street",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":135632911,
-    "wof:lastmodified":1449022938,
+    "wof:lastmodified":1466284012,
     "wof:name":"Himanet",
     "wof:parent_id":85787491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.208724,53.13924,-1.208724,53.13924],
+  "bbox": [
+    -1.208724,
+    53.13924,
+    -1.208724,
+    53.13924
+],
   "geometry": {"coordinates":[-1.208724,53.13924],"type":"Point"}
 }

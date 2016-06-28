@@ -2,13 +2,14 @@
   "id": 135562567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.910363,52.474331,-1.910363,52.474331",
     "geom:latitude":52.474331,
     "geom:longitude":-1.910363,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Holliday Street",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":135562567,
-    "wof:lastmodified":1449022611,
+    "wof:lastmodified":1466280051,
     "wof:name":"A & S Service Group",
     "wof:parent_id":85861281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.910363,52.474331,-1.910363,52.474331],
+  "bbox": [
+    -1.910363,
+    52.474331,
+    -1.910363,
+    52.474331
+],
   "geometry": {"coordinates":[-1.910363,52.474331],"type":"Point"}
 }

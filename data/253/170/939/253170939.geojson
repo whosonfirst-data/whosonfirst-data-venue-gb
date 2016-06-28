@@ -2,13 +2,14 @@
   "id": 253170939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.446094,50.977665,-1.446094,50.977665",
     "geom:latitude":50.977665,
     "geom:longitude":-1.446094,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Upper Crescent Road, North Baddesley",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253170939,
-    "wof:lastmodified":1449063082,
+    "wof:lastmodified":1466260719,
     "wof:name":"Scorpio",
     "wof:parent_id":85790101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.446094,50.977665,-1.446094,50.977665],
+  "bbox": [
+    -1.446094,
+    50.977665,
+    -1.446094,
+    50.977665
+],
   "geometry": {"coordinates":[-1.446094,50.977665],"type":"Point"}
 }

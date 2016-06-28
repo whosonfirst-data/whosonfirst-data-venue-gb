@@ -2,13 +2,14 @@
   "id": 303271505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.260471,50.85331,-1.260471,50.85331",
     "geom:latitude":50.85331,
     "geom:longitude":-1.260471,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Oaklands Gardens, Titchfield",
     "sg:city":"Fareham",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303271505,
-    "wof:lastmodified":1448999404,
+    "wof:lastmodified":1466270985,
     "wof:name":"Oaklands Upholstery",
     "wof:parent_id":85861211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-1.260471,50.85331,-1.260471,50.85331],
+  "bbox": [
+    -1.260471,
+    50.85331,
+    -1.260471,
+    50.85331
+],
   "geometry": {"coordinates":[-1.260471,50.85331],"type":"Point"}
 }

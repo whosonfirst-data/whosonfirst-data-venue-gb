@@ -2,13 +2,14 @@
   "id": 286498817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.891665,52.443661,-1.891665,52.443661",
     "geom:latitude":52.443661,
     "geom:longitude":-1.891665,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Alcester Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":286498817,
-    "wof:lastmodified":1449017418,
+    "wof:lastmodified":1466269535,
     "wof:name":"Barkat House",
     "wof:parent_id":85789191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-1.891665,52.443661,-1.891665,52.443661],
+  "bbox": [
+    -1.891665,
+    52.443661,
+    -1.891665,
+    52.443661
+],
   "geometry": {"coordinates":[-1.891665,52.443661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287160871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.353623,50.968948,-1.353623,50.968948",
     "geom:latitude":50.968948,
     "geom:longitude":-1.353623,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 High St",
     "sg:city":"Eastleigh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287160871,
-    "wof:lastmodified":1449001426,
+    "wof:lastmodified":1466267980,
     "wof:name":"Quicksilver",
     "wof:parent_id":85792829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "arcade"
     ]
 },
-  "bbox": [-1.353623,50.968948,-1.353623,50.968948],
+  "bbox": [
+    -1.353623,
+    50.968948,
+    -1.353623,
+    50.968948
+],
   "geometry": {"coordinates":[-1.353623,50.968948],"type":"Point"}
 }

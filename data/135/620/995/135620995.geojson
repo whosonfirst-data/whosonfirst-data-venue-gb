@@ -2,13 +2,14 @@
   "id": 135620995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.515242,50.750278,-2.515242,50.750278",
     "geom:latitude":50.750278,
     "geom:longitude":-2.515242,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Dorchester Road, Grimstone",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135620995,
-    "wof:lastmodified":1449023747,
+    "wof:lastmodified":1466283624,
     "wof:name":"R McDiarmid",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.515242,50.750278,-2.515242,50.750278],
+  "bbox": [
+    -2.515242,
+    50.750278,
+    -2.515242,
+    50.750278
+],
   "geometry": {"coordinates":[-2.515242,50.750278],"type":"Point"}
 }

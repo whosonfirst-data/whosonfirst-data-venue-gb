@@ -2,13 +2,14 @@
   "id": 135600205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.057948,51.08453,-4.057948,51.08453",
     "geom:latitude":51.08453,
     "geom:longitude":-4.057948,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Margrove Terrace",
     "sg:city":"Barnstaple",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135600205,
-    "wof:lastmodified":1449021280,
+    "wof:lastmodified":1466282429,
     "wof:name":"M H Gough",
     "wof:parent_id":101852617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.057948,51.08453,-4.057948,51.08453],
+  "bbox": [
+    -4.057948,
+    51.08453,
+    -4.057948,
+    51.08453
+],
   "geometry": {"coordinates":[-4.057948,51.08453],"type":"Point"}
 }

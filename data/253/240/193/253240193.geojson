@@ -2,13 +2,14 @@
   "id": 253240193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.200614,55.818661,-4.200614,55.818661",
     "geom:latitude":55.818661,
     "geom:longitude":-4.200614,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Springfield Park Road, Rutherglen",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253240193,
-    "wof:lastmodified":1449063116,
+    "wof:lastmodified":1466262074,
     "wof:name":"Willfloor",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [-4.200614,55.818661,-4.200614,55.818661],
+  "bbox": [
+    -4.200614,
+    55.818661,
+    -4.200614,
+    55.818661
+],
   "geometry": {"coordinates":[-4.200614,55.818661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320264257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.134379,51.51511,-0.134379,51.51511",
     "geom:latitude":51.51511,
     "geom:longitude":-0.134379,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10-12 Great Chapel Street",
     "sg:city":"London",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320264257,
-    "wof:lastmodified":1449013691,
+    "wof:lastmodified":1466275972,
     "wof:name":"German Broadcasting (Radio)",
     "wof:parent_id":85792067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [-0.134379,51.51511,-0.134379,51.51511],
+  "bbox": [
+    -0.134379,
+    51.51511,
+    -0.134379,
+    51.51511
+],
   "geometry": {"coordinates":[-0.134379,51.51511],"type":"Point"}
 }

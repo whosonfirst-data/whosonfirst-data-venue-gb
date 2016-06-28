@@ -2,13 +2,14 @@
   "id": 102753331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.231754,53.014076,-2.231754,53.014076",
     "geom:latitude":53.014076,
     "geom:longitude":-2.231754,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hall St",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102753331,
-    "wof:lastmodified":1449068084,
+    "wof:lastmodified":1466259033,
     "wof:name":"Ashfields Grange",
     "wof:parent_id":85789031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.231754,53.014076,-2.231754,53.014076],
+  "bbox": [
+    -2.231754,
+    53.014076,
+    -2.231754,
+    53.014076
+],
   "geometry": {"coordinates":[-2.231754,53.014076],"type":"Point"}
 }

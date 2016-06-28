@@ -2,13 +2,14 @@
   "id": 219883711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.27125,55.827839,-4.27125,55.827839",
     "geom:latitude":55.827839,
     "geom:longitude":-4.27125,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Algie Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219883711,
-    "wof:lastmodified":1449073099,
+    "wof:lastmodified":1466265175,
     "wof:name":"Church On The Hill The",
     "wof:parent_id":85792505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.27125,55.827839,-4.27125,55.827839],
+  "bbox": [
+    -4.27125,
+    55.827839,
+    -4.27125,
+    55.827839
+],
   "geometry": {"coordinates":[-4.27125,55.827839],"type":"Point"}
 }

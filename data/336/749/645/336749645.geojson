@@ -2,13 +2,14 @@
   "id": 336749645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.593824,51.4701,-2.593824,51.4701",
     "geom:latitude":51.4701,
     "geom:longitude":-2.593824,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"221-223 Gloucester Road, Bishopston",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336749645,
-    "wof:lastmodified":1448997258,
+    "wof:lastmodified":1466277218,
     "wof:name":"P D Cars Bristol",
     "wof:parent_id":85790575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-2.593824,51.4701,-2.593824,51.4701],
+  "bbox": [
+    -2.593824,
+    51.4701,
+    -2.593824,
+    51.4701
+],
   "geometry": {"coordinates":[-2.593824,51.4701],"type":"Point"}
 }

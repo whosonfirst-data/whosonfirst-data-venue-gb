@@ -2,13 +2,14 @@
   "id": 135283519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.228265,55.853352,-4.228265,55.853352",
     "geom:latitude":55.853352,
     "geom:longitude":-4.228265,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Abercromby Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135283519,
-    "wof:lastmodified":1449021904,
+    "wof:lastmodified":1466275885,
     "wof:name":"Aquarius Hair Studio",
     "wof:parent_id":85792633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.228265,55.853352,-4.228265,55.853352],
+  "bbox": [
+    -4.228265,
+    55.853352,
+    -4.228265,
+    55.853352
+],
   "geometry": {"coordinates":[-4.228265,55.853352],"type":"Point"}
 }

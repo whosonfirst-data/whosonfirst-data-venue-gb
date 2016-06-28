@@ -2,13 +2,14 @@
   "id": 220006157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.14506,51.026218,-3.14506,51.026218",
     "geom:latitude":51.026218,
     "geom:longitude":-3.14506,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Golden Chip, Norton Fitzwarren",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220006157,
-    "wof:lastmodified":1449074684,
+    "wof:lastmodified":1466253046,
     "wof:name":"GOLDEN CHIP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "chip"
     ]
 },
-  "bbox": [-3.14506,51.026218,-3.14506,51.026218],
+  "bbox": [
+    -3.14506,
+    51.026218,
+    -3.14506,
+    51.026218
+],
   "geometry": {"coordinates":[-3.14506,51.026218],"type":"Point"}
 }

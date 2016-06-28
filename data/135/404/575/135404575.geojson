@@ -2,13 +2,14 @@
   "id": 135404575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.243089,54.562424,-1.243089,54.562424",
     "geom:latitude":54.562424,
     "geom:longitude":-1.243089,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Barnabus Rd",
     "sg:city":"Middlesbrough",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135404575,
-    "wof:lastmodified":1449023013,
+    "wof:lastmodified":1466263258,
     "wof:name":"St Barnabus Church Of England",
     "wof:parent_id":85788781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.243089,54.562424,-1.243089,54.562424],
+  "bbox": [
+    -1.243089,
+    54.562424,
+    -1.243089,
+    54.562424
+],
   "geometry": {"coordinates":[-1.243089,54.562424],"type":"Point"}
 }

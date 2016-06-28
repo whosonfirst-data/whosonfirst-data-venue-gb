@@ -2,13 +2,14 @@
   "id": 102619045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.202774,55.954155,-3.202774,55.954155",
     "geom:latitude":55.954155,
     "geom:longitude":-3.202774,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 North Castle Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102619045,
-    "wof:lastmodified":1449068252,
+    "wof:lastmodified":1466253148,
     "wof:name":"Castle Guest House",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.202774,55.954155,-3.202774,55.954155],
+  "bbox": [
+    -3.202774,
+    55.954155,
+    -3.202774,
+    55.954155
+],
   "geometry": {"coordinates":[-3.202774,55.954155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303054679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.983326,50.731377,-1.983326,50.731377",
     "geom:latitude":50.731377,
     "geom:longitude":-1.983326,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Whitehorse Drive, Oakdale",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303054679,
-    "wof:lastmodified":1448999270,
+    "wof:lastmodified":1466264051,
     "wof:name":"T.M Gomm",
     "wof:parent_id":85792767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "screeders"
     ]
 },
-  "bbox": [-1.983326,50.731377,-1.983326,50.731377],
+  "bbox": [
+    -1.983326,
+    50.731377,
+    -1.983326,
+    50.731377
+],
   "geometry": {"coordinates":[-1.983326,50.731377],"type":"Point"}
 }

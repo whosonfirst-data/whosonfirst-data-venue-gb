@@ -2,13 +2,14 @@
   "id": 135910003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.352391,53.588795,-2.352391,53.588795",
     "geom:latitude":53.588795,
     "geom:longitude":-2.352391,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Church St, Ainsworth",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135910003,
-    "wof:lastmodified":1449022260,
+    "wof:lastmodified":1466288137,
     "wof:name":"Mr Fixit",
     "wof:parent_id":85785901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.352391,53.588795,-2.352391,53.588795],
+  "bbox": [
+    -2.352391,
+    53.588795,
+    -2.352391,
+    53.588795
+],
   "geometry": {"coordinates":[-2.352391,53.588795],"type":"Point"}
 }

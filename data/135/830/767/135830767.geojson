@@ -2,13 +2,14 @@
   "id": 135830767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.466157,51.401527,-2.466157,51.401527",
     "geom:latitude":51.401527,
     "geom:longitude":-2.466157,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Boyd Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135830767,
-    "wof:lastmodified":1449021624,
+    "wof:lastmodified":1466287807,
     "wof:name":"M K Transport",
     "wof:parent_id":101852639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.466157,51.401527,-2.466157,51.401527],
+  "bbox": [
+    -2.466157,
+    51.401527,
+    -2.466157,
+    51.401527
+],
   "geometry": {"coordinates":[-2.466157,51.401527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119073451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.140944,51.907604,-1.140944,51.907604",
     "geom:latitude":51.907604,
     "geom:longitude":-1.140944,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Bristol Rd",
     "sg:city":"Bicester",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119073451,
-    "wof:lastmodified":1449041202,
+    "wof:lastmodified":1466255818,
     "wof:name":"North Bicester Community Centre",
     "wof:parent_id":101852925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.140944,51.907604,-1.140944,51.907604],
+  "bbox": [
+    -1.140944,
+    51.907604,
+    -1.140944,
+    51.907604
+],
   "geometry": {"coordinates":[-1.140944,51.907604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270368599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.595619,52.39698,-1.595619,52.39698",
     "geom:latitude":52.39698,
     "geom:longitude":-1.595619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Cedar House 100 Station Avenue, Tile Hill",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270368599,
-    "wof:lastmodified":1449009198,
+    "wof:lastmodified":1466271487,
     "wof:name":"P M C Partitioning",
     "wof:parent_id":85791047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cubicle"
     ]
 },
-  "bbox": [-1.595619,52.39698,-1.595619,52.39698],
+  "bbox": [
+    -1.595619,
+    52.39698,
+    -1.595619,
+    52.39698
+],
   "geometry": {"coordinates":[-1.595619,52.39698],"type":"Point"}
 }

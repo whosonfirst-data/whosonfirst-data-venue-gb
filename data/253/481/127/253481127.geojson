@@ -2,13 +2,14 @@
   "id": 253481127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.354304,53.687008,-1.354304,53.687008",
     "geom:latitude":53.687008,
     "geom:longitude":-1.354304,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Featherstone Lane, Featherstone",
     "sg:city":"Pontefract",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253481127,
-    "wof:lastmodified":1449065394,
+    "wof:lastmodified":1466267531,
     "wof:name":"H Newton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.354304,53.687008,-1.354304,53.687008],
+  "bbox": [
+    -1.354304,
+    53.687008,
+    -1.354304,
+    53.687008
+],
   "geometry": {"coordinates":[-1.354304,53.687008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169810253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.961504,58.978271,-2.961504,58.978271",
     "geom:latitude":58.978271,
     "geom:longitude":-2.961504,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Main Street",
     "sg:city":"Kirkwall",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169810253,
-    "wof:lastmodified":1449033645,
+    "wof:lastmodified":1466254143,
     "wof:name":"West End Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.961504,58.978271,-2.961504,58.978271],
+  "bbox": [
+    -2.961504,
+    58.978271,
+    -2.961504,
+    58.978271
+],
   "geometry": {"coordinates":[-2.961504,58.978271],"type":"Point"}
 }

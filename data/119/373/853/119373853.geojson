@@ -2,13 +2,14 @@
   "id": 119373853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.30775,51.752453,-1.30775,51.752453",
     "geom:latitude":51.752453,
     "geom:longitude":-1.30775,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Fogwell Rd",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119373853,
-    "wof:lastmodified":1449042212,
+    "wof:lastmodified":1466283867,
     "wof:name":"Day John",
     "wof:parent_id":85785875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.30775,51.752453,-1.30775,51.752453],
+  "bbox": [
+    -1.30775,
+    51.752453,
+    -1.30775,
+    51.752453
+],
   "geometry": {"coordinates":[-1.30775,51.752453],"type":"Point"}
 }

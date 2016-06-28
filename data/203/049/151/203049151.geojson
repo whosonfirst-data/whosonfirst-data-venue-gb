@@ -2,13 +2,14 @@
   "id": 203049151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.281687,55.781132,-4.281687,55.781132",
     "geom:latitude":55.781132,
     "geom:longitude":-4.281687,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Hillend Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":203049151,
-    "wof:lastmodified":1449025862,
+    "wof:lastmodified":1466253459,
     "wof:name":"Danagri UK Ltd",
     "wof:parent_id":85786665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.281687,55.781132,-4.281687,55.781132],
+  "bbox": [
+    -4.281687,
+    55.781132,
+    -4.281687,
+    55.781132
+],
   "geometry": {"coordinates":[-4.281687,55.781132],"type":"Point"}
 }

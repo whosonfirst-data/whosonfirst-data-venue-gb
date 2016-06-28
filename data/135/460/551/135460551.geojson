@@ -2,13 +2,14 @@
   "id": 135460551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.295523,55.801601,-4.295523,55.801601",
     "geom:latitude":55.801601,
     "geom:longitude":-4.295523,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Fenwick Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135460551,
-    "wof:lastmodified":1449023829,
+    "wof:lastmodified":1466269964,
     "wof:name":"Co-op Travelcare",
     "wof:parent_id":85787597,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.295523,55.801601,-4.295523,55.801601],
+  "bbox": [
+    -4.295523,
+    55.801601,
+    -4.295523,
+    55.801601
+],
   "geometry": {"coordinates":[-4.295523,55.801601],"type":"Point"}
 }

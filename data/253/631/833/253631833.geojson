@@ -2,13 +2,14 @@
   "id": 253631833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.474978,53.380325,-1.474978,53.380325",
     "geom:latitude":53.380325,
     "geom:longitude":-1.474978,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Rockingham La",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253631833,
-    "wof:lastmodified":1449063734,
+    "wof:lastmodified":1466272122,
     "wof:name":"Sheffield Samaritans",
     "wof:parent_id":85793123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "counselling"
     ]
 },
-  "bbox": [-1.474978,53.380325,-1.474978,53.380325],
+  "bbox": [
+    -1.474978,
+    53.380325,
+    -1.474978,
+    53.380325
+],
   "geometry": {"coordinates":[-1.474978,53.380325],"type":"Point"}
 }

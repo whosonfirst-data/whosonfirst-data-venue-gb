@@ -2,13 +2,14 @@
   "id": 219693525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.312768,54.567413,-1.312768,54.567413",
     "geom:latitude":54.567413,
     "geom:longitude":-1.312768,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 High Street",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219693525,
-    "wof:lastmodified":1449070585,
+    "wof:lastmodified":1466261932,
     "wof:name":"Better Buys",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "sales"
     ]
 },
-  "bbox": [-1.312768,54.567413,-1.312768,54.567413],
+  "bbox": [
+    -1.312768,
+    54.567413,
+    -1.312768,
+    54.567413
+],
   "geometry": {"coordinates":[-1.312768,54.567413],"type":"Point"}
 }

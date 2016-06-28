@@ -2,13 +2,14 @@
   "id": 320635371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.630805,55.748306,-4.630805,55.748306",
     "geom:latitude":55.748306,
     "geom:longitude":-4.630805,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Morningside Residential Care Home, 7 Barrmill Road",
     "sg:city":"Beith",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":320635371,
-    "wof:lastmodified":1449012873,
+    "wof:lastmodified":1466283136,
     "wof:name":"Morningside Residential Care Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-4.630805,55.748306,-4.630805,55.748306],
+  "bbox": [
+    -4.630805,
+    55.748306,
+    -4.630805,
+    55.748306
+],
   "geometry": {"coordinates":[-4.630805,55.748306],"type":"Point"}
 }

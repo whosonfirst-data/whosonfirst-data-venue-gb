@@ -2,13 +2,14 @@
   "id": 287283857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.109519,52.507343,-2.109519,52.507343",
     "geom:latitude":52.507343,
     "geom:longitude":-2.109519,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Corbyn Road",
     "sg:city":"Dudley",
     "sg:classifiers":[
@@ -59,16 +60,22 @@
         }
     ],
     "wof:id":287283857,
-    "wof:lastmodified":1449000909,
+    "wof:lastmodified":1466271795,
     "wof:name":"Old Park Special School",
     "wof:parent_id":85791797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-2.109519,52.507343,-2.109519,52.507343],
+  "bbox": [
+    -2.109519,
+    52.507343,
+    -2.109519,
+    52.507343
+],
   "geometry": {"coordinates":[-2.109519,52.507343],"type":"Point"}
 }

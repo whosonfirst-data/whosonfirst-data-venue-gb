@@ -2,13 +2,14 @@
   "id": 202979571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.137547,50.792145,-1.137547,50.792145",
     "geom:latitude":50.792145,
     "geom:longitude":-1.137547,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"175-177 Stoke Road",
     "sg:city":"Gosport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202979571,
-    "wof:lastmodified":1449061892,
+    "wof:lastmodified":1466261952,
     "wof:name":"Stoke Gallery",
     "wof:parent_id":85786043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-1.137547,50.792145,-1.137547,50.792145],
+  "bbox": [
+    -1.137547,
+    50.792145,
+    -1.137547,
+    50.792145
+],
   "geometry": {"coordinates":[-1.137547,50.792145],"type":"Point"}
 }

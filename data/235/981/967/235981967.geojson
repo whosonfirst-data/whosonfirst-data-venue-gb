@@ -2,13 +2,14 @@
   "id": 235981967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.308794,53.413551,-2.308794,53.413551",
     "geom:latitude":53.413551,
     "geom:longitude":-2.308794,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 North Parade",
     "sg:city":"Sale",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235981967,
-    "wof:lastmodified":1449008607,
+    "wof:lastmodified":1466256113,
     "wof:name":"Portland Wine Co",
     "wof:parent_id":85786069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wines"
     ]
 },
-  "bbox": [-2.308794,53.413551,-2.308794,53.413551],
+  "bbox": [
+    -2.308794,
+    53.413551,
+    -2.308794,
+    53.413551
+],
   "geometry": {"coordinates":[-2.308794,53.413551],"type":"Point"}
 }

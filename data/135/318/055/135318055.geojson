@@ -2,13 +2,14 @@
   "id": 135318055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.12319,51.523319,-2.12319,51.523319",
     "geom:latitude":51.523319,
     "geom:longitude":-2.12319,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Lower Stanton St Quintin",
     "sg:city":"Chippenham",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135318055,
-    "wof:lastmodified":1449021656,
+    "wof:lastmodified":1466253407,
     "wof:name":"Hilmar Kennels",
     "wof:parent_id":85683939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.12319,51.523319,-2.12319,51.523319],
+  "bbox": [
+    -2.12319,
+    51.523319,
+    -2.12319,
+    51.523319
+],
   "geometry": {"coordinates":[-2.12319,51.523319],"type":"Point"}
 }

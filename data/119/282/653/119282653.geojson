@@ -2,13 +2,14 @@
   "id": 119282653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.234706,51.859406,-2.234706,51.859406",
     "geom:latitude":51.859406,
     "geom:longitude":-2.234706,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Barton Street",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":119282653,
-    "wof:lastmodified":1449042531,
+    "wof:lastmodified":1466278225,
     "wof:name":"A Remus Sound",
     "wof:parent_id":85793221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.234706,51.859406,-2.234706,51.859406],
+  "bbox": [
+    -2.234706,
+    51.859406,
+    -2.234706,
+    51.859406
+],
   "geometry": {"coordinates":[-2.234706,51.859406],"type":"Point"}
 }

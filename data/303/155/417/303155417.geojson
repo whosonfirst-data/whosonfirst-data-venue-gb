@@ -2,13 +2,14 @@
   "id": 303155417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.685208,53.866165,-1.685208,53.866165",
     "geom:latitude":53.866165,
     "geom:longitude":-1.685208,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 High Street, Yeadon",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303155417,
-    "wof:lastmodified":1449000135,
+    "wof:lastmodified":1466267328,
     "wof:name":"Whitegates Estate Agency",
     "wof:parent_id":85786761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.685208,53.866165,-1.685208,53.866165],
+  "bbox": [
+    -1.685208,
+    53.866165,
+    -1.685208,
+    53.866165
+],
   "geometry": {"coordinates":[-1.685208,53.866165],"type":"Point"}
 }

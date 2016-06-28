@@ -2,13 +2,14 @@
   "id": 320431399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.57005,53.685291,-1.57005,53.685291",
     "geom:latitude":53.685291,
     "geom:longitude":-1.57005,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Enterprise Works, St Oswalds Place, Ossett",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320431399,
-    "wof:lastmodified":1449011752,
+    "wof:lastmodified":1466279912,
     "wof:name":"Heat Fabrications Ltd",
     "wof:parent_id":85785297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "erectors"
     ]
 },
-  "bbox": [-1.57005,53.685291,-1.57005,53.685291],
+  "bbox": [
+    -1.57005,
+    53.685291,
+    -1.57005,
+    53.685291
+],
   "geometry": {"coordinates":[-1.57005,53.685291],"type":"Point"}
 }

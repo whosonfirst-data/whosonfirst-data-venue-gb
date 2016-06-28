@@ -2,13 +2,14 @@
   "id": 286361673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.249317,55.836079,-4.249317,55.836079",
     "geom:latitude":55.836079,
     "geom:longitude":-4.249317,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Aikenhead Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286361673,
-    "wof:lastmodified":1449017325,
+    "wof:lastmodified":1466265272,
     "wof:name":"The Trophy Centre Ltd.",
     "wof:parent_id":85789891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trophy"
     ]
 },
-  "bbox": [-4.249317,55.836079,-4.249317,55.836079],
+  "bbox": [
+    -4.249317,
+    55.836079,
+    -4.249317,
+    55.836079
+],
   "geometry": {"coordinates":[-4.249317,55.836079],"type":"Point"}
 }

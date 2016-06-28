@@ -2,13 +2,14 @@
   "id": 286327963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.30206,53.32975,-1.30206,53.32975",
     "geom:latitude":53.32975,
     "geom:longitude":-1.30206,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Units 2-3 Rotherham Close, Norwood Industrial Estate",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286327963,
-    "wof:lastmodified":1449015399,
+    "wof:lastmodified":1466264284,
     "wof:name":"Forge Group",
     "wof:parent_id":85791387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "barrier"
     ]
 },
-  "bbox": [-1.30206,53.32975,-1.30206,53.32975],
+  "bbox": [
+    -1.30206,
+    53.32975,
+    -1.30206,
+    53.32975
+],
   "geometry": {"coordinates":[-1.30206,53.32975],"type":"Point"}
 }

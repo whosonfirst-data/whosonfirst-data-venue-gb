@@ -2,13 +2,14 @@
   "id": 220001259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.608777,51.363842,0.608777,51.363842",
     "geom:latitude":51.363842,
     "geom:longitude":0.608777,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17-25 Station Road, Rainham",
     "sg:city":"Gillingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220001259,
-    "wof:lastmodified":1449074225,
+    "wof:lastmodified":1466252948,
     "wof:name":"The Rainham Bookshop",
     "wof:parent_id":85790013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "retailer"
     ]
 },
-  "bbox": [0.608777,51.363842,0.608777,51.363842],
+  "bbox": [
+    0.608777,
+    51.363842,
+    0.608777,
+    51.363842
+],
   "geometry": {"coordinates":[0.608777,51.363842],"type":"Point"}
 }

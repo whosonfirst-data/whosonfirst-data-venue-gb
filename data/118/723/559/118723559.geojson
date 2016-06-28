@@ -2,13 +2,14 @@
   "id": 118723559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.521205,54.890766,-1.521205,54.890766",
     "geom:latitude":54.890766,
     "geom:longitude":-1.521205,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Whitby Drive",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118723559,
-    "wof:lastmodified":1449053979,
+    "wof:lastmodified":1466267123,
     "wof:name":"G M P Systems",
     "wof:parent_id":85790441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.521205,54.890766,-1.521205,54.890766],
+  "bbox": [
+    -1.521205,
+    54.890766,
+    -1.521205,
+    54.890766
+],
   "geometry": {"coordinates":[-1.521205,54.890766],"type":"Point"}
 }

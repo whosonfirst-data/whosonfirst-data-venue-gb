@@ -2,13 +2,14 @@
   "id": 303962829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.499679,55.610371,-4.499679,55.610371",
     "geom:latitude":55.610371,
     "geom:longitude":-4.499679,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"John Dickie Street",
     "sg:city":"Kilmarnock",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303962829,
-    "wof:lastmodified":1448999560,
+    "wof:lastmodified":1466285040,
     "wof:name":"Registration of Births Deaths & Marriages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "local"
     ]
 },
-  "bbox": [-4.499679,55.610371,-4.499679,55.610371],
+  "bbox": [
+    -4.499679,
+    55.610371,
+    -4.499679,
+    55.610371
+],
   "geometry": {"coordinates":[-4.499679,55.610371],"type":"Point"}
 }

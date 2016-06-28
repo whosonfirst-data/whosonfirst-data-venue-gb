@@ -2,13 +2,14 @@
   "id": 236412669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.054343,52.420341,-1.054343,52.420341",
     "geom:latitude":52.420341,
     "geom:longitude":-1.054343,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"47 High Street, Welford",
     "sg:city":"Daventry",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":236412669,
-    "wof:lastmodified":1449002181,
+    "wof:lastmodified":1466264296,
     "wof:name":"Sign Right",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nameplate"
     ]
 },
-  "bbox": [-1.054343,52.420341,-1.054343,52.420341],
+  "bbox": [
+    -1.054343,
+    52.420341,
+    -1.054343,
+    52.420341
+],
   "geometry": {"coordinates":[-1.054343,52.420341],"type":"Point"}
 }

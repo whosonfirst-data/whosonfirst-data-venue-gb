@@ -2,13 +2,14 @@
   "id": 286294825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.282234,51.745705,-2.282234,51.745705",
     "geom:latitude":51.745705,
     "geom:longitude":-2.282234,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1-2 Ryford Industrial Estate, Ryeford",
     "sg:city":"Stonehouse",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286294825,
-    "wof:lastmodified":1449017279,
+    "wof:lastmodified":1466263361,
     "wof:name":"Iron Ore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fabricated"
     ]
 },
-  "bbox": [-2.282234,51.745705,-2.282234,51.745705],
+  "bbox": [
+    -2.282234,
+    51.745705,
+    -2.282234,
+    51.745705
+],
   "geometry": {"coordinates":[-2.282234,51.745705],"type":"Point"}
 }

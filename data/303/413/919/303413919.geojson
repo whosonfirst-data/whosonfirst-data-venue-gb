@@ -2,13 +2,14 @@
   "id": 303413919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.242516,53.127335,-1.242516,53.127335",
     "geom:latitude":53.127335,
     "geom:longitude":-1.242516,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Coxmoor Rd",
     "sg:city":"Sutton In Ashfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303413919,
-    "wof:lastmodified":1448998506,
+    "wof:lastmodified":1466275248,
     "wof:name":"Coxmoor Dental Laboratory",
     "wof:parent_id":85787491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dental"
     ]
 },
-  "bbox": [-1.242516,53.127335,-1.242516,53.127335],
+  "bbox": [
+    -1.242516,
+    53.127335,
+    -1.242516,
+    53.127335
+],
   "geometry": {"coordinates":[-1.242516,53.127335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336728125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.243291,55.866817,-4.243291,55.866817",
     "geom:latitude":55.866817,
     "geom:longitude":-4.243291,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Kennedy Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":336728125,
-    "wof:lastmodified":1448997204,
+    "wof:lastmodified":1466276621,
     "wof:name":"Fyfe & Mcgrouther",
     "wof:parent_id":85792639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "engineer"
     ]
 },
-  "bbox": [-4.243291,55.866817,-4.243291,55.866817],
+  "bbox": [
+    -4.243291,
+    55.866817,
+    -4.243291,
+    55.866817
+],
   "geometry": {"coordinates":[-4.243291,55.866817],"type":"Point"}
 }

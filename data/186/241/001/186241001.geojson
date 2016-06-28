@@ -2,13 +2,14 @@
   "id": 186241001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.782869,53.705719,-1.782869,53.705719",
     "geom:latitude":53.705719,
     "geom:longitude":-1.782869,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Churchfields Rd",
     "sg:city":"Brighouse",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":186241001,
-    "wof:lastmodified":1449052967,
+    "wof:lastmodified":1466255278,
     "wof:name":"St Martins Church",
     "wof:parent_id":85785895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.782869,53.705719,-1.782869,53.705719],
+  "bbox": [
+    -1.782869,
+    53.705719,
+    -1.782869,
+    53.705719
+],
   "geometry": {"coordinates":[-1.782869,53.705719],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304040235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.117289,53.546612,-2.117289,53.546612",
     "geom:latitude":53.546612,
     "geom:longitude":-2.117289,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Franklin Street, Coldhurst",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":304040235,
-    "wof:lastmodified":1449044135,
+    "wof:lastmodified":1466265478,
     "wof:name":"Franklin House",
     "wof:parent_id":85793089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.117289,53.546612,-2.117289,53.546612],
+  "bbox": [
+    -2.117289,
+    53.546612,
+    -2.117289,
+    53.546612
+],
   "geometry": {"coordinates":[-2.117289,53.546612],"type":"Point"}
 }

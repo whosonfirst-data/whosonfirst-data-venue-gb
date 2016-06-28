@@ -2,13 +2,14 @@
   "id": 135327813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.368616,53.500935,-1.368616,53.500935",
     "geom:latitude":53.500935,
     "geom:longitude":-1.368616,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Giles Avenue, Wath",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135327813,
-    "wof:lastmodified":1449021225,
+    "wof:lastmodified":1466254580,
     "wof:name":"John Paskell (Plumbing) Ltd.",
     "wof:parent_id":85683873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.368616,53.500935,-1.368616,53.500935],
+  "bbox": [
+    -1.368616,
+    53.500935,
+    -1.368616,
+    53.500935
+],
   "geometry": {"coordinates":[-1.368616,53.500935],"type":"Point"}
 }

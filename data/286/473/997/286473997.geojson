@@ -2,13 +2,14 @@
   "id": 286473997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.039745,53.879005,-3.039745,53.879005",
     "geom:latitude":53.879005,
     "geom:longitude":-3.039745,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Rossall Rd",
     "sg:city":"Thornton Cleveleys",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286473997,
-    "wof:lastmodified":1449015777,
+    "wof:lastmodified":1466268745,
     "wof:name":"Cleveleys Nursing Home",
     "wof:parent_id":85789433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "residential"
     ]
 },
-  "bbox": [-3.039745,53.879005,-3.039745,53.879005],
+  "bbox": [
+    -3.039745,
+    53.879005,
+    -3.039745,
+    53.879005
+],
   "geometry": {"coordinates":[-3.039745,53.879005],"type":"Point"}
 }

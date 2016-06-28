@@ -2,13 +2,14 @@
   "id": 186455651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.112319,55.932976,-3.112319,55.932976",
     "geom:latitude":55.932976,
     "geom:longitude":-3.112319,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Wisp Grn",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186455651,
-    "wof:lastmodified":1449052573,
+    "wof:lastmodified":1466258530,
     "wof:name":"Capital Control",
     "wof:parent_id":85861487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vermin"
     ]
 },
-  "bbox": [-3.112319,55.932976,-3.112319,55.932976],
+  "bbox": [
+    -3.112319,
+    55.932976,
+    -3.112319,
+    55.932976
+],
   "geometry": {"coordinates":[-3.112319,55.932976],"type":"Point"}
 }

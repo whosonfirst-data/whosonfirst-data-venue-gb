@@ -2,13 +2,14 @@
   "id": 303668639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.8292,52.585758,-1.8292,52.585758",
     "geom:latitude":52.585758,
     "geom:longitude":-1.8292,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Rear Of 276 Lichfield Road",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303668639,
-    "wof:lastmodified":1448999823,
+    "wof:lastmodified":1466281129,
     "wof:name":"Hansons Garage",
     "wof:parent_id":85789067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [-1.8292,52.585758,-1.8292,52.585758],
+  "bbox": [
+    -1.8292,
+    52.585758,
+    -1.8292,
+    52.585758
+],
   "geometry": {"coordinates":[-1.8292,52.585758],"type":"Point"}
 }

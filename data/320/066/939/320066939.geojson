@@ -2,13 +2,14 @@
   "id": 320066939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.08212,51.895847,-2.08212,51.895847",
     "geom:latitude":51.895847,
     "geom:longitude":-2.08212,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lauriston House, Montpellier St",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320066939,
-    "wof:lastmodified":1449012352,
+    "wof:lastmodified":1466270116,
     "wof:name":"Bank of Scotland",
     "wof:parent_id":85793223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.08212,51.895847,-2.08212,51.895847],
+  "bbox": [
+    -2.08212,
+    51.895847,
+    -2.08212,
+    51.895847
+],
   "geometry": {"coordinates":[-2.08212,51.895847],"type":"Point"}
 }

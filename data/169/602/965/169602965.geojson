@@ -2,13 +2,14 @@
   "id": 169602965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.688979,54.940758,-1.688979,54.940758",
     "geom:latitude":54.940758,
     "geom:longitude":-1.688979,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Fellside Road, Whickham",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169602965,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466262737,
     "wof:name":"John Clark",
     "wof:parent_id":85787115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.688979,54.940758,-1.688979,54.940758],
+  "bbox": [
+    -1.688979,
+    54.940758,
+    -1.688979,
+    54.940758
+],
   "geometry": {"coordinates":[-1.688979,54.940758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286386739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.57344,50.861599,0.57344,50.861599",
     "geom:latitude":50.861599,
     "geom:longitude":0.57344,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hastings & District Branch, 47 Wykham Road",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286386739,
-    "wof:lastmodified":1449016732,
+    "wof:lastmodified":1466266040,
     "wof:name":"Motor Neurone Disease",
     "wof:parent_id":85861225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "charity"
     ]
 },
-  "bbox": [0.57344,50.861599,0.57344,50.861599],
+  "bbox": [
+    0.57344,
+    50.861599,
+    0.57344,
+    50.861599
+],
   "geometry": {"coordinates":[0.57344,50.861599],"type":"Point"}
 }

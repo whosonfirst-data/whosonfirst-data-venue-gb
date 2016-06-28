@@ -2,13 +2,14 @@
   "id": 135409947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.547655,52.576447,-1.547655,52.576447",
     "geom:latitude":52.576447,
     "geom:longitude":-1.547655,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Station Street",
     "sg:city":"Atherstone",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135409947,
-    "wof:lastmodified":1449022238,
+    "wof:lastmodified":1466263819,
     "wof:name":"Atherstone House",
     "wof:parent_id":101853065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.547655,52.576447,-1.547655,52.576447],
+  "bbox": [
+    -1.547655,
+    52.576447,
+    -1.547655,
+    52.576447
+],
   "geometry": {"coordinates":[-1.547655,52.576447],"type":"Point"}
 }

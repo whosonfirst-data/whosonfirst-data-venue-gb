@@ -2,13 +2,14 @@
   "id": 303491707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.375304,50.917244,-1.375304,50.917244",
     "geom:latitude":50.917244,
     "geom:longitude":-1.375304,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Athelstan Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303491707,
-    "wof:lastmodified":1448998076,
+    "wof:lastmodified":1466277683,
     "wof:name":"Bitterne Building Contractors",
     "wof:parent_id":85792821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "builder"
     ]
 },
-  "bbox": [-1.375304,50.917244,-1.375304,50.917244],
+  "bbox": [
+    -1.375304,
+    50.917244,
+    -1.375304,
+    50.917244
+],
   "geometry": {"coordinates":[-1.375304,50.917244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119203525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.495495,50.914463,-1.495495,50.914463",
     "geom:latitude":50.914463,
     "geom:longitude":-1.495495,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Culford Avenue",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119203525,
-    "wof:lastmodified":1449042009,
+    "wof:lastmodified":1466269616,
     "wof:name":"Hunt Buildings",
     "wof:parent_id":85792825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.495495,50.914463,-1.495495,50.914463],
+  "bbox": [
+    -1.495495,
+    50.914463,
+    -1.495495,
+    50.914463
+],
   "geometry": {"coordinates":[-1.495495,50.914463],"type":"Point"}
 }

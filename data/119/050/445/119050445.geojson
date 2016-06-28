@@ -2,13 +2,14 @@
   "id": 119050445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.312,53.070629,-1.312,53.070629",
     "geom:latitude":53.070629,
     "geom:longitude":-1.312,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Nottingham Road, Selston",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119050445,
-    "wof:lastmodified":1449042317,
+    "wof:lastmodified":1466253308,
     "wof:name":"Cottages In The Square",
     "wof:parent_id":85683849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.312,53.070629,-1.312,53.070629],
+  "bbox": [
+    -1.312,
+    53.070629,
+    -1.312,
+    53.070629
+],
   "geometry": {"coordinates":[-1.312,53.070629],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135610801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.512915,53.456585,-2.512915,53.456585",
     "geom:latitude":53.456585,
     "geom:longitude":-2.512915,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Withington Avenue, Culcheth",
     "sg:city":"Warrington",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135610801,
-    "wof:lastmodified":1449023937,
+    "wof:lastmodified":1466282963,
     "wof:name":"Culcheth County High School",
     "wof:parent_id":85683693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.512915,53.456585,-2.512915,53.456585],
+  "bbox": [
+    -2.512915,
+    53.456585,
+    -2.512915,
+    53.456585
+],
   "geometry": {"coordinates":[-2.512915,53.456585],"type":"Point"}
 }

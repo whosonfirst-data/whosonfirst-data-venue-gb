@@ -2,13 +2,14 @@
   "id": 303179629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.214187,51.493484,-3.214187,51.493484",
     "geom:latitude":51.493484,
     "geom:longitude":-3.214187,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Cadac Place, Llandaff",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":303179629,
-    "wof:lastmodified":1449000317,
+    "wof:lastmodified":1466268130,
     "wof:name":"Danesbrook Residential Home",
     "wof:parent_id":85861447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-3.214187,51.493484,-3.214187,51.493484],
+  "bbox": [
+    -3.214187,
+    51.493484,
+    -3.214187,
+    51.493484
+],
   "geometry": {"coordinates":[-3.214187,51.493484],"type":"Point"}
 }

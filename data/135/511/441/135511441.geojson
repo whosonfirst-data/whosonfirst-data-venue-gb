@@ -2,13 +2,14 @@
   "id": 135511441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.303205,51.290226,0.303205,51.290226",
     "geom:latitude":51.290226,
     "geom:longitude":0.303205,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sales, Quarry Hill Rd",
     "sg:city":"Sevenoaks",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135511441,
-    "wof:lastmodified":1449022406,
+    "wof:lastmodified":1466275827,
     "wof:name":"ARC Southern",
     "wof:parent_id":85684363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.303205,51.290226,0.303205,51.290226],
+  "bbox": [
+    0.303205,
+    51.290226,
+    0.303205,
+    51.290226
+],
   "geometry": {"coordinates":[0.303205,51.290226],"type":"Point"}
 }

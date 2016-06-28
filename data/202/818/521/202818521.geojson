@@ -2,13 +2,14 @@
   "id": 202818521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.635841,53.783806,-1.635841,53.783806",
     "geom:latitude":53.783806,
     "geom:longitude":-1.635841,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"844 Tong Rd",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202818521,
-    "wof:lastmodified":1449061367,
+    "wof:lastmodified":1466259388,
     "wof:name":"Tim Hawkins",
     "wof:parent_id":85788925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "heating"
     ]
 },
-  "bbox": [-1.635841,53.783806,-1.635841,53.783806],
+  "bbox": [
+    -1.635841,
+    53.783806,
+    -1.635841,
+    53.783806
+],
   "geometry": {"coordinates":[-1.635841,53.783806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119201101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.14485,52.417786,-2.14485,52.417786",
     "geom:latitude":52.417786,
     "geom:longitude":-2.14485,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Worcester Road, Hagley",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119201101,
-    "wof:lastmodified":1449043183,
+    "wof:lastmodified":1466269332,
     "wof:name":"Natural Beauty",
     "wof:parent_id":85791739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.14485,52.417786,-2.14485,52.417786],
+  "bbox": [
+    -2.14485,
+    52.417786,
+    -2.14485,
+    52.417786
+],
   "geometry": {"coordinates":[-2.14485,52.417786],"type":"Point"}
 }

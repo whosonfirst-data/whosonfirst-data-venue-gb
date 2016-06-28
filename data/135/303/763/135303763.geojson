@@ -2,13 +2,14 @@
   "id": 135303763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.433254,53.581425,-2.433254,53.581425",
     "geom:latitude":53.581425,
     "geom:longitude":-2.433254,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"99 St Georges Road",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135303763,
-    "wof:lastmodified":1449021019,
+    "wof:lastmodified":1466277556,
     "wof:name":"Nathan",
     "wof:parent_id":85792953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.433254,53.581425,-2.433254,53.581425],
+  "bbox": [
+    -2.433254,
+    53.581425,
+    -2.433254,
+    53.581425
+],
   "geometry": {"coordinates":[-2.433254,53.581425],"type":"Point"}
 }

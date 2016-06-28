@@ -2,13 +2,14 @@
   "id": 135325777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.284829,55.827328,-4.284829,55.827328",
     "geom:latitude":55.827328,
     "geom:longitude":-4.284829,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Kilmarnock Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135325777,
-    "wof:lastmodified":1449022190,
+    "wof:lastmodified":1466254325,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85792505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.284829,55.827328,-4.284829,55.827328],
+  "bbox": [
+    -4.284829,
+    55.827328,
+    -4.284829,
+    55.827328
+],
   "geometry": {"coordinates":[-4.284829,55.827328],"type":"Point"}
 }

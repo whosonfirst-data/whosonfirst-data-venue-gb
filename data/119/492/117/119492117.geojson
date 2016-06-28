@@ -2,13 +2,14 @@
   "id": 119492117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.976948,56.185005,-3.976948,56.185005",
     "geom:latitude":56.185005,
     "geom:longitude":-3.976948,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Braemar Avenue",
     "sg:city":"Dunblane",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":119492117,
-    "wof:lastmodified":1449040878,
+    "wof:lastmodified":1466286900,
     "wof:name":"Mike Dewar",
     "wof:parent_id":101872599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.976948,56.185005,-3.976948,56.185005],
+  "bbox": [
+    -3.976948,
+    56.185005,
+    -3.976948,
+    56.185005
+],
   "geometry": {"coordinates":[-3.976948,56.185005],"type":"Point"}
 }

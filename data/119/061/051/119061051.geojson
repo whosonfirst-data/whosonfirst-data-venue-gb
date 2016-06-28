@@ -2,13 +2,14 @@
   "id": 119061051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.180102,53.012356,-1.180102,53.012356",
     "geom:latitude":53.012356,
     "geom:longitude":-1.180102,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Haverhill Crescent",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119061051,
-    "wof:lastmodified":1449042798,
+    "wof:lastmodified":1466254442,
     "wof:name":"Central Driving School",
     "wof:parent_id":85861925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.180102,53.012356,-1.180102,53.012356],
+  "bbox": [
+    -1.180102,
+    53.012356,
+    -1.180102,
+    53.012356
+],
   "geometry": {"coordinates":[-1.180102,53.012356],"type":"Point"}
 }

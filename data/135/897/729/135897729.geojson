@@ -2,13 +2,14 @@
   "id": 135897729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.009883,52.750801,-1.009883,52.750801",
     "geom:latitude":52.750801,
     "geom:longitude":-1.009883,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Regent Road, Hoby",
     "sg:city":"Melton Mowbray",
     "sg:classifiers":[
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":135897729,
-    "wof:lastmodified":1449023526,
+    "wof:lastmodified":1466288124,
     "wof:name":"Withers of Leicester",
     "wof:parent_id":85683891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.009883,52.750801,-1.009883,52.750801],
+  "bbox": [
+    -1.009883,
+    52.750801,
+    -1.009883,
+    52.750801
+],
   "geometry": {"coordinates":[-1.009883,52.750801],"type":"Point"}
 }

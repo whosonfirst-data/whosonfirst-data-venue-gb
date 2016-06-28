@@ -2,13 +2,14 @@
   "id": 286261637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.890103,53.874336,-1.890103,53.874336",
     "geom:latitude":53.874336,
     "geom:longitude":-1.890103,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Aireworth Road",
     "sg:city":"Keighley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286261637,
-    "wof:lastmodified":1449015208,
+    "wof:lastmodified":1466278191,
     "wof:name":"Aireworth Chemist",
     "wof:parent_id":85790053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "chemist"
     ]
 },
-  "bbox": [-1.890103,53.874336,-1.890103,53.874336],
+  "bbox": [
+    -1.890103,
+    53.874336,
+    -1.890103,
+    53.874336
+],
   "geometry": {"coordinates":[-1.890103,53.874336],"type":"Point"}
 }

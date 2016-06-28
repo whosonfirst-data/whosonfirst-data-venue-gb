@@ -2,13 +2,14 @@
   "id": 135309113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.505541,52.422848,-1.505541,52.422848",
     "geom:latitude":52.422848,
     "geom:longitude":-1.505541,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 7 Matlock Road, Foleshill",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135309113,
-    "wof:lastmodified":1449021663,
+    "wof:lastmodified":1466278124,
     "wof:name":"Trax Instruments",
     "wof:parent_id":85792035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.505541,52.422848,-1.505541,52.422848],
+  "bbox": [
+    -1.505541,
+    52.422848,
+    -1.505541,
+    52.422848
+],
   "geometry": {"coordinates":[-1.505541,52.422848],"type":"Point"}
 }

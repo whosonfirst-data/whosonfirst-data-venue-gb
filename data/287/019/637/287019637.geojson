@@ -2,13 +2,14 @@
   "id": 287019637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.544064,54.534309,-1.544064,54.534309",
     "geom:latitude":54.534309,
     "geom:longitude":-1.544064,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5, Vulcan St, Albert Hill",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287019637,
-    "wof:lastmodified":1449001184,
+    "wof:lastmodified":1466263536,
     "wof:name":"City Link",
     "wof:parent_id":85787981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "courier"
     ]
 },
-  "bbox": [-1.544064,54.534309,-1.544064,54.534309],
+  "bbox": [
+    -1.544064,
+    54.534309,
+    -1.544064,
+    54.534309
+],
   "geometry": {"coordinates":[-1.544064,54.534309],"type":"Point"}
 }

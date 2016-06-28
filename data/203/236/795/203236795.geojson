@@ -2,13 +2,14 @@
   "id": 203236795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.208207,55.86253,-4.208207,55.86253",
     "geom:latitude":55.86253,
     "geom:longitude":-4.208207,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"286 Cumbernauld Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":203236795,
-    "wof:lastmodified":1449025144,
+    "wof:lastmodified":1466256701,
     "wof:name":"Alexandra Park Post Office",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.208207,55.86253,-4.208207,55.86253],
+  "bbox": [
+    -4.208207,
+    55.86253,
+    -4.208207,
+    55.86253
+],
   "geometry": {"coordinates":[-4.208207,55.86253],"type":"Point"}
 }

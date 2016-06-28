@@ -2,13 +2,14 @@
   "id": 270022803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.945418,50.729179,-1.945418,50.729179",
     "geom:latitude":50.729179,
     "geom:longitude":-1.945418,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"461 Ashley Rd",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270022803,
-    "wof:lastmodified":1449009451,
+    "wof:lastmodified":1466261130,
     "wof:name":"Centre Stage International",
     "wof:parent_id":85789727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "entertainer"
     ]
 },
-  "bbox": [-1.945418,50.729179,-1.945418,50.729179],
+  "bbox": [
+    -1.945418,
+    50.729179,
+    -1.945418,
+    50.729179
+],
   "geometry": {"coordinates":[-1.945418,50.729179],"type":"Point"}
 }

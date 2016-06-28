@@ -2,13 +2,14 @@
   "id": 320121415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.387029,50.939056,-1.387029,50.939056",
     "geom:latitude":50.939056,
     "geom:longitude":-1.387029,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Honeysuckle Road",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320121415,
-    "wof:lastmodified":1449014148,
+    "wof:lastmodified":1466271741,
     "wof:name":"G M Builders",
     "wof:parent_id":85785521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "builder"
     ]
 },
-  "bbox": [-1.387029,50.939056,-1.387029,50.939056],
+  "bbox": [
+    -1.387029,
+    50.939056,
+    -1.387029,
+    50.939056
+],
   "geometry": {"coordinates":[-1.387029,50.939056],"type":"Point"}
 }

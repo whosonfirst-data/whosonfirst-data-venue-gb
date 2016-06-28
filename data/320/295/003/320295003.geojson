@@ -2,13 +2,14 @@
   "id": 320295003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.185378,55.949215,-3.185378,55.949215",
     "geom:latitude":55.949215,
     "geom:longitude":-3.185378,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Blackfriars Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":320295003,
-    "wof:lastmodified":1449012786,
+    "wof:lastmodified":1466276907,
     "wof:name":"Edinburgh Tenants Federation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.185378,55.949215,-3.185378,55.949215],
+  "bbox": [
+    -3.185378,
+    55.949215,
+    -3.185378,
+    55.949215
+],
   "geometry": {"coordinates":[-3.185378,55.949215],"type":"Point"}
 }

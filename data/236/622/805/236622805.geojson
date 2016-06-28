@@ -2,13 +2,14 @@
   "id": 236622805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.207111,55.824299,-4.207111,55.824299",
     "geom:latitude":55.824299,
     "geom:longitude":-4.207111,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Dryburgh Avenue, Rutherglen",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236622805,
-    "wof:lastmodified":1449004529,
+    "wof:lastmodified":1466268236,
     "wof:name":"Access Investigations",
     "wof:parent_id":85792523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-4.207111,55.824299,-4.207111,55.824299],
+  "bbox": [
+    -4.207111,
+    55.824299,
+    -4.207111,
+    55.824299
+],
   "geometry": {"coordinates":[-4.207111,55.824299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135340447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.131554,52.639328,-1.131554,52.639328",
     "geom:latitude":52.639328,
     "geom:longitude":-1.131554,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Abbey Street",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135340447,
-    "wof:lastmodified":1449023340,
+    "wof:lastmodified":1466256120,
     "wof:name":"Leicester Hearing Aid Centre",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.131554,52.639328,-1.131554,52.639328],
+  "bbox": [
+    -1.131554,
+    52.639328,
+    -1.131554,
+    52.639328
+],
   "geometry": {"coordinates":[-1.131554,52.639328],"type":"Point"}
 }

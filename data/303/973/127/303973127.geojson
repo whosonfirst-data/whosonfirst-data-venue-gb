@@ -2,13 +2,14 @@
   "id": 303973127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.083635,52.513363,-2.083635,52.513363",
     "geom:latitude":52.513363,
     "geom:longitude":-2.083635,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Ednam Road",
     "sg:city":"Dudley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303973127,
-    "wof:lastmodified":1448999588,
+    "wof:lastmodified":1466285085,
     "wof:name":"Cancer Support",
     "wof:parent_id":85789279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-2.083635,52.513363,-2.083635,52.513363],
+  "bbox": [
+    -2.083635,
+    52.513363,
+    -2.083635,
+    52.513363
+],
   "geometry": {"coordinates":[-2.083635,52.513363],"type":"Point"}
 }

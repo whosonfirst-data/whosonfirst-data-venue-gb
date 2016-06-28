@@ -2,13 +2,14 @@
   "id": 303914713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.015399,53.791164,-3.015399,53.791164",
     "geom:latitude":53.791164,
     "geom:longitude":-3.015399,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Midgeland Rd",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303914713,
-    "wof:lastmodified":1448999052,
+    "wof:lastmodified":1466284552,
     "wof:name":"A & B Car Parts",
     "wof:parent_id":85866811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dismantlers"
     ]
 },
-  "bbox": [-3.015399,53.791164,-3.015399,53.791164],
+  "bbox": [
+    -3.015399,
+    53.791164,
+    -3.015399,
+    53.791164
+],
   "geometry": {"coordinates":[-3.015399,53.791164],"type":"Point"}
 }

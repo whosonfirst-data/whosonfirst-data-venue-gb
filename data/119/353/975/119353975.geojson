@@ -2,13 +2,14 @@
   "id": 119353975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.781003,53.783203,-1.781003,53.783203",
     "geom:latitude":53.783203,
     "geom:longitude":-1.781003,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Great Horton Road, Great Horton",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119353975,
-    "wof:lastmodified":1449041539,
+    "wof:lastmodified":1466283147,
     "wof:name":"The Lighthouse Outreach",
     "wof:parent_id":85788775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.781003,53.783203,-1.781003,53.783203],
+  "bbox": [
+    -1.781003,
+    53.783203,
+    -1.781003,
+    53.783203
+],
   "geometry": {"coordinates":[-1.781003,53.783203],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203188493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.31433,55.938591,-3.31433,55.938591",
     "geom:latitude":55.938591,
     "geom:longitude":-3.31433,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 10 The Gyle Shopping Centre, South Gyle Bdwy",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203188493,
-    "wof:lastmodified":1449025868,
+    "wof:lastmodified":1466255803,
     "wof:name":"Boots the Chemists Ltd.",
     "wof:parent_id":85861497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "chemist"
     ]
 },
-  "bbox": [-3.31433,55.938591,-3.31433,55.938591],
+  "bbox": [
+    -3.31433,
+    55.938591,
+    -3.31433,
+    55.938591
+],
   "geometry": {"coordinates":[-3.31433,55.938591],"type":"Point"}
 }

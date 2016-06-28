@@ -2,13 +2,14 @@
   "id": 203161739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.4399,54.97382,-1.4399,54.97382",
     "geom:latitude":54.97382,
     "geom:longitude":-1.4399,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dental Surgery",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":203161739,
-    "wof:lastmodified":1449025661,
+    "wof:lastmodified":1466255321,
     "wof:name":"White & Richardson",
     "wof:parent_id":85873783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.4399,54.97382,-1.4399,54.97382],
+  "bbox": [
+    -1.4399,
+    54.97382,
+    -1.4399,
+    54.97382
+],
   "geometry": {"coordinates":[-1.4399,54.97382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336868139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.60916,54.9799,-1.60916,54.9799",
     "geom:latitude":54.9799,
     "geom:longitude":-1.60916,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"University Of Northumbria, Library Building, Sandyford Rd",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":336868139,
-    "wof:lastmodified":1448996956,
+    "wof:lastmodified":1466279822,
     "wof:name":"University Gallery",
     "wof:parent_id":85861867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.60916,54.9799,-1.60916,54.9799],
+  "bbox": [
+    -1.60916,
+    54.9799,
+    -1.60916,
+    54.9799
+],
   "geometry": {"coordinates":[-1.60916,54.9799],"type":"Point"}
 }

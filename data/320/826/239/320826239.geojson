@@ -2,13 +2,14 @@
   "id": 320826239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.063428,51.877285,-2.063428,51.877285",
     "geom:latitude":51.877285,
     "geom:longitude":-2.063428,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Sandy Lane, Charlton Kings",
     "sg:city":"Cheltenham",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320826239,
-    "wof:lastmodified":1449013967,
+    "wof:lastmodified":1466285034,
     "wof:name":"Holland Commercial",
     "wof:parent_id":85785541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "valuer"
     ]
 },
-  "bbox": [-2.063428,51.877285,-2.063428,51.877285],
+  "bbox": [
+    -2.063428,
+    51.877285,
+    -2.063428,
+    51.877285
+],
   "geometry": {"coordinates":[-2.063428,51.877285],"type":"Point"}
 }

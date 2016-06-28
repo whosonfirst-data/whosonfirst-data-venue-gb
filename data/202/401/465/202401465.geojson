@@ -2,13 +2,14 @@
   "id": 202401465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.085239,50.16193,-5.085239,50.16193",
     "geom:latitude":50.16193,
     "geom:longitude":-5.085239,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"89 North Parade",
     "sg:city":"Falmouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202401465,
-    "wof:lastmodified":1449062284,
+    "wof:lastmodified":1466252633,
     "wof:name":"M C D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "garage"
     ]
 },
-  "bbox": [-5.085239,50.16193,-5.085239,50.16193],
+  "bbox": [
+    -5.085239,
+    50.16193,
+    -5.085239,
+    50.16193
+],
   "geometry": {"coordinates":[-5.085239,50.16193],"type":"Point"}
 }

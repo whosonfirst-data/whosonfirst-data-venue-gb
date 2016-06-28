@@ -2,13 +2,14 @@
   "id": 119033611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.446543,55.043106,-1.446543,55.043106",
     "geom:latitude":55.043106,
     "geom:longitude":-1.446543,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Park Avenue",
     "sg:city":"Whitley Bay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119033611,
-    "wof:lastmodified":1449041362,
+    "wof:lastmodified":1466277498,
     "wof:name":"F E Maughan Ltd",
     "wof:parent_id":101751655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.446543,55.043106,-1.446543,55.043106],
+  "bbox": [
+    -1.446543,
+    55.043106,
+    -1.446543,
+    55.043106
+],
   "geometry": {"coordinates":[-1.446543,55.043106],"type":"Point"}
 }

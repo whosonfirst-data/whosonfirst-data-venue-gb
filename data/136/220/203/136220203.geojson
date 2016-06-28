@@ -2,13 +2,14 @@
   "id": 136220203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.083424,55.77095,-4.083424,55.77095",
     "geom:latitude":55.77095,
     "geom:longitude":-4.083424,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Melfort Road",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136220203,
-    "wof:lastmodified":1449076219,
+    "wof:lastmodified":1466261981,
     "wof:name":"Townhill Primary School",
     "wof:parent_id":101750627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.083424,55.77095,-4.083424,55.77095],
+  "bbox": [
+    -4.083424,
+    55.77095,
+    -4.083424,
+    55.77095
+],
   "geometry": {"coordinates":[-4.083424,55.77095],"type":"Point"}
 }

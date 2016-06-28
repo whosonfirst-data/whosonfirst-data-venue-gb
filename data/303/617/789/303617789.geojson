@@ -2,13 +2,14 @@
   "id": 303617789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.484709,53.821156,-1.484709,53.821156",
     "geom:latitude":53.821156,
     "geom:longitude":-1.484709,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Grange Park Place",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303617789,
-    "wof:lastmodified":1448998201,
+    "wof:lastmodified":1466280209,
     "wof:name":"Falcon Travel",
     "wof:parent_id":85792871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "activity"
     ]
 },
-  "bbox": [-1.484709,53.821156,-1.484709,53.821156],
+  "bbox": [
+    -1.484709,
+    53.821156,
+    -1.484709,
+    53.821156
+],
   "geometry": {"coordinates":[-1.484709,53.821156],"type":"Point"}
 }

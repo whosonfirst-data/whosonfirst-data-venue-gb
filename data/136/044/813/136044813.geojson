@@ -2,13 +2,14 @@
   "id": 136044813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.390612,55.800426,-4.390612,55.800426",
     "geom:latitude":55.800426,
     "geom:longitude":-4.390612,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Main Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":136044813,
-    "wof:lastmodified":1449075605,
+    "wof:lastmodified":1466277824,
     "wof:name":"Main Store",
     "wof:parent_id":85789427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.390612,55.800426,-4.390612,55.800426],
+  "bbox": [
+    -4.390612,
+    55.800426,
+    -4.390612,
+    55.800426
+],
   "geometry": {"coordinates":[-4.390612,55.800426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135319413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.77283,50.919338,-1.77283,50.919338",
     "geom:latitude":50.919338,
     "geom:longitude":-1.77283,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Brooklands Farm, Stuckton",
     "sg:city":"Fordingbridge",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135319413,
-    "wof:lastmodified":1449022230,
+    "wof:lastmodified":1466253558,
     "wof:name":"Brooklands Farm",
     "wof:parent_id":85684375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.77283,50.919338,-1.77283,50.919338],
+  "bbox": [
+    -1.77283,
+    50.919338,
+    -1.77283,
+    50.919338
+],
   "geometry": {"coordinates":[-1.77283,50.919338],"type":"Point"}
 }

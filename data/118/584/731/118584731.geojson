@@ -2,13 +2,14 @@
   "id": 118584731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.240249,53.49255,-2.240249,53.49255",
     "geom:latitude":53.49255,
     "geom:longitude":-2.240249,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Cheetham Hill Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118584731,
-    "wof:lastmodified":1449053297,
+    "wof:lastmodified":1466256567,
     "wof:name":"Barntex Ltd",
     "wof:parent_id":85793059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.240249,53.49255,-2.240249,53.49255],
+  "bbox": [
+    -2.240249,
+    53.49255,
+    -2.240249,
+    53.49255
+],
   "geometry": {"coordinates":[-2.240249,53.49255],"type":"Point"}
 }

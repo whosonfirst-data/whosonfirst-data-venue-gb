@@ -2,13 +2,14 @@
   "id": 236370005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.949875,51.709881,-4.949875,51.709881",
     "geom:latitude":51.709881,
     "geom:longitude":-4.949875,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Honeyborough Roundabout, Neyland",
     "sg:city":"Milford Haven",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236370005,
-    "wof:lastmodified":1449003462,
+    "wof:lastmodified":1466263528,
     "wof:name":"Roundabout Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-4.949875,51.709881,-4.949875,51.709881],
+  "bbox": [
+    -4.949875,
+    51.709881,
+    -4.949875,
+    51.709881
+],
   "geometry": {"coordinates":[-4.949875,51.709881],"type":"Point"}
 }

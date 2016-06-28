@@ -2,13 +2,14 @@
   "id": 185900011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.322354,55.778049,-4.322354,55.778049",
     "geom:latitude":55.778049,
     "geom:longitude":-4.322354,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Ayr Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185900011,
-    "wof:lastmodified":1449007304,
+    "wof:lastmodified":1466255925,
     "wof:name":"Alicia's Dress Hire",
     "wof:parent_id":85792515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dresswear"
     ]
 },
-  "bbox": [-4.322354,55.778049,-4.322354,55.778049],
+  "bbox": [
+    -4.322354,
+    55.778049,
+    -4.322354,
+    55.778049
+],
   "geometry": {"coordinates":[-4.322354,55.778049],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135689665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.635117,55.013092,-1.635117,55.013092",
     "geom:latitude":55.013092,
     "geom:longitude":-1.635117,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Wansbeck Road South",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135689665,
-    "wof:lastmodified":1449023507,
+    "wof:lastmodified":1466285820,
     "wof:name":"Adams",
     "wof:parent_id":85786825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.635117,55.013092,-1.635117,55.013092],
+  "bbox": [
+    -1.635117,
+    55.013092,
+    -1.635117,
+    55.013092
+],
   "geometry": {"coordinates":[-1.635117,55.013092],"type":"Point"}
 }

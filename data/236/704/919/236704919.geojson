@@ -2,13 +2,14 @@
   "id": 236704919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.194289,51.571457,-0.194289,51.571457",
     "geom:latitude":51.571457,
     "geom:longitude":-0.194289,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 North End Rd, Golders Green",
     "sg:city":"Golders Green",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236704919,
-    "wof:lastmodified":1449002326,
+    "wof:lastmodified":1466269787,
     "wof:name":"London Auction List",
     "wof:parent_id":85787621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-0.194289,51.571457,-0.194289,51.571457],
+  "bbox": [
+    -0.194289,
+    51.571457,
+    -0.194289,
+    51.571457
+],
   "geometry": {"coordinates":[-0.194289,51.571457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186342947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.671503,53.812531,-1.671503,53.812531",
     "geom:latitude":53.812531,
     "geom:longitude":-1.671503,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35-37 Town Street, Farsley",
     "sg:city":"Pudsey",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186342947,
-    "wof:lastmodified":1449052842,
+    "wof:lastmodified":1466256715,
     "wof:name":"Huttons",
     "wof:parent_id":85860943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.671503,53.812531,-1.671503,53.812531],
+  "bbox": [
+    -1.671503,
+    53.812531,
+    -1.671503,
+    53.812531
+],
   "geometry": {"coordinates":[-1.671503,53.812531],"type":"Point"}
 }

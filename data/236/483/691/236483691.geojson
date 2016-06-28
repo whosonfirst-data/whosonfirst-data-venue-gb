@@ -2,13 +2,14 @@
   "id": 236483691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.470603,52.935879,-1.470603,52.935879",
     "geom:latitude":52.935879,
     "geom:longitude":-1.470603,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Alfreton Rd",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236483691,
-    "wof:lastmodified":1449004398,
+    "wof:lastmodified":1466265546,
     "wof:name":"Eaton Private Hire",
     "wof:parent_id":85786967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-1.470603,52.935879,-1.470603,52.935879],
+  "bbox": [
+    -1.470603,
+    52.935879,
+    -1.470603,
+    52.935879
+],
   "geometry": {"coordinates":[-1.470603,52.935879],"type":"Point"}
 }

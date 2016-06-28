@@ -2,13 +2,14 @@
   "id": 286615495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.091577,50.34914,-4.091577,50.34914",
     "geom:latitude":50.34914,
     "geom:longitude":-4.091577,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Southgate Avenue, Plymstock",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286615495,
-    "wof:lastmodified":1449016109,
+    "wof:lastmodified":1466273180,
     "wof:name":"John S Rowe",
     "wof:parent_id":85789871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-4.091577,50.34914,-4.091577,50.34914],
+  "bbox": [
+    -4.091577,
+    50.34914,
+    -4.091577,
+    50.34914
+],
   "geometry": {"coordinates":[-4.091577,50.34914],"type":"Point"}
 }

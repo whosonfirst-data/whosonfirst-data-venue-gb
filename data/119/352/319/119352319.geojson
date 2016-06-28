@@ -2,13 +2,14 @@
   "id": 119352319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.445702,53.753445,-1.445702,53.753445",
     "geom:latitude":53.753445,
     "geom:longitude":-1.445702,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Aberford Road, Woodlesford",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119352319,
-    "wof:lastmodified":1449042489,
+    "wof:lastmodified":1466282891,
     "wof:name":"The Willows Nursing Home",
     "wof:parent_id":85684321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.445702,53.753445,-1.445702,53.753445],
+  "bbox": [
+    -1.445702,
+    53.753445,
+    -1.445702,
+    53.753445
+],
   "geometry": {"coordinates":[-1.445702,53.753445],"type":"Point"}
 }

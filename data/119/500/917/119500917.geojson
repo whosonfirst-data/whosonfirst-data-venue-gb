@@ -2,13 +2,14 @@
   "id": 119500917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.64372,54.974289,-1.64372,54.974289",
     "geom:latitude":54.974289,
     "geom:longitude":-1.64372,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Newcastle General Hospital, Weston Ct, Westgate Rd",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119500917,
-    "wof:lastmodified":1449041465,
+    "wof:lastmodified":1466287080,
     "wof:name":"Newcastle Occupational Health",
     "wof:parent_id":85785351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.64372,54.974289,-1.64372,54.974289],
+  "bbox": [
+    -1.64372,
+    54.974289,
+    -1.64372,
+    54.974289
+],
   "geometry": {"coordinates":[-1.64372,54.974289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303811781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.941581,53.676132,-1.941581,53.676132",
     "geom:latitude":53.676132,
     "geom:longitude":-1.941581,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Upper Brig Royd",
     "sg:city":"Sowerby Bridge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303811781,
-    "wof:lastmodified":1448999295,
+    "wof:lastmodified":1466283283,
     "wof:name":"Upper Brig Royd Sheltered Housing",
     "wof:parent_id":85790489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-1.941581,53.676132,-1.941581,53.676132],
+  "bbox": [
+    -1.941581,
+    53.676132,
+    -1.941581,
+    53.676132
+],
   "geometry": {"coordinates":[-1.941581,53.676132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203231795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.503799,53.443924,-1.503799,53.443924",
     "geom:latitude":53.443924,
     "geom:longitude":-1.503799,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Street, Grenoside",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203231795,
-    "wof:lastmodified":1449025901,
+    "wof:lastmodified":1466256582,
     "wof:name":"St.Marks Church Hall",
     "wof:parent_id":85787791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.503799,53.443924,-1.503799,53.443924],
+  "bbox": [
+    -1.503799,
+    53.443924,
+    -1.503799,
+    53.443924
+],
   "geometry": {"coordinates":[-1.503799,53.443924],"type":"Point"}
 }

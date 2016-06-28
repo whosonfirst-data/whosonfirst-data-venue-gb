@@ -2,13 +2,14 @@
   "id": 102736583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.808533,55.940723,-4.808533,55.940723",
     "geom:latitude":55.940723,
     "geom:longitude":-4.808533,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Cumberland Road",
     "sg:city":"Greenock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102736583,
-    "wof:lastmodified":1449070191,
+    "wof:lastmodified":1466257858,
     "wof:name":"Peter's Bakery",
     "wof:parent_id":85860919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.808533,55.940723,-4.808533,55.940723],
+  "bbox": [
+    -4.808533,
+    55.940723,
+    -4.808533,
+    55.940723
+],
   "geometry": {"coordinates":[-4.808533,55.940723],"type":"Point"}
 }

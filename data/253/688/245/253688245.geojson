@@ -2,13 +2,14 @@
   "id": 253688245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.0997,51.505581,-0.0997,51.505581",
     "geom:latitude":51.505581,
     "geom:longitude":-0.0997,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Isis Ho, 67-69 Southwark St",
     "sg:city":"Southwark",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253688245,
-    "wof:lastmodified":1449063942,
+    "wof:lastmodified":1466273854,
     "wof:name":"TPM (London) Ltd",
     "wof:parent_id":85861631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-0.0997,51.505581,-0.0997,51.505581],
+  "bbox": [
+    -0.0997,
+    51.505581,
+    -0.0997,
+    51.505581
+],
   "geometry": {"coordinates":[-0.0997,51.505581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135919999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.480608,50.214352,-5.480608,50.214352",
     "geom:latitude":50.214352,
     "geom:longitude":-5.480608,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48a Fore Street",
     "sg:city":"St Ives",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135919999,
-    "wof:lastmodified":1449023292,
+    "wof:lastmodified":1466288303,
     "wof:name":"Hudson Framers",
     "wof:parent_id":101852393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.480608,50.214352,-5.480608,50.214352],
+  "bbox": [
+    -5.480608,
+    50.214352,
+    -5.480608,
+    50.214352
+],
   "geometry": {"coordinates":[-5.480608,50.214352],"type":"Point"}
 }

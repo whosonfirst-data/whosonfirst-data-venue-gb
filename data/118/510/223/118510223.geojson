@@ -2,13 +2,14 @@
   "id": 118510223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.802795,52.574486,-1.802795,52.574486",
     "geom:latitude":52.574486,
     "geom:longitude":-1.802795,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Ludford Close",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118510223,
-    "wof:lastmodified":1449054010,
+    "wof:lastmodified":1466275198,
     "wof:name":"Letter Box",
     "wof:parent_id":85792015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.802795,52.574486,-1.802795,52.574486],
+  "bbox": [
+    -1.802795,
+    52.574486,
+    -1.802795,
+    52.574486
+],
   "geometry": {"coordinates":[-1.802795,52.574486],"type":"Point"}
 }

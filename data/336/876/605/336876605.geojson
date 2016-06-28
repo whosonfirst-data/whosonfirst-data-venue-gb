@@ -2,13 +2,14 @@
   "id": 336876605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.543924,53.799305,-1.543924,53.799305",
     "geom:latitude":53.799305,
     "geom:longitude":-1.543924,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Holt Park Shopping Centre",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336876605,
-    "wof:lastmodified":1448997166,
+    "wof:lastmodified":1466279818,
     "wof:name":"Fullers",
     "wof:parent_id":85792911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-1.543924,53.799305,-1.543924,53.799305],
+  "bbox": [
+    -1.543924,
+    53.799305,
+    -1.543924,
+    53.799305
+],
   "geometry": {"coordinates":[-1.543924,53.799305],"type":"Point"}
 }

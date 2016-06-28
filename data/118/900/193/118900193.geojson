@@ -2,13 +2,14 @@
   "id": 118900193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.715108,53.527294,-2.715108,53.527294",
     "geom:latitude":53.527294,
     "geom:longitude":-2.715108,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"156 St James Road, Orrell",
     "sg:city":"Wigan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118900193,
-    "wof:lastmodified":1449053739,
+    "wof:lastmodified":1466279403,
     "wof:name":"Gaskells",
     "wof:parent_id":85789781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.715108,53.527294,-2.715108,53.527294],
+  "bbox": [
+    -2.715108,
+    53.527294,
+    -2.715108,
+    53.527294
+],
   "geometry": {"coordinates":[-2.715108,53.527294],"type":"Point"}
 }

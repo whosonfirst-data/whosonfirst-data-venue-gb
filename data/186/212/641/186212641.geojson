@@ -2,13 +2,14 @@
   "id": 186212641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.439008,55.032562,-1.439008,55.032562",
     "geom:latitude":55.032562,
     "geom:longitude":-1.439008,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Seacombe Avenue",
     "sg:city":"North Shields",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186212641,
-    "wof:lastmodified":1449052112,
+    "wof:lastmodified":1466254907,
     "wof:name":"A Smeaton",
     "wof:parent_id":85792733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contracting"
     ]
 },
-  "bbox": [-1.439008,55.032562,-1.439008,55.032562],
+  "bbox": [
+    -1.439008,
+    55.032562,
+    -1.439008,
+    55.032562
+],
   "geometry": {"coordinates":[-1.439008,55.032562],"type":"Point"}
 }

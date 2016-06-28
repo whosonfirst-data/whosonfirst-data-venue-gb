@@ -2,13 +2,14 @@
   "id": 102573165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.96547,50.740891,-1.96547,50.740891",
     "geom:latitude":50.740891,
     "geom:longitude":-1.96547,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Surgery, 9 Mitchell Road",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102573165,
-    "wof:lastmodified":1449069582,
+    "wof:lastmodified":1466263412,
     "wof:name":"Mitchell Road Surgery",
     "wof:parent_id":85789537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.96547,50.740891,-1.96547,50.740891],
+  "bbox": [
+    -1.96547,
+    50.740891,
+    -1.96547,
+    50.740891
+],
   "geometry": {"coordinates":[-1.96547,50.740891],"type":"Point"}
 }

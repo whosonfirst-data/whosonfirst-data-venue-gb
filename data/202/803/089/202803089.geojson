@@ -2,13 +2,14 @@
   "id": 202803089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.763398,53.19791,-2.763398,53.19791",
     "geom:latitude":53.19791,
     "geom:longitude":-2.763398,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Manchester House, 73 High Street",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":202803089,
-    "wof:lastmodified":1449062683,
+    "wof:lastmodified":1466259133,
     "wof:name":"John Beeston & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-2.763398,53.19791,-2.763398,53.19791],
+  "bbox": [
+    -2.763398,
+    53.19791,
+    -2.763398,
+    53.19791
+],
   "geometry": {"coordinates":[-2.763398,53.19791],"type":"Point"}
 }

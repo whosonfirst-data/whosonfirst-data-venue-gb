@@ -2,13 +2,14 @@
   "id": 135520301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.101083,51.526176,-0.101083,51.526176",
     "geom:latitude":51.526176,
     "geom:longitude":-0.101083,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Percival Street",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135520301,
-    "wof:lastmodified":1449021999,
+    "wof:lastmodified":1466276881,
     "wof:name":"Shakespeare's Head",
     "wof:parent_id":85787431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.101083,51.526176,-0.101083,51.526176],
+  "bbox": [
+    -0.101083,
+    51.526176,
+    -0.101083,
+    51.526176
+],
   "geometry": {"coordinates":[-0.101083,51.526176],"type":"Point"}
 }

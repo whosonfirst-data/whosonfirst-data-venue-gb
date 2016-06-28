@@ -2,13 +2,14 @@
   "id": 135413363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.922547,52.468594,-1.922547,52.468594",
     "geom:latitude":52.468594,
     "geom:longitude":-1.922547,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Highfield Road, Edgbaston",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135413363,
-    "wof:lastmodified":1449021463,
+    "wof:lastmodified":1466264249,
     "wof:name":"Chimewall Ltd.",
     "wof:parent_id":85787237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.922547,52.468594,-1.922547,52.468594],
+  "bbox": [
+    -1.922547,
+    52.468594,
+    -1.922547,
+    52.468594
+],
   "geometry": {"coordinates":[-1.922547,52.468594],"type":"Point"}
 }

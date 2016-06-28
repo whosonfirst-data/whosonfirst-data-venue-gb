@@ -2,13 +2,14 @@
   "id": 320102047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.301054,55.972412,-3.301054,55.972412",
     "geom:latitude":55.972412,
     "geom:longitude":-3.301054,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Cramond Glebe Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320102047,
-    "wof:lastmodified":1449014681,
+    "wof:lastmodified":1466271187,
     "wof:name":"The Cramond Inn",
     "wof:parent_id":85786851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.301054,55.972412,-3.301054,55.972412],
+  "bbox": [
+    -3.301054,
+    55.972412,
+    -3.301054,
+    55.972412
+],
   "geometry": {"coordinates":[-3.301054,55.972412],"type":"Point"}
 }

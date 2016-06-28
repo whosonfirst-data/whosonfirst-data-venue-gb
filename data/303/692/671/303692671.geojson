@@ -2,13 +2,14 @@
   "id": 303692671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.297584,51.546177,-0.297584,51.546177",
     "geom:latitude":51.546177,
     "geom:longitude":-0.297584,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Ealing Road",
     "sg:city":"Wembley",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303692671,
-    "wof:lastmodified":1448998760,
+    "wof:lastmodified":1466281492,
     "wof:name":"Ealing Newsagent",
     "wof:parent_id":85860241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-0.297584,51.546177,-0.297584,51.546177],
+  "bbox": [
+    -0.297584,
+    51.546177,
+    -0.297584,
+    51.546177
+],
   "geometry": {"coordinates":[-0.297584,51.546177],"type":"Point"}
 }

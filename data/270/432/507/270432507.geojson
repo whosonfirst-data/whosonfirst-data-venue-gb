@@ -2,13 +2,14 @@
   "id": 270432507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.21715,55.897953,-4.21715,55.897953",
     "geom:latitude":55.897953,
     "geom:longitude":-4.21715,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Auchinairn Road, Bishopbriggs",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270432507,
-    "wof:lastmodified":1449008624,
+    "wof:lastmodified":1466273359,
     "wof:name":"Ten O'Clock Shops",
     "wof:parent_id":85793309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-4.21715,55.897953,-4.21715,55.897953],
+  "bbox": [
+    -4.21715,
+    55.897953,
+    -4.21715,
+    55.897953
+],
   "geometry": {"coordinates":[-4.21715,55.897953],"type":"Point"}
 }

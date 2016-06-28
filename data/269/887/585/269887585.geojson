@@ -2,13 +2,14 @@
   "id": 269887585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.406314,50.913315,-1.406314,50.913315",
     "geom:latitude":50.913315,
     "geom:longitude":-1.406314,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43-44 Bedford Pl",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":269887585,
-    "wof:lastmodified":1449038351,
+    "wof:lastmodified":1466272364,
     "wof:name":"Rowan Clinic",
     "wof:parent_id":85792821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "therapy"
     ]
 },
-  "bbox": [-1.406314,50.913315,-1.406314,50.913315],
+  "bbox": [
+    -1.406314,
+    50.913315,
+    -1.406314,
+    50.913315
+],
   "geometry": {"coordinates":[-1.406314,50.913315],"type":"Point"}
 }

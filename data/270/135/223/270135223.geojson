@@ -2,13 +2,14 @@
   "id": 270135223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.095636,51.517326,-0.095636,51.517326",
     "geom:latitude":51.517326,
     "geom:longitude":-0.095636,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Twelfth Floor Moor House, 119 London Wall",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270135223,
-    "wof:lastmodified":1449009575,
+    "wof:lastmodified":1466264528,
     "wof:name":"John Clark",
     "wof:parent_id":85861729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "business"
     ]
 },
-  "bbox": [-0.095636,51.517326,-0.095636,51.517326],
+  "bbox": [
+    -0.095636,
+    51.517326,
+    -0.095636,
+    51.517326
+],
   "geometry": {"coordinates":[-0.095636,51.517326],"type":"Point"}
 }

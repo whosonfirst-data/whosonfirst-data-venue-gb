@@ -2,13 +2,14 @@
   "id": 303216553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.235989,52.197052,-2.235989,52.197052",
     "geom:latitude":52.197052,
     "geom:longitude":-2.235989,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hylton Road",
     "sg:city":"Worcester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303216553,
-    "wof:lastmodified":1449000287,
+    "wof:lastmodified":1466269344,
     "wof:name":"Westside Snooker Centre",
     "wof:parent_id":85861063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pool"
     ]
 },
-  "bbox": [-2.235989,52.197052,-2.235989,52.197052],
+  "bbox": [
+    -2.235989,
+    52.197052,
+    -2.235989,
+    52.197052
+],
   "geometry": {"coordinates":[-2.235989,52.197052],"type":"Point"}
 }

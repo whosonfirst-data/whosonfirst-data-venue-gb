@@ -2,13 +2,14 @@
   "id": 320675185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.19531,51.666065,-3.19531,51.666065",
     "geom:latitude":51.666065,
     "geom:longitude":-3.19531,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"124 High St",
     "sg:city":"Blackwood",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320675185,
-    "wof:lastmodified":1449013151,
+    "wof:lastmodified":1466283708,
     "wof:name":"Country Orchard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-3.19531,51.666065,-3.19531,51.666065],
+  "bbox": [
+    -3.19531,
+    51.666065,
+    -3.19531,
+    51.666065
+],
   "geometry": {"coordinates":[-3.19531,51.666065],"type":"Point"}
 }

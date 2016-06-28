@@ -2,13 +2,14 @@
   "id": 118523163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.806253,55.657551,-4.806253,55.657551",
     "geom:latitude":55.657551,
     "geom:longitude":-4.806253,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Chapel Hill Mount",
     "sg:city":"Ardrossan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118523163,
-    "wof:lastmodified":1449053960,
+    "wof:lastmodified":1466276880,
     "wof:name":"C M L",
     "wof:parent_id":101872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.806253,55.657551,-4.806253,55.657551],
+  "bbox": [
+    -4.806253,
+    55.657551,
+    -4.806253,
+    55.657551
+],
   "geometry": {"coordinates":[-4.806253,55.657551],"type":"Point"}
 }

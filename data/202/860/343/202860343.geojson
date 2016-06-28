@@ -2,13 +2,14 @@
   "id": 202860343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.11761,50.418743,-4.11761,50.418743",
     "geom:latitude":50.418743,
     "geom:longitude":-4.11761,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Nuffield Hospital, Derriford Road",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202860343,
-    "wof:lastmodified":1449061252,
+    "wof:lastmodified":1466260084,
     "wof:name":"J Brodribb",
     "wof:parent_id":85787257,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [-4.11761,50.418743,-4.11761,50.418743],
+  "bbox": [
+    -4.11761,
+    50.418743,
+    -4.11761,
+    50.418743
+],
   "geometry": {"coordinates":[-4.11761,50.418743],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303213719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.918627,53.250553,-1.918627,53.250553",
     "geom:latitude":53.250553,
     "geom:longitude":-1.918627,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 College Road",
     "sg:city":"Buxton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303213719,
-    "wof:lastmodified":1448998146,
+    "wof:lastmodified":1466269247,
     "wof:name":"Buxton Wheelhouse Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.918627,53.250553,-1.918627,53.250553],
+  "bbox": [
+    -1.918627,
+    53.250553,
+    -1.918627,
+    53.250553
+],
   "geometry": {"coordinates":[-1.918627,53.250553],"type":"Point"}
 }

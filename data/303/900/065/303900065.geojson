@@ -2,13 +2,14 @@
   "id": 303900065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.537792,50.725559,-3.537792,50.725559",
     "geom:latitude":50.725559,
     "geom:longitude":-3.537792,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 St. Davids Hill",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303900065,
-    "wof:lastmodified":1448999174,
+    "wof:lastmodified":1466284345,
     "wof:name":"North Bridge Inn",
     "wof:parent_id":85787317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.537792,50.725559,-3.537792,50.725559],
+  "bbox": [
+    -3.537792,
+    50.725559,
+    -3.537792,
+    50.725559
+],
   "geometry": {"coordinates":[-3.537792,50.725559],"type":"Point"}
 }

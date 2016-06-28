@@ -2,13 +2,14 @@
   "id": 135339123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.22819,52.949432,-1.22819,52.949432",
     "geom:latitude":52.949432,
     "geom:longitude":-1.22819,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Bramcote Drive",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135339123,
-    "wof:lastmodified":1449022358,
+    "wof:lastmodified":1466255966,
     "wof:name":"Paul Wren Associates",
     "wof:parent_id":85791737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.22819,52.949432,-1.22819,52.949432],
+  "bbox": [
+    -1.22819,
+    52.949432,
+    -1.22819,
+    52.949432
+],
   "geometry": {"coordinates":[-1.22819,52.949432],"type":"Point"}
 }

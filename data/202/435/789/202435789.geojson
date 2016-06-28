@@ -2,13 +2,14 @@
   "id": 202435789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.83193,53.738312,-1.83193,53.738312",
     "geom:latitude":53.738312,
     "geom:longitude":-1.83193,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Mutton Fold",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202435789,
-    "wof:lastmodified":1449062417,
+    "wof:lastmodified":1466253149,
     "wof:name":"The Shoulder of Mutton",
     "wof:parent_id":85790815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.83193,53.738312,-1.83193,53.738312],
+  "bbox": [
+    -1.83193,
+    53.738312,
+    -1.83193,
+    53.738312
+],
   "geometry": {"coordinates":[-1.83193,53.738312],"type":"Point"}
 }

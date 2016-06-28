@@ -2,13 +2,14 @@
   "id": 118806695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.159,50.655151,-1.159,50.655151",
     "geom:latitude":50.655151,
     "geom:longitude":-1.159,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Broadway",
     "sg:city":"Sandown",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118806695,
-    "wof:lastmodified":1449053143,
+    "wof:lastmodified":1466273304,
     "wof:name":"Priory School",
     "wof:parent_id":85684291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.159,50.655151,-1.159,50.655151],
+  "bbox": [
+    -1.159,
+    50.655151,
+    -1.159,
+    50.655151
+],
   "geometry": {"coordinates":[-1.159,50.655151],"type":"Point"}
 }

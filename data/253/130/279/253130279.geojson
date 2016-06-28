@@ -2,13 +2,14 @@
   "id": 253130279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.676552,50.591736,-3.676552,50.591736",
     "geom:latitude":50.591736,
     "geom:longitude":-3.676552,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Station Road, Bovey Tracey",
     "sg:city":"Newton Abbot",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253130279,
-    "wof:lastmodified":1449063844,
+    "wof:lastmodified":1466259906,
     "wof:name":"Bovey Handloom Weavers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fabric"
     ]
 },
-  "bbox": [-3.676552,50.591736,-3.676552,50.591736],
+  "bbox": [
+    -3.676552,
+    50.591736,
+    -3.676552,
+    50.591736
+],
   "geometry": {"coordinates":[-3.676552,50.591736],"type":"Point"}
 }

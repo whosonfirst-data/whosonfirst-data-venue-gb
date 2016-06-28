@@ -2,13 +2,14 @@
   "id": 119130395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.360629,53.750744,-2.360629,53.750744",
     "geom:latitude":53.750744,
     "geom:longitude":-2.360629,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Abbey Street",
     "sg:city":"Accrington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119130395,
-    "wof:lastmodified":1449041699,
+    "wof:lastmodified":1466261728,
     "wof:name":"Accrington Service Station",
     "wof:parent_id":101750585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.360629,53.750744,-2.360629,53.750744],
+  "bbox": [
+    -2.360629,
+    53.750744,
+    -2.360629,
+    53.750744
+],
   "geometry": {"coordinates":[-2.360629,53.750744],"type":"Point"}
 }

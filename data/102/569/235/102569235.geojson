@@ -2,13 +2,14 @@
   "id": 102569235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.744786,53.890923,-1.744786,53.890923",
     "geom:latitude":53.890923,
     "geom:longitude":-1.744786,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Main Street, Menston",
     "sg:city":"Ilkley",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102569235,
-    "wof:lastmodified":1449070117,
+    "wof:lastmodified":1466261948,
     "wof:name":"B Jackson",
     "wof:parent_id":85684463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.744786,53.890923,-1.744786,53.890923],
+  "bbox": [
+    -1.744786,
+    53.890923,
+    -1.744786,
+    53.890923
+],
   "geometry": {"coordinates":[-1.744786,53.890923],"type":"Point"}
 }

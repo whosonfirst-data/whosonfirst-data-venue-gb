@@ -2,13 +2,14 @@
   "id": 185860637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.24431,55.899151,-4.24431,55.899151",
     "geom:latitude":55.899151,
     "geom:longitude":-4.24431,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Egilsay St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185860637,
-    "wof:lastmodified":1449007327,
+    "wof:lastmodified":1466255405,
     "wof:name":"Geddes, P",
     "wof:parent_id":85790559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-4.24431,55.899151,-4.24431,55.899151],
+  "bbox": [
+    -4.24431,
+    55.899151,
+    -4.24431,
+    55.899151
+],
   "geometry": {"coordinates":[-4.24431,55.899151],"type":"Point"}
 }

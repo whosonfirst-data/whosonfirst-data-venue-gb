@@ -2,13 +2,14 @@
   "id": 135298285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.36003,55.768028,-6.36003,55.768028",
     "geom:latitude":55.768028,
     "geom:longitude":-6.36003,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruichladdich",
     "sg:city":"Port Ellen",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135298285,
-    "wof:lastmodified":1449021823,
+    "wof:lastmodified":1466278303,
     "wof:name":"Abbotsford",
     "wof:parent_id":85683883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.36003,55.768028,-6.36003,55.768028],
+  "bbox": [
+    -6.36003,
+    55.768028,
+    -6.36003,
+    55.768028
+],
   "geometry": {"coordinates":[-6.36003,55.768028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185731129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.544776,50.394241,-3.544776,50.394241",
     "geom:latitude":50.394241,
     "geom:longitude":-3.544776,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 The Hayes, Churston Ferrers",
     "sg:city":"Brixham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185731129,
-    "wof:lastmodified":1449008042,
+    "wof:lastmodified":1466253782,
     "wof:name":"Devon Tarmasters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "driveway"
     ]
 },
-  "bbox": [-3.544776,50.394241,-3.544776,50.394241],
+  "bbox": [
+    -3.544776,
+    50.394241,
+    -3.544776,
+    50.394241
+],
   "geometry": {"coordinates":[-3.544776,50.394241],"type":"Point"}
 }

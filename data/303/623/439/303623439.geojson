@@ -2,13 +2,14 @@
   "id": 303623439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.991211,52.975849,-1.991211,52.975849",
     "geom:latitude":52.975849,
     "geom:longitude":-1.991211,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Draycott Drive, Cheadle",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303623439,
-    "wof:lastmodified":1448999833,
+    "wof:lastmodified":1466280283,
     "wof:name":"Cheadle Private Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "private"
     ]
 },
-  "bbox": [-1.991211,52.975849,-1.991211,52.975849],
+  "bbox": [
+    -1.991211,
+    52.975849,
+    -1.991211,
+    52.975849
+],
   "geometry": {"coordinates":[-1.991211,52.975849],"type":"Point"}
 }

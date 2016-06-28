@@ -2,13 +2,14 @@
   "id": 118840967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.211304,51.838646,-2.211304,51.838646",
     "geom:latitude":51.838646,
     "geom:longitude":-2.211304,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Fennel Close, Abbeydale",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":118840967,
-    "wof:lastmodified":1449054246,
+    "wof:lastmodified":1466275787,
     "wof:name":"Community Translation Service",
     "wof:parent_id":85785191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.211304,51.838646,-2.211304,51.838646],
+  "bbox": [
+    -2.211304,
+    51.838646,
+    -2.211304,
+    51.838646
+],
   "geometry": {"coordinates":[-2.211304,51.838646],"type":"Point"}
 }

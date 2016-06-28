@@ -2,13 +2,14 @@
   "id": 303228857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.865708,52.453091,-1.865708,52.453091",
     "geom:latitude":52.453091,
     "geom:longitude":-1.865708,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Stratford Rd, Sparkhill",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303228857,
-    "wof:lastmodified":1448998881,
+    "wof:lastmodified":1466269718,
     "wof:name":"Sparkhill Neighbourhood Project",
     "wof:parent_id":85790495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-1.865708,52.453091,-1.865708,52.453091],
+  "bbox": [
+    -1.865708,
+    52.453091,
+    -1.865708,
+    52.453091
+],
   "geometry": {"coordinates":[-1.865708,52.453091],"type":"Point"}
 }

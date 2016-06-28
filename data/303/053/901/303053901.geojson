@@ -2,13 +2,14 @@
   "id": 303053901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.228475,52.678356,-2.228475,52.678356",
     "geom:latitude":52.678356,
     "geom:longitude":-2.228475,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Oakley, Kiddemore Green Road, Brawood",
     "sg:city":"Stafford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303053901,
-    "wof:lastmodified":1448998575,
+    "wof:lastmodified":1466264022,
     "wof:name":"The Oakley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.228475,52.678356,-2.228475,52.678356],
+  "bbox": [
+    -2.228475,
+    52.678356,
+    -2.228475,
+    52.678356
+],
   "geometry": {"coordinates":[-2.228475,52.678356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203116917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.433636,50.924736,-1.433636,50.924736",
     "geom:latitude":50.924736,
     "geom:longitude":-1.433636,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Victor Street",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":203116917,
-    "wof:lastmodified":1449025212,
+    "wof:lastmodified":1466254616,
     "wof:name":"Victor Street Surgery",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-1.433636,50.924736,-1.433636,50.924736],
+  "bbox": [
+    -1.433636,
+    50.924736,
+    -1.433636,
+    50.924736
+],
   "geometry": {"coordinates":[-1.433636,50.924736],"type":"Point"}
 }

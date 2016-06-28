@@ -2,13 +2,14 @@
   "id": 203012165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.051599,53.823811,-3.051599,53.823811",
     "geom:latitude":53.823811,
     "geom:longitude":-3.051599,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Cocker Street",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203012165,
-    "wof:lastmodified":1449026679,
+    "wof:lastmodified":1466252865,
     "wof:name":"Blackpool Blind Co.",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "blinds"
     ]
 },
-  "bbox": [-3.051599,53.823811,-3.051599,53.823811],
+  "bbox": [
+    -3.051599,
+    53.823811,
+    -3.051599,
+    53.823811
+],
   "geometry": {"coordinates":[-3.051599,53.823811],"type":"Point"}
 }

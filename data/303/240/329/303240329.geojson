@@ -2,13 +2,14 @@
   "id": 303240329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.644466,55.901955,-3.644466,55.901955",
     "geom:latitude":55.901955,
     "geom:longitude":-3.644466,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 North Bridge Street",
     "sg:city":"Bathgate",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303240329,
-    "wof:lastmodified":1448998375,
+    "wof:lastmodified":1466270077,
     "wof:name":"B.E.S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-3.644466,55.901955,-3.644466,55.901955],
+  "bbox": [
+    -3.644466,
+    55.901955,
+    -3.644466,
+    55.901955
+],
   "geometry": {"coordinates":[-3.644466,55.901955],"type":"Point"}
 }

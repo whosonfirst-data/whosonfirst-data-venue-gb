@@ -2,13 +2,14 @@
   "id": 270430637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.257991,51.358124,-1.257991,51.358124",
     "geom:latitude":51.358124,
     "geom:longitude":-1.257991,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Harrow Garage, Newbury Road, Headley",
     "sg:city":"Thatcham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270430637,
-    "wof:lastmodified":1449010222,
+    "wof:lastmodified":1466273304,
     "wof:name":"Knightsbridge Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [-1.257991,51.358124,-1.257991,51.358124],
+  "bbox": [
+    -1.257991,
+    51.358124,
+    -1.257991,
+    51.358124
+],
   "geometry": {"coordinates":[-1.257991,51.358124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135625251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.239454,53.798683,-2.239454,53.798683",
     "geom:latitude":53.798683,
     "geom:longitude":-2.239454,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Daneshouse Road",
     "sg:city":"Burnley",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135625251,
-    "wof:lastmodified":1449024036,
+    "wof:lastmodified":1466283732,
     "wof:name":"Burnley Borough Council",
     "wof:parent_id":101750587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.239454,53.798683,-2.239454,53.798683],
+  "bbox": [
+    -2.239454,
+    53.798683,
+    -2.239454,
+    53.798683
+],
   "geometry": {"coordinates":[-2.239454,53.798683],"type":"Point"}
 }

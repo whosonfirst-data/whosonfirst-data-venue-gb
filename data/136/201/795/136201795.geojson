@@ -2,13 +2,14 @@
   "id": 136201795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.09701,53.443359,-2.09701,53.443359",
     "geom:latitude":53.443359,
     "geom:longitude":-2.09701,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Haughton Green Road, Denton",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136201795,
-    "wof:lastmodified":1449076086,
+    "wof:lastmodified":1466260973,
     "wof:name":"Powerlitre",
     "wof:parent_id":85786995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.09701,53.443359,-2.09701,53.443359],
+  "bbox": [
+    -2.09701,
+    53.443359,
+    -2.09701,
+    53.443359
+],
   "geometry": {"coordinates":[-2.09701,53.443359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303654305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.221522,55.883015,-4.221522,55.883015",
     "geom:latitude":55.883015,
     "geom:longitude":-4.221522,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Broomknowes Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303654305,
-    "wof:lastmodified":1448998934,
+    "wof:lastmodified":1466280847,
     "wof:name":"Charles Montague",
     "wof:parent_id":85790559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-4.221522,55.883015,-4.221522,55.883015],
+  "bbox": [
+    -4.221522,
+    55.883015,
+    -4.221522,
+    55.883015
+],
   "geometry": {"coordinates":[-4.221522,55.883015],"type":"Point"}
 }

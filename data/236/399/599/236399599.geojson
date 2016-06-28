@@ -2,13 +2,14 @@
   "id": 236399599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.826297,53.637207,-1.826297,53.637207",
     "geom:latitude":53.637207,
     "geom:longitude":-1.826297,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Manchester Rd",
     "sg:city":"Huddersfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236399599,
-    "wof:lastmodified":1449002113,
+    "wof:lastmodified":1466264055,
     "wof:name":"Stop 'N' Snack",
     "wof:parent_id":85789119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "take"
     ]
 },
-  "bbox": [-1.826297,53.637207,-1.826297,53.637207],
+  "bbox": [
+    -1.826297,
+    53.637207,
+    -1.826297,
+    53.637207
+],
   "geometry": {"coordinates":[-1.826297,53.637207],"type":"Point"}
 }

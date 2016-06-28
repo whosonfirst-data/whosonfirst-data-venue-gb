@@ -2,13 +2,14 @@
   "id": 203392751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.215517,51.745068,-2.215517,51.745068",
     "geom:latitude":51.745068,
     "geom:longitude":-2.215517,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 High Street",
     "sg:city":"Stroud",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203392751,
-    "wof:lastmodified":1449026455,
+    "wof:lastmodified":1466259450,
     "wof:name":"M Cook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.215517,51.745068,-2.215517,51.745068],
+  "bbox": [
+    -2.215517,
+    51.745068,
+    -2.215517,
+    51.745068
+],
   "geometry": {"coordinates":[-2.215517,51.745068],"type":"Point"}
 }

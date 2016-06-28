@@ -2,13 +2,14 @@
   "id": 236953717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.665471,51.777645,-3.665471,51.777645",
     "geom:latitude":51.777645,
     "geom:longitude":-3.665471,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Main Road, Dyffryn Cellwen",
     "sg:city":"Neath",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236953717,
-    "wof:lastmodified":1449004017,
+    "wof:lastmodified":1466274579,
     "wof:name":"N C Davies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "road"
     ]
 },
-  "bbox": [-3.665471,51.777645,-3.665471,51.777645],
+  "bbox": [
+    -3.665471,
+    51.777645,
+    -3.665471,
+    51.777645
+],
   "geometry": {"coordinates":[-3.665471,51.777645],"type":"Point"}
 }

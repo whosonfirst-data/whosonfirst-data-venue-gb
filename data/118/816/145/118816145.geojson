@@ -2,13 +2,14 @@
   "id": 118816145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.530292,54.538151,-1.530292,54.538151",
     "geom:latitude":54.538151,
     "geom:longitude":-1.530292,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Latimer Road",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118816145,
-    "wof:lastmodified":1449053973,
+    "wof:lastmodified":1466273956,
     "wof:name":"Extractaclean",
     "wof:parent_id":85788013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.530292,54.538151,-1.530292,54.538151],
+  "bbox": [
+    -1.530292,
+    54.538151,
+    -1.530292,
+    54.538151
+],
   "geometry": {"coordinates":[-1.530292,54.538151],"type":"Point"}
 }

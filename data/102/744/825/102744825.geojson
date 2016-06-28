@@ -2,13 +2,14 @@
   "id": 102744825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.123378,57.49514,-4.123378,57.49514",
     "geom:latitude":57.49514,
     "geom:longitude":-4.123378,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Cherry Park, Balloch",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102744825,
-    "wof:lastmodified":1449068652,
+    "wof:lastmodified":1466258413,
     "wof:name":"Stuart Macdonald & Co.",
     "wof:parent_id":85683747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.123378,57.49514,-4.123378,57.49514],
+  "bbox": [
+    -4.123378,
+    57.49514,
+    -4.123378,
+    57.49514
+],
   "geometry": {"coordinates":[-4.123378,57.49514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270115413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.23746,53.322693,-2.23746,53.322693",
     "geom:latitude":53.322693,
     "geom:longitude":-2.23746,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Chapel Lane",
     "sg:city":"Wilmslow",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270115413,
-    "wof:lastmodified":1449008651,
+    "wof:lastmodified":1466263922,
     "wof:name":"Wilmslow Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nh"
     ]
 },
-  "bbox": [-2.23746,53.322693,-2.23746,53.322693],
+  "bbox": [
+    -2.23746,
+    53.322693,
+    -2.23746,
+    53.322693
+],
   "geometry": {"coordinates":[-2.23746,53.322693],"type":"Point"}
 }

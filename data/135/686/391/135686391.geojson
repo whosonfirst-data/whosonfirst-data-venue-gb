@@ -2,13 +2,14 @@
   "id": 135686391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.656509,53.469315,-2.656509,53.469315",
     "geom:latitude":53.469315,
     "geom:longitude":-2.656509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"274 Church Road, Haydock",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135686391,
-    "wof:lastmodified":1449023294,
+    "wof:lastmodified":1466285619,
     "wof:name":"Michael Williams",
     "wof:parent_id":85789571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.656509,53.469315,-2.656509,53.469315],
+  "bbox": [
+    -2.656509,
+    53.469315,
+    -2.656509,
+    53.469315
+],
   "geometry": {"coordinates":[-2.656509,53.469315],"type":"Point"}
 }

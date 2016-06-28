@@ -2,13 +2,14 @@
   "id": 135595087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.591375,54.845715,-1.591375,54.845715",
     "geom:latitude":54.845715,
     "geom:longitude":-1.591375,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Barford Dr",
     "sg:city":"Chester Le Street",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135595087,
-    "wof:lastmodified":1449023708,
+    "wof:lastmodified":1466282212,
     "wof:name":"Creative Paving",
     "wof:parent_id":85684523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.591375,54.845715,-1.591375,54.845715],
+  "bbox": [
+    -1.591375,
+    54.845715,
+    -1.591375,
+    54.845715
+],
   "geometry": {"coordinates":[-1.591375,54.845715],"type":"Point"}
 }

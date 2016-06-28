@@ -2,13 +2,14 @@
   "id": 135852819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.440427,50.715183,-2.440427,50.715183",
     "geom:latitude":50.715183,
     "geom:longitude":-2.440427,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49 High West Street",
     "sg:city":"Dorchester",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135852819,
-    "wof:lastmodified":1449023503,
+    "wof:lastmodified":1466287901,
     "wof:name":"Jeffs & Son",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.440427,50.715183,-2.440427,50.715183],
+  "bbox": [
+    -2.440427,
+    50.715183,
+    -2.440427,
+    50.715183
+],
   "geometry": {"coordinates":[-2.440427,50.715183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119462259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.236374,51.750107,-1.236374,51.750107",
     "geom:latitude":51.750107,
     "geom:longitude":-1.236374,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Cross Street",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119462259,
-    "wof:lastmodified":1449043457,
+    "wof:lastmodified":1466286179,
     "wof:name":"Dentons Garage",
     "wof:parent_id":85793243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.236374,51.750107,-1.236374,51.750107],
+  "bbox": [
+    -1.236374,
+    51.750107,
+    -1.236374,
+    51.750107
+],
   "geometry": {"coordinates":[-1.236374,51.750107],"type":"Point"}
 }

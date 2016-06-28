@@ -2,13 +2,14 @@
   "id": 219533453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.242319,53.506878,-2.242319,53.506878",
     "geom:latitude":53.506878,
     "geom:longitude":-2.242319,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"334a Waterloo Road",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":219533453,
-    "wof:lastmodified":1449070341,
+    "wof:lastmodified":1466259333,
     "wof:name":"Wellinton Lodge",
     "wof:parent_id":85793059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-2.242319,53.506878,-2.242319,53.506878],
+  "bbox": [
+    -2.242319,
+    53.506878,
+    -2.242319,
+    53.506878
+],
   "geometry": {"coordinates":[-2.242319,53.506878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320822389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.968122,56.46373,-2.968122,56.46373",
     "geom:latitude":56.46373,
     "geom:longitude":-2.968122,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Cowgate",
     "sg:city":"Dundee",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320822389,
-    "wof:lastmodified":1449014850,
+    "wof:lastmodified":1466285207,
     "wof:name":"Scottish Drugs Forum",
     "wof:parent_id":85788839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "information"
     ]
 },
-  "bbox": [-2.968122,56.46373,-2.968122,56.46373],
+  "bbox": [
+    -2.968122,
+    56.46373,
+    -2.968122,
+    56.46373
+],
   "geometry": {"coordinates":[-2.968122,56.46373],"type":"Point"}
 }

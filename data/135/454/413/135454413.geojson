@@ -2,13 +2,14 @@
   "id": 135454413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.453088,53.835251,-1.453088,53.835251",
     "geom:latitude":53.835251,
     "geom:longitude":-1.453088,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 White Laithe Garth",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135454413,
-    "wof:lastmodified":1449023716,
+    "wof:lastmodified":1466269182,
     "wof:name":"White Laithe Garth",
     "wof:parent_id":85791611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.453088,53.835251,-1.453088,53.835251],
+  "bbox": [
+    -1.453088,
+    53.835251,
+    -1.453088,
+    53.835251
+],
   "geometry": {"coordinates":[-1.453088,53.835251],"type":"Point"}
 }

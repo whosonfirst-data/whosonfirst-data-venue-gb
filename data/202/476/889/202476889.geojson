@@ -2,13 +2,14 @@
   "id": 202476889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.005109,53.35207,-3.005109,53.35207",
     "geom:latitude":53.35207,
     "geom:longitude":-3.005109,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 The Village, Bebington",
     "sg:city":"Wirral",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202476889,
-    "wof:lastmodified":1449061136,
+    "wof:lastmodified":1466253798,
     "wof:name":"Bebington Volunteer Bureaux",
     "wof:parent_id":85788897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.005109,53.35207,-3.005109,53.35207],
+  "bbox": [
+    -3.005109,
+    53.35207,
+    -3.005109,
+    53.35207
+],
   "geometry": {"coordinates":[-3.005109,53.35207],"type":"Point"}
 }

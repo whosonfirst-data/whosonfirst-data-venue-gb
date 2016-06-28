@@ -2,13 +2,14 @@
   "id": 220126073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.07449,52.566635,-2.07449,52.566635",
     "geom:latitude":52.566635,
     "geom:longitude":-2.07449,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Yard 4 Withy Road Industrial Estate, Withy Road",
     "sg:city":"Bilston",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220126073,
-    "wof:lastmodified":1449074326,
+    "wof:lastmodified":1466255192,
     "wof:name":"Black Country",
     "wof:parent_id":85785899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dismantlers"
     ]
 },
-  "bbox": [-2.07449,52.566635,-2.07449,52.566635],
+  "bbox": [
+    -2.07449,
+    52.566635,
+    -2.07449,
+    52.566635
+],
   "geometry": {"coordinates":[-2.07449,52.566635],"type":"Point"}
 }

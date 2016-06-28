@@ -2,13 +2,14 @@
   "id": 303270459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.235488,55.787052,-4.235488,55.787052",
     "geom:latitude":55.787052,
     "geom:longitude":-4.235488,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Waterside Road, Carmunnock",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":303270459,
-    "wof:lastmodified":1448998551,
+    "wof:lastmodified":1466270944,
     "wof:name":"Strathclyde Spirals",
     "wof:parent_id":85786279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-4.235488,55.787052,-4.235488,55.787052],
+  "bbox": [
+    -4.235488,
+    55.787052,
+    -4.235488,
+    55.787052
+],
   "geometry": {"coordinates":[-4.235488,55.787052],"type":"Point"}
 }

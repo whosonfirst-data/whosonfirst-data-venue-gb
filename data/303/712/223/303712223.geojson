@@ -2,13 +2,14 @@
   "id": 303712223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.204759,55.940586,-3.204759,55.940586",
     "geom:latitude":55.940586,
     "geom:longitude":-3.204759,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Gillespie Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303712223,
-    "wof:lastmodified":1448999166,
+    "wof:lastmodified":1466281955,
     "wof:name":"Scotts Food & Wine",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "drink"
     ]
 },
-  "bbox": [-3.204759,55.940586,-3.204759,55.940586],
+  "bbox": [
+    -3.204759,
+    55.940586,
+    -3.204759,
+    55.940586
+],
   "geometry": {"coordinates":[-3.204759,55.940586],"type":"Point"}
 }

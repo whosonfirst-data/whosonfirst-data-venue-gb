@@ -2,13 +2,14 @@
   "id": 102724433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.805033,52.437397,-1.805033,52.437397",
     "geom:latitude":52.437397,
     "geom:longitude":-1.805033,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Warwick Rd, Olton",
     "sg:city":"Solihull",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102724433,
-    "wof:lastmodified":1449070166,
+    "wof:lastmodified":1466257332,
     "wof:name":"Olton P.O",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.805033,52.437397,-1.805033,52.437397],
+  "bbox": [
+    -1.805033,
+    52.437397,
+    -1.805033,
+    52.437397
+],
   "geometry": {"coordinates":[-1.805033,52.437397],"type":"Point"}
 }

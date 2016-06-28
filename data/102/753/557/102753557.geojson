@@ -2,13 +2,14 @@
   "id": 102753557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.214549,51.405689,-3.214549,51.405689",
     "geom:latitude":51.405689,
     "geom:longitude":-3.214549,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hayes Point, Sully",
     "sg:city":"Penarth",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102753557,
-    "wof:lastmodified":1449068084,
+    "wof:lastmodified":1466259053,
     "wof:name":"H M S Cambria",
     "wof:parent_id":101750395,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.214549,51.405689,-3.214549,51.405689],
+  "bbox": [
+    -3.214549,
+    51.405689,
+    -3.214549,
+    51.405689
+],
   "geometry": {"coordinates":[-3.214549,51.405689],"type":"Point"}
 }

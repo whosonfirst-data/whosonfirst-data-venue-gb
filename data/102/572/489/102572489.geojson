@@ -2,13 +2,14 @@
   "id": 102572489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.752339,54.663765,-2.752339,54.663765",
     "geom:latitude":54.663765,
     "geom:longitude":-2.752339,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Market Square",
     "sg:city":"Penrith",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102572489,
-    "wof:lastmodified":1449069228,
+    "wof:lastmodified":1466263117,
     "wof:name":"Abbey National plc",
     "wof:parent_id":101873419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.752339,54.663765,-2.752339,54.663765],
+  "bbox": [
+    -2.752339,
+    54.663765,
+    -2.752339,
+    54.663765
+],
   "geometry": {"coordinates":[-2.752339,54.663765],"type":"Point"}
 }

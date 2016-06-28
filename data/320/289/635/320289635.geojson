@@ -2,13 +2,14 @@
   "id": 320289635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.464156,53.370903,-1.464156,53.370903",
     "geom:latitude":53.370903,
     "geom:longitude":-1.464156,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Queens Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320289635,
-    "wof:lastmodified":1449014355,
+    "wof:lastmodified":1466276761,
     "wof:name":"Maries News",
     "wof:parent_id":85793111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.464156,53.370903,-1.464156,53.370903],
+  "bbox": [
+    -1.464156,
+    53.370903,
+    -1.464156,
+    53.370903
+],
   "geometry": {"coordinates":[-1.464156,53.370903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303420379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.098606,52.569901,-2.098606,52.569901",
     "geom:latitude":52.569901,
     "geom:longitude":-2.098606,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 New Street, Ettingshall",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303420379,
-    "wof:lastmodified":1448999290,
+    "wof:lastmodified":1466275437,
     "wof:name":"Ettingshall Post Office",
     "wof:parent_id":85789157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.098606,52.569901,-2.098606,52.569901],
+  "bbox": [
+    -2.098606,
+    52.569901,
+    -2.098606,
+    52.569901
+],
   "geometry": {"coordinates":[-2.098606,52.569901],"type":"Point"}
 }

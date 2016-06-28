@@ -2,13 +2,14 @@
   "id": 135490659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.150936,53.363529,-3.150936,53.363529",
     "geom:latitude":53.363529,
     "geom:longitude":-3.150936,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Column Rd",
     "sg:city":"Wirral",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135490659,
-    "wof:lastmodified":1449023694,
+    "wof:lastmodified":1466273467,
     "wof:name":"Road Range",
     "wof:parent_id":85684519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.150936,53.363529,-3.150936,53.363529],
+  "bbox": [
+    -3.150936,
+    53.363529,
+    -3.150936,
+    53.363529
+],
   "geometry": {"coordinates":[-3.150936,53.363529],"type":"Point"}
 }

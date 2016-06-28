@@ -2,13 +2,14 @@
   "id": 269910955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.986371,52.513092,-1.986371,52.513092",
     "geom:latitude":52.513092,
     "geom:longitude":-1.986371,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Trinity St",
     "sg:city":"West Bromwich",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269910955,
-    "wof:lastmodified":1449037130,
+    "wof:lastmodified":1466273097,
     "wof:name":"Dr R Ghatge",
     "wof:parent_id":85788947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-1.986371,52.513092,-1.986371,52.513092],
+  "bbox": [
+    -1.986371,
+    52.513092,
+    -1.986371,
+    52.513092
+],
   "geometry": {"coordinates":[-1.986371,52.513092],"type":"Point"}
 }

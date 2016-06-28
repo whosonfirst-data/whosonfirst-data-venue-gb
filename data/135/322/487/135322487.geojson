@@ -2,13 +2,14 @@
   "id": 135322487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.729511,56.059612,-2.729511,56.059612",
     "geom:latitude":56.059612,
     "geom:longitude":-2.729511,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 West Bay Road",
     "sg:city":"North Berwick",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":135322487,
-    "wof:lastmodified":1449020947,
+    "wof:lastmodified":1466253919,
     "wof:name":"Point Garry Hotel",
     "wof:parent_id":101872463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.729511,56.059612,-2.729511,56.059612],
+  "bbox": [
+    -2.729511,
+    56.059612,
+    -2.729511,
+    56.059612
+],
   "geometry": {"coordinates":[-2.729511,56.059612],"type":"Point"}
 }

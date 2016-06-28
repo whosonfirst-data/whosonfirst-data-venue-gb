@@ -2,13 +2,14 @@
   "id": 135442021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.935411,53.393742,-2.935411,53.393742",
     "geom:latitude":53.393742,
     "geom:longitude":-2.935411,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Smithdown Rd",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135442021,
-    "wof:lastmodified":1449022340,
+    "wof:lastmodified":1466267674,
     "wof:name":"Smithdown Service Station",
     "wof:parent_id":85791397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.935411,53.393742,-2.935411,53.393742],
+  "bbox": [
+    -2.935411,
+    53.393742,
+    -2.935411,
+    53.393742
+],
   "geometry": {"coordinates":[-2.935411,53.393742],"type":"Point"}
 }

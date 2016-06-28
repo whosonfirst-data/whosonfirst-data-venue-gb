@@ -2,13 +2,14 @@
   "id": 320019153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.785015,56.00901,-3.785015,56.00901",
     "geom:latitude":56.00901,
     "geom:longitude":-3.785015,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Grahams Road",
     "sg:city":"Falkirk",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320019153,
-    "wof:lastmodified":1449013401,
+    "wof:lastmodified":1466268713,
     "wof:name":"The Great Wall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-3.785015,56.00901,-3.785015,56.00901],
+  "bbox": [
+    -3.785015,
+    56.00901,
+    -3.785015,
+    56.00901
+],
   "geometry": {"coordinates":[-3.785015,56.00901],"type":"Point"}
 }

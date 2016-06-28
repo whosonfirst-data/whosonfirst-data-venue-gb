@@ -2,13 +2,14 @@
   "id": 135999665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.163565,55.866222,-4.163565,55.866222",
     "geom:latitude":55.866222,
     "geom:longitude":-4.163565,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Lamlash Crescent",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135999665,
-    "wof:lastmodified":1449023632,
+    "wof:lastmodified":1466288616,
     "wof:name":"Browns",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.163565,55.866222,-4.163565,55.866222],
+  "bbox": [
+    -4.163565,
+    55.866222,
+    -4.163565,
+    55.866222
+],
   "geometry": {"coordinates":[-4.163565,55.866222],"type":"Point"}
 }

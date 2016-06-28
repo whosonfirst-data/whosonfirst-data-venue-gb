@@ -2,13 +2,14 @@
   "id": 303819909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.645044,55.570831,-2.645044,55.570831",
     "geom:latitude":55.570831,
     "geom:longitude":-2.645044,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Jenny Moores Road, St Boswells",
     "sg:city":"Melrose",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303819909,
-    "wof:lastmodified":1448998693,
+    "wof:lastmodified":1466283353,
     "wof:name":"St Boswells Rugby Football Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.645044,55.570831,-2.645044,55.570831],
+  "bbox": [
+    -2.645044,
+    55.570831,
+    -2.645044,
+    55.570831
+],
   "geometry": {"coordinates":[-2.645044,55.570831],"type":"Point"}
 }

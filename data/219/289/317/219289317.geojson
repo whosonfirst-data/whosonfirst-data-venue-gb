@@ -2,13 +2,14 @@
   "id": 219289317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.234769,54.576561,-1.234769,54.576561",
     "geom:latitude":54.576561,
     "geom:longitude":-1.234769,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Albert Road",
     "sg:city":"Middlesbrough",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219289317,
-    "wof:lastmodified":1449073329,
+    "wof:lastmodified":1466255081,
     "wof:name":"Askews",
     "wof:parent_id":85789471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-1.234769,54.576561,-1.234769,54.576561],
+  "bbox": [
+    -1.234769,
+    54.576561,
+    -1.234769,
+    54.576561
+],
   "geometry": {"coordinates":[-1.234769,54.576561],"type":"Point"}
 }

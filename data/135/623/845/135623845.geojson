@@ -2,13 +2,14 @@
   "id": 135623845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.254033,53.109272,-2.254033,53.109272",
     "geom:latitude":53.109272,
     "geom:longitude":-2.254033,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Church La",
     "sg:city":"Stoke On Trent",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135623845,
-    "wof:lastmodified":1449023115,
+    "wof:lastmodified":1466283788,
     "wof:name":"Component Reclaims",
     "wof:parent_id":85684191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.254033,53.109272,-2.254033,53.109272],
+  "bbox": [
+    -2.254033,
+    53.109272,
+    -2.254033,
+    53.109272
+],
   "geometry": {"coordinates":[-2.254033,53.109272],"type":"Point"}
 }

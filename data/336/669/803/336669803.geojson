@@ -2,13 +2,14 @@
   "id": 336669803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.656491,54.976055,-1.656491,54.976055",
     "geom:latitude":54.976055,
     "geom:longitude":-1.656491,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41 West Rd",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336669803,
-    "wof:lastmodified":1448997054,
+    "wof:lastmodified":1466274851,
     "wof:name":"Weston (Newcastle) Ltd",
     "wof:parent_id":85787399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "chemist"
     ]
 },
-  "bbox": [-1.656491,54.976055,-1.656491,54.976055],
+  "bbox": [
+    -1.656491,
+    54.976055,
+    -1.656491,
+    54.976055
+],
   "geometry": {"coordinates":[-1.656491,54.976055],"type":"Point"}
 }

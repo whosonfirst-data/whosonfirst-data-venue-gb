@@ -2,13 +2,14 @@
   "id": 118495301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.348363,53.618008,-2.348363,53.618008",
     "geom:latitude":53.618008,
     "geom:longitude":-2.348363,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Turton Road, Tottington",
     "sg:city":"Bury",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118495301,
-    "wof:lastmodified":1449053755,
+    "wof:lastmodified":1466257275,
     "wof:name":"S Scarr",
     "wof:parent_id":85683615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.348363,53.618008,-2.348363,53.618008],
+  "bbox": [
+    -2.348363,
+    53.618008,
+    -2.348363,
+    53.618008
+],
   "geometry": {"coordinates":[-2.348363,53.618008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119405291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.491705,52.925407,-1.491705,52.925407",
     "geom:latitude":52.925407,
     "geom:longitude":-1.491705,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15-19 Ashbourne Road",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119405291,
-    "wof:lastmodified":1449043303,
+    "wof:lastmodified":1466285363,
     "wof:name":"Fires & Fireplaces",
     "wof:parent_id":85786967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.491705,52.925407,-1.491705,52.925407],
+  "bbox": [
+    -1.491705,
+    52.925407,
+    -1.491705,
+    52.925407
+],
   "geometry": {"coordinates":[-1.491705,52.925407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304063115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.534465,50.121113,-5.534465,50.121113",
     "geom:latitude":50.121113,
     "geom:longitude":-5.534465,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"59a Adelaide Street",
     "sg:city":"Penzance",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":304063115,
-    "wof:lastmodified":1449043608,
+    "wof:lastmodified":1466266138,
     "wof:name":"The Bus Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "candle"
     ]
 },
-  "bbox": [-5.534465,50.121113,-5.534465,50.121113],
+  "bbox": [
+    -5.534465,
+    50.121113,
+    -5.534465,
+    50.121113
+],
   "geometry": {"coordinates":[-5.534465,50.121113],"type":"Point"}
 }

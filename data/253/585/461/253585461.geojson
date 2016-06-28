@@ -2,13 +2,14 @@
   "id": 253585461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.050319,53.813961,-3.050319,53.813961",
     "geom:latitude":53.813961,
     "geom:longitude":-3.050319,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38a Hornby Road",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253585461,
-    "wof:lastmodified":1449064807,
+    "wof:lastmodified":1466270660,
     "wof:name":"Washbrite Launderette",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "launderette"
     ]
 },
-  "bbox": [-3.050319,53.813961,-3.050319,53.813961],
+  "bbox": [
+    -3.050319,
+    53.813961,
+    -3.050319,
+    53.813961
+],
   "geometry": {"coordinates":[-3.050319,53.813961],"type":"Point"}
 }

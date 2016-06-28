@@ -2,13 +2,14 @@
   "id": 118925527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.060914,50.704449,-3.060914,50.704449",
     "geom:latitude":50.704449,
     "geom:longitude":-3.060914,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Harbour",
     "sg:city":"Seaton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118925527,
-    "wof:lastmodified":1449053166,
+    "wof:lastmodified":1466280594,
     "wof:name":"Harbour Services",
     "wof:parent_id":85683773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.060914,50.704449,-3.060914,50.704449],
+  "bbox": [
+    -3.060914,
+    50.704449,
+    -3.060914,
+    50.704449
+],
   "geometry": {"coordinates":[-3.060914,50.704449],"type":"Point"}
 }

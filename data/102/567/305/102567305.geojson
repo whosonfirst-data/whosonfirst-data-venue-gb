@@ -2,13 +2,14 @@
   "id": 102567305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.547684,52.903645,-1.547684,52.903645",
     "geom:latitude":52.903645,
     "geom:longitude":-1.547684,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Etwall Road, Mickleover",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102567305,
-    "wof:lastmodified":1449070231,
+    "wof:lastmodified":1466259851,
     "wof:name":"Park Lane Nurseries",
     "wof:parent_id":85789077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.547684,52.903645,-1.547684,52.903645],
+  "bbox": [
+    -1.547684,
+    52.903645,
+    -1.547684,
+    52.903645
+],
   "geometry": {"coordinates":[-1.547684,52.903645],"type":"Point"}
 }

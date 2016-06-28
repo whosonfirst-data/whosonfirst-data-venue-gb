@@ -2,13 +2,14 @@
   "id": 287076701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.869804,52.414326,-1.869804,52.414326",
     "geom:latitude":52.414326,
     "geom:longitude":-1.869804,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1048 Yardley Wood Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":287076701,
-    "wof:lastmodified":1449001364,
+    "wof:lastmodified":1466265314,
     "wof:name":"Mr Sellit",
     "wof:parent_id":85791873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.869804,52.414326,-1.869804,52.414326],
+  "bbox": [
+    -1.869804,
+    52.414326,
+    -1.869804,
+    52.414326
+],
   "geometry": {"coordinates":[-1.869804,52.414326],"type":"Point"}
 }

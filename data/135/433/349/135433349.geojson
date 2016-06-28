@@ -2,13 +2,14 @@
   "id": 135433349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.945171,50.39365,-3.945171,50.39365",
     "geom:latitude":50.39365,
     "geom:longitude":-3.945171,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Ermington Workshop",
     "sg:city":"Ivybridge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135433349,
-    "wof:lastmodified":1449021340,
+    "wof:lastmodified":1466266665,
     "wof:name":"Erme Wood",
     "wof:parent_id":85683773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.945171,50.39365,-3.945171,50.39365],
+  "bbox": [
+    -3.945171,
+    50.39365,
+    -3.945171,
+    50.39365
+],
   "geometry": {"coordinates":[-3.945171,50.39365],"type":"Point"}
 }

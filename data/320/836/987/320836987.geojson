@@ -2,13 +2,14 @@
   "id": 320836987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.889621,52.493267,-1.889621,52.493267",
     "geom:latitude":52.493267,
     "geom:longitude":-1.889621,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4-6 Bracebridge Street, Dartmouth Industrial Estate",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320836987,
-    "wof:lastmodified":1449013740,
+    "wof:lastmodified":1466285208,
     "wof:name":"Pipeline Center",
     "wof:parent_id":85792841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-1.889621,52.493267,-1.889621,52.493267],
+  "bbox": [
+    -1.889621,
+    52.493267,
+    -1.889621,
+    52.493267
+],
   "geometry": {"coordinates":[-1.889621,52.493267],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220122727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.829268,53.281517,-3.829268,53.281517",
     "geom:latitude":53.281517,
     "geom:longitude":-3.829268,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 High Street",
     "sg:city":"Conwy",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":220122727,
-    "wof:lastmodified":1449074506,
+    "wof:lastmodified":1466255129,
     "wof:name":"Town House Resturant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.829268,53.281517,-3.829268,53.281517],
+  "bbox": [
+    -3.829268,
+    53.281517,
+    -3.829268,
+    53.281517
+],
   "geometry": {"coordinates":[-3.829268,53.281517],"type":"Point"}
 }

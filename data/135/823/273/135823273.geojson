@@ -2,13 +2,14 @@
   "id": 135823273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.513128,50.396091,-3.513128,50.396091",
     "geom:latitude":50.396091,
     "geom:longitude":-3.513128,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 The Strand",
     "sg:city":"Brixham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135823273,
-    "wof:lastmodified":1449023958,
+    "wof:lastmodified":1466287643,
     "wof:name":"The Bon Bon",
     "wof:parent_id":101852303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.513128,50.396091,-3.513128,50.396091],
+  "bbox": [
+    -3.513128,
+    50.396091,
+    -3.513128,
+    50.396091
+],
   "geometry": {"coordinates":[-3.513128,50.396091],"type":"Point"}
 }

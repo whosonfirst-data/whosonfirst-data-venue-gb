@@ -2,13 +2,14 @@
   "id": 135529413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.887899,52.587009,-1.887899,52.587009",
     "geom:latitude":52.587009,
     "geom:longitude":-1.887899,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Highgate, Streetly",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135529413,
-    "wof:lastmodified":1449022334,
+    "wof:lastmodified":1466277952,
     "wof:name":"Feature Management Ltd",
     "wof:parent_id":85787497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.887899,52.587009,-1.887899,52.587009],
+  "bbox": [
+    -1.887899,
+    52.587009,
+    -1.887899,
+    52.587009
+],
   "geometry": {"coordinates":[-1.887899,52.587009],"type":"Point"}
 }

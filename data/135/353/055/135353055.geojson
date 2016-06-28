@@ -2,13 +2,14 @@
   "id": 135353055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.238866,53.783943,-2.238866,53.783943",
     "geom:latitude":53.783943,
     "geom:longitude":-2.238866,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Parliament Street",
     "sg:city":"Burnley",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135353055,
-    "wof:lastmodified":1449021881,
+    "wof:lastmodified":1466257574,
     "wof:name":"Parliament Hardware",
     "wof:parent_id":101750587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.238866,53.783943,-2.238866,53.783943],
+  "bbox": [
+    -2.238866,
+    53.783943,
+    -2.238866,
+    53.783943
+],
   "geometry": {"coordinates":[-2.238866,53.783943],"type":"Point"}
 }

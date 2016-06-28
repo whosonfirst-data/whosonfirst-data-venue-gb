@@ -2,13 +2,14 @@
   "id": 135907981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.195421,55.95237,-3.195421,55.95237",
     "geom:latitude":55.95237,
     "geom:longitude":-3.195421,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Princes Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135907981,
-    "wof:lastmodified":1449023773,
+    "wof:lastmodified":1466288149,
     "wof:name":"Bhs",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.195421,55.95237,-3.195421,55.95237],
+  "bbox": [
+    -3.195421,
+    55.95237,
+    -3.195421,
+    55.95237
+],
   "geometry": {"coordinates":[-3.195421,55.95237],"type":"Point"}
 }

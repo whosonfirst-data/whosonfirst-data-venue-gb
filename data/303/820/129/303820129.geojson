@@ -2,13 +2,14 @@
   "id": 303820129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.126164,52.927303,-1.126164,52.927303",
     "geom:latitude":52.927303,
     "geom:longitude":-1.126164,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Annesley Road, West Bridgford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303820129,
-    "wof:lastmodified":1448999385,
+    "wof:lastmodified":1466283339,
     "wof:name":"Sebastian Glass",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stained"
     ]
 },
-  "bbox": [-1.126164,52.927303,-1.126164,52.927303],
+  "bbox": [
+    -1.126164,
+    52.927303,
+    -1.126164,
+    52.927303
+],
   "geometry": {"coordinates":[-1.126164,52.927303],"type":"Point"}
 }

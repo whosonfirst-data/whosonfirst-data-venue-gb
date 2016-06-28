@@ -2,13 +2,14 @@
   "id": 118808727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.574751,53.809895,-1.574751,53.809895",
     "geom:latitude":53.809895,
     "geom:longitude":-1.574751,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"145-149 Cardigan Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118808727,
-    "wof:lastmodified":1449053200,
+    "wof:lastmodified":1466273450,
     "wof:name":"A B A Leeds",
     "wof:parent_id":85861565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.574751,53.809895,-1.574751,53.809895],
+  "bbox": [
+    -1.574751,
+    53.809895,
+    -1.574751,
+    53.809895
+],
   "geometry": {"coordinates":[-1.574751,53.809895],"type":"Point"}
 }

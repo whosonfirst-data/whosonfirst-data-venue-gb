@@ -2,13 +2,14 @@
   "id": 185764109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.134709,52.634129,-1.134709,52.634129",
     "geom:latitude":52.634129,
     "geom:longitude":-1.134709,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1-2 Market Place",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185764109,
-    "wof:lastmodified":1449008120,
+    "wof:lastmodified":1466254196,
     "wof:name":"Centre Electronics Communications",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-1.134709,52.634129,-1.134709,52.634129],
+  "bbox": [
+    -1.134709,
+    52.634129,
+    -1.134709,
+    52.634129
+],
   "geometry": {"coordinates":[-1.134709,52.634129],"type":"Point"}
 }

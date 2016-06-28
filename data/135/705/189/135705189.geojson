@@ -2,13 +2,14 @@
   "id": 135705189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.134213,52.500969,-2.134213,52.500969",
     "geom:latitude":52.500969,
     "geom:longitude":-2.134213,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"129 High Street, Pensnett",
     "sg:city":"Brierley Hill",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135705189,
-    "wof:lastmodified":1449024003,
+    "wof:lastmodified":1466286112,
     "wof:name":"Pensnett Post Office",
     "wof:parent_id":85791797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.134213,52.500969,-2.134213,52.500969],
+  "bbox": [
+    -2.134213,
+    52.500969,
+    -2.134213,
+    52.500969
+],
   "geometry": {"coordinates":[-2.134213,52.500969],"type":"Point"}
 }

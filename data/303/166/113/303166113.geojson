@@ -2,13 +2,14 @@
   "id": 303166113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.10154,50.791435,-1.10154,50.791435",
     "geom:latitude":50.791435,
     "geom:longitude":-1.10154,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 High Street",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303166113,
-    "wof:lastmodified":1448999487,
+    "wof:lastmodified":1466267698,
     "wof:name":"Lemon Sole",
     "wof:parent_id":85861987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-1.10154,50.791435,-1.10154,50.791435],
+  "bbox": [
+    -1.10154,
+    50.791435,
+    -1.10154,
+    50.791435
+],
   "geometry": {"coordinates":[-1.10154,50.791435],"type":"Point"}
 }

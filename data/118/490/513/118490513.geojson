@@ -2,13 +2,14 @@
   "id": 118490513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.535946,53.352547,-4.535946,53.352547",
     "geom:latitude":53.352547,
     "geom:longitude":-4.535946,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Graenfa, Llanfaethlu",
     "sg:city":"Holyhead",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118490513,
-    "wof:lastmodified":1449054408,
+    "wof:lastmodified":1466252623,
     "wof:name":"R S Hughes",
     "wof:parent_id":85683833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.535946,53.352547,-4.535946,53.352547],
+  "bbox": [
+    -4.535946,
+    53.352547,
+    -4.535946,
+    53.352547
+],
   "geometry": {"coordinates":[-4.535946,53.352547],"type":"Point"}
 }

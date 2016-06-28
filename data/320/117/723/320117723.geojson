@@ -2,13 +2,14 @@
   "id": 320117723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.540166,52.445915,-3.540166,52.445915",
     "geom:latitude":52.445915,
     "geom:longitude":-3.540166,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4 Parc Hafren Industrial Estate",
     "sg:city":"Llanidloes",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320117723,
-    "wof:lastmodified":1449013812,
+    "wof:lastmodified":1466271644,
     "wof:name":"B M W Filtration Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [-3.540166,52.445915,-3.540166,52.445915],
+  "bbox": [
+    -3.540166,
+    52.445915,
+    -3.540166,
+    52.445915
+],
   "geometry": {"coordinates":[-3.540166,52.445915],"type":"Point"}
 }

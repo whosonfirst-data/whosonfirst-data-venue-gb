@@ -2,13 +2,14 @@
   "id": 336738815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.503852,53.395321,-1.503852,53.395321",
     "geom:latitude":53.395321,
     "geom:longitude":-1.503852,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Parsonage St",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336738815,
-    "wof:lastmodified":1448997718,
+    "wof:lastmodified":1466276935,
     "wof:name":"Garden Improvements",
     "wof:parent_id":85791283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "landscape"
     ]
 },
-  "bbox": [-1.503852,53.395321,-1.503852,53.395321],
+  "bbox": [
+    -1.503852,
+    53.395321,
+    -1.503852,
+    53.395321
+],
   "geometry": {"coordinates":[-1.503852,53.395321],"type":"Point"}
 }

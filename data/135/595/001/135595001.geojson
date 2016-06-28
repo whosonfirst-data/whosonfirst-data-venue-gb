@@ -2,13 +2,14 @@
   "id": 135595001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.045904,55.877365,-3.045904,55.877365",
     "geom:latitude":55.877365,
     "geom:longitude":-3.045904,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Mayfield Industrial Estate",
     "sg:city":"Dalkeith",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135595001,
-    "wof:lastmodified":1449023707,
+    "wof:lastmodified":1466282206,
     "wof:name":"Ladywell Coaches",
     "wof:parent_id":85684349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.045904,55.877365,-3.045904,55.877365],
+  "bbox": [
+    -3.045904,
+    55.877365,
+    -3.045904,
+    55.877365
+],
   "geometry": {"coordinates":[-3.045904,55.877365],"type":"Point"}
 }

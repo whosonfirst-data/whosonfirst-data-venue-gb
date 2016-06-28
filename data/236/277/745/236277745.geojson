@@ -2,13 +2,14 @@
   "id": 236277745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.95609,53.425381,-2.95609,53.425381",
     "geom:latitude":53.425381,
     "geom:longitude":-2.95609,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Oakhall Building, Oakfield Road",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236277745,
-    "wof:lastmodified":1449001959,
+    "wof:lastmodified":1466261831,
     "wof:name":"Oakhall Salon",
     "wof:parent_id":85785305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.95609,53.425381,-2.95609,53.425381],
+  "bbox": [
+    -2.95609,
+    53.425381,
+    -2.95609,
+    53.425381
+],
   "geometry": {"coordinates":[-2.95609,53.425381],"type":"Point"}
 }

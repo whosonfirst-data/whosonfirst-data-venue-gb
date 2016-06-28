@@ -2,13 +2,14 @@
   "id": 135788343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.47316,56.723125,-2.47316,56.723125",
     "geom:latitude":56.723125,
     "geom:longitude":-2.47316,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Graham Crescent",
     "sg:city":"Montrose",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135788343,
-    "wof:lastmodified":1449022575,
+    "wof:lastmodified":1466287295,
     "wof:name":"George Knox Milne",
     "wof:parent_id":101872633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.47316,56.723125,-2.47316,56.723125],
+  "bbox": [
+    -2.47316,
+    56.723125,
+    -2.47316,
+    56.723125
+],
   "geometry": {"coordinates":[-2.47316,56.723125],"type":"Point"}
 }

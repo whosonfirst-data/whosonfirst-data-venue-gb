@@ -2,13 +2,14 @@
   "id": 135595495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.180965,50.85685,-1.180965,50.85685",
     "geom:latitude":50.85685,
     "geom:longitude":-1.180965,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Harrison Road",
     "sg:city":"Fareham",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":135595495,
-    "wof:lastmodified":1449023708,
+    "wof:lastmodified":1466282365,
     "wof:name":"Nesan Networks",
     "wof:parent_id":85791293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.180965,50.85685,-1.180965,50.85685],
+  "bbox": [
+    -1.180965,
+    50.85685,
+    -1.180965,
+    50.85685
+],
   "geometry": {"coordinates":[-1.180965,50.85685],"type":"Point"}
 }

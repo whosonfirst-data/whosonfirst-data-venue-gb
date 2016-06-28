@@ -2,13 +2,14 @@
   "id": 135442383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.343145,56.109558,-3.343145,56.109558",
     "geom:latitude":56.109558,
     "geom:longitude":-3.343145,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"270 High Street",
     "sg:city":"Cowdenbeath",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135442383,
-    "wof:lastmodified":1449022340,
+    "wof:lastmodified":1466267719,
     "wof:name":"JAMES M NOBLE",
     "wof:parent_id":101874199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.343145,56.109558,-3.343145,56.109558],
+  "bbox": [
+    -3.343145,
+    56.109558,
+    -3.343145,
+    56.109558
+],
   "geometry": {"coordinates":[-3.343145,56.109558],"type":"Point"}
 }

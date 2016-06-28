@@ -2,13 +2,14 @@
   "id": 135282291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.086977,52.967506,-1.086977,52.967506",
     "geom:latitude":52.967506,
     "geom:longitude":-1.086977,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Cavendish Drive, Carlton",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135282291,
-    "wof:lastmodified":1449022910,
+    "wof:lastmodified":1466275650,
     "wof:name":"Cavendish Kitchens & Bathrooms",
     "wof:parent_id":85861921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.086977,52.967506,-1.086977,52.967506],
+  "bbox": [
+    -1.086977,
+    52.967506,
+    -1.086977,
+    52.967506
+],
   "geometry": {"coordinates":[-1.086977,52.967506],"type":"Point"}
 }

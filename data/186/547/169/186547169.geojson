@@ -2,13 +2,14 @@
   "id": 186547169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.448026,52.516796,-1.448026,52.516796",
     "geom:latitude":52.516796,
     "geom:longitude":-1.448026,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 19 Attleborough Fields Indust Est",
     "sg:city":"Nuneaton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186547169,
-    "wof:lastmodified":1449050517,
+    "wof:lastmodified":1466260099,
     "wof:name":"Nova Precision Engineering",
     "wof:parent_id":85785407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [-1.448026,52.516796,-1.448026,52.516796],
+  "bbox": [
+    -1.448026,
+    52.516796,
+    -1.448026,
+    52.516796
+],
   "geometry": {"coordinates":[-1.448026,52.516796],"type":"Point"}
 }

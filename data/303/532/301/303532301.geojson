@@ -2,13 +2,14 @@
   "id": 303532301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.102815,52.956566,-1.102815,52.956566",
     "geom:latitude":52.956566,
     "geom:longitude":-1.102815,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Woodview Court",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303532301,
-    "wof:lastmodified":1448998938,
+    "wof:lastmodified":1466279090,
     "wof:name":"Woodview Court Sheltered Housing",
     "wof:parent_id":85861915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-1.102815,52.956566,-1.102815,52.956566],
+  "bbox": [
+    -1.102815,
+    52.956566,
+    -1.102815,
+    52.956566
+],
   "geometry": {"coordinates":[-1.102815,52.956566],"type":"Point"}
 }

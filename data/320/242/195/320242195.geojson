@@ -2,13 +2,14 @@
   "id": 320242195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.30769,55.877113,-4.30769,55.877113",
     "geom:latitude":55.877113,
     "geom:longitude":-4.30769,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Clarence Drive",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320242195,
-    "wof:lastmodified":1449014521,
+    "wof:lastmodified":1466275288,
     "wof:name":"Biozone Newbyte",
     "wof:parent_id":85792459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-4.30769,55.877113,-4.30769,55.877113],
+  "bbox": [
+    -4.30769,
+    55.877113,
+    -4.30769,
+    55.877113
+],
   "geometry": {"coordinates":[-4.30769,55.877113],"type":"Point"}
 }

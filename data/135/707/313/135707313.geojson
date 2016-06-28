@@ -2,13 +2,14 @@
   "id": 135707313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.342307,53.550217,-1.342307,53.550217",
     "geom:latitude":53.550217,
     "geom:longitude":-1.342307,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"43 John St",
     "sg:city":"Barnsley",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135707313,
-    "wof:lastmodified":1449023538,
+    "wof:lastmodified":1466286194,
     "wof:name":"John Street Resource Centre",
     "wof:parent_id":85684035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.342307,53.550217,-1.342307,53.550217],
+  "bbox": [
+    -1.342307,
+    53.550217,
+    -1.342307,
+    53.550217
+],
   "geometry": {"coordinates":[-1.342307,53.550217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102621449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.749172,54.326908,-2.749172,54.326908",
     "geom:latitude":54.326908,
     "geom:longitude":-2.749172,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Allhallows Lane",
     "sg:city":"Kendal",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102621449,
-    "wof:lastmodified":1449069894,
+    "wof:lastmodified":1466253240,
     "wof:name":"The Barbers Shop",
     "wof:parent_id":101872345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.749172,54.326908,-2.749172,54.326908],
+  "bbox": [
+    -2.749172,
+    54.326908,
+    -2.749172,
+    54.326908
+],
   "geometry": {"coordinates":[-2.749172,54.326908],"type":"Point"}
 }

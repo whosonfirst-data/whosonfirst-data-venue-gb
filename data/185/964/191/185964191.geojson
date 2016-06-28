@@ -2,13 +2,14 @@
   "id": 185964191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.387,50.982491,-1.387,50.982491",
     "geom:latitude":50.982491,
     "geom:longitude":-1.387,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit F, Omega Enterprise Park",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185964191,
-    "wof:lastmodified":1449007824,
+    "wof:lastmodified":1466256645,
     "wof:name":"Parceline",
     "wof:parent_id":85792829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-1.387,50.982491,-1.387,50.982491],
+  "bbox": [
+    -1.387,
+    50.982491,
+    -1.387,
+    50.982491
+],
   "geometry": {"coordinates":[-1.387,50.982491],"type":"Point"}
 }

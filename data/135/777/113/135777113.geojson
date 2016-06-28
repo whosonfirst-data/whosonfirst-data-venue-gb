@@ -2,13 +2,14 @@
   "id": 135777113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.480836,50.452553,-4.480836,50.452553",
     "geom:latitude":50.452553,
     "geom:longitude":-4.480836,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Western Avenue",
     "sg:city":"Liskeard",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135777113,
-    "wof:lastmodified":1449022607,
+    "wof:lastmodified":1466287087,
     "wof:name":"Express Taxis",
     "wof:parent_id":85684547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.480836,50.452553,-4.480836,50.452553],
+  "bbox": [
+    -4.480836,
+    50.452553,
+    -4.480836,
+    50.452553
+],
   "geometry": {"coordinates":[-4.480836,50.452553],"type":"Point"}
 }

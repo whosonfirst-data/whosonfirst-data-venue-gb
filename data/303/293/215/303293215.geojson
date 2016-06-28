@@ -2,13 +2,14 @@
   "id": 303293215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.929368,52.435532,-1.929368,52.435532",
     "geom:latitude":52.435532,
     "geom:longitude":-1.929368,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Raddlebarn Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":303293215,
-    "wof:lastmodified":1448998595,
+    "wof:lastmodified":1466271629,
     "wof:name":"John Wilson & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "conveyancing"
     ]
 },
-  "bbox": [-1.929368,52.435532,-1.929368,52.435532],
+  "bbox": [
+    -1.929368,
+    52.435532,
+    -1.929368,
+    52.435532
+],
   "geometry": {"coordinates":[-1.929368,52.435532],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253224489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.161233,55.777706,-4.161233,55.777706",
     "geom:latitude":55.777706,
     "geom:longitude":-4.161233,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Braeview Pl, East Kilbride",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253224489,
-    "wof:lastmodified":1449064989,
+    "wof:lastmodified":1466261751,
     "wof:name":"Munro's Transport (Aberdeen) Ltd",
     "wof:parent_id":85792543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "road"
     ]
 },
-  "bbox": [-4.161233,55.777706,-4.161233,55.777706],
+  "bbox": [
+    -4.161233,
+    55.777706,
+    -4.161233,
+    55.777706
+],
   "geometry": {"coordinates":[-4.161233,55.777706],"type":"Point"}
 }

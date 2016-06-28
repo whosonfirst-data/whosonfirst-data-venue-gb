@@ -2,13 +2,14 @@
   "id": 135767415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.044677,55.84053,-3.044677,55.84053",
     "geom:latitude":55.84053,
     "geom:longitude":-3.044677,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Springfield Place",
     "sg:city":"Gorebridge",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135767415,
-    "wof:lastmodified":1449021879,
+    "wof:lastmodified":1466287016,
     "wof:name":"E & W Private Hire",
     "wof:parent_id":101873499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.044677,55.84053,-3.044677,55.84053],
+  "bbox": [
+    -3.044677,
+    55.84053,
+    -3.044677,
+    55.84053
+],
   "geometry": {"coordinates":[-3.044677,55.84053],"type":"Point"}
 }

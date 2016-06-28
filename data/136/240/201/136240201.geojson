@@ -2,13 +2,14 @@
   "id": 136240201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.624613,55.700565,-3.624613,55.700565",
     "geom:latitude":55.700565,
     "geom:longitude":-3.624613,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Blackhill Farm, Carnwath",
     "sg:city":"Lanark",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136240201,
-    "wof:lastmodified":1449075038,
+    "wof:lastmodified":1466263117,
     "wof:name":"Duncan Dornan",
     "wof:parent_id":101872447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.624613,55.700565,-3.624613,55.700565],
+  "bbox": [
+    -3.624613,
+    55.700565,
+    -3.624613,
+    55.700565
+],
   "geometry": {"coordinates":[-3.624613,55.700565],"type":"Point"}
 }

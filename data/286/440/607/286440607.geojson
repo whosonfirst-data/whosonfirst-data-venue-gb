@@ -2,13 +2,14 @@
   "id": 286440607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.426038,53.264179,-1.426038,53.264179",
     "geom:latitude":53.264179,
     "geom:longitude":-1.426038,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3/4, Whitting Valley Road",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286440607,
-    "wof:lastmodified":1449016222,
+    "wof:lastmodified":1466267631,
     "wof:name":"Millington Kitchens",
     "wof:parent_id":85791649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-1.426038,53.264179,-1.426038,53.264179],
+  "bbox": [
+    -1.426038,
+    53.264179,
+    -1.426038,
+    53.264179
+],
   "geometry": {"coordinates":[-1.426038,53.264179],"type":"Point"}
 }

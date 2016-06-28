@@ -2,13 +2,14 @@
   "id": 253408279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.900441,52.508686,-1.900441,52.508686",
     "geom:latitude":52.508686,
     "geom:longitude":-1.900441,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Trinity Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":253408279,
-    "wof:lastmodified":1449063189,
+    "wof:lastmodified":1466265755,
     "wof:name":"Welford House Probation Hostel",
     "wof:parent_id":85785713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "probation"
     ]
 },
-  "bbox": [-1.900441,52.508686,-1.900441,52.508686],
+  "bbox": [
+    -1.900441,
+    52.508686,
+    -1.900441,
+    52.508686
+],
   "geometry": {"coordinates":[-1.900441,52.508686],"type":"Point"}
 }

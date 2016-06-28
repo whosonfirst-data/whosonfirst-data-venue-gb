@@ -2,13 +2,14 @@
   "id": 119018755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.042289,53.79792,-3.042289,53.79792",
     "geom:latitude":53.79792,
     "geom:longitude":-3.042289,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 St Annes Road",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119018755,
-    "wof:lastmodified":1449042165,
+    "wof:lastmodified":1466275492,
     "wof:name":"Select Bathrooms",
     "wof:parent_id":85866811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.042289,53.79792,-3.042289,53.79792],
+  "bbox": [
+    -3.042289,
+    53.79792,
+    -3.042289,
+    53.79792
+],
   "geometry": {"coordinates":[-3.042289,53.79792],"type":"Point"}
 }

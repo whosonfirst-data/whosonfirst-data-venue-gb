@@ -2,13 +2,14 @@
   "id": 135549811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.22293,55.885941,-4.22293,55.885941",
     "geom:latitude":55.885941,
     "geom:longitude":-4.22293,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34-36 Drumbottie Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135549811,
-    "wof:lastmodified":1449021836,
+    "wof:lastmodified":1466279370,
     "wof:name":"Balornock Sub Post Office",
     "wof:parent_id":85790559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.22293,55.885941,-4.22293,55.885941],
+  "bbox": [
+    -4.22293,
+    55.885941,
+    -4.22293,
+    55.885941
+],
   "geometry": {"coordinates":[-4.22293,55.885941],"type":"Point"}
 }

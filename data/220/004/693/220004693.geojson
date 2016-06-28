@@ -2,13 +2,14 @@
   "id": 220004693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.185876,55.767391,-4.185876,55.767391",
     "geom:latitude":55.767391,
     "geom:longitude":-4.185876,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Princes Square, East Kilbride",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":220004693,
-    "wof:lastmodified":1449074319,
+    "wof:lastmodified":1466253021,
     "wof:name":"Prentice Travel",
     "wof:parent_id":85792549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.185876,55.767391,-4.185876,55.767391],
+  "bbox": [
+    -4.185876,
+    55.767391,
+    -4.185876,
+    55.767391
+],
   "geometry": {"coordinates":[-4.185876,55.767391],"type":"Point"}
 }

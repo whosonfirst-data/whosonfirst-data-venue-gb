@@ -2,13 +2,14 @@
   "id": 202375909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.49635,51.788555,-1.49635,51.788555",
     "geom:latitude":51.788555,
     "geom:longitude":-1.49635,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Davenport Road",
     "sg:city":"Witney",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202375909,
-    "wof:lastmodified":1449060188,
+    "wof:lastmodified":1466275342,
     "wof:name":"Cotswold Hygiene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cleansing"
     ]
 },
-  "bbox": [-1.49635,51.788555,-1.49635,51.788555],
+  "bbox": [
+    -1.49635,
+    51.788555,
+    -1.49635,
+    51.788555
+],
   "geometry": {"coordinates":[-1.49635,51.788555],"type":"Point"}
 }

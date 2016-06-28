@@ -2,13 +2,14 @@
   "id": 303070705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.135025,52.623299,-1.135025,52.623299",
     "geom:latitude":52.623299,
     "geom:longitude":-1.135025,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"99-99a Aylestone Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303070705,
-    "wof:lastmodified":1448999314,
+    "wof:lastmodified":1466264615,
     "wof:name":"Mobility Showcase",
     "wof:parent_id":85785953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "disability"
     ]
 },
-  "bbox": [-1.135025,52.623299,-1.135025,52.623299],
+  "bbox": [
+    -1.135025,
+    52.623299,
+    -1.135025,
+    52.623299
+],
   "geometry": {"coordinates":[-1.135025,52.623299],"type":"Point"}
 }

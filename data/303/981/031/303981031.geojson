@@ -2,13 +2,14 @@
   "id": 303981031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.335337,55.905148,-4.335337,55.905148",
     "geom:latitude":55.905148,
     "geom:longitude":-4.335337,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Maxwell Avenue, Bearsden",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303981031,
-    "wof:lastmodified":1449000610,
+    "wof:lastmodified":1466285243,
     "wof:name":"William Smith",
     "wof:parent_id":85785315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "heating"
     ]
 },
-  "bbox": [-4.335337,55.905148,-4.335337,55.905148],
+  "bbox": [
+    -4.335337,
+    55.905148,
+    -4.335337,
+    55.905148
+],
   "geometry": {"coordinates":[-4.335337,55.905148],"type":"Point"}
 }

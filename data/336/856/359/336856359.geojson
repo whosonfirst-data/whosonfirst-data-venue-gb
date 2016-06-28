@@ -2,13 +2,14 @@
   "id": 336856359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.18715,55.951214,-3.18715,55.951214",
     "geom:latitude":55.951214,
     "geom:longitude":-3.18715,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Jeffrey Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336856359,
-    "wof:lastmodified":1448997255,
+    "wof:lastmodified":1466279484,
     "wof:name":"Wilson McLeod",
     "wof:parent_id":85792703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-3.18715,55.951214,-3.18715,55.951214],
+  "bbox": [
+    -3.18715,
+    55.951214,
+    -3.18715,
+    55.951214
+],
   "geometry": {"coordinates":[-3.18715,55.951214],"type":"Point"}
 }

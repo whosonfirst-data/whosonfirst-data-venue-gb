@@ -2,13 +2,14 @@
   "id": 253541507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.950031,51.913036,-3.950031,51.913036",
     "geom:latitude":51.913036,
     "geom:longitude":-3.950031,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Caledfwlch",
     "sg:city":"Llandeilo",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":253541507,
-    "wof:lastmodified":1449063142,
+    "wof:lastmodified":1466269179,
     "wof:name":"Llandeilo Taxi Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "private"
     ]
 },
-  "bbox": [-3.950031,51.913036,-3.950031,51.913036],
+  "bbox": [
+    -3.950031,
+    51.913036,
+    -3.950031,
+    51.913036
+],
   "geometry": {"coordinates":[-3.950031,51.913036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102709475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.499744,50.992844,-1.499744,50.992844",
     "geom:latitude":50.992844,
     "geom:longitude":-1.499744,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Greatbridge Road",
     "sg:city":"Romsey",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102709475,
-    "wof:lastmodified":1449068288,
+    "wof:lastmodified":1466256720,
     "wof:name":"Gratebridge Motor Services",
     "wof:parent_id":101852477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.499744,50.992844,-1.499744,50.992844],
+  "bbox": [
+    -1.499744,
+    50.992844,
+    -1.499744,
+    50.992844
+],
   "geometry": {"coordinates":[-1.499744,50.992844],"type":"Point"}
 }

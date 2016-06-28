@@ -2,13 +2,14 @@
   "id": 303975223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.262536,51.136486,0.262536,51.136486",
     "geom:latitude":51.136486,
     "geom:longitude":0.262536,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"York House, 58 Grosvenor Road",
     "sg:city":"Tunbridge Wells",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303975223,
-    "wof:lastmodified":1449000226,
+    "wof:lastmodified":1466285298,
     "wof:name":"Reachout",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "charity"
     ]
 },
-  "bbox": [0.262536,51.136486,0.262536,51.136486],
+  "bbox": [
+    0.262536,
+    51.136486,
+    0.262536,
+    51.136486
+],
   "geometry": {"coordinates":[0.262536,51.136486],"type":"Point"}
 }

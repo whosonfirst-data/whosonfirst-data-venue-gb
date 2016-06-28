@@ -2,13 +2,14 @@
   "id": 119324629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.223243,53.486504,-2.223243,53.486504",
     "geom:latitude":53.486504,
     "geom:longitude":-2.223243,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Harriet Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119324629,
-    "wof:lastmodified":1449042414,
+    "wof:lastmodified":1466281580,
     "wof:name":"Road Rider Despatch Manchester",
     "wof:parent_id":85793015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.223243,53.486504,-2.223243,53.486504],
+  "bbox": [
+    -2.223243,
+    53.486504,
+    -2.223243,
+    53.486504
+],
   "geometry": {"coordinates":[-2.223243,53.486504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303662245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.33631,50.927483,-1.33631,50.927483",
     "geom:latitude":50.927483,
     "geom:longitude":-1.33631,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48 High Street, West End",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303662245,
-    "wof:lastmodified":1448999772,
+    "wof:lastmodified":1466281002,
     "wof:name":"E & Sons Beale",
     "wof:parent_id":85792811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.33631,50.927483,-1.33631,50.927483],
+  "bbox": [
+    -1.33631,
+    50.927483,
+    -1.33631,
+    50.927483
+],
   "geometry": {"coordinates":[-1.33631,50.927483],"type":"Point"}
 }

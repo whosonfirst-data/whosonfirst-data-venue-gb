@@ -2,13 +2,14 @@
   "id": 135362041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.254592,50.860451,-1.254592,50.860451",
     "geom:latitude":50.860451,
     "geom:longitude":-1.254592,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Steeple Way",
     "sg:city":"Fareham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135362041,
-    "wof:lastmodified":1449022962,
+    "wof:lastmodified":1466258597,
     "wof:name":"Steve Lawley",
     "wof:parent_id":85861211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.254592,50.860451,-1.254592,50.860451],
+  "bbox": [
+    -1.254592,
+    50.860451,
+    -1.254592,
+    50.860451
+],
   "geometry": {"coordinates":[-1.254592,50.860451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135595727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.536008,52.291737,-1.536008,52.291737",
     "geom:latitude":52.291737,
     "geom:longitude":-1.536008,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"48-50 The Parade",
     "sg:city":"Leamington Spa",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135595727,
-    "wof:lastmodified":1449023706,
+    "wof:lastmodified":1466282267,
     "wof:name":"Burton Menswear",
     "wof:parent_id":101750473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.536008,52.291737,-1.536008,52.291737],
+  "bbox": [
+    -1.536008,
+    52.291737,
+    -1.536008,
+    52.291737
+],
   "geometry": {"coordinates":[-1.536008,52.291737],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118845091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.981243,55.940025,-3.981243,55.940025",
     "geom:latitude":55.940025,
     "geom:longitude":-3.981243,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Kelvin Road North, Cumbernauld",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118845091,
-    "wof:lastmodified":1449053365,
+    "wof:lastmodified":1466276069,
     "wof:name":"Floor Cleaning Equipment",
     "wof:parent_id":101750633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.981243,55.940025,-3.981243,55.940025],
+  "bbox": [
+    -3.981243,
+    55.940025,
+    -3.981243,
+    55.940025
+],
   "geometry": {"coordinates":[-3.981243,55.940025],"type":"Point"}
 }

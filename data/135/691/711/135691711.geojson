@@ -2,13 +2,14 @@
   "id": 135691711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.509569,52.444469,-1.509569,52.444469",
     "geom:latitude":52.444469,
     "geom:longitude":-1.509569,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"361-363 Holbrook Lane",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135691711,
-    "wof:lastmodified":1449021252,
+    "wof:lastmodified":1466285838,
     "wof:name":"Coventry Building Society",
     "wof:parent_id":85864245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.509569,52.444469,-1.509569,52.444469],
+  "bbox": [
+    -1.509569,
+    52.444469,
+    -1.509569,
+    52.444469
+],
   "geometry": {"coordinates":[-1.509569,52.444469],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185896963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.949552,51.709686,-4.949552,51.709686",
     "geom:latitude":51.709686,
     "geom:longitude":-4.949552,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"94 High Street, Neyland",
     "sg:city":"Milford Haven",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185896963,
-    "wof:lastmodified":1449007181,
+    "wof:lastmodified":1466255857,
     "wof:name":"Neyland Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chemist"
     ]
 },
-  "bbox": [-4.949552,51.709686,-4.949552,51.709686],
+  "bbox": [
+    -4.949552,
+    51.709686,
+    -4.949552,
+    51.709686
+],
   "geometry": {"coordinates":[-4.949552,51.709686],"type":"Point"}
 }

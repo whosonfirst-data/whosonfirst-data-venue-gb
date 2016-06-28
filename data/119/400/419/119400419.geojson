@@ -2,13 +2,14 @@
   "id": 119400419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.242599,52.391949,-1.242599,52.391949",
     "geom:latitude":52.391949,
     "geom:longitude":-1.242599,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Helvellyn Way",
     "sg:city":"Rugby",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119400419,
-    "wof:lastmodified":1449041108,
+    "wof:lastmodified":1466285127,
     "wof:name":"Christ Church",
     "wof:parent_id":85786087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.242599,52.391949,-1.242599,52.391949],
+  "bbox": [
+    -1.242599,
+    52.391949,
+    -1.242599,
+    52.391949
+],
   "geometry": {"coordinates":[-1.242599,52.391949],"type":"Point"}
 }

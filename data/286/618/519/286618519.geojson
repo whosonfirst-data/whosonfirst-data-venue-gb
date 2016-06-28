@@ -2,13 +2,14 @@
   "id": 286618519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.071051,53.473721,-2.071051,53.473721",
     "geom:latitude":53.473721,
     "geom:longitude":-2.071051,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Cheetham Hill Road",
     "sg:city":"Dukinfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286618519,
-    "wof:lastmodified":1449017035,
+    "wof:lastmodified":1466273306,
     "wof:name":"Golden Phoenix",
     "wof:parent_id":85786995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "take"
     ]
 },
-  "bbox": [-2.071051,53.473721,-2.071051,53.473721],
+  "bbox": [
+    -2.071051,
+    53.473721,
+    -2.071051,
+    53.473721
+],
   "geometry": {"coordinates":[-2.071051,53.473721],"type":"Point"}
 }

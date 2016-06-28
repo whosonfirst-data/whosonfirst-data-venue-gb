@@ -2,13 +2,14 @@
   "id": 270358199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.433253,50.921906,-1.433253,50.921906",
     "geom:latitude":50.921906,
     "geom:longitude":-1.433253,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Shirley High Street",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270358199,
-    "wof:lastmodified":1449009669,
+    "wof:lastmodified":1466271187,
     "wof:name":"Shirley Curtain Centre",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "curtain"
     ]
 },
-  "bbox": [-1.433253,50.921906,-1.433253,50.921906],
+  "bbox": [
+    -1.433253,
+    50.921906,
+    -1.433253,
+    50.921906
+],
   "geometry": {"coordinates":[-1.433253,50.921906],"type":"Point"}
 }

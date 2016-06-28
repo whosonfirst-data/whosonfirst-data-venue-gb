@@ -2,13 +2,14 @@
   "id": 135315181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.556027,50.454796,-3.556027,50.454796",
     "geom:latitude":50.454796,
     "geom:longitude":-3.556027,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Roundhill Road",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135315181,
-    "wof:lastmodified":1449023839,
+    "wof:lastmodified":1466253080,
     "wof:name":"David Jones",
     "wof:parent_id":101750299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.556027,50.454796,-3.556027,50.454796],
+  "bbox": [
+    -3.556027,
+    50.454796,
+    -3.556027,
+    50.454796
+],
   "geometry": {"coordinates":[-3.556027,50.454796],"type":"Point"}
 }

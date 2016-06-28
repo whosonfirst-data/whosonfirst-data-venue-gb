@@ -2,13 +2,14 @@
   "id": 102585967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.042811,53.904705,-3.042811,53.904705",
     "geom:latitude":53.904705,
     "geom:longitude":-3.042811,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Medway Avenue",
     "sg:city":"Fleetwood",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102585967,
-    "wof:lastmodified":1449069389,
+    "wof:lastmodified":1466275800,
     "wof:name":"Steve Higgin Landscapes",
     "wof:parent_id":101750591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.042811,53.904705,-3.042811,53.904705],
+  "bbox": [
+    -3.042811,
+    53.904705,
+    -3.042811,
+    53.904705
+],
   "geometry": {"coordinates":[-3.042811,53.904705],"type":"Point"}
 }

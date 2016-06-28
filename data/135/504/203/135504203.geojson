@@ -2,13 +2,14 @@
   "id": 135504203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.443649,50.530914,-2.443649,50.530914",
     "geom:latitude":50.530914,
     "geom:longitude":-2.443649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Avalanche Road",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135504203,
-    "wof:lastmodified":1449021498,
+    "wof:lastmodified":1466274986,
     "wof:name":"Pats Taxis",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.443649,50.530914,-2.443649,50.530914],
+  "bbox": [
+    -2.443649,
+    50.530914,
+    -2.443649,
+    50.530914
+],
   "geometry": {"coordinates":[-2.443649,50.530914],"type":"Point"}
 }

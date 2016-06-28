@@ -2,13 +2,14 @@
   "id": 303203311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.357725,51.451069,-0.357725,51.451069",
     "geom:latitude":51.451069,
     "geom:longitude":-0.357725,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"73 High Street, Whitton",
     "sg:city":"Twickenham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303203311,
-    "wof:lastmodified":1448999203,
+    "wof:lastmodified":1466268897,
     "wof:name":"Curtain Call Interiors",
     "wof:parent_id":85860725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "curtain"
     ]
 },
-  "bbox": [-0.357725,51.451069,-0.357725,51.451069],
+  "bbox": [
+    -0.357725,
+    51.451069,
+    -0.357725,
+    51.451069
+],
   "geometry": {"coordinates":[-0.357725,51.451069],"type":"Point"}
 }

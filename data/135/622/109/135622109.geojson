@@ -2,13 +2,14 @@
   "id": 135622109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.428374,53.579353,-2.428374,53.579353",
     "geom:latitude":53.579353,
     "geom:longitude":-2.428374,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10-12 Mealhouse Lane",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135622109,
-    "wof:lastmodified":1449023470,
+    "wof:lastmodified":1466283564,
     "wof:name":"Woolwich Ltd",
     "wof:parent_id":85792953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.428374,53.579353,-2.428374,53.579353],
+  "bbox": [
+    -2.428374,
+    53.579353,
+    -2.428374,
+    53.579353
+],
   "geometry": {"coordinates":[-2.428374,53.579353],"type":"Point"}
 }

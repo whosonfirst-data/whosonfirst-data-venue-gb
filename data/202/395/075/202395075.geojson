@@ -2,13 +2,14 @@
   "id": 202395075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.606969,54.953415,-1.606969,54.953415",
     "geom:latitude":54.953415,
     "geom:longitude":-1.606969,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Coatsworth Road",
     "sg:city":"Gateshead",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202395075,
-    "wof:lastmodified":1449062288,
+    "wof:lastmodified":1466277937,
     "wof:name":"My Fair Lady",
     "wof:parent_id":85785619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.606969,54.953415,-1.606969,54.953415],
+  "bbox": [
+    -1.606969,
+    54.953415,
+    -1.606969,
+    54.953415
+],
   "geometry": {"coordinates":[-1.606969,54.953415],"type":"Point"}
 }

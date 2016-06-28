@@ -2,13 +2,14 @@
   "id": 119032355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.200544,50.912426,-2.200544,50.912426",
     "geom:latitude":50.912426,
     "geom:longitude":-2.200544,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Shroton, Iwerne Courtney",
     "sg:city":"Blandford Forum",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119032355,
-    "wof:lastmodified":1449042136,
+    "wof:lastmodified":1466277463,
     "wof:name":"The Cricketers",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.200544,50.912426,-2.200544,50.912426],
+  "bbox": [
+    -2.200544,
+    50.912426,
+    -2.200544,
+    50.912426
+],
   "geometry": {"coordinates":[-2.200544,50.912426],"type":"Point"}
 }

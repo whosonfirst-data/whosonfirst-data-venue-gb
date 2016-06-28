@@ -2,13 +2,14 @@
   "id": 185758301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.32481,51.5098,-0.32481,51.5098",
     "geom:latitude":51.5098,
     "geom:longitude":-0.32481,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85-87 The Bdwy, West Ealing",
     "sg:city":"London",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185758301,
-    "wof:lastmodified":1449007089,
+    "wof:lastmodified":1466254110,
     "wof:name":"Burger King",
     "wof:parent_id":85787907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "take"
     ]
 },
-  "bbox": [-0.32481,51.5098,-0.32481,51.5098],
+  "bbox": [
+    -0.32481,
+    51.5098,
+    -0.32481,
+    51.5098
+],
   "geometry": {"coordinates":[-0.32481,51.5098],"type":"Point"}
 }

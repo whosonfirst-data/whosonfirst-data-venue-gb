@@ -2,13 +2,14 @@
   "id": 303404005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.300899,51.51405,-0.300899,51.51405",
     "geom:latitude":51.51405,
     "geom:longitude":-0.300899,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 The Mall",
     "sg:city":"Ealing",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303404005,
-    "wof:lastmodified":1448999743,
+    "wof:lastmodified":1466275012,
     "wof:name":"Octavia",
     "wof:parent_id":85860781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "night"
     ]
 },
-  "bbox": [-0.300899,51.51405,-0.300899,51.51405],
+  "bbox": [
+    -0.300899,
+    51.51405,
+    -0.300899,
+    51.51405
+],
   "geometry": {"coordinates":[-0.300899,51.51405],"type":"Point"}
 }

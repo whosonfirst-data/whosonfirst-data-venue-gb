@@ -2,13 +2,14 @@
   "id": 320560919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.420974,53.085831,-2.420974,53.085831",
     "geom:latitude":53.085831,
     "geom:longitude":-2.420974,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Fourth Avenue",
     "sg:city":"Crewe",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":320560919,
-    "wof:lastmodified":1449014087,
+    "wof:lastmodified":1466282238,
     "wof:name":"1 Stop M O T Centre",
     "wof:parent_id":85786645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mot"
     ]
 },
-  "bbox": [-2.420974,53.085831,-2.420974,53.085831],
+  "bbox": [
+    -2.420974,
+    53.085831,
+    -2.420974,
+    53.085831
+],
   "geometry": {"coordinates":[-2.420974,53.085831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303573419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.132288,52.979343,-2.132288,52.979343",
     "geom:latitude":52.979343,
     "geom:longitude":-2.132288,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Belgrave Rd, Longton",
     "sg:city":"Stoke On Trent",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303573419,
-    "wof:lastmodified":1448999925,
+    "wof:lastmodified":1466279394,
     "wof:name":"Millers Madeley Chemist",
     "wof:parent_id":85787077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "chemist"
     ]
 },
-  "bbox": [-2.132288,52.979343,-2.132288,52.979343],
+  "bbox": [
+    -2.132288,
+    52.979343,
+    -2.132288,
+    52.979343
+],
   "geometry": {"coordinates":[-2.132288,52.979343],"type":"Point"}
 }

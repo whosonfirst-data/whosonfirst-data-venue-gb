@@ -2,13 +2,14 @@
   "id": 135439973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.741583,52.196243,-1.741583,52.196243",
     "geom:latitude":52.196243,
     "geom:longitude":-1.741583,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Alcester Road",
     "sg:city":"Stratford-upon-avon",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":135439973,
-    "wof:lastmodified":1449021842,
+    "wof:lastmodified":1466267428,
     "wof:name":"Rouse & Brook",
     "wof:parent_id":85683907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.741583,52.196243,-1.741583,52.196243],
+  "bbox": [
+    -1.741583,
+    52.196243,
+    -1.741583,
+    52.196243
+],
   "geometry": {"coordinates":[-1.741583,52.196243],"type":"Point"}
 }

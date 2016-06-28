@@ -2,13 +2,14 @@
   "id": 269677299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.277534,53.41103,-2.277534,53.41103",
     "geom:latitude":53.41103,
     "geom:longitude":-2.277534,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Sale Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269677299,
-    "wof:lastmodified":1449036996,
+    "wof:lastmodified":1466265938,
     "wof:name":"Country Bakery",
     "wof:parent_id":85785441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-2.277534,53.41103,-2.277534,53.41103],
+  "bbox": [
+    -2.277534,
+    53.41103,
+    -2.277534,
+    53.41103
+],
   "geometry": {"coordinates":[-2.277534,53.41103],"type":"Point"}
 }

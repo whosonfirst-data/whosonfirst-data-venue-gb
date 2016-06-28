@@ -2,13 +2,14 @@
   "id": 303326603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.234799,53.480862,-2.234799,53.480862",
     "geom:latitude":53.480862,
     "geom:longitude":-2.234799,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"49a Piccadilly",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":303326603,
-    "wof:lastmodified":1448999160,
+    "wof:lastmodified":1466272645,
     "wof:name":"Wetherspoons plc",
     "wof:parent_id":85792993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "activity"
     ]
 },
-  "bbox": [-2.234799,53.480862,-2.234799,53.480862],
+  "bbox": [
+    -2.234799,
+    53.480862,
+    -2.234799,
+    53.480862
+],
   "geometry": {"coordinates":[-2.234799,53.480862],"type":"Point"}
 }

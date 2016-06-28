@@ -2,13 +2,14 @@
   "id": 303973741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.11196,52.529495,-2.11196,52.529495",
     "geom:latitude":52.529495,
     "geom:longitude":-2.11196,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 St James's Road",
     "sg:city":"Dudley",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303973741,
-    "wof:lastmodified":1448999586,
+    "wof:lastmodified":1466285168,
     "wof:name":"Gables Dental Surgery",
     "wof:parent_id":85791793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.11196,52.529495,-2.11196,52.529495],
+  "bbox": [
+    -2.11196,
+    52.529495,
+    -2.11196,
+    52.529495
+],
   "geometry": {"coordinates":[-2.11196,52.529495],"type":"Point"}
 }

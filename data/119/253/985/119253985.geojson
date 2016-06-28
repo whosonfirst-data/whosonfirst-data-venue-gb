@@ -2,13 +2,14 @@
   "id": 119253985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.573922,51.49559,-2.573922,51.49559",
     "geom:latitude":51.49559,
     "geom:longitude":-2.573922,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Filton Avenue, Horfield",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119253985,
-    "wof:lastmodified":1449043204,
+    "wof:lastmodified":1466275235,
     "wof:name":"The Fellowship",
     "wof:parent_id":85789507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.573922,51.49559,-2.573922,51.49559],
+  "bbox": [
+    -2.573922,
+    51.49559,
+    -2.573922,
+    51.49559
+],
   "geometry": {"coordinates":[-2.573922,51.49559],"type":"Point"}
 }

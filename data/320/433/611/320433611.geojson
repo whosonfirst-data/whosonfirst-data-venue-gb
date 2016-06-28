@@ -2,13 +2,14 @@
   "id": 320433611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.13038,52.65987,-1.13038,52.65987",
     "geom:latitude":52.65987,
     "geom:longitude":-1.13038,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Plot 7 Whitefield Rd",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320433611,
-    "wof:lastmodified":1449011678,
+    "wof:lastmodified":1466280175,
     "wof:name":"P Lygo Car Breakers",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dismantlers"
     ]
 },
-  "bbox": [-1.13038,52.65987,-1.13038,52.65987],
+  "bbox": [
+    -1.13038,
+    52.65987,
+    -1.13038,
+    52.65987
+],
   "geometry": {"coordinates":[-1.13038,52.65987],"type":"Point"}
 }

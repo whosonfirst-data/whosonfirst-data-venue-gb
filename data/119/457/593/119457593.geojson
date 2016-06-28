@@ -2,13 +2,14 @@
   "id": 119457593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.765528,55.949661,-4.765528,55.949661",
     "geom:latitude":55.949661,
     "geom:longitude":-4.765528,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Nelson Street",
     "sg:city":"Greenock",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119457593,
-    "wof:lastmodified":1449042678,
+    "wof:lastmodified":1466286352,
     "wof:name":"Sheriff Clerk's Office",
     "wof:parent_id":85791237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.765528,55.949661,-4.765528,55.949661],
+  "bbox": [
+    -4.765528,
+    55.949661,
+    -4.765528,
+    55.949661
+],
   "geometry": {"coordinates":[-4.765528,55.949661],"type":"Point"}
 }

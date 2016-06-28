@@ -2,13 +2,14 @@
   "id": 202452491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.845259,51.545357,-1.845259,51.545357",
     "geom:latitude":51.545357,
     "geom:longitude":-1.845259,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Symonds, Freshbrook",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202452491,
-    "wof:lastmodified":1449060702,
+    "wof:lastmodified":1466253404,
     "wof:name":"D & M Weddings",
     "wof:parent_id":85785833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [-1.845259,51.545357,-1.845259,51.545357],
+  "bbox": [
+    -1.845259,
+    51.545357,
+    -1.845259,
+    51.545357
+],
   "geometry": {"coordinates":[-1.845259,51.545357],"type":"Point"}
 }

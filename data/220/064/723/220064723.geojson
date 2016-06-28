@@ -2,13 +2,14 @@
   "id": 220064723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.806513,54.859604,-1.806513,54.859604",
     "geom:latitude":54.859604,
     "geom:longitude":-1.806513,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Front Stre, Leadgate",
     "sg:city":"Consett",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":220064723,
-    "wof:lastmodified":1449074306,
+    "wof:lastmodified":1466254056,
     "wof:name":"Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.806513,54.859604,-1.806513,54.859604],
+  "bbox": [
+    -1.806513,
+    54.859604,
+    -1.806513,
+    54.859604
+],
   "geometry": {"coordinates":[-1.806513,54.859604],"type":"Point"}
 }

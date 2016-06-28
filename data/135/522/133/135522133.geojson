@@ -2,13 +2,14 @@
   "id": 135522133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.389486,53.796146,-1.389486,53.796146",
     "geom:latitude":53.796146,
     "geom:longitude":-1.389486,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Wakefield Rd",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135522133,
-    "wof:lastmodified":1449022455,
+    "wof:lastmodified":1466277090,
     "wof:name":"Davis, S M",
     "wof:parent_id":85860949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.389486,53.796146,-1.389486,53.796146],
+  "bbox": [
+    -1.389486,
+    53.796146,
+    -1.389486,
+    53.796146
+],
   "geometry": {"coordinates":[-1.389486,53.796146],"type":"Point"}
 }

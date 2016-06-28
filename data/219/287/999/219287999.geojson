@@ -2,13 +2,14 @@
   "id": 219287999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.134268,53.521004,-2.134268,53.521004",
     "geom:latitude":53.521004,
     "geom:longitude":-2.134268,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"732 Hollins Road, Hollingwood",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219287999,
-    "wof:lastmodified":1449070597,
+    "wof:lastmodified":1466255054,
     "wof:name":"Global News",
     "wof:parent_id":85793081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.134268,53.521004,-2.134268,53.521004],
+  "bbox": [
+    -2.134268,
+    53.521004,
+    -2.134268,
+    53.521004
+],
   "geometry": {"coordinates":[-2.134268,53.521004],"type":"Point"}
 }

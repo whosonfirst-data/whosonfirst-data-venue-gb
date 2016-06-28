@@ -2,13 +2,14 @@
   "id": 202689885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.063452,50.83997,-1.063452,50.83997",
     "geom:latitude":50.83997,
     "geom:longitude":-1.063452,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Chatsworth Avenue",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202689885,
-    "wof:lastmodified":1449062236,
+    "wof:lastmodified":1466257294,
     "wof:name":"Highbury Hairdressers",
     "wof:parent_id":85861961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.063452,50.83997,-1.063452,50.83997],
+  "bbox": [
+    -1.063452,
+    50.83997,
+    -1.063452,
+    50.83997
+],
   "geometry": {"coordinates":[-1.063452,50.83997],"type":"Point"}
 }

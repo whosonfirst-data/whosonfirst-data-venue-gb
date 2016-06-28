@@ -2,13 +2,14 @@
   "id": 135391723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.348054,53.445911,-1.348054,53.445911",
     "geom:latitude":53.445911,
     "geom:longitude":-1.348054,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5, Gateway Court, Parkgate",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135391723,
-    "wof:lastmodified":1449022943,
+    "wof:lastmodified":1466261662,
     "wof:name":"Electrical Carbon & Contact (Central)",
     "wof:parent_id":85785261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.348054,53.445911,-1.348054,53.445911],
+  "bbox": [
+    -1.348054,
+    53.445911,
+    -1.348054,
+    53.445911
+],
   "geometry": {"coordinates":[-1.348054,53.445911],"type":"Point"}
 }

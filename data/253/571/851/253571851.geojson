@@ -2,13 +2,14 @@
   "id": 253571851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.533603,51.513523,-2.533603,51.513523",
     "geom:latitude":51.513523,
     "geom:longitude":-2.533603,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Hambrook Lane, Stoke Gifford",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253571851,
-    "wof:lastmodified":1449064862,
+    "wof:lastmodified":1466270186,
     "wof:name":"McKillop Scaffolding",
     "wof:parent_id":85787517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "scaffolding"
     ]
 },
-  "bbox": [-2.533603,51.513523,-2.533603,51.513523],
+  "bbox": [
+    -2.533603,
+    51.513523,
+    -2.533603,
+    51.513523
+],
   "geometry": {"coordinates":[-2.533603,51.513523],"type":"Point"}
 }

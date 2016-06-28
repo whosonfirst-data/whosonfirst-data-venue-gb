@@ -2,13 +2,14 @@
   "id": 303096901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.566222,53.79409,-1.566222,53.79409",
     "geom:latitude":53.79409,
     "geom:longitude":-1.566222,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5c, Wellington Road Industrial Estate, Wellington Bridge",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303096901,
-    "wof:lastmodified":1448998908,
+    "wof:lastmodified":1466265535,
     "wof:name":"Bemco Ltd.",
     "wof:parent_id":85789357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-1.566222,53.79409,-1.566222,53.79409],
+  "bbox": [
+    -1.566222,
+    53.79409,
+    -1.566222,
+    53.79409
+],
   "geometry": {"coordinates":[-1.566222,53.79409],"type":"Point"}
 }

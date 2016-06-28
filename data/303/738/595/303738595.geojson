@@ -2,13 +2,14 @@
   "id": 303738595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.808409,55.647339,-4.808409,55.647339",
     "geom:latitude":55.647339,
     "geom:longitude":-4.808409,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Glasgow Street",
     "sg:city":"Ardrossan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303738595,
-    "wof:lastmodified":1448999911,
+    "wof:lastmodified":1466282185,
     "wof:name":"Ardrossan Civic Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.808409,55.647339,-4.808409,55.647339],
+  "bbox": [
+    -4.808409,
+    55.647339,
+    -4.808409,
+    55.647339
+],
   "geometry": {"coordinates":[-4.808409,55.647339],"type":"Point"}
 }

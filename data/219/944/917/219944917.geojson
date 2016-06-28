@@ -2,13 +2,14 @@
   "id": 219944917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.544875,55.002796,-1.544875,55.002796",
     "geom:latitude":55.002796,
     "geom:longitude":-1.544875,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Chicken Road",
     "sg:city":"Wallsend",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219944917,
-    "wof:lastmodified":1449072149,
+    "wof:lastmodified":1466266304,
     "wof:name":"Post Office",
     "wof:parent_id":85791279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.544875,55.002796,-1.544875,55.002796],
+  "bbox": [
+    -1.544875,
+    55.002796,
+    -1.544875,
+    55.002796
+],
   "geometry": {"coordinates":[-1.544875,55.002796],"type":"Point"}
 }

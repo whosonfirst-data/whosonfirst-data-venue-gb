@@ -2,13 +2,14 @@
   "id": 118905275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.709731,52.196114,-1.709731,52.196114",
     "geom:latitude":52.196114,
     "geom:longitude":-1.709731,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1a Brewery Street",
     "sg:city":"Stratford-upon-avon",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118905275,
-    "wof:lastmodified":1449053698,
+    "wof:lastmodified":1466279705,
     "wof:name":"Heartlands Church",
     "wof:parent_id":101853071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.709731,52.196114,-1.709731,52.196114],
+  "bbox": [
+    -1.709731,
+    52.196114,
+    -1.709731,
+    52.196114
+],
   "geometry": {"coordinates":[-1.709731,52.196114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118919839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.281346,55.858307,-4.281346,55.858307",
     "geom:latitude":55.858307,
     "geom:longitude":-4.281346,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Finnieston Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":118919839,
-    "wof:lastmodified":1449054211,
+    "wof:lastmodified":1466280552,
     "wof:name":"Clyde Glasgow",
     "wof:parent_id":85792613,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.281346,55.858307,-4.281346,55.858307],
+  "bbox": [
+    -4.281346,
+    55.858307,
+    -4.281346,
+    55.858307
+],
   "geometry": {"coordinates":[-4.281346,55.858307],"type":"Point"}
 }

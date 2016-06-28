@@ -2,13 +2,14 @@
   "id": 253715207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.458367,54.008556,-1.458367,54.008556",
     "geom:latitude":54.008556,
     "geom:longitude":-1.458367,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Manor Drive",
     "sg:city":"Knaresborough",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":253715207,
-    "wof:lastmodified":1449065174,
+    "wof:lastmodified":1466274773,
     "wof:name":"Bob Shillan",
     "wof:parent_id":85790715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-1.458367,54.008556,-1.458367,54.008556],
+  "bbox": [
+    -1.458367,
+    54.008556,
+    -1.458367,
+    54.008556
+],
   "geometry": {"coordinates":[-1.458367,54.008556],"type":"Point"}
 }

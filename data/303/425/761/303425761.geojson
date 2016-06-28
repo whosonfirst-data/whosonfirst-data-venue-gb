@@ -2,13 +2,14 @@
   "id": 303425761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.593802,51.469776,-2.593802,51.469776",
     "geom:latitude":51.469776,
     "geom:longitude":-2.593802,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Gloucester Road, Bishopston",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303425761,
-    "wof:lastmodified":1448998982,
+    "wof:lastmodified":1466275606,
     "wof:name":"St Peter's Hospice Charity Shop",
     "wof:parent_id":85790575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "charity"
     ]
 },
-  "bbox": [-2.593802,51.469776,-2.593802,51.469776],
+  "bbox": [
+    -2.593802,
+    51.469776,
+    -2.593802,
+    51.469776
+],
   "geometry": {"coordinates":[-2.593802,51.469776],"type":"Point"}
 }

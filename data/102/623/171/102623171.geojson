@@ -2,13 +2,14 @@
   "id": 102623171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.224119,57.485298,-4.224119,57.485298",
     "geom:latitude":57.485298,
     "geom:longitude":-4.224119,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Burnett Road",
     "sg:city":"Inverness",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102623171,
-    "wof:lastmodified":1449069493,
+    "wof:lastmodified":1466253312,
     "wof:name":"A D Macdonald",
     "wof:parent_id":101873667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.224119,57.485298,-4.224119,57.485298],
+  "bbox": [
+    -4.224119,
+    57.485298,
+    -4.224119,
+    57.485298
+],
   "geometry": {"coordinates":[-4.224119,57.485298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303155567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.682567,53.866325,-1.682567,53.866325",
     "geom:latitude":53.866325,
     "geom:longitude":-1.682567,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65a High Street, Yeadon",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303155567,
-    "wof:lastmodified":1449000135,
+    "wof:lastmodified":1466267333,
     "wof:name":"G F I Hairdressing",
     "wof:parent_id":85786761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.682567,53.866325,-1.682567,53.866325],
+  "bbox": [
+    -1.682567,
+    53.866325,
+    -1.682567,
+    53.866325
+],
   "geometry": {"coordinates":[-1.682567,53.866325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 118544603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.547005,51.431622,-2.547005,51.431622",
     "geom:latitude":51.431622,
     "geom:longitude":-2.547005,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 West Town Lane, Brislington",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118544603,
-    "wof:lastmodified":1449054536,
+    "wof:lastmodified":1466253498,
     "wof:name":"Motostop",
     "wof:parent_id":85786019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.547005,51.431622,-2.547005,51.431622],
+  "bbox": [
+    -2.547005,
+    51.431622,
+    -2.547005,
+    51.431622
+],
   "geometry": {"coordinates":[-2.547005,51.431622],"type":"Point"}
 }

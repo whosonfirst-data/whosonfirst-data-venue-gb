@@ -2,13 +2,14 @@
   "id": 320504075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.576395,51.46294,-2.576395,51.46294",
     "geom:latitude":51.46294,
     "geom:longitude":-2.576395,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Alexander House, 160 Penniwell Road",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320504075,
-    "wof:lastmodified":1449011913,
+    "wof:lastmodified":1466281188,
     "wof:name":"Diocese of Clifton",
     "wof:parent_id":85790571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "organisation"
     ]
 },
-  "bbox": [-2.576395,51.46294,-2.576395,51.46294],
+  "bbox": [
+    -2.576395,
+    51.46294,
+    -2.576395,
+    51.46294
+],
   "geometry": {"coordinates":[-2.576395,51.46294],"type":"Point"}
 }

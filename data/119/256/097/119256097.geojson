@@ -2,13 +2,14 @@
   "id": 119256097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.720807,56.003155,-3.720807,56.003155",
     "geom:latitude":56.003155,
     "geom:longitude":-3.720807,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bowhouse Square",
     "sg:city":"Grangemouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119256097,
-    "wof:lastmodified":1449042875,
+    "wof:lastmodified":1466275465,
     "wof:name":"Bowhouse Chip Shop",
     "wof:parent_id":85684399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.720807,56.003155,-3.720807,56.003155],
+  "bbox": [
+    -3.720807,
+    56.003155,
+    -3.720807,
+    56.003155
+],
   "geometry": {"coordinates":[-3.720807,56.003155],"type":"Point"}
 }

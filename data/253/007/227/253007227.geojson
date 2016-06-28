@@ -2,13 +2,14 @@
   "id": 253007227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.005257,53.634552,-3.005257,53.634552",
     "geom:latitude":53.634552,
     "geom:longitude":-3.005257,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Elm Road",
     "sg:city":"Southport",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253007227,
-    "wof:lastmodified":1449065258,
+    "wof:lastmodified":1466257582,
     "wof:name":"Southport Natural Gas Heating",
     "wof:parent_id":85785733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "heating"
     ]
 },
-  "bbox": [-3.005257,53.634552,-3.005257,53.634552],
+  "bbox": [
+    -3.005257,
+    53.634552,
+    -3.005257,
+    53.634552
+],
   "geometry": {"coordinates":[-3.005257,53.634552],"type":"Point"}
 }

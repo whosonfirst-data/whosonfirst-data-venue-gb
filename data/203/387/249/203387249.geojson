@@ -2,13 +2,14 @@
   "id": 203387249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.167655,51.463856,-0.167655,51.463856",
     "geom:latitude":51.463856,
     "geom:longitude":-0.167655,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Lavender Hill, Battersea",
     "sg:city":"London",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203387249,
-    "wof:lastmodified":1449026603,
+    "wof:lastmodified":1466259339,
     "wof:name":"Goldwater Wines",
     "wof:parent_id":85792345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [-0.167655,51.463856,-0.167655,51.463856],
+  "bbox": [
+    -0.167655,
+    51.463856,
+    -0.167655,
+    51.463856
+],
   "geometry": {"coordinates":[-0.167655,51.463856],"type":"Point"}
 }

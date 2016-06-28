@@ -2,13 +2,14 @@
   "id": 118703363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.651919,54.975559,-1.651919,54.975559",
     "geom:latitude":54.975559,
     "geom:longitude":-1.651919,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 West Road",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118703363,
-    "wof:lastmodified":1449053575,
+    "wof:lastmodified":1466265554,
     "wof:name":"Carpet Cabin",
     "wof:parent_id":85785351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.651919,54.975559,-1.651919,54.975559],
+  "bbox": [
+    -1.651919,
+    54.975559,
+    -1.651919,
+    54.975559
+],
   "geometry": {"coordinates":[-1.651919,54.975559],"type":"Point"}
 }

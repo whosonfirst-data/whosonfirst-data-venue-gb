@@ -2,13 +2,14 @@
   "id": 253384541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.367807,55.890038,-4.367807,55.890038",
     "geom:latitude":55.890038,
     "geom:longitude":-4.367807,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Holehouse Dr",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":253384541,
-    "wof:lastmodified":1449063191,
+    "wof:lastmodified":1466265159,
     "wof:name":"Blawarthill Hospital",
     "wof:parent_id":85790197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.367807,55.890038,-4.367807,55.890038],
+  "bbox": [
+    -4.367807,
+    55.890038,
+    -4.367807,
+    55.890038
+],
   "geometry": {"coordinates":[-4.367807,55.890038],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135372655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.50257,55.930244,-3.50257,55.930244",
     "geom:latitude":55.930244,
     "geom:longitude":-3.50257,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Alexander Street, Uphall",
     "sg:city":"Broxburn",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135372655,
-    "wof:lastmodified":1449022861,
+    "wof:lastmodified":1466259683,
     "wof:name":"Presentability",
     "wof:parent_id":85684249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.50257,55.930244,-3.50257,55.930244],
+  "bbox": [
+    -3.50257,
+    55.930244,
+    -3.50257,
+    55.930244
+],
   "geometry": {"coordinates":[-3.50257,55.930244],"type":"Point"}
 }

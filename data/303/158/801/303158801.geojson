@@ -2,13 +2,14 @@
   "id": 303158801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.887321,56.382706,-2.887321,56.382706",
     "geom:latitude":56.382706,
     "geom:longitude":-2.887321,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Barrack Square, Leuchars",
     "sg:city":"St Andrews",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303158801,
-    "wof:lastmodified":1448999747,
+    "wof:lastmodified":1466267442,
     "wof:name":"Naafi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.887321,56.382706,-2.887321,56.382706],
+  "bbox": [
+    -2.887321,
+    56.382706,
+    -2.887321,
+    56.382706
+],
   "geometry": {"coordinates":[-2.887321,56.382706],"type":"Point"}
 }

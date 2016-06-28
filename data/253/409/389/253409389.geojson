@@ -2,13 +2,14 @@
   "id": 253409389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.94503,50.743999,-1.94503,50.743999",
     "geom:latitude":50.743999,
     "geom:longitude":-1.94503,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rossmore Pde, Ringwood Rd",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253409389,
-    "wof:lastmodified":1449064043,
+    "wof:lastmodified":1466265783,
     "wof:name":"Rossmore Cafe",
     "wof:parent_id":85792773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "room"
     ]
 },
-  "bbox": [-1.94503,50.743999,-1.94503,50.743999],
+  "bbox": [
+    -1.94503,
+    50.743999,
+    -1.94503,
+    50.743999
+],
   "geometry": {"coordinates":[-1.94503,50.743999],"type":"Point"}
 }

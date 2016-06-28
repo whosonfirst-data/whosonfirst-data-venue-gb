@@ -2,13 +2,14 @@
   "id": 118746199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.539625,50.467625,-3.539625,50.467625",
     "geom:latitude":50.467625,
     "geom:longitude":-3.539625,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Belgrave Road",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":118746199,
-    "wof:lastmodified":1449053133,
+    "wof:lastmodified":1466268781,
     "wof:name":"Belmont Hotel",
     "wof:parent_id":101751577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.539625,50.467625,-3.539625,50.467625],
+  "bbox": [
+    -3.539625,
+    50.467625,
+    -3.539625,
+    50.467625
+],
   "geometry": {"coordinates":[-3.539625,50.467625],"type":"Point"}
 }

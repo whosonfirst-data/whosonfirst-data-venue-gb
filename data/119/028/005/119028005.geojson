@@ -2,13 +2,14 @@
   "id": 119028005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.716205,53.729256,-1.716205,53.729256",
     "geom:latitude":53.729256,
     "geom:longitude":-1.716205,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Bradford Road",
     "sg:city":"Cleckheaton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119028005,
-    "wof:lastmodified":1449042290,
+    "wof:lastmodified":1466276994,
     "wof:name":"Busy Lizzie",
     "wof:parent_id":85791619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.716205,53.729256,-1.716205,53.729256],
+  "bbox": [
+    -1.716205,
+    53.729256,
+    -1.716205,
+    53.729256
+],
   "geometry": {"coordinates":[-1.716205,53.729256],"type":"Point"}
 }

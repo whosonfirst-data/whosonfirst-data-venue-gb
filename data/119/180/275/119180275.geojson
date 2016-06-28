@@ -2,13 +2,14 @@
   "id": 119180275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.905586,53.705399,-1.905586,53.705399",
     "geom:latitude":53.705399,
     "geom:longitude":-1.905586,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"46-48 Sparkhouse Lane, Norland",
     "sg:city":"Sowerby Bridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119180275,
-    "wof:lastmodified":1449040990,
+    "wof:lastmodified":1466266924,
     "wof:name":"Sparkhouse Electrics",
     "wof:parent_id":85790183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.905586,53.705399,-1.905586,53.705399],
+  "bbox": [
+    -1.905586,
+    53.705399,
+    -1.905586,
+    53.705399
+],
   "geometry": {"coordinates":[-1.905586,53.705399],"type":"Point"}
 }

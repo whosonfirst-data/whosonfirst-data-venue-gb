@@ -2,13 +2,14 @@
   "id": 270023857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.986519,51.618008,-3.986519,51.618008",
     "geom:latitude":51.618008,
     "geom:longitude":-3.986519,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Dillwyn Road, Sketty",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":270023857,
-    "wof:lastmodified":1449010856,
+    "wof:lastmodified":1466261174,
     "wof:name":"Howard & Palmer",
     "wof:parent_id":85786099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "chemist"
     ]
 },
-  "bbox": [-3.986519,51.618008,-3.986519,51.618008],
+  "bbox": [
+    -3.986519,
+    51.618008,
+    -3.986519,
+    51.618008
+],
   "geometry": {"coordinates":[-3.986519,51.618008],"type":"Point"}
 }

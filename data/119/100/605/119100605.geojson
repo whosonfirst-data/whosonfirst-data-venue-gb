@@ -2,13 +2,14 @@
   "id": 119100605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.413926,53.344742,-1.413926,53.344742",
     "geom:latitude":53.344742,
     "geom:longitude":-1.413926,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Jaunty Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119100605,
-    "wof:lastmodified":1449042839,
+    "wof:lastmodified":1466258859,
     "wof:name":"Dmi Builders",
     "wof:parent_id":85787511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.413926,53.344742,-1.413926,53.344742],
+  "bbox": [
+    -1.413926,
+    53.344742,
+    -1.413926,
+    53.344742
+],
   "geometry": {"coordinates":[-1.413926,53.344742],"type":"Point"}
 }

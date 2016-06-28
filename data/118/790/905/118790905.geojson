@@ -2,13 +2,14 @@
   "id": 118790905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.695531,55.658539,-4.695531,55.658539",
     "geom:latitude":55.658539,
     "geom:longitude":-4.695531,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Druid Drive",
     "sg:city":"Kilwinning",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":118790905,
-    "wof:lastmodified":1449054232,
+    "wof:lastmodified":1466272068,
     "wof:name":"Kai's Taxis",
     "wof:parent_id":101872491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.695531,55.658539,-4.695531,55.658539],
+  "bbox": [
+    -4.695531,
+    55.658539,
+    -4.695531,
+    55.658539
+],
   "geometry": {"coordinates":[-4.695531,55.658539],"type":"Point"}
 }

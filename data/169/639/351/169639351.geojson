@@ -2,13 +2,14 @@
   "id": 169639351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.214418,55.950191,-3.214418,55.950191",
     "geom:latitude":55.950191,
     "geom:longitude":-3.214418,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Walker Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169639351,
-    "wof:lastmodified":1449035955,
+    "wof:lastmodified":1466277888,
     "wof:name":"Commissioner for Local Administration in Scotland",
     "wof:parent_id":85792719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-3.214418,55.950191,-3.214418,55.950191],
+  "bbox": [
+    -3.214418,
+    55.950191,
+    -3.214418,
+    55.950191
+],
   "geometry": {"coordinates":[-3.214418,55.950191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119434511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.127163,52.426483,-2.127163,52.426483",
     "geom:latitude":52.426483,
     "geom:longitude":-2.127163,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Birmingham Road, Hagley",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119434511,
-    "wof:lastmodified":1449041377,
+    "wof:lastmodified":1466286110,
     "wof:name":"Hagley Post Office",
     "wof:parent_id":85791739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.127163,52.426483,-2.127163,52.426483],
+  "bbox": [
+    -2.127163,
+    52.426483,
+    -2.127163,
+    52.426483
+],
   "geometry": {"coordinates":[-2.127163,52.426483],"type":"Point"}
 }

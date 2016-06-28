@@ -2,13 +2,14 @@
   "id": 286830797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.903506,53.364826,-2.903506,53.364826",
     "geom:latitude":53.364826,
     "geom:longitude":-2.903506,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Brodie Avenue",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286830797,
-    "wof:lastmodified":1449015795,
+    "wof:lastmodified":1466279226,
     "wof:name":"The Brodie Avenue Wine Store",
     "wof:parent_id":85793285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [-2.903506,53.364826,-2.903506,53.364826],
+  "bbox": [
+    -2.903506,
+    53.364826,
+    -2.903506,
+    53.364826
+],
   "geometry": {"coordinates":[-2.903506,53.364826],"type":"Point"}
 }

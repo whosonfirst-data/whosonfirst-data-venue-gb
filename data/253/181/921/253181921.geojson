@@ -2,13 +2,14 @@
   "id": 253181921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.726493,51.515339,-1.726493,51.515339",
     "geom:latitude":51.515339,
     "geom:longitude":-1.726493,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Station Road, Chiseldon",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253181921,
-    "wof:lastmodified":1449064624,
+    "wof:lastmodified":1466260956,
     "wof:name":"Chauffeured Luxury Cars",
     "wof:parent_id":85786073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "airport"
     ]
 },
-  "bbox": [-1.726493,51.515339,-1.726493,51.515339],
+  "bbox": [
+    -1.726493,
+    51.515339,
+    -1.726493,
+    51.515339
+],
   "geometry": {"coordinates":[-1.726493,51.515339],"type":"Point"}
 }

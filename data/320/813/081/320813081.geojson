@@ -2,13 +2,14 @@
   "id": 320813081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.829647,53.345791,-2.829647,53.345791",
     "geom:latitude":53.345791,
     "geom:longitude":-2.829647,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Millwood Road",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320813081,
-    "wof:lastmodified":1449012225,
+    "wof:lastmodified":1466285008,
     "wof:name":"Liverpool Health Authority",
     "wof:parent_id":85790531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-2.829647,53.345791,-2.829647,53.345791],
+  "bbox": [
+    -2.829647,
+    53.345791,
+    -2.829647,
+    53.345791
+],
   "geometry": {"coordinates":[-2.829647,53.345791],"type":"Point"}
 }

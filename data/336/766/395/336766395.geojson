@@ -2,13 +2,14 @@
   "id": 336766395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.582128,52.397213,-1.582128,52.397213",
     "geom:latitude":52.397213,
     "geom:longitude":-1.582128,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Binns Close, Off Torrington Avenue",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336766395,
-    "wof:lastmodified":1448996908,
+    "wof:lastmodified":1466277689,
     "wof:name":"Infast",
     "wof:parent_id":85791047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fastener"
     ]
 },
-  "bbox": [-1.582128,52.397213,-1.582128,52.397213],
+  "bbox": [
+    -1.582128,
+    52.397213,
+    -1.582128,
+    52.397213
+],
   "geometry": {"coordinates":[-1.582128,52.397213],"type":"Point"}
 }

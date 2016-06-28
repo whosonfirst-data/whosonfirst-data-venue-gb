@@ -2,13 +2,14 @@
   "id": 136157113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.49503,51.44014,-2.49503,51.44014",
     "geom:latitude":51.44014,
     "geom:longitude":-2.49503,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Isleys Court, Longwell Grn",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136157113,
-    "wof:lastmodified":1449076077,
+    "wof:lastmodified":1466258645,
     "wof:name":"Mark Batchelor",
     "wof:parent_id":85785495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.49503,51.44014,-2.49503,51.44014],
+  "bbox": [
+    -2.49503,
+    51.44014,
+    -2.49503,
+    51.44014
+],
   "geometry": {"coordinates":[-2.49503,51.44014],"type":"Point"}
 }

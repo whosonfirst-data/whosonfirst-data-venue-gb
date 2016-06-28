@@ -2,13 +2,14 @@
   "id": 119224959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.20451,53.839851,-2.20451,53.839851",
     "geom:latitude":53.839851,
     "geom:longitude":-2.20451,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Smith Street",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119224959,
-    "wof:lastmodified":1449042829,
+    "wof:lastmodified":1466272009,
     "wof:name":"Pendle Voice",
     "wof:parent_id":101750587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.20451,53.839851,-2.20451,53.839851],
+  "bbox": [
+    -2.20451,
+    53.839851,
+    -2.20451,
+    53.839851
+],
   "geometry": {"coordinates":[-2.20451,53.839851],"type":"Point"}
 }

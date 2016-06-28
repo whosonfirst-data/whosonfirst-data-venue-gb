@@ -2,13 +2,14 @@
   "id": 202552177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.31349,54.568787,-1.31349,54.568787",
     "geom:latitude":54.568787,
     "geom:longitude":-1.31349,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3-4 Tennant Street",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202552177,
-    "wof:lastmodified":1449061174,
+    "wof:lastmodified":1466254995,
     "wof:name":"Queens Park Pharmacy",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chemist"
     ]
 },
-  "bbox": [-1.31349,54.568787,-1.31349,54.568787],
+  "bbox": [
+    -1.31349,
+    54.568787,
+    -1.31349,
+    54.568787
+],
   "geometry": {"coordinates":[-1.31349,54.568787],"type":"Point"}
 }

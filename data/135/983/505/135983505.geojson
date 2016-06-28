@@ -2,13 +2,14 @@
   "id": 135983505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.439994,53.505104,-1.439994,53.505104",
     "geom:latitude":53.505104,
     "geom:longitude":-1.439994,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Greenside La",
     "sg:city":"Barnsley",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135983505,
-    "wof:lastmodified":1449023756,
+    "wof:lastmodified":1466288537,
     "wof:name":"Greenside Building",
     "wof:parent_id":85684035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.439994,53.505104,-1.439994,53.505104],
+  "bbox": [
+    -1.439994,
+    53.505104,
+    -1.439994,
+    53.505104
+],
   "geometry": {"coordinates":[-1.439994,53.505104],"type":"Point"}
 }

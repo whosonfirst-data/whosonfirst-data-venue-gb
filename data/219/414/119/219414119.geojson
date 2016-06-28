@@ -2,13 +2,14 @@
   "id": 219414119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.080088,52.975597,-1.080088,52.975597",
     "geom:latitude":52.975597,
     "geom:longitude":-1.080088,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Main Road, Gedling",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219414119,
-    "wof:lastmodified":1449072043,
+    "wof:lastmodified":1466257326,
     "wof:name":"Broomhill House",
     "wof:parent_id":85861941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.080088,52.975597,-1.080088,52.975597],
+  "bbox": [
+    -1.080088,
+    52.975597,
+    -1.080088,
+    52.975597
+],
   "geometry": {"coordinates":[-1.080088,52.975597],"type":"Point"}
 }

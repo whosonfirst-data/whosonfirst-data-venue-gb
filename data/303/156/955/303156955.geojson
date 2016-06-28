@@ -2,13 +2,14 @@
   "id": 303156955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.099891,52.979279,-2.099891,52.979279",
     "geom:latitude":52.979279,
     "geom:longitude":-2.099891,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Penfleet Avenue",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303156955,
-    "wof:lastmodified":1448998599,
+    "wof:lastmodified":1466267382,
     "wof:name":"Hair Twizzle",
     "wof:parent_id":85861007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.099891,52.979279,-2.099891,52.979279],
+  "bbox": [
+    -2.099891,
+    52.979279,
+    -2.099891,
+    52.979279
+],
   "geometry": {"coordinates":[-2.099891,52.979279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119155987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.205144,55.975506,-3.205144,55.975506",
     "geom:latitude":55.975506,
     "geom:longitude":-3.205144,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Surgery, The Long Ho, 73 East Trinity Rd",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119155987,
-    "wof:lastmodified":1449043043,
+    "wof:lastmodified":1466264248,
     "wof:name":"Moir, S",
     "wof:parent_id":85791157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.205144,55.975506,-3.205144,55.975506],
+  "bbox": [
+    -3.205144,
+    55.975506,
+    -3.205144,
+    55.975506
+],
   "geometry": {"coordinates":[-3.205144,55.975506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303363379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.125312,52.917164,-1.125312,52.917164",
     "geom:latitude":52.917164,
     "geom:longitude":-1.125312,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Boundary Rd, West Bridgford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303363379,
-    "wof:lastmodified":1449000271,
+    "wof:lastmodified":1466273708,
     "wof:name":"Vast Blanket BV",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bakery"
     ]
 },
-  "bbox": [-1.125312,52.917164,-1.125312,52.917164],
+  "bbox": [
+    -1.125312,
+    52.917164,
+    -1.125312,
+    52.917164
+],
   "geometry": {"coordinates":[-1.125312,52.917164],"type":"Point"}
 }

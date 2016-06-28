@@ -2,13 +2,14 @@
   "id": 118707085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.340426,55.808025,-4.340426,55.808025",
     "geom:latitude":55.808025,
     "geom:longitude":-4.340426,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Glen Moriston Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118707085,
-    "wof:lastmodified":1449054335,
+    "wof:lastmodified":1466265833,
     "wof:name":"Darnley Primary School",
     "wof:parent_id":85789427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.340426,55.808025,-4.340426,55.808025],
+  "bbox": [
+    -4.340426,
+    55.808025,
+    -4.340426,
+    55.808025
+],
   "geometry": {"coordinates":[-4.340426,55.808025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135395205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.378457,51.744553,-3.378457,51.744553",
     "geom:latitude":51.744553,
     "geom:longitude":-3.378457,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"136 High Street",
     "sg:city":"Merthyr Tydfil",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135395205,
-    "wof:lastmodified":1449023576,
+    "wof:lastmodified":1466262088,
     "wof:name":"Merthyr Business Services",
     "wof:parent_id":85791203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.378457,51.744553,-3.378457,51.744553],
+  "bbox": [
+    -3.378457,
+    51.744553,
+    -3.378457,
+    51.744553
+],
   "geometry": {"coordinates":[-3.378457,51.744553],"type":"Point"}
 }

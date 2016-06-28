@@ -2,13 +2,14 @@
   "id": 202712937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.502823,52.94286,-1.502823,52.94286",
     "geom:latitude":52.94286,
     "geom:longitude":-1.502823,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Kedleston Rd",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202712937,
-    "wof:lastmodified":1449061203,
+    "wof:lastmodified":1466257629,
     "wof:name":"Hydroactive",
     "wof:parent_id":85786967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessory"
     ]
 },
-  "bbox": [-1.502823,52.94286,-1.502823,52.94286],
+  "bbox": [
+    -1.502823,
+    52.94286,
+    -1.502823,
+    52.94286
+],
   "geometry": {"coordinates":[-1.502823,52.94286],"type":"Point"}
 }

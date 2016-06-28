@@ -2,13 +2,14 @@
   "id": 135460777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.380896,54.927975,-1.380896,54.927975",
     "geom:latitude":54.927975,
     "geom:longitude":-1.380896,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Fulwell Rd",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135460777,
-    "wof:lastmodified":1449023830,
+    "wof:lastmodified":1466269996,
     "wof:name":"Building Tech Services",
     "wof:parent_id":85860923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.380896,54.927975,-1.380896,54.927975],
+  "bbox": [
+    -1.380896,
+    54.927975,
+    -1.380896,
+    54.927975
+],
   "geometry": {"coordinates":[-1.380896,54.927975],"type":"Point"}
 }

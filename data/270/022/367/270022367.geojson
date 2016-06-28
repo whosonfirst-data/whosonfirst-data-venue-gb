@@ -2,13 +2,14 @@
   "id": 270022367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.181509,55.951099,-3.181509,55.951099",
     "geom:latitude":55.951099,
     "geom:longitude":-3.181509,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Canongate",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":270022367,
-    "wof:lastmodified":1449009448,
+    "wof:lastmodified":1466261114,
     "wof:name":"People's Story Museum",
     "wof:parent_id":85792703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gallery"
     ]
 },
-  "bbox": [-3.181509,55.951099,-3.181509,55.951099],
+  "bbox": [
+    -3.181509,
+    55.951099,
+    -3.181509,
+    55.951099
+],
   "geometry": {"coordinates":[-3.181509,55.951099],"type":"Point"}
 }

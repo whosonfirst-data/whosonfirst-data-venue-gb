@@ -2,13 +2,14 @@
   "id": 303545305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.87458,50.721569,-1.87458,50.721569",
     "geom:latitude":50.721569,
     "geom:longitude":-1.87458,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Victoria Chambers, Fir Vale Road",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303545305,
-    "wof:lastmodified":1448998700,
+    "wof:lastmodified":1466278980,
     "wof:name":"Haydn Williams Roofing",
     "wof:parent_id":85866817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [-1.87458,50.721569,-1.87458,50.721569],
+  "bbox": [
+    -1.87458,
+    50.721569,
+    -1.87458,
+    50.721569
+],
   "geometry": {"coordinates":[-1.87458,50.721569],"type":"Point"}
 }

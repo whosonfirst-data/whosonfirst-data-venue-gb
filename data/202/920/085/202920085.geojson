@@ -2,13 +2,14 @@
   "id": 202920085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.003618,55.768005,-2.003618,55.768005",
     "geom:latitude":55.768005,
     "geom:longitude":-2.003618,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Bridge Street",
     "sg:city":"Berwick-upon-tweed",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202920085,
-    "wof:lastmodified":1449062083,
+    "wof:lastmodified":1466261052,
     "wof:name":"Studio Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-2.003618,55.768005,-2.003618,55.768005],
+  "bbox": [
+    -2.003618,
+    55.768005,
+    -2.003618,
+    55.768005
+],
   "geometry": {"coordinates":[-2.003618,55.768005],"type":"Point"}
 }

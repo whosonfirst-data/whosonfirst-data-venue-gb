@@ -2,13 +2,14 @@
   "id": 118529817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.564786,55.552525,-4.564786,55.552525",
     "geom:latitude":55.552525,
     "geom:longitude":-4.564786,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Brewlands Drive, Symington",
     "sg:city":"Kilmarnock",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":118529817,
-    "wof:lastmodified":1449053752,
+    "wof:lastmodified":1466277869,
     "wof:name":"Symington Post Office",
     "wof:parent_id":85684245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.564786,55.552525,-4.564786,55.552525],
+  "bbox": [
+    -4.564786,
+    55.552525,
+    -4.564786,
+    55.552525
+],
   "geometry": {"coordinates":[-4.564786,55.552525],"type":"Point"}
 }

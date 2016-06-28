@@ -2,13 +2,14 @@
   "id": 320158535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-6.160159,55.818851,-6.160159,55.818851",
     "geom:latitude":55.818851,
     "geom:longitude":-6.160159,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Main St",
     "sg:city":"Ballygrant",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320158535,
-    "wof:lastmodified":1449013759,
+    "wof:lastmodified":1466272835,
     "wof:name":"John A Bell Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-6.160159,55.818851,-6.160159,55.818851],
+  "bbox": [
+    -6.160159,
+    55.818851,
+    -6.160159,
+    55.818851
+],
   "geometry": {"coordinates":[-6.160159,55.818851],"type":"Point"}
 }

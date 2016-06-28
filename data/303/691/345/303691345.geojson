@@ -2,13 +2,14 @@
   "id": 303691345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.02234,53.74884,-3.02234,53.74884",
     "geom:latitude":53.74884,
     "geom:longitude":-3.02234,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Thomas Church, St Thomas Road",
     "sg:city":"Lytham St Annes",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303691345,
-    "wof:lastmodified":1448998322,
+    "wof:lastmodified":1466281631,
     "wof:name":"St. Thomas Parish Centre",
     "wof:parent_id":85785317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.02234,53.74884,-3.02234,53.74884],
+  "bbox": [
+    -3.02234,
+    53.74884,
+    -3.02234,
+    53.74884
+],
   "geometry": {"coordinates":[-3.02234,53.74884],"type":"Point"}
 }

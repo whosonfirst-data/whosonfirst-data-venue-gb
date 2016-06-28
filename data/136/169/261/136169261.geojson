@@ -2,13 +2,14 @@
   "id": 136169261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.388749,54.904652,-1.388749,54.904652",
     "geom:latitude":54.904652,
     "geom:longitude":-1.388749,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 The Bridges",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":136169261,
-    "wof:lastmodified":1449075718,
+    "wof:lastmodified":1466259248,
     "wof:name":"en.r.g",
     "wof:parent_id":85793173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.388749,54.904652,-1.388749,54.904652],
+  "bbox": [
+    -1.388749,
+    54.904652,
+    -1.388749,
+    54.904652
+],
   "geometry": {"coordinates":[-1.388749,54.904652],"type":"Point"}
 }

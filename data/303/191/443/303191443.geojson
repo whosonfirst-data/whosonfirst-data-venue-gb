@@ -2,13 +2,14 @@
   "id": 303191443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.931559,52.961349,-3.931559,52.961349",
     "geom:latitude":52.961349,
     "geom:longitude":-3.931559,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Ty Gwyn, Trawsfynydd",
     "sg:city":"Blaenau Ffestiniog",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303191443,
-    "wof:lastmodified":1448999603,
+    "wof:lastmodified":1466268489,
     "wof:name":"D P Williams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "chemist"
     ]
 },
-  "bbox": [-3.931559,52.961349,-3.931559,52.961349],
+  "bbox": [
+    -3.931559,
+    52.961349,
+    -3.931559,
+    52.961349
+],
   "geometry": {"coordinates":[-3.931559,52.961349],"type":"Point"}
 }

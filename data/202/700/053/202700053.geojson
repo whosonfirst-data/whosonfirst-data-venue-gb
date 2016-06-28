@@ -2,13 +2,14 @@
   "id": 202700053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.414671,54.908962,-1.414671,54.908962",
     "geom:latitude":54.908962,
     "geom:longitude":-1.414671,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 St Lukes Terrace",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202700053,
-    "wof:lastmodified":1449062430,
+    "wof:lastmodified":1466257451,
     "wof:name":"Moorhead News",
     "wof:parent_id":85789711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.414671,54.908962,-1.414671,54.908962],
+  "bbox": [
+    -1.414671,
+    54.908962,
+    -1.414671,
+    54.908962
+],
   "geometry": {"coordinates":[-1.414671,54.908962],"type":"Point"}
 }

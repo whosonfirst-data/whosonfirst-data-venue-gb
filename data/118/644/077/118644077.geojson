@@ -2,13 +2,14 @@
   "id": 118644077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.337812,51.230335,-1.337812,51.230335",
     "geom:latitude":51.230335,
     "geom:longitude":-1.337812,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 London Street",
     "sg:city":"Whitchurch",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":118644077,
-    "wof:lastmodified":1449053950,
+    "wof:lastmodified":1466261036,
     "wof:name":"Headquarters",
     "wof:parent_id":101852471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.337812,51.230335,-1.337812,51.230335],
+  "bbox": [
+    -1.337812,
+    51.230335,
+    -1.337812,
+    51.230335
+],
   "geometry": {"coordinates":[-1.337812,51.230335],"type":"Point"}
 }

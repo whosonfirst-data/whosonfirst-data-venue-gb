@@ -2,13 +2,14 @@
   "id": 287008809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.047008,53.435673,-3.047008,53.435673",
     "geom:latitude":53.435673,
     "geom:longitude":-3.047008,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Atherton St",
     "sg:city":"Wallasey",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287008809,
-    "wof:lastmodified":1449000936,
+    "wof:lastmodified":1466263173,
     "wof:name":"Longlands Nursing Home",
     "wof:parent_id":85789307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-3.047008,53.435673,-3.047008,53.435673],
+  "bbox": [
+    -3.047008,
+    53.435673,
+    -3.047008,
+    53.435673
+],
   "geometry": {"coordinates":[-3.047008,53.435673],"type":"Point"}
 }

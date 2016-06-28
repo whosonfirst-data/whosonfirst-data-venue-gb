@@ -2,13 +2,14 @@
   "id": 102591863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.05205,50.387901,-4.05205,50.387901",
     "geom:latitude":50.387901,
     "geom:longitude":-4.05205,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Mews, Ridgeway",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102591863,
-    "wof:lastmodified":1449069034,
+    "wof:lastmodified":1466277081,
     "wof:name":"Ridgeway Auto Repairs",
     "wof:parent_id":85789861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.05205,50.387901,-4.05205,50.387901],
+  "bbox": [
+    -4.05205,
+    50.387901,
+    -4.05205,
+    50.387901
+],
   "geometry": {"coordinates":[-4.05205,50.387901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136090627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.540331,50.475681,-3.540331,50.475681",
     "geom:latitude":50.475681,
     "geom:longitude":-3.540331,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Teignmouth Road",
     "sg:city":"Torquay",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136090627,
-    "wof:lastmodified":1449075953,
+    "wof:lastmodified":1466255043,
     "wof:name":"Carrisbrooke Nursing Home",
     "wof:parent_id":101751577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.540331,50.475681,-3.540331,50.475681],
+  "bbox": [
+    -3.540331,
+    50.475681,
+    -3.540331,
+    50.475681
+],
   "geometry": {"coordinates":[-3.540331,50.475681],"type":"Point"}
 }

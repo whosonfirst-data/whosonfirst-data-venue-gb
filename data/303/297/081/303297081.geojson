@@ -2,13 +2,14 @@
   "id": 303297081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.125971,53.570019,-2.125971,53.570019",
     "geom:latitude":53.570019,
     "geom:longitude":-2.125971,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Rochdale Rd, Royton",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303297081,
-    "wof:lastmodified":1448999672,
+    "wof:lastmodified":1466271769,
     "wof:name":"Classical Kissogram",
     "wof:parent_id":85793093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kiss-o-grams"
     ]
 },
-  "bbox": [-2.125971,53.570019,-2.125971,53.570019],
+  "bbox": [
+    -2.125971,
+    53.570019,
+    -2.125971,
+    53.570019
+],
   "geometry": {"coordinates":[-2.125971,53.570019],"type":"Point"}
 }

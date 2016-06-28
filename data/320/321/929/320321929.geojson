@@ -2,13 +2,14 @@
   "id": 320321929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.75443,51.68705,0.75443,51.68705",
     "geom:latitude":51.68705,
     "geom:longitude":0.75443,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Maylandsea Medical Centre, Imperial Av",
     "sg:city":"Chelmsford",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320321929,
-    "wof:lastmodified":1449011344,
+    "wof:lastmodified":1466277792,
     "wof:name":"Michael North",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [0.75443,51.68705,0.75443,51.68705],
+  "bbox": [
+    0.75443,
+    51.68705,
+    0.75443,
+    51.68705
+],
   "geometry": {"coordinates":[0.75443,51.68705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320219437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.317955,53.095806,-1.317955,53.095806",
     "geom:latitude":53.095806,
     "geom:longitude":-1.317955,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Harwood House, Wharf Road, Pinxton",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320219437,
-    "wof:lastmodified":1449014810,
+    "wof:lastmodified":1466274609,
     "wof:name":"Hotelsource",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "activity"
     ]
 },
-  "bbox": [-1.317955,53.095806,-1.317955,53.095806],
+  "bbox": [
+    -1.317955,
+    53.095806,
+    -1.317955,
+    53.095806
+],
   "geometry": {"coordinates":[-1.317955,53.095806],"type":"Point"}
 }

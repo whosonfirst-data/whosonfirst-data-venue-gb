@@ -2,13 +2,14 @@
   "id": 135707423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.215809,55.873341,-4.215809,55.873341",
     "geom:latitude":55.873341,
     "geom:longitude":-4.215809,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Forge Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":135707423,
-    "wof:lastmodified":1449023537,
+    "wof:lastmodified":1466286206,
     "wof:name":"THE GLEN BAR",
     "wof:parent_id":85792645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.215809,55.873341,-4.215809,55.873341],
+  "bbox": [
+    -4.215809,
+    55.873341,
+    -4.215809,
+    55.873341
+],
   "geometry": {"coordinates":[-4.215809,55.873341],"type":"Point"}
 }

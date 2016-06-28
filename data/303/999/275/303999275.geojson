@@ -2,13 +2,14 @@
   "id": 303999275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.165191,50.824848,-1.165191,50.824848",
     "geom:latitude":50.824848,
     "geom:longitude":-1.165191,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"63-65 Fareham Road",
     "sg:city":"Gosport",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":303999275,
-    "wof:lastmodified":1449000263,
+    "wof:lastmodified":1466285419,
     "wof:name":"R V Rolls",
     "wof:parent_id":85785995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-1.165191,50.824848,-1.165191,50.824848],
+  "bbox": [
+    -1.165191,
+    50.824848,
+    -1.165191,
+    50.824848
+],
   "geometry": {"coordinates":[-1.165191,50.824848],"type":"Point"}
 }

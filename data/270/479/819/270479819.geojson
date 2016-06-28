@@ -2,13 +2,14 @@
   "id": 270479819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.602884,50.496761,-3.602884,50.496761",
     "geom:latitude":50.496761,
     "geom:longitude":-3.602884,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Lakeland, Abbotskerswell",
     "sg:city":"Newton Abbot",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":270479819,
-    "wof:lastmodified":1449010340,
+    "wof:lastmodified":1466274718,
     "wof:name":"Abbotskerswell Taxi Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "private"
     ]
 },
-  "bbox": [-3.602884,50.496761,-3.602884,50.496761],
+  "bbox": [
+    -3.602884,
+    50.496761,
+    -3.602884,
+    50.496761
+],
   "geometry": {"coordinates":[-3.602884,50.496761],"type":"Point"}
 }

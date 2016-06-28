@@ -2,13 +2,14 @@
   "id": 135382987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.110691,55.850521,-4.110691,55.850521",
     "geom:latitude":55.850521,
     "geom:longitude":-4.110691,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Main Street, Baillieston",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135382987,
-    "wof:lastmodified":1449021808,
+    "wof:lastmodified":1466260758,
     "wof:name":"Hughes & McHugh Optician",
     "wof:parent_id":85785445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.110691,55.850521,-4.110691,55.850521],
+  "bbox": [
+    -4.110691,
+    55.850521,
+    -4.110691,
+    55.850521
+],
   "geometry": {"coordinates":[-4.110691,55.850521],"type":"Point"}
 }

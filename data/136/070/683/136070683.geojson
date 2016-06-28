@@ -2,13 +2,14 @@
   "id": 136070683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.345943,55.875362,-4.345943,55.875362",
     "geom:latitude":55.875362,
     "geom:longitude":-4.345943,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Methil Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":136070683,
-    "wof:lastmodified":1449075539,
+    "wof:lastmodified":1466253841,
     "wof:name":"Powerclimber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.345943,55.875362,-4.345943,55.875362],
+  "bbox": [
+    -4.345943,
+    55.875362,
+    -4.345943,
+    55.875362
+],
   "geometry": {"coordinates":[-4.345943,55.875362],"type":"Point"}
 }

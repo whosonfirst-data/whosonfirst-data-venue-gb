@@ -2,13 +2,14 @@
   "id": 320782433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.363551,55.829807,-4.363551,55.829807",
     "geom:latitude":55.829807,
     "geom:longitude":-4.363551,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"790 Crookston Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320782433,
-    "wof:lastmodified":1449011244,
+    "wof:lastmodified":1466284837,
     "wof:name":"Crookston Bowling Club",
     "wof:parent_id":85789877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.363551,55.829807,-4.363551,55.829807],
+  "bbox": [
+    -4.363551,
+    55.829807,
+    -4.363551,
+    55.829807
+],
   "geometry": {"coordinates":[-4.363551,55.829807],"type":"Point"}
 }

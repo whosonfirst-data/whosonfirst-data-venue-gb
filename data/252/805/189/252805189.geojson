@@ -2,13 +2,14 @@
   "id": 252805189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.000305,50.783535,-2.000305,50.783535",
     "geom:latitude":50.783535,
     "geom:longitude":-2.000305,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Ashington Lane, Ashington",
     "sg:city":"Wimborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":252805189,
-    "wof:lastmodified":1449005772,
+    "wof:lastmodified":1466259003,
     "wof:name":"A W S Hayter",
     "wof:parent_id":85787159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "repairer"
     ]
 },
-  "bbox": [-2.000305,50.783535,-2.000305,50.783535],
+  "bbox": [
+    -2.000305,
+    50.783535,
+    -2.000305,
+    50.783535
+],
   "geometry": {"coordinates":[-2.000305,50.783535],"type":"Point"}
 }

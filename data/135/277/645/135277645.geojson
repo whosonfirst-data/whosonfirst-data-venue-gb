@@ -2,13 +2,14 @@
   "id": 135277645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.052178,51.489624,0.052178,51.489624",
     "geom:latitude":51.489624,
     "geom:longitude":0.052178,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Samuel Street",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135277645,
-    "wof:lastmodified":1449021331,
+    "wof:lastmodified":1466274094,
     "wof:name":"The Edinburgh Castle",
     "wof:parent_id":85860537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.052178,51.489624,0.052178,51.489624],
+  "bbox": [
+    0.052178,
+    51.489624,
+    0.052178,
+    51.489624
+],
   "geometry": {"coordinates":[0.052178,51.489624],"type":"Point"}
 }

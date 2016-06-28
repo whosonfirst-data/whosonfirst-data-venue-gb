@@ -2,13 +2,14 @@
   "id": 135578845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.335009,52.060833,-1.335009,52.060833",
     "geom:latitude":52.060833,
     "geom:longitude":-1.335009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Broad St",
     "sg:city":"Banbury",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":135578845,
-    "wof:lastmodified":1449021749,
+    "wof:lastmodified":1466281409,
     "wof:name":"Jones,T J,Associates",
     "wof:parent_id":101875471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.335009,52.060833,-1.335009,52.060833],
+  "bbox": [
+    -1.335009,
+    52.060833,
+    -1.335009,
+    52.060833
+],
   "geometry": {"coordinates":[-1.335009,52.060833],"type":"Point"}
 }

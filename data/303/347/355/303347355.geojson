@@ -2,13 +2,14 @@
   "id": 303347355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.929905,52.626701,-1.929905,52.626701",
     "geom:latitude":52.626701,
     "geom:longitude":-1.929905,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Brook Lane, Walsall Wood",
     "sg:city":"Walsall",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303347355,
-    "wof:lastmodified":1448999300,
+    "wof:lastmodified":1466273257,
     "wof:name":"Electrolysis Clinic",
     "wof:parent_id":85790267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrolysis"
     ]
 },
-  "bbox": [-1.929905,52.626701,-1.929905,52.626701],
+  "bbox": [
+    -1.929905,
+    52.626701,
+    -1.929905,
+    52.626701
+],
   "geometry": {"coordinates":[-1.929905,52.626701],"type":"Point"}
 }

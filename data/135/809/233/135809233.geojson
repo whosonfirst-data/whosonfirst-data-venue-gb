@@ -2,13 +2,14 @@
   "id": 135809233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.648094,55.004066,-1.648094,55.004066",
     "geom:latitude":55.004066,
     "geom:longitude":-1.648094,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Cedars, Kenton Rd, Newcastle",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135809233,
-    "wof:lastmodified":1449023478,
+    "wof:lastmodified":1466287491,
     "wof:name":"Leonard Netts",
     "wof:parent_id":85861871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.648094,55.004066,-1.648094,55.004066],
+  "bbox": [
+    -1.648094,
+    55.004066,
+    -1.648094,
+    55.004066
+],
   "geometry": {"coordinates":[-1.648094,55.004066],"type":"Point"}
 }

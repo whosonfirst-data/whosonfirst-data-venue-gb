@@ -2,13 +2,14 @@
   "id": 102565399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.416489,52.64098,-1.416489,52.64098",
     "geom:latitude":52.64098,
     "geom:longitude":-1.416489,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, Plot 6",
     "sg:city":"Nuneaton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102565399,
-    "wof:lastmodified":1449069975,
+    "wof:lastmodified":1466256723,
     "wof:name":"Hiatt-Brown",
     "wof:parent_id":85683891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.416489,52.64098,-1.416489,52.64098],
+  "bbox": [
+    -1.416489,
+    52.64098,
+    -1.416489,
+    52.64098
+],
   "geometry": {"coordinates":[-1.416489,52.64098],"type":"Point"}
 }

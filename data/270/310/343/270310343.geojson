@@ -2,13 +2,14 @@
   "id": 270310343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.186774,55.806358,-4.186774,55.806358",
     "geom:latitude":55.806358,
     "geom:longitude":-4.186774,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Braemar Road, Cathkin, Rutherglen",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270310343,
-    "wof:lastmodified":1449010145,
+    "wof:lastmodified":1466269727,
     "wof:name":"K & F Butchers",
     "wof:parent_id":85786177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "butcher"
     ]
 },
-  "bbox": [-4.186774,55.806358,-4.186774,55.806358],
+  "bbox": [
+    -4.186774,
+    55.806358,
+    -4.186774,
+    55.806358
+],
   "geometry": {"coordinates":[-4.186774,55.806358],"type":"Point"}
 }

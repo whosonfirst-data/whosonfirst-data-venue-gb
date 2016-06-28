@@ -2,13 +2,14 @@
   "id": 287010745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.234192,52.188587,-2.234192,52.188587",
     "geom:latitude":52.188587,
     "geom:longitude":-2.234192,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"28 St Johns",
     "sg:city":"Worcester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287010745,
-    "wof:lastmodified":1449001219,
+    "wof:lastmodified":1466263244,
     "wof:name":"Richardsons",
     "wof:parent_id":85861063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.234192,52.188587,-2.234192,52.188587],
+  "bbox": [
+    -2.234192,
+    52.188587,
+    -2.234192,
+    52.188587
+],
   "geometry": {"coordinates":[-2.234192,52.188587],"type":"Point"}
 }

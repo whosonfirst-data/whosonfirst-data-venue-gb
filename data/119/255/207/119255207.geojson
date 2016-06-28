@@ -2,13 +2,14 @@
   "id": 119255207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.567876,55.943443,-4.567876,55.943443",
     "geom:latitude":55.943443,
     "geom:longitude":-4.567876,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2b High Street",
     "sg:city":"Dumbarton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119255207,
-    "wof:lastmodified":1449042031,
+    "wof:lastmodified":1466275369,
     "wof:name":"Clyde Weekly News",
     "wof:parent_id":101872537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.567876,55.943443,-4.567876,55.943443],
+  "bbox": [
+    -4.567876,
+    55.943443,
+    -4.567876,
+    55.943443
+],
   "geometry": {"coordinates":[-4.567876,55.943443],"type":"Point"}
 }

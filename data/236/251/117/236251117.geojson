@@ -2,13 +2,14 @@
   "id": 236251117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.75327,52.715904,-2.75327,52.715904",
     "geom:latitude":52.715904,
     "geom:longitude":-2.75327,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Coton Hill Glassworks, Coton Hill",
     "sg:city":"Shrewsbury",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236251117,
-    "wof:lastmodified":1449001726,
+    "wof:lastmodified":1466261271,
     "wof:name":"Matthews & Peart Ltd.",
     "wof:parent_id":85788595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "glazing"
     ]
 },
-  "bbox": [-2.75327,52.715904,-2.75327,52.715904],
+  "bbox": [
+    -2.75327,
+    52.715904,
+    -2.75327,
+    52.715904
+],
   "geometry": {"coordinates":[-2.75327,52.715904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135694747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.063709,50.802429,-1.063709,50.802429",
     "geom:latitude":50.802429,
     "geom:longitude":-1.063709,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Milton Road",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135694747,
-    "wof:lastmodified":1449021860,
+    "wof:lastmodified":1466285900,
     "wof:name":"Bobs News",
     "wof:parent_id":85861255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.063709,50.802429,-1.063709,50.802429],
+  "bbox": [
+    -1.063709,
+    50.802429,
+    -1.063709,
+    50.802429
+],
   "geometry": {"coordinates":[-1.063709,50.802429],"type":"Point"}
 }

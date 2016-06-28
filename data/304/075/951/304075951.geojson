@@ -2,13 +2,14 @@
   "id": 304075951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.436919,55.008579,-1.436919,55.008579",
     "geom:latitude":55.008579,
     "geom:longitude":-1.436919,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Bell Street",
     "sg:city":"North Shields",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":304075951,
-    "wof:lastmodified":1449043912,
+    "wof:lastmodified":1466266544,
     "wof:name":"Chandlers Bar",
     "wof:parent_id":85792733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.436919,55.008579,-1.436919,55.008579],
+  "bbox": [
+    -1.436919,
+    55.008579,
+    -1.436919,
+    55.008579
+],
   "geometry": {"coordinates":[-1.436919,55.008579],"type":"Point"}
 }

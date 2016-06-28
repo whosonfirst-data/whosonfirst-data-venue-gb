@@ -2,13 +2,14 @@
   "id": 135323093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.465014,52.970669,-1.465014,52.970669",
     "geom:latitude":52.970669,
     "geom:longitude":-1.465014,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Vicarage La",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135323093,
-    "wof:lastmodified":1449021263,
+    "wof:lastmodified":1466253998,
     "wof:name":"D Johnson",
     "wof:parent_id":85785285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.465014,52.970669,-1.465014,52.970669],
+  "bbox": [
+    -1.465014,
+    52.970669,
+    -1.465014,
+    52.970669
+],
   "geometry": {"coordinates":[-1.465014,52.970669],"type":"Point"}
 }

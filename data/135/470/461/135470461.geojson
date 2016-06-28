@@ -2,13 +2,14 @@
   "id": 135470461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.338081,53.147423,0.338081,53.147423",
     "geom:latitude":53.147423,
     "geom:longitude":0.338081,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65b Roman Bank",
     "sg:city":"Skegness",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135470461,
-    "wof:lastmodified":1449021717,
+    "wof:lastmodified":1466271185,
     "wof:name":"Hello Bill",
     "wof:parent_id":101874085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.338081,53.147423,0.338081,53.147423],
+  "bbox": [
+    0.338081,
+    53.147423,
+    0.338081,
+    53.147423
+],
   "geometry": {"coordinates":[0.338081,53.147423],"type":"Point"}
 }

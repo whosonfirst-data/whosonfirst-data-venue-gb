@@ -2,13 +2,14 @@
   "id": 303803549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.308201,51.061554,-1.308201,51.061554",
     "geom:latitude":51.061554,
     "geom:longitude":-1.308201,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Eastgate House, 78-79 Eastgate Street",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303803549,
-    "wof:lastmodified":1449000593,
+    "wof:lastmodified":1466283117,
     "wof:name":"Smiths Gore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "valuer"
     ]
 },
-  "bbox": [-1.308201,51.061554,-1.308201,51.061554],
+  "bbox": [
+    -1.308201,
+    51.061554,
+    -1.308201,
+    51.061554
+],
   "geometry": {"coordinates":[-1.308201,51.061554],"type":"Point"}
 }

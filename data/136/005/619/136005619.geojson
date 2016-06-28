@@ -2,13 +2,14 @@
   "id": 136005619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.047559,51.158051,-2.047559,51.158051",
     "geom:latitude":51.158051,
     "geom:longitude":-2.047559,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Hillside, Codford",
     "sg:city":"Warminster",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136005619,
-    "wof:lastmodified":1449076161,
+    "wof:lastmodified":1466257354,
     "wof:name":"Hillside Cafe",
     "wof:parent_id":85683939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.047559,51.158051,-2.047559,51.158051],
+  "bbox": [
+    -2.047559,
+    51.158051,
+    -2.047559,
+    51.158051
+],
   "geometry": {"coordinates":[-2.047559,51.158051],"type":"Point"}
 }

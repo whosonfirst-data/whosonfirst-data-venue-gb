@@ -2,13 +2,14 @@
   "id": 136023497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.203405,52.996933,-1.203405,52.996933",
     "geom:latitude":52.996933,
     "geom:longitude":-1.203405,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Clayfield Clo",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136023497,
-    "wof:lastmodified":1449076144,
+    "wof:lastmodified":1466275114,
     "wof:name":"Cobblers",
     "wof:parent_id":85861895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.203405,52.996933,-1.203405,52.996933],
+  "bbox": [
+    -1.203405,
+    52.996933,
+    -1.203405,
+    52.996933
+],
   "geometry": {"coordinates":[-1.203405,52.996933],"type":"Point"}
 }

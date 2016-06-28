@@ -2,13 +2,14 @@
   "id": 303832877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.467608,54.154182,-2.467608,54.154182",
     "geom:latitude":54.154182,
     "geom:longitude":-2.467608,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Street, Ingleton",
     "sg:city":"Carnforth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303832877,
-    "wof:lastmodified":1448998129,
+    "wof:lastmodified":1466283315,
     "wof:name":"Village Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.467608,54.154182,-2.467608,54.154182],
+  "bbox": [
+    -2.467608,
+    54.154182,
+    -2.467608,
+    54.154182
+],
   "geometry": {"coordinates":[-2.467608,54.154182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185830715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.344552,53.408344,-2.344552,53.408344",
     "geom:latitude":53.408344,
     "geom:longitude":-2.344552,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Washway Road",
     "sg:city":"Sale",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185830715,
-    "wof:lastmodified":1449006958,
+    "wof:lastmodified":1466255055,
     "wof:name":"Phills",
     "wof:parent_id":85791535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-2.344552,53.408344,-2.344552,53.408344],
+  "bbox": [
+    -2.344552,
+    53.408344,
+    -2.344552,
+    53.408344
+],
   "geometry": {"coordinates":[-2.344552,53.408344],"type":"Point"}
 }

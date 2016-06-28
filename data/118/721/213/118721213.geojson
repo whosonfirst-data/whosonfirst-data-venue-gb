@@ -2,13 +2,14 @@
   "id": 118721213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.041725,53.79977,-3.041725,53.79977",
     "geom:latitude":53.79977,
     "geom:longitude":-3.041725,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Waterloo Rd",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118721213,
-    "wof:lastmodified":1449054532,
+    "wof:lastmodified":1466266950,
     "wof:name":"Waterloo Pharmacy",
     "wof:parent_id":85866811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.041725,53.79977,-3.041725,53.79977],
+  "bbox": [
+    -3.041725,
+    53.79977,
+    -3.041725,
+    53.79977
+],
   "geometry": {"coordinates":[-3.041725,53.79977],"type":"Point"}
 }

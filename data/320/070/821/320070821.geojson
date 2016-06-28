@@ -2,13 +2,14 @@
   "id": 320070821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.26153,53.505669,-2.26153,53.505669",
     "geom:latitude":53.505669,
     "geom:longitude":-2.26153,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Scope Centre, 62 Wellington Street West",
     "sg:city":"Salford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320070821,
-    "wof:lastmodified":1449013084,
+    "wof:lastmodified":1466270267,
     "wof:name":"Scope Training",
     "wof:parent_id":85786077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "centre"
     ]
 },
-  "bbox": [-2.26153,53.505669,-2.26153,53.505669],
+  "bbox": [
+    -2.26153,
+    53.505669,
+    -2.26153,
+    53.505669
+],
   "geometry": {"coordinates":[-2.26153,53.505669],"type":"Point"}
 }

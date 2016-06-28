@@ -2,13 +2,14 @@
   "id": 303381233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.075938,51.437191,-1.075938,51.437191",
     "geom:latitude":51.437191,
     "geom:longitude":-1.075938,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 High Street, Theale",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303381233,
-    "wof:lastmodified":1448998319,
+    "wof:lastmodified":1466274312,
     "wof:name":"Fullers",
     "wof:parent_id":85786147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.075938,51.437191,-1.075938,51.437191],
+  "bbox": [
+    -1.075938,
+    51.437191,
+    -1.075938,
+    51.437191
+],
   "geometry": {"coordinates":[-1.075938,51.437191],"type":"Point"}
 }

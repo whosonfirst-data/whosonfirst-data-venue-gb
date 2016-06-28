@@ -2,13 +2,14 @@
   "id": 186388271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.123709,52.630005,-1.123709,52.630005",
     "geom:latitude":52.630005,
     "geom:longitude":-1.123709,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"60 London Rd",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186388271,
-    "wof:lastmodified":1449050374,
+    "wof:lastmodified":1466257376,
     "wof:name":"Jacobs Ltd",
     "wof:parent_id":85785593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-1.123709,52.630005,-1.123709,52.630005],
+  "bbox": [
+    -1.123709,
+    52.630005,
+    -1.123709,
+    52.630005
+],
   "geometry": {"coordinates":[-1.123709,52.630005],"type":"Point"}
 }

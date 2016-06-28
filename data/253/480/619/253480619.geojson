@@ -2,13 +2,14 @@
   "id": 253480619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.152099,60.151619,-1.152099,60.151619",
     "geom:latitude":60.151619,
     "geom:longitude":-1.152099,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"South Rd",
     "sg:city":"Lerwick",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253480619,
-    "wof:lastmodified":1449063790,
+    "wof:lastmodified":1466267519,
     "wof:name":"Gilbert Bain Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.152099,60.151619,-1.152099,60.151619],
+  "bbox": [
+    -1.152099,
+    60.151619,
+    -1.152099,
+    60.151619
+],
   "geometry": {"coordinates":[-1.152099,60.151619],"type":"Point"}
 }

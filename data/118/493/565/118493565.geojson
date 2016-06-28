@@ -2,13 +2,14 @@
   "id": 118493565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.597329,53.735897,-1.597329,53.735897",
     "geom:latitude":53.735897,
     "geom:longitude":-1.597329,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Harrop Avenue, Morley",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":118493565,
-    "wof:lastmodified":1449053591,
+    "wof:lastmodified":1466256649,
     "wof:name":"Drive On",
     "wof:parent_id":85790417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.597329,53.735897,-1.597329,53.735897],
+  "bbox": [
+    -1.597329,
+    53.735897,
+    -1.597329,
+    53.735897
+],
   "geometry": {"coordinates":[-1.597329,53.735897],"type":"Point"}
 }

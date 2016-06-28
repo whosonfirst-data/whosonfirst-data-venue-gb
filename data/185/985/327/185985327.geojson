@@ -2,13 +2,14 @@
   "id": 185985327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.392118,53.546772,-2.392118,53.546772",
     "geom:latitude":53.546772,
     "geom:longitude":-2.392118,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10-12 Higher Market Street, Farnworth",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185985327,
-    "wof:lastmodified":1449007424,
+    "wof:lastmodified":1466256939,
     "wof:name":"Post Office Inn",
     "wof:parent_id":85792939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-2.392118,53.546772,-2.392118,53.546772],
+  "bbox": [
+    -2.392118,
+    53.546772,
+    -2.392118,
+    53.546772
+],
   "geometry": {"coordinates":[-2.392118,53.546772],"type":"Point"}
 }

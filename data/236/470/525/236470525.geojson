@@ -2,13 +2,14 @@
   "id": 236470525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.312209,55.852879,-4.312209,55.852879",
     "geom:latitude":55.852879,
     "geom:longitude":-4.312209,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2nd Floor North Copland House, 130 Edmiston Drive",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":236470525,
-    "wof:lastmodified":1449002279,
+    "wof:lastmodified":1466265296,
     "wof:name":"A A F Ltd",
     "wof:parent_id":85792485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-4.312209,55.852879,-4.312209,55.852879],
+  "bbox": [
+    -4.312209,
+    55.852879,
+    -4.312209,
+    55.852879
+],
   "geometry": {"coordinates":[-4.312209,55.852879],"type":"Point"}
 }

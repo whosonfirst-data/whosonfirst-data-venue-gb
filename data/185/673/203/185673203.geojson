@@ -2,13 +2,14 @@
   "id": 185673203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.320537,52.573414,-1.320537,52.573414",
     "geom:latitude":52.573414,
     "geom:longitude":-1.320537,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Melton St",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185673203,
-    "wof:lastmodified":1449007240,
+    "wof:lastmodified":1466253057,
     "wof:name":"Julian Bedrooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bedroom"
     ]
 },
-  "bbox": [-1.320537,52.573414,-1.320537,52.573414],
+  "bbox": [
+    -1.320537,
+    52.573414,
+    -1.320537,
+    52.573414
+],
   "geometry": {"coordinates":[-1.320537,52.573414],"type":"Point"}
 }

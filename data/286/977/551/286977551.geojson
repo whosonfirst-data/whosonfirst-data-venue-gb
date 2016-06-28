@@ -2,13 +2,14 @@
   "id": 286977551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.611729,54.971539,-1.611729,54.971539",
     "geom:latitude":54.971539,
     "geom:longitude":-1.611729,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"37-39 Grey Street",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":286977551,
-    "wof:lastmodified":1449018157,
+    "wof:lastmodified":1466281685,
     "wof:name":"Knight Frank",
     "wof:parent_id":85861857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.611729,54.971539,-1.611729,54.971539],
+  "bbox": [
+    -1.611729,
+    54.971539,
+    -1.611729,
+    54.971539
+],
   "geometry": {"coordinates":[-1.611729,54.971539],"type":"Point"}
 }

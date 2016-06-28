@@ -2,13 +2,14 @@
   "id": 135322847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.916236,52.541615,-1.916236,52.541615",
     "geom:latitude":52.541615,
     "geom:longitude":-1.916236,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"191 Turnberry Road",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135322847,
-    "wof:lastmodified":1449020951,
+    "wof:lastmodified":1466253965,
     "wof:name":"Turnberry News",
     "wof:parent_id":85785713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.916236,52.541615,-1.916236,52.541615],
+  "bbox": [
+    -1.916236,
+    52.541615,
+    -1.916236,
+    52.541615
+],
   "geometry": {"coordinates":[-1.916236,52.541615],"type":"Point"}
 }

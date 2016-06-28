@@ -2,13 +2,14 @@
   "id": 119498081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.307538,55.872719,-4.307538,55.872719",
     "geom:latitude":55.872719,
     "geom:longitude":-4.307538,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Fortrose Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119498081,
-    "wof:lastmodified":1449042864,
+    "wof:lastmodified":1466287033,
     "wof:name":"Partick Bowling Club",
     "wof:parent_id":85789735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.307538,55.872719,-4.307538,55.872719],
+  "bbox": [
+    -4.307538,
+    55.872719,
+    -4.307538,
+    55.872719
+],
   "geometry": {"coordinates":[-4.307538,55.872719],"type":"Point"}
 }

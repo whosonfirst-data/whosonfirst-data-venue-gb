@@ -2,13 +2,14 @@
   "id": 203412497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.104264,51.526394,-3.104264,51.526394",
     "geom:latitude":51.526394,
     "geom:longitude":-3.104264,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Sanderling Dr",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":203412497,
-    "wof:lastmodified":1449025326,
+    "wof:lastmodified":1466259778,
     "wof:name":"Rumney Methodist Church",
     "wof:parent_id":85788831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.104264,51.526394,-3.104264,51.526394],
+  "bbox": [
+    -3.104264,
+    51.526394,
+    -3.104264,
+    51.526394
+],
   "geometry": {"coordinates":[-3.104264,51.526394],"type":"Point"}
 }

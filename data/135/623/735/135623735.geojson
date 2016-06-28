@@ -2,13 +2,14 @@
   "id": 135623735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.172319,53.391281,-3.172319,53.391281",
     "geom:latitude":53.391281,
     "geom:longitude":-3.172319,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Carterton Road, Hoylake",
     "sg:city":"Wirral",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135623735,
-    "wof:lastmodified":1449023120,
+    "wof:lastmodified":1466283877,
     "wof:name":"Hoylake Plastics",
     "wof:parent_id":85684519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.172319,53.391281,-3.172319,53.391281],
+  "bbox": [
+    -3.172319,
+    53.391281,
+    -3.172319,
+    53.391281
+],
   "geometry": {"coordinates":[-3.172319,53.391281],"type":"Point"}
 }

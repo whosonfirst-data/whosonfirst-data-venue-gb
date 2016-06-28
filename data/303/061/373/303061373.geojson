@@ -2,13 +2,14 @@
   "id": 303061373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.114264,55.939438,-3.114264,55.939438",
     "geom:latitude":55.939438,
     "geom:longitude":-3.114264,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Northgreen",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303061373,
-    "wof:lastmodified":1448999884,
+    "wof:lastmodified":1466264292,
     "wof:name":"Edinburgh U K Car Transport",
     "wof:parent_id":85861487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-3.114264,55.939438,-3.114264,55.939438],
+  "bbox": [
+    -3.114264,
+    55.939438,
+    -3.114264,
+    55.939438
+],
   "geometry": {"coordinates":[-3.114264,55.939438],"type":"Point"}
 }

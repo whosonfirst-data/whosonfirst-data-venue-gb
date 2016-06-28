@@ -2,13 +2,14 @@
   "id": 320316635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.538141,53.995071,-1.538141,53.995071",
     "geom:latitude":53.995071,
     "geom:longitude":-1.538141,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Station Parade",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320316635,
-    "wof:lastmodified":1449013805,
+    "wof:lastmodified":1466277642,
     "wof:name":"Mainline Taxis",
     "wof:parent_id":85790715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cab"
     ]
 },
-  "bbox": [-1.538141,53.995071,-1.538141,53.995071],
+  "bbox": [
+    -1.538141,
+    53.995071,
+    -1.538141,
+    53.995071
+],
   "geometry": {"coordinates":[-1.538141,53.995071],"type":"Point"}
 }

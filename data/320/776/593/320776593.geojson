@@ -2,13 +2,14 @@
   "id": 320776593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.190379,52.977119,-1.190379,52.977119",
     "geom:latitude":52.977119,
     "geom:longitude":-1.190379,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Nuthall Rd",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":320776593,
-    "wof:lastmodified":1449012071,
+    "wof:lastmodified":1466284668,
     "wof:name":"Travelworld",
     "wof:parent_id":85861905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.190379,52.977119,-1.190379,52.977119],
+  "bbox": [
+    -1.190379,
+    52.977119,
+    -1.190379,
+    52.977119
+],
   "geometry": {"coordinates":[-1.190379,52.977119],"type":"Point"}
 }

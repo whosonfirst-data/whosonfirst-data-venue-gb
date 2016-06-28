@@ -2,13 +2,14 @@
   "id": 286265275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.297237,50.757763,-1.297237,50.757763",
     "geom:latitude":50.757763,
     "geom:longitude":-1.297237,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Arctic Road",
     "sg:city":"Cowes",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":286265275,
-    "wof:lastmodified":1449016187,
+    "wof:lastmodified":1466262434,
     "wof:name":"A & B News",
     "wof:parent_id":85791461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.297237,50.757763,-1.297237,50.757763],
+  "bbox": [
+    -1.297237,
+    50.757763,
+    -1.297237,
+    50.757763
+],
   "geometry": {"coordinates":[-1.297237,50.757763],"type":"Point"}
 }

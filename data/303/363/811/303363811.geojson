@@ -2,13 +2,14 @@
   "id": 303363811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.204387,53.835686,-2.204387,53.835686",
     "geom:latitude":53.835686,
     "geom:longitude":-2.204387,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Larch Street",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303363811,
-    "wof:lastmodified":1449000271,
+    "wof:lastmodified":1466273719,
     "wof:name":"LARCH STREET CHIP SHOP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "chip"
     ]
 },
-  "bbox": [-2.204387,53.835686,-2.204387,53.835686],
+  "bbox": [
+    -2.204387,
+    53.835686,
+    -2.204387,
+    53.835686
+],
   "geometry": {"coordinates":[-2.204387,53.835686],"type":"Point"}
 }

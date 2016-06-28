@@ -2,13 +2,14 @@
   "id": 119052455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.61105,55.498547,-4.61105,55.498547",
     "geom:latitude":55.498547,
     "geom:longitude":-4.61105,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Main Street",
     "sg:city":"Prestwick",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119052455,
-    "wof:lastmodified":1449042028,
+    "wof:lastmodified":1466253512,
     "wof:name":"A C White",
     "wof:parent_id":85684245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.61105,55.498547,-4.61105,55.498547],
+  "bbox": [
+    -4.61105,
+    55.498547,
+    -4.61105,
+    55.498547
+],
   "geometry": {"coordinates":[-4.61105,55.498547],"type":"Point"}
 }

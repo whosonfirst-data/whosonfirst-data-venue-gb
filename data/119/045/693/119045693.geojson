@@ -2,13 +2,14 @@
   "id": 119045693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.040607,55.939533,-4.040607,55.939533",
     "geom:latitude":55.939533,
     "geom:longitude":-4.040607,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Carradale Crescent, Broadwood Business Park",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119045693,
-    "wof:lastmodified":1449043220,
+    "wof:lastmodified":1466252768,
     "wof:name":"Atlantech Technologies",
     "wof:parent_id":101750633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.040607,55.939533,-4.040607,55.939533],
+  "bbox": [
+    -4.040607,
+    55.939533,
+    -4.040607,
+    55.939533
+],
   "geometry": {"coordinates":[-4.040607,55.939533],"type":"Point"}
 }

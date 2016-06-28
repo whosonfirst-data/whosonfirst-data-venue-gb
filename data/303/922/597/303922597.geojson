@@ -2,13 +2,14 @@
   "id": 303922597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.484577,50.915604,-1.484577,50.915604",
     "geom:latitude":50.915604,
     "geom:longitude":-1.484577,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Eling Lane, Totton",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303922597,
-    "wof:lastmodified":1448998342,
+    "wof:lastmodified":1466284641,
     "wof:name":"Whitfields",
     "wof:parent_id":85792825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.484577,50.915604,-1.484577,50.915604],
+  "bbox": [
+    -1.484577,
+    50.915604,
+    -1.484577,
+    50.915604
+],
   "geometry": {"coordinates":[-1.484577,50.915604],"type":"Point"}
 }

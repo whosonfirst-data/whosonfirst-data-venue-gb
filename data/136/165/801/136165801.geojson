@@ -2,13 +2,14 @@
   "id": 136165801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.854329,55.757915,-4.854329,55.757915",
     "geom:latitude":55.757915,
     "geom:longitude":-4.854329,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Main Road",
     "sg:city":"Largs",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136165801,
-    "wof:lastmodified":1449076278,
+    "wof:lastmodified":1466259061,
     "wof:name":"Limited Editions",
     "wof:parent_id":101873535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.854329,55.757915,-4.854329,55.757915],
+  "bbox": [
+    -4.854329,
+    55.757915,
+    -4.854329,
+    55.757915
+],
   "geometry": {"coordinates":[-4.854329,55.757915],"type":"Point"}
 }

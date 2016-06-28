@@ -2,13 +2,14 @@
   "id": 135411969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.86377,52.456406,-1.86377,52.456406",
     "geom:latitude":52.456406,
     "geom:longitude":-1.86377,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Warwick Road, Sparkhill",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":135411969,
-    "wof:lastmodified":1449021122,
+    "wof:lastmodified":1466264075,
     "wof:name":"WHELEC LTD",
     "wof:parent_id":85790495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.86377,52.456406,-1.86377,52.456406],
+  "bbox": [
+    -1.86377,
+    52.456406,
+    -1.86377,
+    52.456406
+],
   "geometry": {"coordinates":[-1.86377,52.456406],"type":"Point"}
 }

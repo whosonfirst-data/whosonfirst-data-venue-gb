@@ -2,13 +2,14 @@
   "id": 303365999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.244688,51.848564,-2.244688,51.848564",
     "geom:latitude":51.848564,
     "geom:longitude":-2.244688,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Linden Rd",
     "sg:city":"Gloucester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303365999,
-    "wof:lastmodified":1448998512,
+    "wof:lastmodified":1466273785,
     "wof:name":"Colliers Yard",
     "wof:parent_id":85793221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "builder"
     ]
 },
-  "bbox": [-2.244688,51.848564,-2.244688,51.848564],
+  "bbox": [
+    -2.244688,
+    51.848564,
+    -2.244688,
+    51.848564
+],
   "geometry": {"coordinates":[-2.244688,51.848564],"type":"Point"}
 }

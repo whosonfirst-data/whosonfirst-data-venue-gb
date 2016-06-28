@@ -2,13 +2,14 @@
   "id": 320430883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.205994,55.862823,-4.205994,55.862823",
     "geom:latitude":55.862823,
     "geom:longitude":-4.205994,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Cumbernauld Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320430883,
-    "wof:lastmodified":1449013641,
+    "wof:lastmodified":1466280163,
     "wof:name":"Haddows",
     "wof:parent_id":85792579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wines"
     ]
 },
-  "bbox": [-4.205994,55.862823,-4.205994,55.862823],
+  "bbox": [
+    -4.205994,
+    55.862823,
+    -4.205994,
+    55.862823
+],
   "geometry": {"coordinates":[-4.205994,55.862823],"type":"Point"}
 }

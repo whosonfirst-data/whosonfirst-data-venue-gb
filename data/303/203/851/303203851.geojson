@@ -2,13 +2,14 @@
   "id": 303203851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.149423,52.891785,-1.149423,52.891785",
     "geom:latitude":52.891785,
     "geom:longitude":-1.149423,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18a High Street, Ruddington",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303203851,
-    "wof:lastmodified":1448999205,
+    "wof:lastmodified":1466268918,
     "wof:name":"A1 Deep Clean",
     "wof:parent_id":85861947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-1.149423,52.891785,-1.149423,52.891785],
+  "bbox": [
+    -1.149423,
+    52.891785,
+    -1.149423,
+    52.891785
+],
   "geometry": {"coordinates":[-1.149423,52.891785],"type":"Point"}
 }

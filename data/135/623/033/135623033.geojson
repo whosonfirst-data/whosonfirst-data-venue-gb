@@ -2,13 +2,14 @@
   "id": 135623033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.95059,53.428509,-2.95059,53.428509",
     "geom:latitude":53.428509,
     "geom:longitude":-2.95059,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Priory Medical Centre, 9-11 Priory Rd",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135623033,
-    "wof:lastmodified":1449023116,
+    "wof:lastmodified":1466283709,
     "wof:name":"Redmond, M",
     "wof:parent_id":85785305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.95059,53.428509,-2.95059,53.428509],
+  "bbox": [
+    -2.95059,
+    53.428509,
+    -2.95059,
+    53.428509
+],
   "geometry": {"coordinates":[-2.95059,53.428509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135761785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.423381,51.550354,-2.423381,51.550354",
     "geom:latitude":51.550354,
     "geom:longitude":-2.423381,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Hampden Close, Yate",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135761785,
-    "wof:lastmodified":1449023306,
+    "wof:lastmodified":1466286871,
     "wof:name":"David M Barnes",
     "wof:parent_id":85684423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.423381,51.550354,-2.423381,51.550354],
+  "bbox": [
+    -2.423381,
+    51.550354,
+    -2.423381,
+    51.550354
+],
   "geometry": {"coordinates":[-2.423381,51.550354],"type":"Point"}
 }

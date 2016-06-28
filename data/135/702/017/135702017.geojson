@@ -2,13 +2,14 @@
   "id": 135702017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.805654,55.651203,-4.805654,55.651203",
     "geom:latitude":55.651203,
     "geom:longitude":-4.805654,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Central Avenue",
     "sg:city":"Ardrossan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135702017,
-    "wof:lastmodified":1449022521,
+    "wof:lastmodified":1466285920,
     "wof:name":"D Barclay",
     "wof:parent_id":101872495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.805654,55.651203,-4.805654,55.651203],
+  "bbox": [
+    -4.805654,
+    55.651203,
+    -4.805654,
+    55.651203
+],
   "geometry": {"coordinates":[-4.805654,55.651203],"type":"Point"}
 }

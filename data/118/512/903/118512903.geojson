@@ -2,13 +2,14 @@
   "id": 118512903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.793181,51.070625,-1.793181,51.070625",
     "geom:latitude":51.070625,
     "geom:longitude":-1.793181,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6-10 Salt Lane",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118512903,
-    "wof:lastmodified":1449054158,
+    "wof:lastmodified":1466275654,
     "wof:name":"Robert Amor",
     "wof:parent_id":101852713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.793181,51.070625,-1.793181,51.070625],
+  "bbox": [
+    -1.793181,
+    51.070625,
+    -1.793181,
+    51.070625
+],
   "geometry": {"coordinates":[-1.793181,51.070625],"type":"Point"}
 }

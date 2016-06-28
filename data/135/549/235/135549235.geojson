@@ -2,13 +2,14 @@
   "id": 135549235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.092978,51.580845,-4.092978,51.580845",
     "geom:latitude":51.580845,
     "geom:longitude":-4.092978,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Sandy Lane, Parkmill",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135549235,
-    "wof:lastmodified":1449021836,
+    "wof:lastmodified":1466279315,
     "wof:name":"E Grostate",
     "wof:parent_id":85684551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.092978,51.580845,-4.092978,51.580845],
+  "bbox": [
+    -4.092978,
+    51.580845,
+    -4.092978,
+    51.580845
+],
   "geometry": {"coordinates":[-4.092978,51.580845],"type":"Point"}
 }

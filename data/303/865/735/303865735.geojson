@@ -2,13 +2,14 @@
   "id": 303865735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.043929,52.585651,-2.043929,52.585651",
     "geom:latitude":52.585651,
     "geom:longitude":-2.043929,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Walsall Road",
     "sg:city":"Willenhall",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303865735,
-    "wof:lastmodified":1448999966,
+    "wof:lastmodified":1466283810,
     "wof:name":"The Acorn",
     "wof:parent_id":85785623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-2.043929,52.585651,-2.043929,52.585651],
+  "bbox": [
+    -2.043929,
+    52.585651,
+    -2.043929,
+    52.585651
+],
   "geometry": {"coordinates":[-2.043929,52.585651],"type":"Point"}
 }

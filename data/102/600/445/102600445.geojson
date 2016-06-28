@@ -2,13 +2,14 @@
   "id": 102600445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.265459,52.93565,-1.265459,52.93565",
     "geom:latitude":52.93565,
     "geom:longitude":-1.265459,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Central Avenue, Stapleford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102600445,
-    "wof:lastmodified":1449068014,
+    "wof:lastmodified":1466277823,
     "wof:name":"Dooley Builders",
     "wof:parent_id":85785929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.265459,52.93565,-1.265459,52.93565],
+  "bbox": [
+    -1.265459,
+    52.93565,
+    -1.265459,
+    52.93565
+],
   "geometry": {"coordinates":[-1.265459,52.93565],"type":"Point"}
 }

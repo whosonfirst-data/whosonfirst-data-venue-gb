@@ -2,13 +2,14 @@
   "id": 135920887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.912305,53.412151,-2.912305,53.412151",
     "geom:latitude":53.412151,
     "geom:longitude":-2.912305,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2a Montague Road, Old Swan",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135920887,
-    "wof:lastmodified":1449023343,
+    "wof:lastmodified":1466288221,
     "wof:name":"Montague Garage",
     "wof:parent_id":85789605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.912305,53.412151,-2.912305,53.412151],
+  "bbox": [
+    -2.912305,
+    53.412151,
+    -2.912305,
+    53.412151
+],
   "geometry": {"coordinates":[-2.912305,53.412151],"type":"Point"}
 }

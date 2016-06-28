@@ -2,13 +2,14 @@
   "id": 269903213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.031568,53.808258,-3.031568,53.808258",
     "geom:latitude":53.808258,
     "geom:longitude":-3.031568,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Whitegate Drive",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":269903213,
-    "wof:lastmodified":1449036286,
+    "wof:lastmodified":1466272847,
     "wof:name":"R & L Simpson",
     "wof:parent_id":85866811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-3.031568,53.808258,-3.031568,53.808258],
+  "bbox": [
+    -3.031568,
+    53.808258,
+    -3.031568,
+    53.808258
+],
   "geometry": {"coordinates":[-3.031568,53.808258],"type":"Point"}
 }

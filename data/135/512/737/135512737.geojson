@@ -2,13 +2,14 @@
   "id": 135512737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.191529,55.945442,-3.191529,55.945442",
     "geom:latitude":55.945442,
     "geom:longitude":-3.191529,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Forrest Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135512737,
-    "wof:lastmodified":1449023193,
+    "wof:lastmodified":1466275988,
     "wof:name":"G G's",
     "wof:parent_id":85861505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.191529,55.945442,-3.191529,55.945442],
+  "bbox": [
+    -3.191529,
+    55.945442,
+    -3.191529,
+    55.945442
+],
   "geometry": {"coordinates":[-3.191529,55.945442],"type":"Point"}
 }

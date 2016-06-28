@@ -2,13 +2,14 @@
   "id": 203383839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.129883,52.584351,-2.129883,52.584351",
     "geom:latitude":52.584351,
     "geom:longitude":-2.129883,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Victoria Street",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203383839,
-    "wof:lastmodified":1449025729,
+    "wof:lastmodified":1466259285,
     "wof:name":"Le Monde",
     "wof:parent_id":85785837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "menswear"
     ]
 },
-  "bbox": [-2.129883,52.584351,-2.129883,52.584351],
+  "bbox": [
+    -2.129883,
+    52.584351,
+    -2.129883,
+    52.584351
+],
   "geometry": {"coordinates":[-2.129883,52.584351],"type":"Point"}
 }

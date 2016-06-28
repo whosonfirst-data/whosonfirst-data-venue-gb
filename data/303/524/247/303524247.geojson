@@ -2,13 +2,14 @@
   "id": 303524247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.00205,51.541458,0.00205,51.541458",
     "geom:latitude":51.541458,
     "geom:longitude":0.00205,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Bdwy",
     "sg:city":"London",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303524247,
-    "wof:lastmodified":1448998092,
+    "wof:lastmodified":1466278530,
     "wof:name":"Brook Street",
     "wof:parent_id":85790801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [0.00205,51.541458,0.00205,51.541458],
+  "bbox": [
+    0.00205,
+    51.541458,
+    0.00205,
+    51.541458
+],
   "geometry": {"coordinates":[0.00205,51.541458],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336894515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.089313,53.956055,-1.089313,53.956055",
     "geom:latitude":53.956055,
     "geom:longitude":-1.089313,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Priory St",
     "sg:city":"York",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336894515,
-    "wof:lastmodified":1448997388,
+    "wof:lastmodified":1466280168,
     "wof:name":"Volunteers Centre",
     "wof:parent_id":85787081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.089313,53.956055,-1.089313,53.956055],
+  "bbox": [
+    -1.089313,
+    53.956055,
+    -1.089313,
+    53.956055
+],
   "geometry": {"coordinates":[-1.089313,53.956055],"type":"Point"}
 }

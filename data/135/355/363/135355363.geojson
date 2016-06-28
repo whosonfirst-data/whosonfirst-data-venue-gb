@@ -2,13 +2,14 @@
   "id": 135355363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.454879,55.047878,-1.454879,55.047878",
     "geom:latitude":55.047878,
     "geom:longitude":-1.454879,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Ilfracombe Gardens",
     "sg:city":"Whitley Bay",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":135355363,
-    "wof:lastmodified":1449021854,
+    "wof:lastmodified":1466257815,
     "wof:name":"Stagestruck",
     "wof:parent_id":101751655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.454879,55.047878,-1.454879,55.047878],
+  "bbox": [
+    -1.454879,
+    55.047878,
+    -1.454879,
+    55.047878
+],
   "geometry": {"coordinates":[-1.454879,55.047878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102619345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.525593,53.955238,-1.525593,53.955238",
     "geom:latitude":53.955238,
     "geom:longitude":-1.525593,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Walton Park, Pannal",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102619345,
-    "wof:lastmodified":1449068250,
+    "wof:lastmodified":1466253159,
     "wof:name":"Chris Hughes",
     "wof:parent_id":85683811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.525593,53.955238,-1.525593,53.955238],
+  "bbox": [
+    -1.525593,
+    53.955238,
+    -1.525593,
+    53.955238
+],
   "geometry": {"coordinates":[-1.525593,53.955238],"type":"Point"}
 }

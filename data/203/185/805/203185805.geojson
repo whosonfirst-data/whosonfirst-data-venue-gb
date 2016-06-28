@@ -2,13 +2,14 @@
   "id": 203185805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.234614,53.485619,-2.234614,53.485619",
     "geom:latitude":53.485619,
     "geom:longitude":-2.234614,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Swan Building, 20 Swan Street",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203185805,
-    "wof:lastmodified":1449025251,
+    "wof:lastmodified":1466255761,
     "wof:name":"Middleweeks",
     "wof:parent_id":85793015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "solicitor"
     ]
 },
-  "bbox": [-2.234614,53.485619,-2.234614,53.485619],
+  "bbox": [
+    -2.234614,
+    53.485619,
+    -2.234614,
+    53.485619
+],
   "geometry": {"coordinates":[-2.234614,53.485619],"type":"Point"}
 }

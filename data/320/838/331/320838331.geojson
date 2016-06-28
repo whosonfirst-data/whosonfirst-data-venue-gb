@@ -2,13 +2,14 @@
   "id": 320838331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.106297,51.547825,-0.106297,51.547825",
     "geom:latitude":51.547825,
     "geom:longitude":-0.106297,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Holloway Rd",
     "sg:city":"Holloway",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320838331,
-    "wof:lastmodified":1449011700,
+    "wof:lastmodified":1466285190,
     "wof:name":"Phone City",
     "wof:parent_id":85860851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication"
     ]
 },
-  "bbox": [-0.106297,51.547825,-0.106297,51.547825],
+  "bbox": [
+    -0.106297,
+    51.547825,
+    -0.106297,
+    51.547825
+],
   "geometry": {"coordinates":[-0.106297,51.547825],"type":"Point"}
 }

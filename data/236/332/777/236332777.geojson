@@ -2,13 +2,14 @@
   "id": 236332777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.664642,53.53701,-2.664642,53.53701",
     "geom:latitude":53.53701,
     "geom:longitude":-2.664642,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2a Portland Street, Pemberton",
     "sg:city":"Wigan",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":236332777,
-    "wof:lastmodified":1449003500,
+    "wof:lastmodified":1466262820,
     "wof:name":"New Pemberton Surgery",
     "wof:parent_id":85789781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "practitioners"
     ]
 },
-  "bbox": [-2.664642,53.53701,-2.664642,53.53701],
+  "bbox": [
+    -2.664642,
+    53.53701,
+    -2.664642,
+    53.53701
+],
   "geometry": {"coordinates":[-2.664642,53.53701],"type":"Point"}
 }

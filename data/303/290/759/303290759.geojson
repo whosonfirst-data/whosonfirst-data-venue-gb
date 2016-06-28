@@ -2,13 +2,14 @@
   "id": 303290759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.457743,51.402225,-2.457743,51.402225",
     "geom:latitude":51.402225,
     "geom:longitude":-2.457743,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"489 Bath Road, Saltford",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303290759,
-    "wof:lastmodified":1448999172,
+    "wof:lastmodified":1466271570,
     "wof:name":"Davies & Way",
     "wof:parent_id":85861079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.457743,51.402225,-2.457743,51.402225],
+  "bbox": [
+    -2.457743,
+    51.402225,
+    -2.457743,
+    51.402225
+],
   "geometry": {"coordinates":[-2.457743,51.402225],"type":"Point"}
 }

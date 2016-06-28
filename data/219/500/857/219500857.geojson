@@ -2,13 +2,14 @@
   "id": 219500857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.192597,51.506538,-1.192597,51.506538",
     "geom:latitude":51.506538,
     "geom:longitude":-1.192597,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Reading Road, Lower Basildon",
     "sg:city":"Reading",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":219500857,
-    "wof:lastmodified":1449071282,
+    "wof:lastmodified":1466258748,
     "wof:name":"Country Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-1.192597,51.506538,-1.192597,51.506538],
+  "bbox": [
+    -1.192597,
+    51.506538,
+    -1.192597,
+    51.506538
+],
   "geometry": {"coordinates":[-1.192597,51.506538],"type":"Point"}
 }

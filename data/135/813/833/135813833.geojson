@@ -2,13 +2,14 @@
   "id": 135813833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.036157,55.775749,-4.036157,55.775749",
     "geom:latitude":55.775749,
     "geom:longitude":-4.036157,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Campbell Street",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135813833,
-    "wof:lastmodified":1449021769,
+    "wof:lastmodified":1466287543,
     "wof:name":"Shaver Care",
     "wof:parent_id":101750627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.036157,55.775749,-4.036157,55.775749],
+  "bbox": [
+    -4.036157,
+    55.775749,
+    -4.036157,
+    55.775749
+],
   "geometry": {"coordinates":[-4.036157,55.775749],"type":"Point"}
 }

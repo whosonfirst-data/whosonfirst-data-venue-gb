@@ -2,13 +2,14 @@
   "id": 119460373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.226904,55.846912,-4.226904,55.846912",
     "geom:latitude":55.846912,
     "geom:longitude":-4.226904,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"92a-94 Main Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":119460373,
-    "wof:lastmodified":1449043402,
+    "wof:lastmodified":1466286523,
     "wof:name":"Scotsman's Bar",
     "wof:parent_id":85792633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.226904,55.846912,-4.226904,55.846912],
+  "bbox": [
+    -4.226904,
+    55.846912,
+    -4.226904,
+    55.846912
+],
   "geometry": {"coordinates":[-4.226904,55.846912],"type":"Point"}
 }

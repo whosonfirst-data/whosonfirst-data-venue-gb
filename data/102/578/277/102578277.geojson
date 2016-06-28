@@ -2,13 +2,14 @@
   "id": 102578277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.06442,51.065311,-4.06442,51.065311",
     "geom:latitude":51.065311,
     "geom:longitude":-4.06442,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Mock Cottage, Lake",
     "sg:city":"Barnstaple",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102578277,
-    "wof:lastmodified":1449068389,
+    "wof:lastmodified":1466273315,
     "wof:name":"Trevor Cox",
     "wof:parent_id":101852617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.06442,51.065311,-4.06442,51.065311],
+  "bbox": [
+    -4.06442,
+    51.065311,
+    -4.06442,
+    51.065311
+],
   "geometry": {"coordinates":[-4.06442,51.065311],"type":"Point"}
 }

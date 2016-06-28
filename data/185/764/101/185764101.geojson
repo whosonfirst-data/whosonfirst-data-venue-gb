@@ -2,13 +2,14 @@
   "id": 185764101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.17819,55.931225,-3.17819,55.931225",
     "geom:latitude":55.931225,
     "geom:longitude":-3.17819,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Findhorn Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185764101,
-    "wof:lastmodified":1449008121,
+    "wof:lastmodified":1466254196,
     "wof:name":"ALAN G JAMIESON",
     "wof:parent_id":85792691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.17819,55.931225,-3.17819,55.931225],
+  "bbox": [
+    -3.17819,
+    55.931225,
+    -3.17819,
+    55.931225
+],
   "geometry": {"coordinates":[-3.17819,55.931225],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135421577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.430029,53.399502,-1.430029,53.399502",
     "geom:latitude":53.399502,
     "geom:longitude":-1.430029,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Liverpool Street",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135421577,
-    "wof:lastmodified":1449022925,
+    "wof:lastmodified":1466265262,
     "wof:name":"G W Pearce & Sons",
     "wof:parent_id":85786005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.430029,53.399502,-1.430029,53.399502],
+  "bbox": [
+    -1.430029,
+    53.399502,
+    -1.430029,
+    53.399502
+],
   "geometry": {"coordinates":[-1.430029,53.399502],"type":"Point"}
 }

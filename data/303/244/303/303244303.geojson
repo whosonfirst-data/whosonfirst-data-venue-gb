@@ -2,13 +2,14 @@
   "id": 303244303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.348759,54.473351,-2.348759,54.473351",
     "geom:latitude":54.473351,
     "geom:longitude":-2.348759,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3-7 Market Street",
     "sg:city":"Kirkby Stephen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303244303,
-    "wof:lastmodified":1448999092,
+    "wof:lastmodified":1466270187,
     "wof:name":"C Milner & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.348759,54.473351,-2.348759,54.473351],
+  "bbox": [
+    -2.348759,
+    54.473351,
+    -2.348759,
+    54.473351
+],
   "geometry": {"coordinates":[-2.348759,54.473351],"type":"Point"}
 }

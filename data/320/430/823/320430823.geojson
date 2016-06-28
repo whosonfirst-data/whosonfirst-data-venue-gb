@@ -2,13 +2,14 @@
   "id": 320430823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.920007,50.385921,-3.920007,50.385921",
     "geom:latitude":50.385921,
     "geom:longitude":-3.920007,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Greenfield Drive",
     "sg:city":"Ivybridge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320430823,
-    "wof:lastmodified":1449013644,
+    "wof:lastmodified":1466280160,
     "wof:name":"Peter Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "engineer"
     ]
 },
-  "bbox": [-3.920007,50.385921,-3.920007,50.385921],
+  "bbox": [
+    -3.920007,
+    50.385921,
+    -3.920007,
+    50.385921
+],
   "geometry": {"coordinates":[-3.920007,50.385921],"type":"Point"}
 }

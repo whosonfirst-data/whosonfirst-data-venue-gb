@@ -2,13 +2,14 @@
   "id": 202827355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.485152,52.430702,-1.485152,52.430702",
     "geom:latitude":52.430702,
     "geom:longitude":-1.485152,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Bell Green Road",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202827355,
-    "wof:lastmodified":1449061017,
+    "wof:lastmodified":1466259524,
     "wof:name":"Bike Bits",
     "wof:parent_id":85792035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cycle"
     ]
 },
-  "bbox": [-1.485152,52.430702,-1.485152,52.430702],
+  "bbox": [
+    -1.485152,
+    52.430702,
+    -1.485152,
+    52.430702
+],
   "geometry": {"coordinates":[-1.485152,52.430702],"type":"Point"}
 }

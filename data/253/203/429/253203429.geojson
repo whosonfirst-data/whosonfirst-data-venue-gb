@@ -2,13 +2,14 @@
   "id": 253203429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.175366,55.765167,-4.175366,55.765167",
     "geom:latitude":55.765167,
     "geom:longitude":-4.175366,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Hunter St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253203429,
-    "wof:lastmodified":1449064141,
+    "wof:lastmodified":1466261354,
     "wof:name":"Wright Bros (Glasgow) Ltd",
     "wof:parent_id":85792549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "butcher"
     ]
 },
-  "bbox": [-4.175366,55.765167,-4.175366,55.765167],
+  "bbox": [
+    -4.175366,
+    55.765167,
+    -4.175366,
+    55.765167
+],
   "geometry": {"coordinates":[-4.175366,55.765167],"type":"Point"}
 }

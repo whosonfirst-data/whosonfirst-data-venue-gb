@@ -2,13 +2,14 @@
   "id": 119364603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.252645,55.858349,-4.252645,55.858349",
     "geom:latitude":55.858349,
     "geom:longitude":-4.252645,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Queen Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119364603,
-    "wof:lastmodified":1449042358,
+    "wof:lastmodified":1466283640,
     "wof:name":"Ross Cook Shop",
     "wof:parent_id":85861547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.252645,55.858349,-4.252645,55.858349],
+  "bbox": [
+    -4.252645,
+    55.858349,
+    -4.252645,
+    55.858349
+],
   "geometry": {"coordinates":[-4.252645,55.858349],"type":"Point"}
 }

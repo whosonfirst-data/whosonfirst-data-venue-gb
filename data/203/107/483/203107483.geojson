@@ -2,13 +2,14 @@
   "id": 203107483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.172526,51.463833,-3.172526,51.463833",
     "geom:latitude":51.463833,
     "geom:longitude":-3.172526,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Pomeroy Street",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":203107483,
-    "wof:lastmodified":1449024947,
+    "wof:lastmodified":1466254462,
     "wof:name":"David Owen",
     "wof:parent_id":85861429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.172526,51.463833,-3.172526,51.463833],
+  "bbox": [
+    -3.172526,
+    51.463833,
+    -3.172526,
+    51.463833
+],
   "geometry": {"coordinates":[-3.172526,51.463833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253583285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.045301,53.815098,-3.045301,53.815098",
     "geom:latitude":53.815098,
     "geom:longitude":-3.045301,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Hornby Road",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":253583285,
-    "wof:lastmodified":1449065137,
+    "wof:lastmodified":1466270577,
     "wof:name":"Michael Crowley",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.045301,53.815098,-3.045301,53.815098],
+  "bbox": [
+    -3.045301,
+    53.815098,
+    -3.045301,
+    53.815098
+],
   "geometry": {"coordinates":[-3.045301,53.815098],"type":"Point"}
 }

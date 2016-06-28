@@ -2,13 +2,14 @@
   "id": 253631747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.464544,53.38311,-1.464544,53.38311",
     "geom:latitude":53.38311,
     "geom:longitude":-1.464544,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Carver Ho, 2-4 Carver St",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253631747,
-    "wof:lastmodified":1449063733,
+    "wof:lastmodified":1466272118,
     "wof:name":"Gremlin Interactive Ltd",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "software"
     ]
 },
-  "bbox": [-1.464544,53.38311,-1.464544,53.38311],
+  "bbox": [
+    -1.464544,
+    53.38311,
+    -1.464544,
+    53.38311
+],
   "geometry": {"coordinates":[-1.464544,53.38311],"type":"Point"}
 }

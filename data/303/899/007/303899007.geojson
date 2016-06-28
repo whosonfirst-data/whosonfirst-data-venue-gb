@@ -2,13 +2,14 @@
   "id": 303899007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.531702,50.724606,-3.531702,50.724606",
     "geom:latitude":50.724606,
     "geom:longitude":-3.531702,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Queen Street",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303899007,
-    "wof:lastmodified":1449000444,
+    "wof:lastmodified":1466284213,
     "wof:name":"Mounts Bay Trading Co",
     "wof:parent_id":85790623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-3.531702,50.724606,-3.531702,50.724606],
+  "bbox": [
+    -3.531702,
+    50.724606,
+    -3.531702,
+    50.724606
+],
   "geometry": {"coordinates":[-3.531702,50.724606],"type":"Point"}
 }

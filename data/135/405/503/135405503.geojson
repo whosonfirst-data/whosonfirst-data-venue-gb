@@ -2,13 +2,14 @@
   "id": 135405503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.305134,53.049755,-2.305134,53.049755",
     "geom:latitude":53.049755,
     "geom:longitude":-2.305134,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 King Street",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135405503,
-    "wof:lastmodified":1449023761,
+    "wof:lastmodified":1466263371,
     "wof:name":"C Harrison",
     "wof:parent_id":85683943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.305134,53.049755,-2.305134,53.049755],
+  "bbox": [
+    -2.305134,
+    53.049755,
+    -2.305134,
+    53.049755
+],
   "geometry": {"coordinates":[-2.305134,53.049755],"type":"Point"}
 }

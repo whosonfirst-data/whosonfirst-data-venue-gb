@@ -2,13 +2,14 @@
   "id": 319946739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.039548,53.483353,-3.039548,53.483353",
     "geom:latitude":53.483353,
     "geom:longitude":-3.039548,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Bridge Road, Crosby",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":319946739,
-    "wof:lastmodified":1449024797,
+    "wof:lastmodified":1466271387,
     "wof:name":"Sandwich Express",
     "wof:parent_id":85792083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supplier"
     ]
 },
-  "bbox": [-3.039548,53.483353,-3.039548,53.483353],
+  "bbox": [
+    -3.039548,
+    53.483353,
+    -3.039548,
+    53.483353
+],
   "geometry": {"coordinates":[-3.039548,53.483353],"type":"Point"}
 }

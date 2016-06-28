@@ -2,13 +2,14 @@
   "id": 253330417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.537364,51.440601,-2.537364,51.440601",
     "geom:latitude":51.440601,
     "geom:longitude":-2.537364,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Broomhill Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":253330417,
-    "wof:lastmodified":1449064303,
+    "wof:lastmodified":1466263820,
     "wof:name":"Mike & Yvonne",
     "wof:parent_id":85786019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.537364,51.440601,-2.537364,51.440601],
+  "bbox": [
+    -2.537364,
+    51.440601,
+    -2.537364,
+    51.440601
+],
   "geometry": {"coordinates":[-2.537364,51.440601],"type":"Point"}
 }

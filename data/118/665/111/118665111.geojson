@@ -2,13 +2,14 @@
   "id": 118665111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.148084,52.952702,-1.148084,52.952702",
     "geom:latitude":52.952702,
     "geom:longitude":-1.148084,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Excise Chambers, Pelham Street",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":118665111,
-    "wof:lastmodified":1449053577,
+    "wof:lastmodified":1466262685,
     "wof:name":"A Lewindon",
     "wof:parent_id":85793185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.148084,52.952702,-1.148084,52.952702],
+  "bbox": [
+    -1.148084,
+    52.952702,
+    -1.148084,
+    52.952702
+],
   "geometry": {"coordinates":[-1.148084,52.952702],"type":"Point"}
 }

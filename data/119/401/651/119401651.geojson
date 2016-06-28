@@ -2,13 +2,14 @@
   "id": 119401651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.39243,50.924198,-1.39243,50.924198",
     "geom:latitude":50.924198,
     "geom:longitude":-1.39243,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Po Box 1082",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119401651,
-    "wof:lastmodified":1449043127,
+    "wof:lastmodified":1466285172,
     "wof:name":"Pimms Hotel Apartments",
     "wof:parent_id":85861259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.39243,50.924198,-1.39243,50.924198],
+  "bbox": [
+    -1.39243,
+    50.924198,
+    -1.39243,
+    50.924198
+],
   "geometry": {"coordinates":[-1.39243,50.924198],"type":"Point"}
 }

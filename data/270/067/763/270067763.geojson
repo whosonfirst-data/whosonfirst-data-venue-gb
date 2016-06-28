@@ -2,13 +2,14 @@
   "id": 270067763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.532005,50.723244,-3.532005,50.723244",
     "geom:latitude":50.723244,
     "geom:longitude":-3.532005,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"199 High Street",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":270067763,
-    "wof:lastmodified":1449008815,
+    "wof:lastmodified":1466262514,
     "wof:name":"Whittard of Chelsea",
     "wof:parent_id":85790623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.532005,50.723244,-3.532005,50.723244],
+  "bbox": [
+    -3.532005,
+    50.723244,
+    -3.532005,
+    50.723244
+],
   "geometry": {"coordinates":[-3.532005,50.723244],"type":"Point"}
 }

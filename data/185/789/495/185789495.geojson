@@ -2,13 +2,14 @@
   "id": 185789495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.900585,52.478508,-1.900585,52.478508",
     "geom:latitude":52.478508,
     "geom:longitude":-1.900585,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Navigation St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185789495,
-    "wof:lastmodified":1449007344,
+    "wof:lastmodified":1466254514,
     "wof:name":"Blooms Jewellery",
     "wof:parent_id":85861273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [-1.900585,52.478508,-1.900585,52.478508],
+  "bbox": [
+    -1.900585,
+    52.478508,
+    -1.900585,
+    52.478508
+],
   "geometry": {"coordinates":[-1.900585,52.478508],"type":"Point"}
 }

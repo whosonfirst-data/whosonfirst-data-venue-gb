@@ -2,13 +2,14 @@
   "id": 135708013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.538353,50.759628,-1.538353,50.759628",
     "geom:latitude":50.759628,
     "geom:longitude":-1.538353,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Gosport Street",
     "sg:city":"Lymington",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135708013,
-    "wof:lastmodified":1449021459,
+    "wof:lastmodified":1466286164,
     "wof:name":"Limpets Restaurant",
     "wof:parent_id":101852443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.538353,50.759628,-1.538353,50.759628],
+  "bbox": [
+    -1.538353,
+    50.759628,
+    -1.538353,
+    50.759628
+],
   "geometry": {"coordinates":[-1.538353,50.759628],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303507633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.728456,53.805309,-1.728456,53.805309",
     "geom:latitude":53.805309,
     "geom:longitude":-1.728456,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Abbeyfield House, 89-91 Pollard Lane",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303507633,
-    "wof:lastmodified":1448999377,
+    "wof:lastmodified":1466278200,
     "wof:name":"Abbeyfield Bradford (Incorporating Leeds",
     "wof:parent_id":85791921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "housing"
     ]
 },
-  "bbox": [-1.728456,53.805309,-1.728456,53.805309],
+  "bbox": [
+    -1.728456,
+    53.805309,
+    -1.728456,
+    53.805309
+],
   "geometry": {"coordinates":[-1.728456,53.805309],"type":"Point"}
 }

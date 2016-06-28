@@ -2,13 +2,14 @@
   "id": 118921603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.484082,55.042053,-1.484082,55.042053",
     "geom:latitude":55.042053,
     "geom:longitude":-1.484082,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Wilton Drive",
     "sg:city":"Whitley Bay",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118921603,
-    "wof:lastmodified":1449054048,
+    "wof:lastmodified":1466280647,
     "wof:name":"Electrical Services",
     "wof:parent_id":101751655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.484082,55.042053,-1.484082,55.042053],
+  "bbox": [
+    -1.484082,
+    55.042053,
+    -1.484082,
+    55.042053
+],
   "geometry": {"coordinates":[-1.484082,55.042053],"type":"Point"}
 }

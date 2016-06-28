@@ -2,13 +2,14 @@
   "id": 304032155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.78247,55.997276,-3.78247,55.997276",
     "geom:latitude":55.997276,
     "geom:longitude":-3.78247,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Crispins's Ho, 23 St Crispins Pl",
     "sg:city":"Falkirk",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":304032155,
-    "wof:lastmodified":1449043842,
+    "wof:lastmodified":1466265222,
     "wof:name":"The Business",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "public"
     ]
 },
-  "bbox": [-3.78247,55.997276,-3.78247,55.997276],
+  "bbox": [
+    -3.78247,
+    55.997276,
+    -3.78247,
+    55.997276
+],
   "geometry": {"coordinates":[-3.78247,55.997276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253606265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.675256,54.945587,-1.675256,54.945587",
     "geom:latitude":54.945587,
     "geom:longitude":-1.675256,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Front Street, Whickham",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":253606265,
-    "wof:lastmodified":1449063273,
+    "wof:lastmodified":1466271340,
     "wof:name":"Flower Design",
     "wof:parent_id":85787115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.675256,54.945587,-1.675256,54.945587],
+  "bbox": [
+    -1.675256,
+    54.945587,
+    -1.675256,
+    54.945587
+],
   "geometry": {"coordinates":[-1.675256,54.945587],"type":"Point"}
 }

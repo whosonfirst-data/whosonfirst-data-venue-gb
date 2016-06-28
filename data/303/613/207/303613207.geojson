@@ -2,13 +2,14 @@
   "id": 303613207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.518206,52.440941,-1.518206,52.440941",
     "geom:latitude":52.440941,
     "geom:longitude":-1.518206,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Paynell Close",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303613207,
-    "wof:lastmodified":1448999259,
+    "wof:lastmodified":1466280153,
     "wof:name":"Adams Glass",
     "wof:parent_id":85788529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glazier"
     ]
 },
-  "bbox": [-1.518206,52.440941,-1.518206,52.440941],
+  "bbox": [
+    -1.518206,
+    52.440941,
+    -1.518206,
+    52.440941
+],
   "geometry": {"coordinates":[-1.518206,52.440941],"type":"Point"}
 }

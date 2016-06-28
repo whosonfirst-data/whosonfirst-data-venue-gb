@@ -2,13 +2,14 @@
   "id": 236272935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.426982,50.917072,-1.426982,50.917072",
     "geom:latitude":50.917072,
     "geom:longitude":-1.426982,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Shirley Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236272935,
-    "wof:lastmodified":1449004980,
+    "wof:lastmodified":1466261703,
     "wof:name":"SMS Agencies",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-1.426982,50.917072,-1.426982,50.917072],
+  "bbox": [
+    -1.426982,
+    50.917072,
+    -1.426982,
+    50.917072
+],
   "geometry": {"coordinates":[-1.426982,50.917072],"type":"Point"}
 }

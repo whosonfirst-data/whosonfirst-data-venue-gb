@@ -2,13 +2,14 @@
   "id": 119220821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.409976,53.045795,-1.409976,53.045795",
     "geom:latitude":53.045795,
     "geom:longitude":-1.409976,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Briars Way",
     "sg:city":"Ripley",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119220821,
-    "wof:lastmodified":1449043464,
+    "wof:lastmodified":1466271563,
     "wof:name":"Harts Transport",
     "wof:parent_id":101872067,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.409976,53.045795,-1.409976,53.045795],
+  "bbox": [
+    -1.409976,
+    53.045795,
+    -1.409976,
+    53.045795
+],
   "geometry": {"coordinates":[-1.409976,53.045795],"type":"Point"}
 }

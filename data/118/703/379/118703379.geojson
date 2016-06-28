@@ -2,13 +2,14 @@
   "id": 118703379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.65126,54.975483,-1.65126,54.975483",
     "geom:latitude":54.975483,
     "geom:longitude":-1.65126,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 West Road, Fenham",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":118703379,
-    "wof:lastmodified":1449053573,
+    "wof:lastmodified":1466265556,
     "wof:name":"Tynedale Flight Travel",
     "wof:parent_id":85785351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.65126,54.975483,-1.65126,54.975483],
+  "bbox": [
+    -1.65126,
+    54.975483,
+    -1.65126,
+    54.975483
+],
   "geometry": {"coordinates":[-1.65126,54.975483],"type":"Point"}
 }

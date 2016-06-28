@@ -2,13 +2,14 @@
   "id": 185747611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.977929,51.001163,-2.977929,51.001163",
     "geom:latitude":51.001163,
     "geom:longitude":-2.977929,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Croft Cotts, Wrantage",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185747611,
-    "wof:lastmodified":1449006907,
+    "wof:lastmodified":1466253979,
     "wof:name":"Taunton Revcom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "charity"
     ]
 },
-  "bbox": [-2.977929,51.001163,-2.977929,51.001163],
+  "bbox": [
+    -2.977929,
+    51.001163,
+    -2.977929,
+    51.001163
+],
   "geometry": {"coordinates":[-2.977929,51.001163],"type":"Point"}
 }

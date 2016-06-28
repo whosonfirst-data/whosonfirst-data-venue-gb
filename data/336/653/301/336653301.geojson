@@ -2,13 +2,14 @@
   "id": 336653301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.01431,50.715153,-2.01431,50.715153",
     "geom:latitude":50.715153,
     "geom:longitude":-2.01431,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Lake Road",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":336653301,
-    "wof:lastmodified":1448997003,
+    "wof:lastmodified":1466274356,
     "wof:name":"The Happy Shopper",
     "wof:parent_id":85787887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.01431,50.715153,-2.01431,50.715153],
+  "bbox": [
+    -2.01431,
+    50.715153,
+    -2.01431,
+    50.715153
+],
   "geometry": {"coordinates":[-2.01431,50.715153],"type":"Point"}
 }

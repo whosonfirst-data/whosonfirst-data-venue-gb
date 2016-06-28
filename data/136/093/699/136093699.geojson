@@ -2,13 +2,14 @@
   "id": 136093699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.326143,51.398827,-1.326143,51.398827",
     "geom:latitude":51.398827,
     "geom:longitude":-1.326143,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Bartholomew Street",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":136093699,
-    "wof:lastmodified":1449074913,
+    "wof:lastmodified":1466255200,
     "wof:name":"John Armstrong",
     "wof:parent_id":101852663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.326143,51.398827,-1.326143,51.398827],
+  "bbox": [
+    -1.326143,
+    51.398827,
+    -1.326143,
+    51.398827
+],
   "geometry": {"coordinates":[-1.326143,51.398827],"type":"Point"}
 }

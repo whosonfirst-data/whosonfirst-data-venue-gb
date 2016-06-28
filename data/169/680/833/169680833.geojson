@@ -2,13 +2,14 @@
   "id": 169680833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.088903,50.801937,-1.088903,50.801937",
     "geom:latitude":50.801937,
     "geom:longitude":-1.088903,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Charlotte Street",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169680833,
-    "wof:lastmodified":1449034996,
+    "wof:lastmodified":1466253167,
     "wof:name":"Munchers Restaurant",
     "wof:parent_id":85861983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.088903,50.801937,-1.088903,50.801937],
+  "bbox": [
+    -1.088903,
+    50.801937,
+    -1.088903,
+    50.801937
+],
   "geometry": {"coordinates":[-1.088903,50.801937],"type":"Point"}
 }

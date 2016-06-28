@@ -2,13 +2,14 @@
   "id": 119330359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.193288,53.384567,-2.193288,53.384567",
     "geom:latitude":53.384567,
     "geom:longitude":-2.193288,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Worcester Road, Cheadle Hulme",
     "sg:city":"Cheadle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119330359,
-    "wof:lastmodified":1449042166,
+    "wof:lastmodified":1466281844,
     "wof:name":"E W Equipment",
     "wof:parent_id":85786499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.193288,53.384567,-2.193288,53.384567],
+  "bbox": [
+    -2.193288,
+    53.384567,
+    -2.193288,
+    53.384567
+],
   "geometry": {"coordinates":[-2.193288,53.384567],"type":"Point"}
 }

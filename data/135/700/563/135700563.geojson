@@ -2,13 +2,14 @@
   "id": 135700563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.646285,55.082481,-3.646285,55.082481",
     "geom:latitude":55.082481,
     "geom:longitude":-3.646285,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Balcary Avenue",
     "sg:city":"Dumfries",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135700563,
-    "wof:lastmodified":1449023738,
+    "wof:lastmodified":1466285880,
     "wof:name":"George Bell Fencing",
     "wof:parent_id":85683743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.646285,55.082481,-3.646285,55.082481],
+  "bbox": [
+    -3.646285,
+    55.082481,
+    -3.646285,
+    55.082481
+],
   "geometry": {"coordinates":[-3.646285,55.082481],"type":"Point"}
 }

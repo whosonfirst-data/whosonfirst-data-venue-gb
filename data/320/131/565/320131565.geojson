@@ -2,13 +2,14 @@
   "id": 320131565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.725453,54.90863,-1.725453,54.90863",
     "geom:latitude":54.90863,
     "geom:longitude":-1.725453,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Westwood Close, Burnopfield",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320131565,
-    "wof:lastmodified":1449012395,
+    "wof:lastmodified":1466272035,
     "wof:name":"Westwood Business Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-1.725453,54.90863,-1.725453,54.90863],
+  "bbox": [
+    -1.725453,
+    54.90863,
+    -1.725453,
+    54.90863
+],
   "geometry": {"coordinates":[-1.725453,54.90863],"type":"Point"}
 }

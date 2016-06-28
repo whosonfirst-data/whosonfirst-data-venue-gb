@@ -2,13 +2,14 @@
   "id": 118627213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.454112,50.611736,-2.454112,50.611736",
     "geom:latitude":50.611736,
     "geom:longitude":-2.454112,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Westham Road",
     "sg:city":"Weymouth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":118627213,
-    "wof:lastmodified":1449054579,
+    "wof:lastmodified":1466259686,
     "wof:name":"Westham Health Clinic",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.454112,50.611736,-2.454112,50.611736],
+  "bbox": [
+    -2.454112,
+    50.611736,
+    -2.454112,
+    50.611736
+],
   "geometry": {"coordinates":[-2.454112,50.611736],"type":"Point"}
 }

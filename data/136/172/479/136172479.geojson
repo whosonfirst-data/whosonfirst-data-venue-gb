@@ -2,13 +2,14 @@
   "id": 136172479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.783662,55.999935,-3.783662,55.999935",
     "geom:latitude":55.999935,
     "geom:longitude":-3.783662,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Manor Street",
     "sg:city":"Falkirk",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136172479,
-    "wof:lastmodified":1449075455,
+    "wof:lastmodified":1466259405,
     "wof:name":"Wallace & Co (Falkirk)",
     "wof:parent_id":101872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.783662,55.999935,-3.783662,55.999935],
+  "bbox": [
+    -3.783662,
+    55.999935,
+    -3.783662,
+    55.999935
+],
   "geometry": {"coordinates":[-3.783662,55.999935],"type":"Point"}
 }

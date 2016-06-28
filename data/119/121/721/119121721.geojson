@@ -2,13 +2,14 @@
   "id": 119121721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.086956,50.414089,-5.086956,50.414089",
     "geom:latitude":50.414089,
     "geom:longitude":-5.086956,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Fore Street",
     "sg:city":"Newquay",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119121721,
-    "wof:lastmodified":1449042912,
+    "wof:lastmodified":1466261100,
     "wof:name":"Wilbur's Cafe & Takeaway",
     "wof:parent_id":101852409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.086956,50.414089,-5.086956,50.414089],
+  "bbox": [
+    -5.086956,
+    50.414089,
+    -5.086956,
+    50.414089
+],
   "geometry": {"coordinates":[-5.086956,50.414089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135432701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.114697,55.882439,-3.114697,55.882439",
     "geom:latitude":55.882439,
     "geom:longitude":-3.114697,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 West Mill Road",
     "sg:city":"Lasswade",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135432701,
-    "wof:lastmodified":1449020927,
+    "wof:lastmodified":1466266591,
     "wof:name":"Westmill Garage",
     "wof:parent_id":85787605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.114697,55.882439,-3.114697,55.882439],
+  "bbox": [
+    -3.114697,
+    55.882439,
+    -3.114697,
+    55.882439
+],
   "geometry": {"coordinates":[-3.114697,55.882439],"type":"Point"}
 }

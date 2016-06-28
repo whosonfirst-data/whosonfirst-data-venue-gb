@@ -2,13 +2,14 @@
   "id": 303306365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.52273,52.398769,-1.52273,52.398769",
     "geom:latitude":52.398769,
     "geom:longitude":-1.52273,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Belvedere Road",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303306365,
-    "wof:lastmodified":1449000453,
+    "wof:lastmodified":1466272015,
     "wof:name":"Belvedere Park Nursing Home",
     "wof:parent_id":85789723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-1.52273,52.398769,-1.52273,52.398769],
+  "bbox": [
+    -1.52273,
+    52.398769,
+    -1.52273,
+    52.398769
+],
   "geometry": {"coordinates":[-1.52273,52.398769],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253743461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.573603,54.966591,-1.573603,54.966591",
     "geom:latitude":54.966591,
     "geom:longitude":-1.573603,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Peters Wharf",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253743461,
-    "wof:lastmodified":1449065788,
+    "wof:lastmodified":1466275731,
     "wof:name":"The Fog on the Tyne",
     "wof:parent_id":85790585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.573603,54.966591,-1.573603,54.966591],
+  "bbox": [
+    -1.573603,
+    54.966591,
+    -1.573603,
+    54.966591
+],
   "geometry": {"coordinates":[-1.573603,54.966591],"type":"Point"}
 }

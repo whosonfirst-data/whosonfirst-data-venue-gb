@@ -2,13 +2,14 @@
   "id": 135338743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.730611,56.703671,-3.730611,56.703671",
     "geom:latitude":56.703671,
     "geom:longitude":-3.730611,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Toberargan Road",
     "sg:city":"Pitlochry",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135338743,
-    "wof:lastmodified":1449022053,
+    "wof:lastmodified":1466255917,
     "wof:name":"Wellhouse",
     "wof:parent_id":101872661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.730611,56.703671,-3.730611,56.703671],
+  "bbox": [
+    -3.730611,
+    56.703671,
+    -3.730611,
+    56.703671
+],
   "geometry": {"coordinates":[-3.730611,56.703671],"type":"Point"}
 }

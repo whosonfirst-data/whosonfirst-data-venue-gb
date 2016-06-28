@@ -2,13 +2,14 @@
   "id": 320080325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.118873,51.461742,-2.118873,51.461742",
     "geom:latitude":51.461742,
     "geom:longitude":-2.118873,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 New Road",
     "sg:city":"Chippenham",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320080325,
-    "wof:lastmodified":1449014863,
+    "wof:lastmodified":1466270558,
     "wof:name":"Chippenham Mobility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "disability"
     ]
 },
-  "bbox": [-2.118873,51.461742,-2.118873,51.461742],
+  "bbox": [
+    -2.118873,
+    51.461742,
+    -2.118873,
+    51.461742
+],
   "geometry": {"coordinates":[-2.118873,51.461742],"type":"Point"}
 }

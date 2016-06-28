@@ -2,13 +2,14 @@
   "id": 303886453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.617023,54.950714,-1.617023,54.950714",
     "geom:latitude":54.950714,
     "geom:longitude":-1.617023,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Saltwell Road",
     "sg:city":"Gateshead",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303886453,
-    "wof:lastmodified":1448999473,
+    "wof:lastmodified":1466284138,
     "wof:name":"Le Barber Shop",
     "wof:parent_id":85785619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdresser"
     ]
 },
-  "bbox": [-1.617023,54.950714,-1.617023,54.950714],
+  "bbox": [
+    -1.617023,
+    54.950714,
+    -1.617023,
+    54.950714
+],
   "geometry": {"coordinates":[-1.617023,54.950714],"type":"Point"}
 }

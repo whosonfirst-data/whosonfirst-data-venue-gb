@@ -2,13 +2,14 @@
   "id": 186361179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.999538,51.626869,-3.999538,51.626869",
     "geom:latitude":51.626869,
     "geom:longitude":-3.999538,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Poplar Close, Tycoch",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186361179,
-    "wof:lastmodified":1449052312,
+    "wof:lastmodified":1466256969,
     "wof:name":"Dial-a-balloon",
     "wof:parent_id":85791391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "novelty"
     ]
 },
-  "bbox": [-3.999538,51.626869,-3.999538,51.626869],
+  "bbox": [
+    -3.999538,
+    51.626869,
+    -3.999538,
+    51.626869
+],
   "geometry": {"coordinates":[-3.999538,51.626869],"type":"Point"}
 }

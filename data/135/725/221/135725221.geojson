@@ -2,13 +2,14 @@
   "id": 135725221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.01431,50.8736,0.01431,50.8736",
     "geom:latitude":50.8736,
     "geom:longitude":0.01431,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40-42 Friars Walk",
     "sg:city":"Lewes",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135725221,
-    "wof:lastmodified":1449021722,
+    "wof:lastmodified":1466286545,
     "wof:name":"Sussex Ambulance Service N H S Trust",
     "wof:parent_id":101853469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.01431,50.8736,0.01431,50.8736],
+  "bbox": [
+    0.01431,
+    50.8736,
+    0.01431,
+    50.8736
+],
   "geometry": {"coordinates":[0.01431,50.8736],"type":"Point"}
 }

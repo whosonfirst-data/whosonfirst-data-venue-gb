@@ -2,13 +2,14 @@
   "id": 102615725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.526094,52.931225,-1.526094,52.931225",
     "geom:latitude":52.931225,
     "geom:longitude":-1.526094,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Reigate Drive",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102615725,
-    "wof:lastmodified":1449068541,
+    "wof:lastmodified":1466253020,
     "wof:name":"Reigate Primary School",
     "wof:parent_id":85788615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.526094,52.931225,-1.526094,52.931225],
+  "bbox": [
+    -1.526094,
+    52.931225,
+    -1.526094,
+    52.931225
+],
   "geometry": {"coordinates":[-1.526094,52.931225],"type":"Point"}
 }

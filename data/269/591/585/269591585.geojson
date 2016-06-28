@@ -2,13 +2,14 @@
   "id": 269591585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.614184,54.972645,-1.614184,54.972645",
     "geom:latitude":54.972645,
     "geom:longitude":-1.614184,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Grainger Street",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269591585,
-    "wof:lastmodified":1449037424,
+    "wof:lastmodified":1466263306,
     "wof:name":"Medicentre Chemists",
     "wof:parent_id":85861857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "chemist"
     ]
 },
-  "bbox": [-1.614184,54.972645,-1.614184,54.972645],
+  "bbox": [
+    -1.614184,
+    54.972645,
+    -1.614184,
+    54.972645
+],
   "geometry": {"coordinates":[-1.614184,54.972645],"type":"Point"}
 }

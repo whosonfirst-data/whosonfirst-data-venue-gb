@@ -2,13 +2,14 @@
   "id": 135686789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.204687,52.168587,-2.204687,52.168587",
     "geom:latitude":52.168587,
     "geom:longitude":-2.204687,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Stonehall Common",
     "sg:city":"Worcester",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135686789,
-    "wof:lastmodified":1449023293,
+    "wof:lastmodified":1466285647,
     "wof:name":"The Fruiterers Arms",
     "wof:parent_id":85791221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.204687,52.168587,-2.204687,52.168587],
+  "bbox": [
+    -2.204687,
+    52.168587,
+    -2.204687,
+    52.168587
+],
   "geometry": {"coordinates":[-2.204687,52.168587],"type":"Point"}
 }

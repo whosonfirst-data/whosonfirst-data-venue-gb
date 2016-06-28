@@ -2,13 +2,14 @@
   "id": 135600553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.109123,53.542168,-2.109123,53.542168",
     "geom:latitude":53.542168,
     "geom:longitude":-2.109123,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Yorkshire Street",
     "sg:city":"Oldham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135600553,
-    "wof:lastmodified":1449021279,
+    "wof:lastmodified":1466282456,
     "wof:name":"J Taylor",
     "wof:parent_id":85793089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.109123,53.542168,-2.109123,53.542168],
+  "bbox": [
+    -2.109123,
+    53.542168,
+    -2.109123,
+    53.542168
+],
   "geometry": {"coordinates":[-2.109123,53.542168],"type":"Point"}
 }

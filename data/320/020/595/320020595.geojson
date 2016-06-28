@@ -2,13 +2,14 @@
   "id": 320020595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.784642,56.006405,-3.784642,56.006405",
     "geom:latitude":56.006405,
     "geom:longitude":-3.784642,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"106-108 Grahams Road",
     "sg:city":"Falkirk",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320020595,
-    "wof:lastmodified":1449013000,
+    "wof:lastmodified":1466268755,
     "wof:name":"Ewing's Of Falkirk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "matting"
     ]
 },
-  "bbox": [-3.784642,56.006405,-3.784642,56.006405],
+  "bbox": [
+    -3.784642,
+    56.006405,
+    -3.784642,
+    56.006405
+],
   "geometry": {"coordinates":[-3.784642,56.006405],"type":"Point"}
 }

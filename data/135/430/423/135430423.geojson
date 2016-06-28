@@ -2,13 +2,14 @@
   "id": 135430423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.900461,53.711308,-1.900461,53.711308",
     "geom:latitude":53.711308,
     "geom:longitude":-1.900461,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Bolton Brow",
     "sg:city":"Sowerby Bridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135430423,
-    "wof:lastmodified":1449022931,
+    "wof:lastmodified":1466266340,
     "wof:name":"The Shepherds Rest",
     "wof:parent_id":85790183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.900461,53.711308,-1.900461,53.711308],
+  "bbox": [
+    -1.900461,
+    53.711308,
+    -1.900461,
+    53.711308
+],
   "geometry": {"coordinates":[-1.900461,53.711308],"type":"Point"}
 }

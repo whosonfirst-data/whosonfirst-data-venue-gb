@@ -2,13 +2,14 @@
   "id": 320550357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.493705,51.58881,0.493705,51.58881",
     "geom:latitude":51.58881,
     "geom:longitude":0.493705,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Cornwallis Business Centre, Howard Chase",
     "sg:city":"Basildon",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320550357,
-    "wof:lastmodified":1449013288,
+    "wof:lastmodified":1466282082,
     "wof:name":"Basildon Taxi Cabs",
     "wof:parent_id":85793137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "private"
     ]
 },
-  "bbox": [0.493705,51.58881,0.493705,51.58881],
+  "bbox": [
+    0.493705,
+    51.58881,
+    0.493705,
+    51.58881
+],
   "geometry": {"coordinates":[0.493705,51.58881],"type":"Point"}
 }

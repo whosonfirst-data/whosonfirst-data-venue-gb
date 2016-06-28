@@ -2,13 +2,14 @@
   "id": 135660449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.106969,57.155155,-2.106969,57.155155",
     "geom:latitude":57.155155,
     "geom:longitude":-2.106969,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"520 George Street",
     "sg:city":"Aberdeen",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135660449,
-    "wof:lastmodified":1449023694,
+    "wof:lastmodified":1466285111,
     "wof:name":"Select Videos",
     "wof:parent_id":85789565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.106969,57.155155,-2.106969,57.155155],
+  "bbox": [
+    -2.106969,
+    57.155155,
+    -2.106969,
+    57.155155
+],
   "geometry": {"coordinates":[-2.106969,57.155155],"type":"Point"}
 }

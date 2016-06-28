@@ -2,13 +2,14 @@
   "id": 303607033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.048863,52.325459,-2.048863,52.325459",
     "geom:latitude":52.325459,
     "geom:longitude":-2.048863,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rigby Lane",
     "sg:city":"Bromsgrove",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303607033,
-    "wof:lastmodified":1448998442,
+    "wof:lastmodified":1466280018,
     "wof:name":"David Wadhams School of Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.048863,52.325459,-2.048863,52.325459],
+  "bbox": [
+    -2.048863,
+    52.325459,
+    -2.048863,
+    52.325459
+],
   "geometry": {"coordinates":[-2.048863,52.325459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336919259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.245615,55.858147,-4.245615,55.858147",
     "geom:latitude":55.858147,
     "geom:longitude":-4.245615,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5th Floor, 20 Bell Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":336919259,
-    "wof:lastmodified":1448997761,
+    "wof:lastmodified":1466280572,
     "wof:name":"Sun Life Assurance Co. of Canada",
     "wof:parent_id":85861551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-4.245615,55.858147,-4.245615,55.858147],
+  "bbox": [
+    -4.245615,
+    55.858147,
+    -4.245615,
+    55.858147
+],
   "geometry": {"coordinates":[-4.245615,55.858147],"type":"Point"}
 }

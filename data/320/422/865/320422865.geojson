@@ -2,13 +2,14 @@
   "id": 320422865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.110972,51.085556,-2.110972,51.085556",
     "geom:latitude":51.085556,
     "geom:longitude":-2.110972,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Stop Street, Fonthill Gifford, Tisbury",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320422865,
-    "wof:lastmodified":1449011507,
+    "wof:lastmodified":1466279744,
     "wof:name":"P & M Haines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "car"
     ]
 },
-  "bbox": [-2.110972,51.085556,-2.110972,51.085556],
+  "bbox": [
+    -2.110972,
+    51.085556,
+    -2.110972,
+    51.085556
+],
   "geometry": {"coordinates":[-2.110972,51.085556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235984499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.06149,51.49229,-0.06149,51.49229",
     "geom:latitude":51.49229,
     "geom:longitude":-0.06149,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Southwark Park Rd",
     "sg:city":"Sth Bermondsey",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235984499,
-    "wof:lastmodified":1449008437,
+    "wof:lastmodified":1466256167,
     "wof:name":"Southwark Interiors",
     "wof:parent_id":85859965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "covering"
     ]
 },
-  "bbox": [-0.06149,51.49229,-0.06149,51.49229],
+  "bbox": [
+    -0.06149,
+    51.49229,
+    -0.06149,
+    51.49229
+],
   "geometry": {"coordinates":[-0.06149,51.49229],"type":"Point"}
 }

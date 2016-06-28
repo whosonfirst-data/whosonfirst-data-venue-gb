@@ -2,13 +2,14 @@
   "id": 202503607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.998609,52.473522,-1.998609,52.473522",
     "geom:latitude":52.473522,
     "geom:longitude":-1.998609,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bleakhouse Road",
     "sg:city":"Oldbury",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202503607,
-    "wof:lastmodified":1449062653,
+    "wof:lastmodified":1466254178,
     "wof:name":"St.Huberts Church",
     "wof:parent_id":85791347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.998609,52.473522,-1.998609,52.473522],
+  "bbox": [
+    -1.998609,
+    52.473522,
+    -1.998609,
+    52.473522
+],
   "geometry": {"coordinates":[-1.998609,52.473522],"type":"Point"}
 }

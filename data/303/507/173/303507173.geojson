@@ -2,13 +2,14 @@
   "id": 303507173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.194223,55.949127,-3.194223,55.949127",
     "geom:latitude":55.949127,
     "geom:longitude":-3.194223,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Lawnmarket",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303507173,
-    "wof:lastmodified":1448999375,
+    "wof:lastmodified":1466278184,
     "wof:name":"Castle Antiques",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.194223,55.949127,-3.194223,55.949127],
+  "bbox": [
+    -3.194223,
+    55.949127,
+    -3.194223,
+    55.949127
+],
   "geometry": {"coordinates":[-3.194223,55.949127],"type":"Point"}
 }

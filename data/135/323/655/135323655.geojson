@@ -2,13 +2,14 @@
   "id": 135323655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.201699,52.773483,-1.201699,52.773483",
     "geom:latitude":52.773483,
     "geom:longitude":-1.201699,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Brookes House, Cradock Street",
     "sg:city":"Loughborough",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":135323655,
-    "wof:lastmodified":1449021264,
+    "wof:lastmodified":1466254062,
     "wof:name":"Brookes Data Products Ltd",
     "wof:parent_id":101750487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.201699,52.773483,-1.201699,52.773483],
+  "bbox": [
+    -1.201699,
+    52.773483,
+    -1.201699,
+    52.773483
+],
   "geometry": {"coordinates":[-1.201699,52.773483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203079635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.796454,56.340588,-2.796454,56.340588",
     "geom:latitude":56.340588,
     "geom:longitude":-2.796454,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Market Street",
     "sg:city":"St Andrews",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203079635,
-    "wof:lastmodified":1449026530,
+    "wof:lastmodified":1466253976,
     "wof:name":"Tower Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "baker"
     ]
 },
-  "bbox": [-2.796454,56.340588,-2.796454,56.340588],
+  "bbox": [
+    -2.796454,
+    56.340588,
+    -2.796454,
+    56.340588
+],
   "geometry": {"coordinates":[-2.796454,56.340588],"type":"Point"}
 }

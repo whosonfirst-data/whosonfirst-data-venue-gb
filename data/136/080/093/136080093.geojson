@@ -2,13 +2,14 @@
   "id": 136080093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.792039,56.017288,-3.792039,56.017288",
     "geom:latitude":56.017288,
     "geom:longitude":-3.792039,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Smith Street, Bainsford",
     "sg:city":"Falkirk",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136080093,
-    "wof:lastmodified":1449076239,
+    "wof:lastmodified":1466254431,
     "wof:name":"Falkirk Building Co",
     "wof:parent_id":101872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.792039,56.017288,-3.792039,56.017288],
+  "bbox": [
+    -3.792039,
+    56.017288,
+    -3.792039,
+    56.017288
+],
   "geometry": {"coordinates":[-3.792039,56.017288],"type":"Point"}
 }

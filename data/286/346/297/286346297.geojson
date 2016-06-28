@@ -2,13 +2,14 @@
   "id": 286346297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.287076,55.830769,-4.287076,55.830769",
     "geom:latitude":55.830769,
     "geom:longitude":-4.287076,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Ravenswood Drive",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":286346297,
-    "wof:lastmodified":1449015150,
+    "wof:lastmodified":1466264787,
     "wof:name":"Light Networking",
     "wof:parent_id":85792503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "network"
     ]
 },
-  "bbox": [-4.287076,55.830769,-4.287076,55.830769],
+  "bbox": [
+    -4.287076,
+    55.830769,
+    -4.287076,
+    55.830769
+],
   "geometry": {"coordinates":[-4.287076,55.830769],"type":"Point"}
 }

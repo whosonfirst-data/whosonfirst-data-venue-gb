@@ -2,13 +2,14 @@
   "id": 287214771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.432426,51.458046,-2.432426,51.458046",
     "geom:latitude":51.458046,
     "geom:longitude":-2.432426,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Milford Avenue, Wick",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287214771,
-    "wof:lastmodified":1449001561,
+    "wof:lastmodified":1466269630,
     "wof:name":"The Mannequin Maid",
     "wof:parent_id":85785999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dressing"
     ]
 },
-  "bbox": [-2.432426,51.458046,-2.432426,51.458046],
+  "bbox": [
+    -2.432426,
+    51.458046,
+    -2.432426,
+    51.458046
+],
   "geometry": {"coordinates":[-2.432426,51.458046],"type":"Point"}
 }

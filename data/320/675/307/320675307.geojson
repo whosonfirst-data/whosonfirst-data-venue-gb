@@ -2,13 +2,14 @@
   "id": 320675307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.456809,53.808117,-1.456809,53.808117",
     "geom:latitude":53.808117,
     "geom:longitude":-1.456809,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Cross Gates Rd",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320675307,
-    "wof:lastmodified":1449013152,
+    "wof:lastmodified":1466283713,
     "wof:name":"Capital Kitchens & Bathrooms",
     "wof:parent_id":85786887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "planner"
     ]
 },
-  "bbox": [-1.456809,53.808117,-1.456809,53.808117],
+  "bbox": [
+    -1.456809,
+    53.808117,
+    -1.456809,
+    53.808117
+],
   "geometry": {"coordinates":[-1.456809,53.808117],"type":"Point"}
 }

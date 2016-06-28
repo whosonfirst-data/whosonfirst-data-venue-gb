@@ -2,13 +2,14 @@
   "id": 320749025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.488708,53.550179,-2.488708,53.550179",
     "geom:latitude":53.550179,
     "geom:longitude":-2.488708,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"757 Manchester Rd",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320749025,
-    "wof:lastmodified":1449012322,
+    "wof:lastmodified":1466284400,
     "wof:name":"Aqua Plan",
     "wof:parent_id":85792945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "water"
     ]
 },
-  "bbox": [-2.488708,53.550179,-2.488708,53.550179],
+  "bbox": [
+    -2.488708,
+    53.550179,
+    -2.488708,
+    53.550179
+],
   "geometry": {"coordinates":[-2.488708,53.550179],"type":"Point"}
 }

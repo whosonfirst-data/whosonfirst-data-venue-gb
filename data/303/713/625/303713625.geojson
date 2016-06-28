@@ -2,13 +2,14 @@
   "id": 303713625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.20661,55.937572,-3.20661,55.937572",
     "geom:latitude":55.937572,
     "geom:longitude":-3.20661,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Bruntsfield Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303713625,
-    "wof:lastmodified":1449000337,
+    "wof:lastmodified":1466281970,
     "wof:name":"Pizza Connection",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"
     ]
 },
-  "bbox": [-3.20661,55.937572,-3.20661,55.937572],
+  "bbox": [
+    -3.20661,
+    55.937572,
+    -3.20661,
+    55.937572
+],
   "geometry": {"coordinates":[-3.20661,55.937572],"type":"Point"}
 }

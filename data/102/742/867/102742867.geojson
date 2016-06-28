@@ -2,13 +2,14 @@
   "id": 102742867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.775167,57.504833,-1.775167,57.504833",
     "geom:latitude":57.504833,
     "geom:longitude":-1.775167,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Broad Street",
     "sg:city":"Peterhead",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102742867,
-    "wof:lastmodified":1449067946,
+    "wof:lastmodified":1466258271,
     "wof:name":"Thomas S Buchan",
     "wof:parent_id":85684253,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.775167,57.504833,-1.775167,57.504833],
+  "bbox": [
+    -1.775167,
+    57.504833,
+    -1.775167,
+    57.504833
+],
   "geometry": {"coordinates":[-1.775167,57.504833],"type":"Point"}
 }

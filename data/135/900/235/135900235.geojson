@@ -2,13 +2,14 @@
   "id": 135900235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.31606,50.910339,-1.31606,50.910339",
     "geom:latitude":50.910339,
     "geom:longitude":-1.31606,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Mariner Ho, The Heights, Strawberry Fields",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135900235,
-    "wof:lastmodified":1449022308,
+    "wof:lastmodified":1466288097,
     "wof:name":"B. White Builders",
     "wof:parent_id":85792803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.31606,50.910339,-1.31606,50.910339],
+  "bbox": [
+    -1.31606,
+    50.910339,
+    -1.31606,
+    50.910339
+],
   "geometry": {"coordinates":[-1.31606,50.910339],"type":"Point"}
 }

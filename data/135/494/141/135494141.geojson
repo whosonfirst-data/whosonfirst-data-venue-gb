@@ -2,13 +2,14 @@
   "id": 135494141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.709999,55.414951,-1.709999,55.414951",
     "geom:latitude":55.414951,
     "geom:longitude":-1.709999,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Pottergate",
     "sg:city":"Alnwick",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":135494141,
-    "wof:lastmodified":1449023676,
+    "wof:lastmodified":1466273773,
     "wof:name":"Z Cars",
     "wof:parent_id":85683821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.709999,55.414951,-1.709999,55.414951],
+  "bbox": [
+    -1.709999,
+    55.414951,
+    -1.709999,
+    55.414951
+],
   "geometry": {"coordinates":[-1.709999,55.414951],"type":"Point"}
 }

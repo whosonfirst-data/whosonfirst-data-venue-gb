@@ -2,13 +2,14 @@
   "id": 270305229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.08934,51.488239,0.08934,51.488239",
     "geom:latitude":51.488239,
     "geom:longitude":0.08934,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Plumstead High Street",
     "sg:city":"London",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270305229,
-    "wof:lastmodified":1449009008,
+    "wof:lastmodified":1466269550,
     "wof:name":"Express Cafe",
     "wof:parent_id":85789857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "room"
     ]
 },
-  "bbox": [0.08934,51.488239,0.08934,51.488239],
+  "bbox": [
+    0.08934,
+    51.488239,
+    0.08934,
+    51.488239
+],
   "geometry": {"coordinates":[0.08934,51.488239],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270335879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.956632,51.61956,-3.956632,51.61956",
     "geom:latitude":51.61956,
     "geom:longitude":-3.956632,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Walter Road",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270335879,
-    "wof:lastmodified":1449010278,
+    "wof:lastmodified":1466270528,
     "wof:name":"T H Martin Ltd",
     "wof:parent_id":85789043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-3.956632,51.61956,-3.956632,51.61956],
+  "bbox": [
+    -3.956632,
+    51.61956,
+    -3.956632,
+    51.61956
+],
   "geometry": {"coordinates":[-3.956632,51.61956],"type":"Point"}
 }

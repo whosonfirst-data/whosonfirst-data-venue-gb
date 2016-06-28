@@ -2,13 +2,14 @@
   "id": 236066899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.252732,55.971718,-3.252732,55.971718",
     "geom:latitude":55.971718,
     "geom:longitude":-3.252732,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45a Pennywell Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236066899,
-    "wof:lastmodified":1449002440,
+    "wof:lastmodified":1466257793,
     "wof:name":"Greggs of Edinburgh",
     "wof:parent_id":85861459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-3.252732,55.971718,-3.252732,55.971718],
+  "bbox": [
+    -3.252732,
+    55.971718,
+    -3.252732,
+    55.971718
+],
   "geometry": {"coordinates":[-3.252732,55.971718],"type":"Point"}
 }

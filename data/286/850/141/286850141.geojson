@@ -2,13 +2,14 @@
   "id": 286850141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.11311,52.622421,-1.11311,52.622421",
     "geom:latitude":52.622421,
     "geom:longitude":-1.11311,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"238 London Rd",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":286850141,
-    "wof:lastmodified":1449016891,
+    "wof:lastmodified":1466279632,
     "wof:name":"R F Mosedale",
     "wof:parent_id":85861117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.11311,52.622421,-1.11311,52.622421],
+  "bbox": [
+    -1.11311,
+    52.622421,
+    -1.11311,
+    52.622421
+],
   "geometry": {"coordinates":[-1.11311,52.622421],"type":"Point"}
 }

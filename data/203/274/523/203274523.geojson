@@ -2,13 +2,14 @@
   "id": 203274523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.61711,51.441582,-2.61711,51.441582",
     "geom:latitude":51.441582,
     "geom:longitude":-2.61711,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit B, The Old Brewery, Durnford Street",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203274523,
-    "wof:lastmodified":1449025180,
+    "wof:lastmodified":1466257363,
     "wof:name":"Clayton Cars",
     "wof:parent_id":85785375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.61711,51.441582,-2.61711,51.441582],
+  "bbox": [
+    -2.61711,
+    51.441582,
+    -2.61711,
+    51.441582
+],
   "geometry": {"coordinates":[-2.61711,51.441582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270104667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.582112,54.77787,-1.582112,54.77787",
     "geom:latitude":54.77787,
     "geom:longitude":-1.582112,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 North Road",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":270104667,
-    "wof:lastmodified":1449009654,
+    "wof:lastmodified":1466263636,
     "wof:name":"John Gauden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "menswear"
     ]
 },
-  "bbox": [-1.582112,54.77787,-1.582112,54.77787],
+  "bbox": [
+    -1.582112,
+    54.77787,
+    -1.582112,
+    54.77787
+],
   "geometry": {"coordinates":[-1.582112,54.77787],"type":"Point"}
 }

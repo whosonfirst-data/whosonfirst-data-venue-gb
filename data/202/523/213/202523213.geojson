@@ -2,13 +2,14 @@
   "id": 202523213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.213469,55.77293,-4.213469,55.77293",
     "geom:latitude":55.77293,
     "geom:longitude":-4.213469,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Hawbank Road, East Kilbride",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202523213,
-    "wof:lastmodified":1449061562,
+    "wof:lastmodified":1466254497,
     "wof:name":"D M Autos",
     "wof:parent_id":85786279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [-4.213469,55.77293,-4.213469,55.77293],
+  "bbox": [
+    -4.213469,
+    55.77293,
+    -4.213469,
+    55.77293
+],
   "geometry": {"coordinates":[-4.213469,55.77293],"type":"Point"}
 }

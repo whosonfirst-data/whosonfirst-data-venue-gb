@@ -2,13 +2,14 @@
   "id": 119315607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.155393,50.653999,-1.155393,50.653999",
     "geom:latitude":50.653999,
     "geom:longitude":-1.155393,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 High Street",
     "sg:city":"Sandown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119315607,
-    "wof:lastmodified":1449043419,
+    "wof:lastmodified":1466281006,
     "wof:name":"Puddle Duck",
     "wof:parent_id":85684291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.155393,50.653999,-1.155393,50.653999],
+  "bbox": [
+    -1.155393,
+    50.653999,
+    -1.155393,
+    50.653999
+],
   "geometry": {"coordinates":[-1.155393,50.653999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320248505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.786209,55.945309,-4.786209,55.945309",
     "geom:latitude":55.945309,
     "geom:longitude":-4.786209,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Bow Road",
     "sg:city":"Greenock",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":320248505,
-    "wof:lastmodified":1449013317,
+    "wof:lastmodified":1466275485,
     "wof:name":"THE BOW RD GENERAL STORE",
     "wof:parent_id":85791237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-4.786209,55.945309,-4.786209,55.945309],
+  "bbox": [
+    -4.786209,
+    55.945309,
+    -4.786209,
+    55.945309
+],
   "geometry": {"coordinates":[-4.786209,55.945309],"type":"Point"}
 }

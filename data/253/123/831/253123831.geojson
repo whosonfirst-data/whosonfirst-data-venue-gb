@@ -2,13 +2,14 @@
   "id": 253123831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.485489,51.393402,0.485489,51.393402",
     "geom:latitude":51.393402,
     "geom:longitude":0.485489,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2a Darnley Road Strood",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":253123831,
-    "wof:lastmodified":1449063699,
+    "wof:lastmodified":1466259752,
     "wof:name":"Court View Surgery",
     "wof:parent_id":85786063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "practitioners"
     ]
 },
-  "bbox": [0.485489,51.393402,0.485489,51.393402],
+  "bbox": [
+    0.485489,
+    51.393402,
+    0.485489,
+    51.393402
+],
   "geometry": {"coordinates":[0.485489,51.393402],"type":"Point"}
 }

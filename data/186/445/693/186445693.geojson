@@ -2,13 +2,14 @@
   "id": 186445693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.52185,52.28561,-1.52185,52.28561",
     "geom:latitude":52.28561,
     "geom:longitude":-1.52185,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Marys Lodge, 12 St Marys Rd",
     "sg:city":"Leamington Spa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186445693,
-    "wof:lastmodified":1449050665,
+    "wof:lastmodified":1466258373,
     "wof:name":"Mental Health Resource Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "counselling"
     ]
 },
-  "bbox": [-1.52185,52.28561,-1.52185,52.28561],
+  "bbox": [
+    -1.52185,
+    52.28561,
+    -1.52185,
+    52.28561
+],
   "geometry": {"coordinates":[-1.52185,52.28561],"type":"Point"}
 }

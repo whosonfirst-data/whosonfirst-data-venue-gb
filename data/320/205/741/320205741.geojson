@@ -2,13 +2,14 @@
   "id": 320205741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.02435,53.475582,-3.02435,53.475582",
     "geom:latitude":53.475582,
     "geom:longitude":-3.02435,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"108 South Road, Waterloo",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":320205741,
-    "wof:lastmodified":1449013506,
+    "wof:lastmodified":1466274212,
     "wof:name":"Waterloo Eye Centre",
     "wof:parent_id":85791371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmic"
     ]
 },
-  "bbox": [-3.02435,53.475582,-3.02435,53.475582],
+  "bbox": [
+    -3.02435,
+    53.475582,
+    -3.02435,
+    53.475582
+],
   "geometry": {"coordinates":[-3.02435,53.475582],"type":"Point"}
 }

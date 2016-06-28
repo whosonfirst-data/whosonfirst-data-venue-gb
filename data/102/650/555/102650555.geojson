@@ -2,13 +2,14 @@
   "id": 102650555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.536407,51.617989,-3.536407,51.617989",
     "geom:latitude":51.617989,
     "geom:longitude":-3.536407,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Oggy Street",
     "sg:city":"Bridgend",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102650555,
-    "wof:lastmodified":1449069223,
+    "wof:lastmodified":1466254405,
     "wof:name":"Alan T Brown Ltd.",
     "wof:parent_id":85684263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.536407,51.617989,-3.536407,51.617989],
+  "bbox": [
+    -3.536407,
+    51.617989,
+    -3.536407,
+    51.617989
+],
   "geometry": {"coordinates":[-3.536407,51.617989],"type":"Point"}
 }

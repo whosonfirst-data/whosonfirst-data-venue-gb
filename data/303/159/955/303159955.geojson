@@ -2,13 +2,14 @@
   "id": 303159955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.213649,55.939079,-3.213649,55.939079",
     "geom:latitude":55.939079,
     "geom:longitude":-3.213649,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Gilmore Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303159955,
-    "wof:lastmodified":1448998414,
+    "wof:lastmodified":1466267486,
     "wof:name":"Alex White & Son",
     "wof:parent_id":85789063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "heating"
     ]
 },
-  "bbox": [-3.213649,55.939079,-3.213649,55.939079],
+  "bbox": [
+    -3.213649,
+    55.939079,
+    -3.213649,
+    55.939079
+],
   "geometry": {"coordinates":[-3.213649,55.939079],"type":"Point"}
 }

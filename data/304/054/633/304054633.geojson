@@ -2,13 +2,14 @@
   "id": 304054633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.13248,55.85751,-4.13248,55.85751",
     "geom:latitude":55.85751,
     "geom:longitude":-4.13248,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Pendeen Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":304054633,
-    "wof:lastmodified":1449043821,
+    "wof:lastmodified":1466265907,
     "wof:name":"Bell,Lorraine,",
     "wof:parent_id":85792567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.13248,55.85751,-4.13248,55.85751],
+  "bbox": [
+    -4.13248,
+    55.85751,
+    -4.13248,
+    55.85751
+],
   "geometry": {"coordinates":[-4.13248,55.85751],"type":"Point"}
 }

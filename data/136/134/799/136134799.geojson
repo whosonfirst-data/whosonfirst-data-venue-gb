@@ -2,13 +2,14 @@
   "id": 136134799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.424507,53.414154,-1.424507,53.414154",
     "geom:latitude":53.414154,
     "geom:longitude":-1.424507,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Brightside Post Office, 3 Jenkin Drive",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136134799,
-    "wof:lastmodified":1449076197,
+    "wof:lastmodified":1466257477,
     "wof:name":"Brightside Post Office",
     "wof:parent_id":85791689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.424507,53.414154,-1.424507,53.414154],
+  "bbox": [
+    -1.424507,
+    53.414154,
+    -1.424507,
+    53.414154
+],
   "geometry": {"coordinates":[-1.424507,53.414154],"type":"Point"}
 }

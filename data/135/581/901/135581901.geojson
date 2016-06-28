@@ -2,13 +2,14 @@
   "id": 135581901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.31081,52.100159,-2.31081,52.100159",
     "geom:latitude":52.100159,
     "geom:longitude":-2.31081,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Britten Drive",
     "sg:city":"Malvern",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135581901,
-    "wof:lastmodified":1449021619,
+    "wof:lastmodified":1466281472,
     "wof:name":"M & S Central Heating",
     "wof:parent_id":101853021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.31081,52.100159,-2.31081,52.100159],
+  "bbox": [
+    -2.31081,
+    52.100159,
+    -2.31081,
+    52.100159
+],
   "geometry": {"coordinates":[-2.31081,52.100159],"type":"Point"}
 }

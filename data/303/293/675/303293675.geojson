@@ -2,13 +2,14 @@
   "id": 303293675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.944266,53.724564,-1.944266,53.724564",
     "geom:latitude":53.724564,
     "geom:longitude":-1.944266,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Kershaw Cres, Luddendenfoot",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":303293675,
-    "wof:lastmodified":1448998595,
+    "wof:lastmodified":1466271645,
     "wof:name":"Calderdale Metropolitan Borough Council",
     "wof:parent_id":85790489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-1.944266,53.724564,-1.944266,53.724564],
+  "bbox": [
+    -1.944266,
+    53.724564,
+    -1.944266,
+    53.724564
+],
   "geometry": {"coordinates":[-1.944266,53.724564],"type":"Point"}
 }

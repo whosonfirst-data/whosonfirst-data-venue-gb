@@ -2,13 +2,14 @@
   "id": 303577473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.24054,53.80899,-2.24054,53.80899",
     "geom:latitude":53.80899,
     "geom:longitude":-2.24054,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Warden, 6 Barden View",
     "sg:city":"Burnley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303577473,
-    "wof:lastmodified":1449000640,
+    "wof:lastmodified":1466279458,
     "wof:name":"Barden View Sheltered Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sheltered"
     ]
 },
-  "bbox": [-2.24054,53.80899,-2.24054,53.80899],
+  "bbox": [
+    -2.24054,
+    53.80899,
+    -2.24054,
+    53.80899
+],
   "geometry": {"coordinates":[-2.24054,53.80899],"type":"Point"}
 }

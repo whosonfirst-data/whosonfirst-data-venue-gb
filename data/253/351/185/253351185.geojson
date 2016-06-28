@@ -2,13 +2,14 @@
   "id": 253351185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.208748,55.910629,-3.208748,55.910629",
     "geom:latitude":55.910629,
     "geom:longitude":-3.208748,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Braid Hills Golf Course, 22 Braid Hills Approach",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253351185,
-    "wof:lastmodified":1449065330,
+    "wof:lastmodified":1466264301,
     "wof:name":"Edinburgh Leisure",
     "wof:parent_id":85785919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-3.208748,55.910629,-3.208748,55.910629],
+  "bbox": [
+    -3.208748,
+    55.910629,
+    -3.208748,
+    55.910629
+],
   "geometry": {"coordinates":[-3.208748,55.910629],"type":"Point"}
 }

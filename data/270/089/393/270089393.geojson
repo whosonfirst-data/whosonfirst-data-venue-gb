@@ -2,13 +2,14 @@
   "id": 270089393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.08227,55.832409,-4.08227,55.832409",
     "geom:latitude":55.832409,
     "geom:longitude":-4.08227,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Scotmid Development 325, Unit 7 Old Edinburgh Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270089393,
-    "wof:lastmodified":1449009124,
+    "wof:lastmodified":1466263137,
     "wof:name":"Wok Cuisine",
     "wof:parent_id":85792557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "take"
     ]
 },
-  "bbox": [-4.08227,55.832409,-4.08227,55.832409],
+  "bbox": [
+    -4.08227,
+    55.832409,
+    -4.08227,
+    55.832409
+],
   "geometry": {"coordinates":[-4.08227,55.832409],"type":"Point"}
 }

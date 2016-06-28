@@ -2,13 +2,14 @@
   "id": 303713015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.20423,55.940365,-3.20423,55.940365",
     "geom:latitude":55.940365,
     "geom:longitude":-3.20423,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4-5 Bruntsfield Place",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303713015,
-    "wof:lastmodified":1449000336,
+    "wof:lastmodified":1466281947,
     "wof:name":"New Lee On",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "chinese"
     ]
 },
-  "bbox": [-3.20423,55.940365,-3.20423,55.940365],
+  "bbox": [
+    -3.20423,
+    55.940365,
+    -3.20423,
+    55.940365
+],
   "geometry": {"coordinates":[-3.20423,55.940365],"type":"Point"}
 }

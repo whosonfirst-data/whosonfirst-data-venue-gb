@@ -2,13 +2,14 @@
   "id": 303985199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.091638,53.297619,-2.091638,53.297619",
     "geom:latitude":53.297619,
     "geom:longitude":-2.091638,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Harrop Road, Bollington",
     "sg:city":"Macclesfield",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":303985199,
-    "wof:lastmodified":1448999332,
+    "wof:lastmodified":1466285402,
     "wof:name":"Prompt Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-2.091638,53.297619,-2.091638,53.297619],
+  "bbox": [
+    -2.091638,
+    53.297619,
+    -2.091638,
+    53.297619
+],
   "geometry": {"coordinates":[-2.091638,53.297619],"type":"Point"}
 }

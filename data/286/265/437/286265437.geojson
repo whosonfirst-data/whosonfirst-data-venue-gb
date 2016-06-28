@@ -2,13 +2,14 @@
   "id": 286265437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.284977,52.921925,-1.284977,52.921925",
     "geom:latitude":52.921925,
     "geom:longitude":-1.284977,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Bradley Street, Sandiacre",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":286265437,
-    "wof:lastmodified":1449016188,
+    "wof:lastmodified":1466262443,
     "wof:name":"G F Haynes & Co. Ltd.",
     "wof:parent_id":85791095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "glue"
     ]
 },
-  "bbox": [-1.284977,52.921925,-1.284977,52.921925],
+  "bbox": [
+    -1.284977,
+    52.921925,
+    -1.284977,
+    52.921925
+],
   "geometry": {"coordinates":[-1.284977,52.921925],"type":"Point"}
 }

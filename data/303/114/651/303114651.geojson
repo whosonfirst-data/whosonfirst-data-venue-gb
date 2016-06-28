@@ -2,13 +2,14 @@
   "id": 303114651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.443841,54.976948,-1.443841,54.976948",
     "geom:latitude":54.976948,
     "geom:longitude":-1.443841,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Hudson Street",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303114651,
-    "wof:lastmodified":1448999137,
+    "wof:lastmodified":1466266119,
     "wof:name":"Bay's Newsagents",
     "wof:parent_id":85873783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.443841,54.976948,-1.443841,54.976948],
+  "bbox": [
+    -1.443841,
+    54.976948,
+    -1.443841,
+    54.976948
+],
   "geometry": {"coordinates":[-1.443841,54.976948],"type":"Point"}
 }

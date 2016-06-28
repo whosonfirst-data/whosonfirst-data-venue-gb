@@ -2,13 +2,14 @@
   "id": 118945225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.25577,55.864609,-4.25577,55.864609",
     "geom:latitude":55.864609,
     "geom:longitude":-4.25577,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Sauchiehall Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":118945225,
-    "wof:lastmodified":1449053265,
+    "wof:lastmodified":1466281400,
     "wof:name":"Lauders Bar",
     "wof:parent_id":85792621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.25577,55.864609,-4.25577,55.864609],
+  "bbox": [
+    -4.25577,
+    55.864609,
+    -4.25577,
+    55.864609
+],
   "geometry": {"coordinates":[-4.25577,55.864609],"type":"Point"}
 }

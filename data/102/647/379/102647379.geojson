@@ -2,13 +2,14 @@
   "id": 102647379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.246589,56.349957,-3.246589,56.349957",
     "geom:latitude":56.349957,
     "geom:longitude":-3.246589,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Viking House, Abernethy Road, Newburgh",
     "sg:city":"Cupar",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102647379,
-    "wof:lastmodified":1449068914,
+    "wof:lastmodified":1466254221,
     "wof:name":"Viking Services",
     "wof:parent_id":85684569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.246589,56.349957,-3.246589,56.349957],
+  "bbox": [
+    -3.246589,
+    56.349957,
+    -3.246589,
+    56.349957
+],
   "geometry": {"coordinates":[-3.246589,56.349957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236845211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.200109,55.958351,-3.200109,55.958351",
     "geom:latitude":55.958351,
     "geom:longitude":-3.200109,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Dundas Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236845211,
-    "wof:lastmodified":1449002079,
+    "wof:lastmodified":1466272523,
     "wof:name":"Edinburgh Central Citizens Advice Bureau",
     "wof:parent_id":85861491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "counselling"
     ]
 },
-  "bbox": [-3.200109,55.958351,-3.200109,55.958351],
+  "bbox": [
+    -3.200109,
+    55.958351,
+    -3.200109,
+    55.958351
+],
   "geometry": {"coordinates":[-3.200109,55.958351],"type":"Point"}
 }

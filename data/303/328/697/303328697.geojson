@@ -2,13 +2,14 @@
   "id": 303328697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.353179,50.108459,-5.353179,50.108459",
     "geom:latitude":50.108459,
     "geom:longitude":-5.353179,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Fore Street, Porthleven",
     "sg:city":"Helston",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303328697,
-    "wof:lastmodified":1448999563,
+    "wof:lastmodified":1466272715,
     "wof:name":"The Copper Kettle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.353179,50.108459,-5.353179,50.108459],
+  "bbox": [
+    -5.353179,
+    50.108459,
+    -5.353179,
+    50.108459
+],
   "geometry": {"coordinates":[-5.353179,50.108459],"type":"Point"}
 }

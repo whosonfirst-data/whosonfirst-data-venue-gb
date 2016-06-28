@@ -2,13 +2,14 @@
   "id": 203168117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.405228,52.919643,-1.405228,52.919643",
     "geom:latitude":52.919643,
     "geom:longitude":-1.405228,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Sitwell Street, Spondon",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203168117,
-    "wof:lastmodified":1449025928,
+    "wof:lastmodified":1466255441,
     "wof:name":"John Beck Motor Engineer",
     "wof:parent_id":85785293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.405228,52.919643,-1.405228,52.919643],
+  "bbox": [
+    -1.405228,
+    52.919643,
+    -1.405228,
+    52.919643
+],
   "geometry": {"coordinates":[-1.405228,52.919643],"type":"Point"}
 }

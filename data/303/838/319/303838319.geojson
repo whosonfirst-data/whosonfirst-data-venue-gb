@@ -2,13 +2,14 @@
   "id": 303838319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.638228,53.404919,-2.638228,53.404919",
     "geom:latitude":53.404919,
     "geom:longitude":-2.638228,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Firman Close",
     "sg:city":"Warrington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":303838319,
-    "wof:lastmodified":1448998415,
+    "wof:lastmodified":1466283518,
     "wof:name":"la Royal Wedding Cars",
     "wof:parent_id":85791713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wedding"
     ]
 },
-  "bbox": [-2.638228,53.404919,-2.638228,53.404919],
+  "bbox": [
+    -2.638228,
+    53.404919,
+    -2.638228,
+    53.404919
+],
   "geometry": {"coordinates":[-2.638228,53.404919],"type":"Point"}
 }

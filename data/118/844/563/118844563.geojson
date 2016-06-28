@@ -2,13 +2,14 @@
   "id": 118844563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.004449,56.67326,-3.004449,56.67326",
     "geom:latitude":56.67326,
     "geom:longitude":-3.004449,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 High Street",
     "sg:city":"Kirriemuir",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118844563,
-    "wof:lastmodified":1449053731,
+    "wof:lastmodified":1466276030,
     "wof:name":"The Bookshop",
     "wof:parent_id":101873581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.004449,56.67326,-3.004449,56.67326],
+  "bbox": [
+    -3.004449,
+    56.67326,
+    -3.004449,
+    56.67326
+],
   "geometry": {"coordinates":[-3.004449,56.67326],"type":"Point"}
 }

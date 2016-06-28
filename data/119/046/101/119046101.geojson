@@ -2,13 +2,14 @@
   "id": 119046101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.149999,53.612259,-2.149999,53.612259",
     "geom:latitude":53.612259,
     "geom:longitude":-2.149999,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Moss Lane",
     "sg:city":"Rochdale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119046101,
-    "wof:lastmodified":1449042326,
+    "wof:lastmodified":1466252808,
     "wof:name":"Bennett Properties",
     "wof:parent_id":85793077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.149999,53.612259,-2.149999,53.612259],
+  "bbox": [
+    -2.149999,
+    53.612259,
+    -2.149999,
+    53.612259
+],
   "geometry": {"coordinates":[-2.149999,53.612259],"type":"Point"}
 }

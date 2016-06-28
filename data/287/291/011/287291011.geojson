@@ -2,13 +2,14 @@
   "id": 287291011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.77043,52.524231,-1.77043,52.524231",
     "geom:latitude":52.524231,
     "geom:longitude":-1.77043,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Park Lane, Minworth",
     "sg:city":"Sutton Coldfield",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":287291011,
-    "wof:lastmodified":1449000924,
+    "wof:lastmodified":1466272003,
     "wof:name":"Severn Trent Services Ltd.",
     "wof:parent_id":85786311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "treatment"
     ]
 },
-  "bbox": [-1.77043,52.524231,-1.77043,52.524231],
+  "bbox": [
+    -1.77043,
+    52.524231,
+    -1.77043,
+    52.524231
+],
   "geometry": {"coordinates":[-1.77043,52.524231],"type":"Point"}
 }

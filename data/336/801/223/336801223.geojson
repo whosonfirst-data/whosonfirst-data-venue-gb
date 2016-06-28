@@ -2,13 +2,14 @@
   "id": 336801223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.274946,50.101612,-5.274946,50.101612",
     "geom:latitude":50.101612,
     "geom:longitude":-5.274946,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Church Street",
     "sg:city":"Helston",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":336801223,
-    "wof:lastmodified":1448997845,
+    "wof:lastmodified":1466278695,
     "wof:name":"Helston Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookmaker"
     ]
 },
-  "bbox": [-5.274946,50.101612,-5.274946,50.101612],
+  "bbox": [
+    -5.274946,
+    50.101612,
+    -5.274946,
+    50.101612
+],
   "geometry": {"coordinates":[-5.274946,50.101612],"type":"Point"}
 }

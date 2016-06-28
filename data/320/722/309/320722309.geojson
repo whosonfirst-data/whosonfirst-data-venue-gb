@@ -2,13 +2,14 @@
   "id": 320722309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.439747,54.962482,-1.439747,54.962482",
     "geom:latitude":54.962482,
     "geom:longitude":-1.439747,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Gaskell Avenue",
     "sg:city":"South Shields",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320722309,
-    "wof:lastmodified":1449012580,
+    "wof:lastmodified":1466284100,
     "wof:name":"Nannar Superstore",
     "wof:parent_id":85873783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wines"
     ]
 },
-  "bbox": [-1.439747,54.962482,-1.439747,54.962482],
+  "bbox": [
+    -1.439747,
+    54.962482,
+    -1.439747,
+    54.962482
+],
   "geometry": {"coordinates":[-1.439747,54.962482],"type":"Point"}
 }

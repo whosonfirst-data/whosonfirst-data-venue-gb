@@ -2,13 +2,14 @@
   "id": 135525613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.112001,51.699341,0.112001,51.699341",
     "geom:latitude":51.699341,
     "geom:longitude":0.112001,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"208 High Street",
     "sg:city":"Epping",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135525613,
-    "wof:lastmodified":1449023397,
+    "wof:lastmodified":1466277533,
     "wof:name":"Forest & Firkin",
     "wof:parent_id":85860845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.112001,51.699341,0.112001,51.699341],
+  "bbox": [
+    0.112001,
+    51.699341,
+    0.112001,
+    51.699341
+],
   "geometry": {"coordinates":[0.112001,51.699341],"type":"Point"}
 }

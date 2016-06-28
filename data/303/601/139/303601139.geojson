@@ -2,13 +2,14 @@
   "id": 303601139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.215576,56.200657,-3.215576,56.200657",
     "geom:latitude":56.200657,
     "geom:longitude":-3.215576,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Stables, Leslie Mains, Leslie",
     "sg:city":"Glenrothes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303601139,
-    "wof:lastmodified":1448999211,
+    "wof:lastmodified":1466279853,
     "wof:name":"Healing Hands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "therapy"
     ]
 },
-  "bbox": [-3.215576,56.200657,-3.215576,56.200657],
+  "bbox": [
+    -3.215576,
+    56.200657,
+    -3.215576,
+    56.200657
+],
   "geometry": {"coordinates":[-3.215576,56.200657],"type":"Point"}
 }

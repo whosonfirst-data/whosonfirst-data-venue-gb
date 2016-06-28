@@ -2,13 +2,14 @@
   "id": 303481889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.239184,51.750847,-1.239184,51.750847",
     "geom:latitude":51.750847,
     "geom:longitude":-1.239184,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"68 St Clements Street",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303481889,
-    "wof:lastmodified":1449000251,
+    "wof:lastmodified":1466277321,
     "wof:name":"Kebab Hut",
     "wof:parent_id":85793243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "take"
     ]
 },
-  "bbox": [-1.239184,51.750847,-1.239184,51.750847],
+  "bbox": [
+    -1.239184,
+    51.750847,
+    -1.239184,
+    51.750847
+],
   "geometry": {"coordinates":[-1.239184,51.750847],"type":"Point"}
 }

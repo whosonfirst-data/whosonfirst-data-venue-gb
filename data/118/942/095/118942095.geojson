@@ -2,13 +2,14 @@
   "id": 118942095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.14443,51.610596,-1.14443,51.610596",
     "geom:latitude":51.610596,
     "geom:longitude":-1.14443,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Wantage Road",
     "sg:city":"Wallingford",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118942095,
-    "wof:lastmodified":1449053782,
+    "wof:lastmodified":1466281279,
     "wof:name":"Wallingford Computing Services Ltd",
     "wof:parent_id":85683867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.14443,51.610596,-1.14443,51.610596],
+  "bbox": [
+    -1.14443,
+    51.610596,
+    -1.14443,
+    51.610596
+],
   "geometry": {"coordinates":[-1.14443,51.610596],"type":"Point"}
 }

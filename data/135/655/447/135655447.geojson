@@ -2,13 +2,14 @@
   "id": 135655447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.347269,57.238838,-2.347269,57.238838",
     "geom:latitude":57.238838,
     "geom:longitude":-2.347269,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Northern Road, Kintore",
     "sg:city":"Inverurie",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135655447,
-    "wof:lastmodified":1449022747,
+    "wof:lastmodified":1466284880,
     "wof:name":"Kintore Post Office",
     "wof:parent_id":101872689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.347269,57.238838,-2.347269,57.238838],
+  "bbox": [
+    -2.347269,
+    57.238838,
+    -2.347269,
+    57.238838
+],
   "geometry": {"coordinates":[-2.347269,57.238838],"type":"Point"}
 }

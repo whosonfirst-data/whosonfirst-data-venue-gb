@@ -2,13 +2,14 @@
   "id": 336943145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.918252,52.472271,-1.918252,52.472271",
     "geom:latitude":52.472271,
     "geom:longitude":-1.918252,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Calthorpe Road, Edgebaston",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336943145,
-    "wof:lastmodified":1448997235,
+    "wof:lastmodified":1466280944,
     "wof:name":"The Residential Lettings Group Ltd.",
     "wof:parent_id":85788667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "agent"
     ]
 },
-  "bbox": [-1.918252,52.472271,-1.918252,52.472271],
+  "bbox": [
+    -1.918252,
+    52.472271,
+    -1.918252,
+    52.472271
+],
   "geometry": {"coordinates":[-1.918252,52.472271],"type":"Point"}
 }

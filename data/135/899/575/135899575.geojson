@@ -2,13 +2,14 @@
   "id": 135899575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.126648,52.928753,-1.126648,52.928753",
     "geom:latitude":52.928753,
     "geom:longitude":-1.126648,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Tudor Rd",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135899575,
-    "wof:lastmodified":1449023846,
+    "wof:lastmodified":1466288109,
     "wof:name":"Coolshaw,John,",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.126648,52.928753,-1.126648,52.928753],
+  "bbox": [
+    -1.126648,
+    52.928753,
+    -1.126648,
+    52.928753
+],
   "geometry": {"coordinates":[-1.126648,52.928753],"type":"Point"}
 }

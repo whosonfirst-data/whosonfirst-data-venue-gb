@@ -2,13 +2,14 @@
   "id": 253295707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.293352,52.625389,1.293352,52.625389",
     "geom:latitude":52.625389,
     "geom:longitude":1.293352,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Surrey Street",
     "sg:city":"Norwich",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253295707,
-    "wof:lastmodified":1449064028,
+    "wof:lastmodified":1466263194,
     "wof:name":"Norfolk News",
     "wof:parent_id":85793209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [1.293352,52.625389,1.293352,52.625389],
+  "bbox": [
+    1.293352,
+    52.625389,
+    1.293352,
+    52.625389
+],
   "geometry": {"coordinates":[1.293352,52.625389],"type":"Point"}
 }

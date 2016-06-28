@@ -2,13 +2,14 @@
   "id": 102753115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.257302,55.837849,-4.257302,55.837849",
     "geom:latitude":55.837849,
     "geom:longitude":-4.257302,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"466 Cathcart Road, Govanhill",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102753115,
-    "wof:lastmodified":1449068083,
+    "wof:lastmodified":1466259016,
     "wof:name":"Out to Lunch",
     "wof:parent_id":85792495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.257302,55.837849,-4.257302,55.837849],
+  "bbox": [
+    -4.257302,
+    55.837849,
+    -4.257302,
+    55.837849
+],
   "geometry": {"coordinates":[-4.257302,55.837849],"type":"Point"}
 }

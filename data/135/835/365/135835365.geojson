@@ -2,13 +2,14 @@
   "id": 135835365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.166215,52.464996,-2.166215,52.464996",
     "geom:latitude":52.464996,
     "geom:longitude":-2.166215,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Gilbanks Road, Wollaston",
     "sg:city":"Stourbridge",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135835365,
-    "wof:lastmodified":1449021413,
+    "wof:lastmodified":1466287815,
     "wof:name":"David W Harvey",
     "wof:parent_id":85785411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.166215,52.464996,-2.166215,52.464996],
+  "bbox": [
+    -2.166215,
+    52.464996,
+    -2.166215,
+    52.464996
+],
   "geometry": {"coordinates":[-2.166215,52.464996],"type":"Point"}
 }

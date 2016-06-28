@@ -2,13 +2,14 @@
   "id": 253205781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.31587,55.862686,-4.31587,55.862686",
     "geom:latitude":55.862686,
     "geom:longitude":-4.31587,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Langlands Road",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":253205781,
-    "wof:lastmodified":1449064589,
+    "wof:lastmodified":1466261399,
     "wof:name":"Stalks & Stems",
     "wof:parent_id":85787669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.31587,55.862686,-4.31587,55.862686],
+  "bbox": [
+    -4.31587,
+    55.862686,
+    -4.31587,
+    55.862686
+],
   "geometry": {"coordinates":[-4.31587,55.862686],"type":"Point"}
 }

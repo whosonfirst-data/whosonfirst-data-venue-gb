@@ -2,13 +2,14 @@
   "id": 303517193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.189164,55.931255,-3.189164,55.931255",
     "geom:latitude":55.931255,
     "geom:longitude":-3.189164,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Grange Loan",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303517193,
-    "wof:lastmodified":1448999518,
+    "wof:lastmodified":1466278366,
     "wof:name":"Grange Private",
     "wof:parent_id":85787675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "creche"
     ]
 },
-  "bbox": [-3.189164,55.931255,-3.189164,55.931255],
+  "bbox": [
+    -3.189164,
+    55.931255,
+    -3.189164,
+    55.931255
+],
   "geometry": {"coordinates":[-3.189164,55.931255],"type":"Point"}
 }

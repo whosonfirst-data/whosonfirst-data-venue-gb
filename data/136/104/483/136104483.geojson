@@ -2,13 +2,14 @@
   "id": 136104483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.358136,51.381393,-2.358136,51.381393",
     "geom:latitude":51.381393,
     "geom:longitude":-2.358136,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Orange Grove",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":136104483,
-    "wof:lastmodified":1449075465,
+    "wof:lastmodified":1466255849,
     "wof:name":"Touch of Glass",
     "wof:parent_id":85785531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.358136,51.381393,-2.358136,51.381393],
+  "bbox": [
+    -2.358136,
+    51.381393,
+    -2.358136,
+    51.381393
+],
   "geometry": {"coordinates":[-2.358136,51.381393],"type":"Point"}
 }

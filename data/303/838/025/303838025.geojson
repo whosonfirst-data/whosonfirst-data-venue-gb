@@ -2,13 +2,14 @@
   "id": 303838025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.209519,55.888699,-4.209519,55.888699",
     "geom:latitude":55.888699,
     "geom:longitude":-4.209519,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Wallacewell House, 70 Wallacewell",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303838025,
-    "wof:lastmodified":1448998416,
+    "wof:lastmodified":1466283516,
     "wof:name":"Glasgow City Council",
     "wof:parent_id":85793309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-4.209519,55.888699,-4.209519,55.888699],
+  "bbox": [
+    -4.209519,
+    55.888699,
+    -4.209519,
+    55.888699
+],
   "geometry": {"coordinates":[-4.209519,55.888699],"type":"Point"}
 }

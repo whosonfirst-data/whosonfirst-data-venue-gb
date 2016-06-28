@@ -2,13 +2,14 @@
   "id": 118863043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.24145,53.512421,-2.24145,53.512421",
     "geom:latitude":53.512421,
     "geom:longitude":-2.24145,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Crumpsall Clinic, Humphrey St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":118863043,
-    "wof:lastmodified":1449054111,
+    "wof:lastmodified":1466277321,
     "wof:name":"Smoking Cessation",
     "wof:parent_id":85786913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.24145,53.512421,-2.24145,53.512421],
+  "bbox": [
+    -2.24145,
+    53.512421,
+    -2.24145,
+    53.512421
+],
   "geometry": {"coordinates":[-2.24145,53.512421],"type":"Point"}
 }

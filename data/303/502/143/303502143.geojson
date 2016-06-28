@@ -2,13 +2,14 @@
   "id": 303502143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.220319,51.572453,-3.220319,51.572453",
     "geom:latitude":51.572453,
     "geom:longitude":-3.220319,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Clive St,",
     "sg:city":"Caerphilly",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303502143,
-    "wof:lastmodified":1448999240,
+    "wof:lastmodified":1466278021,
     "wof:name":"Charisma",
     "wof:parent_id":85864249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-3.220319,51.572453,-3.220319,51.572453],
+  "bbox": [
+    -3.220319,
+    51.572453,
+    -3.220319,
+    51.572453
+],
   "geometry": {"coordinates":[-3.220319,51.572453],"type":"Point"}
 }

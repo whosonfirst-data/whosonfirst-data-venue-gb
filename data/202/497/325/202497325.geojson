@@ -2,13 +2,14 @@
   "id": 202497325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.23487,55.947906,-3.23487,55.947906",
     "geom:latitude":55.947906,
     "geom:longitude":-3.23487,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Coltbridge Terrace",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202497325,
-    "wof:lastmodified":1449062598,
+    "wof:lastmodified":1466254084,
     "wof:name":"Mentzendorff & Co. Ltd.",
     "wof:parent_id":85861493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wines"
     ]
 },
-  "bbox": [-3.23487,55.947906,-3.23487,55.947906],
+  "bbox": [
+    -3.23487,
+    55.947906,
+    -3.23487,
+    55.947906
+],
   "geometry": {"coordinates":[-3.23487,55.947906],"type":"Point"}
 }

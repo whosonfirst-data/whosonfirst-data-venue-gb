@@ -2,13 +2,14 @@
   "id": 336771825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.077419,50.780647,-1.077419,50.780647",
     "geom:latitude":50.780647,
     "geom:longitude":-1.077419,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Alhambra Rd",
     "sg:city":"Southsea",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336771825,
-    "wof:lastmodified":1448997526,
+    "wof:lastmodified":1466277846,
     "wof:name":"Hartland Residential Care Home",
     "wof:parent_id":85790481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "care"
     ]
 },
-  "bbox": [-1.077419,50.780647,-1.077419,50.780647],
+  "bbox": [
+    -1.077419,
+    50.780647,
+    -1.077419,
+    50.780647
+],
   "geometry": {"coordinates":[-1.077419,50.780647],"type":"Point"}
 }

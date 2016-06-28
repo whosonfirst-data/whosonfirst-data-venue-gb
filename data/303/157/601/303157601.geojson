@@ -2,13 +2,14 @@
   "id": 303157601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.53988,53.393433,-1.53988,53.393433",
     "geom:latitude":53.393433,
     "geom:longitude":-1.53988,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"656 Stannington Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303157601,
-    "wof:lastmodified":1449000214,
+    "wof:lastmodified":1466267410,
     "wof:name":"G Hatfield",
     "wof:parent_id":85790699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greengrocer"
     ]
 },
-  "bbox": [-1.53988,53.393433,-1.53988,53.393433],
+  "bbox": [
+    -1.53988,
+    53.393433,
+    -1.53988,
+    53.393433
+],
   "geometry": {"coordinates":[-1.53988,53.393433],"type":"Point"}
 }

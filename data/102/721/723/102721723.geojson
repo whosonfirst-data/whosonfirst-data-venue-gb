@@ -2,13 +2,14 @@
   "id": 102721723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.715184,51.636532,-1.715184,51.636532",
     "geom:latitude":51.636532,
     "geom:longitude":-1.715184,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Grove Orchard, Highworth",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102721723,
-    "wof:lastmodified":1449070200,
+    "wof:lastmodified":1466257225,
     "wof:name":"The Driving Academy",
     "wof:parent_id":101852687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.715184,51.636532,-1.715184,51.636532],
+  "bbox": [
+    -1.715184,
+    51.636532,
+    -1.715184,
+    51.636532
+],
   "geometry": {"coordinates":[-1.715184,51.636532],"type":"Point"}
 }

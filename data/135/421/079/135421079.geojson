@@ -2,13 +2,14 @@
   "id": 135421079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.553637,53.78466,-1.553637,53.78466",
     "geom:latitude":53.78466,
     "geom:longitude":-1.553637,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Portland House, Moor View",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135421079,
-    "wof:lastmodified":1449022925,
+    "wof:lastmodified":1466265203,
     "wof:name":"Baker & Hyman Ltd.",
     "wof:parent_id":85785589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.553637,53.78466,-1.553637,53.78466],
+  "bbox": [
+    -1.553637,
+    53.78466,
+    -1.553637,
+    53.78466
+],
   "geometry": {"coordinates":[-1.553637,53.78466],"type":"Point"}
 }

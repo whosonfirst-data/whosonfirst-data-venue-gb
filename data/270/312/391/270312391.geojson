@@ -2,13 +2,14 @@
   "id": 270312391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.912601,52.490551,-1.912601,52.490551",
     "geom:latitude":52.490551,
     "geom:longitude":-1.912601,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Vyse Street, Hockley",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270312391,
-    "wof:lastmodified":1449009870,
+    "wof:lastmodified":1466269808,
     "wof:name":"Crest Jewellers",
     "wof:parent_id":85792837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweller"
     ]
 },
-  "bbox": [-1.912601,52.490551,-1.912601,52.490551],
+  "bbox": [
+    -1.912601,
+    52.490551,
+    -1.912601,
+    52.490551
+],
   "geometry": {"coordinates":[-1.912601,52.490551],"type":"Point"}
 }

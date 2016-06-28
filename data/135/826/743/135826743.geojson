@@ -2,13 +2,14 @@
   "id": 135826743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.922312,53.200672,-2.922312,53.200672",
     "geom:latitude":53.200672,
     "geom:longitude":-2.922312,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Graham Road, Blacon",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -65,14 +66,20 @@
         }
     ],
     "wof:id":135826743,
-    "wof:lastmodified":1449023193,
+    "wof:lastmodified":1466287679,
     "wof:name":"Loud & Clear",
     "wof:parent_id":85785827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.922312,53.200672,-2.922312,53.200672],
+  "bbox": [
+    -2.922312,
+    53.200672,
+    -2.922312,
+    53.200672
+],
   "geometry": {"coordinates":[-2.922312,53.200672],"type":"Point"}
 }

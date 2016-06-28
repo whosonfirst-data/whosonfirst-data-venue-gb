@@ -2,13 +2,14 @@
   "id": 135562141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.435761,50.546806,-2.435761,50.546806",
     "geom:latitude":50.546806,
     "geom:longitude":-2.435761,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Easton St",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135562141,
-    "wof:lastmodified":1449022610,
+    "wof:lastmodified":1466280021,
     "wof:name":"Nightingale Financial Services",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.435761,50.546806,-2.435761,50.546806],
+  "bbox": [
+    -2.435761,
+    50.546806,
+    -2.435761,
+    50.546806
+],
   "geometry": {"coordinates":[-2.435761,50.546806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202748547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.267335,52.896667,-1.267335,52.896667",
     "geom:latitude":52.896667,
     "geom:longitude":-1.267335,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"5 High Street, Long Eaton",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202748547,
-    "wof:lastmodified":1449062009,
+    "wof:lastmodified":1466258230,
     "wof:name":"Whitbread Hotel Co. Ltd.",
     "wof:parent_id":85791095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.267335,52.896667,-1.267335,52.896667],
+  "bbox": [
+    -1.267335,
+    52.896667,
+    -1.267335,
+    52.896667
+],
   "geometry": {"coordinates":[-1.267335,52.896667],"type":"Point"}
 }

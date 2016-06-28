@@ -2,13 +2,14 @@
   "id": 118497973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.665129,53.465679,-2.665129,53.465679",
     "geom:latitude":53.465679,
     "geom:longitude":-2.665129,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Church Road, Haydock",
     "sg:city":"St Helens",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118497973,
-    "wof:lastmodified":1449054506,
+    "wof:lastmodified":1466260075,
     "wof:name":"Broadhey Cars",
     "wof:parent_id":85789571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.665129,53.465679,-2.665129,53.465679],
+  "bbox": [
+    -2.665129,
+    53.465679,
+    -2.665129,
+    53.465679
+],
   "geometry": {"coordinates":[-2.665129,53.465679],"type":"Point"}
 }

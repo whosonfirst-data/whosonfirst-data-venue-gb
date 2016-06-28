@@ -2,13 +2,14 @@
   "id": 320380827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.57104,51.540546,-2.57104,51.540546",
     "geom:latitude":51.540546,
     "geom:longitude":-2.57104,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Hempton Lane, Almonsbury",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320380827,
-    "wof:lastmodified":1449012984,
+    "wof:lastmodified":1466279050,
     "wof:name":"Rob Brown",
     "wof:parent_id":85785427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "road"
     ]
 },
-  "bbox": [-2.57104,51.540546,-2.57104,51.540546],
+  "bbox": [
+    -2.57104,
+    51.540546,
+    -2.57104,
+    51.540546
+],
   "geometry": {"coordinates":[-2.57104,51.540546],"type":"Point"}
 }

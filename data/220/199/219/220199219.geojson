@@ -2,13 +2,14 @@
   "id": 220199219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.546587,53.794495,-1.546587,53.794495",
     "geom:latitude":53.794495,
     "geom:longitude":-1.546587,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Tandy Trading Estate, Canal Road",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220199219,
-    "wof:lastmodified":1449074115,
+    "wof:lastmodified":1466256436,
     "wof:name":"The Garage",
     "wof:parent_id":85792901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.546587,53.794495,-1.546587,53.794495],
+  "bbox": [
+    -1.546587,
+    53.794495,
+    -1.546587,
+    53.794495
+],
   "geometry": {"coordinates":[-1.546587,53.794495],"type":"Point"}
 }

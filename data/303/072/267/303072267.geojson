@@ -2,13 +2,14 @@
   "id": 303072267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.421,53.415569,-1.421,53.415569",
     "geom:latitude":53.415569,
     "geom:longitude":-1.421,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Julian Road",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303072267,
-    "wof:lastmodified":1448999411,
+    "wof:lastmodified":1466264669,
     "wof:name":"Brook Bakery",
     "wof:parent_id":85791689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "baker"
     ]
 },
-  "bbox": [-1.421,53.415569,-1.421,53.415569],
+  "bbox": [
+    -1.421,
+    53.415569,
+    -1.421,
+    53.415569
+],
   "geometry": {"coordinates":[-1.421,53.415569],"type":"Point"}
 }

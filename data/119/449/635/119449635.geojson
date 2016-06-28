@@ -2,13 +2,14 @@
   "id": 119449635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.45097,56.402554,-3.45097,56.402554",
     "geom:latitude":56.402554,
     "geom:longitude":-3.45097,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Feus Rd",
     "sg:city":"Perth",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119449635,
-    "wof:lastmodified":1449043343,
+    "wof:lastmodified":1466286283,
     "wof:name":"Holmes,Robert Alan,",
     "wof:parent_id":101872645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.45097,56.402554,-3.45097,56.402554],
+  "bbox": [
+    -3.45097,
+    56.402554,
+    -3.45097,
+    56.402554
+],
   "geometry": {"coordinates":[-3.45097,56.402554],"type":"Point"}
 }

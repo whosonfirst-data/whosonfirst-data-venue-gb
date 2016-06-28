@@ -2,13 +2,14 @@
   "id": 252815003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.937245,50.848965,-0.937245,50.848965",
     "geom:latitude":50.848965,
     "geom:longitude":-0.937245,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 North Street",
     "sg:city":"Emsworth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":252815003,
-    "wof:lastmodified":1449005941,
+    "wof:lastmodified":1466259186,
     "wof:name":"Movies",
     "wof:parent_id":85788685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "library"
     ]
 },
-  "bbox": [-0.937245,50.848965,-0.937245,50.848965],
+  "bbox": [
+    -0.937245,
+    50.848965,
+    -0.937245,
+    50.848965
+],
   "geometry": {"coordinates":[-0.937245,50.848965],"type":"Point"}
 }

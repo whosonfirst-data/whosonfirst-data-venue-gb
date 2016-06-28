@@ -2,13 +2,14 @@
   "id": 136123791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.314414,52.306648,-2.314414,52.306648",
     "geom:latitude":52.306648,
     "geom:longitude":-2.314414,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Three Ways, Astley",
     "sg:city":"Stourport-on-severn",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136123791,
-    "wof:lastmodified":1449075285,
+    "wof:lastmodified":1466256889,
     "wof:name":"Astley Garage",
     "wof:parent_id":85684259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.314414,52.306648,-2.314414,52.306648],
+  "bbox": [
+    -2.314414,
+    52.306648,
+    -2.314414,
+    52.306648
+],
   "geometry": {"coordinates":[-2.314414,52.306648],"type":"Point"}
 }

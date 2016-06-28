@@ -2,13 +2,14 @@
   "id": 253331005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.048146,53.810749,-3.048146,53.810749",
     "geom:latitude":53.810749,
     "geom:longitude":-3.048146,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"111-115 Central Promenade",
     "sg:city":"Blackpool",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253331005,
-    "wof:lastmodified":1449064608,
+    "wof:lastmodified":1466263834,
     "wof:name":"The Boardwalk",
     "wof:parent_id":85793215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "inn"
     ]
 },
-  "bbox": [-3.048146,53.810749,-3.048146,53.810749],
+  "bbox": [
+    -3.048146,
+    53.810749,
+    -3.048146,
+    53.810749
+],
   "geometry": {"coordinates":[-3.048146,53.810749],"type":"Point"}
 }

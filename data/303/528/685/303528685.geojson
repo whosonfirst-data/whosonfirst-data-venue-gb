@@ -2,13 +2,14 @@
   "id": 303528685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.424623,53.237286,-1.424623,53.237286",
     "geom:latitude":53.237286,
     "geom:longitude":-1.424623,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Holywell Street",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":303528685,
-    "wof:lastmodified":1448998769,
+    "wof:lastmodified":1466278855,
     "wof:name":"The Winding Wheel",
     "wof:parent_id":85788003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "centre"
     ]
 },
-  "bbox": [-1.424623,53.237286,-1.424623,53.237286],
+  "bbox": [
+    -1.424623,
+    53.237286,
+    -1.424623,
+    53.237286
+],
   "geometry": {"coordinates":[-1.424623,53.237286],"type":"Point"}
 }

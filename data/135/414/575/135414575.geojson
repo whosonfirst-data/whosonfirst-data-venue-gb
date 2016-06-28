@@ -2,13 +2,14 @@
   "id": 135414575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.99345,51.026531,-2.99345,51.026531",
     "geom:latitude":51.026531,
     "geom:longitude":-2.99345,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"North Curry, Knapp",
     "sg:city":"Taunton",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135414575,
-    "wof:lastmodified":1449022426,
+    "wof:lastmodified":1466264400,
     "wof:name":"Rising Sun",
     "wof:parent_id":85684013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.99345,51.026531,-2.99345,51.026531],
+  "bbox": [
+    -2.99345,
+    51.026531,
+    -2.99345,
+    51.026531
+],
   "geometry": {"coordinates":[-2.99345,51.026531],"type":"Point"}
 }

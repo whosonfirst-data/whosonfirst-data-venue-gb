@@ -2,13 +2,14 @@
   "id": 118765613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.000339,51.585388,-3.000339,51.585388",
     "geom:latitude":51.585388,
     "geom:longitude":-3.000339,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"St Mary's Church, Wharf Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":118765613,
-    "wof:lastmodified":1449053966,
+    "wof:lastmodified":1466270201,
     "wof:name":"Parish Of Maindee",
     "wof:parent_id":85785465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.000339,51.585388,-3.000339,51.585388],
+  "bbox": [
+    -3.000339,
+    51.585388,
+    -3.000339,
+    51.585388
+],
   "geometry": {"coordinates":[-3.000339,51.585388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303111381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.20846,51.50436,-3.20846,51.50436",
     "geom:latitude":51.50436,
     "geom:longitude":-3.20846,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Old School Building, Cefn Road",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":303111381,
-    "wof:lastmodified":1449000647,
+    "wof:lastmodified":1466266013,
     "wof:name":"Theatr Iolo Ltd",
     "wof:parent_id":85861407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "theatre"
     ]
 },
-  "bbox": [-3.20846,51.50436,-3.20846,51.50436],
+  "bbox": [
+    -3.20846,
+    51.50436,
+    -3.20846,
+    51.50436
+],
   "geometry": {"coordinates":[-3.20846,51.50436],"type":"Point"}
 }

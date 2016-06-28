@@ -2,13 +2,14 @@
   "id": 185854811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.547291,54.548786,-1.547291,54.548786",
     "geom:latitude":54.548786,
     "geom:longitude":-1.547291,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"427 North Rd",
     "sg:city":"Darlington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185854811,
-    "wof:lastmodified":1449008132,
+    "wof:lastmodified":1466255337,
     "wof:name":"W B Metcalfe",
     "wof:parent_id":85787981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-1.547291,54.548786,-1.547291,54.548786],
+  "bbox": [
+    -1.547291,
+    54.548786,
+    -1.547291,
+    54.548786
+],
   "geometry": {"coordinates":[-1.547291,54.548786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320125161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.446409,54.345909,-1.446409,54.345909",
     "geom:latitude":54.345909,
     "geom:longitude":-1.446409,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1a Standard Court, Standard Way Industrial Estate",
     "sg:city":"Northallerton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320125161,
-    "wof:lastmodified":1449014834,
+    "wof:lastmodified":1466271843,
     "wof:name":"The Pine Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.446409,54.345909,-1.446409,54.345909],
+  "bbox": [
+    -1.446409,
+    54.345909,
+    -1.446409,
+    54.345909
+],
   "geometry": {"coordinates":[-1.446409,54.345909],"type":"Point"}
 }

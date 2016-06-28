@@ -2,13 +2,14 @@
   "id": 269723141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.122595,50.845634,-1.122595,50.845634",
     "geom:latitude":50.845634,
     "geom:longitude":-1.122595,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Castle Street, Portchester",
     "sg:city":"Fareham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":269723141,
-    "wof:lastmodified":1449037548,
+    "wof:lastmodified":1466267381,
     "wof:name":"Castle Street Dental Practice",
     "wof:parent_id":85861951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.122595,50.845634,-1.122595,50.845634],
+  "bbox": [
+    -1.122595,
+    50.845634,
+    -1.122595,
+    50.845634
+],
   "geometry": {"coordinates":[-1.122595,50.845634],"type":"Point"}
 }

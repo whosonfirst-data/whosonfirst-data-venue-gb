@@ -2,13 +2,14 @@
   "id": 320584219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.975108,51.621178,-3.975108,51.621178",
     "geom:latitude":51.621178,
     "geom:longitude":-3.975108,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Glanmor Road, Sketty",
     "sg:city":"Swansea",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320584219,
-    "wof:lastmodified":1449011656,
+    "wof:lastmodified":1466282417,
     "wof:name":"Michael Griffiths",
     "wof:parent_id":85786099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.975108,51.621178,-3.975108,51.621178],
+  "bbox": [
+    -3.975108,
+    51.621178,
+    -3.975108,
+    51.621178
+],
   "geometry": {"coordinates":[-3.975108,51.621178],"type":"Point"}
 }

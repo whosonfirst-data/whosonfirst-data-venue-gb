@@ -2,13 +2,14 @@
   "id": 303265155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.235552,55.949436,-3.235552,55.949436",
     "geom:latitude":55.949436,
     "geom:longitude":-3.235552,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Garscube Terrace",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303265155,
-    "wof:lastmodified":1448998950,
+    "wof:lastmodified":1466270794,
     "wof:name":"Edinburgh Photographic Library",
     "wof:parent_id":85861493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photography"
     ]
 },
-  "bbox": [-3.235552,55.949436,-3.235552,55.949436],
+  "bbox": [
+    -3.235552,
+    55.949436,
+    -3.235552,
+    55.949436
+],
   "geometry": {"coordinates":[-3.235552,55.949436],"type":"Point"}
 }

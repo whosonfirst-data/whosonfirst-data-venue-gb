@@ -2,13 +2,14 @@
   "id": 118702967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.374049,51.780449,-1.374049,51.780449",
     "geom:latitude":51.780449,
     "geom:longitude":-1.374049,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 High Street, Eynsham",
     "sg:city":"Witney",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118702967,
-    "wof:lastmodified":1449053845,
+    "wof:lastmodified":1466265524,
     "wof:name":"The Basement",
     "wof:parent_id":101852921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.374049,51.780449,-1.374049,51.780449],
+  "bbox": [
+    -1.374049,
+    51.780449,
+    -1.374049,
+    51.780449
+],
   "geometry": {"coordinates":[-1.374049,51.780449],"type":"Point"}
 }

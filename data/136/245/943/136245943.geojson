@@ -2,13 +2,14 @@
   "id": 136245943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.293099,51.40432,-1.293099,51.40432",
     "geom:latitude":51.40432,
     "geom:longitude":-1.293099,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"404 London Road, Benham Hill",
     "sg:city":"Thatcham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136245943,
-    "wof:lastmodified":1449076226,
+    "wof:lastmodified":1466263445,
     "wof:name":"Sean's Kitchen",
     "wof:parent_id":85684137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.293099,51.40432,-1.293099,51.40432],
+  "bbox": [
+    -1.293099,
+    51.40432,
+    -1.293099,
+    51.40432
+],
   "geometry": {"coordinates":[-1.293099,51.40432],"type":"Point"}
 }

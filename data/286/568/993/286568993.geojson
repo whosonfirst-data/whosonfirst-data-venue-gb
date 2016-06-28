@@ -2,13 +2,14 @@
   "id": 286568993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.839724,50.739704,-1.839724,50.739704",
     "geom:latitude":50.739704,
     "geom:longitude":-1.839724,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Littledown Drive, Littledown",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":286568993,
-    "wof:lastmodified":1449015089,
+    "wof:lastmodified":1466271758,
     "wof:name":"Abbey Models",
     "wof:parent_id":85785869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "model"
     ]
 },
-  "bbox": [-1.839724,50.739704,-1.839724,50.739704],
+  "bbox": [
+    -1.839724,
+    50.739704,
+    -1.839724,
+    50.739704
+],
   "geometry": {"coordinates":[-1.839724,50.739704],"type":"Point"}
 }

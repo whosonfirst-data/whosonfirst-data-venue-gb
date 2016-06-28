@@ -2,13 +2,14 @@
   "id": 320813041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.83118,53.34304,-2.83118,53.34304",
     "geom:latitude":53.34304,
     "geom:longitude":-2.83118,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Alderwood Day Centre, 24 Alderwood Av",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320813041,
-    "wof:lastmodified":1449012225,
+    "wof:lastmodified":1466285007,
     "wof:name":"Liverpool City Council",
     "wof:parent_id":85790531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-2.83118,53.34304,-2.83118,53.34304],
+  "bbox": [
+    -2.83118,
+    53.34304,
+    -2.83118,
+    53.34304
+],
   "geometry": {"coordinates":[-2.83118,53.34304],"type":"Point"}
 }

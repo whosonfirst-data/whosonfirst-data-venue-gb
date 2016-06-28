@@ -2,13 +2,14 @@
   "id": 303959319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.254904,55.858643,-4.254904,55.858643",
     "geom:latitude":55.858643,
     "geom:longitude":-4.254904,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1, 57/59 Buchanan Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303959319,
-    "wof:lastmodified":1449000323,
+    "wof:lastmodified":1466284964,
     "wof:name":"Planet",
     "wof:parent_id":85861547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ladieswear"
     ]
 },
-  "bbox": [-4.254904,55.858643,-4.254904,55.858643],
+  "bbox": [
+    -4.254904,
+    55.858643,
+    -4.254904,
+    55.858643
+],
   "geometry": {"coordinates":[-4.254904,55.858643],"type":"Point"}
 }

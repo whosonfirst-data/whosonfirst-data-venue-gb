@@ -2,13 +2,14 @@
   "id": 135834515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.424096,50.928215,-1.424096,50.928215",
     "geom:latitude":50.928215,
     "geom:longitude":-1.424096,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Bellemoor Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":135834515,
-    "wof:lastmodified":1449021282,
+    "wof:lastmodified":1466287755,
     "wof:name":"Barndances",
     "wof:parent_id":85792817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.424096,50.928215,-1.424096,50.928215],
+  "bbox": [
+    -1.424096,
+    50.928215,
+    -1.424096,
+    50.928215
+],
   "geometry": {"coordinates":[-1.424096,50.928215],"type":"Point"}
 }

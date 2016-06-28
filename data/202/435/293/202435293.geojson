@@ -2,13 +2,14 @@
   "id": 202435293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.27141,51.42115,-3.27141,51.42115",
     "geom:latitude":51.42115,
     "geom:longitude":-3.27141,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Honoury Secretary, The Holmes, Merthyr Dyfan Road",
     "sg:city":"Barry",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202435293,
-    "wof:lastmodified":1449062416,
+    "wof:lastmodified":1466253140,
     "wof:name":"Lifeboat",
     "wof:parent_id":85861417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.27141,51.42115,-3.27141,51.42115],
+  "bbox": [
+    -3.27141,
+    51.42115,
+    -3.27141,
+    51.42115
+],
   "geometry": {"coordinates":[-3.27141,51.42115],"type":"Point"}
 }

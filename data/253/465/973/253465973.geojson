@@ -2,13 +2,14 @@
   "id": 253465973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.122618,53.348263,-2.122618,53.348263",
     "geom:latitude":53.348263,
     "geom:longitude":-2.122618,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"11 London Road South, Poynton",
     "sg:city":"Stockport",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253465973,
-    "wof:lastmodified":1449064828,
+    "wof:lastmodified":1466267118,
     "wof:name":"Poynton Service Station",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "filling"
     ]
 },
-  "bbox": [-2.122618,53.348263,-2.122618,53.348263],
+  "bbox": [
+    -2.122618,
+    53.348263,
+    -2.122618,
+    53.348263
+],
   "geometry": {"coordinates":[-2.122618,53.348263],"type":"Point"}
 }

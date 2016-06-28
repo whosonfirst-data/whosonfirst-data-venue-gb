@@ -2,13 +2,14 @@
   "id": 303059447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.215597,51.696663,-2.215597,51.696663",
     "geom:latitude":51.696663,
     "geom:longitude":-2.215597,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Old Warehouse, Old Market",
     "sg:city":"Stroud",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":303059447,
-    "wof:lastmodified":1448998782,
+    "wof:lastmodified":1466264226,
     "wof:name":"Unique Hotels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "booking"
     ]
 },
-  "bbox": [-2.215597,51.696663,-2.215597,51.696663],
+  "bbox": [
+    -2.215597,
+    51.696663,
+    -2.215597,
+    51.696663
+],
   "geometry": {"coordinates":[-2.215597,51.696663],"type":"Point"}
 }

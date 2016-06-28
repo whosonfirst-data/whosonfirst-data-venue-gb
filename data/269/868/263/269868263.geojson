@@ -2,13 +2,14 @@
   "id": 269868263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.164095,55.856747,-3.164095,55.856747",
     "geom:latitude":55.856747,
     "geom:longitude":-3.164095,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Penicuik Road",
     "sg:city":"Roslin",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":269868263,
-    "wof:lastmodified":1449036237,
+    "wof:lastmodified":1466271732,
     "wof:name":"ROSLIN GLEN HOTEL",
     "wof:parent_id":85861523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.164095,55.856747,-3.164095,55.856747],
+  "bbox": [
+    -3.164095,
+    55.856747,
+    -3.164095,
+    55.856747
+],
   "geometry": {"coordinates":[-3.164095,55.856747],"type":"Point"}
 }

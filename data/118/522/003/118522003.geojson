@@ -2,13 +2,14 @@
   "id": 118522003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.122535,53.256981,-2.122535,53.256981",
     "geom:latitude":53.256981,
     "geom:longitude":-2.122535,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Sunderland St",
     "sg:city":"Macclesfield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":118522003,
-    "wof:lastmodified":1449053813,
+    "wof:lastmodified":1466278297,
     "wof:name":"The Cyprus",
     "wof:parent_id":101750519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.122535,53.256981,-2.122535,53.256981],
+  "bbox": [
+    -2.122535,
+    53.256981,
+    -2.122535,
+    53.256981
+],
   "geometry": {"coordinates":[-2.122535,53.256981],"type":"Point"}
 }

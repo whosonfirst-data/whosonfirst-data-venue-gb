@@ -2,13 +2,14 @@
   "id": 303350993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.38781,54.907219,-1.38781,54.907219",
     "geom:latitude":54.907219,
     "geom:longitude":-1.38781,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Gill Bridge Av",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303350993,
-    "wof:lastmodified":1448999366,
+    "wof:lastmodified":1466273355,
     "wof:name":"Clerk To The Justices Magistrates Court",
     "wof:parent_id":85789153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.38781,54.907219,-1.38781,54.907219],
+  "bbox": [
+    -1.38781,
+    54.907219,
+    -1.38781,
+    54.907219
+],
   "geometry": {"coordinates":[-1.38781,54.907219],"type":"Point"}
 }

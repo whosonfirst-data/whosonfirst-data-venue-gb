@@ -2,13 +2,14 @@
   "id": 119237919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.41383,50.620544,-3.41383,50.620544",
     "geom:latitude":50.620544,
     "geom:longitude":-3.41383,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 The Parade",
     "sg:city":"Exmouth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119237919,
-    "wof:lastmodified":1449040948,
+    "wof:lastmodified":1466273438,
     "wof:name":"The Strand",
     "wof:parent_id":101852593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.41383,50.620544,-3.41383,50.620544],
+  "bbox": [
+    -3.41383,
+    50.620544,
+    -3.41383,
+    50.620544
+],
   "geometry": {"coordinates":[-3.41383,50.620544],"type":"Point"}
 }

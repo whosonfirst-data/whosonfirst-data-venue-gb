@@ -2,13 +2,14 @@
   "id": 303302143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.206907,55.926533,-3.206907,55.926533",
     "geom:latitude":55.926533,
     "geom:longitude":-3.206907,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Nile Gro",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":303302143,
-    "wof:lastmodified":1448998943,
+    "wof:lastmodified":1466271912,
     "wof:name":"S J O'Brien",
     "wof:parent_id":85789183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.206907,55.926533,-3.206907,55.926533],
+  "bbox": [
+    -3.206907,
+    55.926533,
+    -3.206907,
+    55.926533
+],
   "geometry": {"coordinates":[-3.206907,55.926533],"type":"Point"}
 }

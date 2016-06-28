@@ -2,13 +2,14 @@
   "id": 202976119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.501381,52.425682,-1.501381,52.425682",
     "geom:latitude":52.425682,
     "geom:longitude":-1.501381,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"298c Foleshill Rd",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":202976119,
-    "wof:lastmodified":1449061162,
+    "wof:lastmodified":1466261896,
     "wof:name":"F Crofts",
     "wof:parent_id":85792035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.501381,52.425682,-1.501381,52.425682],
+  "bbox": [
+    -1.501381,
+    52.425682,
+    -1.501381,
+    52.425682
+],
   "geometry": {"coordinates":[-1.501381,52.425682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253351133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.207027,55.915066,-3.207027,55.915066",
     "geom:latitude":55.915066,
     "geom:longitude":-3.207027,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Bramdean Grove",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253351133,
-    "wof:lastmodified":1449065331,
+    "wof:lastmodified":1466264300,
     "wof:name":"Peter Graham",
     "wof:parent_id":85785919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-3.207027,55.915066,-3.207027,55.915066],
+  "bbox": [
+    -3.207027,
+    55.915066,
+    -3.207027,
+    55.915066
+],
   "geometry": {"coordinates":[-3.207027,55.915066],"type":"Point"}
 }

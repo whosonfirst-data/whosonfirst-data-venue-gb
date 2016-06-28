@@ -2,13 +2,14 @@
   "id": 219826199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.54316,52.417568,-1.54316,52.417568",
     "geom:latitude":52.417568,
     "geom:longitude":-1.54316,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Tollgate Garage, 489 Holyhead Rd",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219826199,
-    "wof:lastmodified":1449072962,
+    "wof:lastmodified":1466264116,
     "wof:name":"G.Y. Transport Hire",
     "wof:parent_id":85790551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "van"
     ]
 },
-  "bbox": [-1.54316,52.417568,-1.54316,52.417568],
+  "bbox": [
+    -1.54316,
+    52.417568,
+    -1.54316,
+    52.417568
+],
   "geometry": {"coordinates":[-1.54316,52.417568],"type":"Point"}
 }

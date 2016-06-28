@@ -2,13 +2,14 @@
   "id": 270312937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.530349,50.708561,-3.530349,50.708561",
     "geom:latitude":50.708561,
     "geom:longitude":-3.530349,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Exeter Busi Cen, 39 Marsh Green Road, Marsh Barton Trading Estate",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":270312937,
-    "wof:lastmodified":1449009868,
+    "wof:lastmodified":1466269833,
     "wof:name":"Apple Appointments",
     "wof:parent_id":85790683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-3.530349,50.708561,-3.530349,50.708561],
+  "bbox": [
+    -3.530349,
+    50.708561,
+    -3.530349,
+    50.708561
+],
   "geometry": {"coordinates":[-3.530349,50.708561],"type":"Point"}
 }

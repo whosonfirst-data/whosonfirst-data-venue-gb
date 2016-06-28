@@ -2,13 +2,14 @@
   "id": 135682909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.991145,53.405636,-2.991145,53.405636",
     "geom:latitude":53.405636,
     "geom:longitude":-2.991145,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Fenwick Street",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135682909,
-    "wof:lastmodified":1449021496,
+    "wof:lastmodified":1466285754,
     "wof:name":"Fenwick Coffee Shop",
     "wof:parent_id":85793261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.991145,53.405636,-2.991145,53.405636],
+  "bbox": [
+    -2.991145,
+    53.405636,
+    -2.991145,
+    53.405636
+],
   "geometry": {"coordinates":[-2.991145,53.405636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320283653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.31745,53.324486,-1.31745,53.324486",
     "geom:latitude":53.324486,
     "geom:longitude":-1.31745,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27-29 Bridge Street, Killamarsh",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320283653,
-    "wof:lastmodified":1449012365,
+    "wof:lastmodified":1466276571,
     "wof:name":"Audio Vision",
     "wof:parent_id":85787845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "hire"
     ]
 },
-  "bbox": [-1.31745,53.324486,-1.31745,53.324486],
+  "bbox": [
+    -1.31745,
+    53.324486,
+    -1.31745,
+    53.324486
+],
   "geometry": {"coordinates":[-1.31745,53.324486],"type":"Point"}
 }

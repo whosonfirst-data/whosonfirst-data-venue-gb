@@ -2,13 +2,14 @@
   "id": 320332561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.159855,52.955688,-1.159855,52.955688",
     "geom:latitude":52.955688,
     "geom:longitude":-1.159855,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Wollaton St",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320332561,
-    "wof:lastmodified":1449013341,
+    "wof:lastmodified":1466278120,
     "wof:name":"Studio 2",
     "wof:parent_id":85793185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "artist"
     ]
 },
-  "bbox": [-1.159855,52.955688,-1.159855,52.955688],
+  "bbox": [
+    -1.159855,
+    52.955688,
+    -1.159855,
+    52.955688
+],
   "geometry": {"coordinates":[-1.159855,52.955688],"type":"Point"}
 }

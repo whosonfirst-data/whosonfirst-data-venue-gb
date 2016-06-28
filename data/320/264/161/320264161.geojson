@@ -2,13 +2,14 @@
   "id": 320264161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.30074,50.908092,-1.30074,50.908092",
     "geom:latitude":50.908092,
     "geom:longitude":-1.30074,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Lower St. Helens Rd, Hedge End",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320264161,
-    "wof:lastmodified":1449013690,
+    "wof:lastmodified":1466275967,
     "wof:name":"Marcus Langford",
     "wof:parent_id":85792803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-1.30074,50.908092,-1.30074,50.908092],
+  "bbox": [
+    -1.30074,
+    50.908092,
+    -1.30074,
+    50.908092
+],
   "geometry": {"coordinates":[-1.30074,50.908092],"type":"Point"}
 }

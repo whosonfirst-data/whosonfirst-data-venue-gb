@@ -2,13 +2,14 @@
   "id": 270251809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.54983,54.949329,-1.54983,54.949329",
     "geom:latitude":54.949329,
     "geom:longitude":-1.54983,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Vicarage Court, Sunderland Road",
     "sg:city":"Gateshead",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":270251809,
-    "wof:lastmodified":1449008716,
+    "wof:lastmodified":1466267916,
     "wof:name":"Anchor Housing Trust",
     "wof:parent_id":85789769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "housing"
     ]
 },
-  "bbox": [-1.54983,54.949329,-1.54983,54.949329],
+  "bbox": [
+    -1.54983,
+    54.949329,
+    -1.54983,
+    54.949329
+],
   "geometry": {"coordinates":[-1.54983,54.949329],"type":"Point"}
 }

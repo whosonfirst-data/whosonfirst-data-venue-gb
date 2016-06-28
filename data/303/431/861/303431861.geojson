@@ -2,13 +2,14 @@
   "id": 303431861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.64949,50.957069,-1.64949,50.957069",
     "geom:latitude":50.957069,
     "geom:longitude":-1.64949,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Spring Close Cottage, Lyburn Road, No Man's Land",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":303431861,
-    "wof:lastmodified":1448998450,
+    "wof:lastmodified":1466275829,
     "wof:name":"M & S Freight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "road"
     ]
 },
-  "bbox": [-1.64949,50.957069,-1.64949,50.957069],
+  "bbox": [
+    -1.64949,
+    50.957069,
+    -1.64949,
+    50.957069
+],
   "geometry": {"coordinates":[-1.64949,50.957069],"type":"Point"}
 }

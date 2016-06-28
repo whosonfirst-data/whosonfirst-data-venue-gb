@@ -2,13 +2,14 @@
   "id": 202533767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.40374,50.86689,-1.40374,50.86689",
     "geom:latitude":50.86689,
     "geom:longitude":-1.40374,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"18-20 High St, Hythe",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202533767,
-    "wof:lastmodified":1449060078,
+    "wof:lastmodified":1466254685,
     "wof:name":"Heavens Above",
     "wof:parent_id":85787189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wedding"
     ]
 },
-  "bbox": [-1.40374,50.86689,-1.40374,50.86689],
+  "bbox": [
+    -1.40374,
+    50.86689,
+    -1.40374,
+    50.86689
+],
   "geometry": {"coordinates":[-1.40374,50.86689],"type":"Point"}
 }

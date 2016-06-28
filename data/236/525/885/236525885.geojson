@@ -2,13 +2,14 @@
   "id": 236525885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.160122,52.945518,-1.160122,52.945518",
     "geom:latitude":52.945518,
     "geom:longitude":-1.160122,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 11, Castle Meadow Retail Pk, Castle Bridge Rd",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236525885,
-    "wof:lastmodified":1449004419,
+    "wof:lastmodified":1466266315,
     "wof:name":"Carpetworld Ltd",
     "wof:parent_id":85788733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "matting"
     ]
 },
-  "bbox": [-1.160122,52.945518,-1.160122,52.945518],
+  "bbox": [
+    -1.160122,
+    52.945518,
+    -1.160122,
+    52.945518
+],
   "geometry": {"coordinates":[-1.160122,52.945518],"type":"Point"}
 }

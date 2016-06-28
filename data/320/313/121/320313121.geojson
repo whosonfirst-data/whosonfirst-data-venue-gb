@@ -2,13 +2,14 @@
   "id": 320313121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.86524,53.717865,-1.86524,53.717865",
     "geom:latitude":53.717865,
     "geom:longitude":-1.86524,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Savile Road",
     "sg:city":"Halifax",
     "sg:classifiers":[
@@ -54,16 +55,22 @@
         }
     ],
     "wof:id":320313121,
-    "wof:lastmodified":1449011374,
+    "wof:lastmodified":1466277492,
     "wof:name":"Community Care Line Services",
     "wof:parent_id":85789289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "provider"
     ]
 },
-  "bbox": [-1.86524,53.717865,-1.86524,53.717865],
+  "bbox": [
+    -1.86524,
+    53.717865,
+    -1.86524,
+    53.717865
+],
   "geometry": {"coordinates":[-1.86524,53.717865],"type":"Point"}
 }

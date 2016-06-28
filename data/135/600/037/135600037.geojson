@@ -2,13 +2,14 @@
   "id": 135600037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.259473,55.817375,-4.259473,55.817375",
     "geom:latitude":55.817375,
     "geom:longitude":-4.259473,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Delvin Road, Cathcart",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135600037,
-    "wof:lastmodified":1449021281,
+    "wof:lastmodified":1466282419,
     "wof:name":"R W Weavers",
     "wof:parent_id":85786351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.259473,55.817375,-4.259473,55.817375],
+  "bbox": [
+    -4.259473,
+    55.817375,
+    -4.259473,
+    55.817375
+],
   "geometry": {"coordinates":[-4.259473,55.817375],"type":"Point"}
 }

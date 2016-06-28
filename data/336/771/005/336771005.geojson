@@ -2,13 +2,14 @@
   "id": 336771005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.214634,55.946255,-3.214634,55.946255",
     "geom:latitude":55.946255,
     "geom:longitude":-3.214634,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Morrison Street",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":336771005,
-    "wof:lastmodified":1448997530,
+    "wof:lastmodified":1466277821,
     "wof:name":"Edinburgh Photo Centre Ltd.",
     "wof:parent_id":85792715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "video"
     ]
 },
-  "bbox": [-3.214634,55.946255,-3.214634,55.946255],
+  "bbox": [
+    -3.214634,
+    55.946255,
+    -3.214634,
+    55.946255
+],
   "geometry": {"coordinates":[-3.214634,55.946255],"type":"Point"}
 }

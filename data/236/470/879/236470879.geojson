@@ -2,13 +2,14 @@
   "id": 236470879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.515412,55.837013,-4.515412,55.837013",
     "geom:latitude":55.837013,
     "geom:longitude":-4.515412,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Macdowall Street",
     "sg:city":"Johnstone",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236470879,
-    "wof:lastmodified":1449002277,
+    "wof:lastmodified":1466265305,
     "wof:name":"Millbrae Coachworks",
     "wof:parent_id":85789101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "car"
     ]
 },
-  "bbox": [-4.515412,55.837013,-4.515412,55.837013],
+  "bbox": [
+    -4.515412,
+    55.837013,
+    -4.515412,
+    55.837013
+],
   "geometry": {"coordinates":[-4.515412,55.837013],"type":"Point"}
 }

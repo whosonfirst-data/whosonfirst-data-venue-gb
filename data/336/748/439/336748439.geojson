@@ -2,13 +2,14 @@
   "id": 336748439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.210362,55.904182,-3.210362,55.904182",
     "geom:latitude":55.904182,
     "geom:longitude":-3.210362,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 West Caiystane Road",
     "sg:city":"Edinburgh",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336748439,
-    "wof:lastmodified":1448997750,
+    "wof:lastmodified":1466277175,
     "wof:name":"Brae Interface Ltd",
     "wof:parent_id":85787337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "software"
     ]
 },
-  "bbox": [-3.210362,55.904182,-3.210362,55.904182],
+  "bbox": [
+    -3.210362,
+    55.904182,
+    -3.210362,
+    55.904182
+],
   "geometry": {"coordinates":[-3.210362,55.904182],"type":"Point"}
 }

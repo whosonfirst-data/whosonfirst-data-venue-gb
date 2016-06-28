@@ -2,13 +2,14 @@
   "id": 203212687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.64082,53.540642,-2.64082,53.540642",
     "geom:latitude":53.540642,
     "geom:longitude":-2.64082,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"First Floor 1 Eckersley Mill, Swan Meadow Rd",
     "sg:city":"Wigan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203212687,
-    "wof:lastmodified":1449026202,
+    "wof:lastmodified":1466256228,
     "wof:name":"Spargo Suites",
     "wof:parent_id":85789411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bedroom"
     ]
 },
-  "bbox": [-2.64082,53.540642,-2.64082,53.540642],
+  "bbox": [
+    -2.64082,
+    53.540642,
+    -2.64082,
+    53.540642
+],
   "geometry": {"coordinates":[-2.64082,53.540642],"type":"Point"}
 }

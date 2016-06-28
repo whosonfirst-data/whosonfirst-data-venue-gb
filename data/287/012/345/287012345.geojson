@@ -2,13 +2,14 @@
   "id": 287012345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.933326,53.271278,-2.933326,53.271278",
     "geom:latitude":53.271278,
     "geom:longitude":-2.933326,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Ascot Drive",
     "sg:city":"Ellesmere Port",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":287012345,
-    "wof:lastmodified":1449001496,
+    "wof:lastmodified":1466263313,
     "wof:name":"G Alan Simcott",
     "wof:parent_id":85791747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-2.933326,53.271278,-2.933326,53.271278],
+  "bbox": [
+    -2.933326,
+    53.271278,
+    -2.933326,
+    53.271278
+],
   "geometry": {"coordinates":[-2.933326,53.271278],"type":"Point"}
 }

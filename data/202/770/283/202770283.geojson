@@ -2,13 +2,14 @@
   "id": 202770283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.986251,50.713905,-1.986251,50.713905",
     "geom:latitude":50.713905,
     "geom:longitude":-1.986251,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"73 High Street",
     "sg:city":"Poole",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202770283,
-    "wof:lastmodified":1449062704,
+    "wof:lastmodified":1466258627,
     "wof:name":"The Woolpack",
     "wof:parent_id":85792767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wool"
     ]
 },
-  "bbox": [-1.986251,50.713905,-1.986251,50.713905],
+  "bbox": [
+    -1.986251,
+    50.713905,
+    -1.986251,
+    50.713905
+],
   "geometry": {"coordinates":[-1.986251,50.713905],"type":"Point"}
 }

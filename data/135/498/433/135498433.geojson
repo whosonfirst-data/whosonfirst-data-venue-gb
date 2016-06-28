@@ -2,13 +2,14 @@
   "id": 135498433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.150718,52.631557,-1.150718,52.631557",
     "geom:latitude":52.631557,
     "geom:longitude":-1.150718,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Hinckley Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":135498433,
-    "wof:lastmodified":1449023295,
+    "wof:lastmodified":1466274286,
     "wof:name":"Kelham Ltd.",
     "wof:parent_id":85792039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.150718,52.631557,-1.150718,52.631557],
+  "bbox": [
+    -1.150718,
+    52.631557,
+    -1.150718,
+    52.631557
+],
   "geometry": {"coordinates":[-1.150718,52.631557],"type":"Point"}
 }

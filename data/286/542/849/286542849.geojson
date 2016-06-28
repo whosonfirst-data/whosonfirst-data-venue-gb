@@ -2,13 +2,14 @@
   "id": 286542849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.980919,55.865318,-3.980919,55.865318",
     "geom:latitude":55.865318,
     "geom:longitude":-3.980919,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Broomknoll Street",
     "sg:city":"Airdrie",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":286542849,
-    "wof:lastmodified":1449017471,
+    "wof:lastmodified":1466270869,
     "wof:name":"T Gibbons",
     "wof:parent_id":85792553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.980919,55.865318,-3.980919,55.865318],
+  "bbox": [
+    -3.980919,
+    55.865318,
+    -3.980919,
+    55.865318
+],
   "geometry": {"coordinates":[-3.980919,55.865318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135723415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.09048,50.411385,-5.09048,50.411385",
     "geom:latitude":50.411385,
     "geom:longitude":-5.09048,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Mount Wise",
     "sg:city":"Newquay",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135723415,
-    "wof:lastmodified":1449022786,
+    "wof:lastmodified":1466286361,
     "wof:name":"Meadow View",
     "wof:parent_id":85684547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.09048,50.411385,-5.09048,50.411385],
+  "bbox": [
+    -5.09048,
+    50.411385,
+    -5.09048,
+    50.411385
+],
   "geometry": {"coordinates":[-5.09048,50.411385],"type":"Point"}
 }

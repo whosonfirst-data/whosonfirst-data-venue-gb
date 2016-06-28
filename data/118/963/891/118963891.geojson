@@ -2,13 +2,14 @@
   "id": 118963891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.502637,51.208523,-1.502637,51.208523",
     "geom:latitude":51.208523,
     "geom:longitude":-1.502637,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Weyhill Road",
     "sg:city":"Andover",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":118963891,
-    "wof:lastmodified":1449053284,
+    "wof:lastmodified":1466282125,
     "wof:name":"Housekeepers",
     "wof:parent_id":101750345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.502637,51.208523,-1.502637,51.208523],
+  "bbox": [
+    -1.502637,
+    51.208523,
+    -1.502637,
+    51.208523
+],
   "geometry": {"coordinates":[-1.502637,51.208523],"type":"Point"}
 }

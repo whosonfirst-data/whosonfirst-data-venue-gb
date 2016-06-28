@@ -2,13 +2,14 @@
   "id": 253200151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.344999,51.407761,-1.344999,51.407761",
     "geom:latitude":51.407761,
     "geom:longitude":-1.344999,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Elmore Abbey, Church Lane, Speen",
     "sg:city":"Newbury",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":253200151,
-    "wof:lastmodified":1449064010,
+    "wof:lastmodified":1466261288,
     "wof:name":"Elmore Abbey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.344999,51.407761,-1.344999,51.407761],
+  "bbox": [
+    -1.344999,
+    51.407761,
+    -1.344999,
+    51.407761
+],
   "geometry": {"coordinates":[-1.344999,51.407761],"type":"Point"}
 }

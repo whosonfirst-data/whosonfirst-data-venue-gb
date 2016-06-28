@@ -2,13 +2,14 @@
   "id": 219370857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.588981,50.864395,0.588981,50.864395",
     "geom:latitude":50.864395,
     "geom:longitude":0.588981,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"45-47 Manor Road",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219370857,
-    "wof:lastmodified":1449072301,
+    "wof:lastmodified":1466256599,
     "wof:name":"Manor Road Mot Testing Station",
     "wof:parent_id":85789625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mot"
     ]
 },
-  "bbox": [0.588981,50.864395,0.588981,50.864395],
+  "bbox": [
+    0.588981,
+    50.864395,
+    0.588981,
+    50.864395
+],
   "geometry": {"coordinates":[0.588981,50.864395],"type":"Point"}
 }

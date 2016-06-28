@@ -2,13 +2,14 @@
   "id": 303206001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.008788,51.516193,0.008788,51.516193",
     "geom:latitude":51.516193,
     "geom:longitude":0.008788,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Barking Road",
     "sg:city":"Canning Town",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":303206001,
-    "wof:lastmodified":1448999779,
+    "wof:lastmodified":1466269003,
     "wof:name":"Amazing Grace",
     "wof:parent_id":85785815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.008788,51.516193,0.008788,51.516193],
+  "bbox": [
+    0.008788,
+    51.516193,
+    0.008788,
+    51.516193
+],
   "geometry": {"coordinates":[0.008788,51.516193],"type":"Point"}
 }

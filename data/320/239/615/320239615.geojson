@@ -2,13 +2,14 @@
   "id": 320239615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.881618,56.002949,-3.881618,56.002949",
     "geom:latitude":56.002949,
     "geom:longitude":-3.881618,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Croft Estate, Glasgow Road",
     "sg:city":"Bonnybridge",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320239615,
-    "wof:lastmodified":1449011597,
+    "wof:lastmodified":1466275216,
     "wof:name":"D & D Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [-3.881618,56.002949,-3.881618,56.002949],
+  "bbox": [
+    -3.881618,
+    56.002949,
+    -3.881618,
+    56.002949
+],
   "geometry": {"coordinates":[-3.881618,56.002949],"type":"Point"}
 }

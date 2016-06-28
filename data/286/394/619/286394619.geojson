@@ -2,13 +2,14 @@
   "id": 286394619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.355249,51.56348,-0.355249,51.56348",
     "geom:latitude":51.56348,
     "geom:longitude":-0.355249,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Dawson House, 278 Northolt Road",
     "sg:city":"Harrow",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286394619,
-    "wof:lastmodified":1449015734,
+    "wof:lastmodified":1466266291,
     "wof:name":"London Software House Ltd",
     "wof:parent_id":85859969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "software"
     ]
 },
-  "bbox": [-0.355249,51.56348,-0.355249,51.56348],
+  "bbox": [
+    -0.355249,
+    51.56348,
+    -0.355249,
+    51.56348
+],
   "geometry": {"coordinates":[-0.355249,51.56348],"type":"Point"}
 }

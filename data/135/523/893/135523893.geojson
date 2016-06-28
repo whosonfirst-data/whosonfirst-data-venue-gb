@@ -2,13 +2,14 @@
   "id": 135523893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.005009,52.319595,-2.005009,52.319595",
     "geom:latitude":52.319595,
     "geom:longitude":-2.005009,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Sheltwood Farm, Tardebigge",
     "sg:city":"Bromsgrove",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135523893,
-    "wof:lastmodified":1449022752,
+    "wof:lastmodified":1466277301,
     "wof:name":"S & A May",
     "wof:parent_id":85684259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.005009,52.319595,-2.005009,52.319595],
+  "bbox": [
+    -2.005009,
+    52.319595,
+    -2.005009,
+    52.319595
+],
   "geometry": {"coordinates":[-2.005009,52.319595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269656417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.73631,53.372017,-2.73631,53.372017",
     "geom:latitude":53.372017,
     "geom:longitude":-2.73631,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Shelley Road",
     "sg:city":"Widnes",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269656417,
-    "wof:lastmodified":1449037685,
+    "wof:lastmodified":1466265347,
     "wof:name":"Right Heating",
     "wof:parent_id":85787837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "heating"
     ]
 },
-  "bbox": [-2.73631,53.372017,-2.73631,53.372017],
+  "bbox": [
+    -2.73631,
+    53.372017,
+    -2.73631,
+    53.372017
+],
   "geometry": {"coordinates":[-2.73631,53.372017],"type":"Point"}
 }

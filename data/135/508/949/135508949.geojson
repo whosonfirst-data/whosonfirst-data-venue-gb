@@ -2,13 +2,14 @@
   "id": 135508949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.740184,51.117805,-2.740184,51.117805",
     "geom:latitude":51.117805,
     "geom:longitude":-2.740184,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Overleigh",
     "sg:city":"Street",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":135508949,
-    "wof:lastmodified":1449022697,
+    "wof:lastmodified":1466275531,
     "wof:name":"Capability Services",
     "wof:parent_id":101852537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.740184,51.117805,-2.740184,51.117805],
+  "bbox": [
+    -2.740184,
+    51.117805,
+    -2.740184,
+    51.117805
+],
   "geometry": {"coordinates":[-2.740184,51.117805],"type":"Point"}
 }

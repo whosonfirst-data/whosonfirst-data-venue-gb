@@ -2,13 +2,14 @@
   "id": 102726583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.010495,52.212185,-1.010495,52.212185",
     "geom:latitude":52.212185,
     "geom:longitude":-1.010495,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Camp Hill, Bugbrooke",
     "sg:city":"Northampton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102726583,
-    "wof:lastmodified":1449069449,
+    "wof:lastmodified":1466257389,
     "wof:name":"Meadow Studios",
     "wof:parent_id":85684325,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.010495,52.212185,-1.010495,52.212185],
+  "bbox": [
+    -1.010495,
+    52.212185,
+    -1.010495,
+    52.212185
+],
   "geometry": {"coordinates":[-1.010495,52.212185],"type":"Point"}
 }

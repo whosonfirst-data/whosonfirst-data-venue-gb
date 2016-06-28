@@ -2,13 +2,14 @@
   "id": 202862173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.070534,50.819462,-4.070534,50.819462",
     "geom:latitude":50.819462,
     "geom:longitude":-4.070534,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Cob Meadow, Hatherleigh",
     "sg:city":"Okehampton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202862173,
-    "wof:lastmodified":1449062732,
+    "wof:lastmodified":1466260119,
     "wof:name":"A & E Bater Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "engineer"
     ]
 },
-  "bbox": [-4.070534,50.819462,-4.070534,50.819462],
+  "bbox": [
+    -4.070534,
+    50.819462,
+    -4.070534,
+    50.819462
+],
   "geometry": {"coordinates":[-4.070534,50.819462],"type":"Point"}
 }

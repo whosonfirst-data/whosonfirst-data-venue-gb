@@ -2,13 +2,14 @@
   "id": 119410637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.148656,52.597507,-1.148656,52.597507",
     "geom:latitude":52.597507,
     "geom:longitude":-1.148656,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Eastwood Road",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119410637,
-    "wof:lastmodified":1449040914,
+    "wof:lastmodified":1466285674,
     "wof:name":"Eastwood News",
     "wof:parent_id":85785423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.148656,52.597507,-1.148656,52.597507],
+  "bbox": [
+    -1.148656,
+    52.597507,
+    -1.148656,
+    52.597507
+],
   "geometry": {"coordinates":[-1.148656,52.597507],"type":"Point"}
 }

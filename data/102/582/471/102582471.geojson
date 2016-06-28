@@ -2,13 +2,14 @@
   "id": 102582471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.356046,54.504452,-1.356046,54.504452",
     "geom:latitude":54.504452,
     "geom:longitude":-1.356046,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Worsall Road",
     "sg:city":"Yarm",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102582471,
-    "wof:lastmodified":1449069044,
+    "wof:lastmodified":1466275176,
     "wof:name":"Yarm Medical Centre",
     "wof:parent_id":85683777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.356046,54.504452,-1.356046,54.504452],
+  "bbox": [
+    -1.356046,
+    54.504452,
+    -1.356046,
+    54.504452
+],
   "geometry": {"coordinates":[-1.356046,54.504452],"type":"Point"}
 }

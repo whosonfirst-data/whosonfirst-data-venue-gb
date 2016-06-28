@@ -2,13 +2,14 @@
   "id": 135619183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.975027,55.963528,-3.975027,55.963528",
     "geom:latitude":55.963528,
     "geom:longitude":-3.975027,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 The Wynd, Cumbernauld",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":135619183,
-    "wof:lastmodified":1449021517,
+    "wof:lastmodified":1466283581,
     "wof:name":"M.G Photography",
     "wof:parent_id":101750633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.975027,55.963528,-3.975027,55.963528],
+  "bbox": [
+    -3.975027,
+    55.963528,
+    -3.975027,
+    55.963528
+],
   "geometry": {"coordinates":[-3.975027,55.963528],"type":"Point"}
 }

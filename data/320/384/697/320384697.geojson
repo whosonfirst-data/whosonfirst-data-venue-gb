@@ -2,13 +2,14 @@
   "id": 320384697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.147532,51.599545,-0.147532,51.599545",
     "geom:latitude":51.599545,
     "geom:longitude":-0.147532,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Colney Hatch Lane, Muswell Hill",
     "sg:city":"London",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320384697,
-    "wof:lastmodified":1449011714,
+    "wof:lastmodified":1466279112,
     "wof:name":"Thresher Wine Merchants",
     "wof:parent_id":85789245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wines"
     ]
 },
-  "bbox": [-0.147532,51.599545,-0.147532,51.599545],
+  "bbox": [
+    -0.147532,
+    51.599545,
+    -0.147532,
+    51.599545
+],
   "geometry": {"coordinates":[-0.147532,51.599545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220135367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.215428,53.01223,-2.215428,53.01223",
     "geom:latitude":53.01223,
     "geom:longitude":-2.215428,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"82 George Street",
     "sg:city":"Newcastle",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220135367,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466255374,
     "wof:name":"Vacrite",
     "wof:parent_id":85789031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-2.215428,53.01223,-2.215428,53.01223],
+  "bbox": [
+    -2.215428,
+    53.01223,
+    -2.215428,
+    53.01223
+],
   "geometry": {"coordinates":[-2.215428,53.01223],"type":"Point"}
 }

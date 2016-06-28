@@ -2,13 +2,14 @@
   "id": 320014243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.479742,53.023491,-1.479742,53.023491",
     "geom:latitude":53.023491,
     "geom:longitude":-1.479742,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2, 65 King St, Belper",
     "sg:city":"Belper",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":320014243,
-    "wof:lastmodified":1449013098,
+    "wof:lastmodified":1466268545,
     "wof:name":"Derwent Scaffolding",
     "wof:parent_id":85789983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "scaffolding"
     ]
 },
-  "bbox": [-1.479742,53.023491,-1.479742,53.023491],
+  "bbox": [
+    -1.479742,
+    53.023491,
+    -1.479742,
+    53.023491
+],
   "geometry": {"coordinates":[-1.479742,53.023491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119510345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.211245,53.012379,-2.211245,53.012379",
     "geom:latitude":53.012379,
     "geom:longitude":-2.211245,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Shelton New Rd",
     "sg:city":"Stoke-on-trent",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119510345,
-    "wof:lastmodified":1449042451,
+    "wof:lastmodified":1466287154,
     "wof:name":"Artysans",
     "wof:parent_id":85787299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.211245,53.012379,-2.211245,53.012379],
+  "bbox": [
+    -2.211245,
+    53.012379,
+    -2.211245,
+    53.012379
+],
   "geometry": {"coordinates":[-2.211245,53.012379],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135358887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.057249,52.589809,-2.057249,52.589809",
     "geom:latitude":52.589809,
     "geom:longitude":-2.057249,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Wednesfield Road",
     "sg:city":"Willenhall",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":135358887,
-    "wof:lastmodified":1449022270,
+    "wof:lastmodified":1466258217,
     "wof:name":"The Golden Bowl",
     "wof:parent_id":85785623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.057249,52.589809,-2.057249,52.589809],
+  "bbox": [
+    -2.057249,
+    52.589809,
+    -2.057249,
+    52.589809
+],
   "geometry": {"coordinates":[-2.057249,52.589809],"type":"Point"}
 }

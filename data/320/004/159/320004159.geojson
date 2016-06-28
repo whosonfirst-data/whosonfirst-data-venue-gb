@@ -2,13 +2,14 @@
   "id": 320004159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.879322,50.747684,-1.879322,50.747684",
     "geom:latitude":50.747684,
     "geom:longitude":-1.879322,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Jameson Rd, Winton",
     "sg:city":"Bournemouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":320004159,
-    "wof:lastmodified":1449012640,
+    "wof:lastmodified":1466268215,
     "wof:name":"RPM Auto Services",
     "wof:parent_id":85791709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garage"
     ]
 },
-  "bbox": [-1.879322,50.747684,-1.879322,50.747684],
+  "bbox": [
+    -1.879322,
+    50.747684,
+    -1.879322,
+    50.747684
+],
   "geometry": {"coordinates":[-1.879322,50.747684],"type":"Point"}
 }

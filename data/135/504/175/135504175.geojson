@@ -2,13 +2,14 @@
   "id": 135504175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.435969,50.546902,-2.435969,50.546902",
     "geom:latitude":50.546902,
     "geom:longitude":-2.435969,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Eastville Cotts, Weston Road",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":135504175,
-    "wof:lastmodified":1449021498,
+    "wof:lastmodified":1466274982,
     "wof:name":"Fred Cann",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.435969,50.546902,-2.435969,50.546902],
+  "bbox": [
+    -2.435969,
+    50.546902,
+    -2.435969,
+    50.546902
+],
   "geometry": {"coordinates":[-2.435969,50.546902],"type":"Point"}
 }

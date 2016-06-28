@@ -2,13 +2,14 @@
   "id": 119082623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.446141,52.904469,-1.446141,52.904469",
     "geom:latitude":52.904469,
     "geom:longitude":-1.446141,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"819 London Rd",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119082623,
-    "wof:lastmodified":1449040954,
+    "wof:lastmodified":1466256857,
     "wof:name":"A-plant",
     "wof:parent_id":85789757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.446141,52.904469,-1.446141,52.904469],
+  "bbox": [
+    -1.446141,
+    52.904469,
+    -1.446141,
+    52.904469
+],
   "geometry": {"coordinates":[-1.446141,52.904469],"type":"Point"}
 }

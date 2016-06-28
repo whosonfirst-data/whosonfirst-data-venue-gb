@@ -2,13 +2,14 @@
   "id": 119393431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.89071,56.64357,-2.89071,56.64357",
     "geom:latitude":56.64357,
     "geom:longitude":-2.89071,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"40 West High Street",
     "sg:city":"Forfar",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119393431,
-    "wof:lastmodified":1449041619,
+    "wof:lastmodified":1466284887,
     "wof:name":"David Guild",
     "wof:parent_id":101872627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.89071,56.64357,-2.89071,56.64357],
+  "bbox": [
+    -2.89071,
+    56.64357,
+    -2.89071,
+    56.64357
+],
   "geometry": {"coordinates":[-2.89071,56.64357],"type":"Point"}
 }

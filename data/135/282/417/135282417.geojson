@@ -2,13 +2,14 @@
   "id": 135282417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.569056,50.437389,-3.569056,50.437389",
     "geom:latitude":50.437389,
     "geom:longitude":-3.569056,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Church Street",
     "sg:city":"Paignton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":135282417,
-    "wof:lastmodified":1449022909,
+    "wof:lastmodified":1466275666,
     "wof:name":"St.Cecilia's",
     "wof:parent_id":101750299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-3.569056,50.437389,-3.569056,50.437389],
+  "bbox": [
+    -3.569056,
+    50.437389,
+    -3.569056,
+    50.437389
+],
   "geometry": {"coordinates":[-3.569056,50.437389],"type":"Point"}
 }

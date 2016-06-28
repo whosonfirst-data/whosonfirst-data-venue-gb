@@ -2,13 +2,14 @@
   "id": 303176587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.434904,53.601505,-2.434904,53.601505",
     "geom:latitude":53.601505,
     "geom:longitude":-2.434904,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Warwick Street Yard, Warwick Street",
     "sg:city":"Bolton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":303176587,
-    "wof:lastmodified":1448999714,
+    "wof:lastmodified":1466268014,
     "wof:name":"Village Motors",
     "wof:parent_id":85792981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.434904,53.601505,-2.434904,53.601505],
+  "bbox": [
+    -2.434904,
+    53.601505,
+    -2.434904,
+    53.601505
+],
   "geometry": {"coordinates":[-2.434904,53.601505],"type":"Point"}
 }

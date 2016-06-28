@@ -2,13 +2,14 @@
   "id": 320516133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.950239,57.539349,-2.950239,57.539349",
     "geom:latitude":57.539349,
     "geom:longitude":-2.950239,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Mid Street",
     "sg:city":"Keith",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320516133,
-    "wof:lastmodified":1449011977,
+    "wof:lastmodified":1466281545,
     "wof:name":"Websters Butchers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "butcher"
     ]
 },
-  "bbox": [-2.950239,57.539349,-2.950239,57.539349],
+  "bbox": [
+    -2.950239,
+    57.539349,
+    -2.950239,
+    57.539349
+],
   "geometry": {"coordinates":[-2.950239,57.539349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 135686409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.04244,53.797241,-1.04244,53.797241",
     "geom:latitude":53.797241,
     "geom:longitude":-1.04244,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Acorn Close, Barlby",
     "sg:city":"Selby",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":135686409,
-    "wof:lastmodified":1449023294,
+    "wof:lastmodified":1466285621,
     "wof:name":"Anytime Skips",
     "wof:parent_id":85683811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.04244,53.797241,-1.04244,53.797241],
+  "bbox": [
+    -1.04244,
+    53.797241,
+    -1.04244,
+    53.797241
+],
   "geometry": {"coordinates":[-1.04244,53.797241],"type":"Point"}
 }

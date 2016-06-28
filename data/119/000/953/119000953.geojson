@@ -2,13 +2,14 @@
   "id": 119000953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.099234,52.574341,-2.099234,52.574341",
     "geom:latitude":52.574341,
     "geom:longitude":-2.099234,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 Cullwick Court, Cullwick Street",
     "sg:city":"Wolverhampton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119000953,
-    "wof:lastmodified":1449041247,
+    "wof:lastmodified":1466252691,
     "wof:name":"Merry Marketing",
     "wof:parent_id":85789157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.099234,52.574341,-2.099234,52.574341],
+  "bbox": [
+    -2.099234,
+    52.574341,
+    -2.099234,
+    52.574341
+],
   "geometry": {"coordinates":[-2.099234,52.574341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287092083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.949308,53.398335,-2.949308,53.398335",
     "geom:latitude":53.398335,
     "geom:longitude":-2.949308,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Smithdown Road",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":287092083,
-    "wof:lastmodified":1449001391,
+    "wof:lastmodified":1466265757,
     "wof:name":"Grandma's Bakery",
     "wof:parent_id":85787241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-2.949308,53.398335,-2.949308,53.398335],
+  "bbox": [
+    -2.949308,
+    53.398335,
+    -2.949308,
+    53.398335
+],
   "geometry": {"coordinates":[-2.949308,53.398335],"type":"Point"}
 }

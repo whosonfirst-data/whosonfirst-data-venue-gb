@@ -2,13 +2,14 @@
   "id": 202712683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.142981,52.641666,-1.142981,52.641666",
     "geom:latitude":52.641666,
     "geom:longitude":-1.142981,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Cundy House, 31 Frog Island",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202712683,
-    "wof:lastmodified":1449061203,
+    "wof:lastmodified":1466257624,
     "wof:name":"Jackson Rowe Associates",
     "wof:parent_id":85792039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "quantity"
     ]
 },
-  "bbox": [-1.142981,52.641666,-1.142981,52.641666],
+  "bbox": [
+    -1.142981,
+    52.641666,
+    -1.142981,
+    52.641666
+],
   "geometry": {"coordinates":[-1.142981,52.641666],"type":"Point"}
 }

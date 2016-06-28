@@ -2,13 +2,14 @@
   "id": 336860583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.425378,56.066059,-3.425378,56.066059",
     "geom:latitude":56.066059,
     "geom:longitude":-3.425378,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Abbey View",
     "sg:city":"Dunfermline",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":336860583,
-    "wof:lastmodified":1448997430,
+    "wof:lastmodified":1466279535,
     "wof:name":"A 1 Private Hire",
     "wof:parent_id":85791133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "private"
     ]
 },
-  "bbox": [-3.425378,56.066059,-3.425378,56.066059],
+  "bbox": [
+    -3.425378,
+    56.066059,
+    -3.425378,
+    56.066059
+],
   "geometry": {"coordinates":[-3.425378,56.066059],"type":"Point"}
 }

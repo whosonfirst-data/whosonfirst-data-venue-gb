@@ -2,13 +2,14 @@
   "id": 202422457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.786616,51.546402,-1.786616,51.546402",
     "geom:latitude":51.546402,
     "geom:longitude":-1.786616,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Belmont Crescent",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202422457,
-    "wof:lastmodified":1449060286,
+    "wof:lastmodified":1466252951,
     "wof:name":"Westlecot Nursing & Residential Home",
     "wof:parent_id":85791513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-1.786616,51.546402,-1.786616,51.546402],
+  "bbox": [
+    -1.786616,
+    51.546402,
+    -1.786616,
+    51.546402
+],
   "geometry": {"coordinates":[-1.786616,51.546402],"type":"Point"}
 }

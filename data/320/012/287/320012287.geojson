@@ -2,13 +2,14 @@
   "id": 320012287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.082556,51.523109,-0.082556,51.523109",
     "geom:latitude":51.523109,
     "geom:longitude":-0.082556,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Stpaleton House, 29 - 33 Scrutton Street",
     "sg:city":"London",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320012287,
-    "wof:lastmodified":1449014587,
+    "wof:lastmodified":1466268490,
     "wof:name":"The Breast Cancer Campaign",
     "wof:parent_id":85861639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "charity"
     ]
 },
-  "bbox": [-0.082556,51.523109,-0.082556,51.523109],
+  "bbox": [
+    -0.082556,
+    51.523109,
+    -0.082556,
+    51.523109
+],
   "geometry": {"coordinates":[-0.082556,51.523109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286779667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.119555,52.527649,-2.119555,52.527649",
     "geom:latitude":52.527649,
     "geom:longitude":-2.119555,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Windmill Street, Upper Gornal",
     "sg:city":"Dudley",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286779667,
-    "wof:lastmodified":1449015616,
+    "wof:lastmodified":1466278147,
     "wof:name":"The Old Mill",
     "wof:parent_id":85791793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-2.119555,52.527649,-2.119555,52.527649],
+  "bbox": [
+    -2.119555,
+    52.527649,
+    -2.119555,
+    52.527649
+],
   "geometry": {"coordinates":[-2.119555,52.527649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185653715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.60442,55.006851,-1.60442,55.006851",
     "geom:latitude":55.006851,
     "geom:longitude":-1.60442,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Tenerife Buildings, Station Rd",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185653715,
-    "wof:lastmodified":1449006721,
+    "wof:lastmodified":1466252827,
     "wof:name":"Hadrian Travel",
     "wof:parent_id":85790431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.60442,55.006851,-1.60442,55.006851],
+  "bbox": [
+    -1.60442,
+    55.006851,
+    -1.60442,
+    55.006851
+],
   "geometry": {"coordinates":[-1.60442,55.006851],"type":"Point"}
 }

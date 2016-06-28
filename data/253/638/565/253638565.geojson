@@ -2,13 +2,14 @@
   "id": 253638565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.310599,54.570633,-1.310599,54.570633",
     "geom:latitude":54.570633,
     "geom:longitude":-1.310599,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Major St",
     "sg:city":"Stockton-on-tees",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":253638565,
-    "wof:lastmodified":1449062986,
+    "wof:lastmodified":1466272333,
     "wof:name":"St Cuthberts Care",
     "wof:parent_id":85785205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "charity"
     ]
 },
-  "bbox": [-1.310599,54.570633,-1.310599,54.570633],
+  "bbox": [
+    -1.310599,
+    54.570633,
+    -1.310599,
+    54.570633
+],
   "geometry": {"coordinates":[-1.310599,54.570633],"type":"Point"}
 }

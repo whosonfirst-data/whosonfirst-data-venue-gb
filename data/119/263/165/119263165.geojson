@@ -2,13 +2,14 @@
   "id": 119263165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.015272,50.158306,-5.015272,50.158306",
     "geom:latitude":50.158306,
     "geom:longitude":-5.015272,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 The Quay, St Mawes",
     "sg:city":"Truro",
     "sg:classifiers":[
@@ -32,14 +33,20 @@
     "wof:geomhash":"1b2300a2fb82ed2d23c04ad10ddc6402",
     "wof:hierarchy":[],
     "wof:id":119263165,
-    "wof:lastmodified":1449043485,
+    "wof:lastmodified":1466276209,
     "wof:name":"St Mawes Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.015272,50.158306,-5.015272,50.158306],
+  "bbox": [
+    -5.015272,
+    50.158306,
+    -5.015272,
+    50.158306
+],
   "geometry": {"coordinates":[-5.015272,50.158306],"type":"Point"}
 }

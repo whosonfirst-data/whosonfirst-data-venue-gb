@@ -2,13 +2,14 @@
   "id": 270109387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.50972,52.446266,-1.50972,52.446266",
     "geom:latitude":52.446266,
     "geom:longitude":-1.50972,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Wheelwright Lane",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":270109387,
-    "wof:lastmodified":1449009490,
+    "wof:lastmodified":1466263761,
     "wof:name":"Phoenix News",
     "wof:parent_id":85864245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-1.50972,52.446266,-1.50972,52.446266],
+  "bbox": [
+    -1.50972,
+    52.446266,
+    -1.50972,
+    52.446266
+],
   "geometry": {"coordinates":[-1.50972,52.446266],"type":"Point"}
 }

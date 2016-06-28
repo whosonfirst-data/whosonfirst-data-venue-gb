@@ -2,13 +2,14 @@
   "id": 303462807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.52323,51.27388,0.52323,51.27388",
     "geom:latitude":51.27388,
     "geom:longitude":0.52323,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Drakes, 9 Fairmeadow",
     "sg:city":"Maidstone",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303462807,
-    "wof:lastmodified":1449000469,
+    "wof:lastmodified":1466276851,
     "wof:name":"Drakes",
     "wof:parent_id":85791409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [0.52323,51.27388,0.52323,51.27388],
+  "bbox": [
+    0.52323,
+    51.27388,
+    0.52323,
+    51.27388
+],
   "geometry": {"coordinates":[0.52323,51.27388],"type":"Point"}
 }

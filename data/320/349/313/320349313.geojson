@@ -2,13 +2,14 @@
   "id": 320349313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.116141,52.615597,-1.116141,52.615597",
     "geom:latitude":52.615597,
     "geom:longitude":-1.116141,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Avenue Road Extension",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":320349313,
-    "wof:lastmodified":1449012690,
+    "wof:lastmodified":1466278697,
     "wof:name":"Quality Fish & Chips",
     "wof:parent_id":85861117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chip"
     ]
 },
-  "bbox": [-1.116141,52.615597,-1.116141,52.615597],
+  "bbox": [
+    -1.116141,
+    52.615597,
+    -1.116141,
+    52.615597
+],
   "geometry": {"coordinates":[-1.116141,52.615597],"type":"Point"}
 }

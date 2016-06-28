@@ -2,13 +2,14 @@
   "id": 119520551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.65711,51.49461,-2.65711,51.49461",
     "geom:latitude":51.49461,
     "geom:longitude":-2.65711,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Ferndown Close",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119520551,
-    "wof:lastmodified":1449041662,
+    "wof:lastmodified":1466287144,
     "wof:name":"I B C C",
     "wof:parent_id":85790207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.65711,51.49461,-2.65711,51.49461],
+  "bbox": [
+    -2.65711,
+    51.49461,
+    -2.65711,
+    51.49461
+],
   "geometry": {"coordinates":[-2.65711,51.49461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203194571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.129225,52.92675,-1.129225,52.92675",
     "geom:latitude":52.92675,
     "geom:longitude":-1.129225,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Melton Road, West Bridgford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203194571,
-    "wof:lastmodified":1449026581,
+    "wof:lastmodified":1466255910,
     "wof:name":"Sixty Six Software",
     "wof:parent_id":85861911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "software"
     ]
 },
-  "bbox": [-1.129225,52.92675,-1.129225,52.92675],
+  "bbox": [
+    -1.129225,
+    52.92675,
+    -1.129225,
+    52.92675
+],
   "geometry": {"coordinates":[-1.129225,52.92675],"type":"Point"}
 }

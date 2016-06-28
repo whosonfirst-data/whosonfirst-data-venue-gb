@@ -2,13 +2,14 @@
   "id": 304008503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.338619,51.397526,-2.338619,51.397526",
     "geom:latitude":51.397526,
     "geom:longitude":-2.338619,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"108 London Road West",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":304008503,
-    "wof:lastmodified":1449043745,
+    "wof:lastmodified":1466264462,
     "wof:name":"Rowles",
     "wof:parent_id":85790855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "filling"
     ]
 },
-  "bbox": [-2.338619,51.397526,-2.338619,51.397526],
+  "bbox": [
+    -2.338619,
+    51.397526,
+    -2.338619,
+    51.397526
+],
   "geometry": {"coordinates":[-2.338619,51.397526],"type":"Point"}
 }

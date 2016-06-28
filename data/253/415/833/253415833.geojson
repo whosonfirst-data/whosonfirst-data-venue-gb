@@ -2,13 +2,14 @@
   "id": 253415833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.42648,55.851337,-4.42648,55.851337",
     "geom:latitude":55.851337,
     "geom:longitude":-4.42648,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Love Street",
     "sg:city":"Paisley",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253415833,
-    "wof:lastmodified":1449064959,
+    "wof:lastmodified":1466265926,
     "wof:name":"Abercorn Auto-Electrics",
     "wof:parent_id":85786323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-4.42648,55.851337,-4.42648,55.851337],
+  "bbox": [
+    -4.42648,
+    55.851337,
+    -4.42648,
+    55.851337
+],
   "geometry": {"coordinates":[-4.42648,55.851337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303063523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.747704,51.583328,-1.747704,51.583328",
     "geom:latitude":51.583328,
     "geom:longitude":-1.747704,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Ermin St",
     "sg:city":"Swindon",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303063523,
-    "wof:lastmodified":1448998331,
+    "wof:lastmodified":1466264374,
     "wof:name":"Richard Ellis",
     "wof:parent_id":85791245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-1.747704,51.583328,-1.747704,51.583328],
+  "bbox": [
+    -1.747704,
+    51.583328,
+    -1.747704,
+    51.583328
+],
   "geometry": {"coordinates":[-1.747704,51.583328],"type":"Point"}
 }

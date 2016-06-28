@@ -2,13 +2,14 @@
   "id": 185627425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.61723,54.970131,-1.61723,54.970131",
     "geom:latitude":54.970131,
     "geom:longitude":-1.61723,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Fenkle St, Westgate Rd",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185627425,
-    "wof:lastmodified":1449008252,
+    "wof:lastmodified":1466277651,
     "wof:name":"Royale Club",
     "wof:parent_id":85861857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-1.61723,54.970131,-1.61723,54.970131],
+  "bbox": [
+    -1.61723,
+    54.970131,
+    -1.61723,
+    54.970131
+],
   "geometry": {"coordinates":[-1.61723,54.970131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336620545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.46349,53.43845,-1.46349,53.43845",
     "geom:latitude":53.43845,
     "geom:longitude":-1.46349,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"122 High Street, Ecclesfield",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336620545,
-    "wof:lastmodified":1448997927,
+    "wof:lastmodified":1466273378,
     "wof:name":"Greyhound Hotel",
     "wof:parent_id":85787791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-1.46349,53.43845,-1.46349,53.43845],
+  "bbox": [
+    -1.46349,
+    53.43845,
+    -1.46349,
+    53.43845
+],
   "geometry": {"coordinates":[-1.46349,53.43845],"type":"Point"}
 }

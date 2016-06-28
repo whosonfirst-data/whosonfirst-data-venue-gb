@@ -2,13 +2,14 @@
   "id": 135394565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.119874,52.003357,-2.119874,52.003357",
     "geom:latitude":52.003357,
     "geom:longitude":-2.119874,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Oak Dr",
     "sg:city":"Tewkesbury",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":135394565,
-    "wof:lastmodified":1449021565,
+    "wof:lastmodified":1466262012,
     "wof:name":"Tewkesbury Taxis",
     "wof:parent_id":85683931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.119874,52.003357,-2.119874,52.003357],
+  "bbox": [
+    -2.119874,
+    52.003357,
+    -2.119874,
+    52.003357
+],
   "geometry": {"coordinates":[-2.119874,52.003357],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303139887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.419525,52.532631,-2.419525,52.532631",
     "geom:latitude":52.532631,
     "geom:longitude":-2.419525,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"West Castle Street",
     "sg:city":"Bridgnorth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":303139887,
-    "wof:lastmodified":1448998351,
+    "wof:lastmodified":1466266865,
     "wof:name":"Shakespeare Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "inn"
     ]
 },
-  "bbox": [-2.419525,52.532631,-2.419525,52.532631],
+  "bbox": [
+    -2.419525,
+    52.532631,
+    -2.419525,
+    52.532631
+],
   "geometry": {"coordinates":[-2.419525,52.532631],"type":"Point"}
 }

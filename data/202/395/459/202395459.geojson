@@ -2,13 +2,14 @@
   "id": 202395459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.56544,51.254929,-0.56544,51.254929",
     "geom:latitude":51.254929,
     "geom:longitude":-0.56544,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Testing Station, Woking Road Depot",
     "sg:city":"Guildford",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202395459,
-    "wof:lastmodified":1449062288,
+    "wof:lastmodified":1466277946,
     "wof:name":"Guildford Borough Council",
     "wof:parent_id":85790795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-0.56544,51.254929,-0.56544,51.254929],
+  "bbox": [
+    -0.56544,
+    51.254929,
+    -0.56544,
+    51.254929
+],
   "geometry": {"coordinates":[-0.56544,51.254929],"type":"Point"}
 }

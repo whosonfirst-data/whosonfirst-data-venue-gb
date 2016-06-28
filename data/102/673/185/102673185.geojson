@@ -2,13 +2,14 @@
   "id": 102673185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.56317,51.543869,-2.56317,51.543869",
     "geom:latitude":51.543869,
     "geom:longitude":-2.56317,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Manor Farm Ho, Woodlands Grange, Woodlands La",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102673185,
-    "wof:lastmodified":1449068702,
+    "wof:lastmodified":1466255391,
     "wof:name":"Fluid Pumps",
     "wof:parent_id":85785427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.56317,51.543869,-2.56317,51.543869],
+  "bbox": [
+    -2.56317,
+    51.543869,
+    -2.56317,
+    51.543869
+],
   "geometry": {"coordinates":[-2.56317,51.543869],"type":"Point"}
 }

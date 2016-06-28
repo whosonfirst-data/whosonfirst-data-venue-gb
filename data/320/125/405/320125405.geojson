@@ -2,13 +2,14 @@
   "id": 320125405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.608484,50.530865,-3.608484,50.530865",
     "geom:latitude":50.530865,
     "geom:longitude":-3.608484,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"29a Queen Street",
     "sg:city":"Newton Abbot",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":320125405,
-    "wof:lastmodified":1449014836,
+    "wof:lastmodified":1466271846,
     "wof:name":"Fisher Bell & Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-3.608484,50.530865,-3.608484,50.530865],
+  "bbox": [
+    -3.608484,
+    50.530865,
+    -3.608484,
+    50.530865
+],
   "geometry": {"coordinates":[-3.608484,50.530865],"type":"Point"}
 }

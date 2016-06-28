@@ -2,13 +2,14 @@
   "id": 303793925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.999163,53.464886,-2.999163,53.464886",
     "geom:latitude":53.464886,
     "geom:longitude":-2.999163,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Linacre Road",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":303793925,
-    "wof:lastmodified":1448999465,
+    "wof:lastmodified":1466283105,
     "wof:name":"Litherland Library",
     "wof:parent_id":85790225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "book"
     ]
 },
-  "bbox": [-2.999163,53.464886,-2.999163,53.464886],
+  "bbox": [
+    -2.999163,
+    53.464886,
+    -2.999163,
+    53.464886
+],
   "geometry": {"coordinates":[-2.999163,53.464886],"type":"Point"}
 }

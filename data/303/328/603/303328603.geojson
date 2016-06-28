@@ -2,13 +2,14 @@
   "id": 303328603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.315793,50.085625,-5.315793,50.085625",
     "geom:latitude":50.085625,
     "geom:longitude":-5.315793,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Fore Street, Porthleven",
     "sg:city":"Helston",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303328603,
-    "wof:lastmodified":1448999564,
+    "wof:lastmodified":1466272712,
     "wof:name":"The Harbour Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newsagent"
     ]
 },
-  "bbox": [-5.315793,50.085625,-5.315793,50.085625],
+  "bbox": [
+    -5.315793,
+    50.085625,
+    -5.315793,
+    50.085625
+],
   "geometry": {"coordinates":[-5.315793,50.085625],"type":"Point"}
 }

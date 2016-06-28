@@ -2,13 +2,14 @@
   "id": 219573655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.314291,53.416008,-1.314291,53.416008",
     "geom:latitude":53.416008,
     "geom:longitude":-1.314291,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Lathe Rd, Whiston",
     "sg:city":"Rotherham",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219573655,
-    "wof:lastmodified":1449073008,
+    "wof:lastmodified":1466259988,
     "wof:name":"PC Plastering",
     "wof:parent_id":85787447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "screeders"
     ]
 },
-  "bbox": [-1.314291,53.416008,-1.314291,53.416008],
+  "bbox": [
+    -1.314291,
+    53.416008,
+    -1.314291,
+    53.416008
+],
   "geometry": {"coordinates":[-1.314291,53.416008],"type":"Point"}
 }

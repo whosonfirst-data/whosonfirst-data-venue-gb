@@ -2,13 +2,14 @@
   "id": 320058347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.611312,51.870319,-1.611312,51.870319",
     "geom:latitude":51.870319,
     "geom:longitude":-1.611312,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Lyneham",
     "sg:city":"Chipping Norton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320058347,
-    "wof:lastmodified":1449011806,
+    "wof:lastmodified":1466269826,
     "wof:name":"The Wychwood Golf Club Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "course"
     ]
 },
-  "bbox": [-1.611312,51.870319,-1.611312,51.870319],
+  "bbox": [
+    -1.611312,
+    51.870319,
+    -1.611312,
+    51.870319
+],
   "geometry": {"coordinates":[-1.611312,51.870319],"type":"Point"}
 }

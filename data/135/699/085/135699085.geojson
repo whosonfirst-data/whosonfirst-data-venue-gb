@@ -2,13 +2,14 @@
   "id": 135699085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.044961,52.535744,-1.044961,52.535744",
     "geom:latitude":52.535744,
     "geom:longitude":-1.044961,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26-30 High St",
     "sg:city":"Leicester",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135699085,
-    "wof:lastmodified":1449021397,
+    "wof:lastmodified":1466285778,
     "wof:name":"Springfields",
     "wof:parent_id":85683891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.044961,52.535744,-1.044961,52.535744],
+  "bbox": [
+    -1.044961,
+    52.535744,
+    -1.044961,
+    52.535744
+],
   "geometry": {"coordinates":[-1.044961,52.535744],"type":"Point"}
 }

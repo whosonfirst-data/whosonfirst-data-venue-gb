@@ -2,13 +2,14 @@
   "id": 203305915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.509047,55.186256,-1.509047,55.186256",
     "geom:latitude":55.186256,
     "geom:longitude":-1.509047,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Front Street",
     "sg:city":"Newbiggin-by-the-sea",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203305915,
-    "wof:lastmodified":1449025226,
+    "wof:lastmodified":1466257962,
     "wof:name":"Continental Pizza Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pizza"
     ]
 },
-  "bbox": [-1.509047,55.186256,-1.509047,55.186256],
+  "bbox": [
+    -1.509047,
+    55.186256,
+    -1.509047,
+    55.186256
+],
   "geometry": {"coordinates":[-1.509047,55.186256],"type":"Point"}
 }

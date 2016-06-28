@@ -2,13 +2,14 @@
   "id": 202797167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.946646,55.118099,-1.946646,55.118099",
     "geom:latitude":55.118099,
     "geom:longitude":-1.946646,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Bavington Mount Farm, Capheaton",
     "sg:city":"Newcastle Upon Tyne",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202797167,
-    "wof:lastmodified":1449062398,
+    "wof:lastmodified":1466259056,
     "wof:name":"John Hogg Haulage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "road"
     ]
 },
-  "bbox": [-1.946646,55.118099,-1.946646,55.118099],
+  "bbox": [
+    -1.946646,
+    55.118099,
+    -1.946646,
+    55.118099
+],
   "geometry": {"coordinates":[-1.946646,55.118099],"type":"Point"}
 }

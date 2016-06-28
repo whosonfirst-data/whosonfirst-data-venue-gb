@@ -2,13 +2,14 @@
   "id": 119126975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.373983,51.782288,-1.373983,51.782288",
     "geom:latitude":51.782288,
     "geom:longitude":-1.373983,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Mill Street, Eynsham",
     "sg:city":"Witney",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119126975,
-    "wof:lastmodified":1449041760,
+    "wof:lastmodified":1466261478,
     "wof:name":"Eynsham Library",
     "wof:parent_id":101852921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.373983,51.782288,-1.373983,51.782288],
+  "bbox": [
+    -1.373983,
+    51.782288,
+    -1.373983,
+    51.782288
+],
   "geometry": {"coordinates":[-1.373983,51.782288],"type":"Point"}
 }

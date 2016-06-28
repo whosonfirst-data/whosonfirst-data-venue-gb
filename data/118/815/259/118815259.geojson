@@ -2,13 +2,14 @@
   "id": 118815259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.25129,53.484619,-2.25129,53.484619",
     "geom:latitude":53.484619,
     "geom:longitude":-2.25129,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Caxton Hall, 88-92 Chapel Street",
     "sg:city":"Salford",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":118815259,
-    "wof:lastmodified":1449053826,
+    "wof:lastmodified":1466273889,
     "wof:name":"Complete Interior Contracts",
     "wof:parent_id":85793003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.25129,53.484619,-2.25129,53.484619],
+  "bbox": [
+    -2.25129,
+    53.484619,
+    -2.25129,
+    53.484619
+],
   "geometry": {"coordinates":[-2.25129,53.484619],"type":"Point"}
 }

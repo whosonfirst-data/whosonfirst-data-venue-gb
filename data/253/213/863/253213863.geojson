@@ -2,13 +2,14 @@
   "id": 253213863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.123554,51.20816,-4.123554,51.20816",
     "geom:latitude":51.20816,
     "geom:longitude":-4.123554,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Medical Centre, St Brannocks Road",
     "sg:city":"Ilfracombe",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":253213863,
-    "wof:lastmodified":1449062853,
+    "wof:lastmodified":1466261532,
     "wof:name":"B Z B PHARMACY",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "chemist"
     ]
 },
-  "bbox": [-4.123554,51.20816,-4.123554,51.20816],
+  "bbox": [
+    -4.123554,
+    51.20816,
+    -4.123554,
+    51.20816
+],
   "geometry": {"coordinates":[-4.123554,51.20816],"type":"Point"}
 }

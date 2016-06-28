@@ -2,13 +2,14 @@
   "id": 320546413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.007198,55.771725,-2.007198,55.771725",
     "geom:latitude":55.771725,
     "geom:longitude":-2.007198,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Castlegate",
     "sg:city":"Berwick Upon Tweed",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":320546413,
-    "wof:lastmodified":1449011252,
+    "wof:lastmodified":1466282028,
     "wof:name":"Communications Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.007198,55.771725,-2.007198,55.771725],
+  "bbox": [
+    -2.007198,
+    55.771725,
+    -2.007198,
+    55.771725
+],
   "geometry": {"coordinates":[-2.007198,55.771725],"type":"Point"}
 }

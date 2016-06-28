@@ -2,13 +2,14 @@
   "id": 118882095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.496012,52.888245,-1.496012,52.888245",
     "geom:latitude":52.888245,
     "geom:longitude":-1.496012,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Donington Close, Sunnyhill",
     "sg:city":"Derby",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":118882095,
-    "wof:lastmodified":1449053385,
+    "wof:lastmodified":1466278620,
     "wof:name":"Donington Close Sheltered Housing",
     "wof:parent_id":85790837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.496012,52.888245,-1.496012,52.888245],
+  "bbox": [
+    -1.496012,
+    52.888245,
+    -1.496012,
+    52.888245
+],
   "geometry": {"coordinates":[-1.496012,52.888245],"type":"Point"}
 }

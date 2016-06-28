@@ -2,13 +2,14 @@
   "id": 186632641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.172162,51.511929,-3.172162,51.511929",
     "geom:latitude":51.511929,
     "geom:longitude":-3.172162,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Lakeside Drive",
     "sg:city":"Cardiff",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186632641,
-    "wof:lastmodified":1449052092,
+    "wof:lastmodified":1466261549,
     "wof:name":"H D Construction Development",
     "wof:parent_id":85789785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-3.172162,51.511929,-3.172162,51.511929],
+  "bbox": [
+    -3.172162,
+    51.511929,
+    -3.172162,
+    51.511929
+],
   "geometry": {"coordinates":[-3.172162,51.511929],"type":"Point"}
 }

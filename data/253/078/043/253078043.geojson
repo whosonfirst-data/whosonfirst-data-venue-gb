@@ -2,13 +2,14 @@
   "id": 253078043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.964134,53.38451,-2.964134,53.38451",
     "geom:latitude":53.38451,
     "geom:longitude":-2.964134,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"The Turner Home, Dingle Lane",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":253078043,
-    "wof:lastmodified":1449065310,
+    "wof:lastmodified":1466258904,
     "wof:name":"The Turner Home",
     "wof:parent_id":85787027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-2.964134,53.38451,-2.964134,53.38451],
+  "bbox": [
+    -2.964134,
+    53.38451,
+    -2.964134,
+    53.38451
+],
   "geometry": {"coordinates":[-2.964134,53.38451],"type":"Point"}
 }

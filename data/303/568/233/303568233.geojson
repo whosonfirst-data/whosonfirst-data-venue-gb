@@ -2,13 +2,14 @@
   "id": 303568233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.700384,55.859619,-3.700384,55.859619",
     "geom:latitude":55.859619,
     "geom:longitude":-3.700384,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 10 Burnhouse Indstl Est, Whitburn",
     "sg:city":"Bathgate",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":303568233,
-    "wof:lastmodified":1448998060,
+    "wof:lastmodified":1466279513,
     "wof:name":"Recon Domestic Appliances",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical"
     ]
 },
-  "bbox": [-3.700384,55.859619,-3.700384,55.859619],
+  "bbox": [
+    -3.700384,
+    55.859619,
+    -3.700384,
+    55.859619
+],
   "geometry": {"coordinates":[-3.700384,55.859619],"type":"Point"}
 }

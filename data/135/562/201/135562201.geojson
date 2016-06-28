@@ -2,13 +2,14 @@
   "id": 135562201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.43622,50.545792,-2.43622,50.545792",
     "geom:latitude":50.545792,
     "geom:longitude":-2.43622,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Easton Street",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":135562201,
-    "wof:lastmodified":1449022612,
+    "wof:lastmodified":1466280186,
     "wof:name":"Real Directions",
     "wof:parent_id":85683805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.43622,50.545792,-2.43622,50.545792],
+  "bbox": [
+    -2.43622,
+    50.545792,
+    -2.43622,
+    50.545792
+],
   "geometry": {"coordinates":[-2.43622,50.545792],"type":"Point"}
 }

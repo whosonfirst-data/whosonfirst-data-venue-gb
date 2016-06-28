@@ -2,13 +2,14 @@
   "id": 286513753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.371284,54.933037,-1.371284,54.933037",
     "geom:latitude":54.933037,
     "geom:longitude":-1.371284,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Queens Parade",
     "sg:city":"Sunderland",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":286513753,
-    "wof:lastmodified":1449017132,
+    "wof:lastmodified":1466269963,
     "wof:name":"La Fountaine",
     "wof:parent_id":85793177,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.371284,54.933037,-1.371284,54.933037],
+  "bbox": [
+    -1.371284,
+    54.933037,
+    -1.371284,
+    54.933037
+],
   "geometry": {"coordinates":[-1.371284,54.933037],"type":"Point"}
 }

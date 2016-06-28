@@ -2,13 +2,14 @@
   "id": 186432323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.741999,53.791988,-1.741999,53.791988",
     "geom:latitude":53.791988,
     "geom:longitude":-1.741999,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Wenlock Street",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186432323,
-    "wof:lastmodified":1449050186,
+    "wof:lastmodified":1466258175,
     "wof:name":"Broomfield Garage",
     "wof:parent_id":85791921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [-1.741999,53.791988,-1.741999,53.791988],
+  "bbox": [
+    -1.741999,
+    53.791988,
+    -1.741999,
+    53.791988
+],
   "geometry": {"coordinates":[-1.741999,53.791988],"type":"Point"}
 }

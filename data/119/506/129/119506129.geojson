@@ -2,13 +2,14 @@
   "id": 119506129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.216512,54.682812,-1.216512,54.682812",
     "geom:latitude":54.682812,
     "geom:longitude":-1.216512,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"106 York Road",
     "sg:city":"Hartlepool",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":119506129,
-    "wof:lastmodified":1449040938,
+    "wof:lastmodified":1466287122,
     "wof:name":"OXFAM",
     "wof:parent_id":85791503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.216512,54.682812,-1.216512,54.682812],
+  "bbox": [
+    -1.216512,
+    54.682812,
+    -1.216512,
+    54.682812
+],
   "geometry": {"coordinates":[-1.216512,54.682812],"type":"Point"}
 }

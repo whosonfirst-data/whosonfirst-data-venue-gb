@@ -2,13 +2,14 @@
   "id": 202933389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.200162,53.498882,-2.200162,53.498882",
     "geom:latitude":53.498882,
     "geom:longitude":-2.200162,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"21a Robert St, Newton Heath",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202933389,
-    "wof:lastmodified":1449060631,
+    "wof:lastmodified":1466261254,
     "wof:name":"Robert St Garage",
     "wof:parent_id":85789095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garage"
     ]
 },
-  "bbox": [-2.200162,53.498882,-2.200162,53.498882],
+  "bbox": [
+    -2.200162,
+    53.498882,
+    -2.200162,
+    53.498882
+],
   "geometry": {"coordinates":[-2.200162,53.498882],"type":"Point"}
 }

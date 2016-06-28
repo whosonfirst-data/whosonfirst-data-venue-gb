@@ -2,13 +2,14 @@
   "id": 119072983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.276326,52.929016,-1.276326,52.929016",
     "geom:latitude":52.929016,
     "geom:longitude":-1.276326,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Derby Road, Stapleford",
     "sg:city":"Nottingham",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":119072983,
-    "wof:lastmodified":1449042258,
+    "wof:lastmodified":1466255758,
     "wof:name":"San Marco",
     "wof:parent_id":85785929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.276326,52.929016,-1.276326,52.929016],
+  "bbox": [
+    -1.276326,
+    52.929016,
+    -1.276326,
+    52.929016
+],
   "geometry": {"coordinates":[-1.276326,52.929016],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119238735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-5.110463,56.818161,-5.110463,56.818161",
     "geom:latitude":56.818161,
     "geom:longitude":-5.110463,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"26 High Street",
     "sg:city":"Fort William",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119238735,
-    "wof:lastmodified":1449041768,
+    "wof:lastmodified":1466273524,
     "wof:name":"Marshall & Pearson",
     "wof:parent_id":101872715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-5.110463,56.818161,-5.110463,56.818161],
+  "bbox": [
+    -5.110463,
+    56.818161,
+    -5.110463,
+    56.818161
+],
   "geometry": {"coordinates":[-5.110463,56.818161],"type":"Point"}
 }

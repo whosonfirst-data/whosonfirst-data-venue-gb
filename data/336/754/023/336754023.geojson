@@ -2,13 +2,14 @@
   "id": 336754023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.028712,53.749645,-3.028712,53.749645",
     "geom:latitude":53.749645,
     "geom:longitude":-3.028712,
     "iso:country":"GB",
+    "mz:hierarchy_label":1,
     "sg:address":"35-39 Orchard Road",
     "sg:city":"Lytham St Annes",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":336754023,
-    "wof:lastmodified":1448997640,
+    "wof:lastmodified":1466277353,
     "wof:name":"The Gables Hotel",
     "wof:parent_id":85785317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "charity"
     ]
 },
-  "bbox": [-3.028712,53.749645,-3.028712,53.749645],
+  "bbox": [
+    -3.028712,
+    53.749645,
+    -3.028712,
+    53.749645
+],
   "geometry": {"coordinates":[-3.028712,53.749645],"type":"Point"}
 }
