@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.0188749991,51.4756736755,-0.0188749991,51.4756736755",
     "geom:latitude":51.475674,
     "geom:longitude":-0.018875,
@@ -35,7 +36,8 @@
         "85633159",
         404227469,
         101750367,
-        85684061
+        85684061,
+        85787005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +56,22 @@
             "neighbourhood_id":85860515,
             "region_id":85684061,
             "venue_id":907541317
+        },
+        {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787005,
+            "region_id":85684061,
+            "venue_id":907541317
         }
     ],
     "wof:id":907541317,
-    "wof:lastmodified":1472269833,
+    "wof:lastmodified":1491896192,
     "wof:name":"Harlequin Gallery",
-    "wof:parent_id":85860515,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.56548,51.45723,-2.56548,51.45723",
     "geom:latitude":51.45723,
     "geom:longitude":-2.56548,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788691,
-        85633159,
+        "102191581",
+        404431949,
+        "85633159",
+        404227469,
         101750389,
-        85684063
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,18 @@
     "wof:geomhash":"dfb6c5dd9692096233fb815837f4bc71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431949,
             "locality_id":101750389,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788691,
-            "region_id":85684063,
+            "region_id":85683793,
             "venue_id":270129741
         }
     ],
     "wof:id":270129741,
-    "wof:lastmodified":1472256830,
+    "wof:lastmodified":1491930885,
     "wof:name":"A & N Marketing Ltd",
     "wof:parent_id":85788691,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.023519,51.408092,-0.023519,51.408092",
     "geom:latitude":51.408092,
     "geom:longitude":-0.023519,
@@ -29,10 +30,13 @@
     "sg:province":"Kent",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785551,
-        85684235
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"897db4af395ffb0d8d350a2193b25f79",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785551,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":119445865
         }
     ],
     "wof:id":119445865,
-    "wof:lastmodified":1472266788,
+    "wof:lastmodified":1491908116,
     "wof:name":"N Patsias",
     "wof:parent_id":85785551,
     "wof:placetype":"venue",

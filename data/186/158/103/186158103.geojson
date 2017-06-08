@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.023689,51.522873,0.023689,51.522873",
     "geom:latitude":51.522873,
     "geom:longitude":0.023689,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789849,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684411
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"c34ff8d3294830e5d049ea578523a136",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789849,
-            "region_id":85684411,
+            "region_id":85684061,
             "venue_id":186158103
         }
     ],
     "wof:id":186158103,
-    "wof:lastmodified":1472256234,
+    "wof:lastmodified":1491906561,
     "wof:name":"S K Signs & Labels Ltd.",
     "wof:parent_id":85789849,
     "wof:placetype":"venue",

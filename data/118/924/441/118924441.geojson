@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.083059,51.559216,0.083059,51.559216",
     "geom:latitude":51.559216,
     "geom:longitude":0.083059,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85790249,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85788439,
-        85684441,
-        85790249
+        85684061,
+        85788439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +50,30 @@
     "wof:geomhash":"60c5ace1445a5ce6ca029a347be01e35",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85788439,
-            "region_id":85684441,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790249,
+            "region_id":85684061,
             "venue_id":118924441
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85790249,
-            "region_id":85684441,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788439,
+            "region_id":85684061,
             "venue_id":118924441
         }
     ],
     "wof:id":118924441,
-    "wof:lastmodified":1472265818,
+    "wof:lastmodified":1491892841,
     "wof:name":"ANJAD IQBAR",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

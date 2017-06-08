@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.20462,55.94347,-3.20462,55.94347",
     "geom:latitude":55.94347,
     "geom:longitude":-3.20462,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792699,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"6770eae952e18b9a351ac54b3badc855",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792699,
             "region_id":85684587,
             "venue_id":253587415
         }
     ],
     "wof:id":253587415,
-    "wof:lastmodified":1472263775,
+    "wof:lastmodified":1491926499,
     "wof:name":"The Drake Music Project Scotland",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",

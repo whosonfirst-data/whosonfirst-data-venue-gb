@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.171182,51.594036,-0.171182,51.594036",
     "geom:latitude":51.594036,
     "geom:longitude":-0.171182,
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787165,
-        85684613
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,18 @@
     "wof:geomhash":"7fa462b75fcb59806d92cad6c4b12966",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787165,
-            "region_id":85684613,
+            "region_id":85684061,
             "venue_id":118605881
         }
     ],
     "wof:id":118605881,
-    "wof:lastmodified":1472258530,
+    "wof:lastmodified":1491890052,
     "wof:name":"Shalom Publications Ltd",
     "wof:parent_id":85787165,
     "wof:placetype":"venue",

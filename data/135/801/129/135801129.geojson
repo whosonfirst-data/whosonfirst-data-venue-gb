@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.1967,51.496159,-0.1967,51.496159",
     "geom:latitude":51.496159,
     "geom:longitude":-0.1967,
@@ -29,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788517,
-        85683667
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"1e4806727d86772b0e009a0d550c5238",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788517,
-            "region_id":85683667,
+            "region_id":85684061,
             "venue_id":135801129
         }
     ],
     "wof:id":135801129,
-    "wof:lastmodified":1472267051,
+    "wof:lastmodified":1491904269,
     "wof:name":"Peter Fairbairn",
     "wof:parent_id":85788517,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.038796,51.566517,-0.038796,51.566517",
     "geom:latitude":51.566517,
     "geom:longitude":-0.038796,
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791225,
-        85684273
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +55,18 @@
     "wof:geomhash":"ebaf1f377d14f59126c4fb8f8615a234",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791225,
-            "region_id":85684273,
+            "region_id":85684061,
             "venue_id":135352277
         }
     ],
     "wof:id":135352277,
-    "wof:lastmodified":1472258839,
+    "wof:lastmodified":1491921431,
     "wof:name":"Perkins Garages Ltd.",
     "wof:parent_id":85791225,
     "wof:placetype":"venue",

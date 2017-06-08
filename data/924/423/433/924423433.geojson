@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.3506278992,55.8447418213,-4.3506278992,55.8447418213",
     "geom:latitude":55.844742,
     "geom:longitude":-4.350628,
@@ -32,15 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
-        85792479,
-        85684351,
         85786247,
         "102191581",
         404430153,
         "85633159",
         404227471,
-        101750621
+        101750621,
+        85684351,
+        85633159,
+        85792479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +52,6 @@
     "wof:geomhash":"5dc671a6f645a66023171373e0ff038a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
-            "neighbourhood_id":85792479,
-            "region_id":85684351,
-            "venue_id":924423433
-        },
-        {
             "continent_id":"102191581",
             "country_id":"85633159",
             "localadmin_id":404430153,
@@ -65,12 +60,18 @@
             "neighbourhood_id":85786247,
             "region_id":85684351,
             "venue_id":924423433
+        },
+        {
+            "country_id":85633159,
+            "neighbourhood_id":85792479,
+            "region_id":85684351,
+            "venue_id":924423433
         }
     ],
     "wof:id":924423433,
-    "wof:lastmodified":1472270003,
+    "wof:lastmodified":1491905094,
     "wof:name":"John McLean Joiner & Shopfitter",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.451192,53.394157,-1.451192,53.394157",
     "geom:latitude":53.394157,
     "geom:longitude":-1.451192,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785403,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"f90f906cf109db7933eeaaffcea623ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":303842491
         }
     ],
     "wof:id":303842491,
-    "wof:lastmodified":1472265066,
+    "wof:lastmodified":1491907107,
     "wof:name":"M & M Greaves (Machinery) Atlas Works",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

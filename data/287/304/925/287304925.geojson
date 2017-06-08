@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.151311,51.490051,-3.151311,51.490051",
     "geom:latitude":51.490051,
     "geom:longitude":-3.151311,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789789,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"6d3503cec74a78a2b95d063edf2529d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85789789,
             "region_id":85683787,
             "venue_id":287304925
         }
     ],
     "wof:id":287304925,
-    "wof:lastmodified":1472259156,
+    "wof:lastmodified":1491900123,
     "wof:name":"Royston Motor Salvage",
     "wof:parent_id":85789789,
     "wof:placetype":"venue",

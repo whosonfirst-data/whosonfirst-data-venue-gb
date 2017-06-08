@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.636994,53.84013,-1.636994,53.84013",
     "geom:latitude":53.84013,
     "geom:longitude":-1.636994,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792891,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"625011121ca2e46ad6bd9530b8dc7eb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792891,
             "region_id":85684321,
             "venue_id":304018203
         }
     ],
     "wof:id":304018203,
-    "wof:lastmodified":1472255308,
+    "wof:lastmodified":1491889746,
     "wof:name":"Vectra Services",
     "wof:parent_id":85792891,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.188655,53.446785,-2.188655,53.446785",
     "geom:latitude":53.446785,
     "geom:longitude":-2.188655,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750525,
-        85633159,
         85788745,
+        "102191581",
+        404431331,
+        "85633159",
+        404227469,
+        101750525,
         85683651
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"7340792a492a58e5f56b077317188935",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431331,
             "locality_id":101750525,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788745,
             "region_id":85683651,
             "venue_id":119523595
         }
     ],
     "wof:id":119523595,
-    "wof:lastmodified":1472267258,
+    "wof:lastmodified":1491886076,
     "wof:name":"Cohens Chemist",
     "wof:parent_id":85788745,
     "wof:placetype":"venue",

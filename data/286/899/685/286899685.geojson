@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.184292,51.471081,-3.184292,51.471081",
     "geom:latitude":51.471081,
     "geom:longitude":-3.184292,
@@ -37,7 +38,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792749,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -49,16 +53,18 @@
     "wof:geomhash":"738371c7ad9107b5b9a8d23110c03a11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85792749,
             "region_id":85683787,
             "venue_id":286899685
         }
     ],
     "wof:id":286899685,
-    "wof:lastmodified":1472263586,
+    "wof:lastmodified":1491938195,
     "wof:name":"The Phone Shop",
     "wof:parent_id":85792749,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.25498,55.858479,-4.25498,55.858479",
     "geom:latitude":55.858479,
     "geom:longitude":-4.25498,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861547,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"58e48b92a2077d743471af3e7fa7287b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861547,
             "region_id":85684351,
             "venue_id":286983761
         }
     ],
     "wof:id":286983761,
-    "wof:lastmodified":1472264115,
+    "wof:lastmodified":1491931757,
     "wof:name":"Ashworth Mairs Group",
     "wof:parent_id":85861547,
     "wof:placetype":"venue",

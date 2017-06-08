@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.007999,51.453159,-0.007999,51.453159",
     "geom:latitude":51.453159,
     "geom:longitude":-0.007999,
@@ -28,10 +29,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861189,
-        85684337
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,18 @@
     "wof:geomhash":"172492c633b1fadec88aca9ea976c57d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861189,
-            "region_id":85684337,
+            "region_id":85684061,
             "venue_id":119404663
         }
     ],
     "wof:id":119404663,
-    "wof:lastmodified":1472266500,
+    "wof:lastmodified":1491888472,
     "wof:name":"Sams English & Continental Restaurant",
     "wof:parent_id":85861189,
     "wof:placetype":"venue",

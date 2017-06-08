@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.782685,52.452129,-1.782685,52.452129",
     "geom:latitude":52.452129,
     "geom:longitude":-1.782685,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791869,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"05f85115c5e0798f9640ac70a58a05f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791869,
             "region_id":85684283,
             "venue_id":219366419
         }
     ],
     "wof:id":219366419,
-    "wof:lastmodified":1472257664,
+    "wof:lastmodified":1491930508,
     "wof:name":"Absolutely Ace",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",

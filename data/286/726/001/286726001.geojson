@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.710494,53.871956,-1.710494,53.871956",
     "geom:latitude":53.871956,
     "geom:longitude":-1.710494,
@@ -38,8 +39,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85790941,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -50,18 +52,17 @@
     "wof:geomhash":"e8376c26990c5101a838d47cb35783fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85790941,
+            "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":286726001
         }
     ],
     "wof:id":286726001,
-    "wof:lastmodified":1472261520,
+    "wof:lastmodified":1491932555,
     "wof:name":"Sident Dental Systems",
-    "wof:parent_id":85790941,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

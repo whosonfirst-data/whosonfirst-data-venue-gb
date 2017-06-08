@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.923686,53.469345,-2.923686,53.469345",
     "geom:latitude":53.469345,
     "geom:longitude":-2.923686,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787377,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"c31b7746efd2cb739c00dcd147be5b15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787377,
             "region_id":85684213,
             "venue_id":320078643
         }
     ],
     "wof:id":320078643,
-    "wof:lastmodified":1472256540,
+    "wof:lastmodified":1491906844,
     "wof:name":"O'Briens Chemists",
     "wof:parent_id":85787377,
     "wof:placetype":"venue",

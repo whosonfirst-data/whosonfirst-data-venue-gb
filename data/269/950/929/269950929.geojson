@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.948559,52.488834,-1.948559,52.488834",
     "geom:latitude":52.488834,
     "geom:longitude":-1.948559,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787515,
-        85633159,
+        "102191581",
+        404446943,
+        "85633159",
+        404227469,
         101914045,
         85684511
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"2e0774df7ba3921c5946294882c4b0e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
             "locality_id":101914045,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787515,
             "region_id":85684511,
             "venue_id":269950929
         }
     ],
     "wof:id":269950929,
-    "wof:lastmodified":1472262502,
+    "wof:lastmodified":1491936137,
     "wof:name":"Ionic Surface Treatments Ltd",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",

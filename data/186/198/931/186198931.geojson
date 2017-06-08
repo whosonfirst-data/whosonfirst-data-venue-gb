@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.130943,51.648254,-0.130943,51.648254",
     "geom:latitude":51.648254,
     "geom:longitude":-0.130943,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860339,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684381
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"bffec3d8559cca0898f8cc5326f1ecfe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860339,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":186198931
         }
     ],
     "wof:id":186198931,
-    "wof:lastmodified":1472256623,
+    "wof:lastmodified":1491915510,
     "wof:name":"Joshi,J A,",
     "wof:parent_id":85860339,
     "wof:placetype":"venue",

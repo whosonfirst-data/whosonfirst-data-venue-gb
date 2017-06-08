@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.031004,51.532516,-0.031004,51.532516",
     "geom:latitude":51.532516,
     "geom:longitude":-0.031004,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785887,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684467
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"92b090371549ef7532fdae424ce6d875",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785887,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":286846711
         }
     ],
     "wof:id":286846711,
-    "wof:lastmodified":1472262909,
+    "wof:lastmodified":1491919687,
     "wof:name":"SURMA",
     "wof:parent_id":85785887,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.560428,51.454895,-2.560428,51.454895",
     "geom:latitude":51.454895,
     "geom:longitude":-2.560428,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750389,
-        85633159,
         85788691,
-        85684063
+        "102191581",
+        404431949,
+        "85633159",
+        404227469,
+        101750389,
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"9208aac849334ba37e00496bdbfd5230",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431949,
             "locality_id":101750389,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788691,
-            "region_id":85684063,
+            "region_id":85683793,
             "venue_id":102588163
         }
     ],
     "wof:id":102588163,
-    "wof:lastmodified":1472254991,
+    "wof:lastmodified":1491930888,
     "wof:name":"Barton Hill Fish Bar",
     "wof:parent_id":85788691,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.11122,51.48769,-0.11122,51.48769",
     "geom:latitude":51.48769,
     "geom:longitude":-0.11122,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792141,
-        85684533
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"b6439ab5e39f91b1f1e9f5e7847d99d7",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792141,
-            "region_id":85684533,
+            "region_id":85684061,
             "venue_id":119146027
         }
     ],
     "wof:id":119146027,
-    "wof:lastmodified":1472261404,
+    "wof:lastmodified":1491936905,
     "wof:name":"Buckley A Credit Bookmakers Ltd",
     "wof:parent_id":85792141,
     "wof:placetype":"venue",

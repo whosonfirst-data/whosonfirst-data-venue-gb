@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.26947,55.84166,-4.26947,55.84166",
     "geom:latitude":55.84166,
     "geom:longitude":-4.26947,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861543,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"a5d020199c39f3a149f7f132b1dc1043",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861543,
             "region_id":85684351,
             "venue_id":203001923
         }
     ],
     "wof:id":203001923,
-    "wof:lastmodified":1472254985,
+    "wof:lastmodified":1491892945,
     "wof:name":"Scottish Episcopal Church",
     "wof:parent_id":85861543,
     "wof:placetype":"venue",

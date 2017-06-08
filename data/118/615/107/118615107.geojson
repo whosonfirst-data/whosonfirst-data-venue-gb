@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.722079,53.832958,-1.722079,53.832958",
     "geom:latitude":53.832958,
     "geom:longitude":-1.722079,
@@ -41,9 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750581,
-        85633159,
         85788415,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
         85684463
     ],
     "wof:breaches":[],
@@ -54,15 +58,18 @@
     "wof:geomhash":"a008f3c41f6b45c27bdaeb4e3e177683",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788415,
             "region_id":85684463,
             "venue_id":118615107
         }
     ],
     "wof:id":118615107,
-    "wof:lastmodified":1472259051,
+    "wof:lastmodified":1491903357,
     "wof:name":"Lassiere Mills Ltd",
     "wof:parent_id":85788415,
     "wof:placetype":"venue",

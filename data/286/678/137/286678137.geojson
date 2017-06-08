@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.40667,51.461128,-0.40667,51.461128",
     "geom:latitude":51.461128,
     "geom:longitude":-0.40667,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85787387,
-        85633159,
+        85861181,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684141,
-        85861181
+        85684061,
+        85787387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,26 +50,30 @@
     "wof:geomhash":"a40bcc4d2312b3464857faa95db1611b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85787387,
-            "region_id":85684141,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861181,
+            "region_id":85684061,
             "venue_id":286678137
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85861181,
-            "region_id":85684141,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787387,
+            "region_id":85684061,
             "venue_id":286678137
         }
     ],
     "wof:id":286678137,
-    "wof:lastmodified":1472260564,
+    "wof:lastmodified":1491929094,
     "wof:name":"Jones & Tyson U K Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

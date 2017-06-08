@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.183953,51.539604,-0.183953,51.539604",
     "geom:latitude":51.539604,
     "geom:longitude":-0.183953,
@@ -41,9 +42,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860461,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684597
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,16 +57,18 @@
     "wof:geomhash":"91721f683209f818784ff2176964c7db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860461,
-            "region_id":85684597,
+            "region_id":85684061,
             "venue_id":252927209
         }
     ],
     "wof:id":252927209,
-    "wof:lastmodified":1472257488,
+    "wof:lastmodified":1491896910,
     "wof:name":"Goodmay Ltd.",
     "wof:parent_id":85860461,
     "wof:placetype":"venue",

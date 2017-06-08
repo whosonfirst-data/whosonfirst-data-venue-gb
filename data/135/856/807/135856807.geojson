@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.317788,51.392132,-0.317788,51.392132",
     "geom:latitude":51.392132,
     "geom:longitude":-0.317788,
@@ -28,10 +29,13 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792321,
-        85684151
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,18 @@
     "wof:geomhash":"a474af7664d5fcc5dd6cf18991f4ff08",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792321,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":135856807
         }
     ],
     "wof:id":135856807,
-    "wof:lastmodified":1472267428,
+    "wof:lastmodified":1491917421,
     "wof:name":"Spicer Kapica & Kenneth Wood Associates",
     "wof:parent_id":85792321,
     "wof:placetype":"venue",

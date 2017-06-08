@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.124736,51.6488,-0.124736,51.6488",
     "geom:latitude":51.6488,
     "geom:longitude":-0.124736,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860339,
-        85684381
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"feb042c3e78bebdb8b7001f8db278333",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860339,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":119124791
         }
     ],
     "wof:id":119124791,
-    "wof:lastmodified":1472260742,
+    "wof:lastmodified":1491915511,
     "wof:name":"Ashbrooke Products London",
     "wof:parent_id":85860339,
     "wof:placetype":"venue",

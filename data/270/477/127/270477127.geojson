@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.440099,53.390568,-1.440099,53.390568",
     "geom:latitude":53.390568,
     "geom:longitude":-1.440099,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785403,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"6a9cb32645a2898046d23c000be47a9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":270477127
         }
     ],
     "wof:id":270477127,
-    "wof:lastmodified":1472261582,
+    "wof:lastmodified":1491907136,
     "wof:name":"A & W General & Precision Engineers",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

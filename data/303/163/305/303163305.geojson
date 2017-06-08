@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.741792,53.785213,-1.741792,53.785213",
     "geom:latitude":53.785213,
     "geom:longitude":-1.741792,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791453,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"804b52a3a5d930e54f063d9260eb0bfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791453,
             "region_id":85684463,
             "venue_id":303163305
         }
     ],
     "wof:id":303163305,
-    "wof:lastmodified":1472256936,
+    "wof:lastmodified":1491905461,
     "wof:name":"Scarfe,G & J,",
     "wof:parent_id":85791453,
     "wof:placetype":"venue",

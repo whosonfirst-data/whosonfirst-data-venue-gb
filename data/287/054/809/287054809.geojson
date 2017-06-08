@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.310471,51.391621,-0.310471,51.391621",
     "geom:latitude":51.391621,
     "geom:longitude":-0.310471,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792321,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684151
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"5a46c244780ae5f2547ae3fefe930bd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792321,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":287054809
         }
     ],
     "wof:id":287054809,
-    "wof:lastmodified":1472255798,
+    "wof:lastmodified":1491917446,
     "wof:name":"Main Kitchen Supplies Ltd.",
     "wof:parent_id":85792321,
     "wof:placetype":"venue",

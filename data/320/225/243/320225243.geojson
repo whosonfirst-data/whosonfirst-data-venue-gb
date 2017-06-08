@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.06963,51.471107,-0.06963,51.471107",
     "geom:latitude":51.471107,
     "geom:longitude":-0.06963,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789765,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289
+        85684061
     ],
     "wof:brand_id":420575779,
     "wof:breaches":[],
@@ -47,16 +51,18 @@
     "wof:geomhash":"b66938b152e13fb8e0b3e999dcf76f23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789765,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":320225243
         }
     ],
     "wof:id":320225243,
-    "wof:lastmodified":1472258932,
+    "wof:lastmodified":1491892291,
     "wof:name":"Argos Ltd.",
     "wof:parent_id":85789765,
     "wof:placetype":"venue",

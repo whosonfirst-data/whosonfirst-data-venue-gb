@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.164416,51.583271,0.164416,51.583271",
     "geom:latitude":51.583271,
     "geom:longitude":0.164416,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789027,
-        85683841
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"5728443213eef140ea0bcf2255c37d62",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789027,
-            "region_id":85683841,
+            "region_id":85684061,
             "venue_id":118906421
         }
     ],
     "wof:id":118906421,
-    "wof:lastmodified":1472265708,
+    "wof:lastmodified":1491895367,
     "wof:name":"Disaster Restoration Ltd.",
     "wof:parent_id":85789027,
     "wof:placetype":"venue",

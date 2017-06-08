@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.682079,53.868286,-1.682079,53.868286",
     "geom:latitude":53.868286,
     "geom:longitude":-1.682079,
@@ -34,8 +35,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786761,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -46,18 +48,17 @@
     "wof:geomhash":"396d501a8d8dbfe3900f45840c8d745a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":270494261
         }
     ],
     "wof:id":270494261,
-    "wof:lastmodified":1472261872,
+    "wof:lastmodified":1491932535,
     "wof:name":"Walker,Steven Andrew,",
-    "wof:parent_id":85786761,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

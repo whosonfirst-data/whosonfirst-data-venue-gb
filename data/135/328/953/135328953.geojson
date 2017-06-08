@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.175668,55.85228,-4.175668,55.85228",
     "geom:latitude":55.85228,
     "geom:longitude":-4.175668,
@@ -40,9 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85790555,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -53,15 +57,18 @@
     "wof:geomhash":"da69985e562f0cea69207de34d0d021c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":135328953
         }
     ],
     "wof:id":135328953,
-    "wof:lastmodified":1472257335,
+    "wof:lastmodified":1491897842,
     "wof:name":"DEANS BAR",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

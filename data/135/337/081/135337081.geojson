@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.512272,52.461861,-1.512272,52.461861",
     "geom:latitude":52.461861,
     "geom:longitude":-1.512272,
@@ -29,10 +30,13 @@
     "sg:province":"Warwickshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750449,
-        85633159,
         85785359,
-        85683907
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
+        101750449,
+        85684565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"57bb2797d54ce96d3d7b9cafa6a9c338",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785359,
-            "region_id":85683907,
+            "region_id":85684565,
             "venue_id":135337081
         }
     ],
     "wof:id":135337081,
-    "wof:lastmodified":1472258225,
+    "wof:lastmodified":1491893889,
     "wof:name":"Pretty Paws Grooming Parlour",
     "wof:parent_id":85785359,
     "wof:placetype":"venue",

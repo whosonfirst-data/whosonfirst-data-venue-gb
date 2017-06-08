@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.385079,51.654697,-0.385079,51.654697",
     "geom:latitude":51.654697,
     "geom:longitude":-0.385079,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860799,
-        85633159,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
         101751603,
         85684331
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"bec40c196661c8d6609955d19a092c86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
             "locality_id":101751603,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":236627945
         }
     ],
     "wof:id":236627945,
-    "wof:lastmodified":1472262114,
+    "wof:lastmodified":1491931579,
     "wof:name":"Green & Weatherly Ltd.",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",

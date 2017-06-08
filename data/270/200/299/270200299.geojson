@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.10368,51.468498,-0.10368,51.468498",
     "geom:latitude":51.468498,
     "geom:longitude":-0.10368,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786171,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"105ba4df7184339c6061b2cbb9e4b8fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786171,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":270200299
         }
     ],
     "wof:id":270200299,
-    "wof:lastmodified":1472257424,
+    "wof:lastmodified":1491921374,
     "wof:name":"Precise Alignment",
     "wof:parent_id":85786171,
     "wof:placetype":"venue",

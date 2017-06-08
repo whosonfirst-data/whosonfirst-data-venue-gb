@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.173902,55.971622,-3.173902,55.971622",
     "geom:latitude":55.971622,
     "geom:longitude":-3.173902,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861481,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"31471c37a6977e246f7ab46ff88a49ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":303753005
         }
     ],
     "wof:id":303753005,
-    "wof:lastmodified":1472264704,
+    "wof:lastmodified":1491933659,
     "wof:name":"R J Richardson",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

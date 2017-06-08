@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.485777,53.364628,-1.485777,53.364628",
     "geom:latitude":53.364628,
     "geom:longitude":-1.485777,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85793113,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"1f9054ec88c1a0e4b77402db20e6e979",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":135304059
         }
     ],
     "wof:id":135304059,
-    "wof:lastmodified":1472255883,
+    "wof:lastmodified":1491898966,
     "wof:name":"Overdale Residential Home",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

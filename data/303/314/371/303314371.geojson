@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.151016,51.482979,-3.151016,51.482979",
     "geom:latitude":51.482979,
     "geom:longitude":-3.151016,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789789,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"c5ed5a53e2a14572da5167e49f16b52c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85789789,
             "region_id":85683787,
             "venue_id":303314371
         }
     ],
     "wof:id":303314371,
-    "wof:lastmodified":1472258960,
+    "wof:lastmodified":1491900132,
     "wof:name":"Tecni-Cuts",
     "wof:parent_id":85789789,
     "wof:placetype":"venue",

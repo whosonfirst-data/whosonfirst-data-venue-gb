@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.11509,51.518051,-0.11509,51.518051",
     "geom:latitude":51.518051,
     "geom:longitude":-0.11509,
@@ -32,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861721,
-        85633159,
-        101750367,
-        85684081,
         85788249,
-        85684597
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061,
+        85861721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +50,30 @@
     "wof:geomhash":"66f482407d5bfedfa1f2ffd72551e59b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85861721,
-            "region_id":85684081,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788249,
+            "region_id":85684061,
             "venue_id":320808781
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85788249,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861721,
+            "region_id":85684061,
             "venue_id":320808781
         }
     ],
     "wof:id":320808781,
-    "wof:lastmodified":1472265314,
+    "wof:lastmodified":1491910815,
     "wof:name":"P C Advisor",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

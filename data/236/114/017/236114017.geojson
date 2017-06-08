@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.035415,51.534851,0.035415,51.534851",
     "geom:latitude":51.534851,
     "geom:longitude":0.035415,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789849,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684411
+        85684061
     ],
     "wof:brand_id":420574647,
     "wof:breaches":[],
@@ -47,16 +51,18 @@
     "wof:geomhash":"8170ad7c9b44f027dc284abd46ed4083",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789849,
-            "region_id":85684411,
+            "region_id":85684061,
             "venue_id":236114017
         }
     ],
     "wof:id":236114017,
-    "wof:lastmodified":1472256161,
+    "wof:lastmodified":1491906527,
     "wof:name":"Punch Retail (Holdings) Ltd.",
     "wof:parent_id":85789849,
     "wof:placetype":"venue",

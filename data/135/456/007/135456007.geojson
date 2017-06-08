@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.187664,55.950333,-3.187664,55.950333",
     "geom:latitude":55.950333,
     "geom:longitude":-3.187664,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85792713,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:brand_id":420574511,
@@ -47,15 +51,18 @@
     "wof:geomhash":"4da0917e53091c01d470f39dcad30b04",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792713,
             "region_id":85684587,
             "venue_id":135456007
         }
     ],
     "wof:id":135456007,
-    "wof:lastmodified":1472264036,
+    "wof:lastmodified":1491885576,
     "wof:name":"Boots the Chemists",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",

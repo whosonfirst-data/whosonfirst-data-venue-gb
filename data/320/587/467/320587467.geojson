@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.975548,52.561691,-1.975548,52.561691",
     "geom:latitude":52.561691,
     "geom:longitude":-1.975548,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789023,
-        85633159,
+        "102191581",
+        404439659,
+        "85633159",
+        404227469,
         101914035,
         85684155
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"53f178fd98a57f40946ba3881024255b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439659,
             "locality_id":101914035,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789023,
             "region_id":85684155,
             "venue_id":320587467
         }
     ],
     "wof:id":320587467,
-    "wof:lastmodified":1472264249,
+    "wof:lastmodified":1491912100,
     "wof:name":"Salon 21",
     "wof:parent_id":85789023,
     "wof:placetype":"venue",

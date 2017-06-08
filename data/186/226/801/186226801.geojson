@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.227384,55.90448,-3.227384,55.90448",
     "geom:latitude":55.90448,
     "geom:longitude":-3.227384,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861513,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"bfc9e09610ca050cdad1110ea44c77a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861513,
             "region_id":85684587,
             "venue_id":186226801
         }
     ],
     "wof:id":186226801,
-    "wof:lastmodified":1472256937,
+    "wof:lastmodified":1491916695,
     "wof:name":"A Arnold Roofing",
     "wof:parent_id":85861513,
     "wof:placetype":"venue",

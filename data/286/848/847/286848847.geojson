@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.030293,51.533016,-0.030293,51.533016",
     "geom:latitude":51.533016,
     "geom:longitude":-0.030293,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785887,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684467
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"a93730ce5e6085aa8dd18ac40ae468ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785887,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":286848847
         }
     ],
     "wof:id":286848847,
-    "wof:lastmodified":1472262957,
+    "wof:lastmodified":1491919667,
     "wof:name":"Marcell Shoes Ltd.",
     "wof:parent_id":85785887,
     "wof:placetype":"venue",

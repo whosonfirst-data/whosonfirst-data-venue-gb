@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.44061,53.389301,-1.44061,53.389301",
     "geom:latitude":53.389301,
     "geom:longitude":-1.44061,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785403,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"663d4ee35a21269154637a26b3f542d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":270477173
         }
     ],
     "wof:id":270477173,
-    "wof:lastmodified":1472261593,
+    "wof:lastmodified":1491907112,
     "wof:name":"British Steel Engineering Steels",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

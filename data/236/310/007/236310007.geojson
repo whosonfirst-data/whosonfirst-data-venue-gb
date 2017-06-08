@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.13899,51.50758,-0.13899,51.50758",
     "geom:latitude":51.50758,
     "geom:longitude":-0.13899,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861753,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"cde60fcaa0e6bf5dd0c1ef2877568e0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861753,
             "region_id":85684061,
             "venue_id":236310007
         }
     ],
     "wof:id":236310007,
-    "wof:lastmodified":1472258241,
+    "wof:lastmodified":1491926361,
     "wof:name":"Rex Dawson",
     "wof:parent_id":85861753,
     "wof:placetype":"venue",

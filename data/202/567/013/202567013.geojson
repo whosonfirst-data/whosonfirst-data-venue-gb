@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.216289,55.97739,-3.216289,55.97739",
     "geom:latitude":55.97739,
     "geom:longitude":-3.216289,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861463,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"6d5e2f3ca80b0a758d29f3a54387b960",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861463,
             "region_id":85684587,
             "venue_id":202567013
         }
     ],
     "wof:id":202567013,
-    "wof:lastmodified":1472256718,
+    "wof:lastmodified":1491934117,
     "wof:name":"As-Ad Software Ltd.",
     "wof:parent_id":85861463,
     "wof:placetype":"venue",

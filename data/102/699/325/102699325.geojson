@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.856559,52.515594,-1.856559,52.515594",
     "geom:latitude":52.515594,
     "geom:longitude":-1.856559,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787715,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283,
         85790751
     ],
@@ -47,24 +51,30 @@
     "wof:geomhash":"90b912351ff22a6a860d1e0a33b060d5",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787715,
             "region_id":85684283,
             "venue_id":102699325
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790751,
             "region_id":85684283,
             "venue_id":102699325
         }
     ],
     "wof:id":102699325,
-    "wof:lastmodified":1472258455,
+    "wof:lastmodified":1491899789,
     "wof:name":"Great Wall House",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

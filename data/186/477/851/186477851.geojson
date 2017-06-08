@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.10832,51.511902,-0.10832,51.511902",
     "geom:latitude":51.511902,
     "geom:longitude":-0.10832,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861631,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"e01afb721750bc7ce9507c733f3030f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861631,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":186477851
         }
     ],
     "wof:id":186477851,
-    "wof:lastmodified":1472259524,
+    "wof:lastmodified":1491934480,
     "wof:name":"Wallner Global Communications Ltd",
     "wof:parent_id":85861631,
     "wof:placetype":"venue",

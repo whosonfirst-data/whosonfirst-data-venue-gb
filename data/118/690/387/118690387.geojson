@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.140996,51.507881,-0.140996,51.507881",
     "geom:latitude":51.507881,
     "geom:longitude":-0.140996,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789041,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
         85684061,
         85861753
     ],
@@ -46,24 +50,30 @@
     "wof:geomhash":"ad89354966ed783cdf673ee3e7a8c4cb",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789041,
             "region_id":85684061,
             "venue_id":118690387
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861753,
             "region_id":85684061,
             "venue_id":118690387
         }
     ],
     "wof:id":118690387,
-    "wof:lastmodified":1472262384,
+    "wof:lastmodified":1491926371,
     "wof:name":"Albemarle Gallery Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

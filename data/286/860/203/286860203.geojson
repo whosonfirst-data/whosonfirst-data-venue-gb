@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.355621,55.885201,-4.355621,55.885201",
     "geom:latitude":55.885201,
     "geom:longitude":-4.355621,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790197,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"bc5c959274c893cdde367a6f027646c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790197,
             "region_id":85684351,
             "venue_id":286860203
         }
     ],
     "wof:id":286860203,
-    "wof:lastmodified":1472263058,
+    "wof:lastmodified":1491911759,
     "wof:name":"Scotstounhill Bowling Club",
     "wof:parent_id":85790197,
     "wof:placetype":"venue",

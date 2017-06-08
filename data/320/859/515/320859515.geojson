@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.03574,51.545551,-0.03574,51.545551",
     "geom:latitude":51.545551,
     "geom:longitude":-0.03574,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860199,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683683
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"a6001fe82037270e8394a65895301cb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860199,
-            "region_id":85683683,
+            "region_id":85684061,
             "venue_id":320859515
         }
     ],
     "wof:id":320859515,
-    "wof:lastmodified":1472265676,
+    "wof:lastmodified":1491918231,
     "wof:name":"David Pithers & Sons",
     "wof:parent_id":85860199,
     "wof:placetype":"venue",

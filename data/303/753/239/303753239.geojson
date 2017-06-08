@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.173693,55.970028,-3.173693,55.970028",
     "geom:latitude":55.970028,
     "geom:longitude":-3.173693,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861481,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"58319fa9085a647e74394265c52b89e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":303753239
         }
     ],
     "wof:id":303753239,
-    "wof:lastmodified":1472264712,
+    "wof:lastmodified":1491933641,
     "wof:name":"Assemblies Of God Church",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.550536,53.79734,-1.550536,53.79734",
     "geom:latitude":53.79734,
     "geom:longitude":-1.550536,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85792901,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321
     ],
     "wof:brand_id":420574423,
@@ -46,15 +50,18 @@
     "wof:geomhash":"75e4e69d6a3ba50274fe5a809fac989f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792901,
             "region_id":85684321,
             "venue_id":119073507
         }
     ],
     "wof:id":119073507,
-    "wof:lastmodified":1472257861,
+    "wof:lastmodified":1491910283,
     "wof:name":"Employment Service Jobcentre",
     "wof:parent_id":85792901,
     "wof:placetype":"venue",

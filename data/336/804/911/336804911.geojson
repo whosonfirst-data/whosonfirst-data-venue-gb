@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.042504,51.381077,-0.042504,51.381077",
     "geom:latitude":51.381077,
     "geom:longitude":-0.042504,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860037,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684235
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"d9781364e6601c89bbbab8d83d75d46c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860037,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":336804911
         }
     ],
     "wof:id":336804911,
-    "wof:lastmodified":1472258126,
+    "wof:lastmodified":1491894486,
     "wof:name":"H S R Displays",
     "wof:parent_id":85860037,
     "wof:placetype":"venue",

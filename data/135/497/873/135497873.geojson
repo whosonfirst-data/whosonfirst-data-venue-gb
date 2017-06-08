@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.276419,55.858929,-4.276419,55.858929",
     "geom:latitude":55.858929,
     "geom:longitude":-4.276419,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85861543,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
-        85633159,
-        85792613,
         85684351,
-        85861543
+        85792613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +52,30 @@
     "wof:geomhash":"011416244aa0f415f92741a8882fd3e6",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
-            "neighbourhood_id":85792613,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85861543,
             "region_id":85684351,
             "venue_id":135497873
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
-            "neighbourhood_id":85861543,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85792613,
             "region_id":85684351,
             "venue_id":135497873
         }
     ],
     "wof:id":135497873,
-    "wof:lastmodified":1472264561,
+    "wof:lastmodified":1491892944,
     "wof:name":"Alfa (Wholesale) Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

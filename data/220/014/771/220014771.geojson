@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.148767,51.477875,0.148767,51.477875",
     "geom:latitude":51.477875,
     "geom:longitude":0.148767,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860105,
-        85633159,
+        85789501,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683763,
-        85789501
+        85684061,
+        85860105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +51,30 @@
     "wof:geomhash":"c7bc3ee800ef879d4c03bdbce52630e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85860105,
-            "region_id":85683763,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789501,
+            "region_id":85684061,
             "venue_id":220014771
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85789501,
-            "region_id":85683763,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860105,
+            "region_id":85684061,
             "venue_id":220014771
         }
     ],
     "wof:id":220014771,
-    "wof:lastmodified":1472255207,
+    "wof:lastmodified":1491920377,
     "wof:name":"Harris's Garage Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

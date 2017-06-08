@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.624384,54.997105,-1.624384,54.997105",
     "geom:latitude":54.997105,
     "geom:longitude":-1.624384,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750617,
-        85633159,
         85791111,
+        "102191581",
+        404440729,
+        "85633159",
+        404227469,
+        101750617,
         85683691
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"6bb3ff979dfb98928e1308f6f05319b4",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404440729,
             "locality_id":101750617,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791111,
             "region_id":85683691,
             "venue_id":135642111
         }
     ],
     "wof:id":135642111,
-    "wof:lastmodified":1472265699,
+    "wof:lastmodified":1491926585,
     "wof:name":"The Elmfield Nursery",
     "wof:parent_id":85791111,
     "wof:placetype":"venue",

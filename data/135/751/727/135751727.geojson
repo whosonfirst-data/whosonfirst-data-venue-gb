@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.924496,52.470688,-1.924496,52.470688",
     "geom:latitude":52.470688,
     "geom:longitude":-1.924496,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787237,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"b0597dbd2eafc53971bdc8dd1db57365",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787237,
             "region_id":85684283,
             "venue_id":135751727
         }
     ],
     "wof:id":135751727,
-    "wof:lastmodified":1472266819,
+    "wof:lastmodified":1491936448,
     "wof:name":"National Union of Townswomens Guilds",
     "wof:parent_id":85787237,
     "wof:placetype":"venue",

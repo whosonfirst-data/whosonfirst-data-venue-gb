@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.2294,51.450161,0.2294,51.450161",
     "geom:latitude":51.450161,
     "geom:longitude":0.2294,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860071,
-        85633159,
+        "102191581",
+        404437981,
+        "85633159",
+        404227469,
         101914069,
         85684363,
         85860061
@@ -47,26 +51,30 @@
     "wof:geomhash":"9eecb245dc38c80f8ac2b3820e693724",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437981,
             "locality_id":101914069,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860071,
             "region_id":85684363,
             "venue_id":253661483
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437981,
             "locality_id":101914069,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860061,
             "region_id":85684363,
             "venue_id":253661483
         }
     ],
     "wof:id":253661483,
-    "wof:lastmodified":1472264280,
+    "wof:lastmodified":1491889369,
     "wof:name":"Hilltop Bakery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

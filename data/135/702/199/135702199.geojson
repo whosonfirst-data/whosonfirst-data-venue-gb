@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.403462,54.901817,-1.403462,54.901817",
     "geom:latitude":54.901817,
     "geom:longitude":-1.403462,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750611,
-        85633159,
         85793169,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
+        101750611,
         85684483
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"b47afac2ecbca3b835883243a744bd88",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793169,
             "region_id":85684483,
             "venue_id":135702199
         }
     ],
     "wof:id":135702199,
-    "wof:lastmodified":1472266561,
+    "wof:lastmodified":1491935449,
     "wof:name":"Crown Hairdressing",
     "wof:parent_id":85793169,
     "wof:placetype":"venue",

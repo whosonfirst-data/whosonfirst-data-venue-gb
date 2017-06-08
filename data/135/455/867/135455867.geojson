@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.187769,55.949116,-3.187769,55.949116",
     "geom:latitude":55.949116,
     "geom:longitude":-3.187769,
@@ -40,9 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85792713,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -53,15 +57,18 @@
     "wof:geomhash":"e4033b736632e1cc6ba2ddcda848aa6d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792713,
             "region_id":85684587,
             "venue_id":135455867
         }
     ],
     "wof:id":135455867,
-    "wof:lastmodified":1472264187,
+    "wof:lastmodified":1491885591,
     "wof:name":"City Cafe",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.820997,52.564255,-1.820997,52.564255",
     "geom:latitude":52.564255,
     "geom:longitude":-1.820997,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788959,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"93ba70601e5ba97c7211c8973de68481",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788959,
             "region_id":85684283,
             "venue_id":270085229
         }
     ],
     "wof:id":270085229,
-    "wof:lastmodified":1472256218,
+    "wof:lastmodified":1491924622,
     "wof:name":"Grove,Donald,",
     "wof:parent_id":85788959,
     "wof:placetype":"venue",

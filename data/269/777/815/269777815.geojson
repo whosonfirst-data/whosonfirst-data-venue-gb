@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.06562,51.626289,-0.06562,51.626289",
     "geom:latitude":51.626289,
     "geom:longitude":-0.06562,
@@ -36,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787249,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684381
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,16 +52,18 @@
     "wof:geomhash":"ccaac0f69ea6a7f1de2b7077f3ba9598",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787249,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":269777815
         }
     ],
     "wof:id":269777815,
-    "wof:lastmodified":1472259841,
+    "wof:lastmodified":1491913867,
     "wof:name":"Tower Gym",
     "wof:parent_id":85787249,
     "wof:placetype":"venue",

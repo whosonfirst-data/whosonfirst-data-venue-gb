@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.086779,51.409245,-0.086779,51.409245",
     "geom:latitude":51.409245,
     "geom:longitude":-0.086779,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789525,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684009
+        85684061
     ],
     "wof:brand_id":420574169,
     "wof:breaches":[],
@@ -48,16 +52,18 @@
     "wof:geomhash":"527fd0eaf15224c2e203eb4035fc6330",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789525,
-            "region_id":85684009,
+            "region_id":85684061,
             "venue_id":270467189
         }
     ],
     "wof:id":270467189,
-    "wof:lastmodified":1472261565,
+    "wof:lastmodified":1491900092,
     "wof:name":"Thresher",
     "wof:parent_id":85789525,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.18761,51.496151,-0.18761,51.496151",
     "geom:latitude":51.496151,
     "geom:longitude":-0.18761,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788517,
-        85683667
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"38ba61ad783be4be4bb1423e37f40de1",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788517,
-            "region_id":85683667,
+            "region_id":85684061,
             "venue_id":136238297
         }
     ],
     "wof:id":136238297,
-    "wof:lastmodified":1472264614,
+    "wof:lastmodified":1491904250,
     "wof:name":"Poser Garage",
     "wof:parent_id":85788517,
     "wof:placetype":"venue",

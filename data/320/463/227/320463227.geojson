@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.547814,54.967682,-1.547814,54.967682",
     "geom:latitude":54.967682,
     "geom:longitude":-1.547814,
@@ -39,7 +40,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785695,
-        85633159,
+        "102191581",
+        404435809,
+        "85633159",
+        404227469,
         101750613,
         85684395
     ],
@@ -51,16 +55,18 @@
     "wof:geomhash":"4b70fe9676a9c3316626650db5d1e515",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435809,
             "locality_id":101750613,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785695,
             "region_id":85684395,
             "venue_id":320463227
         }
     ],
     "wof:id":320463227,
-    "wof:lastmodified":1472262669,
+    "wof:lastmodified":1491938433,
     "wof:name":"Scorpion Home Services",
     "wof:parent_id":85785695,
     "wof:placetype":"venue",

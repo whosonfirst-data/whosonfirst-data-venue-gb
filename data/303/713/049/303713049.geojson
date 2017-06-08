@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.207379,55.936981,-3.207379,55.936981",
     "geom:latitude":55.936981,
     "geom:longitude":-3.207379,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792699,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"d33cd11c39895ac96dd741084b2eacf4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792699,
             "region_id":85684587,
             "venue_id":303713049
         }
     ],
     "wof:id":303713049,
-    "wof:lastmodified":1472264420,
+    "wof:lastmodified":1491926490,
     "wof:name":"Mobile Direct",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",

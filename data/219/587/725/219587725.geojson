@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.189325,51.516075,-0.189325,51.516075",
     "geom:latitude":51.516075,
     "geom:longitude":-0.189325,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789693,
-        85633159,
+        85861621,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061,
-        85861621
+        85789693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,26 +50,30 @@
     "wof:geomhash":"ab085f5388057fc2a6e38a8d1be58eaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85789693,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861621,
             "region_id":85684061,
             "venue_id":219587725
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85861621,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789693,
             "region_id":85684061,
             "venue_id":219587725
         }
     ],
     "wof:id":219587725,
-    "wof:lastmodified":1472260570,
+    "wof:lastmodified":1491919339,
     "wof:name":"Marabou Consultants Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

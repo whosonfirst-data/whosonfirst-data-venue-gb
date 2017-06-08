@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.274323,51.530544,-0.274323,51.530544",
     "geom:latitude":51.530544,
     "geom:longitude":-0.274323,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792283,
-        85683679
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"4c563501997bdf45eb8983774d8104fe",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792283,
-            "region_id":85683679,
+            "region_id":85684061,
             "venue_id":118590673
         }
     ],
     "wof:id":118590673,
-    "wof:lastmodified":1472258098,
+    "wof:lastmodified":1491931711,
     "wof:name":"H S S Event Hire",
     "wof:parent_id":85792283,
     "wof:placetype":"venue",

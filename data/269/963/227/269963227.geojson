@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.177742,51.593189,-0.177742,51.593189",
     "geom:latitude":51.593189,
     "geom:longitude":-0.177742,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787165,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684613
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"f3610ae56f60665ef715f2a41373b834",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787165,
-            "region_id":85684613,
+            "region_id":85684061,
             "venue_id":269963227
         }
     ],
     "wof:id":269963227,
-    "wof:lastmodified":1472262502,
+    "wof:lastmodified":1491890040,
     "wof:name":"Wobbly Picture Productions Ltd.",
     "wof:parent_id":85787165,
     "wof:placetype":"venue",

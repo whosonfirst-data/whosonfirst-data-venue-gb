@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.163072,51.456051,0.163072,51.456051",
     "geom:latitude":51.456051,
     "geom:longitude":0.163072,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789501,
-        85683763
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"337b8103a1d7fda92e8b59c5f3310a9a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789501,
-            "region_id":85683763,
+            "region_id":85684061,
             "venue_id":135295683
         }
     ],
     "wof:id":135295683,
-    "wof:lastmodified":1472255838,
+    "wof:lastmodified":1491920381,
     "wof:name":"D-Tex Security",
     "wof:parent_id":85789501,
     "wof:placetype":"venue",

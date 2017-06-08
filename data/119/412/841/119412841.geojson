@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.093897,51.598305,-0.093897,51.598305",
     "geom:latitude":51.598305,
     "geom:longitude":-0.093897,
@@ -29,11 +30,14 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85865129,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85791751,
-        85684121,
-        85865129
+        85684061,
+        85791751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +47,30 @@
     "wof:geomhash":"54a3dc84eb2deaa9d2a2558d8b1ca369",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85791751,
-            "region_id":85684121,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85865129,
+            "region_id":85684061,
             "venue_id":119412841
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85865129,
-            "region_id":85684121,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791751,
+            "region_id":85684061,
             "venue_id":119412841
         }
     ],
     "wof:id":119412841,
-    "wof:lastmodified":1472266530,
+    "wof:lastmodified":1491896724,
     "wof:name":"M Migros",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

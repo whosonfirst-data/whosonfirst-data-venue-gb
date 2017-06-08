@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.966484,52.496922,-1.966484,52.496922",
     "geom:latitude":52.496922,
     "geom:longitude":-1.966484,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914045,
-        85633159,
         85787515,
+        "102191581",
+        404446943,
+        "85633159",
+        404227469,
+        101914045,
         85684511
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"0a565de00f699f68e7640b63f2e7273f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
             "locality_id":101914045,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787515,
             "region_id":85684511,
             "venue_id":119183259
         }
     ],
     "wof:id":119183259,
-    "wof:lastmodified":1472264203,
+    "wof:lastmodified":1491936121,
     "wof:name":"Redline Cars of Smethwick",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",

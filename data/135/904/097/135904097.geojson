@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.20893,55.862022,-4.20893,55.862022",
     "geom:latitude":55.862022,
     "geom:longitude":-4.20893,
@@ -29,9 +30,12 @@
     "sg:province":"Glasgow City",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85785321,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"f8210c0c0d61291d3c94e430d8fdf981",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85785321,
             "region_id":85684351,
             "venue_id":135904097
         }
     ],
     "wof:id":135904097,
-    "wof:lastmodified":1472267648,
+    "wof:lastmodified":1491920199,
     "wof:name":"Lifeskill Driving School",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",

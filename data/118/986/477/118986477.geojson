@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.09081,51.520962,-0.09081,51.520962",
     "geom:latitude":51.520962,
     "geom:longitude":-0.09081,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860887,
-        85684081
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"19c563b7e3ce196a1d43722ba5f8a585",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860887,
-            "region_id":85684081,
+            "region_id":85684061,
             "venue_id":118986477
         }
     ],
     "wof:id":118986477,
-    "wof:lastmodified":1472266103,
+    "wof:lastmodified":1491888728,
     "wof:name":"Lafferty Group",
     "wof:parent_id":85860887,
     "wof:placetype":"venue",

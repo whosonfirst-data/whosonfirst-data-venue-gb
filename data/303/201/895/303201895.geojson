@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.183399,55.946896,-3.183399,55.946896",
     "geom:latitude":55.946896,
     "geom:longitude":-3.183399,
@@ -43,7 +44,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792713,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -55,16 +59,18 @@
     "wof:geomhash":"490c1e2351406387513148ce29d2691c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792713,
             "region_id":85684587,
             "venue_id":303201895
         }
     ],
     "wof:id":303201895,
-    "wof:lastmodified":1472257457,
+    "wof:lastmodified":1491885598,
     "wof:name":"ARK HOUSING ASSOCIATION LTD",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",

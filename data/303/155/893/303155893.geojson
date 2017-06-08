@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.690857,53.859993,-1.690857,53.859993",
     "geom:latitude":53.859993,
     "geom:longitude":-1.690857,
@@ -31,8 +32,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85790941,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -43,18 +45,17 @@
     "wof:geomhash":"56f1318142b79d011b88672a9613d254",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85790941,
+            "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":303155893
         }
     ],
     "wof:id":303155893,
-    "wof:lastmodified":1472256933,
+    "wof:lastmodified":1491932540,
     "wof:name":"Fox & Co",
-    "wof:parent_id":85790941,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

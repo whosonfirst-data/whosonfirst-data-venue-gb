@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.02535,51.407497,-0.02535,51.407497",
     "geom:latitude":51.407497,
     "geom:longitude":-0.02535,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785551,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684235
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"6c1447bc7ef4dd5c00d80c8b73460865",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785551,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":336772459
         }
     ],
     "wof:id":336772459,
-    "wof:lastmodified":1472257434,
+    "wof:lastmodified":1491908116,
     "wof:name":"Doral Citibuild Ltd",
     "wof:parent_id":85785551,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.132674,51.615837,-0.132674,51.615837",
     "geom:latitude":51.615837,
     "geom:longitude":-0.132674,
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789349,
-        85684381
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +56,18 @@
     "wof:geomhash":"71f8d8db388bdf83a04ee957def17166",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789349,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":119308151
         }
     ],
     "wof:id":119308151,
-    "wof:lastmodified":1472265519,
+    "wof:lastmodified":1491934901,
     "wof:name":"Arnos Family Centre",
     "wof:parent_id":85789349,
     "wof:placetype":"venue",

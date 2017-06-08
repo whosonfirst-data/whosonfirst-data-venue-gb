@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.00502,51.450989,-0.00502,51.450989",
     "geom:latitude":51.450989,
     "geom:longitude":-0.00502,
@@ -45,9 +46,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861189,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684337
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,16 +61,18 @@
     "wof:geomhash":"6cce6611a2246295bc71cd77121d476f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861189,
-            "region_id":85684337,
+            "region_id":85684061,
             "venue_id":186365919
         }
     ],
     "wof:id":186365919,
-    "wof:lastmodified":1472258176,
+    "wof:lastmodified":1491888451,
     "wof:name":"Hither Green Primary School",
     "wof:parent_id":85861189,
     "wof:placetype":"venue",

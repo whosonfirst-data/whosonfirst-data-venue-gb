@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.441339,53.401138,-1.441339,53.401138",
     "geom:latitude":53.401138,
     "geom:longitude":-1.441339,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785403,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"684880b5fdec3a7513ee259f68222e88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":219667053
         }
     ],
     "wof:id":219667053,
-    "wof:lastmodified":1472261507,
+    "wof:lastmodified":1491907134,
     "wof:name":"Instor Equipment",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.173088,55.969078,-3.173088,55.969078",
     "geom:latitude":55.969078,
     "geom:longitude":-3.173088,
@@ -40,7 +41,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861481,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -52,16 +56,18 @@
     "wof:geomhash":"17ac82c45691c8659f3df11e66d56c10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":253264147
         }
     ],
     "wof:id":253264147,
-    "wof:lastmodified":1472258443,
+    "wof:lastmodified":1491933665,
     "wof:name":"Leith Sales",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

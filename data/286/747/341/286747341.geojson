@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.093104,51.474674,-0.093104,51.474674",
     "geom:latitude":51.474674,
     "geom:longitude":-0.093104,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786171,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"673ca8d79fc37949d80f5dda0cf0e90c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786171,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":286747341
         }
     ],
     "wof:id":286747341,
-    "wof:lastmodified":1472261968,
+    "wof:lastmodified":1491921369,
     "wof:name":"Moving on",
     "wof:parent_id":85786171,
     "wof:placetype":"venue",

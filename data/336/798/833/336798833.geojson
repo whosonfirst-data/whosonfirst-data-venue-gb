@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.126359,53.374603,-2.126359,53.374603",
     "geom:latitude":53.374603,
     "geom:longitude":-2.126359,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785933,
-        85633159,
+        "102191581",
+        404444839,
+        "85633159",
+        404227469,
         101750527,
         85683899
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"98ea3588de117f87066be71f17d3b132",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444839,
             "locality_id":101750527,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785933,
             "region_id":85683899,
             "venue_id":336798833
         }
     ],
     "wof:id":336798833,
-    "wof:lastmodified":1472257908,
+    "wof:lastmodified":1491924845,
     "wof:name":"St Peter's R C Primary School",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",

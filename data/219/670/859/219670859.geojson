@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.034955,51.545273,-0.034955,51.545273",
     "geom:latitude":51.545273,
     "geom:longitude":-0.034955,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860199,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683683
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,18 @@
     "wof:geomhash":"35ea8b3fea8d065981413b882724b5b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860199,
-            "region_id":85683683,
+            "region_id":85684061,
             "venue_id":219670859
         }
     ],
     "wof:id":219670859,
-    "wof:lastmodified":1472261542,
+    "wof:lastmodified":1491918233,
     "wof:name":"Change Image",
     "wof:parent_id":85860199,
     "wof:placetype":"venue",

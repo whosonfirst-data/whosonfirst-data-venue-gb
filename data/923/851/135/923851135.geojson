@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4025399983,51.6697654724,-0.4025399983,51.6697654724",
     "geom:latitude":51.669765,
     "geom:longitude":-0.40254,
@@ -33,15 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633159,
+        85792443,
+        85684331,
         85860799,
         "102191581",
         404447683,
         "85633159",
         404227469,
-        101751603,
-        85684331,
-        85633159,
-        85792443
+        101751603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,6 +53,12 @@
     "wof:geomhash":"cffa0dc8c353b3ecdfe3dffb55861c72",
     "wof:hierarchy":[
         {
+            "country_id":85633159,
+            "neighbourhood_id":85792443,
+            "region_id":85684331,
+            "venue_id":923851135
+        },
+        {
             "continent_id":"102191581",
             "country_id":"85633159",
             "localadmin_id":404447683,
@@ -60,18 +67,12 @@
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":923851135
-        },
-        {
-            "country_id":85633159,
-            "neighbourhood_id":85792443,
-            "region_id":85684331,
-            "venue_id":923851135
         }
     ],
     "wof:id":923851135,
-    "wof:lastmodified":1472264411,
+    "wof:lastmodified":1491931568,
     "wof:name":"Bee's Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

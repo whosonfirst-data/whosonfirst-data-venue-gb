@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.68658,53.86647,-1.68658,53.86647",
     "geom:latitude":53.86647,
     "geom:longitude":-1.68658,
@@ -39,8 +40,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786761,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -51,18 +53,17 @@
     "wof:geomhash":"e918d0fdc62987e3dd66ebe0f952d133",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":286699793
         }
     ],
     "wof:id":286699793,
-    "wof:lastmodified":1472261062,
+    "wof:lastmodified":1491932527,
     "wof:name":"Hawarth Court",
-    "wof:parent_id":85786761,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.042248,51.493965,0.042248,51.493965",
     "geom:latitude":51.493965,
     "geom:longitude":0.042248,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860577,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683707
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"1416655043a057a47bafddb3c93625f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860577,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":303426663
         }
     ],
     "wof:id":303426663,
-    "wof:lastmodified":1472260630,
+    "wof:lastmodified":1491902632,
     "wof:name":"Classique Enterprises Limited",
     "wof:parent_id":85860577,
     "wof:placetype":"venue",

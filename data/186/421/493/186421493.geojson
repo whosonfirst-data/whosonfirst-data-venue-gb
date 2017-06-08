@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.13548,51.562149,-0.13548,51.562149",
     "geom:latitude":51.562149,
     "geom:longitude":-0.13548,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791233,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684071
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"ac20ff14edef3702198ca3a199aa785c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791233,
-            "region_id":85684071,
+            "region_id":85684061,
             "venue_id":186421493
         }
     ],
     "wof:id":186421493,
-    "wof:lastmodified":1472258891,
+    "wof:lastmodified":1491937363,
     "wof:name":"Joint Equipment Services",
     "wof:parent_id":85791233,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.149519,51.514992,-0.149519,51.514992",
     "geom:latitude":51.514992,
     "geom:longitude":-0.149519,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861823,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
         85684061
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"240a679258650de2a12adea7e19aa569",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861823,
             "region_id":85684061,
             "venue_id":135978699
         }
     ],
     "wof:id":135978699,
-    "wof:lastmodified":1472267888,
+    "wof:lastmodified":1491921052,
     "wof:name":"Wizard Public Relations",
     "wof:parent_id":85861823,
     "wof:placetype":"venue",

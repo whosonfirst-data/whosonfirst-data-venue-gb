@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.338594,51.453381,-0.338594,51.453381",
     "geom:latitude":51.453381,
     "geom:longitude":-0.338594,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791201,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684151
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"6e71993717b165b611614f98a31b8060",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791201,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":253180957
         }
     ],
     "wof:id":253180957,
-    "wof:lastmodified":1472257361,
+    "wof:lastmodified":1491889294,
     "wof:name":"Mark A Jones & Co",
     "wof:parent_id":85791201,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.788089,53.79937,-1.788089,53.79937",
     "geom:latitude":53.79937,
     "geom:longitude":-1.788089,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750581,
-        85633159,
         85787493,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
         85684463
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"ee84f7d22ddd009c3a32bc01c23b068c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787493,
             "region_id":85684463,
             "venue_id":135593031
         }
     ],
     "wof:id":135593031,
-    "wof:lastmodified":1472265120,
+    "wof:lastmodified":1491937713,
     "wof:name":"Eurostyle",
     "wof:parent_id":85787493,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.914187,52.494629,-1.914187,52.494629",
     "geom:latitude":52.494629,
     "geom:longitude":-1.914187,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788935,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283,
         85791967
@@ -46,26 +50,30 @@
     "wof:geomhash":"3569e420b0a323b8791ebcb45d46225c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788935,
             "region_id":85684283,
             "venue_id":286830545
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791967,
             "region_id":85684283,
             "venue_id":286830545
         }
     ],
     "wof:id":286830545,
-    "wof:lastmodified":1472262814,
+    "wof:lastmodified":1491894717,
     "wof:name":"Victoria Silverware Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

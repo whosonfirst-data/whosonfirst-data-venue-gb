@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.218642,51.506554,-3.218642,51.506554",
     "geom:latitude":51.506554,
     "geom:longitude":-3.218642,
@@ -37,11 +38,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
-        85861443,
-        85683787,
+        85790971,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
-        85790971
+        85683787,
+        85633159,
+        85861443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,23 +56,26 @@
     "wof:geomhash":"876d91071e562269aad9a28eeff237dd",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
-            "neighbourhood_id":85861443,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
+            "locality_id":101750397,
+            "macroregion_id":404227475,
+            "neighbourhood_id":85790971,
             "region_id":85683787,
             "venue_id":135888193
         },
         {
             "country_id":85633159,
-            "locality_id":101750397,
-            "neighbourhood_id":85790971,
+            "neighbourhood_id":85861443,
             "region_id":85683787,
             "venue_id":135888193
         }
     ],
     "wof:id":135888193,
-    "wof:lastmodified":1472267557,
+    "wof:lastmodified":1491936716,
     "wof:name":"WALES & WEST HOUSING ASSOCIATION LTD",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

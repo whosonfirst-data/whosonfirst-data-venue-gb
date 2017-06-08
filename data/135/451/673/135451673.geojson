@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.118222,51.5201,-0.118222,51.5201",
     "geom:latitude":51.5201,
     "geom:longitude":-0.118222,
@@ -32,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788249,
-        85684597,
-        85861721,
-        85684081
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061,
+        85861721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +50,30 @@
     "wof:geomhash":"82bb8d2b591c7eda2e009313ef54bd51",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788249,
-            "region_id":85684597,
+            "region_id":85684061,
             "venue_id":135451673
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861721,
-            "region_id":85684081,
+            "region_id":85684061,
             "venue_id":135451673
         }
     ],
     "wof:id":135451673,
-    "wof:lastmodified":1472264141,
+    "wof:lastmodified":1491910768,
     "wof:name":"Eye Life",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

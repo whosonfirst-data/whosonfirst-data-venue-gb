@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.355448,53.484604,-2.355448,53.484604",
     "geom:latitude":53.484604,
     "geom:longitude":-2.355448,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789751,
-        85633159,
+        "102191581",
+        404450245,
+        "85633159",
+        404227469,
         101750555,
         85684495
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"16f6ebf89f4186792d4583953000da16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101750555,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789751,
             "region_id":85684495,
             "venue_id":236126509
         }
     ],
     "wof:id":236126509,
-    "wof:lastmodified":1472256200,
+    "wof:lastmodified":1491915026,
     "wof:name":"Flair Fitted Covers",
     "wof:parent_id":85789751,
     "wof:placetype":"venue",

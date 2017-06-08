@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.908092,52.48418,-1.908092,52.48418",
     "geom:latitude":52.48418,
     "geom:longitude":-1.908092,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792837,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"d0242805d6e08f163e3f5313e98e2fb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792837,
             "region_id":85684283,
             "venue_id":236536023
         }
     ],
     "wof:id":236536023,
-    "wof:lastmodified":1472261220,
+    "wof:lastmodified":1491929170,
     "wof:name":"H S B Haughton Engineering Insurance Services Ltd.",
     "wof:parent_id":85792837,
     "wof:placetype":"venue",

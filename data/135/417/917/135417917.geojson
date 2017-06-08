@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.104462,51.490028,-0.104462,51.490028",
     "geom:latitude":51.490028,
     "geom:longitude":-0.104462,
@@ -29,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792141,
-        85684533
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"5d455ba3ce91c591fca932ec76052865",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792141,
-            "region_id":85684533,
+            "region_id":85684061,
             "venue_id":135417917
         }
     ],
     "wof:id":135417917,
-    "wof:lastmodified":1472262649,
+    "wof:lastmodified":1491936897,
     "wof:name":"Penwith Manor Estate Management Board",
     "wof:parent_id":85792141,
     "wof:placetype":"venue",

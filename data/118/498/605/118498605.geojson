@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.508805,51.485725,-2.508805,51.485725",
     "geom:latitude":51.485725,
     "geom:longitude":-2.508805,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914025,
-        85633159,
         85787069,
+        "102191581",
+        404447367,
+        "85633159",
+        404227469,
+        101914025,
         85684423
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"17f5dc84fa530486ed70ba4f9fddc36b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447367,
             "locality_id":101914025,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787069,
             "region_id":85684423,
             "venue_id":118498605
         }
     ],
     "wof:id":118498605,
-    "wof:lastmodified":1472255027,
+    "wof:lastmodified":1491885723,
     "wof:name":"J & A Carpentry & Joinery",
     "wof:parent_id":85787069,
     "wof:placetype":"venue",

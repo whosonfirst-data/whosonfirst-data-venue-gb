@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.188427,55.950321,-3.188427,55.950321",
     "geom:latitude":55.950321,
     "geom:longitude":-3.188427,
@@ -41,7 +42,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792713,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -53,16 +57,18 @@
     "wof:geomhash":"b9bdd78f924f7e93f79cd26d9742c17e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792713,
             "region_id":85684587,
             "venue_id":253406299
         }
     ],
     "wof:id":253406299,
-    "wof:lastmodified":1472260847,
+    "wof:lastmodified":1491885562,
     "wof:name":"Arcade Bar",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.120677,53.383224,-2.120677,53.383224",
     "geom:latitude":53.383224,
     "geom:longitude":-2.120677,
@@ -35,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750527,
-        85633159,
         85785933,
+        "102191581",
+        404444839,
+        "85633159",
+        404227469,
+        101750527,
         85683899
     ],
     "wof:breaches":[],
@@ -48,15 +52,18 @@
     "wof:geomhash":"c419471a8f102afe756e094683350206",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444839,
             "locality_id":101750527,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785933,
             "region_id":85683899,
             "venue_id":118771017
         }
     ],
     "wof:id":118771017,
-    "wof:lastmodified":1472264317,
+    "wof:lastmodified":1491924900,
     "wof:name":"Warma Windows",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",

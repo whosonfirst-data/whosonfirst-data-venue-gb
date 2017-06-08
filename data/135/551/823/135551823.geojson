@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.366824,53.482105,-2.366824,53.482105",
     "geom:latitude":53.482105,
     "geom:longitude":-2.366824,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750555,
-        85633159,
         85789751,
+        "102191581",
+        404450245,
+        "85633159",
+        404227469,
+        101750555,
         85684495,
         85785509
     ],
@@ -52,24 +56,30 @@
     "wof:geomhash":"d3c97c12fcf5795a3f08de2f0b653d27",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101750555,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789751,
             "region_id":85684495,
             "venue_id":135551823
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101750555,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785509,
             "region_id":85684495,
             "venue_id":135551823
         }
     ],
     "wof:id":135551823,
-    "wof:lastmodified":1472265331,
+    "wof:lastmodified":1491915025,
     "wof:name":"St Patrick's R C High School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.9076,52.487309,-1.9076,52.487309",
     "geom:latitude":52.487309,
     "geom:longitude":-1.9076,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85792837,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"5c0ca901cb7f7e700a1492bd11cd6209",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792837,
             "region_id":85684283,
             "venue_id":135953665
         }
     ],
     "wof:id":135953665,
-    "wof:lastmodified":1472267828,
+    "wof:lastmodified":1491929212,
     "wof:name":"Morris Polishing Ltd.",
     "wof:parent_id":85792837,
     "wof:placetype":"venue",

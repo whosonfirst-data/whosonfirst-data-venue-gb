@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.334037,51.445129,-0.334037,51.445129",
     "geom:latitude":51.445129,
     "geom:longitude":-0.334037,
@@ -41,10 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791201,
-        85684151
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +58,18 @@
     "wof:geomhash":"5f43a363d5d45cc74456d6cc04a2b7f9",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791201,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":136144687
         }
     ],
     "wof:id":136144687,
-    "wof:lastmodified":1472259863,
+    "wof:lastmodified":1491889313,
     "wof:name":"Machine Mart Ltd",
     "wof:parent_id":85791201,
     "wof:placetype":"venue",

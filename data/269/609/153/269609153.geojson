@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.193978,51.509754,-3.193978,51.509754",
     "geom:latitude":51.509754,
     "geom:longitude":-3.193978,
@@ -41,7 +42,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790971,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -53,16 +57,18 @@
     "wof:geomhash":"5b5d28ec929d9894f945252ae8a539f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85790971,
             "region_id":85683787,
             "venue_id":269609153
         }
     ],
     "wof:id":269609153,
-    "wof:lastmodified":1472256892,
+    "wof:lastmodified":1491936705,
     "wof:name":"Garwood Auto Electrical Services",
     "wof:parent_id":85790971,
     "wof:placetype":"venue",

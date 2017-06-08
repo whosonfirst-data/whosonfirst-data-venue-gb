@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.20619,55.94442,-3.20619,55.94442",
     "geom:latitude":55.94442,
     "geom:longitude":-3.20619,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792699,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"9773c532588f13c500be01161386b55e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792699,
             "region_id":85684587,
             "venue_id":303160089
         }
     ],
     "wof:id":303160089,
-    "wof:lastmodified":1472256879,
+    "wof:lastmodified":1491926491,
     "wof:name":"Fat Sams Pizza Pie Co Ltd",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",

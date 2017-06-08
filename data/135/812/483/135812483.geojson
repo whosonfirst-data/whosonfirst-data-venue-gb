@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.991203,53.408043,-2.991203,53.408043",
     "geom:latitude":53.408043,
     "geom:longitude":-2.991203,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750547,
-        85633159,
         85793275,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
+        101750547,
         85684213
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"04a7525010f9e88a432a1f36e2fb6cb7",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793275,
             "region_id":85684213,
             "venue_id":135812483
         }
     ],
     "wof:id":135812483,
-    "wof:lastmodified":1472267170,
+    "wof:lastmodified":1491911669,
     "wof:name":"Priory Management Services Limited",
     "wof:parent_id":85793275,
     "wof:placetype":"venue",

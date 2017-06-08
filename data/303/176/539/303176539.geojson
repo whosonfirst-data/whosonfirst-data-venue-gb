@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.14706,52.581249,-2.14706,52.581249",
     "geom:latitude":52.581249,
     "geom:longitude":-2.14706,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789371,
-        85633159,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
         101914031,
         85683801
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"2ed4aaa10e4d1ad1ba927b242e864fe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789371,
             "region_id":85683801,
             "venue_id":303176539
         }
     ],
     "wof:id":303176539,
-    "wof:lastmodified":1472257139,
+    "wof:lastmodified":1491888380,
     "wof:name":"Wolverhampton Borough Council",
     "wof:parent_id":85789371,
     "wof:placetype":"venue",

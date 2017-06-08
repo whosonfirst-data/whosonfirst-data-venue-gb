@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.994659,53.405029,-2.994659,53.405029",
     "geom:latitude":53.405029,
     "geom:longitude":-2.994659,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793275,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"1d6acf6c13021b1062af76f5f927c775",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793275,
             "region_id":85684213,
             "venue_id":336608393
         }
     ],
     "wof:id":336608393,
-    "wof:lastmodified":1472255267,
+    "wof:lastmodified":1491911654,
     "wof:name":"Arriva Merseyside Ltd",
     "wof:parent_id":85793275,
     "wof:placetype":"venue",

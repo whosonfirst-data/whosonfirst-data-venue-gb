@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.040924,51.557804,-0.040924,51.557804",
     "geom:latitude":51.557804,
     "geom:longitude":-0.040924,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860199,
-        85683683
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"32facb5f20b82cf6b740089591a4884a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860199,
-            "region_id":85683683,
+            "region_id":85684061,
             "venue_id":135579529
         }
     ],
     "wof:id":135579529,
-    "wof:lastmodified":1472265268,
+    "wof:lastmodified":1491918245,
     "wof:name":"Tent City Ltd.",
     "wof:parent_id":85860199,
     "wof:placetype":"venue",

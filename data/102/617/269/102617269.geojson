@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.833594,52.453407,-1.833594,52.453407",
     "geom:latitude":52.453407,
     "geom:longitude":-1.833594,
@@ -39,9 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85785211,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -52,15 +56,18 @@
     "wof:geomhash":"3578d26d58e36dacef239b98e6a1f833",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785211,
             "region_id":85684283,
             "venue_id":102617269
         }
     ],
     "wof:id":102617269,
-    "wof:lastmodified":1472255794,
+    "wof:lastmodified":1491896483,
     "wof:name":"C P BELCHER (WELDING) LTD",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",

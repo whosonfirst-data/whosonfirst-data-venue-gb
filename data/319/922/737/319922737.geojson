@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.208489,51.55114,-0.208489,51.55114",
     "geom:latitude":51.55114,
     "geom:longitude":-0.208489,
@@ -29,9 +30,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85869863,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684003
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,18 @@
     "wof:geomhash":"7133149f20af7b3867125375eefd1b0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869863,
-            "region_id":85684003,
+            "region_id":85684061,
             "venue_id":319922737
         }
     ],
     "wof:id":319922737,
-    "wof:lastmodified":1472256741,
+    "wof:lastmodified":1491908514,
     "wof:name":"Goldmark Gifts",
     "wof:parent_id":85869863,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.146223,51.517845,-0.146223,51.517845",
     "geom:latitude":51.517845,
     "geom:longitude":-0.146223,
@@ -29,9 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861823,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
         85684061
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"2101838be1023c3f1ed0c6a77a3fb81d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861823,
             "region_id":85684061,
             "venue_id":119122743
         }
     ],
     "wof:id":119122743,
-    "wof:lastmodified":1472260765,
+    "wof:lastmodified":1491920973,
     "wof:name":"Gonstead Clinics U K",
     "wof:parent_id":85861823,
     "wof:placetype":"venue",

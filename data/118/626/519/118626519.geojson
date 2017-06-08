@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.808249,52.449638,-1.808249,52.449638",
     "geom:latitude":52.449638,
     "geom:longitude":-1.808249,
@@ -37,9 +38,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85785211,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -50,15 +54,18 @@
     "wof:geomhash":"5564c0d9091c522557a5798c6391defb",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785211,
             "region_id":85684283,
             "venue_id":118626519
         }
     ],
     "wof:id":118626519,
-    "wof:lastmodified":1472259715,
+    "wof:lastmodified":1491896512,
     "wof:name":"ACREWOOD NURSERY & BABIES",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",

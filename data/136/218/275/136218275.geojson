@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.121059,51.302425,-0.121059,51.302425",
     "geom:latitude":51.302425,
     "geom:longitude":-0.121059,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860053,
-        85684009
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"cf9b41bd27b9db17c70f2447376bea0d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860053,
-            "region_id":85684009,
+            "region_id":85684061,
             "venue_id":136218275
         }
     ],
     "wof:id":136218275,
-    "wof:lastmodified":1472263745,
+    "wof:lastmodified":1491922329,
     "wof:name":"Healthwise",
     "wof:parent_id":85860053,
     "wof:placetype":"venue",

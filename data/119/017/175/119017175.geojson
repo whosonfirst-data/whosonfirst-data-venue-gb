@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.133084,51.508141,-0.133084,51.508141",
     "geom:latitude":51.508141,
     "geom:longitude":-0.133084,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85861787,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85786429,
         85684061,
-        85861787
+        85786429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +52,30 @@
     "wof:geomhash":"c0759c601b2c751c976651f6144f3a47",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85786429,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861787,
             "region_id":85684061,
             "venue_id":119017175
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85861787,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786429,
             "region_id":85684061,
             "venue_id":119017175
         }
     ],
     "wof:id":119017175,
-    "wof:lastmodified":1472255020,
+    "wof:lastmodified":1491916720,
     "wof:name":"Takeda Europe Research & Development Centre Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

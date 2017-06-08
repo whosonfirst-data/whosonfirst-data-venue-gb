@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.194017,51.45483,0.194017,51.45483",
     "geom:latitude":51.45483,
     "geom:longitude":0.194017,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786865,
-        85683763
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +52,18 @@
     "wof:geomhash":"5ebb85ae86aedece9864ce734aa553f0",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786865,
-            "region_id":85683763,
+            "region_id":85684061,
             "venue_id":135711145
         }
     ],
     "wof:id":135711145,
-    "wof:lastmodified":1472266712,
+    "wof:lastmodified":1491920362,
     "wof:name":"Bright Walton (Timber Supply) Co Ltd",
     "wof:parent_id":85786865,
     "wof:placetype":"venue",

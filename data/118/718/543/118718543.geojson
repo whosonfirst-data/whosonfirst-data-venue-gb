@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.257038,55.928364,-3.257038,55.928364",
     "geom:latitude":55.928364,
     "geom:longitude":-3.257038,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85861495,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"9b6cd077e92a0269e57886f909600935",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861495,
             "region_id":85684587,
             "venue_id":118718543
         }
     ],
     "wof:id":118718543,
-    "wof:lastmodified":1472263164,
+    "wof:lastmodified":1491931253,
     "wof:name":"Blakley Electrics Ltd.",
     "wof:parent_id":85861495,
     "wof:placetype":"venue",

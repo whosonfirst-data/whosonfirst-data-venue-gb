@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.728233,53.835815,-1.728233,53.835815",
     "geom:latitude":53.835815,
     "geom:longitude":-1.728233,
@@ -28,9 +29,12 @@
     "sg:province":"West Yorkshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750581,
-        85633159,
         85788415,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
         85684463
     ],
     "wof:breaches":[],
@@ -41,15 +45,18 @@
     "wof:geomhash":"dd5f92fd69f7c10b8c1168d8216d907f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788415,
             "region_id":85684463,
             "venue_id":135441677
         }
     ],
     "wof:id":135441677,
-    "wof:lastmodified":1472263768,
+    "wof:lastmodified":1491903370,
     "wof:name":"Adan Investigations",
     "wof:parent_id":85788415,
     "wof:placetype":"venue",

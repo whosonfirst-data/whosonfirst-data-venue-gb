@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.798829,52.447624,-1.798829,52.447624",
     "geom:latitude":52.447624,
     "geom:longitude":-1.798829,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85785211,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"dc45d9b5a4a70168df653ddb3ec2e5b5",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785211,
             "region_id":85684283,
             "venue_id":135772909
         }
     ],
     "wof:id":135772909,
-    "wof:lastmodified":1472267024,
+    "wof:lastmodified":1491896474,
     "wof:name":"Chapel Fields Centre",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",

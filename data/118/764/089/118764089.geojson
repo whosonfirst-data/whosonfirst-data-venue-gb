@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.81673,52.516296,-1.81673,52.516296",
     "geom:latitude":52.516296,
     "geom:longitude":-1.81673,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85791207,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
-        85633159,
-        85792007,
         85684283,
-        85791207
+        85792007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +50,30 @@
     "wof:geomhash":"7507a62dc1366385e2e8121f2c8368fe",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
-            "neighbourhood_id":85792007,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791207,
             "region_id":85684283,
             "venue_id":118764089
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
-            "neighbourhood_id":85791207,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792007,
             "region_id":85684283,
             "venue_id":118764089
         }
     ],
     "wof:id":118764089,
-    "wof:lastmodified":1472264213,
+    "wof:lastmodified":1491911631,
     "wof:name":"Pipe-Hay Motors",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

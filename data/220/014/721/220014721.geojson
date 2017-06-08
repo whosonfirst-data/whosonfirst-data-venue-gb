@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.148645,51.477905,0.148645,51.477905",
     "geom:latitude":51.477905,
     "geom:longitude":0.148645,
@@ -35,11 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860105,
-        85633159,
+        85789501,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683763,
-        85789501
+        85684061,
+        85860105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +53,30 @@
     "wof:geomhash":"3f69aee89c0158268cc853c6db73645e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85860105,
-            "region_id":85683763,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789501,
+            "region_id":85684061,
             "venue_id":220014721
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85789501,
-            "region_id":85683763,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860105,
+            "region_id":85684061,
             "venue_id":220014721
         }
     ],
     "wof:id":220014721,
-    "wof:lastmodified":1472255216,
+    "wof:lastmodified":1491920378,
     "wof:name":"Wok Inn",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

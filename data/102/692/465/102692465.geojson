@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.258164,55.942074,-3.258164,55.942074",
     "geom:latitude":55.942074,
     "geom:longitude":-3.258164,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85789241,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"7fddd0442349d6e14c2421c9803712e3",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789241,
             "region_id":85684587,
             "venue_id":102692465
         }
     ],
     "wof:id":102692465,
-    "wof:lastmodified":1472258284,
+    "wof:lastmodified":1491929088,
     "wof:name":"Action Chimney Specialists",
     "wof:parent_id":85789241,
     "wof:placetype":"venue",

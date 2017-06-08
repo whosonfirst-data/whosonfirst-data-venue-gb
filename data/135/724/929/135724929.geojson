@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.929731,52.436977,-1.929731,52.436977",
     "geom:latitude":52.436977,
     "geom:longitude":-1.929731,
@@ -36,9 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85785881,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -49,15 +53,18 @@
     "wof:geomhash":"75cf3dfc426d050f66628754aed38316",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785881,
             "region_id":85684283,
             "venue_id":135724929
         }
     ],
     "wof:id":135724929,
-    "wof:lastmodified":1472266812,
+    "wof:lastmodified":1491893427,
     "wof:name":"A L S Typing Services",
     "wof:parent_id":85785881,
     "wof:placetype":"venue",

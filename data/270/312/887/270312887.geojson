@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.913041,52.49115,-1.913041,52.49115",
     "geom:latitude":52.49115,
     "geom:longitude":-1.913041,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792841,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283,
         85792837
@@ -47,26 +51,30 @@
     "wof:geomhash":"9329a5f78968e7a8a7f84282a49a4239",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792841,
             "region_id":85684283,
             "venue_id":270312887
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792837,
             "region_id":85684283,
             "venue_id":270312887
         }
     ],
     "wof:id":270312887,
-    "wof:lastmodified":1472258883,
+    "wof:lastmodified":1491929204,
     "wof:name":"Bracelon",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

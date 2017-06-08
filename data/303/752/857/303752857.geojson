@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.177487,55.973965,-3.177487,55.973965",
     "geom:latitude":55.973965,
     "geom:longitude":-3.177487,
@@ -39,7 +40,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861481,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -51,16 +55,18 @@
     "wof:geomhash":"1ea9af24cdd34704deb7e80b301e1ab0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":303752857
         }
     ],
     "wof:id":303752857,
-    "wof:lastmodified":1472264725,
+    "wof:lastmodified":1491933659,
     "wof:name":"Scissors Technique",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

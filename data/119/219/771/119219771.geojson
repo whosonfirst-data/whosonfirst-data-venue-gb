@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.083759,51.561031,-0.083759,51.561031",
     "geom:latitude":51.561031,
     "geom:longitude":-0.083759,
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790769,
-        85683683
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +56,18 @@
     "wof:geomhash":"0ebf9987e5bc59e722dc912b5b64b3ec",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790769,
-            "region_id":85683683,
+            "region_id":85684061,
             "venue_id":119219771
         }
     ],
     "wof:id":119219771,
-    "wof:lastmodified":1472264986,
+    "wof:lastmodified":1491889555,
     "wof:name":"The Rose & Crown",
     "wof:parent_id":85790769,
     "wof:placetype":"venue",

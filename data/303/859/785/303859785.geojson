@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.618488,54.976215,-1.618488,54.976215",
     "geom:latitude":54.976215,
     "geom:longitude":-1.618488,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861867,
-        85633159,
+        "102191581",
+        404440729,
+        "85633159",
+        404227469,
         101750617,
         85683691
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"219cf011eb52eaa568aa055b4322a0b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404440729,
             "locality_id":101750617,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861867,
             "region_id":85683691,
             "venue_id":303859785
         }
     ],
     "wof:id":303859785,
-    "wof:lastmodified":1472265097,
+    "wof:lastmodified":1491887698,
     "wof:name":"Lambert Laidlaw",
     "wof:parent_id":85861867,
     "wof:placetype":"venue",

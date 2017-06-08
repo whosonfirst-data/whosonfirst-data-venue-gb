@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.18589,55.949223,-3.18589,55.949223",
     "geom:latitude":55.949223,
     "geom:longitude":-3.18589,
@@ -39,11 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792713,
-        85633159,
+        85792703,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587,
-        85792703
+        85792713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,26 +57,30 @@
     "wof:geomhash":"44c07662d35076dbf9e8fc6fc4de1876",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
-            "neighbourhood_id":85792713,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85792703,
             "region_id":85684587,
             "venue_id":320293813
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
-            "neighbourhood_id":85792703,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85792713,
             "region_id":85684587,
             "venue_id":320293813
         }
     ],
     "wof:id":320293813,
-    "wof:lastmodified":1472259687,
+    "wof:lastmodified":1491885567,
     "wof:name":"The Scottish Traditions of Dance Trust",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

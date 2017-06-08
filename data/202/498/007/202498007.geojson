@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.00446,51.45863,0.00446,51.45863",
     "geom:latitude":51.45863,
     "geom:longitude":0.00446,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861189,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684337
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,18 @@
     "wof:geomhash":"1a4c22603397a54c6c0ce2a9d6bef304",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861189,
-            "region_id":85684337,
+            "region_id":85684061,
             "venue_id":202498007
         }
     ],
     "wof:id":202498007,
-    "wof:lastmodified":1472256064,
+    "wof:lastmodified":1491888459,
     "wof:name":"McCaleer Projects",
     "wof:parent_id":85861189,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.197312,55.977219,-3.197312,55.977219",
     "geom:latitude":55.977219,
     "geom:longitude":-3.197312,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791157,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"2ccfb54891f296eee448835c1e5225d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85791157,
             "region_id":85684587,
             "venue_id":269655685
         }
     ],
     "wof:id":269655685,
-    "wof:lastmodified":1472258134,
+    "wof:lastmodified":1491932054,
     "wof:name":"Blackhall Domestic Appliance Centre",
     "wof:parent_id":85791157,
     "wof:placetype":"venue",

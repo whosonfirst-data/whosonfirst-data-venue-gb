@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.635795,53.841423,-1.635795,53.841423",
     "geom:latitude":53.841423,
     "geom:longitude":-1.635795,
@@ -40,7 +41,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792891,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -52,16 +56,18 @@
     "wof:geomhash":"07b7fa6022c13b76840c8593a0f68128",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792891,
             "region_id":85684321,
             "venue_id":304018057
         }
     ],
     "wof:id":304018057,
-    "wof:lastmodified":1472255316,
+    "wof:lastmodified":1491889763,
     "wof:name":"Stuart'S Wine Bar",
     "wof:parent_id":85792891,
     "wof:placetype":"venue",

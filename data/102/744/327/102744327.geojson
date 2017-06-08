@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.208918,51.52177,-0.208918,51.52177",
     "geom:latitude":51.52177,
     "geom:longitude":-0.208918,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85869857,
-        85683667
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"5395798c3f3689f7f31cb2b104be5b98",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869857,
-            "region_id":85683667,
+            "region_id":85684061,
             "venue_id":102744327
         }
     ],
     "wof:id":102744327,
-    "wof:lastmodified":1472259585,
+    "wof:lastmodified":1491896062,
     "wof:name":"R S Kohli",
     "wof:parent_id":85869857,
     "wof:placetype":"venue",

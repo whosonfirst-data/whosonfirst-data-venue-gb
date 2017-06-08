@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.177319,51.363167,-0.177319,51.363167",
     "geom:latitude":51.363167,
     "geom:longitude":-0.177319,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786301,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683649
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"e064513c26da6bc257aaa019a229f58d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786301,
-            "region_id":85683649,
+            "region_id":85684061,
             "venue_id":252863547
         }
     ],
     "wof:id":252863547,
-    "wof:lastmodified":1472256643,
+    "wof:lastmodified":1491895239,
     "wof:name":"Sutton Carpentry",
     "wof:parent_id":85786301,
     "wof:placetype":"venue",

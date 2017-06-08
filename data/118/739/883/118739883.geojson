@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.199964,51.510635,-3.199964,51.510635",
     "geom:latitude":51.510635,
     "geom:longitude":-3.199964,
@@ -29,9 +30,12 @@
     "sg:province":"Cardiff",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750397,
-        85633159,
         85790971,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
+        101750397,
         85683787
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"0a2877d2b40563ed70a7c48c15bea405",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85790971,
             "region_id":85683787,
             "venue_id":118739883
         }
     ],
     "wof:id":118739883,
-    "wof:lastmodified":1472263924,
+    "wof:lastmodified":1491936715,
     "wof:name":"Birchgrove Sub Post Office",
     "wof:parent_id":85790971,
     "wof:placetype":"venue",

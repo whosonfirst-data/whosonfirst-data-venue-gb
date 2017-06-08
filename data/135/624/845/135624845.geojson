@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.215958,55.858665,-4.215958,55.858665",
     "geom:latitude":55.858665,
     "geom:longitude":-4.215958,
@@ -37,9 +38,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85785321,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -50,15 +54,18 @@
     "wof:geomhash":"d18fae2f85e8f10b45c571f63b9693bb",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85785321,
             "region_id":85684351,
             "venue_id":135624845
         }
     ],
     "wof:id":135624845,
-    "wof:lastmodified":1472265327,
+    "wof:lastmodified":1491920193,
     "wof:name":"OPTICAL EXPRESS LTD",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",

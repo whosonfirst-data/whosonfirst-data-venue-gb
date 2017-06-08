@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.47051,53.369881,-1.47051,53.369881",
     "geom:latitude":53.369881,
     "geom:longitude":-1.47051,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85793113,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"56ea9f8592ff3f5f8658dbf2bc39a122",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":135664571
         }
     ],
     "wof:id":135664571,
-    "wof:lastmodified":1472265854,
+    "wof:lastmodified":1491898990,
     "wof:name":"Sheffield United Plc",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

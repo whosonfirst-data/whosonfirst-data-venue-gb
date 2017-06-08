@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.020309,52.56752,-2.020309,52.56752",
     "geom:latitude":52.56752,
     "geom:longitude":-2.020309,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791909,
-        85633159,
+        "102191581",
+        404439659,
+        "85633159",
+        404227469,
         101914035,
         85684155
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"a4d4d26245699945f593b2681c42c521",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439659,
             "locality_id":101914035,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791909,
             "region_id":85684155,
             "venue_id":203365883
         }
     ],
     "wof:id":203365883,
-    "wof:lastmodified":1472258330,
+    "wof:lastmodified":1491936408,
     "wof:name":"Barhale Manufacturing Ltd.",
     "wof:parent_id":85791909,
     "wof:placetype":"venue",

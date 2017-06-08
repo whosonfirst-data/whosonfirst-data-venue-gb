@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.129424,52.580315,-2.129424,52.580315",
     "geom:latitude":52.580315,
     "geom:longitude":-2.129424,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785837,
-        85633159,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
         101914031,
         85683801
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"fd7e1aa77d83cb51113dd67d18f29bc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785837,
             "region_id":85683801,
             "venue_id":219757703
         }
     ],
     "wof:id":219757703,
-    "wof:lastmodified":1472262199,
+    "wof:lastmodified":1491908575,
     "wof:name":"Rape Crisis Counselling Service",
     "wof:parent_id":85785837,
     "wof:placetype":"venue",

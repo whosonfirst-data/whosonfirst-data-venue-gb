@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.267419,53.465691,-2.267419,53.465691",
     "geom:latitude":53.465691,
     "geom:longitude":-2.267419,
@@ -29,11 +30,14 @@
     "sg:province":"Cheshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85792989,
+        "102191581",
+        404443841,
+        "85633159",
+        404227469,
         101913953,
-        85633159,
-        85789609,
         85684195,
-        85792989
+        85789609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +47,30 @@
     "wof:geomhash":"d00af45a7117ad5a50c7c2f0c6bf2248",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404443841,
             "locality_id":101913953,
-            "neighbourhood_id":85789609,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792989,
             "region_id":85684195,
             "venue_id":136142835
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404443841,
             "locality_id":101913953,
-            "neighbourhood_id":85792989,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789609,
             "region_id":85684195,
             "venue_id":136142835
         }
     ],
     "wof:id":136142835,
-    "wof:lastmodified":1472259800,
+    "wof:lastmodified":1491923105,
     "wof:name":"Country Pine Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

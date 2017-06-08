@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.031893,51.567757,-0.031893,51.567757",
     "geom:latitude":51.567757,
     "geom:longitude":-0.031893,
@@ -39,9 +40,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791225,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684273
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,16 +55,18 @@
     "wof:geomhash":"c7501bf1203b82d968af6737589c5fa2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791225,
-            "region_id":85684273,
+            "region_id":85684061,
             "venue_id":320377749
         }
     ],
     "wof:id":320377749,
-    "wof:lastmodified":1472261154,
+    "wof:lastmodified":1491921410,
     "wof:name":"Leabridge Car Stereo Centre",
     "wof:parent_id":85791225,
     "wof:placetype":"venue",

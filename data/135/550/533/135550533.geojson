@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.04323,51.550968,-0.04323,51.550968",
     "geom:latitude":51.550968,
     "geom:longitude":-0.04323,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860199,
-        85683683
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"e5dced1a0b214aa70d2271c3ecf1e853",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860199,
-            "region_id":85683683,
+            "region_id":85684061,
             "venue_id":135550533
         }
     ],
     "wof:id":135550533,
-    "wof:lastmodified":1472265204,
+    "wof:lastmodified":1491918248,
     "wof:name":"Trevor Sandford",
     "wof:parent_id":85860199,
     "wof:placetype":"venue",

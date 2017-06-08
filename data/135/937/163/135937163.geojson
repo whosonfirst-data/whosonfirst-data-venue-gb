@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.924117,52.436867,-1.924117,52.436867",
     "geom:latitude":52.436867,
     "geom:longitude":-1.924117,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85785881,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:brand_id":420573903,
@@ -47,15 +51,18 @@
     "wof:geomhash":"18464741b54eda7c198641cb398726ea",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785881,
             "region_id":85684283,
             "venue_id":135937163
         }
     ],
     "wof:id":135937163,
-    "wof:lastmodified":1472267638,
+    "wof:lastmodified":1491893422,
     "wof:name":"Wendy's",
     "wof:parent_id":85785881,
     "wof:placetype":"venue",

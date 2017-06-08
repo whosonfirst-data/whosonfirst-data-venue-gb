@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.601154,51.445751,-2.601154,51.445751",
     "geom:latitude":51.445751,
     "geom:longitude":-2.601154,
@@ -33,11 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861383,
         85633159,
+        85861383,
         85684063,
         85790483,
-        101750389
+        "102191581",
+        404431949,
+        "85633159",
+        404227469,
+        101750389,
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +53,26 @@
     "wof:geomhash":"2f8e7f06fb5141c72c3cdb53c445a3dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85861383,
             "region_id":85684063,
             "venue_id":236558681
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431949,
             "locality_id":101750389,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790483,
-            "region_id":85684063,
+            "region_id":85683793,
             "venue_id":236558681
         }
     ],
     "wof:id":236558681,
-    "wof:lastmodified":1472261365,
+    "wof:lastmodified":1491899985,
     "wof:name":"Pembroke Guest House",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

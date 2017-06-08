@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.517336,54.973019,-1.517336,54.973019",
     "geom:latitude":54.973019,
     "geom:longitude":-1.517336,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785695,
-        85633159,
+        "102191581",
+        404435809,
+        "85633159",
+        404227469,
         101750613,
         85684395
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"a58b0e354c5b7f5c659e7a348405ebc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435809,
             "locality_id":101750613,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785695,
             "region_id":85684395,
             "venue_id":253563313
         }
     ],
     "wof:id":253563313,
-    "wof:lastmodified":1472263326,
+    "wof:lastmodified":1491938432,
     "wof:name":"Elaine's Collection",
     "wof:parent_id":85785695,
     "wof:placetype":"venue",

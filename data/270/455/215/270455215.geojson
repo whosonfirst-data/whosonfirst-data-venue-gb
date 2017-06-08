@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.308771,51.396221,-0.308771,51.396221",
     "geom:latitude":51.396221,
     "geom:longitude":-0.308771,
@@ -29,9 +30,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792321,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684151
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,18 @@
     "wof:geomhash":"a30ea977e9d2421638bd4c057cc2148b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792321,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":270455215
         }
     ],
     "wof:id":270455215,
-    "wof:lastmodified":1472261487,
+    "wof:lastmodified":1491917441,
     "wof:name":"The Holiday Store Ltd.",
     "wof:parent_id":85792321,
     "wof:placetype":"venue",

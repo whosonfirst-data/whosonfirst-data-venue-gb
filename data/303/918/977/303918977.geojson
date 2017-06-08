@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.083891,51.478661,0.083891,51.478661",
     "geom:latitude":51.478661,
     "geom:longitude":0.083891,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860539,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683707
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"ace4e3e08b041e0e7ede69c86d227444",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860539,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":303918977
         }
     ],
     "wof:id":303918977,
-    "wof:lastmodified":1472265135,
+    "wof:lastmodified":1491892779,
     "wof:name":"Danarc Ltd",
     "wof:parent_id":85860539,
     "wof:placetype":"venue",

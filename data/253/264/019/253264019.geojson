@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.173836,55.96801,-3.173836,55.96801",
     "geom:latitude":55.96801,
     "geom:longitude":-3.173836,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861481,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"26ec79e3d322530a57d0991d1b126ee1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":253264019
         }
     ],
     "wof:id":253264019,
-    "wof:lastmodified":1472258438,
+    "wof:lastmodified":1491933663,
     "wof:name":"Ray Smith (Car Hi-Fi)",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

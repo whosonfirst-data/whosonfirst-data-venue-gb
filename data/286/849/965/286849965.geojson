@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.53889,53.830379,-1.53889,53.830379",
     "geom:latitude":53.830379,
     "geom:longitude":-1.53889,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786417,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"f41ced7ab9aefe6725fc768c16bb6cb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786417,
             "region_id":85684321,
             "venue_id":286849965
         }
     ],
     "wof:id":286849965,
-    "wof:lastmodified":1472262940,
+    "wof:lastmodified":1491916812,
     "wof:name":"The Pack Horse Ltd",
     "wof:parent_id":85786417,
     "wof:placetype":"venue",

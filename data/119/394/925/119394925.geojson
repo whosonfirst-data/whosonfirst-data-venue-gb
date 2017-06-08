@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.73034,53.834976,-1.73034,53.834976",
     "geom:latitude":53.834976,
     "geom:longitude":-1.73034,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750581,
-        85633159,
         85788415,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
         85684463
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"b28a9515edd8847a1a32d978b6cf2ac5",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788415,
             "region_id":85684463,
             "venue_id":119394925
         }
     ],
     "wof:id":119394925,
-    "wof:lastmodified":1472266566,
+    "wof:lastmodified":1491903364,
     "wof:name":"Arnold,William,",
     "wof:parent_id":85788415,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.869731,52.414066,-1.869731,52.414066",
     "geom:latitude":52.414066,
     "geom:longitude":-1.869731,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791873,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"98f60748214aa859a929d6dbc10cbe1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791873,
             "region_id":85684283,
             "venue_id":287076569
         }
     ],
     "wof:id":287076569,
-    "wof:lastmodified":1472256126,
+    "wof:lastmodified":1491932983,
     "wof:name":"Bargain Bursters",
     "wof:parent_id":85791873,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.164277,55.851536,-4.164277,55.851536",
     "geom:latitude":55.851536,
     "geom:longitude":-4.164277,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790555,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"ecc9e142b6c19634f4657da11d28f13c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":236503725
         }
     ],
     "wof:id":236503725,
-    "wof:lastmodified":1472260732,
+    "wof:lastmodified":1491897850,
     "wof:name":"McAlpines",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

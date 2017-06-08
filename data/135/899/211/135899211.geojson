@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.099821,51.503788,-0.099821,51.503788",
     "geom:latitude":51.503788,
     "geom:longitude":-0.099821,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861631,
-        85684289
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"80742b1e969740871f5b4fc7aa7fcfcb",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861631,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":135899211
         }
     ],
     "wof:id":135899211,
-    "wof:lastmodified":1472267637,
+    "wof:lastmodified":1491934480,
     "wof:name":"Euro Talk",
     "wof:parent_id":85861631,
     "wof:placetype":"venue",

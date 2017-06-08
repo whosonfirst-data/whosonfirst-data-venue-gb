@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.13378,51.506771,-0.13378,51.506771",
     "geom:latitude":51.506771,
     "geom:longitude":-0.13378,
@@ -29,9 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861787,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
         85684061
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"b25e155226365dd77dbf1cc85288f12a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861787,
             "region_id":85684061,
             "venue_id":118605461
         }
     ],
     "wof:id":118605461,
-    "wof:lastmodified":1472258477,
+    "wof:lastmodified":1491916720,
     "wof:name":"M & G Group PLC",
     "wof:parent_id":85861787,
     "wof:placetype":"venue",

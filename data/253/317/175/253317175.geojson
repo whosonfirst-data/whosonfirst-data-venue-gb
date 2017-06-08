@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.144007,51.506992,-0.144007,51.506992",
     "geom:latitude":51.506992,
     "geom:longitude":-0.144007,
@@ -28,11 +29,14 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861753,
-        85633159,
+        85789041,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061,
-        85789041
+        85861753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,26 +46,30 @@
     "wof:geomhash":"6df37ee337a753963cac69b91f0451d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85861753,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789041,
             "region_id":85684061,
             "venue_id":253317175
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85789041,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861753,
             "region_id":85684061,
             "venue_id":253317175
         }
     ],
     "wof:id":253317175,
-    "wof:lastmodified":1472259057,
+    "wof:lastmodified":1491926402,
     "wof:name":"Munro-Faure",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

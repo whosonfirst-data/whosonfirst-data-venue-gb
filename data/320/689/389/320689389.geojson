@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.095875,51.475056,-0.095875,51.475056",
     "geom:latitude":51.475056,
     "geom:longitude":-0.095875,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786171,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"852f04212bb01c705ceb680a4cd0a4a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786171,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":320689389
         }
     ],
     "wof:id":320689389,
-    "wof:lastmodified":1472264683,
+    "wof:lastmodified":1491921364,
     "wof:name":"A Ogunfeibo & Co.",
     "wof:parent_id":85786171,
     "wof:placetype":"venue",

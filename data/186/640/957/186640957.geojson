@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.331286,51.446869,-0.331286,51.446869",
     "geom:latitude":51.446869,
     "geom:longitude":-0.331286,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791201,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684151
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"1700454be3e1d9fdc7e42bc9ca849225",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791201,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":186640957
         }
     ],
     "wof:id":186640957,
-    "wof:lastmodified":1472261273,
+    "wof:lastmodified":1491889310,
     "wof:name":"Nuff Respect Ltd.",
     "wof:parent_id":85791201,
     "wof:placetype":"venue",

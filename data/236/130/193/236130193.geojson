@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.221614,55.868454,-4.221614,55.868454",
     "geom:latitude":55.868454,
     "geom:longitude":-4.221614,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785321,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"ed412274ac8719025785144e933b0f52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85785321,
             "region_id":85684351,
             "venue_id":236130193
         }
     ],
     "wof:id":236130193,
-    "wof:lastmodified":1472256260,
+    "wof:lastmodified":1491920188,
     "wof:name":"Roystonhill Recreation Centre",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",

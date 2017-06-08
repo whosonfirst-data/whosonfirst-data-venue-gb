@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.220892,51.54895,-0.220892,51.54895",
     "geom:latitude":51.54895,
     "geom:longitude":-0.220892,
@@ -38,9 +39,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85869863,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684003
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,16 +54,18 @@
     "wof:geomhash":"9578d4faacd70b67f740f02bcd54d512",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869863,
-            "region_id":85684003,
+            "region_id":85684061,
             "venue_id":287308495
         }
     ],
     "wof:id":287308495,
-    "wof:lastmodified":1472259146,
+    "wof:lastmodified":1491908515,
     "wof:name":"Camerons",
     "wof:parent_id":85869863,
     "wof:placetype":"venue",

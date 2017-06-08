@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.351174,53.484428,-2.351174,53.484428",
     "geom:latitude":53.484428,
     "geom:longitude":-2.351174,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789751,
-        85633159,
+        85787221,
+        "102191581",
+        404450245,
+        "85633159",
+        404227469,
         101750555,
         85684495,
-        85787221
+        85789751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +52,30 @@
     "wof:geomhash":"45dcf8cabdcc25189c929d990fef0b9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101750555,
-            "neighbourhood_id":85789751,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787221,
             "region_id":85684495,
             "venue_id":236126327
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101750555,
-            "neighbourhood_id":85787221,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789751,
             "region_id":85684495,
             "venue_id":236126327
         }
     ],
     "wof:id":236126327,
-    "wof:lastmodified":1472256199,
+    "wof:lastmodified":1491915027,
     "wof:name":"Abdul L Awan",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

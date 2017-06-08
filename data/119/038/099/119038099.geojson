@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.111504,51.486694,-0.111504,51.486694",
     "geom:latitude":51.486694,
     "geom:longitude":-0.111504,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792141,
-        85684533
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"0e3eb102a89db587840a300c219ae46b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792141,
-            "region_id":85684533,
+            "region_id":85684061,
             "venue_id":119038099
         }
     ],
     "wof:id":119038099,
-    "wof:lastmodified":1472255920,
+    "wof:lastmodified":1491936903,
     "wof:name":"Taste of India",
     "wof:parent_id":85792141,
     "wof:placetype":"venue",

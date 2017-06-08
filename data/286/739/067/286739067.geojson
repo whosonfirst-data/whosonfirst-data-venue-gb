@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.138692,51.506802,-0.138692,51.506802",
     "geom:latitude":51.506802,
     "geom:longitude":-0.138692,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861787,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"1a5dcf661cb3555bb46f528641742e35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861787,
             "region_id":85684061,
             "venue_id":286739067
         }
     ],
     "wof:id":286739067,
-    "wof:lastmodified":1472261836,
+    "wof:lastmodified":1491916728,
     "wof:name":"Richard Caplan Ltd.",
     "wof:parent_id":85861787,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.030564,51.526573,0.030564,51.526573",
     "geom:latitude":51.526573,
     "geom:longitude":0.030564,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789849,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684411
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"575b6967cb2a6e1c3edb87f889bc915a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789849,
-            "region_id":85684411,
+            "region_id":85684061,
             "venue_id":236114923
         }
     ],
     "wof:id":236114923,
-    "wof:lastmodified":1472256173,
+    "wof:lastmodified":1491906526,
     "wof:name":"Harry's Barbers",
     "wof:parent_id":85789849,
     "wof:placetype":"venue",

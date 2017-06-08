@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.164158,51.59034,-0.164158,51.59034",
     "geom:latitude":51.59034,
     "geom:longitude":-0.164158,
@@ -29,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787165,
-        85684613
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"9af5c7de7b2980df4388bbd61a7ef699",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787165,
-            "region_id":85684613,
+            "region_id":85684061,
             "venue_id":119389319
         }
     ],
     "wof:id":119389319,
-    "wof:lastmodified":1472266386,
+    "wof:lastmodified":1491890045,
     "wof:name":"Corporate Express (UK) Ltd",
     "wof:parent_id":85787165,
     "wof:placetype":"venue",

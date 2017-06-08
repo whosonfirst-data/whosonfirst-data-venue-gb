@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.085671,51.559105,0.085671,51.559105",
     "geom:latitude":51.559105,
     "geom:longitude":0.085671,
@@ -40,10 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790249,
-        85684441
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +57,18 @@
     "wof:geomhash":"89f53e65d2d5e483893b7be790ea608f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790249,
-            "region_id":85684441,
+            "region_id":85684061,
             "venue_id":118924517
         }
     ],
     "wof:id":118924517,
-    "wof:lastmodified":1472265824,
+    "wof:lastmodified":1491892869,
     "wof:name":"Prince Of Wales",
     "wof:parent_id":85790249,
     "wof:placetype":"venue",

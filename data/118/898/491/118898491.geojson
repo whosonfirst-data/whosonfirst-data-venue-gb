@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.404613,55.854618,-4.404613,55.854618",
     "geom:latitude":55.854618,
     "geom:longitude":-4.404613,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101913923,
-        85633159,
         85792475,
+        "102191581",
+        404432463,
+        "85633159",
+        404227471,
+        101913923,
         85684039
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"22fd6a29567bc1ebf4ef244e815bcc50",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432463,
             "locality_id":101913923,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792475,
             "region_id":85684039,
             "venue_id":118898491
         }
     ],
     "wof:id":118898491,
-    "wof:lastmodified":1472265719,
+    "wof:lastmodified":1491912836,
     "wof:name":"John Hughes Carpet Fitting",
     "wof:parent_id":85792475,
     "wof:placetype":"venue",

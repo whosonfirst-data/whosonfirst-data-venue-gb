@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.397839,54.899864,-1.397839,54.899864",
     "geom:latitude":54.899864,
     "geom:longitude":-1.397839,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793173,
-        85633159,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
         101750611,
         85684483
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"bd03f42f93bd9da7147ed9da031de401",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793173,
             "region_id":85684483,
             "venue_id":186485689
         }
     ],
     "wof:id":186485689,
-    "wof:lastmodified":1472259592,
+    "wof:lastmodified":1491905686,
     "wof:name":"Westland Insurance Services",
     "wof:parent_id":85793173,
     "wof:placetype":"venue",

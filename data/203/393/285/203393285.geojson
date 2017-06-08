@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.635802,53.805759,-1.635802,53.805759",
     "geom:latitude":53.805759,
     "geom:longitude":-1.635802,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785937,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"3314324b76d0b21d8fc821a0b90e708c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785937,
             "region_id":85684321,
             "venue_id":203393285
         }
     ],
     "wof:id":203393285,
-    "wof:lastmodified":1472258794,
+    "wof:lastmodified":1491922970,
     "wof:name":"R M Dockray",
     "wof:parent_id":85785937,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.859269,52.457001,-1.859269,52.457001",
     "geom:latitude":52.457001,
     "geom:longitude":-1.859269,
@@ -23,9 +24,12 @@
     "sg:province":"West Midlands",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787787,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -36,15 +40,18 @@
     "wof:geomhash":"ec0518a8e3b1a3a25e3159962415ab79",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787787,
             "region_id":85684283,
             "venue_id":119286763
         }
     ],
     "wof:id":119286763,
-    "wof:lastmodified":1472265632,
+    "wof:lastmodified":1491919476,
     "wof:name":"Bassra Machine Tools Ltd.",
     "wof:parent_id":85787787,
     "wof:placetype":"venue",

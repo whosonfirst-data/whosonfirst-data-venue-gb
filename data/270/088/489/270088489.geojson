@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.229601,53.328815,-2.229601,53.328815",
     "geom:latitude":53.328815,
     "geom:longitude":-2.229601,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785933,
-        85633159,
+        "102191581",
+        404444839,
+        "85633159",
+        404227469,
         101750527,
         85683899
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"ffe25e8571c49b1067e6f4fd9c96731d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444839,
             "locality_id":101750527,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785933,
             "region_id":85683899,
             "venue_id":270088489
         }
     ],
     "wof:id":270088489,
-    "wof:lastmodified":1472256247,
+    "wof:lastmodified":1491924788,
     "wof:name":"Freddies",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",

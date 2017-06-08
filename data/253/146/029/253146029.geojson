@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.507869,52.453064,-1.507869,52.453064",
     "geom:latitude":52.453064,
     "geom:longitude":-1.507869,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785359,
-        85633159,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
         101750449,
-        85683907
+        85684565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,18 @@
     "wof:geomhash":"a93f55b3ac48b64c3ec34046c8fa6bbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785359,
-            "region_id":85683907,
+            "region_id":85684565,
             "venue_id":253146029
         }
     ],
     "wof:id":253146029,
-    "wof:lastmodified":1472256808,
+    "wof:lastmodified":1491893888,
     "wof:name":"Warwickshire Support Service",
     "wof:parent_id":85785359,
     "wof:placetype":"venue",

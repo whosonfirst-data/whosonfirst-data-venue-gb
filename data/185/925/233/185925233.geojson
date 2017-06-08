@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.120777,51.649647,-0.120777,51.649647",
     "geom:latitude":51.649647,
     "geom:longitude":-0.120777,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860339,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684381
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,18 @@
     "wof:geomhash":"58b2dcf6c7fdbd231f719b8b83fb861f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860339,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":185925233
         }
     ],
     "wof:id":185925233,
-    "wof:lastmodified":1472257481,
+    "wof:lastmodified":1491915511,
     "wof:name":"M G A Plasterers",
     "wof:parent_id":85860339,
     "wof:placetype":"venue",

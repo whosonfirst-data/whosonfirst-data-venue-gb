@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.21044,51.514954,-0.21044,51.514954",
     "geom:latitude":51.514954,
     "geom:longitude":-0.21044,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789533,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683667
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"f630a4e2cb6acea7927221321c16b6c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789533,
-            "region_id":85683667,
+            "region_id":85684061,
             "venue_id":219344295
         }
     ],
     "wof:id":219344295,
-    "wof:lastmodified":1472257489,
+    "wof:lastmodified":1491931797,
     "wof:name":"Piper House Hostel For People With Learning Disabilities",
     "wof:parent_id":85789533,
     "wof:placetype":"venue",

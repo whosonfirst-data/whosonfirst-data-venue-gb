@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.036669,51.587688,-0.036669,51.587688",
     "geom:latitude":51.587688,
     "geom:longitude":-0.036669,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792429,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684273
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"1b14ce73fc81a5b28d7d0c9f3a33b22a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792429,
-            "region_id":85684273,
+            "region_id":85684061,
             "venue_id":304074257
         }
     ],
     "wof:id":304074257,
-    "wof:lastmodified":1472256158,
+    "wof:lastmodified":1491894899,
     "wof:name":"Express Bingo Co Ltd",
     "wof:parent_id":85792429,
     "wof:placetype":"venue",

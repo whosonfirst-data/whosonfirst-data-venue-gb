@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.685712,53.865944,-1.685712,53.865944",
     "geom:latitude":53.865944,
     "geom:longitude":-1.685712,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786761,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -44,18 +46,17 @@
     "wof:geomhash":"6cfad1cd6fa398eb6f81bb720351642d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":253645597
         }
     ],
     "wof:id":253645597,
-    "wof:lastmodified":1472264219,
+    "wof:lastmodified":1491932538,
     "wof:name":"Sharon Farrar",
-    "wof:parent_id":85786761,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

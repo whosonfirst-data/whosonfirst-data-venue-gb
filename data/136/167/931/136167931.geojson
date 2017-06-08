@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.24224,51.616024,-0.24224,51.616024",
     "geom:latitude":51.616024,
     "geom:longitude":-0.24224,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789097,
-        85684613
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"7c93e5c58aa3514ef585ce3a45fe58a4",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789097,
-            "region_id":85684613,
+            "region_id":85684061,
             "venue_id":136167931
         }
     ],
     "wof:id":136167931,
-    "wof:lastmodified":1472262051,
+    "wof:lastmodified":1491899847,
     "wof:name":"Baker,Catherine,",
     "wof:parent_id":85789097,
     "wof:placetype":"venue",

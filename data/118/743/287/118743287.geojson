@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.959866,53.411018,-2.959866,53.411018",
     "geom:latitude":53.411018,
     "geom:longitude":-2.959866,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750547,
-        85633159,
         85788511,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
+        101750547,
         85684213
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"0c0af709a38ac7be92a4b36f974f30e8",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788511,
             "region_id":85684213,
             "venue_id":118743287
         }
     ],
     "wof:id":118743287,
-    "wof:lastmodified":1472263969,
+    "wof:lastmodified":1491938853,
     "wof:name":"Roberts Wines",
     "wof:parent_id":85788511,
     "wof:placetype":"venue",

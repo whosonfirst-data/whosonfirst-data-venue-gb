@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.161414,55.865749,-4.161414,55.865749",
     "geom:latitude":55.865749,
     "geom:longitude":-4.161414,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790555,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"92ae7c05a23609e3412fe67cfa9aa020",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":303695671
         }
     ],
     "wof:id":303695671,
-    "wof:lastmodified":1472264345,
+    "wof:lastmodified":1491897831,
     "wof:name":"Church Of Scotland",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

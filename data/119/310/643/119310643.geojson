@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.149769,52.574787,-2.149769,52.574787",
     "geom:latitude":52.574787,
     "geom:longitude":-2.149769,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914031,
-        85633159,
         85785907,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
+        101914031,
         85683801
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"66e54889af5df9e9109d11fd96872c83",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785907,
             "region_id":85683801,
             "venue_id":119310643
         }
     ],
     "wof:id":119310643,
-    "wof:lastmodified":1472265613,
+    "wof:lastmodified":1491914479,
     "wof:name":"Bamboo House",
     "wof:parent_id":85785907,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.24777,51.546707,-0.24777,51.546707",
     "geom:latitude":51.546707,
     "geom:longitude":-0.24777,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860401,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684003
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,18 @@
     "wof:geomhash":"593b549b1aa75ae2380cd7153ad73ebe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860401,
-            "region_id":85684003,
+            "region_id":85684061,
             "venue_id":320852905
         }
     ],
     "wof:id":320852905,
-    "wof:lastmodified":1472265671,
+    "wof:lastmodified":1491913538,
     "wof:name":"M C A Communications",
     "wof:parent_id":85860401,
     "wof:placetype":"venue",

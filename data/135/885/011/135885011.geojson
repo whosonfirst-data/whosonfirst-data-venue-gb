@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.858379,52.453476,-1.858379,52.453476",
     "geom:latitude":52.453476,
     "geom:longitude":-1.858379,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787787,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"7cc2e29ead402e6f62d654d6555af73c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787787,
             "region_id":85684283,
             "venue_id":135885011
         }
     ],
     "wof:id":135885011,
-    "wof:lastmodified":1472267564,
+    "wof:lastmodified":1491919497,
     "wof:name":"BSL Ltd",
     "wof:parent_id":85787787,
     "wof:placetype":"venue",

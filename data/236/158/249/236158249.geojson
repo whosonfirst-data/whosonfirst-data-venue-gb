@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.242508,51.399769,-0.242508,51.399769",
     "geom:latitude":51.399769,
     "geom:longitude":-0.242508,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860327,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684099
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"b7028f1bdac5d1650d8a909cf99b554d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860327,
-            "region_id":85684099,
+            "region_id":85684061,
             "venue_id":236158249
         }
     ],
     "wof:id":236158249,
-    "wof:lastmodified":1472256525,
+    "wof:lastmodified":1491885885,
     "wof:name":"Bass Brewery",
     "wof:parent_id":85860327,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.107694,51.507957,-0.107694,51.507957",
     "geom:latitude":51.507957,
     "geom:longitude":-0.107694,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861631,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,18 @@
     "wof:geomhash":"8feda12b19b7ac25a496c2791acc40dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861631,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":186617741
         }
     ],
     "wof:id":186617741,
-    "wof:lastmodified":1472261010,
+    "wof:lastmodified":1491934487,
     "wof:name":"Bistrot 2 Riverside",
     "wof:parent_id":85861631,
     "wof:placetype":"venue",

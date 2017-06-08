@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.21667,55.959038,-3.21667,55.959038",
     "geom:latitude":55.959038,
     "geom:longitude":-3.21667,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85861477,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"b1e006ff85a137888827483de33b4f8d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861477,
             "region_id":85684587,
             "venue_id":119216423
         }
     ],
     "wof:id":119216423,
-    "wof:lastmodified":1472264970,
+    "wof:lastmodified":1491911202,
     "wof:name":"Adstock Services Ltd",
     "wof:parent_id":85861477,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.300546,55.854733,-4.300546,55.854733",
     "geom:latitude":55.854733,
     "geom:longitude":-4.300546,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792485,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"d99460aca58a0cf5c6f6ffba1de2002a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792485,
             "region_id":85684351,
             "venue_id":269640939
         }
     ],
     "wof:id":269640939,
-    "wof:lastmodified":1472257751,
+    "wof:lastmodified":1491934574,
     "wof:name":"Central Building Contractors (Glasgow) Ltd.",
     "wof:parent_id":85792485,
     "wof:placetype":"venue",

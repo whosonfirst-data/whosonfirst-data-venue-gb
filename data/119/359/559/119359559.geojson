@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.285001,51.526554,-0.285001,51.526554",
     "geom:latitude":51.526554,
     "geom:longitude":-0.285001,
@@ -29,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792283,
-        85683679
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"fe1dfaed8836db04cc224b060edb16a6",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792283,
-            "region_id":85683679,
+            "region_id":85684061,
             "venue_id":119359559
         }
     ],
     "wof:id":119359559,
-    "wof:lastmodified":1472266483,
+    "wof:lastmodified":1491931720,
     "wof:name":"Hanger Green Food & Wines",
     "wof:parent_id":85792283,
     "wof:placetype":"venue",

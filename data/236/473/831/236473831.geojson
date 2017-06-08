@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.870406,52.412418,-1.870406,52.412418",
     "geom:latitude":52.412418,
     "geom:longitude":-1.870406,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791873,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"966d58939e12009d6188b484b2739732",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791873,
             "region_id":85684283,
             "venue_id":236473831
         }
     ],
     "wof:id":236473831,
-    "wof:lastmodified":1472260383,
+    "wof:lastmodified":1491932998,
     "wof:name":"FALCON SERVICE STATIONS LTD",
     "wof:parent_id":85791873,
     "wof:placetype":"venue",

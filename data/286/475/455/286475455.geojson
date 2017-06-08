@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.23049,53.44939,-2.23049,53.44939",
     "geom:latitude":53.44939,
     "geom:longitude":-2.23049,
@@ -39,7 +40,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789203,
-        85633159,
+        "102191581",
+        404431331,
+        "85633159",
+        404227469,
         101750525,
         85683651
     ],
@@ -51,16 +55,18 @@
     "wof:geomhash":"f1a3e25a94814d1cc772462d6278edd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431331,
             "locality_id":101750525,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789203,
             "region_id":85683651,
             "venue_id":286475455
         }
     ],
     "wof:id":286475455,
-    "wof:lastmodified":1472257606,
+    "wof:lastmodified":1491909453,
     "wof:name":"NORTH WEST CASH & CARRY",
     "wof:parent_id":85789203,
     "wof:placetype":"venue",

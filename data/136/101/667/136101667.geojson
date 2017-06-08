@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.162757,55.851498,-4.162757,55.851498",
     "geom:latitude":55.851498,
     "geom:longitude":-4.162757,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85790555,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"919477ccd6b0680235fe63eb2a40fe51",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":136101667
         }
     ],
     "wof:id":136101667,
-    "wof:lastmodified":1472258794,
+    "wof:lastmodified":1491897832,
     "wof:name":"The Diner",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

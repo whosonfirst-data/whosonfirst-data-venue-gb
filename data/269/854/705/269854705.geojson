@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.111684,51.594704,-0.111684,51.594704",
     "geom:latitude":51.594704,
     "geom:longitude":-0.111684,
@@ -36,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791751,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684121
+        85684061
     ],
     "wof:brand_id":420574323,
     "wof:breaches":[],
@@ -49,16 +53,18 @@
     "wof:geomhash":"12de3145a10b14d8aa0cfd2069a0d937",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791751,
-            "region_id":85684121,
+            "region_id":85684061,
             "venue_id":269854705
         }
     ],
     "wof:id":269854705,
-    "wof:lastmodified":1472260979,
+    "wof:lastmodified":1491896690,
     "wof:name":"Iceland Foods Plc",
     "wof:parent_id":85791751,
     "wof:placetype":"venue",

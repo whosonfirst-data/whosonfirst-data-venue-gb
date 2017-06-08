@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.284998,55.886429,-4.284998,55.886429",
     "geom:latitude":55.886429,
     "geom:longitude":-4.284998,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789015,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"9f788855943c26bb15b30eedd3d63d74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789015,
             "region_id":85684351,
             "venue_id":253622419
         }
     ],
     "wof:id":253622419,
-    "wof:lastmodified":1472264038,
+    "wof:lastmodified":1491934475,
     "wof:name":"Carers Support & Development Project",
     "wof:parent_id":85789015,
     "wof:placetype":"venue",

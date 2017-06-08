@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.786837,53.806126,-1.786837,53.806126",
     "geom:latitude":53.806126,
     "geom:longitude":-1.786837,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750581,
-        85633159,
         85787493,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
         85684463
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"0942604802f61618b9b62e369a6d4acf",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787493,
             "region_id":85684463,
             "venue_id":135451743
         }
     ],
     "wof:id":135451743,
-    "wof:lastmodified":1472264146,
+    "wof:lastmodified":1491937692,
     "wof:name":"Dodsley Dodsley",
     "wof:parent_id":85787493,
     "wof:placetype":"venue",

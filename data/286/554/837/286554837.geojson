@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.511743,52.375431,-1.511743,52.375431",
     "geom:latitude":52.375431,
     "geom:longitude":-1.511743,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790739,
-        85633159,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
         101750449,
         85684565
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"5f9b7e162b36a8e0b26c27fe5c33370d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790739,
             "region_id":85684565,
             "venue_id":286554837
         }
     ],
     "wof:id":286554837,
-    "wof:lastmodified":1472258755,
+    "wof:lastmodified":1491930149,
     "wof:name":"Alanhire",
     "wof:parent_id":85790739,
     "wof:placetype":"venue",

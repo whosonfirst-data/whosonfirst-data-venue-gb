@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.485463,53.821289,-1.485463,53.821289",
     "geom:latitude":53.821289,
     "geom:longitude":-1.485463,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792871,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"8e7d0ada2e14359737798e7fba429335",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792871,
             "region_id":85684321,
             "venue_id":303618031
         }
     ],
     "wof:id":303618031,
-    "wof:lastmodified":1472263777,
+    "wof:lastmodified":1491932514,
     "wof:name":"R Waliter",
     "wof:parent_id":85792871,
     "wof:placetype":"venue",

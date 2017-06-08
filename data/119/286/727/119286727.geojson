@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.860518,52.455536,-1.860518,52.455536",
     "geom:latitude":52.455536,
     "geom:longitude":-1.860518,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787787,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"0a9999fb1f6955eb64d4c22bce01cb9a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787787,
             "region_id":85684283,
             "venue_id":119286727
         }
     ],
     "wof:id":119286727,
-    "wof:lastmodified":1472265622,
+    "wof:lastmodified":1491919475,
     "wof:name":"Midlands Education Training Services",
     "wof:parent_id":85787787,
     "wof:placetype":"venue",

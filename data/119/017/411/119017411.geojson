@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.028013,51.377174,-0.028013,51.377174",
     "geom:latitude":51.377174,
     "geom:longitude":-0.028013,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860037,
-        85684235
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:brand_id":420575457,
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"1b3dee33b37289886abc7f196c36fe43",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860037,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":119017411
         }
     ],
     "wof:id":119017411,
-    "wof:lastmodified":1472255077,
+    "wof:lastmodified":1491894481,
     "wof:name":"Unwins Wine Merchants",
     "wof:parent_id":85860037,
     "wof:placetype":"venue",

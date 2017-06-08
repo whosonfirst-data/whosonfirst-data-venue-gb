@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.737204,53.787506,-1.737204,53.787506",
     "geom:latitude":53.787506,
     "geom:longitude":-1.737204,
@@ -41,7 +42,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788673,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463,
         85791453
@@ -54,26 +58,30 @@
     "wof:geomhash":"6f5a530ae45219b47bb831430a7494cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788673,
             "region_id":85684463,
             "venue_id":270172433
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791453,
             "region_id":85684463,
             "venue_id":270172433
         }
     ],
     "wof:id":270172433,
-    "wof:lastmodified":1472257119,
+    "wof:lastmodified":1491905481,
     "wof:name":"Arco Bradford Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

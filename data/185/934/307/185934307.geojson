@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.068328,51.47163,-0.068328,51.47163",
     "geom:latitude":51.47163,
     "geom:longitude":-0.068328,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789765,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,18 @@
     "wof:geomhash":"97c438fc667367ae4e12828d8c218e5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789765,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":185934307
         }
     ],
     "wof:id":185934307,
-    "wof:lastmodified":1472257587,
+    "wof:lastmodified":1491892288,
     "wof:name":"Oasis Trust No.3",
     "wof:parent_id":85789765,
     "wof:placetype":"venue",

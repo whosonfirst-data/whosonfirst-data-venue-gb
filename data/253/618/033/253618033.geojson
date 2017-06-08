@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.304299,55.870777,-4.304299,55.870777",
     "geom:latitude":55.870777,
     "geom:longitude":-4.304299,
@@ -38,7 +39,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792659,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351,
         85789735
@@ -51,26 +55,30 @@
     "wof:geomhash":"0ddb4f8f00fd0f432e53cdac222ab650",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792659,
             "region_id":85684351,
             "venue_id":253618033
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789735,
             "region_id":85684351,
             "venue_id":253618033
         }
     ],
     "wof:id":253618033,
-    "wof:lastmodified":1472264021,
+    "wof:lastmodified":1491912122,
     "wof:name":"THE CROWDED HOUSE",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

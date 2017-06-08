@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.514217,52.443024,-1.514217,52.443024",
     "geom:latitude":52.443024,
     "geom:longitude":-1.514217,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750449,
-        85633159,
         85864245,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
+        101750449,
         85684565
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"1c8565863130d48e8b332d85c3b9d99d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85864245,
             "region_id":85684565,
             "venue_id":136044527
         }
     ],
     "wof:id":136044527,
-    "wof:lastmodified":1472256465,
+    "wof:lastmodified":1491902409,
     "wof:name":"Blakemore,Peter,",
     "wof:parent_id":85864245,
     "wof:placetype":"venue",

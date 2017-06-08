@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.02872,51.512939,-0.02872,51.512939",
     "geom:latitude":51.512939,
     "geom:longitude":-0.02872,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788777,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684467
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"85da447e926e40f3ce64ef7b3c7d6b73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788777,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":286492515
         }
     ],
     "wof:id":286492515,
-    "wof:lastmodified":1472257999,
+    "wof:lastmodified":1491938730,
     "wof:name":"William Verry Ltd.",
     "wof:parent_id":85788777,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.125901,51.525917,-0.125901,51.525917",
     "geom:latitude":51.525917,
     "geom:longitude":-0.125901,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790643,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684597
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"0adf98d74b80641271202344fa6d570a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790643,
-            "region_id":85684597,
+            "region_id":85684061,
             "venue_id":303456027
         }
     ],
     "wof:id":303456027,
-    "wof:lastmodified":1472260835,
+    "wof:lastmodified":1491889404,
     "wof:name":"Barnets Barber Shop",
     "wof:parent_id":85790643,
     "wof:placetype":"venue",

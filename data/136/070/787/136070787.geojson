@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.345366,55.875866,-4.345366,55.875866",
     "geom:latitude":55.875866,
     "geom:longitude":-4.345366,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85791637,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
-        85633159,
-        85790197,
         85684351,
-        85791637
+        85790197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +50,30 @@
     "wof:geomhash":"9c1e83830136332aa95be0a2d3a6c343",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
-            "neighbourhood_id":85790197,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85791637,
             "region_id":85684351,
             "venue_id":136070787
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
-            "neighbourhood_id":85791637,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85790197,
             "region_id":85684351,
             "venue_id":136070787
         }
     ],
     "wof:id":136070787,
-    "wof:lastmodified":1472257556,
+    "wof:lastmodified":1491911753,
     "wof:name":"Duplikats Printers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

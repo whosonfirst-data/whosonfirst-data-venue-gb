@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.06438,51.478821,-0.06438,51.478821",
     "geom:latitude":51.478821,
     "geom:longitude":-0.06438,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789765,
-        85684289
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"067db4bdaeceada7d320ca40f0fb6bd3",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789765,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":135778883
         }
     ],
     "wof:id":135778883,
-    "wof:lastmodified":1472267089,
+    "wof:lastmodified":1491892303,
     "wof:name":"Brogden,D,",
     "wof:parent_id":85789765,
     "wof:placetype":"venue",

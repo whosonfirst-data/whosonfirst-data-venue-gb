@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.085679,51.472893,0.085679,51.472893",
     "geom:latitude":51.472893,
     "geom:longitude":0.085679,
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860539,
-        85683707
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,18 @@
     "wof:geomhash":"d017f382a71f4c1875debd39d58e552d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860539,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":135472305
         }
     ],
     "wof:id":135472305,
-    "wof:lastmodified":1472264080,
+    "wof:lastmodified":1491892780,
     "wof:name":"Dave Gas Services",
     "wof:parent_id":85860539,
     "wof:placetype":"venue",

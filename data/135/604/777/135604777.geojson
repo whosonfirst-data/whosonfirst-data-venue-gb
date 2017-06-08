@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.245248,51.615856,-0.245248,51.615856",
     "geom:latitude":51.615856,
     "geom:longitude":-0.245248,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789097,
-        85684613
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:brand_id":420575207,
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"10cc3668c6ffb6daf780eda7e273d962",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789097,
-            "region_id":85684613,
+            "region_id":85684061,
             "venue_id":135604777
         }
     ],
     "wof:id":135604777,
-    "wof:lastmodified":1472265418,
+    "wof:lastmodified":1491899870,
     "wof:name":"National Tyres and Autocare",
     "wof:parent_id":85789097,
     "wof:placetype":"venue",

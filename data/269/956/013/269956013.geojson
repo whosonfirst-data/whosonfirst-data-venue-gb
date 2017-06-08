@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.445241,53.394398,-1.445241,53.394398",
     "geom:latitude":53.394398,
     "geom:longitude":-1.445241,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785403,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"efd25eae98801da2fe50299582979d45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":269956013
         }
     ],
     "wof:id":269956013,
-    "wof:lastmodified":1472262452,
+    "wof:lastmodified":1491907086,
     "wof:name":"DYNAMIC DIE & STEEL (SHEFFIELD) LTD",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

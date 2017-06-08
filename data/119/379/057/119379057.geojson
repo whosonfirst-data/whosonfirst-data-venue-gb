@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.415921,54.910992,-1.415921,54.910992",
     "geom:latitude":54.910992,
     "geom:longitude":-1.415921,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750611,
-        85633159,
         85789711,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
+        101750611,
         85684483
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"65ea198586871f5b5a10c41a201cbc84",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789711,
             "region_id":85684483,
             "venue_id":119379057
         }
     ],
     "wof:id":119379057,
-    "wof:lastmodified":1472266322,
+    "wof:lastmodified":1491903138,
     "wof:name":"Sammy's",
     "wof:parent_id":85789711,
     "wof:placetype":"venue",

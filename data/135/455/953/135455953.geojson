@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.188178,55.95092,-3.188178,55.95092",
     "geom:latitude":55.95092,
     "geom:longitude":-3.188178,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85792713,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"1c34ad801e465a607a5c9b6e8b93d05b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792713,
             "region_id":85684587,
             "venue_id":135455953
         }
     ],
     "wof:id":135455953,
-    "wof:lastmodified":1472264196,
+    "wof:lastmodified":1491885586,
     "wof:name":"Four Square (Scotland)",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",

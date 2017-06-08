@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.956359,52.500107,-1.956359,52.500107",
     "geom:latitude":52.500107,
     "geom:longitude":-1.956359,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914045,
-        85633159,
         85787515,
+        "102191581",
+        404446943,
+        "85633159",
+        404227469,
+        101914045,
         85684511
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"6fd91bf5c97cdd1d9c499eaed1eab553",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
             "locality_id":101914045,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787515,
             "region_id":85684511,
             "venue_id":136154597
         }
     ],
     "wof:id":136154597,
-    "wof:lastmodified":1472260897,
+    "wof:lastmodified":1491936076,
     "wof:name":"Wellman Thermal Systems Ltd.",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",

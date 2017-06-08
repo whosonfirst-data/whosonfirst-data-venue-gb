@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.180717,51.481022,-3.180717,51.481022",
     "geom:latitude":51.481022,
     "geom:longitude":-3.180717,
@@ -40,11 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85792749,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
-        85633159,
-        85861435,
         85683787,
-        85792749
+        85861435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,24 +58,30 @@
     "wof:geomhash":"1b9f6359d07e8094a282741173237565",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
-            "neighbourhood_id":85861435,
+            "macroregion_id":404227475,
+            "neighbourhood_id":85792749,
             "region_id":85683787,
             "venue_id":136016375
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
-            "neighbourhood_id":85792749,
+            "macroregion_id":404227475,
+            "neighbourhood_id":85861435,
             "region_id":85683787,
             "venue_id":136016375
         }
     ],
     "wof:id":136016375,
-    "wof:lastmodified":1472255233,
+    "wof:lastmodified":1491886792,
     "wof:name":"Hobby All",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

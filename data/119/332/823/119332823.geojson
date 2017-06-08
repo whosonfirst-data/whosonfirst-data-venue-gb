@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.189591,51.482334,-3.189591,51.482334",
     "geom:latitude":51.482334,
     "geom:longitude":-3.189591,
@@ -29,9 +30,12 @@
     "sg:province":"Cardiff",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750397,
-        85633159,
         85861435,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
+        101750397,
         85683787
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"9da8fae11bcb39c91868b0588fd20ed2",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861435,
             "region_id":85683787,
             "venue_id":119332823
         }
     ],
     "wof:id":119332823,
-    "wof:lastmodified":1472266073,
+    "wof:lastmodified":1491886728,
     "wof:name":"Dollond & Aitchison Ltd.",
     "wof:parent_id":85861435,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.168416,51.595592,-0.168416,51.595592",
     "geom:latitude":51.595592,
     "geom:longitude":-0.168416,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787165,
-        85684613
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"a01473490ad1941a2a17f96451e9539c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787165,
-            "region_id":85684613,
+            "region_id":85684061,
             "venue_id":135320045
         }
     ],
     "wof:id":135320045,
-    "wof:lastmodified":1472256645,
+    "wof:lastmodified":1491890046,
     "wof:name":"Dannys Decorating",
     "wof:parent_id":85787165,
     "wof:placetype":"venue",

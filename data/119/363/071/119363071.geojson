@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.02306,51.585884,0.02306,51.585884",
     "geom:latitude":51.585884,
     "geom:longitude":0.02306,
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790401,
-        85684441
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +55,18 @@
     "wof:geomhash":"fbfa14cf2b32e9f11038472abf06fda7",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790401,
-            "region_id":85684441,
+            "region_id":85684061,
             "venue_id":119363071
         }
     ],
     "wof:id":119363071,
-    "wof:lastmodified":1472266315,
+    "wof:lastmodified":1491919331,
     "wof:name":"Snaresbrook Primary School",
     "wof:parent_id":85790401,
     "wof:placetype":"venue",

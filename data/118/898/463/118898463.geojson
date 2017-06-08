@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.553066,51.455376,-2.553066,51.455376",
     "geom:latitude":51.455376,
     "geom:longitude":-2.553066,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750389,
-        85633159,
         85790029,
-        85684063
+        "102191581",
+        404431949,
+        "85633159",
+        404227469,
+        101750389,
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"e429f509463df1d3d89def00e793e8a3",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431949,
             "locality_id":101750389,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790029,
-            "region_id":85684063,
+            "region_id":85683793,
             "venue_id":118898463
         }
     ],
     "wof:id":118898463,
-    "wof:lastmodified":1472265729,
+    "wof:lastmodified":1491934829,
     "wof:name":"Carpentry Services",
     "wof:parent_id":85790029,
     "wof:placetype":"venue",

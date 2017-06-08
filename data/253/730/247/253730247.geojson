@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.50626,52.387272,-1.50626,52.387272",
     "geom:latitude":52.387272,
     "geom:longitude":-1.50626,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790739,
-        85633159,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
         101750449,
         85684565
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"b860834b25834362ac40f37c19a40972",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790739,
             "region_id":85684565,
             "venue_id":253730247
         }
     ],
     "wof:id":253730247,
-    "wof:lastmodified":1472264544,
+    "wof:lastmodified":1491930140,
     "wof:name":"F G Metals",
     "wof:parent_id":85790739,
     "wof:placetype":"venue",

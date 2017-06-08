@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.553319,53.838211,-1.553319,53.838211",
     "geom:latitude":53.838211,
     "geom:longitude":-1.553319,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85786417,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"0d9f2e7a1de1a4bacd6bd5c4957c5987",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786417,
             "region_id":85684321,
             "venue_id":135443917
         }
     ],
     "wof:id":135443917,
-    "wof:lastmodified":1472263722,
+    "wof:lastmodified":1491916807,
     "wof:name":"Stonegate School",
     "wof:parent_id":85786417,
     "wof:placetype":"venue",

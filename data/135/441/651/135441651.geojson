@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.730093,53.836475,-1.730093,53.836475",
     "geom:latitude":53.836475,
     "geom:longitude":-1.730093,
@@ -29,9 +30,12 @@
     "sg:province":"West Yorkshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750581,
-        85633159,
         85788415,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
         85684463
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"4a1a69c8e329d628468d81056edf8782",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788415,
             "region_id":85684463,
             "venue_id":135441651
         }
     ],
     "wof:id":135441651,
-    "wof:lastmodified":1472263764,
+    "wof:lastmodified":1491903356,
     "wof:name":"R E W Engineering",
     "wof:parent_id":85788415,
     "wof:placetype":"venue",

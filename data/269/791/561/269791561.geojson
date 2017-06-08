@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.175187,55.972481,-3.175187,55.972481",
     "geom:latitude":55.972481,
     "geom:longitude":-3.175187,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861481,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"b9fb9578ed9158ba2cf1fdbee13ac84a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":269791561
         }
     ],
     "wof:id":269791561,
-    "wof:lastmodified":1472259948,
+    "wof:lastmodified":1491933654,
     "wof:name":"Up The Junction",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

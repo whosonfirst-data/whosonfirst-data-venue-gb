@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.837697,52.452641,-1.837697,52.452641",
     "geom:latitude":52.452641,
     "geom:longitude":-1.837697,
@@ -29,11 +30,14 @@
     "sg:province":"West Midlands",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85787787,
-        85633159,
+        85785211,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283,
-        85785211
+        85787787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +47,30 @@
     "wof:geomhash":"4a5dd0c1943f5963d8880455d1600d61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
-            "neighbourhood_id":85787787,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85785211,
             "region_id":85684283,
             "venue_id":320160981
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
-            "neighbourhood_id":85785211,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787787,
             "region_id":85684283,
             "venue_id":320160981
         }
     ],
     "wof:id":320160981,
-    "wof:lastmodified":1472258139,
+    "wof:lastmodified":1491896506,
     "wof:name":"THE STUDIO GALLERIES",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

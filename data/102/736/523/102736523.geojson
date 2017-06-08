@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.24103,51.512829,-0.24103,51.512829",
     "geom:latitude":51.512829,
     "geom:longitude":-0.24103,
@@ -32,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85882211,
-        85684299,
-        85860407,
-        85683679
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061,
+        85860407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +50,30 @@
     "wof:geomhash":"4336b114675dccd1e9dbad2f40a7988a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85882211,
-            "region_id":85684299,
+            "region_id":85684061,
             "venue_id":102736523
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860407,
-            "region_id":85683679,
+            "region_id":85684061,
             "venue_id":102736523
         }
     ],
     "wof:id":102736523,
-    "wof:lastmodified":1472259300,
+    "wof:lastmodified":1491887130,
     "wof:name":"Westway Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

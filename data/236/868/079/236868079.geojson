@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.118838,51.531273,-0.118838,51.531273",
     "geom:latitude":51.531273,
     "geom:longitude":-0.118838,
@@ -39,11 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861711,
-        85633159,
+        85790643,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684597,
-        85790643
+        85684061,
+        85861711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,26 +57,30 @@
     "wof:geomhash":"b9a57794b3d15befeeb1d4659c52d3d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85861711,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790643,
+            "region_id":85684061,
             "venue_id":236868079
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85790643,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861711,
+            "region_id":85684061,
             "venue_id":236868079
         }
     ],
     "wof:id":236868079,
-    "wof:lastmodified":1472264014,
+    "wof:lastmodified":1491889377,
     "wof:name":"THE CENTRAL COUNCIL FOR EDUCATION AND TRAINING IN SOCIAL WORK",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

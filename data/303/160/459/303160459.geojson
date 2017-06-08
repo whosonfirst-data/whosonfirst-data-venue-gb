@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.209274,55.941624,-3.209274,55.941624",
     "geom:latitude":55.941624,
     "geom:longitude":-3.209274,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792699,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"8cfbe97e76a93bf2fc66504d231fdad2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792699,
             "region_id":85684587,
             "venue_id":303160459
         }
     ],
     "wof:id":303160459,
-    "wof:lastmodified":1472256899,
+    "wof:lastmodified":1491926488,
     "wof:name":"T M Robertson & Son Ltd.",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",

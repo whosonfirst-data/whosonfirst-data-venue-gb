@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.954193,52.506935,-1.954193,52.506935",
     "geom:latitude":52.506935,
     "geom:longitude":-1.954193,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787515,
-        85633159,
+        "102191581",
+        404446943,
+        "85633159",
+        404227469,
         101914045,
         85684511
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"048d0c908c0a7536270364b3de02bb91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
             "locality_id":101914045,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787515,
             "region_id":85684511,
             "venue_id":202991007
         }
     ],
     "wof:id":202991007,
-    "wof:lastmodified":1472262644,
+    "wof:lastmodified":1491936094,
     "wof:name":"Autoram",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",

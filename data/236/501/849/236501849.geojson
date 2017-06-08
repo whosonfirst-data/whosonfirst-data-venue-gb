@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.45614,53.393169,-1.45614,53.393169",
     "geom:latitude":53.393169,
     "geom:longitude":-1.45614,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785403,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"47e5fafe2bdeb987995ca9ad14721812",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":236501849
         }
     ],
     "wof:id":236501849,
-    "wof:lastmodified":1472260760,
+    "wof:lastmodified":1491907117,
     "wof:name":"Gower Arms",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

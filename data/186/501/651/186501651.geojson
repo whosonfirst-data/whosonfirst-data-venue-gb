@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.092023,51.475243,-0.092023,51.475243",
     "geom:latitude":51.475243,
     "geom:longitude":-0.092023,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786171,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289
+        85684061
     ],
     "wof:brand_id":420575069,
     "wof:breaches":[],
@@ -43,16 +47,18 @@
     "wof:geomhash":"d36759380f4a5e4282d8e1a0948f2835",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786171,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":186501651
         }
     ],
     "wof:id":186501651,
-    "wof:lastmodified":1472259648,
+    "wof:lastmodified":1491921360,
     "wof:name":"Lloyds Tsb Bank Plc",
     "wof:parent_id":85786171,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.128607,52.56871,-2.128607,52.56871",
     "geom:latitude":52.56871,
     "geom:longitude":-2.128607,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914031,
-        85633159,
         85785837,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
+        101914031,
         85683801
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"e82bada3cb7f490fba649d22f0607aae",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785837,
             "region_id":85683801,
             "venue_id":119347139
         }
     ],
     "wof:id":119347139,
-    "wof:lastmodified":1472266130,
+    "wof:lastmodified":1491908594,
     "wof:name":"Effigy Design",
     "wof:parent_id":85785837,
     "wof:placetype":"venue",

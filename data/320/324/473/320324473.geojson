@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.201511,51.477642,-0.201511,51.477642",
     "geom:latitude":51.477642,
     "geom:longitude":-0.201511,
@@ -42,9 +43,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787549,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684299
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,16 +58,18 @@
     "wof:geomhash":"0d480fff13cf9a64b5ed4039241875d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787549,
-            "region_id":85684299,
+            "region_id":85684061,
             "venue_id":320324473
         }
     ],
     "wof:id":320324473,
-    "wof:lastmodified":1472260154,
+    "wof:lastmodified":1491937213,
     "wof:name":"Dr C.I. Dellaportas",
     "wof:parent_id":85787549,
     "wof:placetype":"venue",

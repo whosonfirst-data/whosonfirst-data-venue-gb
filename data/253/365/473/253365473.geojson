@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.771792,53.776215,-1.771792,53.776215",
     "geom:latitude":53.776215,
     "geom:longitude":-1.771792,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791453,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"5fdac4d1e5760792651224dba0cdac35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791453,
             "region_id":85684463,
             "venue_id":253365473
         }
     ],
     "wof:id":253365473,
-    "wof:lastmodified":1472259898,
+    "wof:lastmodified":1491905463,
     "wof:name":"Skann",
     "wof:parent_id":85791453,
     "wof:placetype":"venue",

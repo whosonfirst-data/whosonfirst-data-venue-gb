@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.05454,51.445869,-0.05454,51.445869",
     "geom:latitude":51.445869,
     "geom:longitude":-0.05454,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792379,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"a9a7fb0a2135679e32f94ebb9d72802e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792379,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":186495243
         }
     ],
     "wof:id":186495243,
-    "wof:lastmodified":1472259607,
+    "wof:lastmodified":1491922364,
     "wof:name":"Graham Turner",
     "wof:parent_id":85792379,
     "wof:placetype":"venue",

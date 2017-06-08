@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.22176,51.485729,-0.22176,51.485729",
     "geom:latitude":51.485729,
     "geom:longitude":-0.22176,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860861,
-        85684151
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"0e0d3a103f3a2e4236e6742746a8fdd5",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860861,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":119313367
         }
     ],
     "wof:id":119313367,
-    "wof:lastmodified":1472265564,
+    "wof:lastmodified":1491918118,
     "wof:name":"First Avenue of Management Ltd.",
     "wof:parent_id":85860861,
     "wof:placetype":"venue",

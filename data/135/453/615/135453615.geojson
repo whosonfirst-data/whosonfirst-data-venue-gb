@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.176191,55.976089,-3.176191,55.976089",
     "geom:latitude":55.976089,
     "geom:longitude":-3.176191,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85861481,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"62828d29449fa530773b1f392e5a68e0",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":135453615
         }
     ],
     "wof:id":135453615,
-    "wof:lastmodified":1472264157,
+    "wof:lastmodified":1491933640,
     "wof:name":"Stewart Scott Fabrications Ltd.",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

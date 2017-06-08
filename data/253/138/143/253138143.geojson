@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.464544,53.38311,-1.464544,53.38311",
     "geom:latitude":53.38311,
     "geom:longitude":-1.464544,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793113,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"d490263989458f3095e9a9548b3a46ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":253138143
         }
     ],
     "wof:id":253138143,
-    "wof:lastmodified":1472256762,
+    "wof:lastmodified":1491898936,
     "wof:name":"Sheffield Tourist Information Centre",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.514214,53.844925,-1.514214,53.844925",
     "geom:latitude":53.844925,
     "geom:longitude":-1.514214,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85792881,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"624a660ea0d6de0849b7f99cd4890ca3",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792881,
             "region_id":85684321,
             "venue_id":135991489
         }
     ],
     "wof:id":135991489,
-    "wof:lastmodified":1472267867,
+    "wof:lastmodified":1491906655,
     "wof:name":"Streets Of Leeds",
     "wof:parent_id":85792881,
     "wof:placetype":"venue",

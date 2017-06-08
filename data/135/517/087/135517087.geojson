@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.308804,53.500813,-2.308804,53.500813",
     "geom:latitude":53.500813,
     "geom:longitude":-2.308804,
@@ -29,9 +30,12 @@
     "sg:province":"Greater Manchester",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101913951,
-        85633159,
         85793009,
+        "102191581",
+        404450245,
+        "85633159",
+        404227469,
+        101913951,
         85684495
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"e0dfe55d5e69789849a21a0e1bfff53c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101913951,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793009,
             "region_id":85684495,
             "venue_id":135517087
         }
     ],
     "wof:id":135517087,
-    "wof:lastmodified":1472264680,
+    "wof:lastmodified":1491921901,
     "wof:name":"N & I LINGARD",
     "wof:parent_id":85793009,
     "wof:placetype":"venue",

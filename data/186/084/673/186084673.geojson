@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.103415,51.565418,0.103415,51.565418",
     "geom:latitude":51.565418,
     "geom:longitude":0.103415,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790249,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684441
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"95a814c2b227c27b525e979ae6497a66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790249,
-            "region_id":85684441,
+            "region_id":85684061,
             "venue_id":186084673
         }
     ],
     "wof:id":186084673,
-    "wof:lastmodified":1472255662,
+    "wof:lastmodified":1491892856,
     "wof:name":"Seven Kings Car Centre",
     "wof:parent_id":85790249,
     "wof:placetype":"venue",

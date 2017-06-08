@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.140464,52.596554,-2.140464,52.596554",
     "geom:latitude":52.596554,
     "geom:longitude":-2.140464,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914031,
-        85633159,
         85789371,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
+        101914031,
         85683801
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"6fa29264a4b05f1df32e6d7735e19cc8",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789371,
             "region_id":85683801,
             "venue_id":119337509
         }
     ],
     "wof:id":119337509,
-    "wof:lastmodified":1472266043,
+    "wof:lastmodified":1491888388,
     "wof:name":"Pegasus Banqueting Suite",
     "wof:parent_id":85789371,
     "wof:placetype":"venue",

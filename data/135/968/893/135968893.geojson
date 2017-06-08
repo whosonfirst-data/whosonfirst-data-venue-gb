@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.360598,55.856091,-4.360598,55.856091",
     "geom:latitude":55.856091,
     "geom:longitude":-4.360598,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101913923,
-        85633159,
         85788221,
+        "102191581",
+        404432463,
+        "85633159",
+        404227471,
+        101913923,
         85684039
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"e3264d7ad0c4e3da72d7efcc1f8320c5",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432463,
             "locality_id":101913923,
+            "macroregion_id":404227471,
             "neighbourhood_id":85788221,
             "region_id":85684039,
             "venue_id":135968893
         }
     ],
     "wof:id":135968893,
-    "wof:lastmodified":1472267856,
+    "wof:lastmodified":1491894314,
     "wof:name":"Plumbing & Drainage Merchants Ltd.",
     "wof:parent_id":85788221,
     "wof:placetype":"venue",

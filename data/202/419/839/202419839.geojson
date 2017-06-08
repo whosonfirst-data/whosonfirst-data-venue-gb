@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.760636,53.78006,-1.760636,53.78006",
     "geom:latitude":53.78006,
     "geom:longitude":-1.760636,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791453,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"a11a1a88c21344efda5c4cdfd7b62cde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791453,
             "region_id":85684463,
             "venue_id":202419839
         }
     ],
     "wof:id":202419839,
-    "wof:lastmodified":1472255362,
+    "wof:lastmodified":1491905467,
     "wof:name":"Jenny's Sandwich Bar",
     "wof:parent_id":85791453,
     "wof:placetype":"venue",

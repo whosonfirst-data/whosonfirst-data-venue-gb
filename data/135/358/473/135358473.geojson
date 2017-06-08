@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.079405,52.564198,-2.079405,52.564198",
     "geom:latitude":52.564198,
     "geom:longitude":-2.079405,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914031,
-        85633159,
         85785899,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
+        101914031,
         85683801
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"4aaabfc0ab0708c7d1d6455b0c6ed058",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785899,
             "region_id":85683801,
             "venue_id":135358473
         }
     ],
     "wof:id":135358473,
-    "wof:lastmodified":1472259014,
+    "wof:lastmodified":1491886714,
     "wof:name":"Bilston News",
     "wof:parent_id":85785899,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.023373,51.592258,-0.023373,51.592258",
     "geom:latitude":51.592258,
     "geom:longitude":-0.023373,
@@ -29,9 +30,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792429,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684273
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,18 @@
     "wof:geomhash":"08cd83c91448c3a912d72e35f4e3a068",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792429,
-            "region_id":85684273,
+            "region_id":85684061,
             "venue_id":303758123
         }
     ],
     "wof:id":303758123,
-    "wof:lastmodified":1472264757,
+    "wof:lastmodified":1491894905,
     "wof:name":"Pacific Associates Ltd",
     "wof:parent_id":85792429,
     "wof:placetype":"venue",

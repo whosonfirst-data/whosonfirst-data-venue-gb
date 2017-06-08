@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.862559,53.383251,-2.862559,53.383251",
     "geom:latitude":53.383251,
     "geom:longitude":-2.862559,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750547,
-        85633159,
         85787569,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
+        101750547,
         85684213
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"5226076e8e6344e3e88e5fcbe6f98c17",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787569,
             "region_id":85684213,
             "venue_id":119061265
         }
     ],
     "wof:id":119061265,
-    "wof:lastmodified":1472256730,
+    "wof:lastmodified":1491886919,
     "wof:name":"Gateacre Institute",
     "wof:parent_id":85787569,
     "wof:placetype":"venue",

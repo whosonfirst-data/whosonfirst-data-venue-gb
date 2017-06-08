@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.911169,52.484417,-1.911169,52.484417",
     "geom:latitude":52.484417,
     "geom:longitude":-1.911169,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792837,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"dcb99d7e90e9deea002737298a02b73b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792837,
             "region_id":85684283,
             "venue_id":220145457
         }
     ],
     "wof:id":220145457,
-    "wof:lastmodified":1472256343,
+    "wof:lastmodified":1491929211,
     "wof:name":"M I N D",
     "wof:parent_id":85792837,
     "wof:placetype":"venue",

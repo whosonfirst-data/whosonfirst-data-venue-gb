@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.469795,51.508057,-2.469795,51.508057",
     "geom:latitude":51.508057,
     "geom:longitude":-2.469795,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787069,
-        85633159,
+        "102191581",
+        404447367,
+        "85633159",
+        404227469,
         101914025,
         85684423
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"10d04c5b2c61daf61f687599e8ab4d84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447367,
             "locality_id":101914025,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787069,
             "region_id":85684423,
             "venue_id":269610257
         }
     ],
     "wof:id":269610257,
-    "wof:lastmodified":1472256957,
+    "wof:lastmodified":1491885717,
     "wof:name":"Roman Spa (Spas Direct) Ltd.",
     "wof:parent_id":85787069,
     "wof:placetype":"venue",

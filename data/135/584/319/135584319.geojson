@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.947308,52.514153,-1.947308,52.514153",
     "geom:latitude":52.514153,
     "geom:longitude":-1.947308,
@@ -29,9 +30,12 @@
     "sg:province":"West Midlands",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914045,
-        85633159,
         85787515,
+        "102191581",
+        404446943,
+        "85633159",
+        404227469,
+        101914045,
         85684511
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"8bacccc0eabbdc84167f91fe6e620330",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
             "locality_id":101914045,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787515,
             "region_id":85684511,
             "venue_id":135584319
         }
     ],
     "wof:id":135584319,
-    "wof:lastmodified":1472265254,
+    "wof:lastmodified":1491936116,
     "wof:name":"Sandwell Road Post Office",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",

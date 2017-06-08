@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.034825,51.512375,-0.034825,51.512375",
     "geom:latitude":51.512375,
     "geom:longitude":-0.034825,
@@ -32,12 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792381,
-        85633159,
-        85684515,
         85788777,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684467
+        85684061,
+        85633159,
+        85792381,
+        85684515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +52,26 @@
     "wof:geomhash":"3dd54e362b6108a6ea0d1b6751909fb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85792381,
-            "region_id":85684515,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788777,
+            "region_id":85684061,
             "venue_id":286491893
         },
         {
-            "continent_id":-1,
             "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85788777,
-            "region_id":85684467,
+            "neighbourhood_id":85792381,
+            "region_id":85684515,
             "venue_id":286491893
         }
     ],
     "wof:id":286491893,
-    "wof:lastmodified":1472258027,
+    "wof:lastmodified":1491938731,
     "wof:name":"Sisters of Charity of St. Vincent de Paul",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

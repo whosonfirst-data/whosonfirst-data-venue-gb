@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.814785,52.566288,-1.814785,52.566288",
     "geom:latitude":52.566288,
     "geom:longitude":-1.814785,
@@ -37,10 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792015,
         85633159,
+        85792015,
         85684283,
         85788959,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467
     ],
     "wof:breaches":[],
@@ -51,26 +56,26 @@
     "wof:geomhash":"ddf0fd7d6366484b8bfc2962b1727467",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85792015,
             "region_id":85684283,
             "venue_id":269632479
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788959,
             "region_id":85684283,
             "venue_id":269632479
         }
     ],
     "wof:id":269632479,
-    "wof:lastmodified":1472257536,
+    "wof:lastmodified":1491902245,
     "wof:name":"Playtime Day Nursery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

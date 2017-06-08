@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.31454,51.356609,-0.31454,51.356609",
     "geom:latitude":51.356609,
     "geom:longitude":-0.31454,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786539,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684387
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"cd0628d680c7155eb4e91966d89d550b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786539,
-            "region_id":85684387,
+            "region_id":85684061,
             "venue_id":236187955
         }
     ],
     "wof:id":236187955,
-    "wof:lastmodified":1472256954,
+    "wof:lastmodified":1491895269,
     "wof:name":"St.James's Place Management Co. Ltd.",
     "wof:parent_id":85786539,
     "wof:placetype":"venue",

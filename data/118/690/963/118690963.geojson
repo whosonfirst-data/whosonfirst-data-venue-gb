@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.067386,51.468048,-0.067386,51.468048",
     "geom:latitude":51.468048,
     "geom:longitude":-0.067386,
@@ -28,10 +29,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789765,
-        85684289
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,18 @@
     "wof:geomhash":"84180a1b4347bec96fe86de00a3b733a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789765,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":118690963
         }
     ],
     "wof:id":118690963,
-    "wof:lastmodified":1472262422,
+    "wof:lastmodified":1491892338,
     "wof:name":"A & S Foodstores",
     "wof:parent_id":85789765,
     "wof:placetype":"venue",

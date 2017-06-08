@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.271395,51.470646,-3.271395,51.470646",
     "geom:latitude":51.470646,
     "geom:longitude":-3.271395,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750397,
-        85633159,
         85861055,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
+        101750397,
         85683787
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"f8beea1b51f711a3bb0dc85e29cf11f8",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861055,
             "region_id":85683787,
             "venue_id":119186371
         }
     ],
     "wof:id":119186371,
-    "wof:lastmodified":1472264307,
+    "wof:lastmodified":1491937748,
     "wof:name":"David Morgan",
     "wof:parent_id":85861055,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.245,51.473438,-3.245,51.473438",
     "geom:latitude":51.473438,
     "geom:longitude":-3.245,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861055,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"28af653271a87ca4de6bc77e8219ea60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861055,
             "region_id":85683787,
             "venue_id":270210023
         }
     ],
     "wof:id":270210023,
-    "wof:lastmodified":1472257556,
+    "wof:lastmodified":1491937726,
     "wof:name":"Lane,Marieanne,",
     "wof:parent_id":85861055,
     "wof:placetype":"venue",

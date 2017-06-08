@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.026568,51.524494,0.026568,51.524494",
     "geom:latitude":51.524494,
     "geom:longitude":0.026568,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789849,
-        85684411
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"6e6322502ccc17e4de1fd3dff15bf0ea",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789849,
-            "region_id":85684411,
+            "region_id":85684061,
             "venue_id":135835557
         }
     ],
     "wof:id":135835557,
-    "wof:lastmodified":1472267413,
+    "wof:lastmodified":1491906559,
     "wof:name":"Demolition Associates (U K) Ltd.",
     "wof:parent_id":85789849,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.392301,51.658325,-0.392301,51.658325",
     "geom:latitude":51.658325,
     "geom:longitude":-0.392301,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860799,
-        85633159,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
         101751603,
         85684331
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"7c0170539c61d6d9a4ffe6a00da858a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
             "locality_id":101751603,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":220084897
         }
     ],
     "wof:id":220084897,
-    "wof:lastmodified":1472255843,
+    "wof:lastmodified":1491931638,
     "wof:name":"Colin Collins Ltd.",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",

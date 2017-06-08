@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.139494,52.580254,-2.139494,52.580254",
     "geom:latitude":52.580254,
     "geom:longitude":-2.139494,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785837,
-        85633159,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
         101914031,
         85683801
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"32678aa2374399601726cd119dc6fd6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785837,
             "region_id":85683801,
             "venue_id":320668351
         }
     ],
     "wof:id":320668351,
-    "wof:lastmodified":1472264578,
+    "wof:lastmodified":1491908600,
     "wof:name":"Xtral Ltd.",
     "wof:parent_id":85785837,
     "wof:placetype":"venue",

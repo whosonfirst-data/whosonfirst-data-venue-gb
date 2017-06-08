@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.358309,55.858974,-4.358309,55.858974",
     "geom:latitude":55.858974,
     "geom:longitude":-4.358309,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101913923,
-        85633159,
         85788221,
+        "102191581",
+        404432463,
+        "85633159",
+        404227471,
+        101913923,
         85684039
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"c39b2a3a3cd54245df5ad94b74498999",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432463,
             "locality_id":101913923,
+            "macroregion_id":404227471,
             "neighbourhood_id":85788221,
             "region_id":85684039,
             "venue_id":135968915
         }
     ],
     "wof:id":135968915,
-    "wof:lastmodified":1472267855,
+    "wof:lastmodified":1491894324,
     "wof:name":"Connections by Graham",
     "wof:parent_id":85788221,
     "wof:placetype":"venue",

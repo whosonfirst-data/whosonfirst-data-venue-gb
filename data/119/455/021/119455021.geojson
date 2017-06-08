@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.207218,55.935673,-3.207218,55.935673",
     "geom:latitude":55.935673,
     "geom:longitude":-3.207218,
@@ -42,9 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85792699,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -55,15 +59,18 @@
     "wof:geomhash":"567c5becd7c073cb1b6f453c4b38d3ff",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792699,
             "region_id":85684587,
             "venue_id":119455021
         }
     ],
     "wof:id":119455021,
-    "wof:lastmodified":1472266727,
+    "wof:lastmodified":1491926490,
     "wof:name":"Bruntsfield Health Centre",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",

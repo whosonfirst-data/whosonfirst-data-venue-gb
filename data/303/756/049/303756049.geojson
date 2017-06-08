@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.763494,53.767815,-1.763494,53.767815",
     "geom:latitude":53.767815,
     "geom:longitude":-1.763494,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791453,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463,
         85791661
@@ -43,26 +47,30 @@
     "wof:geomhash":"b7bbb9da6d32c8483fb2dc601c3a3d5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791453,
             "region_id":85684463,
             "venue_id":303756049
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791661,
             "region_id":85684463,
             "venue_id":303756049
         }
     ],
     "wof:id":303756049,
-    "wof:lastmodified":1472264731,
+    "wof:lastmodified":1491905471,
     "wof:name":"Ridy J Bds Dgdp (Uk)",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

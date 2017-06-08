@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.213306,55.911091,-3.213306,55.911091",
     "geom:latitude":55.911091,
     "geom:longitude":-3.213306,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785919,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587,
         85861513
@@ -46,26 +50,30 @@
     "wof:geomhash":"cf940e99ea90e87e4a248215d8ef8438",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85785919,
             "region_id":85684587,
             "venue_id":336926093
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861513,
             "region_id":85684587,
             "venue_id":336926093
         }
     ],
     "wof:id":336926093,
-    "wof:lastmodified":1472260556,
+    "wof:lastmodified":1491916693,
     "wof:name":"Greyfriars Accounting & Taxation Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

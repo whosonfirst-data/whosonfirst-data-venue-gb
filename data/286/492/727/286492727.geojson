@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.02997,51.51247,-0.02997,51.51247",
     "geom:latitude":51.51247,
     "geom:longitude":-0.02997,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788777,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684467
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"a09a8c769ef3a1fed342526713abc845",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788777,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":286492727
         }
     ],
     "wof:id":286492727,
-    "wof:lastmodified":1472258030,
+    "wof:lastmodified":1491938730,
     "wof:name":"American Success Pizza Co",
     "wof:parent_id":85788777,
     "wof:placetype":"venue",

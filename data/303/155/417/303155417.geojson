@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.685208,53.866165,-1.685208,53.866165",
     "geom:latitude":53.866165,
     "geom:longitude":-1.685208,
@@ -29,8 +30,9 @@
     "sg:province":"West Yorkshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786761,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -41,18 +43,17 @@
     "wof:geomhash":"6ff4a722d5ec03537f9f981f7a1ab9e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":303155417
         }
     ],
     "wof:id":303155417,
-    "wof:lastmodified":1472256906,
+    "wof:lastmodified":1491932524,
     "wof:name":"Whitegates Estate Agency",
-    "wof:parent_id":85786761,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

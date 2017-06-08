@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.489976,53.370842,-1.489976,53.370842",
     "geom:latitude":53.370842,
     "geom:longitude":-1.489976,
@@ -29,9 +30,12 @@
     "sg:province":"Derbyshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85793113,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"665f8441f4ce67d3277326677671bb68",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":118557257
         }
     ],
     "wof:id":118557257,
-    "wof:lastmodified":1472257084,
+    "wof:lastmodified":1491899113,
     "wof:name":"Endsleigh Insurance Services Ltd",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

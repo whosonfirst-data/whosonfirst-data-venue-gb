@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.967573,52.490246,-1.967573,52.490246",
     "geom:latitude":52.490246,
     "geom:longitude":-1.967573,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787515,
-        85633159,
+        "102191581",
+        404446943,
+        "85633159",
+        404227469,
         101914045,
         85684511
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"50cd9eafeba08c0f3620dd6d51d568df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
             "locality_id":101914045,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787515,
             "region_id":85684511,
             "venue_id":336711705
         }
     ],
     "wof:id":336711705,
-    "wof:lastmodified":1472257003,
+    "wof:lastmodified":1491936089,
     "wof:name":"Victoria Park Post Office",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",

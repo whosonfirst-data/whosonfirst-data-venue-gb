@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.284299,53.489731,-2.284299,53.489731",
     "geom:latitude":53.489731,
     "geom:longitude":-2.284299,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793009,
-        85633159,
+        "102191581",
+        404450245,
+        "85633159",
+        404227469,
         101913951,
         85684495
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"fd938a909b546b5e9640528e9bc0281f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101913951,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793009,
             "region_id":85684495,
             "venue_id":186159761
         }
     ],
     "wof:id":186159761,
-    "wof:lastmodified":1472256238,
+    "wof:lastmodified":1491921935,
     "wof:name":"Booth Charities",
     "wof:parent_id":85793009,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.131675,53.387409,-2.131675,53.387409",
     "geom:latitude":53.387409,
     "geom:longitude":-2.131675,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750527,
-        85633159,
         85785933,
+        "102191581",
+        404444839,
+        "85633159",
+        404227469,
+        101750527,
         85683899
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"372921ab7b296b0bdbd9ab72c9cbed28",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444839,
             "locality_id":101750527,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785933,
             "region_id":85683899,
             "venue_id":119347819
         }
     ],
     "wof:id":119347819,
-    "wof:lastmodified":1472266197,
+    "wof:lastmodified":1491924854,
     "wof:name":"A Sellars Painting & Decorating Contractors",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.174315,55.852146,-4.174315,55.852146",
     "geom:latitude":55.852146,
     "geom:longitude":-4.174315,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790555,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"925ac74b2b74a0c87df76948a235a3f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":336779723
         }
     ],
     "wof:id":336779723,
-    "wof:lastmodified":1472257530,
+    "wof:lastmodified":1491897849,
     "wof:name":"Scottish Trust For Children",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

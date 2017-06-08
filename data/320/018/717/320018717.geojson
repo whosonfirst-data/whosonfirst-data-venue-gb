@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.897808,53.457108,-2.897808,53.457108",
     "geom:latitude":53.457108,
     "geom:longitude":-2.897808,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786905,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"d410586ea0658f8f7db27317c415f808",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786905,
             "region_id":85684213,
             "venue_id":320018717
         }
     ],
     "wof:id":320018717,
-    "wof:lastmodified":1472255371,
+    "wof:lastmodified":1491916701,
     "wof:name":"Allisons Chemist",
     "wof:parent_id":85786905,
     "wof:placetype":"venue",

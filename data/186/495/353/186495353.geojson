@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.5629,51.463451,-2.5629,51.463451",
     "geom:latitude":51.463451,
     "geom:longitude":-2.5629,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787207,
-        85633159,
+        "102191581",
+        404431949,
+        "85633159",
+        404227469,
         101750389,
-        85684063
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"76cbb4ddfae27249a50dc036fbff8654",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431949,
             "locality_id":101750389,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787207,
-            "region_id":85684063,
+            "region_id":85683793,
             "venue_id":186495353
         }
     ],
     "wof:id":186495353,
-    "wof:lastmodified":1472259615,
+    "wof:lastmodified":1491905806,
     "wof:name":"St Pauls & Easton Drugs Awareness Group",
     "wof:parent_id":85787207,
     "wof:placetype":"venue",

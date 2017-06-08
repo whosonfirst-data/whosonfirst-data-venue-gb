@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.56768,51.458759,-2.56768,51.458759",
     "geom:latitude":51.458759,
     "geom:longitude":-2.56768,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788691,
-        85633159,
+        "102191581",
+        404431949,
+        "85633159",
+        404227469,
         101750389,
-        85684063
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"ff31e36652fd046307a3098dfe60c0b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431949,
             "locality_id":101750389,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788691,
-            "region_id":85684063,
+            "region_id":85683793,
             "venue_id":320629971
         }
     ],
     "wof:id":320629971,
-    "wof:lastmodified":1472264398,
+    "wof:lastmodified":1491930887,
     "wof:name":"Vehicle & Operator Services Agency",
     "wof:parent_id":85788691,
     "wof:placetype":"venue",

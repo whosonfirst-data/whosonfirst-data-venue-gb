@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.143836,51.490372,-3.143836,51.490372",
     "geom:latitude":51.490372,
     "geom:longitude":-3.143836,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789789,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"1ca381d9981f59daa392fe3d80dcf22e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85789789,
             "region_id":85683787,
             "venue_id":286873139
         }
     ],
     "wof:id":286873139,
-    "wof:lastmodified":1472263140,
+    "wof:lastmodified":1491900125,
     "wof:name":"K & E Upholstery Ltd.",
     "wof:parent_id":85789789,
     "wof:placetype":"venue",

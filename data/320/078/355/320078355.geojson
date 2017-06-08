@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.923094,53.468956,-2.923094,53.468956",
     "geom:latitude":53.468956,
     "geom:longitude":-2.923094,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787377,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"06623a52230900d9e9cc18beaceb8759",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787377,
             "region_id":85684213,
             "venue_id":320078355
         }
     ],
     "wof:id":320078355,
-    "wof:lastmodified":1472256520,
+    "wof:lastmodified":1491906842,
     "wof:name":"Fazakerley Junior School",
     "wof:parent_id":85787377,
     "wof:placetype":"venue",

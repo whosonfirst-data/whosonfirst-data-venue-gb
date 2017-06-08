@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.493819,52.430084,-1.493819,52.430084",
     "geom:latitude":52.430084,
     "geom:longitude":-1.493819,
@@ -29,12 +30,16 @@
     "sg:province":"Warwickshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85792035,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
+        101750449,
+        85684565,
         85633159,
         85788861,
-        85683907,
-        101750449,
-        85792035,
-        85684565
+        85683907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,23 +49,26 @@
     "wof:geomhash":"71ef0fa1ac997a3d3a42ee08b98ac5a6",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
-            "neighbourhood_id":85788861,
-            "region_id":85683907,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
+            "locality_id":101750449,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792035,
+            "region_id":85684565,
             "venue_id":135825029
         },
         {
             "country_id":85633159,
-            "locality_id":101750449,
-            "neighbourhood_id":85792035,
-            "region_id":85684565,
+            "neighbourhood_id":85788861,
+            "region_id":85683907,
             "venue_id":135825029
         }
     ],
     "wof:id":135825029,
-    "wof:lastmodified":1472267216,
+    "wof:lastmodified":1491897135,
     "wof:name":"St Elizabeth R C Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

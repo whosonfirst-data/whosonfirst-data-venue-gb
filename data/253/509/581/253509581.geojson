@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.99173,53.407551,-2.99173,53.407551",
     "geom:latitude":53.407551,
     "geom:longitude":-2.99173,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793275,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"61dcb59ab580c8906e78f2c1d94f357a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793275,
             "region_id":85684213,
             "venue_id":253509581
         }
     ],
     "wof:id":253509581,
-    "wof:lastmodified":1472262632,
+    "wof:lastmodified":1491911654,
     "wof:name":"James Fisher & Sons Liverpool Ltd",
     "wof:parent_id":85793275,
     "wof:placetype":"venue",

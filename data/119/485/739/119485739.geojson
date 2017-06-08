@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.951709,52.491123,-1.951709,52.491123",
     "geom:latitude":52.491123,
     "geom:longitude":-1.951709,
@@ -39,9 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914045,
-        85633159,
         85787515,
+        "102191581",
+        404446943,
+        "85633159",
+        404227469,
+        101914045,
         85684511
     ],
     "wof:breaches":[],
@@ -52,15 +56,18 @@
     "wof:geomhash":"63aba97425d516785104b05938428c86",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
             "locality_id":101914045,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787515,
             "region_id":85684511,
             "venue_id":119485739
         }
     ],
     "wof:id":119485739,
-    "wof:lastmodified":1472266941,
+    "wof:lastmodified":1491936117,
     "wof:name":"Sunrise Bakery",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",

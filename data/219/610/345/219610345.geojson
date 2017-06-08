@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.058783,51.473488,-0.058783,51.473488",
     "geom:latitude":51.473488,
     "geom:longitude":-0.058783,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789765,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"4194f77dc58f23b8321d8a1a5fa2d7af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789765,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":219610345
         }
     ],
     "wof:id":219610345,
-    "wof:lastmodified":1472260780,
+    "wof:lastmodified":1491892319,
     "wof:name":"Queens Road Day Centre",
     "wof:parent_id":85789765,
     "wof:placetype":"venue",

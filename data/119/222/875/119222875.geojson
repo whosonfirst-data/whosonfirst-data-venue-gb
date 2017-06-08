@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.262126,55.91571,-3.262126,55.91571",
     "geom:latitude":55.91571,
     "geom:longitude":-3.262126,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85861495,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"32d885dd37164c89aa0eb58e72a604de",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861495,
             "region_id":85684587,
             "venue_id":119222875
         }
     ],
     "wof:id":119222875,
-    "wof:lastmodified":1472265337,
+    "wof:lastmodified":1491931254,
     "wof:name":"Ross Payne",
     "wof:parent_id":85861495,
     "wof:placetype":"venue",

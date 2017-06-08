@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.786669,53.800098,-1.786669,53.800098",
     "geom:latitude":53.800098,
     "geom:longitude":-1.786669,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750581,
-        85633159,
         85787493,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
         85684463
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"4e20f817000bb16f175b523c678d1957",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787493,
             "region_id":85684463,
             "venue_id":135593167
         }
     ],
     "wof:id":135593167,
-    "wof:lastmodified":1472265176,
+    "wof:lastmodified":1491937719,
     "wof:name":"Girlington Taxis",
     "wof:parent_id":85787493,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.355158,55.898293,-4.355158,55.898293",
     "geom:latitude":55.898293,
     "geom:longitude":-4.355158,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785315,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"3e0cc0216fa876dfb6f4168f649a2a4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85785315,
             "region_id":85684351,
             "venue_id":303940741
         }
     ],
     "wof:id":303940741,
-    "wof:lastmodified":1472265225,
+    "wof:lastmodified":1491934529,
     "wof:name":"Billy Milne",
     "wof:parent_id":85785315,
     "wof:placetype":"venue",

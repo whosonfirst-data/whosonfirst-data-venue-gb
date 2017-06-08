@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.68293,53.866089,-1.68293,53.866089",
     "geom:latitude":53.866089,
     "geom:longitude":-1.68293,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786761,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -44,18 +46,17 @@
     "wof:geomhash":"179c478192cfb8e6eb6123417e7fba36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":236895127
         }
     ],
     "wof:id":236895127,
-    "wof:lastmodified":1472264213,
+    "wof:lastmodified":1491932522,
     "wof:name":"J S Cullan & Co",
-    "wof:parent_id":85786761,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

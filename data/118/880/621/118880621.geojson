@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.213645,51.555412,-0.213645,51.555412",
     "geom:latitude":51.555412,
     "geom:longitude":-0.213645,
@@ -29,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85869863,
-        85684003
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"5d7a10673f7e2d11f6a0b50f38694e9b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869863,
-            "region_id":85684003,
+            "region_id":85684061,
             "venue_id":118880621
         }
     ],
     "wof:id":118880621,
-    "wof:lastmodified":1472265605,
+    "wof:lastmodified":1491908518,
     "wof:name":"Sunco International",
     "wof:parent_id":85869863,
     "wof:placetype":"venue",

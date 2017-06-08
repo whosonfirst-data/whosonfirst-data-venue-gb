@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.8711,53.389301,-2.8711,53.389301",
     "geom:latitude":53.389301,
     "geom:longitude":-2.8711,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787569,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"e09a1213d275d23e97612e351390a87a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787569,
             "region_id":85684213,
             "venue_id":253071429
         }
     ],
     "wof:id":253071429,
-    "wof:lastmodified":1472255717,
+    "wof:lastmodified":1491886920,
     "wof:name":"The Abbeyfield Liverpool Society Ltd.",
     "wof:parent_id":85787569,
     "wof:placetype":"venue",

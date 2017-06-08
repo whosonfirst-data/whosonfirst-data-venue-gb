@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.913583,52.437218,-1.913583,52.437218",
     "geom:latitude":52.437218,
     "geom:longitude":-1.913583,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785881,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"dd0402ce12200b1b5d9acc47b3f489c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785881,
             "region_id":85684283,
             "venue_id":236556329
         }
     ],
     "wof:id":236556329,
-    "wof:lastmodified":1472261354,
+    "wof:lastmodified":1491893426,
     "wof:name":"South Birmingham Rehabilitation Unit",
     "wof:parent_id":85785881,
     "wof:placetype":"venue",

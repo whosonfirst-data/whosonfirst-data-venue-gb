@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.856533,52.515633,-1.856533,52.515633",
     "geom:latitude":52.515633,
     "geom:longitude":-1.856533,
@@ -28,9 +29,12 @@
     "sg:province":"West Midlands",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787715,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283,
         85790751
     ],
@@ -42,24 +46,30 @@
     "wof:geomhash":"13e65850a5979620c25e5a55817b0c1b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787715,
             "region_id":85684283,
             "venue_id":102699291
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790751,
             "region_id":85684283,
             "venue_id":102699291
         }
     ],
     "wof:id":102699291,
-    "wof:lastmodified":1472258449,
+    "wof:lastmodified":1491899787,
     "wof:name":"Jaj General Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

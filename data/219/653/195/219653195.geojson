@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.515461,51.472179,-2.515461,51.472179",
     "geom:latitude":51.472179,
     "geom:longitude":-2.515461,
@@ -39,9 +40,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790423,
-        85633159,
+        "102191581",
+        404431949,
+        "85633159",
+        404227469,
         101750389,
-        85684063
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,16 +55,18 @@
     "wof:geomhash":"c274ecd8f10808e660efce7eb50494fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431949,
             "locality_id":101750389,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790423,
-            "region_id":85684063,
+            "region_id":85683793,
             "venue_id":219653195
         }
     ],
     "wof:id":219653195,
-    "wof:lastmodified":1472261095,
+    "wof:lastmodified":1491911200,
     "wof:name":"Hillfields Park Infant School",
     "wof:parent_id":85790423,
     "wof:placetype":"venue",

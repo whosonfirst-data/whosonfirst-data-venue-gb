@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.279629,51.606598,0.279629,51.606598",
     "geom:latitude":51.606598,
     "geom:longitude":0.279629,
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791217,
-        85683841
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,18 @@
     "wof:geomhash":"d6db2c2bbb113dca14a49df37cd1f791",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791217,
-            "region_id":85683841,
+            "region_id":85684061,
             "venue_id":119337397
         }
     ],
     "wof:id":119337397,
-    "wof:lastmodified":1472266026,
+    "wof:lastmodified":1491908636,
     "wof:name":"A J S Signs",
     "wof:parent_id":85791217,
     "wof:placetype":"venue",

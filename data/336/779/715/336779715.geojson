@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.174092,55.851887,-4.174092,55.851887",
     "geom:latitude":55.851887,
     "geom:longitude":-4.174092,
@@ -41,7 +42,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790555,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -53,16 +57,18 @@
     "wof:geomhash":"07e9bd5055c9f8a5fc1cd3296b7af2ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":336779715
         }
     ],
     "wof:id":336779715,
-    "wof:lastmodified":1472257530,
+    "wof:lastmodified":1491897837,
     "wof:name":"Russell's D I Y",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

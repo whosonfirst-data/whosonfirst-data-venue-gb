@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.283995,53.497768,-2.283995,53.497768",
     "geom:latitude":53.497768,
     "geom:longitude":-2.283995,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101913951,
-        85633159,
         85793009,
+        "102191581",
+        404450245,
+        "85633159",
+        404227469,
+        101913951,
         85684495
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"1d2923dce4bbe3f041a79fac0ddbd7cc",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101913951,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793009,
             "region_id":85684495,
             "venue_id":135668339
         }
     ],
     "wof:id":135668339,
-    "wof:lastmodified":1472265856,
+    "wof:lastmodified":1491921927,
     "wof:name":"S & M Greengrocers",
     "wof:parent_id":85793009,
     "wof:placetype":"venue",

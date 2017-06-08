@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.490274,53.784801,-1.490274,53.784801",
     "geom:latitude":53.784801,
     "geom:longitude":-1.490274,
@@ -41,7 +42,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788563,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -53,16 +57,18 @@
     "wof:geomhash":"e90e8e0f38f4fbffa76139b92f3db8b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788563,
             "region_id":85684321,
             "venue_id":219521093
         }
     ],
     "wof:id":219521093,
-    "wof:lastmodified":1472259460,
+    "wof:lastmodified":1491908055,
     "wof:name":"Premier Motorauctions Leeds Ltd",
     "wof:parent_id":85788563,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.402554,54.901794,-1.402554,54.901794",
     "geom:latitude":54.901794,
     "geom:longitude":-1.402554,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793169,
-        85633159,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
         101750611,
         85684483
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"dcd5fd47a56140f70886129c9de2aceb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793169,
             "region_id":85684483,
             "venue_id":269518625
         }
     ],
     "wof:id":269518625,
-    "wof:lastmodified":1472255490,
+    "wof:lastmodified":1491935435,
     "wof:name":"Stansin Building Services",
     "wof:parent_id":85793169,
     "wof:placetype":"venue",

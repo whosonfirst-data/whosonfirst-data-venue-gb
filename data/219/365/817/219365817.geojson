@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.789989,52.4538,-1.789989,52.4538",
     "geom:latitude":52.4538,
     "geom:longitude":-1.789989,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791869,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"a2ebd18f6a6a035e21c7b1f99bbcd31b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791869,
             "region_id":85684283,
             "venue_id":219365817
         }
     ],
     "wof:id":219365817,
-    "wof:lastmodified":1472257636,
+    "wof:lastmodified":1491930517,
     "wof:name":"World Of Leather",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",

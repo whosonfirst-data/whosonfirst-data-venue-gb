@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.83071,52.491467,-1.83071,52.491467",
     "geom:latitude":52.491467,
     "geom:longitude":-1.83071,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791337,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"14f5aca8702fa95a9fe3992e61559b26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791337,
             "region_id":85684283,
             "venue_id":303989935
         }
     ],
     "wof:id":303989935,
-    "wof:lastmodified":1472265672,
+    "wof:lastmodified":1491888648,
     "wof:name":"Ward End Methodist Church",
     "wof:parent_id":85791337,
     "wof:placetype":"venue",

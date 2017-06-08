@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.51651,52.431232,-1.51651,52.431232",
     "geom:latitude":52.431232,
     "geom:longitude":-1.51651,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864245,
-        85633159,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
         101750449,
         85684565
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"97a2f1553a7d1d80117b72815659c992",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85864245,
             "region_id":85684565,
             "venue_id":269723707
         }
     ],
     "wof:id":269723707,
-    "wof:lastmodified":1472259108,
+    "wof:lastmodified":1491902408,
     "wof:name":"The Ocean",
     "wof:parent_id":85864245,
     "wof:placetype":"venue",

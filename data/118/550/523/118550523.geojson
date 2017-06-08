@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.073021,51.576736,-0.073021,51.576736",
     "geom:latitude":51.576736,
     "geom:longitude":-0.073021,
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860357,
-        85684121
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +56,18 @@
     "wof:geomhash":"a60def98f9ec5ebbe85132cfabb92228",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860357,
-            "region_id":85684121,
+            "region_id":85684061,
             "venue_id":118550523
         }
     ],
     "wof:id":118550523,
-    "wof:lastmodified":1472256792,
+    "wof:lastmodified":1491916558,
     "wof:name":"ST IGNATIUS PARISH",
     "wof:parent_id":85860357,
     "wof:placetype":"venue",

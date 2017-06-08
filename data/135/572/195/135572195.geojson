@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.013496,51.485981,0.013496,51.485981",
     "geom:latitude":51.485981,
     "geom:longitude":0.013496,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85866377,
-        85683707
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"eb5bc1ccc4f8b7bf91c50b2804f18351",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85866377,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":135572195
         }
     ],
     "wof:id":135572195,
-    "wof:lastmodified":1472265114,
+    "wof:lastmodified":1491908149,
     "wof:name":"Kam Hong Take Away",
     "wof:parent_id":85866377,
     "wof:placetype":"venue",

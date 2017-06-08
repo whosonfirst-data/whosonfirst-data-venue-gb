@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.48838,53.365391,-1.48838,53.365391",
     "geom:latitude":53.365391,
     "geom:longitude":-1.48838,
@@ -37,9 +38,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85793113,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -50,15 +54,18 @@
     "wof:geomhash":"a9e11ea128938fcb71d64bfd7d462bb0",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":135304063
         }
     ],
     "wof:id":135304063,
-    "wof:lastmodified":1472255885,
+    "wof:lastmodified":1491898966,
     "wof:name":"Joy Reynolds School of Drama & Music",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

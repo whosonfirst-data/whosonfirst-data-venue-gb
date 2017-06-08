@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.861988,52.476322,-1.861988,52.476322",
     "geom:latitude":52.476322,
     "geom:longitude":-1.861988,
@@ -37,11 +38,14 @@
     "sg:website":"http://www.hmlowe.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85792835,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
-        85633159,
-        85790393,
         85684283,
-        85792835
+        85790393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,24 +55,30 @@
     "wof:geomhash":"93c0aba4d1bbe710eb5f66e7d4c2ec4d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
-            "neighbourhood_id":85790393,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792835,
             "region_id":85684283,
             "venue_id":135679607
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
-            "neighbourhood_id":85792835,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790393,
             "region_id":85684283,
             "venue_id":135679607
         }
     ],
     "wof:id":135679607,
-    "wof:lastmodified":1472266108,
+    "wof:lastmodified":1491889892,
     "wof:name":"H M Lowe & Son Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

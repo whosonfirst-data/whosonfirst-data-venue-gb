@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.621351,54.997154,-1.621351,54.997154",
     "geom:latitude":54.997154,
     "geom:longitude":-1.621351,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750617,
-        85633159,
         85791111,
+        "102191581",
+        404440729,
+        "85633159",
+        404227469,
+        101750617,
         85683691
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"88b1e785eba278d64cefe2dc6180754d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404440729,
             "locality_id":101750617,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791111,
             "region_id":85683691,
             "venue_id":119040195
         }
     ],
     "wof:id":119040195,
-    "wof:lastmodified":1472255931,
+    "wof:lastmodified":1491926586,
     "wof:name":"Alan Davison",
     "wof:parent_id":85791111,
     "wof:placetype":"venue",

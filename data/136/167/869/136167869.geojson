@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.1895,51.542229,-0.1895,51.542229",
     "geom:latitude":51.542229,
     "geom:longitude":-0.1895,
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860461,
-        85684597
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,18 @@
     "wof:geomhash":"d4038de600a1d267dae34501fb1c5b49",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860461,
-            "region_id":85684597,
+            "region_id":85684061,
             "venue_id":136167869
         }
     ],
     "wof:id":136167869,
-    "wof:lastmodified":1472262031,
+    "wof:lastmodified":1491896913,
     "wof:name":"Oakley Enterprises (Uk) Ltd",
     "wof:parent_id":85860461,
     "wof:placetype":"venue",

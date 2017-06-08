@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.153859,55.955193,-3.153859,55.955193",
     "geom:latitude":55.955193,
     "geom:longitude":-3.153859,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861527,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"29cb249d96a46ed8b47fe04561a95595",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861527,
             "region_id":85684587,
             "venue_id":253068599
         }
     ],
     "wof:id":253068599,
-    "wof:lastmodified":1472255664,
+    "wof:lastmodified":1491910847,
     "wof:name":"A Fletcher Dental Surgery",
     "wof:parent_id":85861527,
     "wof:placetype":"venue",

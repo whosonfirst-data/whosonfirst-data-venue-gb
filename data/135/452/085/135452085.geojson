@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.256888,51.512947,-0.256888,51.512947",
     "geom:latitude":51.512947,
     "geom:longitude":-0.256888,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860407,
-        85683679
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"b314b19890ee0b06239de17bccf5fe17",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860407,
-            "region_id":85683679,
+            "region_id":85684061,
             "venue_id":135452085
         }
     ],
     "wof:id":135452085,
-    "wof:lastmodified":1472264034,
+    "wof:lastmodified":1491887149,
     "wof:name":"Satellite Telecoms",
     "wof:parent_id":85860407,
     "wof:placetype":"venue",

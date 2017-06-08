@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.205206,51.506508,-3.205206,51.506508",
     "geom:latitude":51.506508,
     "geom:longitude":-3.205206,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790971,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"22437dd97ab84c90207d04146d88973b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85790971,
             "region_id":85683787,
             "venue_id":269507999
         }
     ],
     "wof:id":269507999,
-    "wof:lastmodified":1472255275,
+    "wof:lastmodified":1491936716,
     "wof:name":"J J Morris Maintenance",
     "wof:parent_id":85790971,
     "wof:placetype":"venue",

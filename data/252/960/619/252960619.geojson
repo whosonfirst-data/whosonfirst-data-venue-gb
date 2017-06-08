@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.191757,51.513451,-0.191757,51.513451",
     "geom:latitude":51.513451,
     "geom:longitude":-0.191757,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861621,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"4ab23e4c97961c8e4138ee0eaec92a7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861621,
             "region_id":85684061,
             "venue_id":252960619
         }
     ],
     "wof:id":252960619,
-    "wof:lastmodified":1472257670,
+    "wof:lastmodified":1491919349,
     "wof:name":"Granada (Uk) London",
     "wof:parent_id":85861621,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.99437,53.407181,-2.99437,53.407181",
     "geom:latitude":53.407181,
     "geom:longitude":-2.99437,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793275,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"1398d6d3340958d7ad9df171c0a7e1c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793275,
             "region_id":85684213,
             "venue_id":253188877
         }
     ],
     "wof:id":253188877,
-    "wof:lastmodified":1472257444,
+    "wof:lastmodified":1491911649,
     "wof:name":"Canada Life Assurance Co",
     "wof:parent_id":85793275,
     "wof:placetype":"venue",

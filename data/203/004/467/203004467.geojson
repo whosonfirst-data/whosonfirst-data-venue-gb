@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.23575,51.453762,0.23575,51.453762",
     "geom:latitude":51.453762,
     "geom:longitude":0.23575,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860071,
-        85633159,
+        "102191581",
+        404437981,
+        "85633159",
+        404227469,
         101914069,
         85684363
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"f7a47d0a18ed6c6d0e49f830c5bab9de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437981,
             "locality_id":101914069,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860071,
             "region_id":85684363,
             "venue_id":203004467
         }
     ],
     "wof:id":203004467,
-    "wof:lastmodified":1472254974,
+    "wof:lastmodified":1491889361,
     "wof:name":"Skin Deep",
     "wof:parent_id":85860071,
     "wof:placetype":"venue",

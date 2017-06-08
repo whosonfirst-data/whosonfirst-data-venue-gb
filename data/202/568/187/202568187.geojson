@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.348124,51.482891,-0.348124,51.482891",
     "geom:latitude":51.482891,
     "geom:longitude":-0.348124,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860735,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684141
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"017dd5a43fb5ff97a4b643944e2a6a75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860735,
-            "region_id":85684141,
+            "region_id":85684061,
             "venue_id":202568187
         }
     ],
     "wof:id":202568187,
-    "wof:lastmodified":1472256700,
+    "wof:lastmodified":1491934147,
     "wof:name":"Mirinda Ltd",
     "wof:parent_id":85860735,
     "wof:placetype":"venue",

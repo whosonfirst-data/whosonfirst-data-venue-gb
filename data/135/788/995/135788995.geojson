@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.021182,51.61697,0.021182,51.61697",
     "geom:latitude":51.61697,
     "geom:longitude":0.021182,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786601,
-        85684273
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"eafb82e361915c1cf352c5e8949c7590",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786601,
-            "region_id":85684273,
+            "region_id":85684061,
             "venue_id":135788995
         }
     ],
     "wof:id":135788995,
-    "wof:lastmodified":1472267134,
+    "wof:lastmodified":1491885010,
     "wof:name":"Trinity Catholic High School",
     "wof:parent_id":85786601,
     "wof:placetype":"venue",

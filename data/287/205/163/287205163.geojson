@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.04394,51.626968,-0.04394,51.626968",
     "geom:latitude":51.626968,
     "geom:longitude":-0.04394,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787249,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684381
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"7f478df0813d9194f538a05a5b8f745e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787249,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":287205163
         }
     ],
     "wof:id":287205163,
-    "wof:lastmodified":1472257499,
+    "wof:lastmodified":1491913895,
     "wof:name":"Printibility",
     "wof:parent_id":85787249,
     "wof:placetype":"venue",

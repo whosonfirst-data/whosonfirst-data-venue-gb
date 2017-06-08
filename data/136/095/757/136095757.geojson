@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.091399,51.562714,0.091399,51.562714",
     "geom:latitude":51.562714,
     "geom:longitude":0.091399,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790249,
-        85684441
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +52,18 @@
     "wof:geomhash":"38cb32d0093922a17e52f0b69c7f7c7e",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790249,
-            "region_id":85684441,
+            "region_id":85684061,
             "venue_id":136095757
         }
     ],
     "wof:id":136095757,
-    "wof:lastmodified":1472258436,
+    "wof:lastmodified":1491892849,
     "wof:name":"Seven Kings Food & Wine",
     "wof:parent_id":85790249,
     "wof:placetype":"venue",

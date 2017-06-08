@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.230376,51.531143,-0.230376,51.531143",
     "geom:latitude":51.531143,
     "geom:longitude":-0.230376,
@@ -41,9 +42,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792201,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684299
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,16 +57,18 @@
     "wof:geomhash":"8c4e9dbd307c146339a91396e1223a13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792201,
-            "region_id":85684299,
+            "region_id":85684061,
             "venue_id":303112319
         }
     ],
     "wof:id":303112319,
-    "wof:lastmodified":1472256492,
+    "wof:lastmodified":1491905418,
     "wof:name":"May'S Cafe",
     "wof:parent_id":85792201,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.141428,51.487579,-3.141428,51.487579",
     "geom:latitude":51.487579,
     "geom:longitude":-3.141428,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789789,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -43,16 +47,18 @@
     "wof:geomhash":"b1a5d230431fd121f9f0c946860c074c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85789789,
             "region_id":85683787,
             "venue_id":286872877
         }
     ],
     "wof:id":286872877,
-    "wof:lastmodified":1472263130,
+    "wof:lastmodified":1491900125,
     "wof:name":"Spar",
     "wof:parent_id":85789789,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.1378,52.573849,-2.1378,52.573849",
     "geom:latitude":52.573849,
     "geom:longitude":-2.1378,
@@ -44,9 +45,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914031,
-        85633159,
         85785837,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
+        101914031,
         85683801
     ],
     "wof:breaches":[],
@@ -57,15 +61,18 @@
     "wof:geomhash":"21ca874b8fef8f5cfe1123e0cf87a801",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785837,
             "region_id":85683801,
             "venue_id":118993843
         }
     ],
     "wof:id":118993843,
-    "wof:lastmodified":1472266209,
+    "wof:lastmodified":1491908537,
     "wof:name":"The Royal Wolverhampton School",
     "wof:parent_id":85785837,
     "wof:placetype":"venue",

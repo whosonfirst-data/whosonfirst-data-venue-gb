@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.053126,51.628471,-0.053126,51.628471",
     "geom:latitude":51.628471,
     "geom:longitude":-0.053126,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787249,
-        85684381
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"d2ab32680f0fc08c3605677d5b95687d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787249,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":102591205
         }
     ],
     "wof:id":102591205,
-    "wof:lastmodified":1472254989,
+    "wof:lastmodified":1491913907,
     "wof:name":"Inprint Services Ltd",
     "wof:parent_id":85787249,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.210376,51.477901,-0.210376,51.477901",
     "geom:latitude":51.477901,
     "geom:longitude":-0.210376,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787549,
-        85684299
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"d1b7a2757bcd145883f7d02346cd882b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787549,
-            "region_id":85684299,
+            "region_id":85684061,
             "venue_id":135558707
         }
     ],
     "wof:id":135558707,
-    "wof:lastmodified":1472265311,
+    "wof:lastmodified":1491937238,
     "wof:name":"Daley & Hall",
     "wof:parent_id":85787549,
     "wof:placetype":"venue",

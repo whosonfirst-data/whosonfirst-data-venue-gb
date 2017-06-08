@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.050327,51.628063,-0.050327,51.628063",
     "geom:latitude":51.628063,
     "geom:longitude":-0.050327,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787249,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684381
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"f7bd6384a8ee1d138c798c26b4c6fb12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787249,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":336772319
         }
     ],
     "wof:id":336772319,
-    "wof:lastmodified":1472257431,
+    "wof:lastmodified":1491913879,
     "wof:name":"All Fencing",
     "wof:parent_id":85787249,
     "wof:placetype":"venue",

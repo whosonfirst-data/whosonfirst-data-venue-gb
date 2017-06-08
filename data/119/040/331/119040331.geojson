@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.192947,51.568962,0.192947,51.568962",
     "geom:latitude":51.568962,
     "geom:longitude":0.192947,
@@ -29,10 +30,13 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85865131,
-        85683841
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"ff05582a33a5a7337a8832c7dbecd385",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85865131,
-            "region_id":85683841,
+            "region_id":85684061,
             "venue_id":119040331
         }
     ],
     "wof:id":119040331,
-    "wof:lastmodified":1472255953,
+    "wof:lastmodified":1491901122,
     "wof:name":"Mike's School of Motoring",
     "wof:parent_id":85865131,
     "wof:placetype":"venue",

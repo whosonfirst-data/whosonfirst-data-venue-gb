@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.145614,51.481655,-3.145614,51.481655",
     "geom:latitude":51.481655,
     "geom:longitude":-3.145614,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789789,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"767783044df3ab57c77ebc77adb516e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85789789,
             "region_id":85683787,
             "venue_id":186431961
         }
     ],
     "wof:id":186431961,
-    "wof:lastmodified":1472258925,
+    "wof:lastmodified":1491900142,
     "wof:name":"Splott Park",
     "wof:parent_id":85789789,
     "wof:placetype":"venue",

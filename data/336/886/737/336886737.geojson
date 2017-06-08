@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.787247,53.80088,-1.787247,53.80088",
     "geom:latitude":53.80088,
     "geom:longitude":-1.787247,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787493,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"c8ed0e2213ba76536c091d1c3d5ccaab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787493,
             "region_id":85684463,
             "venue_id":336886737
         }
     ],
     "wof:id":336886737,
-    "wof:lastmodified":1472259438,
+    "wof:lastmodified":1491937694,
     "wof:name":"Moss Chemists",
     "wof:parent_id":85787493,
     "wof:placetype":"venue",

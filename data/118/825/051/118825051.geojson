@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.226129,55.958549,-3.226129,55.958549",
     "geom:latitude":55.958549,
     "geom:longitude":-3.226129,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85861477,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"344448f8ec26697dc6c5ab94982afb23",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861477,
             "region_id":85684587,
             "venue_id":118825051
         }
     ],
     "wof:id":118825051,
-    "wof:lastmodified":1472264660,
+    "wof:lastmodified":1491911203,
     "wof:name":"Robaco Inc",
     "wof:parent_id":85861477,
     "wof:placetype":"venue",

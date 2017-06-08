@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.123962,51.597862,-0.123962,51.597862",
     "geom:latitude":51.597862,
     "geom:longitude":-0.123962,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791751,
-        85684121
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"45eeadcad961fb2c6fac4bb26634fcf1",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791751,
-            "region_id":85684121,
+            "region_id":85684061,
             "venue_id":135740949
         }
     ],
     "wof:id":135740949,
-    "wof:lastmodified":1472266830,
+    "wof:lastmodified":1491896689,
     "wof:name":"Eva Tandoori",
     "wof:parent_id":85791751,
     "wof:placetype":"venue",

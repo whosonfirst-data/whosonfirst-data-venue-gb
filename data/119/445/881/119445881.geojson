@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.023704,51.408329,-0.023704,51.408329",
     "geom:latitude":51.408329,
     "geom:longitude":-0.023704,
@@ -29,10 +30,13 @@
     "sg:province":"Kent",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785551,
-        85684235
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"3d0f211435817c944d1e4a2fa35c50a8",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785551,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":119445881
         }
     ],
     "wof:id":119445881,
-    "wof:lastmodified":1472266789,
+    "wof:lastmodified":1491908101,
     "wof:name":"Beckenham Methodist Church",
     "wof:parent_id":85785551,
     "wof:placetype":"venue",

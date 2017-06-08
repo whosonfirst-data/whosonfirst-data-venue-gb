@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.1224,51.580502,-0.1224,51.580502",
     "geom:latitude":51.580502,
     "geom:longitude":-0.1224,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788337,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684121
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"01c9d213f1c80b3d7de4d8a089c5bb8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788337,
-            "region_id":85684121,
+            "region_id":85684061,
             "venue_id":286455641
         }
     ],
     "wof:id":286455641,
-    "wof:lastmodified":1472257373,
+    "wof:lastmodified":1491916129,
     "wof:name":"Jade Palace",
     "wof:parent_id":85788337,
     "wof:placetype":"venue",

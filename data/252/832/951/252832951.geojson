@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.288733,55.893127,-4.288733,55.893127",
     "geom:latitude":55.893127,
     "geom:longitude":-4.288733,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789015,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"f03644cd9ad254d6207b376be34d120c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789015,
             "region_id":85684351,
             "venue_id":252832951
         }
     ],
     "wof:id":252832951,
-    "wof:lastmodified":1472256365,
+    "wof:lastmodified":1491934468,
     "wof:name":"T L C School Of Motoring",
     "wof:parent_id":85789015,
     "wof:placetype":"venue",

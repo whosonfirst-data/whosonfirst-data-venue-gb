@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.21583,55.858395,-4.21583,55.858395",
     "geom:latitude":55.858395,
     "geom:longitude":-4.21583,
@@ -35,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85785321,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -48,15 +52,18 @@
     "wof:geomhash":"7f39b101546bd7372b575e49c4e98111",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85785321,
             "region_id":85684351,
             "venue_id":118898929
         }
     ],
     "wof:id":118898929,
-    "wof:lastmodified":1472265753,
+    "wof:lastmodified":1491920198,
     "wof:name":"G101 OFF SALES LTD",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",

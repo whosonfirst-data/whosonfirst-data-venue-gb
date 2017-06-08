@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.357766,55.885578,-4.357766,55.885578",
     "geom:latitude":55.885578,
     "geom:longitude":-4.357766,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790197,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"6c9ef79a67d2fbe80f078923a20c191e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790197,
             "region_id":85684351,
             "venue_id":253146045
         }
     ],
     "wof:id":253146045,
-    "wof:lastmodified":1472256797,
+    "wof:lastmodified":1491911760,
     "wof:name":"X-L Mobile Tuning",
     "wof:parent_id":85790197,
     "wof:placetype":"venue",

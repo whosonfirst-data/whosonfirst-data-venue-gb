@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.013455,51.486008,0.013455,51.486008",
     "geom:latitude":51.486008,
     "geom:longitude":0.013455,
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85866377,
-        85683707
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +55,18 @@
     "wof:geomhash":"d2572b5319bf9bd9f3f337a136375a94",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85866377,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":135572169
         }
     ],
     "wof:id":135572169,
-    "wof:lastmodified":1472265101,
+    "wof:lastmodified":1491908144,
     "wof:name":"Scruples Hair Studios",
     "wof:parent_id":85866377,
     "wof:placetype":"venue",

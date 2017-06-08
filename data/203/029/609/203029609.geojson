@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.515394,52.431812,-1.515394,52.431812",
     "geom:latitude":52.431812,
     "geom:longitude":-1.515394,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864245,
-        85633159,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
         101750449,
         85684565
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"c912f40b5a59ad88681c50a9d4326e10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85864245,
             "region_id":85684565,
             "venue_id":203029609
         }
     ],
     "wof:id":203029609,
-    "wof:lastmodified":1472255211,
+    "wof:lastmodified":1491902407,
     "wof:name":"S Bentley Electrical",
     "wof:parent_id":85864245,
     "wof:placetype":"venue",

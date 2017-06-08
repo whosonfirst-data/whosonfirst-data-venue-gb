@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.539719,53.828983,-1.539719,53.828983",
     "geom:latitude":53.828983,
     "geom:longitude":-1.539719,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786417,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"47eb69d75b53db40f503b2a2d34c5376",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786417,
             "region_id":85684321,
             "venue_id":286847951
         }
     ],
     "wof:id":286847951,
-    "wof:lastmodified":1472262971,
+    "wof:lastmodified":1491916798,
     "wof:name":"Maxsound Production Services",
     "wof:parent_id":85786417,
     "wof:placetype":"venue",

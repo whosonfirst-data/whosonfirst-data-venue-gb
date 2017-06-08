@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.097815,51.593483,-0.097815,51.593483",
     "geom:latitude":51.593483,
     "geom:longitude":-0.097815,
@@ -31,11 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85791751,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85860347,
-        85684121,
-        85791751
+        85684061,
+        85860347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,24 +49,30 @@
     "wof:geomhash":"0e58200c8db545a6247682bc727b1bea",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85860347,
-            "region_id":85684121,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791751,
+            "region_id":85684061,
             "venue_id":135910915
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85791751,
-            "region_id":85684121,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860347,
+            "region_id":85684061,
             "venue_id":135910915
         }
     ],
     "wof:id":135910915,
-    "wof:lastmodified":1472267734,
+    "wof:lastmodified":1491896733,
     "wof:name":"West Butchers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

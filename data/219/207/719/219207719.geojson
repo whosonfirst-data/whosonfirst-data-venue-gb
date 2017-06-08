@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.473652,53.376217,-1.473652,53.376217",
     "geom:latitude":53.376217,
     "geom:longitude":-1.473652,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793113,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"16495983e7b4936819c65d52f4a4cffc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":219207719
         }
     ],
     "wof:id":219207719,
-    "wof:lastmodified":1472255500,
+    "wof:lastmodified":1491899051,
     "wof:name":"Evans Ltd",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

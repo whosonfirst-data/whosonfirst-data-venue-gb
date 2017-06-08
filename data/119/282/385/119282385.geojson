@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.44772,51.459728,-0.44772,51.459728",
     "geom:latitude":51.459728,
     "geom:longitude":-0.44772,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102556703,
+        85788065,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85787153,
-        85684141,
-        85785569
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,23 +52,21 @@
     "wof:geomhash":"149c32091141c8c26e18b30e8e5cda90",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "campus_id":102556703,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85787153,
-            "region_id":85684141,
-            "venue_id":119282385
-        },
-        {
-            "country_id":85633159,
-            "neighbourhood_id":85785569,
-            "region_id":85684141,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788065,
+            "region_id":85684061,
             "venue_id":119282385
         }
     ],
     "wof:id":119282385,
-    "wof:lastmodified":1472265534,
+    "wof:lastmodified":1491933883,
     "wof:name":"H M V",
-    "wof:parent_id":-1,
+    "wof:parent_id":102556703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.133262,51.507793,-0.133262,51.507793",
     "geom:latitude":51.507793,
     "geom:longitude":-0.133262,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861787,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"f527389b7ed551e46e60bd1b0369fc29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861787,
             "region_id":85684061,
             "venue_id":253245059
         }
     ],
     "wof:id":253245059,
-    "wof:lastmodified":1472258154,
+    "wof:lastmodified":1491916732,
     "wof:name":"Manly International Ltd.",
     "wof:parent_id":85861787,
     "wof:placetype":"venue",

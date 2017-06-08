@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.85117,52.516258,-1.85117,52.516258",
     "geom:latitude":52.516258,
     "geom:longitude":-1.85117,
@@ -39,7 +40,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787715,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -51,16 +55,18 @@
     "wof:geomhash":"a3c35dc4ee7525bb60de3a62956e9e9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787715,
             "region_id":85684283,
             "venue_id":269835743
         }
     ],
     "wof:id":269835743,
-    "wof:lastmodified":1472260623,
+    "wof:lastmodified":1491899786,
     "wof:name":"St Mary & St John R C Junior & Infant School",
     "wof:parent_id":85787715,
     "wof:placetype":"venue",

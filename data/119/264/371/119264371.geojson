@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.532652,53.836178,-1.532652,53.836178",
     "geom:latitude":53.836178,
     "geom:longitude":-1.532652,
@@ -39,9 +40,12 @@
     "sg:website":"http://www.aztecha.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85789171,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321,
         85786417
     ],
@@ -53,24 +57,30 @@
     "wof:geomhash":"0d7d76ac793b72f5ade5a52ad5bd91e3",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789171,
             "region_id":85684321,
             "venue_id":119264371
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786417,
             "region_id":85684321,
             "venue_id":119264371
         }
     ],
     "wof:id":119264371,
-    "wof:lastmodified":1472265377,
+    "wof:lastmodified":1491916803,
     "wof:name":"Aztecha Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

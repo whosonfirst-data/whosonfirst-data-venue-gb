@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.543809,53.797321,-1.543809,53.797321",
     "geom:latitude":53.797321,
     "geom:longitude":-1.543809,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85792901,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"8f8b597924ad54f08a88f3f0704470db",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792901,
             "region_id":85684321,
             "venue_id":135463561
         }
     ],
     "wof:id":135463561,
-    "wof:lastmodified":1472264142,
+    "wof:lastmodified":1491910267,
     "wof:name":"Gullivers",
     "wof:parent_id":85792901,
     "wof:placetype":"venue",

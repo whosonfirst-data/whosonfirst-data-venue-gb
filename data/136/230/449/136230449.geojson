@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.783332,53.799252,-1.783332,53.799252",
     "geom:latitude":53.799252,
     "geom:longitude":-1.783332,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750581,
-        85633159,
         85787493,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
         85684463
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"c6ea3d1c711d2ea332f16735efb84f2e",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787493,
             "region_id":85684463,
             "venue_id":136230449
         }
     ],
     "wof:id":136230449,
-    "wof:lastmodified":1472264287,
+    "wof:lastmodified":1491937705,
     "wof:name":"Hall,Christopher,",
     "wof:parent_id":85787493,
     "wof:placetype":"venue",

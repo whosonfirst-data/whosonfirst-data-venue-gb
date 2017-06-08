@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.110731,51.535633,-0.110731,51.535633",
     "geom:latitude":51.535633,
     "geom:longitude":-0.110731,
@@ -37,9 +38,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866373,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684071
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,16 +53,18 @@
     "wof:geomhash":"972eb3ecf44f97142df5ca37956ed36e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85866373,
-            "region_id":85684071,
+            "region_id":85684061,
             "venue_id":253428847
         }
     ],
     "wof:id":253428847,
-    "wof:lastmodified":1472261275,
+    "wof:lastmodified":1491885083,
     "wof:name":"Douglas Pharmacy",
     "wof:parent_id":85866373,
     "wof:placetype":"venue",

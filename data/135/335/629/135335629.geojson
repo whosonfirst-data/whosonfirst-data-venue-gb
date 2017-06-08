@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.189971,51.482677,-3.189971,51.482677",
     "geom:latitude":51.482677,
     "geom:longitude":-3.189971,
@@ -28,9 +29,12 @@
     "sg:province":"Cardiff",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750397,
-        85633159,
         85861435,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
+        101750397,
         85683787
     ],
     "wof:breaches":[],
@@ -41,15 +45,18 @@
     "wof:geomhash":"946d53236f1c582dbea47f821bf4e855",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861435,
             "region_id":85683787,
             "venue_id":135335629
         }
     ],
     "wof:id":135335629,
-    "wof:lastmodified":1472258065,
+    "wof:lastmodified":1491886772,
     "wof:name":"August Properties (Spain) Ltd",
     "wof:parent_id":85861435,
     "wof:placetype":"venue",

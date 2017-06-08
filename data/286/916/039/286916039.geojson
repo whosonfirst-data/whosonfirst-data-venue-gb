@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.090325,51.474056,-0.090325,51.474056",
     "geom:latitude":51.474056,
     "geom:longitude":-0.090325,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786171,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"10a8d35f656d155241abf6e0add6db9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786171,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":286916039
         }
     ],
     "wof:id":286916039,
-    "wof:lastmodified":1472263890,
+    "wof:lastmodified":1491921384,
     "wof:name":"Sophocles Bakery & Patisserie",
     "wof:parent_id":85786171,
     "wof:placetype":"venue",

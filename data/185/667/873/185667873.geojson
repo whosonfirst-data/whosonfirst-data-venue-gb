@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.306665,51.362965,-0.306665,51.362965",
     "geom:latitude":51.362965,
     "geom:longitude":-0.306665,
@@ -29,11 +30,14 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85788303,
-        85633159,
+        85786539,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684387,
-        85786539
+        85684061,
+        85788303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +47,30 @@
     "wof:geomhash":"029c6372d10cac625e5f33f29a550a63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85788303,
-            "region_id":85684387,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786539,
+            "region_id":85684061,
             "venue_id":185667873
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85786539,
-            "region_id":85684387,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788303,
+            "region_id":85684061,
             "venue_id":185667873
         }
     ],
     "wof:id":185667873,
-    "wof:lastmodified":1472255703,
+    "wof:lastmodified":1491895272,
     "wof:name":"Bridge Road Dental Surgery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

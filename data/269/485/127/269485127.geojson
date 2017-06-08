@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.251709,51.545612,-0.251709,51.545612",
     "geom:latitude":51.545612,
     "geom:longitude":-0.251709,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860401,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684003
+        85684061
     ],
     "wof:brand_id":420575237,
     "wof:breaches":[],
@@ -43,16 +47,18 @@
     "wof:geomhash":"0bad532b3f4e75181ce87ece744e3277",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860401,
-            "region_id":85684003,
+            "region_id":85684061,
             "venue_id":269485127
         }
     ],
     "wof:id":269485127,
-    "wof:lastmodified":1472254972,
+    "wof:lastmodified":1491913546,
     "wof:name":"Post Office Ltd.",
     "wof:parent_id":85860401,
     "wof:placetype":"venue",

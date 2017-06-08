@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.553996,53.777798,-1.553996,53.777798",
     "geom:latitude":53.777798,
     "geom:longitude":-1.553996,
@@ -40,7 +41,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785589,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -52,16 +56,18 @@
     "wof:geomhash":"8f42ff75bd97609de648f7bbf02b8c3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785589,
             "region_id":85684321,
             "venue_id":270255779
         }
     ],
     "wof:id":270255779,
-    "wof:lastmodified":1472258048,
+    "wof:lastmodified":1491903345,
     "wof:name":"Parkside Community Project",
     "wof:parent_id":85785589,
     "wof:placetype":"venue",

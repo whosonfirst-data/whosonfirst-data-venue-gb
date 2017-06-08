@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.730739,53.83408,-1.730739,53.83408",
     "geom:latitude":53.83408,
     "geom:longitude":-1.730739,
@@ -37,9 +38,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750581,
-        85633159,
         85788415,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
         85684463
     ],
     "wof:breaches":[],
@@ -50,15 +54,18 @@
     "wof:geomhash":"05fcae5ede56a80e9d13854a0a221f88",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788415,
             "region_id":85684463,
             "venue_id":118615263
         }
     ],
     "wof:id":118615263,
-    "wof:lastmodified":1472259105,
+    "wof:lastmodified":1491903363,
     "wof:name":"Weaver Court",
     "wof:parent_id":85788415,
     "wof:placetype":"venue",

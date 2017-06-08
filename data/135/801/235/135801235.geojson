@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.197939,51.497822,-0.197939,51.497822",
     "geom:latitude":51.497822,
     "geom:longitude":-0.197939,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788517,
-        85683667
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"8c1ab8539110ba529b779e02c3736e46",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788517,
-            "region_id":85683667,
+            "region_id":85684061,
             "venue_id":135801235
         }
     ],
     "wof:id":135801235,
-    "wof:lastmodified":1472267073,
+    "wof:lastmodified":1491904265,
     "wof:name":"Kenlin Ltd.",
     "wof:parent_id":85788517,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.775434,52.45108,-1.775434,52.45108",
     "geom:latitude":52.45108,
     "geom:longitude":-1.775434,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85791869,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:brand_id":420575417,
@@ -47,15 +51,18 @@
     "wof:geomhash":"dd0b57cad98c6cb62b013e9446f6694c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791869,
             "region_id":85684283,
             "venue_id":135946655
         }
     ],
     "wof:id":135946655,
-    "wof:lastmodified":1472267814,
+    "wof:lastmodified":1491930503,
     "wof:name":"Halfords Superstore",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",

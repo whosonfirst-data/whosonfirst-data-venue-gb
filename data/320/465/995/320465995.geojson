@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.818391,52.493263,-1.818391,52.493263",
     "geom:latitude":52.493263,
     "geom:longitude":-1.818391,
@@ -39,7 +40,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791337,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -51,16 +55,18 @@
     "wof:geomhash":"b4dc57a75b1a58fe92faf9edc772902f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791337,
             "region_id":85684283,
             "venue_id":320465995
         }
     ],
     "wof:id":320465995,
-    "wof:lastmodified":1472262716,
+    "wof:lastmodified":1491888649,
     "wof:name":"Beaufort Diner",
     "wof:parent_id":85791337,
     "wof:placetype":"venue",

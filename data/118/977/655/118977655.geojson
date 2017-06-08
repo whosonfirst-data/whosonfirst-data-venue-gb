@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.135471,51.563351,-0.135471,51.563351",
     "geom:latitude":51.563351,
     "geom:longitude":-0.135471,
@@ -30,10 +31,13 @@
     "sg:website":"http://www.cppapas.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791233,
-        85684071
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"38019a894a06afebb5d7bc03b0d9d3c0",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791233,
-            "region_id":85684071,
+            "region_id":85684061,
             "venue_id":118977655
         }
     ],
     "wof:id":118977655,
-    "wof:lastmodified":1472265968,
+    "wof:lastmodified":1491937384,
     "wof:name":"C P Papas",
     "wof:parent_id":85791233,
     "wof:placetype":"venue",

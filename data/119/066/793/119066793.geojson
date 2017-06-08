@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.581819,51.440762,-2.581819,51.440762",
     "geom:latitude":51.440762,
     "geom:longitude":-2.581819,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750389,
-        85633159,
         85791103,
-        85684063
+        "102191581",
+        404431949,
+        "85633159",
+        404227469,
+        101750389,
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"89603fe5bdd4a624a4087a789c9fa20d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431949,
             "locality_id":101750389,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791103,
-            "region_id":85684063,
+            "region_id":85683793,
             "venue_id":119066793
         }
     ],
     "wof:id":119066793,
-    "wof:lastmodified":1472257160,
+    "wof:lastmodified":1491933686,
     "wof:name":"Rightsize (Bagged Products) Ltd.",
     "wof:parent_id":85791103,
     "wof:placetype":"venue",

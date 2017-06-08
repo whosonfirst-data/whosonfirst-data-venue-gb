@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.021495,51.474182,-0.021495,51.474182",
     "geom:latitude":51.474182,
     "geom:longitude":-0.021495,
@@ -36,10 +37,13 @@
     "sg:website":"http://www.thepositiveplace.org.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860515,
-        85683707
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +53,18 @@
     "wof:geomhash":"87afcd9fbdf5f37f2c6288544a838f91",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860515,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":119419287
         }
     ],
     "wof:id":119419287,
-    "wof:lastmodified":1472266447,
+    "wof:lastmodified":1491896166,
     "wof:name":"The Positive Place",
     "wof:parent_id":85860515,
     "wof:placetype":"venue",

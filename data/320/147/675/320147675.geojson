@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.867232,52.417431,-1.867232,52.417431",
     "geom:latitude":52.417431,
     "geom:longitude":-1.867232,
@@ -37,7 +38,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791873,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -49,16 +53,18 @@
     "wof:geomhash":"4e3c63c6b22dcc7238e593f376491f70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791873,
             "region_id":85684283,
             "venue_id":320147675
         }
     ],
     "wof:id":320147675,
-    "wof:lastmodified":1472257814,
+    "wof:lastmodified":1491932998,
     "wof:name":"ERIC ECCLESTON",
     "wof:parent_id":85791873,
     "wof:placetype":"venue",

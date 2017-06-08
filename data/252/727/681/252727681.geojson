@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.478301,53.798717,-1.478301,53.798717",
     "geom:latitude":53.798717,
     "geom:longitude":-1.478301,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788563,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"82d97e8143c670074c64700fb1d86609",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788563,
             "region_id":85684321,
             "venue_id":252727681
         }
     ],
     "wof:id":252727681,
-    "wof:lastmodified":1472255210,
+    "wof:lastmodified":1491908053,
     "wof:name":"Shokar Newsagents",
     "wof:parent_id":85788563,
     "wof:placetype":"venue",

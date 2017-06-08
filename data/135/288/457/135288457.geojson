@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.249863,51.547241,-0.249863,51.547241",
     "geom:latitude":51.547241,
     "geom:longitude":-0.249863,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860401,
-        85684003
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"fa3a12466404f16ba9e60f18b3f77806",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860401,
-            "region_id":85684003,
+            "region_id":85684061,
             "venue_id":135288457
         }
     ],
     "wof:id":135288457,
-    "wof:lastmodified":1472255479,
+    "wof:lastmodified":1491913537,
     "wof:name":"Andrews Fisheries",
     "wof:parent_id":85860401,
     "wof:placetype":"venue",

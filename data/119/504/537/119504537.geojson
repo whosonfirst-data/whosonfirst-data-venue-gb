@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.19061,55.948387,-3.19061,55.948387",
     "geom:latitude":55.948387,
     "geom:longitude":-3.19061,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85792713,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"911c4872874e616e81db2ff96f8d09c6",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792713,
             "region_id":85684587,
             "venue_id":119504537
         }
     ],
     "wof:id":119504537,
-    "wof:lastmodified":1472267109,
+    "wof:lastmodified":1491885566,
     "wof:name":"Wilkie House",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",

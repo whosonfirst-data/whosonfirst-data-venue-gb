@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.164076,55.866177,-4.164076,55.866177",
     "geom:latitude":55.866177,
     "geom:longitude":-4.164076,
@@ -44,9 +45,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85790555,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -57,15 +61,18 @@
     "wof:geomhash":"c3a7f5efadfa221d943de221219a4c98",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":135999815
         }
     ],
     "wof:id":135999815,
-    "wof:lastmodified":1472267921,
+    "wof:lastmodified":1491897829,
     "wof:name":"Lamlash Nursery School",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

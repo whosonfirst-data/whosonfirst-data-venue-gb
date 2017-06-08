@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.670038,53.864712,-1.670038,53.864712",
     "geom:latitude":53.864712,
     "geom:longitude":-1.670038,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786761,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -44,18 +46,17 @@
     "wof:geomhash":"14abf1882c4ed2f50aa1ff8664f5b128",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":253338627
         }
     ],
     "wof:id":253338627,
-    "wof:lastmodified":1472259432,
+    "wof:lastmodified":1491932536,
     "wof:name":"Jeremy Sample Builder",
-    "wof:parent_id":85786761,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

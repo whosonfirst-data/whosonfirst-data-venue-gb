@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.164422,51.590813,-0.164422,51.590813",
     "geom:latitude":51.590813,
     "geom:longitude":-0.164422,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787165,
-        85684613
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"ebe8121928fccda1c69111f2f25c924a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787165,
-            "region_id":85684613,
+            "region_id":85684061,
             "venue_id":118920705
         }
     ],
     "wof:id":118920705,
-    "wof:lastmodified":1472265835,
+    "wof:lastmodified":1491890030,
     "wof:name":"Welch's Ale House",
     "wof:parent_id":85787165,
     "wof:placetype":"venue",

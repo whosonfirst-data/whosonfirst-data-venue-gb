@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.725459,53.840172,-1.725459,53.840172",
     "geom:latitude":53.840172,
     "geom:longitude":-1.725459,
@@ -39,12 +40,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85790941,
-        85633159,
-        85684321,
         85788415,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
-        85684463
+        85684463,
+        85633159,
+        85790941,
+        85684321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,26 +59,26 @@
     "wof:geomhash":"8a82fbe30e16647ff8223cc9509f6cd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85790941,
-            "region_id":85684321,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
+            "locality_id":101750581,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788415,
+            "region_id":85684463,
             "venue_id":203035181
         },
         {
-            "continent_id":-1,
             "country_id":85633159,
-            "locality_id":101750581,
-            "neighbourhood_id":85788415,
-            "region_id":85684463,
+            "neighbourhood_id":85790941,
+            "region_id":85684321,
             "venue_id":203035181
         }
     ],
     "wof:id":203035181,
-    "wof:lastmodified":1472255239,
+    "wof:lastmodified":1491903359,
     "wof:name":"Steves Carpet Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

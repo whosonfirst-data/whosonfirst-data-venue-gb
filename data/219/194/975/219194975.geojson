@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.516937,53.819954,-1.516937,53.819954",
     "geom:latitude":53.819954,
     "geom:longitude":-1.516937,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792871,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"3b8fa9f65911e9b8ea8e9b44adebb475",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792871,
             "region_id":85684321,
             "venue_id":219194975
         }
     ],
     "wof:id":219194975,
-    "wof:lastmodified":1472255346,
+    "wof:lastmodified":1491932510,
     "wof:name":"Leeds Housing Concern Charity",
     "wof:parent_id":85792871,
     "wof:placetype":"venue",

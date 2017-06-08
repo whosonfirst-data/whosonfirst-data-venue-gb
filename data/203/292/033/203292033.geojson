@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.65866,53.87619,-1.65866,53.87619",
     "geom:latitude":53.87619,
     "geom:longitude":-1.65866,
@@ -34,8 +35,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786761,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -46,18 +48,17 @@
     "wof:geomhash":"af86ac6a2736b3f954d193279f997a1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":203292033
         }
     ],
     "wof:id":203292033,
-    "wof:lastmodified":1472257798,
+    "wof:lastmodified":1491932517,
     "wof:name":"Bibby Distribution Services Ltd.",
-    "wof:parent_id":85786761,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

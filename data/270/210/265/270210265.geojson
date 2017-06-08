@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.033497,51.594666,-0.033497,51.594666",
     "geom:latitude":51.594666,
     "geom:longitude":-0.033497,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792429,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684273
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,18 @@
     "wof:geomhash":"967e75a0eb1d927e6f6384f7e23e0015",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792429,
-            "region_id":85684273,
+            "region_id":85684061,
             "venue_id":270210265
         }
     ],
     "wof:id":270210265,
-    "wof:lastmodified":1472257563,
+    "wof:lastmodified":1491894894,
     "wof:name":"Enigma F M A Ltd.",
     "wof:parent_id":85792429,
     "wof:placetype":"venue",

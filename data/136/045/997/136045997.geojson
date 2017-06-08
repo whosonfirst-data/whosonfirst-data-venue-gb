@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.314223,55.873508,-4.314223,55.873508",
     "geom:latitude":55.873508,
     "geom:longitude":-4.314223,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85789735,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"5c7b900333fe9b4da703a10ef267c950",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789735,
             "region_id":85684351,
             "venue_id":136045997
         }
     ],
     "wof:id":136045997,
-    "wof:lastmodified":1472256489,
+    "wof:lastmodified":1491912119,
     "wof:name":"THE SURGERY",
     "wof:parent_id":85789735,
     "wof:placetype":"venue",

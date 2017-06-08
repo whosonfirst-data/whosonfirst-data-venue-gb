@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.930998,52.440258,-1.930998,52.440258",
     "geom:latitude":52.440258,
     "geom:longitude":-1.930998,
@@ -35,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85785881,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -48,15 +52,18 @@
     "wof:geomhash":"ae36410b53bae49c946261bd4bee751f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785881,
             "region_id":85684283,
             "venue_id":135724953
         }
     ],
     "wof:id":135724953,
-    "wof:lastmodified":1472266814,
+    "wof:lastmodified":1491893428,
     "wof:name":"Alex Tomlin",
     "wof:parent_id":85785881,
     "wof:placetype":"venue",

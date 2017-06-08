@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.099489,51.56144,0.099489,51.56144",
     "geom:latitude":51.56144,
     "geom:longitude":0.099489,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790249,
-        85684441
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"b638f0cf924a23b5d3e3c22d7af5d1ca",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790249,
-            "region_id":85684441,
+            "region_id":85684061,
             "venue_id":119293799
         }
     ],
     "wof:id":119293799,
-    "wof:lastmodified":1472265622,
+    "wof:lastmodified":1491892868,
     "wof:name":"Southlane Ltd.",
     "wof:parent_id":85790249,
     "wof:placetype":"venue",

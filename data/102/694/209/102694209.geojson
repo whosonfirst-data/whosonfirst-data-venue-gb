@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.072117,51.359699,0.072117,51.359699",
     "geom:latitude":51.359699,
     "geom:longitude":0.072117,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787355,
-        85684235
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"c22cdfdb9c9ecd405c9b19f4bdd4b125",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787355,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":102694209
         }
     ],
     "wof:id":102694209,
-    "wof:lastmodified":1472258325,
+    "wof:lastmodified":1491902372,
     "wof:name":"Homesdales Stores",
     "wof:parent_id":85787355,
     "wof:placetype":"venue",

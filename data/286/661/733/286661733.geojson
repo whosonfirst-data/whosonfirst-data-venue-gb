@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.7526,53.78231,-1.7526,53.78231",
     "geom:latitude":53.78231,
     "geom:longitude":-1.7526,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791453,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"f7b0e4997f78a54db496a1e7eed6efb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791453,
             "region_id":85684463,
             "venue_id":286661733
         }
     ],
     "wof:id":286661733,
-    "wof:lastmodified":1472259884,
+    "wof:lastmodified":1491905461,
     "wof:name":"Carols Cafe",
     "wof:parent_id":85791453,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.794285,53.805275,-1.794285,53.805275",
     "geom:latitude":53.805275,
     "geom:longitude":-1.794285,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750581,
-        85633159,
         85787493,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
         85684463
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"cf64c453c6567d085453171c8d5f5d10",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787493,
             "region_id":85684463,
             "venue_id":135451769
         }
     ],
     "wof:id":135451769,
-    "wof:lastmodified":1472264163,
+    "wof:lastmodified":1491937718,
     "wof:name":"M J Collier",
     "wof:parent_id":85787493,
     "wof:placetype":"venue",

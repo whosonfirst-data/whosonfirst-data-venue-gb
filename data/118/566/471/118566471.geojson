@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.213874,55.898796,-3.213874,55.898796",
     "geom:latitude":55.898796,
     "geom:longitude":-3.213874,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85861513,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"05773fc324fd438ae3af772cf2879cf7",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861513,
             "region_id":85684587,
             "venue_id":118566471
         }
     ],
     "wof:id":118566471,
-    "wof:lastmodified":1472257335,
+    "wof:lastmodified":1491916691,
     "wof:name":"T W Associates",
     "wof:parent_id":85861513,
     "wof:placetype":"venue",

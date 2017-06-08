@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.141705,51.517345,-0.141705,51.517345",
     "geom:latitude":51.517345,
     "geom:longitude":-0.141705,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861697,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061,
         85861823
@@ -47,26 +51,30 @@
     "wof:geomhash":"52063baafcbba9db3b4a981fe6e7a31b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861697,
             "region_id":85684061,
             "venue_id":269585495
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861823,
             "region_id":85684061,
             "venue_id":269585495
         }
     ],
     "wof:id":269585495,
-    "wof:lastmodified":1472256404,
+    "wof:lastmodified":1491921013,
     "wof:name":"Todd & Ledson",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

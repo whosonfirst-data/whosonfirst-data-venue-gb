@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.145871,52.600338,-2.145871,52.600338",
     "geom:latitude":52.600338,
     "geom:longitude":-2.145871,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789371,
-        85633159,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
         101914031,
         85683801
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"0dc178074057c40c8ab7ab05984eb1b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789371,
             "region_id":85683801,
             "venue_id":286747517
         }
     ],
     "wof:id":286747517,
-    "wof:lastmodified":1472261978,
+    "wof:lastmodified":1491888377,
     "wof:name":"Clarke & Sons",
     "wof:parent_id":85789371,
     "wof:placetype":"venue",

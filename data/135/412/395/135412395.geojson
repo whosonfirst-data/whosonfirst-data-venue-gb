@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.05425,51.366592,0.05425,51.366592",
     "geom:latitude":51.366592,
     "geom:longitude":0.05425,
@@ -29,10 +30,13 @@
     "sg:province":"Kent",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787355,
-        85684235
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"868b187236206e0d4a5528662e8b6812",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787355,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":135412395
         }
     ],
     "wof:id":135412395,
-    "wof:lastmodified":1472262071,
+    "wof:lastmodified":1491902366,
     "wof:name":"J S Sehmi",
     "wof:parent_id":85787355,
     "wof:placetype":"venue",

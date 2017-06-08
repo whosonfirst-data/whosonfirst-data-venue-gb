@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.276218,55.842758,-4.276218,55.842758",
     "geom:latitude":55.842758,
     "geom:longitude":-4.276218,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861543,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"ba604e901b6b2c359e1bca8190429dc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861543,
             "region_id":85684351,
             "venue_id":303570453
         }
     ],
     "wof:id":303570453,
-    "wof:lastmodified":1472262989,
+    "wof:lastmodified":1491892955,
     "wof:name":"Care & Repair",
     "wof:parent_id":85861543,
     "wof:placetype":"venue",

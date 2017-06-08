@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.281613,55.850315,-4.281613,55.850315",
     "geom:latitude":55.850315,
     "geom:longitude":-4.281613,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85861543,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"d3afa90f51b776885d23eafa97570d99",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861543,
             "region_id":85684351,
             "venue_id":135502473
         }
     ],
     "wof:id":135502473,
-    "wof:lastmodified":1472264604,
+    "wof:lastmodified":1491892936,
     "wof:name":"The Sun",
     "wof:parent_id":85861543,
     "wof:placetype":"venue",

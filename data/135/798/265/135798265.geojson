@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.040628,51.52293,-0.040628,51.52293",
     "geom:latitude":51.52293,
     "geom:longitude":-0.040628,
@@ -41,10 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785887,
-        85684467
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +58,18 @@
     "wof:geomhash":"ce7c529161d44a75548b6f46e4e78565",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785887,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":135798265
         }
     ],
     "wof:id":135798265,
-    "wof:lastmodified":1472267077,
+    "wof:lastmodified":1491919662,
     "wof:name":"INTERSCIENCE COMMUNICATIONS LTD.",
     "wof:parent_id":85785887,
     "wof:placetype":"venue",

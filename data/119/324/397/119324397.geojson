@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.936974,52.472488,-1.936974,52.472488",
     "geom:latitude":52.472488,
     "geom:longitude":-1.936974,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787237,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"95980c74da79bd6708fbbb4ca08fbd3c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787237,
             "region_id":85684283,
             "venue_id":119324397
         }
     ],
     "wof:id":119324397,
-    "wof:lastmodified":1472265732,
+    "wof:lastmodified":1491936449,
     "wof:name":"Bupa Health Screening",
     "wof:parent_id":85787237,
     "wof:placetype":"venue",

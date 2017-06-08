@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.401354,54.889294,-1.401354,54.889294",
     "geom:latitude":54.889294,
     "geom:longitude":-1.401354,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750611,
-        85633159,
         85793173,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
+        101750611,
         85684483
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"f70c4855f29131df9a47d0a5f47ec69c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793173,
             "region_id":85684483,
             "venue_id":119074755
         }
     ],
     "wof:id":119074755,
-    "wof:lastmodified":1472258098,
+    "wof:lastmodified":1491905674,
     "wof:name":"G F Construction",
     "wof:parent_id":85793173,
     "wof:placetype":"venue",

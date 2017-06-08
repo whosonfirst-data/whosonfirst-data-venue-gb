@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.473866,53.796921,-1.473866,53.796921",
     "geom:latitude":53.796921,
     "geom:longitude":-1.473866,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788563,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"461a07bf77a3dccdf26e3c12b573d964",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788563,
             "region_id":85684321,
             "venue_id":286732339
         }
     ],
     "wof:id":286732339,
-    "wof:lastmodified":1472261614,
+    "wof:lastmodified":1491908053,
     "wof:name":"David Latto",
     "wof:parent_id":85788563,
     "wof:placetype":"venue",

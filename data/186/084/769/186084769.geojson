@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.098663,51.564503,0.098663,51.564503",
     "geom:latitude":51.564503,
     "geom:longitude":0.098663,
@@ -38,9 +39,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790249,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684441
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,16 +54,18 @@
     "wof:geomhash":"91fa81d56cdc511b1cb2b7aa1e627fe3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790249,
-            "region_id":85684441,
+            "region_id":85684061,
             "venue_id":186084769
         }
     ],
     "wof:id":186084769,
-    "wof:lastmodified":1472255676,
+    "wof:lastmodified":1491892860,
     "wof:name":"Best for Less Bags & Baggage",
     "wof:parent_id":85790249,
     "wof:placetype":"venue",

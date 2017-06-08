@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.046908,51.449417,-0.046908,51.449417",
     "geom:latitude":51.449417,
     "geom:longitude":-0.046908,
@@ -28,10 +29,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792379,
-        85684289
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,18 @@
     "wof:geomhash":"894c9b9d7ad1f4ec9da1852c88dd8082",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792379,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":135901453
         }
     ],
     "wof:id":135901453,
-    "wof:lastmodified":1472267662,
+    "wof:lastmodified":1491922364,
     "wof:name":"Jenny's Restaurant",
     "wof:parent_id":85792379,
     "wof:placetype":"venue",

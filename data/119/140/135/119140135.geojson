@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.101555,51.505108,-0.101555,51.505108",
     "geom:latitude":51.505108,
     "geom:longitude":-0.101555,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861631,
-        85684289
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"77e94b9021d97e3997a3338e418576c6",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861631,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":119140135
         }
     ],
     "wof:id":119140135,
-    "wof:lastmodified":1472261217,
+    "wof:lastmodified":1491934501,
     "wof:name":"Pickles",
     "wof:parent_id":85861631,
     "wof:placetype":"venue",

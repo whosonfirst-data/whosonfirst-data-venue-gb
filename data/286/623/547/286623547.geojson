@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.503613,51.48782,-2.503613,51.48782",
     "geom:latitude":51.48782,
     "geom:longitude":-2.503613,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787069,
-        85633159,
+        "102191581",
+        404447367,
+        "85633159",
+        404227469,
         101914025,
         85684423
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"73f8f8f66beab6c08e679f78810ceb0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447367,
             "locality_id":101914025,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787069,
             "region_id":85684423,
             "venue_id":286623547
         }
     ],
     "wof:id":286623547,
-    "wof:lastmodified":1472259532,
+    "wof:lastmodified":1491885728,
     "wof:name":"Masters Barber Shop",
     "wof:parent_id":85787069,
     "wof:placetype":"venue",

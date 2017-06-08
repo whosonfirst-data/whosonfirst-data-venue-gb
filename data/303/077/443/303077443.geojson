@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.0494,51.446522,-0.0494,51.446522",
     "geom:latitude":51.446522,
     "geom:longitude":-0.0494,
@@ -32,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85787485,
-        85633159,
-        101750367,
-        85684337,
         85792379,
-        85684289
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061,
+        85787485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +50,30 @@
     "wof:geomhash":"7c6ae1b63553276dd2207a80ce547473",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85787485,
-            "region_id":85684337,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792379,
+            "region_id":85684061,
             "venue_id":303077443
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85792379,
-            "region_id":85684289,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787485,
+            "region_id":85684061,
             "venue_id":303077443
         }
     ],
     "wof:id":303077443,
-    "wof:lastmodified":1472255852,
+    "wof:lastmodified":1491922360,
     "wof:name":"Peter M Stephens",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.60592,53.833225,-1.60592,53.833225",
     "geom:latitude":53.833225,
     "geom:longitude":-1.60592,
@@ -29,9 +30,12 @@
     "sg:province":"West Yorkshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85792891,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"5e67f82762a5c132ec3ad2b32c9a5d14",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792891,
             "region_id":85684321,
             "venue_id":119393305
         }
     ],
     "wof:id":119393305,
-    "wof:lastmodified":1472266388,
+    "wof:lastmodified":1491889748,
     "wof:name":"Butcher Hill PO",
     "wof:parent_id":85792891,
     "wof:placetype":"venue",

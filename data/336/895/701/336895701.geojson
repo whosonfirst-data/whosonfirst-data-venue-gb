@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.766657,53.769543,-1.766657,53.769543",
     "geom:latitude":53.769543,
     "geom:longitude":-1.766657,
@@ -40,7 +41,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791453,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -52,16 +56,18 @@
     "wof:geomhash":"ce8f91b6144c087c7144072c8aeab514",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791453,
             "region_id":85684463,
             "venue_id":336895701
         }
     ],
     "wof:id":336895701,
-    "wof:lastmodified":1472259683,
+    "wof:lastmodified":1491905455,
     "wof:name":"P Singh Stores",
     "wof:parent_id":85791453,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.798514,52.467186,-1.798514,52.467186",
     "geom:latitude":52.467186,
     "geom:longitude":-1.798514,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791869,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"7be2931d4e4360ab1d6eaa56f0c53f74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791869,
             "region_id":85684283,
             "venue_id":270269759
         }
     ],
     "wof:id":270269759,
-    "wof:lastmodified":1472258195,
+    "wof:lastmodified":1491930505,
     "wof:name":"Bilton Grange Post Office & Stores",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",

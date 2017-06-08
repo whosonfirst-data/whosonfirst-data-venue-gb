@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.854779,52.511051,-1.854779,52.511051",
     "geom:latitude":52.511051,
     "geom:longitude":-1.854779,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787715,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"39aa4948d159df264882f2ab18d354d5",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787715,
             "region_id":85684283,
             "venue_id":118919431
         }
     ],
     "wof:id":118919431,
-    "wof:lastmodified":1472265819,
+    "wof:lastmodified":1491899787,
     "wof:name":"Patricia Walsh",
     "wof:parent_id":85787715,
     "wof:placetype":"venue",

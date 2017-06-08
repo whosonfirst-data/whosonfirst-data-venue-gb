@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.1685500145,55.9759712219,-3.1685500145,55.9759712219",
     "geom:latitude":55.975971,
     "geom:longitude":-3.16855,
@@ -32,15 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633159,
+        85788723,
         85861481,
         "102191581",
         404437279,
         "85633159",
         404227471,
         101750629,
-        85684587,
-        85633159,
-        85788723
+        85684587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +52,15 @@
     "wof:geomhash":"c66b5cdf235225ad6bc81f53b74e41a4",
     "wof:hierarchy":[
         {
+            "continent_id":-1,
+            "country_id":85633159,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85788723,
+            "region_id":-1,
+            "venue_id":924140965
+        },
+        {
             "continent_id":"102191581",
             "country_id":"85633159",
             "localadmin_id":404437279,
@@ -59,21 +69,12 @@
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":924140965
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85788723,
-            "region_id":-1,
-            "venue_id":924140965
         }
     ],
     "wof:id":924140965,
-    "wof:lastmodified":1472267799,
+    "wof:lastmodified":1491924512,
     "wof:name":"Galer,Samantha",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

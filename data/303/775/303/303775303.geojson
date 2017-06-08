@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.188979,51.481541,-3.188979,51.481541",
     "geom:latitude":51.481541,
     "geom:longitude":-3.188979,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861435,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"b61edaf6410ff72b5a7214ab0d9a0eaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861435,
             "region_id":85683787,
             "venue_id":303775303
         }
     ],
     "wof:id":303775303,
-    "wof:lastmodified":1472264803,
+    "wof:lastmodified":1491886780,
     "wof:name":"Oakwood Furniture Frames Ltd",
     "wof:parent_id":85861435,
     "wof:placetype":"venue",

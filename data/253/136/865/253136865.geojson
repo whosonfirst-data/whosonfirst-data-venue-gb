@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.470389,53.380161,-1.470389,53.380161",
     "geom:latitude":53.380161,
     "geom:longitude":-1.470389,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793113,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"54ed3b1b2180f5c473fc5c9026dc854d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":253136865
         }
     ],
     "wof:id":253136865,
-    "wof:lastmodified":1472256737,
+    "wof:lastmodified":1491899000,
     "wof:name":"Game (Stores) Ltd.",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

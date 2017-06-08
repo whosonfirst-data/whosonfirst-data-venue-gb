@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.015675,52.566273,-2.015675,52.566273",
     "geom:latitude":52.566273,
     "geom:longitude":-2.015675,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914035,
-        85633159,
         85791909,
+        "102191581",
+        404439659,
+        "85633159",
+        404227469,
+        101914035,
         85684155
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"ba64250491bc1ea10fc15b7dfc87eec9",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439659,
             "locality_id":101914035,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791909,
             "region_id":85684155,
             "venue_id":119105653
         }
     ],
     "wof:id":119105653,
-    "wof:lastmodified":1472259189,
+    "wof:lastmodified":1491936403,
     "wof:name":"Balti Express",
     "wof:parent_id":85791909,
     "wof:placetype":"venue",

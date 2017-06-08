@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.743472,53.780739,-1.743472,53.780739",
     "geom:latitude":53.780739,
     "geom:longitude":-1.743472,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791453,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"f4e06d673a3d20ad781a8099f2cb55e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791453,
             "region_id":85684463,
             "venue_id":320723625
         }
     ],
     "wof:id":320723625,
-    "wof:lastmodified":1472264896,
+    "wof:lastmodified":1491905481,
     "wof:name":"Yorkshire Business Equipment Ltd.",
     "wof:parent_id":85791453,
     "wof:placetype":"venue",

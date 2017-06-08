@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.036653,51.587708,-0.036653,51.587708",
     "geom:latitude":51.587708,
     "geom:longitude":-0.036653,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792429,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684273
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,18 @@
     "wof:geomhash":"ec79ae49bb99fd76bbf9cf5c577f9aaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792429,
-            "region_id":85684273,
+            "region_id":85684061,
             "venue_id":304073931
         }
     ],
     "wof:id":304073931,
-    "wof:lastmodified":1472256196,
+    "wof:lastmodified":1491894910,
     "wof:name":"Guardian Car Systems Ltd.",
     "wof:parent_id":85792429,
     "wof:placetype":"venue",

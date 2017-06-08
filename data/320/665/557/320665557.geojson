@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.408456,51.65641,-0.408456,51.65641",
     "geom:latitude":51.65641,
     "geom:longitude":-0.408456,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860799,
-        85633159,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
         101751603,
         85684331
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"e58c5a600d07f346b47a1282e3e387cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
             "locality_id":101751603,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":320665557
         }
     ],
     "wof:id":320665557,
-    "wof:lastmodified":1472264539,
+    "wof:lastmodified":1491931545,
     "wof:name":"Elliot Hall Medical Centre",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",

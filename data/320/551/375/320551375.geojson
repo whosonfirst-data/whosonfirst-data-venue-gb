@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.502684,51.499489,-2.502684,51.499489",
     "geom:latitude":51.499489,
     "geom:longitude":-2.502684,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787069,
-        85633159,
+        "102191581",
+        404447367,
+        "85633159",
+        404227469,
         101914025,
         85684423
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"2dd2a4e9de267d83311012a422c1650c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447367,
             "locality_id":101914025,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787069,
             "region_id":85684423,
             "venue_id":320551375
         }
     ],
     "wof:id":320551375,
-    "wof:lastmodified":1472263879,
+    "wof:lastmodified":1491885726,
     "wof:name":"The Crafty Stitcher",
     "wof:parent_id":85787069,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.281279,55.842571,-4.281279,55.842571",
     "geom:latitude":55.842571,
     "geom:longitude":-4.281279,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85789887,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"4f528eed582664d87af56c7396c9fc56",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789887,
             "region_id":85684351,
             "venue_id":119000859
         }
     ],
     "wof:id":119000859,
-    "wof:lastmodified":1472255116,
+    "wof:lastmodified":1491914340,
     "wof:name":"Scottish Baptist College",
     "wof:parent_id":85789887,
     "wof:placetype":"venue",

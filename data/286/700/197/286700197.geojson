@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.69536,53.862511,-1.69536,53.862511",
     "geom:latitude":53.862511,
     "geom:longitude":-1.69536,
@@ -31,8 +32,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85790941,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -43,18 +45,17 @@
     "wof:geomhash":"24967d92c8a8065763c36005b3ca8992",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85790941,
+            "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":286700197
         }
     ],
     "wof:id":286700197,
-    "wof:lastmodified":1472260975,
+    "wof:lastmodified":1491932568,
     "wof:name":"P Timmins",
-    "wof:parent_id":85790941,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

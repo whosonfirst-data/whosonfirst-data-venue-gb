@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.9781910181,52.5791778564,-1.9781910181,52.5791778564",
     "geom:latitude":52.579178,
     "geom:longitude":-1.978191,
@@ -32,15 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
-        85791913,
-        85684155,
         85789023,
         "102191581",
         404439659,
         "85633159",
         404227469,
-        101914035
+        101914035,
+        85684155,
+        85633159,
+        85791913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +52,6 @@
     "wof:geomhash":"fc3f01d0826845d54a87836b48520652",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
-            "neighbourhood_id":85791913,
-            "region_id":85684155,
-            "venue_id":907281593
-        },
-        {
             "continent_id":"102191581",
             "country_id":"85633159",
             "localadmin_id":404439659,
@@ -65,12 +60,18 @@
             "neighbourhood_id":85789023,
             "region_id":85684155,
             "venue_id":907281593
+        },
+        {
+            "country_id":85633159,
+            "neighbourhood_id":85791913,
+            "region_id":85684155,
+            "venue_id":907281593
         }
     ],
     "wof:id":907281593,
-    "wof:lastmodified":1472266727,
+    "wof:lastmodified":1491912084,
     "wof:name":"Central Equestrian (Wholesale) Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.35162,51.49062,-0.35162,51.49062",
     "geom:latitude":51.49062,
     "geom:longitude":-0.35162,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860735,
-        85684141
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:brand_id":420575171,
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"2d50be7fefb42d57212e07c6c6f3e047",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860735,
-            "region_id":85684141,
+            "region_id":85684061,
             "venue_id":102565291
         }
     ],
     "wof:id":102565291,
-    "wof:lastmodified":1472254963,
+    "wof:lastmodified":1491934150,
     "wof:name":"The National Trust",
     "wof:parent_id":85860735,
     "wof:placetype":"venue",

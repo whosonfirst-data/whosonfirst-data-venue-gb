@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.548,53.7985,-1.548,53.7985",
     "geom:latitude":53.7985,
     "geom:longitude":-1.548,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792901,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"50696c34e3e090f39731bc36cc1584fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792901,
             "region_id":85684321,
             "venue_id":253494491
         }
     ],
     "wof:id":253494491,
-    "wof:lastmodified":1472262426,
+    "wof:lastmodified":1491910355,
     "wof:name":"Appstation Ltd",
     "wof:parent_id":85792901,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.601004,54.98175,-1.601004,54.98175",
     "geom:latitude":54.98175,
     "geom:longitude":-1.601004,
@@ -29,9 +30,12 @@
     "sg:province":"Tyne and Wear",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750617,
-        85633159,
         85790301,
+        "102191581",
+        404440729,
+        "85633159",
+        404227469,
+        101750617,
         85683691
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"4659bdbc8468a5c8e301c3cb8088591f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404440729,
             "locality_id":101750617,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790301,
             "region_id":85683691,
             "venue_id":119399771
         }
     ],
     "wof:id":119399771,
-    "wof:lastmodified":1472266538,
+    "wof:lastmodified":1491938250,
     "wof:name":"St.Martins Property Corporation Ltd.",
     "wof:parent_id":85790301,
     "wof:placetype":"venue",

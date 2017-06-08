@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.3025898933,55.84815979,-4.3025898933,55.84815979",
     "geom:latitude":55.84816,
     "geom:longitude":-4.30259,
@@ -33,15 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633159,
+        85861553,
+        85684351,
         85792485,
         "102191581",
         404430153,
         "85633159",
         404227471,
-        101750621,
-        85684351,
-        85633159,
-        85861553
+        101750621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,6 +53,12 @@
     "wof:geomhash":"c98b2d572de9ff6a4e07cb95bc27a6f7",
     "wof:hierarchy":[
         {
+            "country_id":85633159,
+            "neighbourhood_id":85861553,
+            "region_id":85684351,
+            "venue_id":907302677
+        },
+        {
             "continent_id":"102191581",
             "country_id":"85633159",
             "localadmin_id":404430153,
@@ -60,18 +67,12 @@
             "neighbourhood_id":85792485,
             "region_id":85684351,
             "venue_id":907302677
-        },
-        {
-            "country_id":85633159,
-            "neighbourhood_id":85861553,
-            "region_id":85684351,
-            "venue_id":907302677
         }
     ],
     "wof:id":907302677,
-    "wof:lastmodified":1472267818,
+    "wof:lastmodified":1491934569,
     "wof:name":"Carpetbaggers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.398909,51.659828,-0.398909,51.659828",
     "geom:latitude":51.659828,
     "geom:longitude":-0.398909,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860799,
-        85633159,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
         101751603,
         85684331
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"32186869018b3aadb1402d1581735053",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
             "locality_id":101751603,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":253710023
         }
     ],
     "wof:id":253710023,
-    "wof:lastmodified":1472264483,
+    "wof:lastmodified":1491931653,
     "wof:name":"St John C Of E Church",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",

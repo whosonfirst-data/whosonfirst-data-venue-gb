@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.331349,55.897629,-4.331349,55.897629",
     "geom:latitude":55.897629,
     "geom:longitude":-4.331349,
@@ -41,7 +42,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785315,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -53,16 +57,18 @@
     "wof:geomhash":"c8377835861b3a035fc1ff1a0f8f1c29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85785315,
             "region_id":85684351,
             "venue_id":253042255
         }
     ],
     "wof:id":253042255,
-    "wof:lastmodified":1472255478,
+    "wof:lastmodified":1491934525,
     "wof:name":"Ashtead Plant Hire Co Ltd",
     "wof:parent_id":85785315,
     "wof:placetype":"venue",

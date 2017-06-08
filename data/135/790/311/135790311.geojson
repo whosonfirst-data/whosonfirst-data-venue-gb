@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.176904,55.972027,-3.176904,55.972027",
     "geom:latitude":55.972027,
     "geom:longitude":-3.176904,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85861481,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"88ead214877e2f776f1dd1b669de0444",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":135790311
         }
     ],
     "wof:id":135790311,
-    "wof:lastmodified":1472267077,
+    "wof:lastmodified":1491933652,
     "wof:name":"Farnbeck Swanfield Ltd.",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

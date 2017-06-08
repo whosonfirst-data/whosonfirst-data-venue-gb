@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.305101,55.850735,-4.305101,55.850735",
     "geom:latitude":55.850735,
     "geom:longitude":-4.305101,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85792485,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"6ce4f88df0c07d2f3b572c9f76ed65e9",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792485,
             "region_id":85684351,
             "venue_id":135708591
         }
     ],
     "wof:id":135708591,
-    "wof:lastmodified":1472266684,
+    "wof:lastmodified":1491934575,
     "wof:name":"Wilmington, S M",
     "wof:parent_id":85792485,
     "wof:placetype":"venue",

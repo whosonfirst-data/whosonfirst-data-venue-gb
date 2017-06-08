@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.855105,52.420616,-1.855105,52.420616",
     "geom:latitude":52.420616,
     "geom:longitude":-1.855105,
@@ -34,9 +35,12 @@
     "sg:website":"http://www.andyowen.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85791873,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"14ca984a50e632e5a03a3cb8c68400c3",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791873,
             "region_id":85684283,
             "venue_id":118722725
         }
     ],
     "wof:id":118722725,
-    "wof:lastmodified":1472263372,
+    "wof:lastmodified":1491932991,
     "wof:name":"Andy Owen & Associates Ltd",
     "wof:parent_id":85791873,
     "wof:placetype":"venue",

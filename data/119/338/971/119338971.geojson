@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.283669,55.885189,-4.283669,55.885189",
     "geom:latitude":55.885189,
     "geom:longitude":-4.283669,
@@ -41,9 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85789015,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -54,15 +58,18 @@
     "wof:geomhash":"6a42bf6f14999d46cf14a999f101bc40",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789015,
             "region_id":85684351,
             "venue_id":119338971
         }
     ],
     "wof:id":119338971,
-    "wof:lastmodified":1472266081,
+    "wof:lastmodified":1491934477,
     "wof:name":"PRIORITY COURIER SERVICES LTD",
     "wof:parent_id":85789015,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.815168,52.441986,-1.815168,52.441986",
     "geom:latitude":52.441986,
     "geom:longitude":-1.815168,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785211,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"d39b7c5c6ab504291b790bb55175e14a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785211,
             "region_id":85684283,
             "venue_id":253123365
         }
     ],
     "wof:id":253123365,
-    "wof:lastmodified":1472256477,
+    "wof:lastmodified":1491896512,
     "wof:name":"Miracles",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",

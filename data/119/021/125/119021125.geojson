@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.19681,55.947041,-3.19681,55.947041",
     "geom:latitude":55.947041,
     "geom:longitude":-3.19681,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85861505,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
-        85633159,
-        85792713,
         85684587,
-        85861505
+        85792713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +51,30 @@
     "wof:geomhash":"c6c35f76ffb699cd9eb43c1c1cb2d242",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
-            "neighbourhood_id":85792713,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85861505,
             "region_id":85684587,
             "venue_id":119021125
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
-            "neighbourhood_id":85861505,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85792713,
             "region_id":85684587,
             "venue_id":119021125
         }
     ],
     "wof:id":119021125,
-    "wof:lastmodified":1472255203,
+    "wof:lastmodified":1491885580,
     "wof:name":"Computer Helpdesk",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

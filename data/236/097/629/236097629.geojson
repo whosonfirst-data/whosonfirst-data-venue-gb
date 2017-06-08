@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.21439,51.555889,-0.21439,51.555889",
     "geom:latitude":51.555889,
     "geom:longitude":-0.21439,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85869863,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684003
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"5d876e55a9be68da080f1437b5155658",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869863,
-            "region_id":85684003,
+            "region_id":85684061,
             "venue_id":236097629
         }
     ],
     "wof:id":236097629,
-    "wof:lastmodified":1472255903,
+    "wof:lastmodified":1491908500,
     "wof:name":"Georgina of London",
     "wof:parent_id":85869863,
     "wof:placetype":"venue",

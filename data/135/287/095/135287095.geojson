@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.266874,51.467808,-3.266874,51.467808",
     "geom:latitude":51.467808,
     "geom:longitude":-3.266874,
@@ -40,9 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750397,
-        85633159,
         85861055,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
+        101750397,
         85683787
     ],
     "wof:breaches":[],
@@ -53,15 +57,18 @@
     "wof:geomhash":"bd346e4294a8588a0e248125efe745fc",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861055,
             "region_id":85683787,
             "venue_id":135287095
         }
     ],
     "wof:id":135287095,
-    "wof:lastmodified":1472255413,
+    "wof:lastmodified":1491937752,
     "wof:name":"Sigma 3 Kitchens",
     "wof:parent_id":85861055,
     "wof:placetype":"venue",

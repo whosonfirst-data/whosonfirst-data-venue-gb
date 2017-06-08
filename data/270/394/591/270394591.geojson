@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.30584,55.903622,-4.30584,55.903622",
     "geom:latitude":55.903622,
     "geom:longitude":-4.30584,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789015,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"09d924471bcc1c48019de35cba24f9dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789015,
             "region_id":85684351,
             "venue_id":270394591
         }
     ],
     "wof:id":270394591,
-    "wof:lastmodified":1472260220,
+    "wof:lastmodified":1491934476,
     "wof:name":"Acre Tenant Management Co-Operative",
     "wof:parent_id":85789015,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.15358,55.954708,-3.15358,55.954708",
     "geom:latitude":55.954708,
     "geom:longitude":-3.15358,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861527,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"ab3c04a30a4844695b14608bba61d9eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861527,
             "region_id":85684587,
             "venue_id":253068193
         }
     ],
     "wof:id":253068193,
-    "wof:lastmodified":1472255656,
+    "wof:lastmodified":1491910844,
     "wof:name":"Capital Tiling",
     "wof:parent_id":85861527,
     "wof:placetype":"venue",

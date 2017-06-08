@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.881149,52.469769,-1.881149,52.469769",
     "geom:latitude":52.469769,
     "geom:longitude":-1.881149,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786199,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"4f2dbbe1a2fa1af0c6b4f89d4e814b5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786199,
             "region_id":85684283,
             "venue_id":236261831
         }
     ],
     "wof:id":236261831,
-    "wof:lastmodified":1472257749,
+    "wof:lastmodified":1491913090,
     "wof:name":"Construction Profiles Ltd",
     "wof:parent_id":85786199,
     "wof:placetype":"venue",

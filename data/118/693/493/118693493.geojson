@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.21982,51.483829,-3.21982,51.483829",
     "geom:latitude":51.483829,
     "geom:longitude":-3.21982,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750397,
-        85633159,
         85861055,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
+        101750397,
         85683787
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"fbec0e7adc1f48404dbc7215c7fe6dcb",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861055,
             "region_id":85683787,
             "venue_id":118693493
         }
     ],
     "wof:id":118693493,
-    "wof:lastmodified":1472262598,
+    "wof:lastmodified":1491937726,
     "wof:name":"National Association of Victim Support Scheme",
     "wof:parent_id":85861055,
     "wof:placetype":"venue",

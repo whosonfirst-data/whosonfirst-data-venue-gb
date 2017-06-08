@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.45185,53.397526,-1.45185,53.397526",
     "geom:latitude":53.397526,
     "geom:longitude":-1.45185,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785403,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"9829360ba116cf34cd5cab4d0ba9cf63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":186627541
         }
     ],
     "wof:id":186627541,
-    "wof:lastmodified":1472261135,
+    "wof:lastmodified":1491907099,
     "wof:name":"Catering Kitchen Sheffield",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

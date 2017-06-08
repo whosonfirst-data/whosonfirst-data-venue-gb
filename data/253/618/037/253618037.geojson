@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.311174,55.870731,-4.311174,55.870731",
     "geom:latitude":55.870731,
     "geom:longitude":-4.311174,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789735,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"e4028c8c9eddb96fe09f9d1e4946a813",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789735,
             "region_id":85684351,
             "venue_id":253618037
         }
     ],
     "wof:id":253618037,
-    "wof:lastmodified":1472264022,
+    "wof:lastmodified":1491912121,
     "wof:name":"Bready & Co",
     "wof:parent_id":85789735,
     "wof:placetype":"venue",

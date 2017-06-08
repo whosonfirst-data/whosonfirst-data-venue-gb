@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.152654,52.589893,-2.152654,52.589893",
     "geom:latitude":52.589893,
     "geom:longitude":-2.152654,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789371,
-        85633159,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
         101914031,
         85683801
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"ae0f439df2369ad64aea26e46fb52173",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789371,
             "region_id":85683801,
             "venue_id":286651999
         }
     ],
     "wof:id":286651999,
-    "wof:lastmodified":1472259715,
+    "wof:lastmodified":1491888376,
     "wof:name":"Compton Park Activities Centre",
     "wof:parent_id":85789371,
     "wof:placetype":"venue",

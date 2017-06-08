@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.04316,51.386848,-0.04316,51.386848",
     "geom:latitude":51.386848,
     "geom:longitude":-0.04316,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860037,
-        85684235
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"e6dfbb843897070ad6f62e8858c90936",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860037,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":118937287
         }
     ],
     "wof:id":118937287,
-    "wof:lastmodified":1472265878,
+    "wof:lastmodified":1491894486,
     "wof:name":"Abbey Lodge Services",
     "wof:parent_id":85860037,
     "wof:placetype":"venue",

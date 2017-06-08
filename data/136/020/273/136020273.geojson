@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.180675,51.54845,-0.180675,51.54845",
     "geom:latitude":51.54845,
     "geom:longitude":-0.180675,
@@ -29,11 +30,14 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85792211,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85860461,
-        85684597,
-        85792211
+        85684061,
+        85860461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +47,30 @@
     "wof:geomhash":"544cd80e7a12d745fa34ed201db57f24",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85860461,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792211,
+            "region_id":85684061,
             "venue_id":136020273
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85792211,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860461,
+            "region_id":85684061,
             "venue_id":136020273
         }
     ],
     "wof:id":136020273,
-    "wof:lastmodified":1472255303,
+    "wof:lastmodified":1491896912,
     "wof:name":"Czech & Slovak Tourist Centre Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

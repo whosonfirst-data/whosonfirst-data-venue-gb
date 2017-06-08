@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.626649,55.006023,-1.626649,55.006023",
     "geom:latitude":55.006023,
     "geom:longitude":-1.626649,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786825,
-        85633159,
+        "102191581",
+        404440729,
+        "85633159",
+        404227469,
         101750617,
         85683691
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"bed8d018ee5799afd58bda474353b071",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404440729,
             "locality_id":101750617,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786825,
             "region_id":85683691,
             "venue_id":236880691
         }
     ],
     "wof:id":236880691,
-    "wof:lastmodified":1472264045,
+    "wof:lastmodified":1491905849,
     "wof:name":"Phillips of Gosforth",
     "wof:parent_id":85786825,
     "wof:placetype":"venue",

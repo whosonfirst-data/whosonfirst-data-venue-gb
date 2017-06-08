@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.506209,52.43779,-1.506209,52.43779",
     "geom:latitude":52.43779,
     "geom:longitude":-1.506209,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750449,
-        85633159,
         85864245,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
+        101750449,
         85684565
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"fe2cc9e17a5d83563e0f9aa842e7cf7c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85864245,
             "region_id":85684565,
             "venue_id":135367563
         }
     ],
     "wof:id":135367563,
-    "wof:lastmodified":1472259316,
+    "wof:lastmodified":1491902408,
     "wof:name":"R S Motor Engineers",
     "wof:parent_id":85864245,
     "wof:placetype":"venue",

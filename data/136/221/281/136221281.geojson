@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.296416,51.398354,-0.296416,51.398354",
     "geom:latitude":51.398354,
     "geom:longitude":-0.296416,
@@ -38,12 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
-        85860329,
-        85684387,
         85792321,
-        85684151
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061,
+        85860329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,24 +56,30 @@
     "wof:geomhash":"a4562b6c8a479ab9defd376adecfcb31",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85860329,
-            "region_id":85684387,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792321,
+            "region_id":85684061,
             "venue_id":136221281
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85792321,
-            "region_id":85684151,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860329,
+            "region_id":85684061,
             "venue_id":136221281
         }
     ],
     "wof:id":136221281,
-    "wof:lastmodified":1472263903,
+    "wof:lastmodified":1491917442,
     "wof:name":"Dominie Seymour",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

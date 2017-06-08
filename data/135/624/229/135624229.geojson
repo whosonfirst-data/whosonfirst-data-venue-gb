@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.309882,51.39381,-0.309882,51.39381",
     "geom:latitude":51.39381,
     "geom:longitude":-0.309882,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792321,
-        85684151
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:brand_id":420575845,
     "wof:breaches":[],
@@ -48,15 +52,18 @@
     "wof:geomhash":"ef81f871f872bc015bc8645fb06529f2",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792321,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":135624229
         }
     ],
     "wof:id":135624229,
-    "wof:lastmodified":1472265095,
+    "wof:lastmodified":1491917444,
     "wof:name":"Baha'i Faith",
     "wof:parent_id":85792321,
     "wof:placetype":"venue",

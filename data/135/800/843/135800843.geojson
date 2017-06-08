@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.081442,51.511822,-0.081442,51.511822",
     "geom:latitude":51.511822,
     "geom:longitude":-0.081442,
@@ -32,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
-        85861625,
-        85684081,
         85861829,
-        85684467
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061,
+        85861625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +50,30 @@
     "wof:geomhash":"ae65265956bd79b0fcb5a0f694113949",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85861625,
-            "region_id":85684081,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861829,
+            "region_id":85684061,
             "venue_id":135800843
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85861829,
-            "region_id":85684467,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861625,
+            "region_id":85684061,
             "venue_id":135800843
         }
     ],
     "wof:id":135800843,
-    "wof:lastmodified":1472267104,
+    "wof:lastmodified":1491922401,
     "wof:name":"Mappin & Webb",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.414264,51.668999,-0.414264,51.668999",
     "geom:latitude":51.668999,
     "geom:longitude":-0.414264,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860799,
-        85633159,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
         101751603,
         85684331
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"d6e1e4d94f89d21c3801fa4e37c469e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
             "locality_id":101751603,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":303687771
         }
     ],
     "wof:id":303687771,
-    "wof:lastmodified":1472264281,
+    "wof:lastmodified":1491931578,
     "wof:name":"Essex Arms",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",

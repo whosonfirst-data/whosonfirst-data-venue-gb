@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.209994,55.866974,-4.209994,55.866974",
     "geom:latitude":55.866974,
     "geom:longitude":-4.209994,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785321,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"b8b34751a5489b8ad53a5bb7500e82a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85785321,
             "region_id":85684351,
             "venue_id":236699839
         }
     ],
     "wof:id":236699839,
-    "wof:lastmodified":1472262453,
+    "wof:lastmodified":1491920205,
     "wof:name":"Glasgow City Council",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",

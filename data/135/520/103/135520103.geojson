@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.612715,54.973919,-1.612715,54.973919",
     "geom:latitude":54.973919,
     "geom:longitude":-1.612715,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750617,
-        85633159,
         85861867,
+        "102191581",
+        404440729,
+        "85633159",
+        404227469,
+        101750617,
         85683691
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"11abf91b85be4bfbb45f8e91dc24e236",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404440729,
             "locality_id":101750617,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861867,
             "region_id":85683691,
             "venue_id":135520103
         }
     ],
     "wof:id":135520103,
-    "wof:lastmodified":1472264681,
+    "wof:lastmodified":1491887699,
     "wof:name":"Europa",
     "wof:parent_id":85861867,
     "wof:placetype":"venue",

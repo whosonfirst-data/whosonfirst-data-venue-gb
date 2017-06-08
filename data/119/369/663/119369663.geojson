@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.148605,55.955051,-3.148605,55.955051",
     "geom:latitude":55.955051,
     "geom:longitude":-3.148605,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85861527,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"384176856487f5b1a2e0e27433992d02",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861527,
             "region_id":85684587,
             "venue_id":119369663
         }
     ],
     "wof:id":119369663,
-    "wof:lastmodified":1472266424,
+    "wof:lastmodified":1491910842,
     "wof:name":"CAD Masters Ltd",
     "wof:parent_id":85861527,
     "wof:placetype":"venue",

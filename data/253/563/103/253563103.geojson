@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.518556,54.973911,-1.518556,54.973911",
     "geom:latitude":54.973911,
     "geom:longitude":-1.518556,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785695,
-        85633159,
+        "102191581",
+        404435809,
+        "85633159",
+        404227469,
         101750613,
         85684395
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"9a6cf10ac9bbfe0dea1368325bc1d3d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435809,
             "locality_id":101750613,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785695,
             "region_id":85684395,
             "venue_id":253563103
         }
     ],
     "wof:id":253563103,
-    "wof:lastmodified":1472263285,
+    "wof:lastmodified":1491938424,
     "wof:name":"Terence Carney",
     "wof:parent_id":85785695,
     "wof:placetype":"venue",

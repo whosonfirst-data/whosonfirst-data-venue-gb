@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.856483,52.455902,-1.856483,52.455902",
     "geom:latitude":52.455902,
     "geom:longitude":-1.856483,
@@ -29,9 +30,12 @@
     "sg:province":"West Midlands",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787787,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"28735cf13ab49afc0365c80fc28fd060",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787787,
             "region_id":85684283,
             "venue_id":119286793
         }
     ],
     "wof:id":119286793,
-    "wof:lastmodified":1472265635,
+    "wof:lastmodified":1491919488,
     "wof:name":"Style Line Furniture",
     "wof:parent_id":85787787,
     "wof:placetype":"venue",

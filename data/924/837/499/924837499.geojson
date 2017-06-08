@@ -7,13 +7,16 @@
     "addr:postcode":"ec2a3pq",
     "addr:street":"Holywell Lane",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-07",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"9.9440239,47.3711215,9.9440239,47.3711215",
     "geom:latitude":47.371122,
     "geom:longitude":9.944024,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"55 Holywell Lane",
     "sg:city":"London",
     "sg:classifiers":[
@@ -33,17 +36,33 @@
     ],
     "sg:website":"http://www.rjdj.me",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85681649,
+        102191581,
+        1108837901,
+        85632785,
+        102049751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6a5vfVO0WCKsl5737LIHMz_47.371122_9.944024@1308163239"
     },
     "wof:country":"GB",
     "wof:created":1471981918,
-    "wof:geomhash":"7f5be838a1cd8888a5f149a0ff6fbc86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8882af15cb02705a860cf893f7646b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632785,
+            "county_id":102049751,
+            "localadmin_id":1108837901,
+            "locality_id":-1,
+            "region_id":85681649,
+            "venue_id":924837499
+        }
+    ],
     "wof:id":924837499,
-    "wof:lastmodified":1472271983,
+    "wof:lastmodified":1496900560,
     "wof:name":"RjDj",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.730492,53.834145,-1.730492,53.834145",
     "geom:latitude":53.834145,
     "geom:longitude":-1.730492,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750581,
-        85633159,
         85788415,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
         85684463
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"c4f160e2803716ccf0cda0a74f7f350c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788415,
             "region_id":85684463,
             "venue_id":119394841
         }
     ],
     "wof:id":119394841,
-    "wof:lastmodified":1472266555,
+    "wof:lastmodified":1491903364,
     "wof:name":"Andrea Mann",
     "wof:parent_id":85788415,
     "wof:placetype":"venue",

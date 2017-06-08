@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.822809,52.493092,-1.822809,52.493092",
     "geom:latitude":52.493092,
     "geom:longitude":-1.822809,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791337,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"710a29fa802706726f04e41c2e746eeb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791337,
             "region_id":85684283,
             "venue_id":287114051
         }
     ],
     "wof:id":287114051,
-    "wof:lastmodified":1472256438,
+    "wof:lastmodified":1491888649,
     "wof:name":"P M Hart Insurance",
     "wof:parent_id":85791337,
     "wof:placetype":"venue",

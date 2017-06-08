@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.214464,55.859985,-4.214464,55.859985",
     "geom:latitude":55.859985,
     "geom:longitude":-4.214464,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85785321,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"85b6d6e45cdf3568ab03c4714361435f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85785321,
             "region_id":85684351,
             "venue_id":136232609
         }
     ],
     "wof:id":136232609,
-    "wof:lastmodified":1472264473,
+    "wof:lastmodified":1491920197,
     "wof:name":"Cummings Hairdressers",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",

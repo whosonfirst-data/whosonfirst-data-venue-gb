@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.826265,52.490036,-1.826265,52.490036",
     "geom:latitude":52.490036,
     "geom:longitude":-1.826265,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85791337,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"ec3defd71e7791022574cce08d611162",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791337,
             "region_id":85684283,
             "venue_id":135349361
         }
     ],
     "wof:id":135349361,
-    "wof:lastmodified":1472258667,
+    "wof:lastmodified":1491888650,
     "wof:name":"RADBOURNE FINANCE CO LTD",
     "wof:parent_id":85791337,
     "wof:placetype":"venue",

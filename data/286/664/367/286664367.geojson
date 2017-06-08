@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.82268,52.564362,-1.82268,52.564362",
     "geom:latitude":52.564362,
     "geom:longitude":-1.82268,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788959,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"6083a2d6745457865603c12771b023c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788959,
             "region_id":85684283,
             "venue_id":286664367
         }
     ],
     "wof:id":286664367,
-    "wof:lastmodified":1472260208,
+    "wof:lastmodified":1491924635,
     "wof:name":"Potter McGregor & Co.",
     "wof:parent_id":85788959,
     "wof:placetype":"venue",

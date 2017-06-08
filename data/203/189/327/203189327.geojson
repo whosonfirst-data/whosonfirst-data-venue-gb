@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.4306,53.394821,-1.4306,53.394821",
     "geom:latitude":53.394821,
     "geom:longitude":-1.4306,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785403,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"f16650f4469e425ab46e3b8b0c202275",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":203189327
         }
     ],
     "wof:id":203189327,
-    "wof:lastmodified":1472256625,
+    "wof:lastmodified":1491907086,
     "wof:name":"C D S Service",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

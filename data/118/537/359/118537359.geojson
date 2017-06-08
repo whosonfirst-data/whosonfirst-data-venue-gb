@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.126704,52.573685,-2.126704,52.573685",
     "geom:latitude":52.573685,
     "geom:longitude":-2.126704,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914031,
-        85633159,
         85785837,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
+        101914031,
         85683801
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"38d3a5eb35d27ff73a4a7c65763fb540",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785837,
             "region_id":85683801,
             "venue_id":118537359
         }
     ],
     "wof:id":118537359,
-    "wof:lastmodified":1472256114,
+    "wof:lastmodified":1491908565,
     "wof:name":"Craneprint Ltd.",
     "wof:parent_id":85785837,
     "wof:placetype":"venue",

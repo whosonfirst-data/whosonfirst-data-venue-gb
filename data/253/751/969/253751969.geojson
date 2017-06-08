@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.158691,51.359528,-0.158691,51.359528",
     "geom:latitude":51.359528,
     "geom:longitude":-0.158691,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786301,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683649
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"78137af651b8e1e78d783bb846036360",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786301,
-            "region_id":85683649,
+            "region_id":85684061,
             "venue_id":253751969
         }
     ],
     "wof:id":253751969,
-    "wof:lastmodified":1472264605,
+    "wof:lastmodified":1491895246,
     "wof:name":"A J Ross",
     "wof:parent_id":85786301,
     "wof:placetype":"venue",

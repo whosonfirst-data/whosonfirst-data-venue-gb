@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.731645,53.840237,-1.731645,53.840237",
     "geom:latitude":53.840237,
     "geom:longitude":-1.731645,
@@ -33,12 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85788415,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
+        85684463,
         85633159,
         85790941,
-        85684321,
-        101750581,
-        85788415,
-        85684463
+        85684321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,23 +53,26 @@
     "wof:geomhash":"015e12e97c38a5e01453bde318c58913",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
-            "neighbourhood_id":85790941,
-            "region_id":85684321,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
+            "locality_id":101750581,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788415,
+            "region_id":85684463,
             "venue_id":119287663
         },
         {
             "country_id":85633159,
-            "locality_id":101750581,
-            "neighbourhood_id":85788415,
-            "region_id":85684463,
+            "neighbourhood_id":85790941,
+            "region_id":85684321,
             "venue_id":119287663
         }
     ],
     "wof:id":119287663,
-    "wof:lastmodified":1472265600,
+    "wof:lastmodified":1491903362,
     "wof:name":"Elizabeth Hinchliffe",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

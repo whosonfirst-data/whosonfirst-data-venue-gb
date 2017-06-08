@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.20767,55.975124,-3.20767,55.975124",
     "geom:latitude":55.975124,
     "geom:longitude":-3.20767,
@@ -34,9 +35,12 @@
     "sg:website":"http://www.brayshay.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85791157,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"d86145d8338ca0adeec9bb65fdde7f85",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85791157,
             "region_id":85684587,
             "venue_id":118591531
         }
     ],
     "wof:id":118591531,
-    "wof:lastmodified":1472258074,
+    "wof:lastmodified":1491932051,
     "wof:name":"Brayshay & Paterson Ltd",
     "wof:parent_id":85791157,
     "wof:placetype":"venue",

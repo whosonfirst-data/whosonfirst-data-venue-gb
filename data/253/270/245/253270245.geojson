@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.121115,51.62159,-0.121115,51.62159",
     "geom:latitude":51.62159,
     "geom:longitude":-0.121115,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789715,
-        85633159,
+        85789349,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684381,
-        85789349
+        85684061,
+        85789715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,26 +50,30 @@
     "wof:geomhash":"5c51e3c5db10eb247d4c159de77dab42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85789715,
-            "region_id":85684381,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789349,
+            "region_id":85684061,
             "venue_id":253270245
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85789349,
-            "region_id":85684381,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789715,
+            "region_id":85684061,
             "venue_id":253270245
         }
     ],
     "wof:id":253270245,
-    "wof:lastmodified":1472258421,
+    "wof:lastmodified":1491934902,
     "wof:name":"D F Finance",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

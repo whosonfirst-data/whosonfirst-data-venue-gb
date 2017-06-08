@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.937844,52.558727,-1.937844,52.558727",
     "geom:latitude":52.558727,
     "geom:longitude":-1.937844,
@@ -41,7 +42,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789023,
-        85633159,
+        "102191581",
+        404439659,
+        "85633159",
+        404227469,
         101914035,
         85684155
     ],
@@ -53,16 +57,18 @@
     "wof:geomhash":"b0c5351c63723df8d54e8a6e97f97dca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439659,
             "locality_id":101914035,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789023,
             "region_id":85684155,
             "venue_id":320679869
         }
     ],
     "wof:id":320679869,
-    "wof:lastmodified":1472264679,
+    "wof:lastmodified":1491912087,
     "wof:name":"HOLY NAME OF JESUS CHURCH",
     "wof:parent_id":85789023,
     "wof:placetype":"venue",

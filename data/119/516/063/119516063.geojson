@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.100515,51.567989,0.100515,51.567989",
     "geom:latitude":51.567989,
     "geom:longitude":0.100515,
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790249,
-        85684441
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +48,18 @@
     "wof:geomhash":"b20aab2c5c13a65191bd807440beb68f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790249,
-            "region_id":85684441,
+            "region_id":85684061,
             "venue_id":119516063
         }
     ],
     "wof:id":119516063,
-    "wof:lastmodified":1472267212,
+    "wof:lastmodified":1491892865,
     "wof:name":"Cs Accountancy Services Ltd",
     "wof:parent_id":85790249,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.503671,52.453617,-1.503671,52.453617",
     "geom:latitude":52.453617,
     "geom:longitude":-1.503671,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750449,
-        85633159,
         85785359,
-        85683907
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
+        101750449,
+        85684565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"a51918875dbd4e3bc4dd0227fd2ec8f4",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785359,
-            "region_id":85683907,
+            "region_id":85684565,
             "venue_id":102590121
         }
     ],
     "wof:id":102590121,
-    "wof:lastmodified":1472255003,
+    "wof:lastmodified":1491893886,
     "wof:name":"Alexander Guest House",
     "wof:parent_id":85785359,
     "wof:placetype":"venue",

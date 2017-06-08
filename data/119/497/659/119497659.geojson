@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.142984,51.515923,-0.142984,51.515923",
     "geom:latitude":51.515923,
     "geom:longitude":-0.142984,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861823,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
         85684061
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"31f651bc352db10e2d7e0e5c632d0909",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861823,
             "region_id":85684061,
             "venue_id":119497659
         }
     ],
     "wof:id":119497659,
-    "wof:lastmodified":1472267057,
+    "wof:lastmodified":1491920976,
     "wof:name":"Limegrid Plc",
     "wof:parent_id":85861823,
     "wof:placetype":"venue",

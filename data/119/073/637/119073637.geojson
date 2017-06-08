@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.550345,53.797531,-1.550345,53.797531",
     "geom:latitude":53.797531,
     "geom:longitude":-1.550345,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85792901,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321
     ],
     "wof:brand_id":420574659,
@@ -47,15 +51,18 @@
     "wof:geomhash":"3018155f48bf2f11c0df4249cf0dc588",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792901,
             "region_id":85684321,
             "venue_id":119073637
         }
     ],
     "wof:id":119073637,
-    "wof:lastmodified":1472257880,
+    "wof:lastmodified":1491910362,
     "wof:name":"Mail Boxes Etc",
     "wof:parent_id":85792901,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.817924,52.45282,-1.817924,52.45282",
     "geom:latitude":52.45282,
     "geom:longitude":-1.817924,
@@ -39,7 +40,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785211,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -51,16 +55,18 @@
     "wof:geomhash":"2c8817b5d3c2575c4dfb0f99bd49195c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785211,
             "region_id":85684283,
             "venue_id":287031547
         }
     ],
     "wof:id":287031547,
-    "wof:lastmodified":1472255562,
+    "wof:lastmodified":1491896510,
     "wof:name":"Kadi's Unisex Hair Salon",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",

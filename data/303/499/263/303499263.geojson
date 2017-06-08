@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.82933,52.4478,-1.82933,52.4478",
     "geom:latitude":52.4478,
     "geom:longitude":-1.82933,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785211,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"18b345e330fb986a15c4cef4d53a752c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785211,
             "region_id":85684283,
             "venue_id":303499263
         }
     ],
     "wof:id":303499263,
-    "wof:lastmodified":1472261652,
+    "wof:lastmodified":1491896460,
     "wof:name":"Pritchard, T R",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",

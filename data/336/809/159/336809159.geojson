@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.632851,53.805908,-1.632851,53.805908",
     "geom:latitude":53.805908,
     "geom:longitude":-1.632851,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785937,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"e53b1bd92610feb8ac3a4f323e0071c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785937,
             "region_id":85684321,
             "venue_id":336809159
         }
     ],
     "wof:id":336809159,
-    "wof:lastmodified":1472258144,
+    "wof:lastmodified":1491922972,
     "wof:name":"Teal Signs",
     "wof:parent_id":85785937,
     "wof:placetype":"venue",

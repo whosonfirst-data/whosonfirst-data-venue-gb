@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.251053,53.477558,-2.251053,53.477558",
     "geom:latitude":53.477558,
     "geom:longitude":-2.251053,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750525,
-        85633159,
         85861849,
+        "102191581",
+        404431331,
+        "85633159",
+        404227469,
+        101750525,
         85683651
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"3c66c2f482e09bf80cfa3addd9b999db",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431331,
             "locality_id":101750525,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861849,
             "region_id":85683651,
             "venue_id":118978835
         }
     ],
     "wof:id":118978835,
-    "wof:lastmodified":1472266066,
+    "wof:lastmodified":1491887099,
     "wof:name":"Ian Leeming",
     "wof:parent_id":85861849,
     "wof:placetype":"venue",

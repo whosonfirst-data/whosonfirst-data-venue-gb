@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.819782,52.446335,-1.819782,52.446335",
     "geom:latitude":52.446335,
     "geom:longitude":-1.819782,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785211,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"e1d9f94e7777e07f3d6c37fd22127187",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785211,
             "region_id":85684283,
             "venue_id":320832319
         }
     ],
     "wof:id":320832319,
-    "wof:lastmodified":1472265484,
+    "wof:lastmodified":1491896513,
     "wof:name":"Sacred Heart & Holy Souls Church",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.189084,51.481873,-3.189084,51.481873",
     "geom:latitude":51.481873,
     "geom:longitude":-3.189084,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750397,
-        85633159,
         85861435,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
+        101750397,
         85683787
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"58c2c8144b53eaca96c81f84a9730918",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861435,
             "region_id":85683787,
             "venue_id":135335657
         }
     ],
     "wof:id":135335657,
-    "wof:lastmodified":1472258077,
+    "wof:lastmodified":1491886784,
     "wof:name":"Gordon Williams",
     "wof:parent_id":85861435,
     "wof:placetype":"venue",

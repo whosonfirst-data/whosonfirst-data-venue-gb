@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.9992,52.582161,-1.9992,52.582161",
     "geom:latitude":52.582161,
     "geom:longitude":-1.9992,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791909,
-        85633159,
+        "102191581",
+        404439659,
+        "85633159",
+        404227469,
         101914035,
         85684155
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"e3e8f1853bfdc952b8eefb777e8a806c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439659,
             "locality_id":101914035,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791909,
             "region_id":85684155,
             "venue_id":203189885
         }
     ],
     "wof:id":203189885,
-    "wof:lastmodified":1472256646,
+    "wof:lastmodified":1491936402,
     "wof:name":"Special Clinic",
     "wof:parent_id":85791909,
     "wof:placetype":"venue",

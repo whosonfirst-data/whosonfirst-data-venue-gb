@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.032382,51.532223,-0.032382,51.532223",
     "geom:latitude":51.532223,
     "geom:longitude":-0.032382,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785887,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684467
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"d348333c1c6cd14bbefb9c7442f55d4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785887,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":219305471
         }
     ],
     "wof:id":219305471,
-    "wof:lastmodified":1472256971,
+    "wof:lastmodified":1491919658,
     "wof:name":"L Randolfi",
     "wof:parent_id":85785887,
     "wof:placetype":"venue",

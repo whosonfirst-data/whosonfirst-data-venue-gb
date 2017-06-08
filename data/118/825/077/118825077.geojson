@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.221284,55.959118,-3.221284,55.959118",
     "geom:latitude":55.959118,
     "geom:longitude":-3.221284,
@@ -29,9 +30,12 @@
     "sg:province":"City of Edinburgh",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85861477,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"1b8d000f088e74a2dc8eb22b7799bf5e",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861477,
             "region_id":85684587,
             "venue_id":118825077
         }
     ],
     "wof:id":118825077,
-    "wof:lastmodified":1472264650,
+    "wof:lastmodified":1491911202,
     "wof:name":"Comely Bank Post Office",
     "wof:parent_id":85861477,
     "wof:placetype":"venue",

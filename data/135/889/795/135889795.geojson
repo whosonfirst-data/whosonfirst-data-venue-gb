@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.305552,55.874046,-4.305552,55.874046",
     "geom:latitude":55.874046,
     "geom:longitude":-4.305552,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85789735,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"f8b7553b22802954f9a080a419c90a85",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789735,
             "region_id":85684351,
             "venue_id":135889795
         }
     ],
     "wof:id":135889795,
-    "wof:lastmodified":1472267663,
+    "wof:lastmodified":1491912111,
     "wof:name":"Pierre Guilleman",
     "wof:parent_id":85789735,
     "wof:placetype":"venue",

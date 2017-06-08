@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.02465,52.570419,-2.02465,52.570419",
     "geom:latitude":52.570419,
     "geom:longitude":-2.02465,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791909,
-        85633159,
+        "102191581",
+        404439659,
+        "85633159",
+        404227469,
         101914035,
         85684155
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"8a5a35902d93787655475c12a0728c2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439659,
             "locality_id":101914035,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791909,
             "region_id":85684155,
             "venue_id":320575121
         }
     ],
     "wof:id":320575121,
-    "wof:lastmodified":1472264106,
+    "wof:lastmodified":1491936404,
     "wof:name":"Aquafast Ltd.",
     "wof:parent_id":85791909,
     "wof:placetype":"venue",

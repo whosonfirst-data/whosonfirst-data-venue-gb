@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.294097,51.574936,-0.294097,51.574936",
     "geom:latitude":51.574936,
     "geom:longitude":-0.294097,
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789933,
-        85684003
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +54,18 @@
     "wof:geomhash":"9d63603af67924ad228d214e6e75bc1b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789933,
-            "region_id":85684003,
+            "region_id":85684061,
             "venue_id":118799567
         }
     ],
     "wof:id":118799567,
-    "wof:lastmodified":1472264633,
+    "wof:lastmodified":1491938392,
     "wof:name":"Peartree Lodge",
     "wof:parent_id":85789933,
     "wof:placetype":"venue",

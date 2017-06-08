@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.517133,52.378902,-1.517133,52.378902",
     "geom:latitude":52.378902,
     "geom:longitude":-1.517133,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750449,
-        85633159,
         85790739,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
+        101750449,
         85684565
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"4c8d9b84668b47fd863a128355f482e9",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790739,
             "region_id":85684565,
             "venue_id":119329151
         }
     ],
     "wof:id":119329151,
-    "wof:lastmodified":1472265802,
+    "wof:lastmodified":1491930138,
     "wof:name":"Unitee UK Ltd",
     "wof:parent_id":85790739,
     "wof:placetype":"venue",

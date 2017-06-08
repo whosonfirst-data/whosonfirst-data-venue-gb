@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.397391,51.655323,-0.397391,51.655323",
     "geom:latitude":51.655323,
     "geom:longitude":-0.397391,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751603,
-        85633159,
         85860799,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
+        101751603,
         85684331
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"209e57d41b347d46f580993020d55906",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
             "locality_id":101751603,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":119114771
         }
     ],
     "wof:id":119114771,
-    "wof:lastmodified":1472260459,
+    "wof:lastmodified":1491931607,
     "wof:name":"Jessop Photo Video Centre",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",

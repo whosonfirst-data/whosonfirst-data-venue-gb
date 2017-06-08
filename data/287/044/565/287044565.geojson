@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.126624,51.566235,-0.126624,51.566235",
     "geom:latitude":51.566235,
     "geom:longitude":-0.126624,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791233,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684071
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"27bfa0a883346e6f07b6b12d3a141177",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791233,
-            "region_id":85684071,
+            "region_id":85684061,
             "venue_id":287044565
         }
     ],
     "wof:id":287044565,
-    "wof:lastmodified":1472255683,
+    "wof:lastmodified":1491937382,
     "wof:name":"Silverstream Hill Ltd",
     "wof:parent_id":85791233,
     "wof:placetype":"venue",

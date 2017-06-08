@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.188209,51.515366,-0.188209,51.515366",
     "geom:latitude":51.515366,
     "geom:longitude":-0.188209,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861621,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
         85684061
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"4e701ba69c0e0074cb9a87141ee41c3a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861621,
             "region_id":85684061,
             "venue_id":118635313
         }
     ],
     "wof:id":118635313,
-    "wof:lastmodified":1472259864,
+    "wof:lastmodified":1491919368,
     "wof:name":"City Camera Exchange",
     "wof:parent_id":85861621,
     "wof:placetype":"venue",

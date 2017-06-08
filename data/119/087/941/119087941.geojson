@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.395931,54.902298,-1.395931,54.902298",
     "geom:latitude":54.902298,
     "geom:longitude":-1.395931,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85793173,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
         101750611,
-        85633159,
-        85793169,
         85684483,
-        85793173
+        85793169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +50,30 @@
     "wof:geomhash":"4a1f40f529f7bda37563b1957956f686",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
-            "neighbourhood_id":85793169,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85793173,
             "region_id":85684483,
             "venue_id":119087941
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
-            "neighbourhood_id":85793173,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85793169,
             "region_id":85684483,
             "venue_id":119087941
         }
     ],
     "wof:id":119087941,
-    "wof:lastmodified":1472258533,
+    "wof:lastmodified":1491905666,
     "wof:name":"The Royalty News",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.679054,53.866467,-1.679054,53.866467",
     "geom:latitude":53.866467,
     "geom:longitude":-1.679054,
@@ -31,8 +32,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786761,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -43,18 +45,17 @@
     "wof:geomhash":"7870963dde6e67a9c49e967a107d2b02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":303155857
         }
     ],
     "wof:id":303155857,
-    "wof:lastmodified":1472256917,
+    "wof:lastmodified":1491932521,
     "wof:name":"Gulshan Tandoori",
-    "wof:parent_id":85786761,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

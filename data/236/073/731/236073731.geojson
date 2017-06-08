@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.192244,51.51104,-0.192244,51.51104",
     "geom:latitude":51.51104,
     "geom:longitude":-0.192244,
@@ -35,11 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860773,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683667,
-        85861621,
-        85684061
+        85684061,
+        85861621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +52,30 @@
     "wof:geomhash":"53bc73febc61c89c38f196c7f5d96652",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860773,
-            "region_id":85683667,
+            "region_id":85684061,
             "venue_id":236073731
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861621,
             "region_id":85684061,
             "venue_id":236073731
         }
     ],
     "wof:id":236073731,
-    "wof:lastmodified":1472255731,
+    "wof:lastmodified":1491919338,
     "wof:name":"Brigham Young University",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

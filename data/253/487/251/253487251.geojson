@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.282994,53.493252,-2.282994,53.493252",
     "geom:latitude":53.493252,
     "geom:longitude":-2.282994,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793009,
-        85633159,
+        "102191581",
+        404450245,
+        "85633159",
+        404227469,
         101913951,
         85684495
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"94cfae047e56ecfa40922856c34035c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101913951,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793009,
             "region_id":85684495,
             "venue_id":253487251
         }
     ],
     "wof:id":253487251,
-    "wof:lastmodified":1472262313,
+    "wof:lastmodified":1491921904,
     "wof:name":"Fairbridge",
     "wof:parent_id":85793009,
     "wof:placetype":"venue",

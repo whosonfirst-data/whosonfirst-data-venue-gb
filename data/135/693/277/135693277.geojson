@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.533307,52.380112,-1.533307,52.380112",
     "geom:latitude":52.380112,
     "geom:longitude":-1.533307,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750449,
-        85633159,
         85790739,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
+        101750449,
         85684565
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"77456388ae6677f7ff53698a5200f939",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790739,
             "region_id":85684565,
             "venue_id":135693277
         }
     ],
     "wof:id":135693277,
-    "wof:lastmodified":1472266246,
+    "wof:lastmodified":1491930143,
     "wof:name":"W J Bunn Landscapes",
     "wof:parent_id":85790739,
     "wof:placetype":"venue",

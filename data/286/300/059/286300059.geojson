@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.907583,52.485023,-1.907583,52.485023",
     "geom:latitude":52.485023,
     "geom:longitude":-1.907583,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792837,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"cf04454008553dfc0c367ab0cfd3304a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792837,
             "region_id":85684283,
             "venue_id":286300059
         }
     ],
     "wof:id":286300059,
-    "wof:lastmodified":1472255324,
+    "wof:lastmodified":1491929229,
     "wof:name":"Raymondo's Ltd.",
     "wof:parent_id":85792837,
     "wof:placetype":"venue",

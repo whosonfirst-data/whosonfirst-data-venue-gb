@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.202849,51.582951,0.202849,51.582951",
     "geom:latitude":51.582951,
     "geom:longitude":0.202849,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85865131,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683841
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,18 @@
     "wof:geomhash":"67ed70cd495637ecdc86e3268ae46cee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85865131,
-            "region_id":85683841,
+            "region_id":85684061,
             "venue_id":219273105
         }
     ],
     "wof:id":219273105,
-    "wof:lastmodified":1472256585,
+    "wof:lastmodified":1491901173,
     "wof:name":"Premier Gold Care Ltd.",
     "wof:parent_id":85865131,
     "wof:placetype":"venue",

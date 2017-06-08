@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.213571,51.555202,-0.213571,51.555202",
     "geom:latitude":51.555202,
     "geom:longitude":-0.213571,
@@ -29,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85869863,
-        85684003
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"834100fd9e9866512ca69eb39e83a5db",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869863,
-            "region_id":85684003,
+            "region_id":85684061,
             "venue_id":136066593
         }
     ],
     "wof:id":136066593,
-    "wof:lastmodified":1472257537,
+    "wof:lastmodified":1491908511,
     "wof:name":"Callaway & Co.",
     "wof:parent_id":85869863,
     "wof:placetype":"venue",

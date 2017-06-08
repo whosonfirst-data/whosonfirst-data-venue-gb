@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.209174,51.521591,-0.209174,51.521591",
     "geom:latitude":51.521591,
     "geom:longitude":-0.209174,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85869857,
-        85683667
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"9301854073f477fe26c72abbfd12600d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869857,
-            "region_id":85683667,
+            "region_id":85684061,
             "venue_id":102744311
         }
     ],
     "wof:id":102744311,
-    "wof:lastmodified":1472259605,
+    "wof:lastmodified":1491896065,
     "wof:name":"E Price & Sons",
     "wof:parent_id":85869857,
     "wof:placetype":"venue",

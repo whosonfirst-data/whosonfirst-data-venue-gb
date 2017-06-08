@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.480663,53.366413,-1.480663,53.366413",
     "geom:latitude":53.366413,
     "geom:longitude":-1.480663,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85793113,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"914b9d30c0daa53ba0f44acc796335d7",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":119533625
         }
     ],
     "wof:id":119533625,
-    "wof:lastmodified":1472267442,
+    "wof:lastmodified":1491898998,
     "wof:name":"Harry'S Fish Bar",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

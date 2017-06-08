@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.209909,51.50602,-0.209909,51.50602",
     "geom:latitude":51.50602,
     "geom:longitude":-0.209909,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788517,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683667
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"5e04fb719362f8bba76fc67a55930f5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788517,
-            "region_id":85683667,
+            "region_id":85684061,
             "venue_id":252978715
         }
     ],
     "wof:id":252978715,
-    "wof:lastmodified":1472257839,
+    "wof:lastmodified":1491904227,
     "wof:name":"Western Forrestry",
     "wof:parent_id":85788517,
     "wof:placetype":"venue",

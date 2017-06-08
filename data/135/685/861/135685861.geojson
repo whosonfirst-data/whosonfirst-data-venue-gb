@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.252089,53.476227,-2.252089,53.476227",
     "geom:latitude":53.476227,
     "geom:longitude":-2.252089,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750525,
-        85633159,
         85861853,
+        "102191581",
+        404431331,
+        "85633159",
+        404227469,
+        101750525,
         85683651,
         85861849
     ],
@@ -46,24 +50,30 @@
     "wof:geomhash":"b0cd44856f692a3571ed03d159a50acd",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431331,
             "locality_id":101750525,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861853,
             "region_id":85683651,
             "venue_id":135685861
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431331,
             "locality_id":101750525,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861849,
             "region_id":85683651,
             "venue_id":135685861
         }
     ],
     "wof:id":135685861,
-    "wof:lastmodified":1472266253,
+    "wof:lastmodified":1491887095,
     "wof:name":"Tom Burke & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

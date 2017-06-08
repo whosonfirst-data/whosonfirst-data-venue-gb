@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.17692,55.972382,-3.17692,55.972382",
     "geom:latitude":55.972382,
     "geom:longitude":-3.17692,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85861481,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:brand_id":420575399,
@@ -46,15 +50,18 @@
     "wof:geomhash":"ac24c39b31d084f42265133ddb49fcf0",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":135790307
         }
     ],
     "wof:id":135790307,
-    "wof:lastmodified":1472267059,
+    "wof:lastmodified":1491933645,
     "wof:name":"Klick Photopoint",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

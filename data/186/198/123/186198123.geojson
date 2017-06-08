@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.030987,51.400063,-0.030987,51.400063",
     "geom:latitude":51.400063,
     "geom:longitude":-0.030987,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785551,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684235
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"e6b128446a4cbe0201ad2f4f89c9239c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785551,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":186198123
         }
     ],
     "wof:id":186198123,
-    "wof:lastmodified":1472256622,
+    "wof:lastmodified":1491908104,
     "wof:name":"J Afzal & Co",
     "wof:parent_id":85785551,
     "wof:placetype":"venue",

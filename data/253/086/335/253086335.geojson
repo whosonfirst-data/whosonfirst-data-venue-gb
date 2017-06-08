@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.132693,51.564907,-0.132693,51.564907",
     "geom:latitude":51.564907,
     "geom:longitude":-0.132693,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791233,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684071
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"c8842638db17e63e824e2ef335b2d13d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791233,
-            "region_id":85684071,
+            "region_id":85684061,
             "venue_id":253086335
         }
     ],
     "wof:id":253086335,
-    "wof:lastmodified":1472255888,
+    "wof:lastmodified":1491937349,
     "wof:name":"Clear Image",
     "wof:parent_id":85791233,
     "wof:placetype":"venue",

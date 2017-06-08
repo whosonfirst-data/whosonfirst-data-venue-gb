@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.47548,53.371052,-1.47548,53.371052",
     "geom:latitude":53.371052,
     "geom:longitude":-1.47548,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85793113,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"d9f8c406e1f2d4857e512df0286decb5",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":135340565
         }
     ],
     "wof:id":135340565,
-    "wof:lastmodified":1472258526,
+    "wof:lastmodified":1491898951,
     "wof:name":"Arundel Wire Products",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.603211,54.981255,-1.603211,54.981255",
     "geom:latitude":54.981255,
     "geom:longitude":-1.603211,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750617,
-        85633159,
         85790301,
+        "102191581",
+        404440729,
+        "85633159",
+        404227469,
+        101750617,
         85683691
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"e13eb2b3fa85f22f27e1938d2438f82f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404440729,
             "locality_id":101750617,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790301,
             "region_id":85683691,
             "venue_id":136124573
         }
     ],
     "wof:id":136124573,
-    "wof:lastmodified":1472259388,
+    "wof:lastmodified":1491938267,
     "wof:name":"Hutton Hire Services",
     "wof:parent_id":85790301,
     "wof:placetype":"venue",

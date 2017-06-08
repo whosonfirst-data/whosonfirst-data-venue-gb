@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.154999,52.593899,-2.154999,52.593899",
     "geom:latitude":52.593899,
     "geom:longitude":-2.154999,
@@ -29,9 +30,12 @@
     "sg:province":"Shropshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914031,
-        85633159,
         85789371,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
+        101914031,
         85683801
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"6cc1de2a1df3e287b367a363ba0b260d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789371,
             "region_id":85683801,
             "venue_id":136151159
         }
     ],
     "wof:id":136151159,
-    "wof:lastmodified":1472260548,
+    "wof:lastmodified":1491888379,
     "wof:name":"A E Wakeman & Sons Ltd.",
     "wof:parent_id":85789371,
     "wof:placetype":"venue",

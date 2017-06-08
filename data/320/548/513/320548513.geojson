@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.136847,51.564777,-0.136847,51.564777",
     "geom:latitude":51.564777,
     "geom:longitude":-0.136847,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791233,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684071
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"443c63c2859156bc0e3582250d2f7a12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791233,
-            "region_id":85684071,
+            "region_id":85684061,
             "venue_id":320548513
         }
     ],
     "wof:id":320548513,
-    "wof:lastmodified":1472263863,
+    "wof:lastmodified":1491937382,
     "wof:name":"Archway Under 5's",
     "wof:parent_id":85791233,
     "wof:placetype":"venue",

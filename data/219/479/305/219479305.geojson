@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.386479,54.904446,-1.386479,54.904446",
     "geom:latitude":54.904446,
     "geom:longitude":-1.386479,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793173,
-        85633159,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
         101750611,
         85684483
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"e0091da71365b0b7058bb32d63bdcb2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793173,
             "region_id":85684483,
             "venue_id":219479305
         }
     ],
     "wof:id":219479305,
-    "wof:lastmodified":1472259010,
+    "wof:lastmodified":1491905666,
     "wof:name":"Steven G Outen",
     "wof:parent_id":85793173,
     "wof:placetype":"venue",

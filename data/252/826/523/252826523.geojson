@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.388749,54.904652,-1.388749,54.904652",
     "geom:latitude":54.904652,
     "geom:longitude":-1.388749,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793173,
-        85633159,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
         101750611,
         85684483
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"4558c143d2e788c7a25ca4dce0940cef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793173,
             "region_id":85684483,
             "venue_id":252826523
         }
     ],
     "wof:id":252826523,
-    "wof:lastmodified":1472256371,
+    "wof:lastmodified":1491905696,
     "wof:name":"Etam Plc",
     "wof:parent_id":85793173,
     "wof:placetype":"venue",

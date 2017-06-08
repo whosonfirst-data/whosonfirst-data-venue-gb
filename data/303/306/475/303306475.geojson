@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.524901,52.397743,-1.524901,52.397743",
     "geom:latitude":52.397743,
     "geom:longitude":-1.524901,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790739,
-        85633159,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
         101750449,
         85684565
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"b1b23b118423c238bbc4cb6387a2ce2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790739,
             "region_id":85684565,
             "venue_id":303306475
         }
     ],
     "wof:id":303306475,
-    "wof:lastmodified":1472258662,
+    "wof:lastmodified":1491930154,
     "wof:name":"Fulcrum Partnerships Ltd",
     "wof:parent_id":85790739,
     "wof:placetype":"venue",

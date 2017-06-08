@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.158433,51.486305,-3.158433,51.486305",
     "geom:latitude":51.486305,
     "geom:longitude":-3.158433,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750397,
-        85633159,
         85789785,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
+        101750397,
         85683787,
         85789789
     ],
@@ -46,24 +50,30 @@
     "wof:geomhash":"ea90690d4836766ded78ca98264fb896",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85789785,
             "region_id":85683787,
             "venue_id":118897027
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85789789,
             "region_id":85683787,
             "venue_id":118897027
         }
     ],
     "wof:id":118897027,
-    "wof:lastmodified":1472265691,
+    "wof:lastmodified":1491900140,
     "wof:name":"Ferrari's Bakery Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

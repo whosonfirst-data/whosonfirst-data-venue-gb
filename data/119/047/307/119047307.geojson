@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.447465,51.530437,-0.447465,51.530437",
     "geom:latitude":51.530437,
     "geom:longitude":-0.447465,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788217,
-        85683711
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:brand_id":420575001,
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"dfd3f6b20c0528b461dfcbdf08cfd474",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788217,
-            "region_id":85683711,
+            "region_id":85684061,
             "venue_id":119047307
         }
     ],
     "wof:id":119047307,
-    "wof:lastmodified":1472256131,
+    "wof:lastmodified":1491916140,
     "wof:name":"Ats",
     "wof:parent_id":85788217,
     "wof:placetype":"venue",

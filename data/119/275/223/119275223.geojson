@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.401117,51.651604,-0.401117,51.651604",
     "geom:latitude":51.651604,
     "geom:longitude":-0.401117,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751603,
-        85633159,
         85860799,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
+        101751603,
         85684331
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"0ea8b420231a3096702b419a8976393a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
             "locality_id":101751603,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":119275223
         }
     ],
     "wof:id":119275223,
-    "wof:lastmodified":1472265518,
+    "wof:lastmodified":1491931623,
     "wof:name":"The Joy Garden",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",

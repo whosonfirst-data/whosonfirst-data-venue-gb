@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.285022,55.919674,-3.285022,55.919674",
     "geom:latitude":55.919674,
     "geom:longitude":-3.285022,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85790347,
-        85633159,
-        85684587,
         85791551,
-        101750629
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
+        85684587,
+        85633159,
+        85790347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,26 +51,26 @@
     "wof:geomhash":"c9e7b1020b4fab21ea28c47a0eeb71b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85790347,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
+            "locality_id":101750629,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85791551,
             "region_id":85684587,
             "venue_id":287200011
         },
         {
-            "continent_id":-1,
             "country_id":85633159,
-            "locality_id":101750629,
-            "neighbourhood_id":85791551,
+            "neighbourhood_id":85790347,
             "region_id":85684587,
             "venue_id":287200011
         }
     ],
     "wof:id":287200011,
-    "wof:lastmodified":1472257466,
+    "wof:lastmodified":1491933683,
     "wof:name":"Ursulines of Jesus",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

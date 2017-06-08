@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.097621,51.564205,0.097621,51.564205",
     "geom:latitude":51.564205,
     "geom:longitude":0.097621,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790249,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684441
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"fad3744fb9e84b17e9e46c73a34fb52d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790249,
-            "region_id":85684441,
+            "region_id":85684061,
             "venue_id":186085111
         }
     ],
     "wof:id":186085111,
-    "wof:lastmodified":1472255644,
+    "wof:lastmodified":1491892838,
     "wof:name":"Wavelength Hair Studio",
     "wof:parent_id":85790249,
     "wof:placetype":"venue",

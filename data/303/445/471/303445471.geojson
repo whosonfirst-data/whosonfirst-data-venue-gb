@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.540834,53.795517,-1.540834,53.795517",
     "geom:latitude":53.795517,
     "geom:longitude":-1.540834,
@@ -37,7 +38,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792901,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -49,16 +53,18 @@
     "wof:geomhash":"98f1e60a0360a69a21e7f10151f87912",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792901,
             "region_id":85684321,
             "venue_id":303445471
         }
     ],
     "wof:id":303445471,
-    "wof:lastmodified":1472260881,
+    "wof:lastmodified":1491910285,
     "wof:name":"Soho",
     "wof:parent_id":85792901,
     "wof:placetype":"venue",

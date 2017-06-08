@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.275647,51.383575,-0.275647,51.383575",
     "geom:latitude":51.383575,
     "geom:longitude":-0.275647,
@@ -42,9 +43,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860325,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684387
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,16 +58,18 @@
     "wof:geomhash":"cbddd86ebb6685f827c2623eb2c70d1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860325,
-            "region_id":85684387,
+            "region_id":85684061,
             "venue_id":287025029
         }
     ],
     "wof:id":287025029,
-    "wof:lastmodified":1472255374,
+    "wof:lastmodified":1491915126,
     "wof:name":"Egmont Water Garden Centre",
     "wof:parent_id":85860325,
     "wof:placetype":"venue",

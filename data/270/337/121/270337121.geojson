@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.248068,55.92347,-3.248068,55.92347",
     "geom:latitude":55.92347,
     "geom:longitude":-3.248068,
@@ -39,7 +40,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861495,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -51,16 +55,18 @@
     "wof:geomhash":"55374961f50b43df5346fdc7ebac8e75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861495,
             "region_id":85684587,
             "venue_id":270337121
         }
     ],
     "wof:id":270337121,
-    "wof:lastmodified":1472259279,
+    "wof:lastmodified":1491931254,
     "wof:name":"GILES HAIRDRESSING",
     "wof:parent_id":85861495,
     "wof:placetype":"venue",

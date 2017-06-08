@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.14011,55.86105,-4.14011,55.86105",
     "geom:latitude":55.86105,
     "geom:longitude":-4.14011,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85790555,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"fe1a853bab25855bd7e560220392ff6a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":135950173
         }
     ],
     "wof:id":135950173,
-    "wof:lastmodified":1472267820,
+    "wof:lastmodified":1491897840,
     "wof:name":"Landwise Services Ltd.",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.603776,54.981274,-1.603776,54.981274",
     "geom:latitude":54.981274,
     "geom:longitude":-1.603776,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790301,
-        85633159,
+        "102191581",
+        404440729,
+        "85633159",
+        404227469,
         101750617,
         85683691
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"ccf941b330a5ff34ae93dea7c3dc6ced",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404440729,
             "locality_id":101750617,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790301,
             "region_id":85683691,
             "venue_id":270452643
         }
     ],
     "wof:id":270452643,
-    "wof:lastmodified":1472261492,
+    "wof:lastmodified":1491938253,
     "wof:name":"Sotheby's",
     "wof:parent_id":85790301,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.130456,51.529758,-0.130456,51.529758",
     "geom:latitude":51.529758,
     "geom:longitude":-0.130456,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790643,
-        85684597
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"bc98f7bcc297441226c8b22cccf948a7",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790643,
-            "region_id":85684597,
+            "region_id":85684061,
             "venue_id":119196633
         }
     ],
     "wof:id":119196633,
-    "wof:lastmodified":1472264425,
+    "wof:lastmodified":1491889414,
     "wof:name":"National Pensioners Convention",
     "wof:parent_id":85790643,
     "wof:placetype":"venue",

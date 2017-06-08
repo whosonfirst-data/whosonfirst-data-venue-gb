@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.00265,51.451977,-0.00265,51.451977",
     "geom:latitude":51.451977,
     "geom:longitude":-0.00265,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861189,
-        85684337
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"2905760cc5e3d0b170e0eb23b9374bd7",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861189,
-            "region_id":85684337,
+            "region_id":85684061,
             "venue_id":119314669
         }
     ],
     "wof:id":119314669,
-    "wof:lastmodified":1472265588,
+    "wof:lastmodified":1491888455,
     "wof:name":"Geoff Sayer Butchers",
     "wof:parent_id":85861189,
     "wof:placetype":"venue",

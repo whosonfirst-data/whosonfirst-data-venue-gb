@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.901207,52.51561,-1.901207,52.51561",
     "geom:latitude":52.51561,
     "geom:longitude":-1.901207,
@@ -33,10 +34,14 @@
     "sg:province":"West Midlands",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85788253,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283,
+        85633159,
         85785713
     ],
     "wof:breaches":[],
@@ -47,8 +52,11 @@
     "wof:geomhash":"542f7309979adeda4bbe7eb7c1445e3b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788253,
             "region_id":85684283,
             "venue_id":119487973
@@ -61,9 +69,9 @@
         }
     ],
     "wof:id":119487973,
-    "wof:lastmodified":1472267014,
+    "wof:lastmodified":1491885925,
     "wof:name":"J & D STORE",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

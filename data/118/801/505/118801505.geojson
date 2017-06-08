@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.105365,51.534309,-0.105365,51.534309",
     "geom:latitude":51.534309,
     "geom:longitude":-0.105365,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85866373,
-        85684071
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"ff039b4f5d0d6a34fdce966fcaaa26a6",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85866373,
-            "region_id":85684071,
+            "region_id":85684061,
             "venue_id":118801505
         }
     ],
     "wof:id":118801505,
-    "wof:lastmodified":1472264631,
+    "wof:lastmodified":1491885076,
     "wof:name":"Centreprise Ltd",
     "wof:parent_id":85866373,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.118039,51.526562,-0.118039,51.526562",
     "geom:latitude":51.526562,
     "geom:longitude":-0.118039,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790643,
-        85684597
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"045e792cc5b887efff93b21bc7cb5fc7",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790643,
-            "region_id":85684597,
+            "region_id":85684061,
             "venue_id":118628281
         }
     ],
     "wof:id":118628281,
-    "wof:lastmodified":1472259843,
+    "wof:lastmodified":1491889403,
     "wof:name":"Essex Colour London",
     "wof:parent_id":85790643,
     "wof:placetype":"venue",

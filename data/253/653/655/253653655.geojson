@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.227777,51.484676,-3.227777,51.484676",
     "geom:latitude":51.484676,
     "geom:longitude":-3.227777,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861055,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"d39d4df0aa6396478aafd23a3637a439",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861055,
             "region_id":85683787,
             "venue_id":253653655
         }
     ],
     "wof:id":253653655,
-    "wof:lastmodified":1472264276,
+    "wof:lastmodified":1491937739,
     "wof:name":"H W Bruton & Sons Ltd",
     "wof:parent_id":85861055,
     "wof:placetype":"venue",

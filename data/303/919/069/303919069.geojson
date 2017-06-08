@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.085782,51.479137,0.085782,51.479137",
     "geom:latitude":51.479137,
     "geom:longitude":0.085782,
@@ -39,9 +40,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860539,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683707
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,16 +55,18 @@
     "wof:geomhash":"c8ea293e4d77539f643ef6b2882aefbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860539,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":303919069
         }
     ],
     "wof:id":303919069,
-    "wof:lastmodified":1472265019,
+    "wof:lastmodified":1491892778,
     "wof:name":"Greenslade Primary School",
     "wof:parent_id":85860539,
     "wof:placetype":"venue",

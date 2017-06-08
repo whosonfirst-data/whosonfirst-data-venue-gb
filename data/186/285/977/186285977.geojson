@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.134352,51.615932,-0.134352,51.615932",
     "geom:latitude":51.615932,
     "geom:longitude":-0.134352,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789349,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684381
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,18 @@
     "wof:geomhash":"0026cff835391aa52e25b73ad535e54d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789349,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":186285977
         }
     ],
     "wof:id":186285977,
-    "wof:lastmodified":1472257415,
+    "wof:lastmodified":1491934899,
     "wof:name":"Dadyal Food & Wine Ltd",
     "wof:parent_id":85789349,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.560253,53.785816,-1.560253,53.785816",
     "geom:latitude":53.785816,
     "geom:longitude":-1.560253,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85785589,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"c3b18544f240e5c05b97f21ad7f92d23",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785589,
             "region_id":85684321,
             "venue_id":135421003
         }
     ],
     "wof:id":135421003,
-    "wof:lastmodified":1472262383,
+    "wof:lastmodified":1491903340,
     "wof:name":"The Tyre Place",
     "wof:parent_id":85785589,
     "wof:placetype":"venue",

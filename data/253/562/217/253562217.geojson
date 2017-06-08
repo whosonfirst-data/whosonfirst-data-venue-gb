@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.894139,52.473484,-1.894139,52.473484",
     "geom:latitude":52.473484,
     "geom:longitude":-1.894139,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787023,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"327ef2871e32e83c0ba3049a39008445",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787023,
             "region_id":85684283,
             "venue_id":253562217
         }
     ],
     "wof:id":253562217,
-    "wof:lastmodified":1472263317,
+    "wof:lastmodified":1491905555,
     "wof:name":"Olympus Fisheries",
     "wof:parent_id":85787023,
     "wof:placetype":"venue",

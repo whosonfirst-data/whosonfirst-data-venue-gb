@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.8311,52.521,-1.8311,52.521",
     "geom:latitude":52.521,
     "geom:longitude":-1.8311,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85792007,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:brand_id":420575365,
@@ -46,15 +50,18 @@
     "wof:geomhash":"d554d20a8e612905d26c99d6705bff12",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792007,
             "region_id":85684283,
             "venue_id":119172355
         }
     ],
     "wof:id":119172355,
-    "wof:lastmodified":1472263164,
+    "wof:lastmodified":1491911625,
     "wof:name":"Birmingham City Council",
     "wof:parent_id":85792007,
     "wof:placetype":"venue",

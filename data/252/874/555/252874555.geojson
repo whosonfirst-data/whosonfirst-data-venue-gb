@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.092885,51.471657,-0.092885,51.471657",
     "geom:latitude":51.471657,
     "geom:longitude":-0.092885,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786171,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"6981786d2ae3f2eed23fcc1d36f046cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786171,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":252874555
         }
     ],
     "wof:id":252874555,
-    "wof:lastmodified":1472256819,
+    "wof:lastmodified":1491921384,
     "wof:name":"Grosvenor Nursing Agency Ltd.",
     "wof:parent_id":85786171,
     "wof:placetype":"venue",

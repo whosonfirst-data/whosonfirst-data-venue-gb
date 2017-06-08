@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.008285,51.479713,-0.008285,51.479713",
     "geom:latitude":51.479713,
     "geom:longitude":-0.008285,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866377,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683707
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"3778d7b50cf810711a2075fc24266be1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85866377,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":236383449
         }
     ],
     "wof:id":236383449,
-    "wof:lastmodified":1472259130,
+    "wof:lastmodified":1491908150,
     "wof:name":"E M Sabo",
     "wof:parent_id":85866377,
     "wof:placetype":"venue",

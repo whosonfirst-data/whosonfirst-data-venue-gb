@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.077609,51.576412,-0.077609,51.576412",
     "geom:latitude":51.576412,
     "geom:longitude":-0.077609,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860357,
-        85684121
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"5ca39eea2382206b53172e2ab2589ad9",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860357,
-            "region_id":85684121,
+            "region_id":85684061,
             "venue_id":119310027
         }
     ],
     "wof:id":119310027,
-    "wof:lastmodified":1472265485,
+    "wof:lastmodified":1491916556,
     "wof:name":"A A John France Electrical Services",
     "wof:parent_id":85860357,
     "wof:placetype":"venue",

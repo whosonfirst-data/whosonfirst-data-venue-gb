@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.59104,53.810482,-1.59104,53.810482",
     "geom:latitude":53.810482,
     "geom:longitude":-1.59104,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85861565,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"1393437cd367f2f7411f60eed2486a3b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861565,
             "region_id":85684321,
             "venue_id":135706477
         }
     ],
     "wof:id":135706477,
-    "wof:lastmodified":1472266665,
+    "wof:lastmodified":1491904183,
     "wof:name":"Guilbrook Management Ltd",
     "wof:parent_id":85861565,
     "wof:placetype":"venue",

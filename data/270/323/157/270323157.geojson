@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.032967,51.521267,-0.032967,51.521267",
     "geom:latitude":51.521267,
     "geom:longitude":-0.032967,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785887,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684467
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,18 @@
     "wof:geomhash":"c6215d3d5bf38ead3312bfd162a08a61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785887,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":270323157
         }
     ],
     "wof:id":270323157,
-    "wof:lastmodified":1472259103,
+    "wof:lastmodified":1491919663,
     "wof:name":"Bow Common Sub Post Office",
     "wof:parent_id":85785887,
     "wof:placetype":"venue",

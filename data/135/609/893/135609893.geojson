@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.250538,51.544014,-0.250538,51.544014",
     "geom:latitude":51.544014,
     "geom:longitude":-0.250538,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860401,
-        85684003
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"bca746271b674632d711f91180c84c57",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860401,
-            "region_id":85684003,
+            "region_id":85684061,
             "venue_id":135609893
         }
     ],
     "wof:id":135609893,
-    "wof:lastmodified":1472265423,
+    "wof:lastmodified":1491913539,
     "wof:name":"St. Joseph S R C School",
     "wof:parent_id":85860401,
     "wof:placetype":"venue",

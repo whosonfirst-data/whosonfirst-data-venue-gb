@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.136105,51.562412,-0.136105,51.562412",
     "geom:latitude":51.562412,
     "geom:longitude":-0.136105,
@@ -29,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791233,
-        85684071
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"d9ef992492111d68a68053054c929650",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791233,
-            "region_id":85684071,
+            "region_id":85684061,
             "venue_id":118977689
         }
     ],
     "wof:id":118977689,
-    "wof:lastmodified":1472265997,
+    "wof:lastmodified":1491937387,
     "wof:name":"Junction Food Store",
     "wof:parent_id":85791233,
     "wof:placetype":"venue",

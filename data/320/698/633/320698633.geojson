@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.232104,51.483921,-3.232104,51.483921",
     "geom:latitude":51.483921,
     "geom:longitude":-3.232104,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861055,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"fbce126022cd1acc31fce2cb3f55c3f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861055,
             "region_id":85683787,
             "venue_id":320698633
         }
     ],
     "wof:id":320698633,
-    "wof:lastmodified":1472264745,
+    "wof:lastmodified":1491937739,
     "wof:name":"Going Places Business Travel Centre",
     "wof:parent_id":85861055,
     "wof:placetype":"venue",

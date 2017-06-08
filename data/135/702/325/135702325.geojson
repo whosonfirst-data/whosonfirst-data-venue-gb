@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.03582,51.405811,-0.03582,51.405811",
     "geom:latitude":51.405811,
     "geom:longitude":-0.03582,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785551,
-        85684235
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"8159ef7fbd86095a4b91a795e34dd2d6",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785551,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":135702325
         }
     ],
     "wof:id":135702325,
-    "wof:lastmodified":1472266569,
+    "wof:lastmodified":1491908112,
     "wof:name":"Ysabelle Taylor Ballet School",
     "wof:parent_id":85785551,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.055512,51.468224,-0.055512,51.468224",
     "geom:latitude":51.468224,
     "geom:longitude":-0.055512,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789765,
-        85633159,
+        85860519,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684289,
-        85860519
+        85684061,
+        85789765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +51,30 @@
     "wof:geomhash":"793ab6e743539c1713f4b459c87e1643",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85789765,
-            "region_id":85684289,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860519,
+            "region_id":85684061,
             "venue_id":303628307
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85860519,
-            "region_id":85684289,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789765,
+            "region_id":85684061,
             "venue_id":303628307
         }
     ],
     "wof:id":303628307,
-    "wof:lastmodified":1472263898,
+    "wof:lastmodified":1491892295,
     "wof:name":"The Londoners",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

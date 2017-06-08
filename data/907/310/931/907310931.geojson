@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.9830390215,52.5762481689,-1.9830390215,52.5762481689",
     "geom:latitude":52.576248,
     "geom:longitude":-1.983039,
@@ -29,17 +30,17 @@
     "sg:province":"West Midlands",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85785653,
+        85789023,
         "102191581",
-        404446943,
+        404439659,
         "85633159",
         404227469,
-        101914045,
-        85684511,
-        85789023,
-        404439659,
         101914035,
-        85684155
+        85684155,
+        85785653,
+        404446943,
+        101914045,
+        85684511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,28 +53,28 @@
         {
             "continent_id":"102191581",
             "country_id":"85633159",
-            "localadmin_id":404446943,
-            "locality_id":101914045,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85785653,
-            "region_id":85684511,
-            "venue_id":907310931
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
             "localadmin_id":404439659,
             "locality_id":101914035,
             "macroregion_id":404227469,
             "neighbourhood_id":85789023,
             "region_id":85684155,
             "venue_id":907310931
+        },
+        {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
+            "locality_id":101914045,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85785653,
+            "region_id":85684511,
+            "venue_id":907310931
         }
     ],
     "wof:id":907310931,
-    "wof:lastmodified":1472267974,
+    "wof:lastmodified":1491912081,
     "wof:name":"Samra Furniture Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

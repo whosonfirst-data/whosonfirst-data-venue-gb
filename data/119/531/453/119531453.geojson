@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.639379,53.83736,-1.639379,53.83736",
     "geom:latitude":53.83736,
     "geom:longitude":-1.639379,
@@ -36,9 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85792891,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321
     ],
     "wof:breaches":[],
@@ -49,15 +53,18 @@
     "wof:geomhash":"4220382f6dfc9182612eaf8477075d14",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792891,
             "region_id":85684321,
             "venue_id":119531453
         }
     ],
     "wof:id":119531453,
-    "wof:lastmodified":1472267280,
+    "wof:lastmodified":1491889755,
     "wof:name":"The Fleece",
     "wof:parent_id":85792891,
     "wof:placetype":"venue",

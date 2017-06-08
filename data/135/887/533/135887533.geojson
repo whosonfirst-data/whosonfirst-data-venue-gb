@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.182585,51.574215,0.182585,51.574215",
     "geom:latitude":51.574215,
     "geom:longitude":0.182585,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85865131,
-        85683841
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"2cc8f4308d664bf693060a3cbca0f1c0",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85865131,
-            "region_id":85683841,
+            "region_id":85684061,
             "venue_id":135887533
         }
     ],
     "wof:id":135887533,
-    "wof:lastmodified":1472267573,
+    "wof:lastmodified":1491901123,
     "wof:name":"Hollywood Hand Car Wash",
     "wof:parent_id":85865131,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.926394,52.439171,-1.926394,52.439171",
     "geom:latitude":52.439171,
     "geom:longitude":-1.926394,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785881,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"1a3b27446f1f60aac124de027cd278c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785881,
             "region_id":85684283,
             "venue_id":303496559
         }
     ],
     "wof:id":303496559,
-    "wof:lastmodified":1472261572,
+    "wof:lastmodified":1491893441,
     "wof:name":"St.Mary's Hospice Ltd.",
     "wof:parent_id":85785881,
     "wof:placetype":"venue",

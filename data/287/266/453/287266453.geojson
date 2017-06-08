@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.164956,55.870197,-4.164956,55.870197",
     "geom:latitude":55.870197,
     "geom:longitude":-4.164956,
@@ -39,7 +40,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790555,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -51,16 +55,18 @@
     "wof:geomhash":"f8bf74c3f2ec8b3d442fc676617fa9ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":287266453
         }
     ],
     "wof:id":287266453,
-    "wof:lastmodified":1472258625,
+    "wof:lastmodified":1491897836,
     "wof:name":"Elmcroft Nursery School",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

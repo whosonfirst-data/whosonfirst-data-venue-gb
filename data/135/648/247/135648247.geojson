@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.025399,51.404247,-0.025399,51.404247",
     "geom:latitude":51.404247,
     "geom:longitude":-0.025399,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785551,
-        85684235
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"c1ac07958eedcd224fcf15f3cbed2ed6",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785551,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":135648247
         }
     ],
     "wof:id":135648247,
-    "wof:lastmodified":1472265770,
+    "wof:lastmodified":1491908094,
     "wof:name":"Annette Nicholson Marketing Service",
     "wof:parent_id":85785551,
     "wof:placetype":"venue",

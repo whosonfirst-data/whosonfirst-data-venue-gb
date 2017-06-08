@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.99064,53.40749,-2.99064,53.40749",
     "geom:latitude":53.40749,
     "geom:longitude":-2.99064,
@@ -31,11 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85793261,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
-        85633159,
-        85793275,
         85684213,
-        85793261
+        85793275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,24 +49,30 @@
     "wof:geomhash":"d936d68181c2b767c1aaa5fd153e80a5",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
-            "neighbourhood_id":85793275,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85793261,
             "region_id":85684213,
             "venue_id":135812503
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
-            "neighbourhood_id":85793261,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85793275,
             "region_id":85684213,
             "venue_id":135812503
         }
     ],
     "wof:id":135812503,
-    "wof:lastmodified":1472267171,
+    "wof:lastmodified":1491911667,
     "wof:name":"Maurice Stam Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

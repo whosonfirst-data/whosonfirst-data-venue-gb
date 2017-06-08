@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.543649,53.778957,-1.543649,53.778957",
     "geom:latitude":53.778957,
     "geom:longitude":-1.543649,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85785589,
-        85633159,
+        85788371,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321,
-        85788371
+        85785589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,26 +50,30 @@
     "wof:geomhash":"84e98c62c0d6f3133a1b7859e3bb2642",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
-            "neighbourhood_id":85785589,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788371,
             "region_id":85684321,
             "venue_id":203268409
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
-            "neighbourhood_id":85788371,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85785589,
             "region_id":85684321,
             "venue_id":203268409
         }
     ],
     "wof:id":203268409,
-    "wof:lastmodified":1472257461,
+    "wof:lastmodified":1491903338,
     "wof:name":"Best & Drye",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.471556,53.376087,-1.471556,53.376087",
     "geom:latitude":53.376087,
     "geom:longitude":-1.471556,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793113,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"26973d40f9d53154bf6b94d868717584",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":304035753
         }
     ],
     "wof:id":304035753,
-    "wof:lastmodified":1472255622,
+    "wof:lastmodified":1491899030,
     "wof:name":"C A Grant (Sheffield) Ltd.",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

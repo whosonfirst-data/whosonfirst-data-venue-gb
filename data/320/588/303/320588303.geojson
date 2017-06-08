@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.111794,52.474548,-2.111794,52.474548",
     "geom:latitude":52.474548,
     "geom:longitude":-2.111794,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789987,
-        85633159,
+        "102191581",
+        404451925,
+        "85633159",
+        404227469,
         101914027,
         85684449
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"d282be96a29470c9dccab0ec81a4bab9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404451925,
             "locality_id":101914027,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789987,
             "region_id":85684449,
             "venue_id":320588303
         }
     ],
     "wof:id":320588303,
-    "wof:lastmodified":1472264270,
+    "wof:lastmodified":1491910003,
     "wof:name":"Flair Upholstery",
     "wof:parent_id":85789987,
     "wof:placetype":"venue",

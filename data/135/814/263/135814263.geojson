@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.452079,53.397511,-1.452079,53.397511",
     "geom:latitude":53.397511,
     "geom:longitude":-1.452079,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85785403,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"537fa86d7390c47d1be46dafd37e57a1",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":135814263
         }
     ],
     "wof:id":135814263,
-    "wof:lastmodified":1472267166,
+    "wof:lastmodified":1491907102,
     "wof:name":"Gascoyne & Beever Ltd.",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

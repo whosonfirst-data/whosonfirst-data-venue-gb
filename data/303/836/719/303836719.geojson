@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.60566,54.981468,-1.60566,54.981468",
     "geom:latitude":54.981468,
     "geom:longitude":-1.60566,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790301,
-        85633159,
+        "102191581",
+        404440729,
+        "85633159",
+        404227469,
         101750617,
         85683691
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"dc22dc891d2e9108da0650f0a412e115",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404440729,
             "locality_id":101750617,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790301,
             "region_id":85683691,
             "venue_id":303836719
         }
     ],
     "wof:id":303836719,
-    "wof:lastmodified":1472264987,
+    "wof:lastmodified":1491938257,
     "wof:name":"The Christian Institute Ltd.",
     "wof:parent_id":85790301,
     "wof:placetype":"venue",

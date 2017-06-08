@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.401351,51.651455,-0.401351,51.651455",
     "geom:latitude":51.651455,
     "geom:longitude":-0.401351,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751603,
-        85633159,
         85860799,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
+        101751603,
         85684331
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"dd64612e9f93a666473821b390822a2e",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
             "locality_id":101751603,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":135268649
         }
     ],
     "wof:id":135268649,
-    "wof:lastmodified":1472255097,
+    "wof:lastmodified":1491931621,
     "wof:name":"Fame-Us",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",

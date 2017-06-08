@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.399675,54.900093,-1.399675,54.900093",
     "geom:latitude":54.900093,
     "geom:longitude":-1.399675,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750611,
-        85633159,
         85793173,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
+        101750611,
         85684483
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"7018a0b97463075fcb3fed2980bdf3d7",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793173,
             "region_id":85684483,
             "venue_id":135614521
         }
     ],
     "wof:id":135614521,
-    "wof:lastmodified":1472265355,
+    "wof:lastmodified":1491905698,
     "wof:name":"Partco Ltd.",
     "wof:parent_id":85793173,
     "wof:placetype":"venue",

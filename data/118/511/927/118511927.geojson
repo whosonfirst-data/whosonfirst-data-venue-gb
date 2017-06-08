@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.570821,53.78186,-1.570821,53.78186",
     "geom:latitude":53.78186,
     "geom:longitude":-1.570821,
@@ -35,8 +36,12 @@
         85633159,
         85785585,
         85684321,
-        101750579,
-        85785589
+        85785589,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +57,20 @@
             "venue_id":118511927
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785589,
             "region_id":85684321,
             "venue_id":118511927
         }
     ],
     "wof:id":118511927,
-    "wof:lastmodified":1472255545,
+    "wof:lastmodified":1491903352,
     "wof:name":"P M S Microbiological Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

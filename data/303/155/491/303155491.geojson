@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.682979,53.866295,-1.682979,53.866295",
     "geom:latitude":53.866295,
     "geom:longitude":-1.682979,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786761,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -44,18 +46,17 @@
     "wof:geomhash":"34e0bb4c1016b28cc15c1884197d0f15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":303155491
         }
     ],
     "wof:id":303155491,
-    "wof:lastmodified":1472256894,
+    "wof:lastmodified":1491932531,
     "wof:name":"F & S Stott Ltd.",
-    "wof:parent_id":85786761,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

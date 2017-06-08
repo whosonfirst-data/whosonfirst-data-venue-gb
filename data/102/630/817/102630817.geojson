@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.803641,52.436344,-1.803641,52.436344",
     "geom:latitude":52.436344,
     "geom:longitude":-1.803641,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85785211,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"b7f35a2ad276faa7e80e08010c9e8a4d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785211,
             "region_id":85684283,
             "venue_id":102630817
         }
     ],
     "wof:id":102630817,
-    "wof:lastmodified":1472256336,
+    "wof:lastmodified":1491896462,
     "wof:name":"Anthony John Hair Designers",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.152336,51.353966,-0.152336,51.353966",
     "geom:latitude":51.353966,
     "geom:longitude":-0.152336,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792361,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683649
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"fb2c080630924550b8d077e7bbbf07cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792361,
-            "region_id":85683649,
+            "region_id":85684061,
             "venue_id":219268983
         }
     ],
     "wof:id":219268983,
-    "wof:lastmodified":1472256443,
+    "wof:lastmodified":1491930129,
     "wof:name":"F R Sheppard",
     "wof:parent_id":85792361,
     "wof:placetype":"venue",

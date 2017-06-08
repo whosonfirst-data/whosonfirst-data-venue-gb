@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.10541,51.53421,-0.10541,51.53421",
     "geom:latitude":51.53421,
     "geom:longitude":-0.10541,
@@ -28,10 +29,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85866373,
-        85684071
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,18 @@
     "wof:geomhash":"8cad1b98d78a804435ced2254d45a658",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85866373,
-            "region_id":85684071,
+            "region_id":85684061,
             "venue_id":118801401
         }
     ],
     "wof:id":118801401,
-    "wof:lastmodified":1472264616,
+    "wof:lastmodified":1491885100,
     "wof:name":"Harveys Furnishing Group Ltd",
     "wof:parent_id":85866373,
     "wof:placetype":"venue",

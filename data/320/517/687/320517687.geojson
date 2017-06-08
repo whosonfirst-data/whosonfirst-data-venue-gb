@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.087948,51.360683,0.087948,51.360683",
     "geom:latitude":51.360683,
     "geom:longitude":0.087948,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787355,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684235
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"23c4f4087e0e74c38b2b0ea246d88322",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787355,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":320517687
         }
     ],
     "wof:id":320517687,
-    "wof:lastmodified":1472263347,
+    "wof:lastmodified":1491902375,
     "wof:name":"Hewden Hire Centres",
     "wof:parent_id":85787355,
     "wof:placetype":"venue",

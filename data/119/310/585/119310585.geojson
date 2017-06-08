@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.146118,52.573055,-2.146118,52.573055",
     "geom:latitude":52.573055,
     "geom:longitude":-2.146118,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914031,
-        85633159,
         85785907,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
+        101914031,
         85683801
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"d9e5e77ea2d4582505cc263ade87a8ae",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785907,
             "region_id":85683801,
             "venue_id":119310585
         }
     ],
     "wof:id":119310585,
-    "wof:lastmodified":1472265592,
+    "wof:lastmodified":1491914479,
     "wof:name":"Ronald Tipping",
     "wof:parent_id":85785907,
     "wof:placetype":"venue",

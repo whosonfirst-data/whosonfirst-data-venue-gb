@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.188166,51.565247,0.188166,51.565247",
     "geom:latitude":51.565247,
     "geom:longitude":0.188166,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85865131,
-        85683841
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"8edac9d5a017ca3461f4a02dfe3895f2",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85865131,
-            "region_id":85683841,
+            "region_id":85684061,
             "venue_id":135307327
         }
     ],
     "wof:id":135307327,
-    "wof:lastmodified":1472255975,
+    "wof:lastmodified":1491901175,
     "wof:name":"T D K Architectural Interiors",
     "wof:parent_id":85865131,
     "wof:placetype":"venue",

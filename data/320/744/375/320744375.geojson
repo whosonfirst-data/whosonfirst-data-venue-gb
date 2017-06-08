@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.580272,51.443001,-2.580272,51.443001",
     "geom:latitude":51.443001,
     "geom:longitude":-2.580272,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791103,
-        85633159,
+        "102191581",
+        404431949,
+        "85633159",
+        404227469,
         101750389,
-        85684063
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"791682d0b868815c04f1aa370a55ed30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431949,
             "locality_id":101750389,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791103,
-            "region_id":85684063,
+            "region_id":85683793,
             "venue_id":320744375
         }
     ],
     "wof:id":320744375,
-    "wof:lastmodified":1472264941,
+    "wof:lastmodified":1491933691,
     "wof:name":"Edwards Television",
     "wof:parent_id":85791103,
     "wof:placetype":"venue",

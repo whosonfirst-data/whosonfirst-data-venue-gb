@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.009594,51.481094,-0.009594,51.481094",
     "geom:latitude":51.481094,
     "geom:longitude":-0.009594,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85866377,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683707
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,18 @@
     "wof:geomhash":"94a14140a88aad67ebfe127875da2a35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85866377,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":270439775
         }
     ],
     "wof:id":270439775,
-    "wof:lastmodified":1472261204,
+    "wof:lastmodified":1491908144,
     "wof:name":"London Rivers Association",
     "wof:parent_id":85866377,
     "wof:placetype":"venue",

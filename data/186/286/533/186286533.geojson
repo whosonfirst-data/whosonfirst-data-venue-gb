@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.135632,51.61636,-0.135632,51.61636",
     "geom:latitude":51.61636,
     "geom:longitude":-0.135632,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789349,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684381
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,18 @@
     "wof:geomhash":"6b65e725b1d447c7109210cc6e02fcc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789349,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":186286533
         }
     ],
     "wof:id":186286533,
-    "wof:lastmodified":1472257400,
+    "wof:lastmodified":1491934911,
     "wof:name":"Misslebrook & Weston",
     "wof:parent_id":85789349,
     "wof:placetype":"venue",

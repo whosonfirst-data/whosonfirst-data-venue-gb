@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.249018,51.402126,-0.249018,51.402126",
     "geom:latitude":51.402126,
     "geom:longitude":-0.249018,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860327,
-        85684099
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"85ab8bf6ffa0d6acb39805979eb3acdb",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860327,
-            "region_id":85684099,
+            "region_id":85684061,
             "venue_id":118873849
         }
     ],
     "wof:id":118873849,
-    "wof:lastmodified":1472265507,
+    "wof:lastmodified":1491885888,
     "wof:name":"Churches Together In Malden",
     "wof:parent_id":85860327,
     "wof:placetype":"venue",

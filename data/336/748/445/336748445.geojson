@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.932964,53.469437,-2.932964,53.469437",
     "geom:latitude":53.469437,
     "geom:longitude":-2.932964,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787377,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"5ed38e177c9ebe190084a50ddc8d3dbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787377,
             "region_id":85684213,
             "venue_id":336748445
         }
     ],
     "wof:id":336748445,
-    "wof:lastmodified":1472257194,
+    "wof:lastmodified":1491906840,
     "wof:name":"Aspinalls Group Ltd.",
     "wof:parent_id":85787377,
     "wof:placetype":"venue",

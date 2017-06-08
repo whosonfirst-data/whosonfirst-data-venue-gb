@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.2903978825,55.9151649475,-3.2903978825,55.9151649475",
     "geom:latitude":55.915165,
     "geom:longitude":-3.290398,
@@ -29,15 +30,15 @@
     "sg:province":"City of Edinburgh",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
-        85790347,
-        85684587,
         85791551,
         "102191581",
         404437279,
         "85633159",
         404227471,
-        101750629
+        101750629,
+        85684587,
+        85633159,
+        85790347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +49,6 @@
     "wof:geomhash":"98af4ecf96de161a7ca63497709c35dd",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
-            "neighbourhood_id":85790347,
-            "region_id":85684587,
-            "venue_id":924699291
-        },
-        {
             "continent_id":"102191581",
             "country_id":"85633159",
             "localadmin_id":404437279,
@@ -62,12 +57,18 @@
             "neighbourhood_id":85791551,
             "region_id":85684587,
             "venue_id":924699291
+        },
+        {
+            "country_id":85633159,
+            "neighbourhood_id":85790347,
+            "region_id":85684587,
+            "venue_id":924699291
         }
     ],
     "wof:id":924699291,
-    "wof:lastmodified":1472271435,
+    "wof:lastmodified":1491933681,
     "wof:name":"Morning Noon & Night Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.389928,51.442669,-0.389928,51.442669",
     "geom:latitude":51.442669,
     "geom:longitude":-0.389928,
@@ -31,11 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85787911,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85787387,
-        85684141,
-        85787911
+        85684061,
+        85787387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,24 +49,30 @@
     "wof:geomhash":"7d9d2e757b7f46ed391475753e453097",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85787387,
-            "region_id":85684141,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787911,
+            "region_id":85684061,
             "venue_id":135863123
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85787911,
-            "region_id":85684141,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787387,
+            "region_id":85684061,
             "venue_id":135863123
         }
     ],
     "wof:id":135863123,
-    "wof:lastmodified":1472267358,
+    "wof:lastmodified":1491929100,
     "wof:name":"C R Barnes & Co.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

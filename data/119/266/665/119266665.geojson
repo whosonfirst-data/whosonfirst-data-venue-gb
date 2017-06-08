@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.83765,52.451576,-1.83765,52.451576",
     "geom:latitude":52.451576,
     "geom:longitude":-1.83765,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85785211,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"5067324ca2d82769a2cc6020b390548d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785211,
             "region_id":85684283,
             "venue_id":119266665
         }
     ],
     "wof:id":119266665,
-    "wof:lastmodified":1472265470,
+    "wof:lastmodified":1491896519,
     "wof:name":"W T Burden",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",

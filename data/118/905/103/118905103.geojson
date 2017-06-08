@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.782509,52.45097,-1.782509,52.45097",
     "geom:latitude":52.45097,
     "geom:longitude":-1.782509,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85791869,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"90e5ad0d591ef6f1e29f04a07c77a496",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791869,
             "region_id":85684283,
             "venue_id":118905103
         }
     ],
     "wof:id":118905103,
-    "wof:lastmodified":1472265691,
+    "wof:lastmodified":1491930513,
     "wof:name":"Crighton, B",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",

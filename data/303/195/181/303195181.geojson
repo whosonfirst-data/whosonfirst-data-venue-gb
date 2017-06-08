@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.309896,55.870991,-4.309896,55.870991",
     "geom:latitude":55.870991,
     "geom:longitude":-4.309896,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789735,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"25448508bcd292ff5763ffe133f3dbb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789735,
             "region_id":85684351,
             "venue_id":303195181
         }
     ],
     "wof:id":303195181,
-    "wof:lastmodified":1472257246,
+    "wof:lastmodified":1491912123,
     "wof:name":"Millers",
     "wof:parent_id":85789735,
     "wof:placetype":"venue",

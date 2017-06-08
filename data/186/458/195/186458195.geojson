@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.877121,52.464573,-1.877121,52.464573",
     "geom:latitude":52.464573,
     "geom:longitude":-1.877121,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786199,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"86b703f4f6c393f8d5941b6efa54ffc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786199,
             "region_id":85684283,
             "venue_id":186458195
         }
     ],
     "wof:id":186458195,
-    "wof:lastmodified":1472259399,
+    "wof:lastmodified":1491913085,
     "wof:name":"Parmer,M,",
     "wof:parent_id":85786199,
     "wof:placetype":"venue",

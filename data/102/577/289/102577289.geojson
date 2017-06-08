@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.923794,53.455704,-2.923794,53.455704",
     "geom:latitude":53.455704,
     "geom:longitude":-2.923794,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750547,
-        85633159,
         85787377,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
+        101750547,
         85684213
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"fb2bdbae48a590c74bb4ad169ebf03e0",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787377,
             "region_id":85684213,
             "venue_id":102577289
         }
     ],
     "wof:id":102577289,
-    "wof:lastmodified":1472254988,
+    "wof:lastmodified":1491906845,
     "wof:name":"The Cabin",
     "wof:parent_id":85787377,
     "wof:placetype":"venue",

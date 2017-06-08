@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.107511,51.541813,-0.107511,51.541813",
     "geom:latitude":51.541813,
     "geom:longitude":-0.107511,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85866373,
-        85684071
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"29f495517b68729996129a0ce31f5680",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85866373,
-            "region_id":85684071,
+            "region_id":85684061,
             "venue_id":135976793
         }
     ],
     "wof:id":135976793,
-    "wof:lastmodified":1472267891,
+    "wof:lastmodified":1491885117,
     "wof:name":"Smoking Dogs Films",
     "wof:parent_id":85866373,
     "wof:placetype":"venue",

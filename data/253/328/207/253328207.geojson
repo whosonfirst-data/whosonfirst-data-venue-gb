@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.762854,53.769535,-1.762854,53.769535",
     "geom:latitude":53.769535,
     "geom:longitude":-1.762854,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791453,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -43,16 +47,18 @@
     "wof:geomhash":"6fe79c2ad669f0103169c04bd887bb7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791453,
             "region_id":85684463,
             "venue_id":253328207
         }
     ],
     "wof:id":253328207,
-    "wof:lastmodified":1472259264,
+    "wof:lastmodified":1491905472,
     "wof:name":"Kwik Save Stores Ltd.",
     "wof:parent_id":85791453,
     "wof:placetype":"venue",

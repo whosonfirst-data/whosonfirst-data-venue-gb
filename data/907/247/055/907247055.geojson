@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.60988307,51.5028457642,-2.60988307,51.5028457642",
     "geom:latitude":51.502846,
     "geom:longitude":-2.609883,
@@ -28,16 +29,16 @@
     "sg:province":"City of Bristol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633159,
+        85785961,
+        85684423,
         85790479,
         "102191581",
         404431949,
         "85633159",
         404227469,
         101750389,
-        85683793,
-        85633159,
-        85785961,
-        85684423
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +49,12 @@
     "wof:geomhash":"c30a5b463d9ce969b7b9a74e662c58e2",
     "wof:hierarchy":[
         {
+            "country_id":85633159,
+            "neighbourhood_id":85785961,
+            "region_id":85684423,
+            "venue_id":907247055
+        },
+        {
             "continent_id":"102191581",
             "country_id":"85633159",
             "localadmin_id":404431949,
@@ -56,18 +63,12 @@
             "neighbourhood_id":85790479,
             "region_id":85683793,
             "venue_id":907247055
-        },
-        {
-            "country_id":85633159,
-            "neighbourhood_id":85785961,
-            "region_id":85684423,
-            "venue_id":907247055
         }
     ],
     "wof:id":907247055,
-    "wof:lastmodified":1472259938,
+    "wof:lastmodified":1491932145,
     "wof:name":"Trym School of Motoring",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

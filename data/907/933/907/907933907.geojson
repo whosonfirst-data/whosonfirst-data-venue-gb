@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.2695389986,51.5601577759,0.2695389986,51.5601577759",
     "geom:latitude":51.560158,
     "geom:longitude":0.269539,
@@ -33,16 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
-        85786861,
-        85684217,
         85791217,
         "102191581",
         404435563,
         "85633159",
         404227469,
         101750367,
-        85684061
+        85684061,
+        85633159,
+        85786861,
+        85684217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +54,6 @@
     "wof:geomhash":"a37e8d0524f6a4fab445e17fece3939c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
-            "neighbourhood_id":85786861,
-            "region_id":85684217,
-            "venue_id":907933907
-        },
-        {
             "continent_id":"102191581",
             "country_id":"85633159",
             "localadmin_id":404435563,
@@ -67,12 +62,18 @@
             "neighbourhood_id":85791217,
             "region_id":85684061,
             "venue_id":907933907
+        },
+        {
+            "country_id":85633159,
+            "neighbourhood_id":85786861,
+            "region_id":85684217,
+            "venue_id":907933907
         }
     ],
     "wof:id":907933907,
-    "wof:lastmodified":1472272082,
+    "wof:lastmodified":1491908666,
     "wof:name":"M Biggs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.543877,53.833248,-1.543877,53.833248",
     "geom:latitude":53.833248,
     "geom:longitude":-1.543877,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85786417,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"f61b7aeeb27c7c31f17b6471bbff0219",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786417,
             "region_id":85684321,
             "venue_id":118614765
         }
     ],
     "wof:id":118614765,
-    "wof:lastmodified":1472259007,
+    "wof:lastmodified":1491916809,
     "wof:name":"Holgate,Christopher,",
     "wof:parent_id":85786417,
     "wof:placetype":"venue",

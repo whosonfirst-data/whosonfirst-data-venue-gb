@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.195674,51.509792,-3.195674,51.509792",
     "geom:latitude":51.509792,
     "geom:longitude":-3.195674,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790971,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"c59851005e84814a4ec5161634d5e795",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85790971,
             "region_id":85683787,
             "venue_id":269609149
         }
     ],
     "wof:id":269609149,
-    "wof:lastmodified":1472256891,
+    "wof:lastmodified":1491936713,
     "wof:name":"John Kent",
     "wof:parent_id":85790971,
     "wof:placetype":"venue",

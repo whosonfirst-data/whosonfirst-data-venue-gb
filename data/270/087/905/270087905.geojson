@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.187474,55.946831,-3.187474,55.946831",
     "geom:latitude":55.946831,
     "geom:longitude":-3.187474,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792713,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"ba9d2e8ff1966d489f57d2889e52fe69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792713,
             "region_id":85684587,
             "venue_id":270087905
         }
     ],
     "wof:id":270087905,
-    "wof:lastmodified":1472256232,
+    "wof:lastmodified":1491885572,
     "wof:name":"Clan House of Edinburgh Ltd.",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",

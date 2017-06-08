@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.084842,51.478355,-0.084842,51.478355",
     "geom:latitude":51.478355,
     "geom:longitude":-0.084842,
@@ -28,10 +29,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786171,
-        85684289
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,18 @@
     "wof:geomhash":"027cf2d57762cd67c4c8a2207244a33b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786171,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":118611141
         }
     ],
     "wof:id":118611141,
-    "wof:lastmodified":1472258712,
+    "wof:lastmodified":1491921390,
     "wof:name":"Sevenseas Travel Ltd.",
     "wof:parent_id":85786171,
     "wof:placetype":"venue",

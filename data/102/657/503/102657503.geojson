@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.258619,51.550934,0.258619,51.550934",
     "geom:latitude":51.550934,
     "geom:longitude":0.258619,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791217,
-        85683841
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"81be708d0b5b5db24596842aa49fac7b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791217,
-            "region_id":85683841,
+            "region_id":85684061,
             "venue_id":102657503
         }
     ],
     "wof:id":102657503,
-    "wof:lastmodified":1472256875,
+    "wof:lastmodified":1491908641,
     "wof:name":"D Pulfer",
     "wof:parent_id":85791217,
     "wof:placetype":"venue",

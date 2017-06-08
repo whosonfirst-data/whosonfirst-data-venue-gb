@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.139229,51.507591,-0.139229,51.507591",
     "geom:latitude":51.507591,
     "geom:longitude":-0.139229,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861753,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"8a98f2db1d81e36b65082a6e63c82afd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861753,
             "region_id":85684061,
             "venue_id":186595063
         }
     ],
     "wof:id":186595063,
-    "wof:lastmodified":1472260729,
+    "wof:lastmodified":1491926426,
     "wof:name":"Phoenix Maritime Brokerage",
     "wof:parent_id":85861753,
     "wof:placetype":"venue",

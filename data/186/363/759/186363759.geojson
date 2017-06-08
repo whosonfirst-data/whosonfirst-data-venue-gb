@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.881422,52.477058,-1.881422,52.477058",
     "geom:latitude":52.477058,
     "geom:longitude":-1.881422,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792835,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"39e80ad16a3b888babb572b2c2b9b542",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792835,
             "region_id":85684283,
             "venue_id":186363759
         }
     ],
     "wof:id":186363759,
-    "wof:lastmodified":1472258200,
+    "wof:lastmodified":1491889888,
     "wof:name":"St. Basil's Centre Ltd.",
     "wof:parent_id":85792835,
     "wof:placetype":"venue",

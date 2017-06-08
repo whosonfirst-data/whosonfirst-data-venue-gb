@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.821631,52.496906,-1.821631,52.496906",
     "geom:latitude":52.496906,
     "geom:longitude":-1.821631,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791337,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"4b334af7413e9d82d784feb725ddb1f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791337,
             "region_id":85684283,
             "venue_id":186300529
         }
     ],
     "wof:id":186300529,
-    "wof:lastmodified":1472257545,
+    "wof:lastmodified":1491888647,
     "wof:name":"Petals Florist",
     "wof:parent_id":85791337,
     "wof:placetype":"venue",

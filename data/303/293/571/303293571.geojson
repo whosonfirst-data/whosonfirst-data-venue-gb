@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.929369,52.436878,-1.929369,52.436878",
     "geom:latitude":52.436878,
     "geom:longitude":-1.929369,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785881,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"eb3560bb3e4e97eceb15b97b6e6b74c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785881,
             "region_id":85684283,
             "venue_id":303293571
         }
     ],
     "wof:id":303293571,
-    "wof:lastmodified":1472258620,
+    "wof:lastmodified":1491893419,
     "wof:name":"Oakwood Property Services",
     "wof:parent_id":85785881,
     "wof:placetype":"venue",

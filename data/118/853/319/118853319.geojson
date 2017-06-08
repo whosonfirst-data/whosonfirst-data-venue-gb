@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.049967,51.457039,-0.049967,51.457039",
     "geom:latitude":51.457039,
     "geom:longitude":-0.049967,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85860519,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85792379,
-        85684289,
-        85860519
+        85684061,
+        85792379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +51,30 @@
     "wof:geomhash":"ae6db953f621fff92e954f75a4d7b62b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85792379,
-            "region_id":85684289,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860519,
+            "region_id":85684061,
             "venue_id":118853319
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85860519,
-            "region_id":85684289,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792379,
+            "region_id":85684061,
             "venue_id":118853319
         }
     ],
     "wof:id":118853319,
-    "wof:lastmodified":1472264963,
+    "wof:lastmodified":1491922356,
     "wof:name":"Concord Couriers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

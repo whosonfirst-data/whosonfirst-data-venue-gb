@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.21831,51.550613,-0.21831,51.550613",
     "geom:latitude":51.550613,
     "geom:longitude":-0.21831,
@@ -40,10 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85869863,
-        85684003
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +57,18 @@
     "wof:geomhash":"650830c2cedad3e9811cb38f4e6be9c2",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869863,
-            "region_id":85684003,
+            "region_id":85684061,
             "venue_id":119510447
         }
     ],
     "wof:id":119510447,
-    "wof:lastmodified":1472267239,
+    "wof:lastmodified":1491908512,
     "wof:name":"Paola Cortucci",
     "wof:parent_id":85869863,
     "wof:placetype":"venue",

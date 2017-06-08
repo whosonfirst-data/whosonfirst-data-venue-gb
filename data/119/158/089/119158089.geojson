@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.026714,51.534344,0.026714,51.534344",
     "geom:latitude":51.534344,
     "geom:longitude":0.026714,
@@ -28,10 +29,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789849,
-        85684411
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,18 @@
     "wof:geomhash":"e21af1b27d33f8414a1608750294c128",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789849,
-            "region_id":85684411,
+            "region_id":85684061,
             "venue_id":119158089
         }
     ],
     "wof:id":119158089,
-    "wof:lastmodified":1472262153,
+    "wof:lastmodified":1491906565,
     "wof:name":"Ernest School of Motoring",
     "wof:parent_id":85789849,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.212631,53.468182,-2.212631,53.468182",
     "geom:latitude":53.468182,
     "geom:longitude":-2.212631,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750525,
-        85633159,
         85785331,
+        "102191581",
+        404431331,
+        "85633159",
+        404227469,
+        101750525,
         85683651
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"854a69562b47bdf02771473834338ee8",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431331,
             "locality_id":101750525,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785331,
             "region_id":85683651,
             "venue_id":135563753
         }
     ],
     "wof:id":135563753,
-    "wof:lastmodified":1472265292,
+    "wof:lastmodified":1491910419,
     "wof:name":"The Star",
     "wof:parent_id":85785331,
     "wof:placetype":"venue",

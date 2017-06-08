@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.854746,52.411064,-1.854746,52.411064",
     "geom:latitude":52.411064,
     "geom:longitude":-1.854746,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85791873,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"c41d31fbe61a02c71dfe93561744d51b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791873,
             "region_id":85684283,
             "venue_id":136188087
         }
     ],
     "wof:id":136188087,
-    "wof:lastmodified":1472262697,
+    "wof:lastmodified":1491932989,
     "wof:name":"A & J Photography",
     "wof:parent_id":85791873,
     "wof:placetype":"venue",

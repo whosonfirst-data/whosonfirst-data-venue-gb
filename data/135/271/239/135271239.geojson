@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.160818,51.545059,0.160818,51.545059",
     "geom:latitude":51.545059,
     "geom:longitude":0.160818,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786939,
-        85683637
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"bf3aebf396bbcaa22aebf24c8b772056",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786939,
-            "region_id":85683637,
+            "region_id":85684061,
             "venue_id":135271239
         }
     ],
     "wof:id":135271239,
-    "wof:lastmodified":1472255021,
+    "wof:lastmodified":1491910710,
     "wof:name":"Bailes & Kidley Ltd.",
     "wof:parent_id":85786939,
     "wof:placetype":"venue",

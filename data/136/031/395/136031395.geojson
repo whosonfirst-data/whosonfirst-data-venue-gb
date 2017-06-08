@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.402584,55.853123,-4.402584,55.853123",
     "geom:latitude":55.853123,
     "geom:longitude":-4.402584,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101913923,
-        85633159,
         85792475,
+        "102191581",
+        404432463,
+        "85633159",
+        404227471,
+        101913923,
         85684039
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"8d8348816acf628c926c828e79a830d4",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432463,
             "locality_id":101913923,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792475,
             "region_id":85684039,
             "venue_id":136031395
         }
     ],
     "wof:id":136031395,
-    "wof:lastmodified":1472255705,
+    "wof:lastmodified":1491912836,
     "wof:name":"David Haggarty",
     "wof:parent_id":85792475,
     "wof:placetype":"venue",

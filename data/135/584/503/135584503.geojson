@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.945566,52.507595,-1.945566,52.507595",
     "geom:latitude":52.507595,
     "geom:longitude":-1.945566,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914045,
-        85633159,
         85787515,
+        "102191581",
+        404446943,
+        "85633159",
+        404227469,
+        101914045,
         85684511
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"6f2356cafa701cc6f03b11c1327da4f2",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
             "locality_id":101914045,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787515,
             "region_id":85684511,
             "venue_id":135584503
         }
     ],
     "wof:id":135584503,
-    "wof:lastmodified":1472265314,
+    "wof:lastmodified":1491936067,
     "wof:name":"Yeo,A G,",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",

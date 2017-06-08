@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.526376,53.843964,-1.526376,53.843964",
     "geom:latitude":53.843964,
     "geom:longitude":-1.526376,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792881,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"9223eb0de19695350642338441eddf9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792881,
             "region_id":85684321,
             "venue_id":270380099
         }
     ],
     "wof:id":270380099,
-    "wof:lastmodified":1472259660,
+    "wof:lastmodified":1491906651,
     "wof:name":"Cresta Guest House",
     "wof:parent_id":85792881,
     "wof:placetype":"venue",

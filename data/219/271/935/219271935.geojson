@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.205509,51.580982,0.205509,51.580982",
     "geom:latitude":51.580982,
     "geom:longitude":0.205509,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85865131,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683841
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,18 @@
     "wof:geomhash":"5c44b05603bf730b9140ddb3297289a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85865131,
-            "region_id":85683841,
+            "region_id":85684061,
             "venue_id":219271935
         }
     ],
     "wof:id":219271935,
-    "wof:lastmodified":1472256526,
+    "wof:lastmodified":1491901135,
     "wof:name":"Julies Wool Shop",
     "wof:parent_id":85865131,
     "wof:placetype":"venue",

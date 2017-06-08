@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.759346,53.782494,-1.759346,53.782494",
     "geom:latitude":53.782494,
     "geom:longitude":-1.759346,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791453,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"6fd8b4fe54dc7d3ed2cc0cd6b25f67ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791453,
             "region_id":85684463,
             "venue_id":202420057
         }
     ],
     "wof:id":202420057,
-    "wof:lastmodified":1472255378,
+    "wof:lastmodified":1491905468,
     "wof:name":"St. Josephs Church",
     "wof:parent_id":85791453,
     "wof:placetype":"venue",

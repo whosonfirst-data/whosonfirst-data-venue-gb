@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.401615,51.665504,-0.401615,51.665504",
     "geom:latitude":51.665504,
     "geom:longitude":-0.401615,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860799,
-        85633159,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
         101751603,
         85684331
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"16ad33ed715f33ae7464d94d09fb4086",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
             "locality_id":101751603,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":253615895
         }
     ],
     "wof:id":253615895,
-    "wof:lastmodified":1472263983,
+    "wof:lastmodified":1491931574,
     "wof:name":"Capital Amusements (West) Ltd.",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",

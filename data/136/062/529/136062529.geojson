@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.238089,51.400913,-0.238089,51.400913",
     "geom:latitude":51.400913,
     "geom:longitude":-0.238089,
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860327,
-        85684099
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +56,18 @@
     "wof:geomhash":"76e7e53a64fbe0b0901d294241235119",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860327,
-            "region_id":85684099,
+            "region_id":85684061,
             "venue_id":136062529
         }
     ],
     "wof:id":136062529,
-    "wof:lastmodified":1472257551,
+    "wof:lastmodified":1491885887,
     "wof:name":"Racsel Building Services Ltd.",
     "wof:parent_id":85860327,
     "wof:placetype":"venue",

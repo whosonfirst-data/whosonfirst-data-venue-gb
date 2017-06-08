@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.297841,55.89465,-4.297841,55.89465",
     "geom:latitude":55.89465,
     "geom:longitude":-4.297841,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789015,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"3071bbf4a1b13932ae5e832b0ed8ab93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789015,
             "region_id":85684351,
             "venue_id":252832933
         }
     ],
     "wof:id":252832933,
-    "wof:lastmodified":1472256362,
+    "wof:lastmodified":1491934479,
     "wof:name":"First Quench Retailing Ltd.",
     "wof:parent_id":85789015,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.961075,53.393333,-2.961075,53.393333",
     "geom:latitude":53.393333,
     "geom:longitude":-2.961075,
@@ -29,9 +30,12 @@
     "sg:province":"Merseyside",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750547,
-        85633159,
         85791115,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
+        101750547,
         85684213
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"00d869ba52a3c7174424120508cc5a88",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791115,
             "region_id":85684213,
             "venue_id":119309179
         }
     ],
     "wof:id":119309179,
-    "wof:lastmodified":1472265501,
+    "wof:lastmodified":1491912886,
     "wof:name":"Adullam Homes Princes Project",
     "wof:parent_id":85791115,
     "wof:placetype":"venue",

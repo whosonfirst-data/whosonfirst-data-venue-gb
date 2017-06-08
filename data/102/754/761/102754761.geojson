@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.155077,52.571732,-2.155077,52.571732",
     "geom:latitude":52.571732,
     "geom:longitude":-2.155077,
@@ -29,9 +30,12 @@
     "sg:province":"Staffordshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914031,
-        85633159,
         85785907,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
+        101914031,
         85683801
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"14aa4ed218e254e1021b5bd93d3f2901",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785907,
             "region_id":85683801,
             "venue_id":102754761
         }
     ],
     "wof:id":102754761,
-    "wof:lastmodified":1472260305,
+    "wof:lastmodified":1491914472,
     "wof:name":"Whites Flowers & Plant Centre",
     "wof:parent_id":85785907,
     "wof:placetype":"venue",

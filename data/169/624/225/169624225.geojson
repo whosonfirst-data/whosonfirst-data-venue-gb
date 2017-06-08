@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.105971,52.472771,-2.105971,52.472771",
     "geom:latitude":52.472771,
     "geom:longitude":-2.105971,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789987,
-        85633159,
+        "102191581",
+        404451925,
+        "85633159",
+        404227469,
         101914027,
         85684449
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"a5c614ff67c845c52de3bab18e474b8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404451925,
             "locality_id":101914027,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789987,
             "region_id":85684449,
             "venue_id":169624225
         }
     ],
     "wof:id":169624225,
-    "wof:lastmodified":1472255194,
+    "wof:lastmodified":1491910018,
     "wof:name":"Mary's Fashions",
     "wof:parent_id":85789987,
     "wof:placetype":"venue",

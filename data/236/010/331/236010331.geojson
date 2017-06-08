@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.114401,52.475685,-2.114401,52.475685",
     "geom:latitude":52.475685,
     "geom:longitude":-2.114401,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786993,
-        85633159,
+        "102191581",
+        404451925,
+        "85633159",
+        404227469,
         101914027,
         85684449,
         85789987
@@ -46,26 +50,30 @@
     "wof:geomhash":"42b21e612d89c9f8cb042ea23f98ccae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404451925,
             "locality_id":101914027,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786993,
             "region_id":85684449,
             "venue_id":236010331
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404451925,
             "locality_id":101914027,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789987,
             "region_id":85684449,
             "venue_id":236010331
         }
     ],
     "wof:id":236010331,
-    "wof:lastmodified":1472255054,
+    "wof:lastmodified":1491910014,
     "wof:name":"Accountability",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

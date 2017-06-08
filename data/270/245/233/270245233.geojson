@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.805158,52.472099,-1.805158,52.472099",
     "geom:latitude":52.472099,
     "geom:longitude":-1.805158,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791869,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"ac9cbdc159f6fb7eb3ab4161f9022d1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791869,
             "region_id":85684283,
             "venue_id":270245233
         }
     ],
     "wof:id":270245233,
-    "wof:lastmodified":1472257957,
+    "wof:lastmodified":1491930522,
     "wof:name":"Just Landscapes & Developments",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.27988,53.504028,-2.27988,53.504028",
     "geom:latitude":53.504028,
     "geom:longitude":-2.27988,
@@ -29,9 +30,12 @@
     "sg:province":"Greater Manchester",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101913951,
-        85633159,
         85793009,
+        "102191581",
+        404450245,
+        "85633159",
+        404227469,
+        101913951,
         85684495
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"5e5e67adf60a1e58d85d108bfe89f147",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101913951,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793009,
             "region_id":85684495,
             "venue_id":119239859
         }
     ],
     "wof:id":119239859,
-    "wof:lastmodified":1472265353,
+    "wof:lastmodified":1491921910,
     "wof:name":"Littleton Road Sub Post Office",
     "wof:parent_id":85793009,
     "wof:placetype":"venue",

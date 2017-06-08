@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.230869,51.447281,0.230869,51.447281",
     "geom:latitude":51.447281,
     "geom:longitude":0.230869,
@@ -34,9 +35,12 @@
     "sg:website":"http://www.earc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914069,
-        85633159,
         85860071,
+        "102191581",
+        404437981,
+        "85633159",
+        404227469,
+        101914069,
         85684363
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"9044ddef0ff7679a7b71bbb4f96851b4",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437981,
             "locality_id":101914069,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860071,
             "region_id":85684363,
             "venue_id":135611763
         }
     ],
     "wof:id":135611763,
-    "wof:lastmodified":1472265393,
+    "wof:lastmodified":1491889365,
     "wof:name":"Enterprise Rent-A-Car UK Ltd",
     "wof:parent_id":85860071,
     "wof:placetype":"venue",

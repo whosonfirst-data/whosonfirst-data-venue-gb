@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.169859,53.378723,-2.169859,53.378723",
     "geom:latitude":53.378723,
     "geom:longitude":-2.169859,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786499,
-        85633159,
+        "102191581",
+        404444839,
+        "85633159",
+        404227469,
         101750527,
         85683899,
         85785933
@@ -46,26 +50,30 @@
     "wof:geomhash":"7367d963a02153897188e7184f113d43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444839,
             "locality_id":101750527,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786499,
             "region_id":85683899,
             "venue_id":320423801
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444839,
             "locality_id":101750527,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785933,
             "region_id":85683899,
             "venue_id":320423801
         }
     ],
     "wof:id":320423801,
-    "wof:lastmodified":1472262327,
+    "wof:lastmodified":1491924867,
     "wof:name":"Bass Taverns Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

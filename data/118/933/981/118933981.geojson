@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.170794,55.853119,-4.170794,55.853119",
     "geom:latitude":55.853119,
     "geom:longitude":-4.170794,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85790555,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"44785f516e2e2f0d700b65f0b821e632",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":118933981
         }
     ],
     "wof:id":118933981,
-    "wof:lastmodified":1472265835,
+    "wof:lastmodified":1491897839,
     "wof:name":"Town Social & Recreation Club",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

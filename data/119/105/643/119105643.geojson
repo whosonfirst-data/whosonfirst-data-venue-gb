@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.015798,52.566612,-2.015798,52.566612",
     "geom:latitude":52.566612,
     "geom:longitude":-2.015798,
@@ -28,9 +29,12 @@
     "sg:province":"West Midlands",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914035,
-        85633159,
         85791909,
+        "102191581",
+        404439659,
+        "85633159",
+        404227469,
+        101914035,
         85684155
     ],
     "wof:breaches":[],
@@ -41,15 +45,18 @@
     "wof:geomhash":"dde8b8d5002e62adc83805a424a82ccc",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439659,
             "locality_id":101914035,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791909,
             "region_id":85684155,
             "venue_id":119105643
         }
     ],
     "wof:id":119105643,
-    "wof:lastmodified":1472259190,
+    "wof:lastmodified":1491936406,
     "wof:name":"The Crazy Daisy",
     "wof:parent_id":85791909,
     "wof:placetype":"venue",

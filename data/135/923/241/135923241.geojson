@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.01522,51.531818,-0.01522,51.531818",
     "geom:latitude":51.531818,
     "geom:longitude":-0.01522,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785887,
-        85684467
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"0dea97b893c1402fb4f8a7b63c04a32c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785887,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":135923241
         }
     ],
     "wof:id":135923241,
-    "wof:lastmodified":1472267670,
+    "wof:lastmodified":1491919673,
     "wof:name":"W J Curley & Sons Ltd.",
     "wof:parent_id":85785887,
     "wof:placetype":"venue",

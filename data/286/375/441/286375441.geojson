@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.836618,52.436409,-1.836618,52.436409",
     "geom:latitude":52.436409,
     "geom:longitude":-1.836618,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785211,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"d8d0e16833ddfcee8c3253c909a9247a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785211,
             "region_id":85684283,
             "venue_id":286375441
         }
     ],
     "wof:id":286375441,
-    "wof:lastmodified":1472256179,
+    "wof:lastmodified":1491896457,
     "wof:name":"David Murphy & Co",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",

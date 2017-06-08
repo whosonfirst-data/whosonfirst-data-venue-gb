@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.402979,51.658718,-0.402979,51.658718",
     "geom:latitude":51.658718,
     "geom:longitude":-0.402979,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860799,
-        85633159,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
         101751603,
         85684331
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"6e400812c835e8c9edef23d40fb388c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
             "locality_id":101751603,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":286842481
         }
     ],
     "wof:id":286842481,
-    "wof:lastmodified":1472262793,
+    "wof:lastmodified":1491931580,
     "wof:name":"Saunders & Dollimore",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",

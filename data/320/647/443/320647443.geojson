@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.701658,53.85994,-1.701658,53.85994",
     "geom:latitude":53.85994,
     "geom:longitude":-1.701658,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85790941,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -45,18 +47,17 @@
     "wof:geomhash":"4411347a2816678b5eae91cf0d34400b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85790941,
+            "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":320647443
         }
     ],
     "wof:id":320647443,
-    "wof:lastmodified":1472264460,
+    "wof:lastmodified":1491932562,
     "wof:name":"A Ibbetson",
-    "wof:parent_id":85790941,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

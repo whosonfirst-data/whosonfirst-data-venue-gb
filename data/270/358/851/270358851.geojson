@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.204269,51.480373,-0.204269,51.480373",
     "geom:latitude":51.480373,
     "geom:longitude":-0.204269,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787549,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684299
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"4da58636e7fcf0f38cda56e8358a37e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787549,
-            "region_id":85684299,
+            "region_id":85684061,
             "venue_id":270358851
         }
     ],
     "wof:id":270358851,
-    "wof:lastmodified":1472259485,
+    "wof:lastmodified":1491937217,
     "wof:name":"Harrison Bros",
     "wof:parent_id":85787549,
     "wof:placetype":"venue",

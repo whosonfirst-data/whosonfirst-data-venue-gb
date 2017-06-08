@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.911738,52.485477,-1.911738,52.485477",
     "geom:latitude":52.485477,
     "geom:longitude":-1.911738,
@@ -29,9 +30,12 @@
     "sg:province":"West Midlands",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85792837,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:brand_id":420574265,
@@ -43,15 +47,18 @@
     "wof:geomhash":"aa6e704756d07c7a0d36bc8d52a6d8ba",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792837,
             "region_id":85684283,
             "venue_id":135559519
         }
     ],
     "wof:id":135559519,
-    "wof:lastmodified":1472265253,
+    "wof:lastmodified":1491929222,
     "wof:name":"NatWest",
     "wof:parent_id":85792837,
     "wof:placetype":"venue",

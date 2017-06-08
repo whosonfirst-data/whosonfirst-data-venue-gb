@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.188344,51.476437,-3.188344,51.476437",
     "geom:latitude":51.476437,
     "geom:longitude":-3.188344,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750397,
-        85633159,
         85861435,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
+        101750397,
         85683787
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"7c43e54743a105a6d845487eb0550b0c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861435,
             "region_id":85683787,
             "venue_id":135372727
         }
     ],
     "wof:id":135372727,
-    "wof:lastmodified":1472259658,
+    "wof:lastmodified":1491886814,
     "wof:name":"R W Evans Automobile Paint Refinishers",
     "wof:parent_id":85861435,
     "wof:placetype":"venue",

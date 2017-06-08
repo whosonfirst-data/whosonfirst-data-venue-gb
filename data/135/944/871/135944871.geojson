@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.110489,51.590813,-0.110489,51.590813",
     "geom:latitude":51.590813,
     "geom:longitude":-0.110489,
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791751,
-        85684121
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +55,18 @@
     "wof:geomhash":"06616a9d06f1007cfc18b51f6165c172",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791751,
-            "region_id":85684121,
+            "region_id":85684061,
             "venue_id":135944871
         }
     ],
     "wof:id":135944871,
-    "wof:lastmodified":1472267778,
+    "wof:lastmodified":1491896685,
     "wof:name":"Alan Heath",
     "wof:parent_id":85791751,
     "wof:placetype":"venue",

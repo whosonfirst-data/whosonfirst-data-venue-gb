@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.213431,55.871933,-4.213431,55.871933",
     "geom:latitude":55.871933,
     "geom:longitude":-4.213431,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85785321,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"0dcd202d7b7430c26eb1c60a1c690311",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85785321,
             "region_id":85684351,
             "venue_id":135707397
         }
     ],
     "wof:id":135707397,
-    "wof:lastmodified":1472266664,
+    "wof:lastmodified":1491920195,
     "wof:name":"Mobile Intelligence Ltd",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",

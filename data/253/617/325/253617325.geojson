@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.284316,55.885094,-4.284316,55.885094",
     "geom:latitude":55.885094,
     "geom:longitude":-4.284316,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789015,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"ea734689cbe1bbfa6830d938e56d75e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789015,
             "region_id":85684351,
             "venue_id":253617325
         }
     ],
     "wof:id":253617325,
-    "wof:lastmodified":1472264039,
+    "wof:lastmodified":1491934476,
     "wof:name":"Scottish Squash Rackets Club",
     "wof:parent_id":85789015,
     "wof:placetype":"venue",

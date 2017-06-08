@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.122996,51.623993,-0.122996,51.623993",
     "geom:latitude":51.623993,
     "geom:longitude":-0.122996,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789349,
-        85684381
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"dbfecb0d3cd5a6b0d43e37a65925f647",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789349,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":119505607
         }
     ],
     "wof:id":119505607,
-    "wof:lastmodified":1472267087,
+    "wof:lastmodified":1491934904,
     "wof:name":"New York Hair & Beauty Spa The",
     "wof:parent_id":85789349,
     "wof:placetype":"venue",

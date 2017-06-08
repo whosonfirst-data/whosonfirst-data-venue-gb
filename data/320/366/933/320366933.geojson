@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.299809,51.563541,-0.299809,51.563541",
     "geom:latitude":51.563541,
     "geom:longitude":-0.299809,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789933,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684003
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"db26866590ccfd49d2763944b216a3a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789933,
-            "region_id":85684003,
+            "region_id":85684061,
             "venue_id":320366933
         }
     ],
     "wof:id":320366933,
-    "wof:lastmodified":1472260837,
+    "wof:lastmodified":1491938393,
     "wof:name":"Mallory Metals Ltd",
     "wof:parent_id":85789933,
     "wof:placetype":"venue",

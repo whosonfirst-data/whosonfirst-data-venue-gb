@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.089511,51.470425,-0.089511,51.470425",
     "geom:latitude":51.470425,
     "geom:longitude":-0.089511,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786171,
-        85684289
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"41c47fb52d360494320765edecc2bc8d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786171,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":119112203
         }
     ],
     "wof:id":119112203,
-    "wof:lastmodified":1472259855,
+    "wof:lastmodified":1491921361,
     "wof:name":"Metropolitan Housing Trust",
     "wof:parent_id":85786171,
     "wof:placetype":"venue",

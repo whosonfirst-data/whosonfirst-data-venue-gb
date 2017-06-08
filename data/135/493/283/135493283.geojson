@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.187939,51.541344,-0.187939,51.541344",
     "geom:latitude":51.541344,
     "geom:longitude":-0.187939,
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860461,
-        85684597
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +54,18 @@
     "wof:geomhash":"88d298f4900627ab0ca76aa765353f50",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860461,
-            "region_id":85684597,
+            "region_id":85684061,
             "venue_id":135493283
         }
     ],
     "wof:id":135493283,
-    "wof:lastmodified":1472264502,
+    "wof:lastmodified":1491896905,
     "wof:name":"Stephen Budd Management Ltd.",
     "wof:parent_id":85860461,
     "wof:placetype":"venue",

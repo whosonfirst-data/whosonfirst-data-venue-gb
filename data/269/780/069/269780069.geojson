@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.453961,53.380295,-1.453961,53.380295",
     "geom:latitude":53.380295,
     "geom:longitude":-1.453961,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85785403,
-        85633159,
+        85793111,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537,
-        85793111
+        85785403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +51,30 @@
     "wof:geomhash":"c1282b769d6a7b563d8356a0e1f79800",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
-            "neighbourhood_id":85785403,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85793111,
             "region_id":85684537,
             "venue_id":269780069
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
-            "neighbourhood_id":85793111,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":269780069
         }
     ],
     "wof:id":269780069,
-    "wof:lastmodified":1472259776,
+    "wof:lastmodified":1491907117,
     "wof:name":"Earl Francis The",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

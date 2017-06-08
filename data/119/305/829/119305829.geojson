@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.369662,54.942692,-1.369662,54.942692",
     "geom:latitude":54.942692,
     "geom:longitude":-1.369662,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101872337,
-        85633159,
         85793177,
+        "102191581",
+        404435809,
+        "85633159",
+        404227469,
+        101872337,
         85684395
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"525a920e5d48e53ce11ba1ab202bd5a0",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435809,
             "locality_id":101872337,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793177,
             "region_id":85684395,
             "venue_id":119305829
         }
     ],
     "wof:id":119305829,
-    "wof:lastmodified":1472265612,
+    "wof:lastmodified":1491893089,
     "wof:name":"Stuart Finlay",
     "wof:parent_id":85793177,
     "wof:placetype":"venue",

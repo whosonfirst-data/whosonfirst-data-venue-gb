@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.129722,51.648556,-0.129722,51.648556",
     "geom:latitude":51.648556,
     "geom:longitude":-0.129722,
@@ -32,9 +33,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860339,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684381
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,18 @@
     "wof:geomhash":"bd0f443e1100f03251f8308b8c590a9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860339,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":186199295
         }
     ],
     "wof:id":186199295,
-    "wof:lastmodified":1472256647,
+    "wof:lastmodified":1491915513,
     "wof:name":"Oakwood Deli",
     "wof:parent_id":85860339,
     "wof:placetype":"venue",

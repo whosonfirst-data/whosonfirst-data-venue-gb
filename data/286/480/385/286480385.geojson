@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.85671,53.37907,-2.85671,53.37907",
     "geom:latitude":53.37907,
     "geom:longitude":-2.85671,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787569,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"847af2ef9b14817954eb87474fdcf87a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787569,
             "region_id":85684213,
             "venue_id":286480385
         }
     ],
     "wof:id":286480385,
-    "wof:lastmodified":1472257790,
+    "wof:lastmodified":1491886923,
     "wof:name":"Sant & Co",
     "wof:parent_id":85787569,
     "wof:placetype":"venue",

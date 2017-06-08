@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.015479,51.47237,-0.015479,51.47237",
     "geom:latitude":51.47237,
     "geom:longitude":-0.015479,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860515,
-        85683707
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"f5a35903198b35ac7e4e9a30eeffdc52",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860515,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":135337205
         }
     ],
     "wof:id":135337205,
-    "wof:lastmodified":1472258263,
+    "wof:lastmodified":1491896183,
     "wof:name":"Hair Trends",
     "wof:parent_id":85860515,
     "wof:placetype":"venue",

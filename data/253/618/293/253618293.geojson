@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.306553,55.870758,-4.306553,55.870758",
     "geom:latitude":55.870758,
     "geom:longitude":-4.306553,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789735,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"c8964733da6648d6fa5741b81087e478",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789735,
             "region_id":85684351,
             "venue_id":253618293
         }
     ],
     "wof:id":253618293,
-    "wof:lastmodified":1472264055,
+    "wof:lastmodified":1491912114,
     "wof:name":"Chapati 3",
     "wof:parent_id":85789735,
     "wof:placetype":"venue",

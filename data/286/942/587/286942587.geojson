@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.15583,51.471725,0.15583,51.471725",
     "geom:latitude":51.471725,
     "geom:longitude":0.15583,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789501,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683763
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,18 @@
     "wof:geomhash":"3f26d01cc97dd1ee5ad4e9777dbca545",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789501,
-            "region_id":85683763,
+            "region_id":85684061,
             "venue_id":286942587
         }
     ],
     "wof:id":286942587,
-    "wof:lastmodified":1472263990,
+    "wof:lastmodified":1491920378,
     "wof:name":"Tripleplas Machinery Sales Ltd.",
     "wof:parent_id":85789501,
     "wof:placetype":"venue",

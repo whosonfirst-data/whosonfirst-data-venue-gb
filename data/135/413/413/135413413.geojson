@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.324164,55.893959,-4.324164,55.893959",
     "geom:latitude":55.893959,
     "geom:longitude":-4.324164,
@@ -41,9 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85785315,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -54,15 +58,18 @@
     "wof:geomhash":"c4522dc76bc229b087fcd7b70e0147e4",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85785315,
             "region_id":85684351,
             "venue_id":135413413
         }
     ],
     "wof:id":135413413,
-    "wof:lastmodified":1472262077,
+    "wof:lastmodified":1491934527,
     "wof:name":"Chip Chik Inn",
     "wof:parent_id":85785315,
     "wof:placetype":"venue",

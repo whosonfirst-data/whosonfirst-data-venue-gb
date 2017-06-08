@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.233269,51.484772,-3.233269,51.484772",
     "geom:latitude":51.484772,
     "geom:longitude":-3.233269,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750397,
-        85633159,
         85861055,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
+        101750397,
         85683787
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"6293f87f66faf880ecc40e89267e466a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861055,
             "region_id":85683787,
             "venue_id":119281873
         }
     ],
     "wof:id":119281873,
-    "wof:lastmodified":1472265596,
+    "wof:lastmodified":1491937721,
     "wof:name":"Severn Chemicals Ltd.",
     "wof:parent_id":85861055,
     "wof:placetype":"venue",

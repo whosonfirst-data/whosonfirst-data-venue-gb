@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.104666,51.601974,-0.104666,51.601974",
     "geom:latitude":51.601974,
     "geom:longitude":-0.104666,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791751,
-        85684121
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"c52f70e859575ecf65b9655e50338d53",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791751,
-            "region_id":85684121,
+            "region_id":85684061,
             "venue_id":118981405
         }
     ],
     "wof:id":118981405,
-    "wof:lastmodified":1472265997,
+    "wof:lastmodified":1491896687,
     "wof:name":"G G B (Italian Car Spares) Ltd",
     "wof:parent_id":85791751,
     "wof:placetype":"venue",

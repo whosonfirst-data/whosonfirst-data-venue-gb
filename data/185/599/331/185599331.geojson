@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.17753,55.971012,-3.17753,55.971012",
     "geom:latitude":55.971012,
     "geom:longitude":-3.17753,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861481,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"9c5b50c74880b28fe4e5c58d2e4b5252",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":185599331
         }
     ],
     "wof:id":185599331,
-    "wof:lastmodified":1472254963,
+    "wof:lastmodified":1491933653,
     "wof:name":"The Snack Box",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

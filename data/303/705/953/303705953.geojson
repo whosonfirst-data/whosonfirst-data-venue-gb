@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.078795,51.562229,-0.078795,51.562229",
     "geom:latitude":51.562229,
     "geom:longitude":-0.078795,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790769,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683683
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"c396b119483a899939e7275d9fa9ef34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790769,
-            "region_id":85683683,
+            "region_id":85684061,
             "venue_id":303705953
         }
     ],
     "wof:id":303705953,
-    "wof:lastmodified":1472264405,
+    "wof:lastmodified":1491889512,
     "wof:name":"Steptoes",
     "wof:parent_id":85790769,
     "wof:placetype":"venue",

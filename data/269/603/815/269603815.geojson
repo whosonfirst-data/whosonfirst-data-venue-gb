@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.407968,54.905376,-1.407968,54.905376",
     "geom:latitude":54.905376,
     "geom:longitude":-1.407968,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793169,
-        85633159,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
         101750611,
         85684483
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"f24b1752b0c2ea9c371a10708845c0bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793169,
             "region_id":85684483,
             "venue_id":269603815
         }
     ],
     "wof:id":269603815,
-    "wof:lastmodified":1472256747,
+    "wof:lastmodified":1491935439,
     "wof:name":"William Scott & Son (Sculptors)",
     "wof:parent_id":85793169,
     "wof:placetype":"venue",

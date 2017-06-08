@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.94361,53.46217,-2.94361,53.46217",
     "geom:latitude":53.46217,
     "geom:longitude":-2.94361,
@@ -47,9 +48,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750547,
-        85633159,
         85787377,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
+        101750547,
         85684213
     ],
     "wof:breaches":[],
@@ -60,15 +64,18 @@
     "wof:geomhash":"0307a8c4862b94afe69e5f9b38cbd69f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787377,
             "region_id":85684213,
             "venue_id":119026513
         }
     ],
     "wof:id":119026513,
-    "wof:lastmodified":1472255376,
+    "wof:lastmodified":1491906844,
     "wof:name":"The Jacob's Bakery Ltd.",
     "wof:parent_id":85787377,
     "wof:placetype":"venue",

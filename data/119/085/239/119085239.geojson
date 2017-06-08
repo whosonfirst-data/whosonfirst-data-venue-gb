@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.946617,52.487259,-1.946617,52.487259",
     "geom:latitude":52.487259,
     "geom:longitude":-1.946617,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914045,
-        85633159,
         85787515,
+        "102191581",
+        404446943,
+        "85633159",
+        404227469,
+        101914045,
         85684511
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"79e99661c4e6a8bafe348aa78117effc",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
             "locality_id":101914045,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787515,
             "region_id":85684511,
             "venue_id":119085239
         }
     ],
     "wof:id":119085239,
-    "wof:lastmodified":1472258409,
+    "wof:lastmodified":1491936137,
     "wof:name":"Younis Fashions & General Store",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",

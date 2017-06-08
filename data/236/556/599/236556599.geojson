@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.020109,52.581421,-2.020109,52.581421",
     "geom:latitude":52.581421,
     "geom:longitude":-2.020109,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791909,
-        85633159,
+        "102191581",
+        404439659,
+        "85633159",
+        404227469,
         101914035,
         85684155
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"c33dd76505442416680e696b711005c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439659,
             "locality_id":101914035,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791909,
             "region_id":85684155,
             "venue_id":236556599
         }
     ],
     "wof:id":236556599,
-    "wof:lastmodified":1472261360,
+    "wof:lastmodified":1491936413,
     "wof:name":"U K Steel",
     "wof:parent_id":85791909,
     "wof:placetype":"venue",

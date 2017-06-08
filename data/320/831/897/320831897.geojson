@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.821967,52.446365,-1.821967,52.446365",
     "geom:latitude":52.446365,
     "geom:longitude":-1.821967,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785211,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"89ff77012aa46daa55f32face24a924f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785211,
             "region_id":85684283,
             "venue_id":320831897
         }
     ],
     "wof:id":320831897,
-    "wof:lastmodified":1472265512,
+    "wof:lastmodified":1491896476,
     "wof:name":"Birmingham Midshires",
     "wof:parent_id":85785211,
     "wof:placetype":"venue",

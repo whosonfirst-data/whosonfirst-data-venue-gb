@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.609299,54.98027,-1.609299,54.98027",
     "geom:latitude":54.98027,
     "geom:longitude":-1.609299,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750617,
-        85633159,
         85861867,
+        "102191581",
+        404440729,
+        "85633159",
+        404227469,
+        101750617,
         85683691
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"875929dde9831e46b019f532e31c8e77",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404440729,
             "locality_id":101750617,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861867,
             "region_id":85683691,
             "venue_id":135456991
         }
     ],
     "wof:id":135456991,
-    "wof:lastmodified":1472264159,
+    "wof:lastmodified":1491887693,
     "wof:name":"EuroInfoCentre",
     "wof:parent_id":85861867,
     "wof:placetype":"venue",

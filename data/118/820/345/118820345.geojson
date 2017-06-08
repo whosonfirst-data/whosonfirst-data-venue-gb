@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.07791,51.512001,-0.07791,51.512001",
     "geom:latitude":51.512001,
     "geom:longitude":-0.07791,
@@ -28,12 +29,14 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861829,
-        85684467,
-        85861625,
-        85684081
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061,
+        85861625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +46,30 @@
     "wof:geomhash":"9552ccc2d622fe6c53c6d3a7f380c281",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861829,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":118820345
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861625,
-            "region_id":85684081,
+            "region_id":85684061,
             "venue_id":118820345
         }
     ],
     "wof:id":118820345,
-    "wof:lastmodified":1472264690,
+    "wof:lastmodified":1491922393,
     "wof:name":"Williams,Julia,",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

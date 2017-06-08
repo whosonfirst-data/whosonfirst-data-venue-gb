@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.166575,51.589668,-0.166575,51.589668",
     "geom:latitude":51.589668,
     "geom:longitude":-0.166575,
@@ -29,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787165,
-        85684613
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:brand_id":420574693,
     "wof:breaches":[],
@@ -43,15 +47,18 @@
     "wof:geomhash":"e130e4adabbfc94b2ac85eaa21611c85",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787165,
-            "region_id":85684613,
+            "region_id":85684061,
             "venue_id":119389269
         }
     ],
     "wof:id":119389269,
-    "wof:lastmodified":1472266390,
+    "wof:lastmodified":1491890044,
     "wof:name":"Dental Surgery",
     "wof:parent_id":85787165,
     "wof:placetype":"venue",

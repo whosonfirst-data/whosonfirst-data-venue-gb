@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.136189,53.388031,-2.136189,53.388031",
     "geom:latitude":53.388031,
     "geom:longitude":-2.136189,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750527,
-        85633159,
         85785933,
+        "102191581",
+        404444839,
+        "85633159",
+        404227469,
+        101750527,
         85683899
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"1bb726c638a11e9fd2711a7be1521f9c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444839,
             "locality_id":101750527,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785933,
             "region_id":85683899,
             "venue_id":119008569
         }
     ],
     "wof:id":119008569,
-    "wof:lastmodified":1472255087,
+    "wof:lastmodified":1491924892,
     "wof:name":"Great Moor Park",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",

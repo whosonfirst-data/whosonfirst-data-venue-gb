@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.474049,53.370689,-1.474049,53.370689",
     "geom:latitude":53.370689,
     "geom:longitude":-1.474049,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85793113,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"abe28eede5453e98da1d5b6056f3f831",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":135340663
         }
     ],
     "wof:id":135340663,
-    "wof:lastmodified":1472258530,
+    "wof:lastmodified":1491898948,
     "wof:name":"Serck Marston",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

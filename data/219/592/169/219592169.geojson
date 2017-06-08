@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.215641,53.346909,-2.215641,53.346909",
     "geom:latitude":53.346909,
     "geom:longitude":-2.215641,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785933,
-        85633159,
+        "102191581",
+        404444839,
+        "85633159",
+        404227469,
         101750527,
         85683899
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"fefdae3404e5cdfc81d3ec98f2b1d60b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444839,
             "locality_id":101750527,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785933,
             "region_id":85683899,
             "venue_id":219592169
         }
     ],
     "wof:id":219592169,
-    "wof:lastmodified":1472260555,
+    "wof:lastmodified":1491924820,
     "wof:name":"PRICED RIGHT FITTED FURNITURE LTD",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",

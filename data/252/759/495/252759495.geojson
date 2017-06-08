@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.175116,51.486244,-3.175116,51.486244",
     "geom:latitude":51.486244,
     "geom:longitude":-3.175116,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792749,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"c053ec6b9c2b896afc961dc9710c5b20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85792749,
             "region_id":85683787,
             "venue_id":252759495
         }
     ],
     "wof:id":252759495,
-    "wof:lastmodified":1472255483,
+    "wof:lastmodified":1491938178,
     "wof:name":"Edward T Davies & Son",
     "wof:parent_id":85792749,
     "wof:placetype":"venue",

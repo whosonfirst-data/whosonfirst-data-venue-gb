@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.406869,51.663712,-0.406869,51.663712",
     "geom:latitude":51.663712,
     "geom:longitude":-0.406869,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860799,
-        85633159,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
         101751603,
         85684331
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"e93004c28cd573832eba8d4452d92c91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
             "locality_id":101751603,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":269518477
         }
     ],
     "wof:id":269518477,
-    "wof:lastmodified":1472255459,
+    "wof:lastmodified":1491931623,
     "wof:name":"Huskards Nursing Home",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",

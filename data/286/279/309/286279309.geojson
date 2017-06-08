@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.624906,53.796829,-1.624906,53.796829",
     "geom:latitude":53.796829,
     "geom:longitude":-1.624906,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785937,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321,
         85792895
@@ -46,26 +50,30 @@
     "wof:geomhash":"e63abfbcf82716feb9cb2f72b489c835",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785937,
             "region_id":85684321,
             "venue_id":286279309
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792895,
             "region_id":85684321,
             "venue_id":286279309
         }
     ],
     "wof:id":286279309,
-    "wof:lastmodified":1472255210,
+    "wof:lastmodified":1491922966,
     "wof:name":"Kevin Batty",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

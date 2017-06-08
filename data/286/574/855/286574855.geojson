@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.51714,52.428772,-1.51714,52.428772",
     "geom:latitude":52.428772,
     "geom:longitude":-1.51714,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864245,
-        85633159,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
         101750449,
         85684565
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"35ee91f305cd3b3a4b02c963d715b704",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85864245,
             "region_id":85684565,
             "venue_id":286574855
         }
     ],
     "wof:id":286574855,
-    "wof:lastmodified":1472258996,
+    "wof:lastmodified":1491902403,
     "wof:name":"Federation of Small Businesses",
     "wof:parent_id":85864245,
     "wof:placetype":"venue",

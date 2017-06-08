@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.575478,51.440971,-2.575478,51.440971",
     "geom:latitude":51.440971,
     "geom:longitude":-2.575478,
@@ -28,10 +29,13 @@
     "sg:province":"City of Bristol",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750389,
-        85633159,
         85791103,
-        85684063
+        "102191581",
+        404431949,
+        "85633159",
+        404227469,
+        101750389,
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,18 @@
     "wof:geomhash":"a7e2e66c452f8a35d046756ccfc91455",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431949,
             "locality_id":101750389,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791103,
-            "region_id":85684063,
+            "region_id":85683793,
             "venue_id":135592789
         }
     ],
     "wof:id":135592789,
-    "wof:lastmodified":1472265401,
+    "wof:lastmodified":1491933684,
     "wof:name":"Electrical & Security Warehouse Ltd",
     "wof:parent_id":85791103,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.343184,51.444443,-0.343184,51.444443",
     "geom:latitude":51.444443,
     "geom:longitude":-0.343184,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791201,
-        85684151
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"470d49624be8ab6f26b119f046b45111",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791201,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":119473345
         }
     ],
     "wof:id":119473345,
-    "wof:lastmodified":1472266875,
+    "wof:lastmodified":1491889321,
     "wof:name":"Brown,S,",
     "wof:parent_id":85791201,
     "wof:placetype":"venue",

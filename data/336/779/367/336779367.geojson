@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.173946,55.850807,-4.173946,55.850807",
     "geom:latitude":55.850807,
     "geom:longitude":-4.173946,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790555,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"a4a0a2e5bda18ba3e230d9af25e74f7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":336779367
         }
     ],
     "wof:id":336779367,
-    "wof:lastmodified":1472257526,
+    "wof:lastmodified":1491897836,
     "wof:name":"Akhtar,J,",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

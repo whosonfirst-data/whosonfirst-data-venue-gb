@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.109392,53.349876,-2.109392,53.349876",
     "geom:latitude":53.349876,
     "geom:longitude":-2.109392,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785933,
-        85633159,
+        "102191581",
+        404444839,
+        "85633159",
+        404227469,
         101750527,
         85683899
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"5c120ca6bdc455d539f64ea0e33646a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444839,
             "locality_id":101750527,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785933,
             "region_id":85683899,
             "venue_id":186042817
         }
     ],
     "wof:id":186042817,
-    "wof:lastmodified":1472255321,
+    "wof:lastmodified":1491924904,
     "wof:name":"R & W Promotion Planning",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.920746,52.46981,-1.920746,52.46981",
     "geom:latitude":52.46981,
     "geom:longitude":-1.920746,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787237,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"5464d9ea7106bf77c052cc2ac3062d24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787237,
             "region_id":85684283,
             "venue_id":185733409
         }
     ],
     "wof:id":185733409,
-    "wof:lastmodified":1472256114,
+    "wof:lastmodified":1491936448,
     "wof:name":"Smart,R,",
     "wof:parent_id":85787237,
     "wof:placetype":"venue",

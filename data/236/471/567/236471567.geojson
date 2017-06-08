@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.072695,51.579269,-0.072695,51.579269",
     "geom:latitude":51.579269,
     "geom:longitude":-0.072695,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860357,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684121
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"b889e71676e40f4f89b1ac6adba941c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860357,
-            "region_id":85684121,
+            "region_id":85684061,
             "venue_id":236471567
         }
     ],
     "wof:id":236471567,
-    "wof:lastmodified":1472260393,
+    "wof:lastmodified":1491916554,
     "wof:name":"M Bar Cafe",
     "wof:parent_id":85860357,
     "wof:placetype":"venue",

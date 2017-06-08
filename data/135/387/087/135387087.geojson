@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.179449,51.454273,0.179449,51.454273",
     "geom:latitude":51.454273,
     "geom:longitude":0.179449,
@@ -29,10 +30,13 @@
     "sg:province":"Kent",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786865,
-        85683763
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"f5411f09a1b696b39cc658fe1139b169",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786865,
-            "region_id":85683763,
+            "region_id":85684061,
             "venue_id":135387087
         }
     ],
     "wof:id":135387087,
-    "wof:lastmodified":1472260820,
+    "wof:lastmodified":1491920352,
     "wof:name":"Crayside School of Motoring",
     "wof:parent_id":85786865,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.212736,55.940369,-3.212736,55.940369",
     "geom:latitude":55.940369,
     "geom:longitude":-3.212736,
@@ -28,11 +29,14 @@
     "sg:province":"City of Edinburgh",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85792699,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
-        85633159,
-        85789063,
         85684587,
-        85792699
+        85789063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,24 +46,30 @@
     "wof:geomhash":"630a6e1255b261270af5d6de2228a2da",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
-            "neighbourhood_id":85789063,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85792699,
             "region_id":85684587,
             "venue_id":118932105
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
-            "neighbourhood_id":85792699,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85789063,
             "region_id":85684587,
             "venue_id":118932105
         }
     ],
     "wof:id":118932105,
-    "wof:lastmodified":1472265808,
+    "wof:lastmodified":1491926498,
     "wof:name":"Viewforth Properties Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

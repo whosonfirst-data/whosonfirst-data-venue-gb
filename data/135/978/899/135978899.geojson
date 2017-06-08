@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.034826,51.545246,-0.034826,51.545246",
     "geom:latitude":51.545246,
     "geom:longitude":-0.034826,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860199,
-        85683683
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"537173b9f10ca5cc0b63ec1283b2b92d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860199,
-            "region_id":85683683,
+            "region_id":85684061,
             "venue_id":135978899
         }
     ],
     "wof:id":135978899,
-    "wof:lastmodified":1472267903,
+    "wof:lastmodified":1491918247,
     "wof:name":"Cowen,L,",
     "wof:parent_id":85860199,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.148189,51.517754,-0.148189,51.517754",
     "geom:latitude":51.517754,
     "geom:longitude":-0.148189,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85861741,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85861823,
         85684061,
-        85861741
+        85861823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +50,30 @@
     "wof:geomhash":"19a780de757a26a5d091fb1cc6e7c59c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85861823,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861741,
             "region_id":85684061,
             "venue_id":118698659
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85861741,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861823,
             "region_id":85684061,
             "venue_id":118698659
         }
     ],
     "wof:id":118698659,
-    "wof:lastmodified":1472262578,
+    "wof:lastmodified":1491920923,
     "wof:name":"Boundary Row Studios Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

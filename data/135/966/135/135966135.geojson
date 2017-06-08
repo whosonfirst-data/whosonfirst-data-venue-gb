@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.405615,54.901421,-1.405615,54.901421",
     "geom:latitude":54.901421,
     "geom:longitude":-1.405615,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750611,
-        85633159,
         85793169,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
+        101750611,
         85684483
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"5afd005edc6386191d5fe1ca7fb83af4",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793169,
             "region_id":85684483,
             "venue_id":135966135
         }
     ],
     "wof:id":135966135,
-    "wof:lastmodified":1472267834,
+    "wof:lastmodified":1491935433,
     "wof:name":"The Pram Centre",
     "wof:parent_id":85793169,
     "wof:placetype":"venue",

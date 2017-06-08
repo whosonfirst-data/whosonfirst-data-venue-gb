@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.221009,51.481236,-0.221009,51.481236",
     "geom:latitude":51.481236,
     "geom:longitude":-0.221009,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860861,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684151
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,16 +46,18 @@
     "wof:geomhash":"8a579e63c5baaebec173a24f92fbd771",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860861,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":269904061
         }
     ],
     "wof:id":269904061,
-    "wof:lastmodified":1472261862,
+    "wof:lastmodified":1491918128,
     "wof:name":"Joanna Soft Furnishings",
     "wof:parent_id":85860861,
     "wof:placetype":"venue",

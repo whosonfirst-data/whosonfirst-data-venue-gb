@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.492489,53.370029,-1.492489,53.370029",
     "geom:latitude":53.370029,
     "geom:longitude":-1.492489,
@@ -34,9 +35,12 @@
     "sg:website":"http://www.ayeshas.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85793113,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"e9a55bb9e0754db74ef600c30734de17",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":118557197
         }
     ],
     "wof:id":118557197,
-    "wof:lastmodified":1472257069,
+    "wof:lastmodified":1491899003,
     "wof:name":"Ayesha's Authentic Restaurant",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

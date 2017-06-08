@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.222731,55.906033,-3.222731,55.906033",
     "geom:latitude":55.906033,
     "geom:longitude":-3.222731,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861513,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"47251ca4faea6d90ab59da0f4cc620f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861513,
             "region_id":85684587,
             "venue_id":186228147
         }
     ],
     "wof:id":186228147,
-    "wof:lastmodified":1472256961,
+    "wof:lastmodified":1491916691,
     "wof:name":"Colinton Skip Hire",
     "wof:parent_id":85861513,
     "wof:placetype":"venue",

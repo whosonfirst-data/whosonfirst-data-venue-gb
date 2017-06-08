@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.205073,55.939007,-3.205073,55.939007",
     "geom:latitude":55.939007,
     "geom:longitude":-3.205073,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792699,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"97ae6c0da0c56390e1044dd447c0ab84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792699,
             "region_id":85684587,
             "venue_id":303712845
         }
     ],
     "wof:id":303712845,
-    "wof:lastmodified":1472264433,
+    "wof:lastmodified":1491926491,
     "wof:name":"Hardie,Tim,",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.242636,51.481335,-3.242636,51.481335",
     "geom:latitude":51.481335,
     "geom:longitude":-3.242636,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861055,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"5f942091c686dda585d1ae529637df5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85861055,
             "region_id":85683787,
             "venue_id":185997323
         }
     ],
     "wof:id":185997323,
-    "wof:lastmodified":1472257893,
+    "wof:lastmodified":1491937737,
     "wof:name":"Cardiff County Council",
     "wof:parent_id":85861055,
     "wof:placetype":"venue",

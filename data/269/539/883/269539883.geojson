@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.843692,52.414215,-1.843692,52.414215",
     "geom:latitude":52.414215,
     "geom:longitude":-1.843692,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791873,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"2b0836a3b5757a37b39396d65bef321e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791873,
             "region_id":85684283,
             "venue_id":269539883
         }
     ],
     "wof:id":269539883,
-    "wof:lastmodified":1472255761,
+    "wof:lastmodified":1491932995,
     "wof:name":"Baldwins Lane Post Office",
     "wof:parent_id":85791873,
     "wof:placetype":"venue",

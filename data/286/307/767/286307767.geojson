@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.166887,51.59343,-0.166887,51.59343",
     "geom:latitude":51.59343,
     "geom:longitude":-0.166887,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787165,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684613
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"77eba63aa513cf54a40f3ae05d139114",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787165,
-            "region_id":85684613,
+            "region_id":85684061,
             "venue_id":286307767
         }
     ],
     "wof:id":286307767,
-    "wof:lastmodified":1472255354,
+    "wof:lastmodified":1491890046,
     "wof:name":"David A Berle Consulting Engineers",
     "wof:parent_id":85787165,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.170549,51.3727,-0.170549,51.3727",
     "geom:latitude":51.3727,
     "geom:longitude":-0.170549,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786301,
-        85683649
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"82ce60a1505bec09a32fa6f8208e1b7a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786301,
-            "region_id":85683649,
+            "region_id":85684061,
             "venue_id":135909025
         }
     ],
     "wof:id":135909025,
-    "wof:lastmodified":1472267617,
+    "wof:lastmodified":1491895231,
     "wof:name":"Jontor Engineering Ltd.",
     "wof:parent_id":85786301,
     "wof:placetype":"venue",

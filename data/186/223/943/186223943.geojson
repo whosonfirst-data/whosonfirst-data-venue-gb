@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.875699,53.377037,-2.875699,53.377037",
     "geom:latitude":53.377037,
     "geom:longitude":-2.875699,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787569,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"79904b5150a60d482ef137adb32cb17d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787569,
             "region_id":85684213,
             "venue_id":186223943
         }
     ],
     "wof:id":186223943,
-    "wof:lastmodified":1472256913,
+    "wof:lastmodified":1491886920,
     "wof:name":"M Rice Quarry Street",
     "wof:parent_id":85787569,
     "wof:placetype":"venue",

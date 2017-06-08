@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.036762,51.531723,-0.036762,51.531723",
     "geom:latitude":51.531723,
     "geom:longitude":-0.036762,
@@ -29,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785887,
-        85684467
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"ad5f2d63f7a9314804c2e8fe07e8a494",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785887,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":118704463
         }
     ],
     "wof:id":118704463,
-    "wof:lastmodified":1472262699,
+    "wof:lastmodified":1491919692,
     "wof:name":"Winkworth",
     "wof:parent_id":85785887,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.825549,52.559849,-1.825549,52.559849",
     "geom:latitude":52.559849,
     "geom:longitude":-1.825549,
@@ -29,9 +30,12 @@
     "sg:province":"West Midlands",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85788959,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"633311bb4bef0ebe09a089a7829fba1e",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788959,
             "region_id":85684283,
             "venue_id":118503121
         }
     ],
     "wof:id":118503121,
-    "wof:lastmodified":1472255146,
+    "wof:lastmodified":1491924630,
     "wof:name":"Bank of Ireland",
     "wof:parent_id":85788959,
     "wof:placetype":"venue",

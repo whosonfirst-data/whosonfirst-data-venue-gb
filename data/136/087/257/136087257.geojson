@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.60784,54.981079,-1.60784,54.981079",
     "geom:latitude":54.981079,
     "geom:longitude":-1.60784,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750617,
-        85633159,
         85861867,
+        "102191581",
+        404440729,
+        "85633159",
+        404227469,
+        101750617,
         85683691
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"5eadd957f0f91916f1c8fae3a4e69c7b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404440729,
             "locality_id":101750617,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861867,
             "region_id":85683691,
             "venue_id":136087257
         }
     ],
     "wof:id":136087257,
-    "wof:lastmodified":1472258086,
+    "wof:lastmodified":1491887705,
     "wof:name":"Harding-Smith,C,",
     "wof:parent_id":85861867,
     "wof:placetype":"venue",

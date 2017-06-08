@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.475497,53.367477,-1.475497,53.367477",
     "geom:latitude":53.367477,
     "geom:longitude":-1.475497,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793113,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"63303a4d6304106430fe4d07b907388e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":186187047
         }
     ],
     "wof:id":186187047,
-    "wof:lastmodified":1472256552,
+    "wof:lastmodified":1491898980,
     "wof:name":"Tasty Spot The",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

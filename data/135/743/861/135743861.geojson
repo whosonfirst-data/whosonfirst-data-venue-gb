@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.212234,51.512074,-0.212234,51.512074",
     "geom:latitude":51.512074,
     "geom:longitude":-0.212234,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789533,
-        85683667
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"74f3e10c138e83537d3db0d4d793d46f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789533,
-            "region_id":85683667,
+            "region_id":85684061,
             "venue_id":135743861
         }
     ],
     "wof:id":135743861,
-    "wof:lastmodified":1472266833,
+    "wof:lastmodified":1491931771,
     "wof:name":"Cook,Martin,",
     "wof:parent_id":85789533,
     "wof:placetype":"venue",

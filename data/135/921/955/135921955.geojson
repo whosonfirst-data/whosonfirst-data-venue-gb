@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.065519,51.518913,0.065519,51.518913",
     "geom:latitude":51.518913,
     "geom:longitude":0.065519,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85787169,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85860191,
-        85684411,
-        85787169
+        85684061,
+        85860191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +50,30 @@
     "wof:geomhash":"95a53484256109f4819554ba9df1a390",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85860191,
-            "region_id":85684411,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787169,
+            "region_id":85684061,
             "venue_id":135921955
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85787169,
-            "region_id":85684411,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860191,
+            "region_id":85684061,
             "venue_id":135921955
         }
     ],
     "wof:id":135921955,
-    "wof:lastmodified":1472267737,
+    "wof:lastmodified":1491892925,
     "wof:name":"Royal Selangor Pewter (U K) Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.287426,55.852341,-4.287426,55.852341",
     "geom:latitude":55.852341,
     "geom:longitude":-4.287426,
@@ -39,9 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85792485,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -52,15 +56,18 @@
     "wof:geomhash":"31c599e7ced53e3faf7d134f424fd67c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792485,
             "region_id":85684351,
             "venue_id":119133425
         }
     ],
     "wof:id":119133425,
-    "wof:lastmodified":1472260852,
+    "wof:lastmodified":1491934577,
     "wof:name":"Rattray Motor Spares",
     "wof:parent_id":85792485,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.462825,53.383636,-1.462825,53.383636",
     "geom:latitude":53.383636,
     "geom:longitude":-1.462825,
@@ -40,9 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85793113,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -53,15 +57,18 @@
     "wof:geomhash":"3b944f412e09e3920063d8a46c556f8c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":102663399
         }
     ],
     "wof:id":102663399,
-    "wof:lastmodified":1472257164,
+    "wof:lastmodified":1491899050,
     "wof:name":"Norfolk Arms",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

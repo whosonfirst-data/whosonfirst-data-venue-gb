@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.468663,53.380661,-1.468663,53.380661",
     "geom:latitude":53.380661,
     "geom:longitude":-1.468663,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85793113,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:brand_id":420574721,
@@ -47,15 +51,18 @@
     "wof:geomhash":"dc4462da6043492862e3bf0c9dc5cf0d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":119270453
         }
     ],
     "wof:id":119270453,
-    "wof:lastmodified":1472265524,
+    "wof:lastmodified":1491898964,
     "wof:name":"Halifax Plc",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

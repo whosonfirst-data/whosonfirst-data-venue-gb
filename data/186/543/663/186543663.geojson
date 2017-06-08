@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.672699,53.865196,-1.672699,53.865196",
     "geom:latitude":53.865196,
     "geom:longitude":-1.672699,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786761,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -44,18 +46,17 @@
     "wof:geomhash":"b3468cee130e5a8ea4e2fcf7293fa8f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":186543663
         }
     ],
     "wof:id":186543663,
-    "wof:lastmodified":1472260040,
+    "wof:lastmodified":1491932532,
     "wof:name":"Medical Advisory Services for Travellers",
-    "wof:parent_id":85786761,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

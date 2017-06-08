@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.040169,51.53265,-0.040169,51.53265",
     "geom:latitude":51.53265,
     "geom:longitude":-0.040169,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785887,
-        85684467
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"5f8a252fed383dfe11d437e30d59107e",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785887,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":118704603
         }
     ],
     "wof:id":118704603,
-    "wof:lastmodified":1472262698,
+    "wof:lastmodified":1491919652,
     "wof:name":"Childs Play",
     "wof:parent_id":85785887,
     "wof:placetype":"venue",

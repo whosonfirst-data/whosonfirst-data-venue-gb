@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.361649,53.48037,-2.361649,53.48037",
     "geom:latitude":53.48037,
     "geom:longitude":-2.361649,
@@ -29,9 +30,12 @@
     "sg:province":"Greater Manchester",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750555,
-        85633159,
         85789751,
+        "102191581",
+        404450245,
+        "85633159",
+        404227469,
+        101750555,
         85684495
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"d5c6ee390bf6578ab0673dd965c023bf",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101750555,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789751,
             "region_id":85684495,
             "venue_id":118988125
         }
     ],
     "wof:id":118988125,
-    "wof:lastmodified":1472266062,
+    "wof:lastmodified":1491915023,
     "wof:name":"Church of Jesus Christ of Latter Day Saints",
     "wof:parent_id":85789751,
     "wof:placetype":"venue",

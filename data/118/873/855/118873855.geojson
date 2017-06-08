@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.246228,51.401329,-0.246228,51.401329",
     "geom:latitude":51.401329,
     "geom:longitude":-0.246228,
@@ -28,10 +29,13 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860327,
-        85684099
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,18 @@
     "wof:geomhash":"f9d32e2f7fcae706198104b1a73ba0ce",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860327,
-            "region_id":85684099,
+            "region_id":85684061,
             "venue_id":118873855
         }
     ],
     "wof:id":118873855,
-    "wof:lastmodified":1472265507,
+    "wof:lastmodified":1491885888,
     "wof:name":"David Alistair Watson",
     "wof:parent_id":85860327,
     "wof:placetype":"venue",

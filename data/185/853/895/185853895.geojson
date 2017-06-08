@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.081686,51.536297,0.081686,51.536297",
     "geom:latitude":51.536297,
     "geom:longitude":0.081686,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785469,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683637
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"5608eedd81c8638546210761251e1cb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785469,
-            "region_id":85683637,
+            "region_id":85684061,
             "venue_id":185853895
         }
     ],
     "wof:id":185853895,
-    "wof:lastmodified":1472256869,
+    "wof:lastmodified":1491892088,
     "wof:name":"Griffiths Photographers",
     "wof:parent_id":85785469,
     "wof:placetype":"venue",

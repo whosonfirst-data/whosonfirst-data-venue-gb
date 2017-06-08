@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.24041,51.615341,-0.24041,51.615341",
     "geom:latitude":51.615341,
     "geom:longitude":-0.24041,
@@ -41,9 +42,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789097,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684613
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,16 +57,18 @@
     "wof:geomhash":"ca8e13f7805b9f1f83698d1dd5d77729",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789097,
-            "region_id":85684613,
+            "region_id":85684061,
             "venue_id":252813575
         }
     ],
     "wof:id":252813575,
-    "wof:lastmodified":1472256074,
+    "wof:lastmodified":1491899839,
     "wof:name":"Barnet B M F Motorcycle Training",
     "wof:parent_id":85789097,
     "wof:placetype":"venue",

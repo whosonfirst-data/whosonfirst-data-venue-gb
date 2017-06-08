@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.147393,51.5168,-0.147393,51.5168",
     "geom:latitude":51.5168,
     "geom:longitude":-0.147393,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861823,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
         85684061
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"775bbecd96cfd47265db3ab40c225d90",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861823,
             "region_id":85684061,
             "venue_id":118698737
         }
     ],
     "wof:id":118698737,
-    "wof:lastmodified":1472262602,
+    "wof:lastmodified":1491921050,
     "wof:name":"Stephen Bedford",
     "wof:parent_id":85861823,
     "wof:placetype":"venue",

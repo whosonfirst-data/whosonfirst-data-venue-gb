@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.026078,51.511456,-0.026078,51.511456",
     "geom:latitude":51.511456,
     "geom:longitude":-0.026078,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788777,
-        85684467
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"7fc1000d7fac5f19ddf0b8267afffc73",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788777,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":135721145
         }
     ],
     "wof:id":135721145,
-    "wof:lastmodified":1472266769,
+    "wof:lastmodified":1491938739,
     "wof:name":"Harry",
     "wof:parent_id":85788777,
     "wof:placetype":"venue",

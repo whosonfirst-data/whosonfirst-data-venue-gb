@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.201668,55.97868,-3.201668,55.97868",
     "geom:latitude":55.97868,
     "geom:longitude":-3.201668,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791157,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"e749508a49d01a8e37f3dc50954407fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85791157,
             "region_id":85684587,
             "venue_id":219527639
         }
     ],
     "wof:id":219527639,
-    "wof:lastmodified":1472259537,
+    "wof:lastmodified":1491932050,
     "wof:name":"Rose Villa",
     "wof:parent_id":85791157,
     "wof:placetype":"venue",

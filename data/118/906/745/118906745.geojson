@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.162253,51.584194,0.162253,51.584194",
     "geom:latitude":51.584194,
     "geom:longitude":0.162253,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789027,
-        85683841
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"5f78f60bf2ad6f78ce4d1ac03aead39b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789027,
-            "region_id":85683841,
+            "region_id":85684061,
             "venue_id":118906745
         }
     ],
     "wof:id":118906745,
-    "wof:lastmodified":1472265737,
+    "wof:lastmodified":1491895364,
     "wof:name":"D & S Seamless Guttering",
     "wof:parent_id":85789027,
     "wof:placetype":"venue",

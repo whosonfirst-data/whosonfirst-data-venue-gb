@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.078279,51.512058,-0.078279,51.512058",
     "geom:latitude":51.512058,
     "geom:longitude":-0.078279,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861829,
-        85684467
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"73a762b91216386b76a1b000aba4962f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861829,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":135519385
         }
     ],
     "wof:id":135519385,
-    "wof:lastmodified":1472264723,
+    "wof:lastmodified":1491922392,
     "wof:name":"The Association of Insurance & Risk Managers",
     "wof:parent_id":85861829,
     "wof:placetype":"venue",

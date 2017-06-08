@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.190759,55.950817,-3.190759,55.950817",
     "geom:latitude":55.950817,
     "geom:longitude":-3.190759,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792713,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"f0b78231b455ea5aba3347f3d8a554f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792713,
             "region_id":85684587,
             "venue_id":336856433
         }
     ],
     "wof:id":336856433,
-    "wof:lastmodified":1472259233,
+    "wof:lastmodified":1491885576,
     "wof:name":"The Doric",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",

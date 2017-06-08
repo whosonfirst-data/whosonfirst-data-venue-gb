@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.518679,52.376514,-1.518679,52.376514",
     "geom:latitude":52.376514,
     "geom:longitude":-1.518679,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750449,
-        85633159,
         85790739,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
+        101750449,
         85684565
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"48a184adc639543e3835abe1485b8bf8",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790739,
             "region_id":85684565,
             "venue_id":119329153
         }
     ],
     "wof:id":119329153,
-    "wof:lastmodified":1472265802,
+    "wof:lastmodified":1491930155,
     "wof:name":"Hitchin,David,",
     "wof:parent_id":85790739,
     "wof:placetype":"venue",

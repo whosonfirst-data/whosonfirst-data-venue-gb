@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.803107,52.460918,-1.803107,52.460918",
     "geom:latitude":52.460918,
     "geom:longitude":-1.803107,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85791869,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"858912ebc5c2311f929762080a82c1c8",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791869,
             "region_id":85684283,
             "venue_id":118771251
         }
     ],
     "wof:id":118771251,
-    "wof:lastmodified":1472264345,
+    "wof:lastmodified":1491930487,
     "wof:name":"Pattison Independent Financial Services Ltd",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",

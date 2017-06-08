@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.287356,55.888889,-4.287356,55.888889",
     "geom:latitude":55.888889,
     "geom:longitude":-4.287356,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789015,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"df4bfe951a7660f8c2f6f50a97a11b17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789015,
             "region_id":85684351,
             "venue_id":219826933
         }
     ],
     "wof:id":219826933,
-    "wof:lastmodified":1472262899,
+    "wof:lastmodified":1491934476,
     "wof:name":"Politician Lounge Bar (The)",
     "wof:parent_id":85789015,
     "wof:placetype":"venue",

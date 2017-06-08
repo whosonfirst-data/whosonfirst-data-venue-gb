@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.179585,51.511822,-0.179585,51.511822",
     "geom:latitude":51.511822,
     "geom:longitude":-0.179585,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861621,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"b45e4c573bc4f326b3e97d282e61c945",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861621,
             "region_id":85684061,
             "venue_id":320110757
         }
     ],
     "wof:id":320110757,
-    "wof:lastmodified":1472257213,
+    "wof:lastmodified":1491919364,
     "wof:name":"Merchant Navy Hotel",
     "wof:parent_id":85861621,
     "wof:placetype":"venue",

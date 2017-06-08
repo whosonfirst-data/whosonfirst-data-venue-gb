@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.039403,51.490086,0.039403,51.490086",
     "geom:latitude":51.490086,
     "geom:longitude":0.039403,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860577,
-        85683707
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"ab32a3707c0aea79a4df595b834fca94",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860577,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":118707865
         }
     ],
     "wof:id":118707865,
-    "wof:lastmodified":1472262885,
+    "wof:lastmodified":1491902629,
     "wof:name":"Stone Foundries Ltd.",
     "wof:parent_id":85860577,
     "wof:placetype":"venue",

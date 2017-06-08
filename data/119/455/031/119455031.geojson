@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.203365,55.936001,-3.203365,55.936001",
     "geom:latitude":55.936001,
     "geom:longitude":-3.203365,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85792699,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"6bd294d382ddb5cb5648a6eda03b6334",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792699,
             "region_id":85684587,
             "venue_id":119455031
         }
     ],
     "wof:id":119455031,
-    "wof:lastmodified":1472266727,
+    "wof:lastmodified":1491926489,
     "wof:name":"Edinburgh Bruntsfield Youth Hostels",
     "wof:parent_id":85792699,
     "wof:placetype":"venue",

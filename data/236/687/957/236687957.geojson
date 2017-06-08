@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.39334,51.669022,-0.39334,51.669022",
     "geom:latitude":51.669022,
     "geom:longitude":-0.39334,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860799,
         85633159,
-        101751603,
+        85792443,
         85684331,
-        85792443
+        85860799,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
+        101751603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,26 +51,26 @@
     "wof:geomhash":"695fd3ccdff95e0421cb0ca57077198c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633159,
-            "locality_id":101751603,
-            "neighbourhood_id":85860799,
+            "neighbourhood_id":85792443,
             "region_id":85684331,
             "venue_id":236687957
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85792443,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
+            "locality_id":101751603,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":236687957
         }
     ],
     "wof:id":236687957,
-    "wof:lastmodified":1472262451,
+    "wof:lastmodified":1491931598,
     "wof:name":"Actaprint Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

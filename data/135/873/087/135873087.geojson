@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.05694,51.471375,-0.05694,51.471375",
     "geom:latitude":51.471375,
     "geom:longitude":-0.05694,
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789765,
-        85684289
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +55,18 @@
     "wof:geomhash":"de7974293e3c4c764c6f45f744d9c134",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789765,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":135873087
         }
     ],
     "wof:id":135873087,
-    "wof:lastmodified":1472267443,
+    "wof:lastmodified":1491892281,
     "wof:name":"Hollydale Primary School",
     "wof:parent_id":85789765,
     "wof:placetype":"venue",

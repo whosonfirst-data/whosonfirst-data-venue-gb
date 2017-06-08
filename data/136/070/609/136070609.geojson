@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.346335,55.875519,-4.346335,55.875519",
     "geom:latitude":55.875519,
     "geom:longitude":-4.346335,
@@ -29,11 +30,14 @@
     "sg:province":"Glasgow City",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85791637,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
-        85633159,
-        85790197,
         85684351,
-        85791637
+        85790197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +47,30 @@
     "wof:geomhash":"fbe7798cadfec9d74e9c0a58650d459b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
-            "neighbourhood_id":85790197,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85791637,
             "region_id":85684351,
             "venue_id":136070609
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
-            "neighbourhood_id":85791637,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85790197,
             "region_id":85684351,
             "venue_id":136070609
         }
     ],
     "wof:id":136070609,
-    "wof:lastmodified":1472257556,
+    "wof:lastmodified":1491911757,
     "wof:name":"Stephen Newall Engineers Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

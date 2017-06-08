@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.544039,53.779007,-1.544039,53.779007",
     "geom:latitude":53.779007,
     "geom:longitude":-1.544039,
@@ -41,9 +42,12 @@
     "sg:website":"http://www.hotelwareltd.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85785589,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321
     ],
     "wof:breaches":[],
@@ -54,15 +58,18 @@
     "wof:geomhash":"1c2405b11f1268aeced0e67a51ab9fa6",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785589,
             "region_id":85684321,
             "venue_id":135671195
         }
     ],
     "wof:id":135671195,
-    "wof:lastmodified":1472265840,
+    "wof:lastmodified":1491903342,
     "wof:name":"Hotelware Ltd",
     "wof:parent_id":85785589,
     "wof:placetype":"venue",

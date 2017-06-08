@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.630076,53.813133,-1.630076,53.813133",
     "geom:latitude":53.813133,
     "geom:longitude":-1.630076,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785937,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"470cdb2aa1e728df4c051534a343e951",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785937,
             "region_id":85684321,
             "venue_id":303248303
         }
     ],
     "wof:id":303248303,
-    "wof:lastmodified":1472258139,
+    "wof:lastmodified":1491922968,
     "wof:name":"Wright & Shields",
     "wof:parent_id":85785937,
     "wof:placetype":"venue",

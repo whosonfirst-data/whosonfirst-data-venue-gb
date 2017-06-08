@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.176886,55.852386,-4.176886,55.852386",
     "geom:latitude":55.852386,
     "geom:longitude":-4.176886,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85790555,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"41c565593ea004246d196b0f82f52d20",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":135328859
         }
     ],
     "wof:id":135328859,
-    "wof:lastmodified":1472257337,
+    "wof:lastmodified":1491897847,
     "wof:name":"Damien J Cohen & Co",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

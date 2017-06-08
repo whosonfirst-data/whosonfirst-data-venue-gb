@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.268191,53.465168,-2.268191,53.465168",
     "geom:latitude":53.465168,
     "geom:longitude":-2.268191,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792989,
-        85633159,
+        "102191581",
+        404443841,
+        "85633159",
+        404227469,
         101913953,
         85684195,
         85789609
@@ -47,26 +51,30 @@
     "wof:geomhash":"99aec567f97ec5bffc55cd97aa608c86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404443841,
             "locality_id":101913953,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792989,
             "region_id":85684195,
             "venue_id":286579581
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404443841,
             "locality_id":101913953,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789609,
             "region_id":85684195,
             "venue_id":286579581
         }
     ],
     "wof:id":286579581,
-    "wof:lastmodified":1472259057,
+    "wof:lastmodified":1491923107,
     "wof:name":"D  & G  Properties Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

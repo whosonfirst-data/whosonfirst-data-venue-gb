@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.170485,51.372723,-0.170485,51.372723",
     "geom:latitude":51.372723,
     "geom:longitude":-0.170485,
@@ -42,10 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786301,
-        85683649
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +59,18 @@
     "wof:geomhash":"e988d253fc7100f290a5035e9d9d1a1e",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786301,
-            "region_id":85683649,
+            "region_id":85684061,
             "venue_id":135909029
         }
     ],
     "wof:id":135909029,
-    "wof:lastmodified":1472267620,
+    "wof:lastmodified":1491895227,
     "wof:name":"K S M Automatic Transmissions Services",
     "wof:parent_id":85786301,
     "wof:placetype":"venue",

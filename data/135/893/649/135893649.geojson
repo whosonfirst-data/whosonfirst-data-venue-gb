@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.055259,51.625889,-0.055259,51.625889",
     "geom:latitude":51.625889,
     "geom:longitude":-0.055259,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787249,
-        85684381
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"0227324e589bac9d28b949a8c2ea54fc",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787249,
-            "region_id":85684381,
+            "region_id":85684061,
             "venue_id":135893649
         }
     ],
     "wof:id":135893649,
-    "wof:lastmodified":1472267607,
+    "wof:lastmodified":1491913865,
     "wof:name":"Craig Park Business & Training Centre Ltd",
     "wof:parent_id":85787249,
     "wof:placetype":"venue",

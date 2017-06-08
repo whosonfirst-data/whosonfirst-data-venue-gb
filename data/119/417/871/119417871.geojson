@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.334832,51.445469,-0.334832,51.445469",
     "geom:latitude":51.445469,
     "geom:longitude":-0.334832,
@@ -29,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791201,
-        85684151
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:brand_id":420574655,
     "wof:breaches":[],
@@ -43,15 +47,18 @@
     "wof:geomhash":"710da4ac7d69b793e5ac84a8f21d003a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791201,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":119417871
         }
     ],
     "wof:id":119417871,
-    "wof:lastmodified":1472266545,
+    "wof:lastmodified":1491889333,
     "wof:name":"Halifax Property Services",
     "wof:parent_id":85791201,
     "wof:placetype":"venue",

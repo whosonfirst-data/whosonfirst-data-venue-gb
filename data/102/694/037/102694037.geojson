@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.061138,51.366405,0.061138,51.366405",
     "geom:latitude":51.366405,
     "geom:longitude":0.061138,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787355,
-        85684235
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"a6d9b42092830459bf5d704b476aa6b7",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787355,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":102694037
         }
     ],
     "wof:id":102694037,
-    "wof:lastmodified":1472258317,
+    "wof:lastmodified":1491902371,
     "wof:name":"Joyce Interiors Ltd.",
     "wof:parent_id":85787355,
     "wof:placetype":"venue",

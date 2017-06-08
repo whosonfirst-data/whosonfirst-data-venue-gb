@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.910212,52.484669,-1.910212,52.484669",
     "geom:latitude":52.484669,
     "geom:longitude":-1.910212,
@@ -41,9 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85792837,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -54,15 +58,18 @@
     "wof:geomhash":"a9fc334e5aee531d60c797cd30e57cf7",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792837,
             "region_id":85684283,
             "venue_id":135352759
         }
     ],
     "wof:id":135352759,
-    "wof:lastmodified":1472258925,
+    "wof:lastmodified":1491929202,
     "wof:name":"Centre Jewellery",
     "wof:parent_id":85792837,
     "wof:placetype":"venue",

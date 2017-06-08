@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.188775,51.468475,-3.188775,51.468475",
     "geom:latitude":51.468475,
     "geom:longitude":-3.188775,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792749,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"fd0aa82f6e675bf56c7881a8ef26db79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85792749,
             "region_id":85683787,
             "venue_id":269519539
         }
     ],
     "wof:id":269519539,
-    "wof:lastmodified":1472255512,
+    "wof:lastmodified":1491938196,
     "wof:name":"David Collis",
     "wof:parent_id":85792749,
     "wof:placetype":"venue",

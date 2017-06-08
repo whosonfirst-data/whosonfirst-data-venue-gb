@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.146579,51.518131,-0.146579,51.518131",
     "geom:latitude":51.518131,
     "geom:longitude":-0.146579,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861823,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"c14e78a2db3f300a5b193876bf3cfda5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861823,
             "region_id":85684061,
             "venue_id":286990395
         }
     ],
     "wof:id":286990395,
-    "wof:lastmodified":1472264135,
+    "wof:lastmodified":1491920958,
     "wof:name":"Wigram & Co.",
     "wof:parent_id":85861823,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.961129,52.506802,-1.961129,52.506802",
     "geom:latitude":52.506802,
     "geom:longitude":-1.961129,
@@ -40,9 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914045,
-        85633159,
         85787515,
+        "102191581",
+        404446943,
+        "85633159",
+        404227469,
+        101914045,
         85684511
     ],
     "wof:breaches":[],
@@ -53,15 +57,18 @@
     "wof:geomhash":"de54c955619bff6acd93ba7a7f71ec74",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
             "locality_id":101914045,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787515,
             "region_id":85684511,
             "venue_id":118676737
         }
     ],
     "wof:id":118676737,
-    "wof:lastmodified":1472261824,
+    "wof:lastmodified":1491936117,
     "wof:name":"Apollo 2000 Ltd.",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",

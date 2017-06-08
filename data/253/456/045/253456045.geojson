@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.304112,51.401138,-0.304112,51.401138",
     "geom:latitude":51.401138,
     "geom:longitude":-0.304112,
@@ -38,9 +39,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792321,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684151
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,16 +54,18 @@
     "wof:geomhash":"15c1ae4cb96eab04242615bf7f0aa79f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792321,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":253456045
         }
     ],
     "wof:id":253456045,
-    "wof:lastmodified":1472261613,
+    "wof:lastmodified":1491917430,
     "wof:name":"Surbiton Park Post Office",
     "wof:parent_id":85792321,
     "wof:placetype":"venue",

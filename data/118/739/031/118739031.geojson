@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.039219,51.523415,-0.039219,51.523415",
     "geom:latitude":51.523415,
     "geom:longitude":-0.039219,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785887,
-        85684467
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"a3b435ae3da1ba891f27a8df80e3d35e",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785887,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":118739031
         }
     ],
     "wof:id":118739031,
-    "wof:lastmodified":1472263864,
+    "wof:lastmodified":1491919690,
     "wof:name":"Ward Bros (Motor Engineers) Ltd.",
     "wof:parent_id":85785887,
     "wof:placetype":"venue",

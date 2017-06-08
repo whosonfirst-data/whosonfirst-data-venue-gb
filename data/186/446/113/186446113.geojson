@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.390995,53.410816,-1.390995,53.410816",
     "geom:latitude":53.410816,
     "geom:longitude":-1.390995,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791057,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"073af7f31122ca21a3a993a981191f00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791057,
             "region_id":85684537,
             "venue_id":186446113
         }
     ],
     "wof:id":186446113,
-    "wof:lastmodified":1472259128,
+    "wof:lastmodified":1491891216,
     "wof:name":"Steve Davies Snooker",
     "wof:parent_id":85791057,
     "wof:placetype":"venue",

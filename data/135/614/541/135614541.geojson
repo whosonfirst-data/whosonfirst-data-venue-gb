@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.401825,54.895275,-1.401825,54.895275",
     "geom:latitude":54.895275,
     "geom:longitude":-1.401825,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750611,
-        85633159,
         85793169,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
+        101750611,
         85684483
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"0a45d823f17f2b7aa1c96e142d62eafc",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793169,
             "region_id":85684483,
             "venue_id":135614541
         }
     ],
     "wof:id":135614541,
-    "wof:lastmodified":1472265324,
+    "wof:lastmodified":1491935445,
     "wof:name":"Richard Avenue Primary School",
     "wof:parent_id":85793169,
     "wof:placetype":"venue",

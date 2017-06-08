@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.935458,52.426456,-1.935458,52.426456",
     "geom:latitude":52.426456,
     "geom:longitude":-1.935458,
@@ -29,9 +30,12 @@
     "sg:province":"West Midlands",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85785883,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"f78c4744526097f37a8ca6ec0761fe23",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785883,
             "region_id":85684283,
             "venue_id":119092285
         }
     ],
     "wof:id":119092285,
-    "wof:lastmodified":1472258516,
+    "wof:lastmodified":1491920496,
     "wof:name":"Old Farm Hotel",
     "wof:parent_id":85785883,
     "wof:placetype":"venue",

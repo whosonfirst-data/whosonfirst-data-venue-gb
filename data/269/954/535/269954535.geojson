@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.447539,53.393848,-1.447539,53.393848",
     "geom:latitude":53.393848,
     "geom:longitude":-1.447539,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785403,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"2409f54967429f6581e21c7a24389ee9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":269954535
         }
     ],
     "wof:id":269954535,
-    "wof:lastmodified":1472262522,
+    "wof:lastmodified":1491907098,
     "wof:name":"Atkinson Burrington Ltd.",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

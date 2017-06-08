@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.488448,53.367832,-1.488448,53.367832",
     "geom:latitude":53.367832,
     "geom:longitude":-1.488448,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85793113,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"0233cb3400c76d24d29e76c729757442",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":136078509
         }
     ],
     "wof:id":136078509,
-    "wof:lastmodified":1472257685,
+    "wof:lastmodified":1491899113,
     "wof:name":"B K R Haines Watts",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

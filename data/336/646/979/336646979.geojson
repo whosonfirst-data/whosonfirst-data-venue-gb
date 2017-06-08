@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.254547,55.859806,-4.254547,55.859806",
     "geom:latitude":55.859806,
     "geom:longitude":-4.254547,
@@ -38,11 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792621,
-        85633159,
+        85861547,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351,
-        85861547
+        85792621
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,26 +56,30 @@
     "wof:geomhash":"891cc649f7e76b79579c948b9baf90bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
-            "neighbourhood_id":85792621,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85861547,
             "region_id":85684351,
             "venue_id":336646979
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
-            "neighbourhood_id":85861547,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85792621,
             "region_id":85684351,
             "venue_id":336646979
         }
     ],
     "wof:id":336646979,
-    "wof:lastmodified":1472255895,
+    "wof:lastmodified":1491931740,
     "wof:name":"Diamonds Direct",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

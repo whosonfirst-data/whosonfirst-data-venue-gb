@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.03529,51.487499,0.03529,51.487499",
     "geom:latitude":51.487499,
     "geom:longitude":0.03529,
@@ -29,11 +30,14 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85860577,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85786431,
-        85683707,
-        85860577
+        85684061,
+        85786431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +47,30 @@
     "wof:geomhash":"978e9e49c3ee9a1486bdb47b3e81b747",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85786431,
-            "region_id":85683707,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860577,
+            "region_id":85684061,
             "venue_id":118707967
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85860577,
-            "region_id":85683707,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786431,
+            "region_id":85684061,
             "venue_id":118707967
         }
     ],
     "wof:id":118707967,
-    "wof:lastmodified":1472262892,
+    "wof:lastmodified":1491902630,
     "wof:name":"Pakistan Muslim Welfare",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

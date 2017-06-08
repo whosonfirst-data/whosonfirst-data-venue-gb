@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.035165,51.537441,0.035165,51.537441",
     "geom:latitude":51.537441,
     "geom:longitude":0.035165,
@@ -40,9 +41,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789849,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684411
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,16 +56,18 @@
     "wof:geomhash":"d98df20860be3a3c78f8954445b3258c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789849,
-            "region_id":85684411,
+            "region_id":85684061,
             "venue_id":319825635
         }
     ],
     "wof:id":319825635,
-    "wof:lastmodified":1472255285,
+    "wof:lastmodified":1491906523,
     "wof:name":"M M Newsagents Ltd.",
     "wof:parent_id":85789849,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.144879,51.511589,-0.144879,51.511589",
     "geom:latitude":51.511589,
     "geom:longitude":-0.144879,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861823,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
         85684061
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"f23ef2dca10a7f390f5f89a9d3bee258",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861823,
             "region_id":85684061,
             "venue_id":119388071
         }
     ],
     "wof:id":119388071,
-    "wof:lastmodified":1472266327,
+    "wof:lastmodified":1491920990,
     "wof:name":"The British Technion Society",
     "wof:parent_id":85861823,
     "wof:placetype":"venue",

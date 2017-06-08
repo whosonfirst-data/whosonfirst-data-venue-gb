@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.385577,54.90432,-1.385577,54.90432",
     "geom:latitude":54.90432,
     "geom:longitude":-1.385577,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793173,
-        85633159,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
         101750611,
         85684483
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"daf41dd1a0de85e32bd0b14f912d5dbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793173,
             "region_id":85684483,
             "venue_id":286803641
         }
     ],
     "wof:id":286803641,
-    "wof:lastmodified":1472262517,
+    "wof:lastmodified":1491905663,
     "wof:name":"Tullys Sewing Machines",
     "wof:parent_id":85793173,
     "wof:placetype":"venue",

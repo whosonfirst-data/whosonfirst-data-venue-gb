@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.088838,51.559052,0.088838,51.559052",
     "geom:latitude":51.559052,
     "geom:longitude":0.088838,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790249,
-        85684441
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"6ce8823c0830d7c489668773a9629b68",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790249,
-            "region_id":85684441,
+            "region_id":85684061,
             "venue_id":118924519
         }
     ],
     "wof:id":118924519,
-    "wof:lastmodified":1472265823,
+    "wof:lastmodified":1491892870,
     "wof:name":"South Park Motors Car Spares",
     "wof:parent_id":85790249,
     "wof:placetype":"venue",

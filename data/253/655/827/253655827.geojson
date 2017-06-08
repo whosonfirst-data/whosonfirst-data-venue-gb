@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.200533,51.342079,-0.200533,51.342079",
     "geom:latitude":51.342079,
     "geom:longitude":-0.200533,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785607,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683649
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"8bc1cb05374f39c9859ab0355c9112e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785607,
-            "region_id":85683649,
+            "region_id":85684061,
             "venue_id":253655827
         }
     ],
     "wof:id":253655827,
-    "wof:lastmodified":1472264308,
+    "wof:lastmodified":1491899120,
     "wof:name":"MIKE TEBBS",
     "wof:parent_id":85785607,
     "wof:placetype":"venue",

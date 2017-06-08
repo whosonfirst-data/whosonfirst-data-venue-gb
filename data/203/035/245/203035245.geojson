@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.726189,53.840374,-1.726189,53.840374",
     "geom:latitude":53.840374,
     "geom:longitude":-1.726189,
@@ -32,12 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85790941,
-        85633159,
-        85684321,
         85788415,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
-        85684463
+        85684463,
+        85633159,
+        85790941,
+        85684321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +52,26 @@
     "wof:geomhash":"5b77f336170f367647cbbf535fa3b464",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85790941,
-            "region_id":85684321,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
+            "locality_id":101750581,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788415,
+            "region_id":85684463,
             "venue_id":203035245
         },
         {
-            "continent_id":-1,
             "country_id":85633159,
-            "locality_id":101750581,
-            "neighbourhood_id":85788415,
-            "region_id":85684463,
+            "neighbourhood_id":85790941,
+            "region_id":85684321,
             "venue_id":203035245
         }
     ],
     "wof:id":203035245,
-    "wof:lastmodified":1472255243,
+    "wof:lastmodified":1491903357,
     "wof:name":"Subtle Shades Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

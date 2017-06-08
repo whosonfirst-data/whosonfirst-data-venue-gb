@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.416237,51.442745,-0.416237,51.442745",
     "geom:latitude":51.442745,
     "geom:longitude":-0.416237,
@@ -28,10 +29,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787387,
-        85684141
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,15 +45,18 @@
     "wof:geomhash":"444de1fd788c2bf4e872e119e4c29e7a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787387,
-            "region_id":85684141,
+            "region_id":85684061,
             "venue_id":136082561
         }
     ],
     "wof:id":136082561,
-    "wof:lastmodified":1472257924,
+    "wof:lastmodified":1491929120,
     "wof:name":"Murray,Adrienne,",
     "wof:parent_id":85787387,
     "wof:placetype":"venue",

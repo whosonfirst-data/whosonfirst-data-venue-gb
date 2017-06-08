@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.79419,53.798439,-1.79419,53.798439",
     "geom:latitude":53.798439,
     "geom:longitude":-1.79419,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787493,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"86be031cb3a34f3d539dd67c97facbe7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787493,
             "region_id":85684463,
             "venue_id":286547725
         }
     ],
     "wof:id":286547725,
-    "wof:lastmodified":1472258717,
+    "wof:lastmodified":1491937714,
     "wof:name":"Crossley Hall First School",
     "wof:parent_id":85787493,
     "wof:placetype":"venue",

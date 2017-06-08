@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.384442,54.90451,-1.384442,54.90451",
     "geom:latitude":54.90451,
     "geom:longitude":-1.384442,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85788125,
-        85633159,
+        85793173,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
         101750611,
         85684483,
-        85793173
+        85788125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,26 +50,30 @@
     "wof:geomhash":"bfa5ff15d17812540483fd63465e9cbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
-            "neighbourhood_id":85788125,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85793173,
             "region_id":85684483,
             "venue_id":286803843
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
-            "neighbourhood_id":85793173,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788125,
             "region_id":85684483,
             "venue_id":286803843
         }
     ],
     "wof:id":286803843,
-    "wof:lastmodified":1472262525,
+    "wof:lastmodified":1491905688,
     "wof:name":"Capachino Coffee House",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

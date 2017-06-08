@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.898981,52.43539,-1.898981,52.43539",
     "geom:latitude":52.43539,
     "geom:longitude":-1.898981,
@@ -39,7 +40,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785881,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -51,16 +55,18 @@
     "wof:geomhash":"ae32e43d4ff1797166b40890b04c5640",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785881,
             "region_id":85684283,
             "venue_id":320856007
         }
     ],
     "wof:id":320856007,
-    "wof:lastmodified":1472265682,
+    "wof:lastmodified":1491893429,
     "wof:name":"Boundary Sports Ltd.",
     "wof:parent_id":85785881,
     "wof:placetype":"venue",

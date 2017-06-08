@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.131846,52.585438,-2.131846,52.585438",
     "geom:latitude":52.585438,
     "geom:longitude":-2.131846,
@@ -28,11 +29,14 @@
     "sg:province":"West Midlands",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85785837,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
         101914031,
-        85633159,
-        85788059,
         85683801,
-        85785837
+        85788059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,24 +46,30 @@
     "wof:geomhash":"7530a481fec2a7599cd5377c7903498e",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
-            "neighbourhood_id":85788059,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85785837,
             "region_id":85683801,
             "venue_id":118893803
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
-            "neighbourhood_id":85785837,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788059,
             "region_id":85683801,
             "venue_id":118893803
         }
     ],
     "wof:id":118893803,
-    "wof:lastmodified":1472265721,
+    "wof:lastmodified":1491908559,
     "wof:name":"Plush Furnishing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

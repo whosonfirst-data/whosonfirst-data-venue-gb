@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.504808,52.443275,-1.504808,52.443275",
     "geom:latitude":52.443275,
     "geom:longitude":-1.504808,
@@ -33,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750449,
-        85633159,
-        85785359,
-        85683907,
         85864245,
-        85684565
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
+        101750449,
+        85684565,
+        85785359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +51,30 @@
     "wof:geomhash":"6faa0da6785b4f758290c682b398c523",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
-            "neighbourhood_id":85785359,
-            "region_id":85683907,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85864245,
+            "region_id":85684565,
             "venue_id":102686977
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
-            "neighbourhood_id":85864245,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85785359,
             "region_id":85684565,
             "venue_id":102686977
         }
     ],
     "wof:id":102686977,
-    "wof:lastmodified":1472258033,
+    "wof:lastmodified":1491893888,
     "wof:name":"Maxim Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

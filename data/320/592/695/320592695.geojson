@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.333588,51.445335,-0.333588,51.445335",
     "geom:latitude":51.445335,
     "geom:longitude":-0.333588,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791201,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684151
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"d7f5aabf0587f80837a8b7ed4fed62f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791201,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":320592695
         }
     ],
     "wof:id":320592695,
-    "wof:lastmodified":1472264285,
+    "wof:lastmodified":1491889334,
     "wof:name":"United Kingdom Civil Service Benefit Society",
     "wof:parent_id":85791201,
     "wof:placetype":"venue",

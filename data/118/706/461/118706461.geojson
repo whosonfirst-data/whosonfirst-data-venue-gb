@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.345687,55.880203,-4.345687,55.880203",
     "geom:latitude":55.880203,
     "geom:longitude":-4.345687,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85792447,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351,
         85790197
     ],
@@ -47,24 +51,30 @@
     "wof:geomhash":"f3f268f1ab17c6f433b206d215aa44d7",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792447,
             "region_id":85684351,
             "venue_id":118706461
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790197,
             "region_id":85684351,
             "venue_id":118706461
         }
     ],
     "wof:id":118706461,
-    "wof:lastmodified":1472262830,
+    "wof:lastmodified":1491911758,
     "wof:name":"West End Tv & Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

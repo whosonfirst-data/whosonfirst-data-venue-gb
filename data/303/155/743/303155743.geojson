@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.681677,53.86639,-1.681677,53.86639",
     "geom:latitude":53.86639,
     "geom:longitude":-1.681677,
@@ -40,8 +41,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786761,
         85633159,
+        102556877,
+        85786761,
         85684321
     ],
     "wof:breaches":[],
@@ -52,18 +54,17 @@
     "wof:geomhash":"757c814d25d47df6e7829a8de53702ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102556877,
             "country_id":85633159,
-            "locality_id":-1,
             "neighbourhood_id":85786761,
             "region_id":85684321,
             "venue_id":303155743
         }
     ],
     "wof:id":303155743,
-    "wof:lastmodified":1472256910,
+    "wof:lastmodified":1491932531,
     "wof:name":"Rosie Pound",
-    "wof:parent_id":85786761,
+    "wof:parent_id":102556877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

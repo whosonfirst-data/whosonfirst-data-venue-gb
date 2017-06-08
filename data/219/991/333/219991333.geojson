@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.912211,53.468391,-2.912211,53.468391",
     "geom:latitude":53.468391,
     "geom:longitude":-2.912211,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787377,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"2a3b22679f1f15a8662fcf194e3cc597",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787377,
             "region_id":85684213,
             "venue_id":219991333
         }
     ],
     "wof:id":219991333,
-    "wof:lastmodified":1472263879,
+    "wof:lastmodified":1491906843,
     "wof:name":"Dream Time",
     "wof:parent_id":85787377,
     "wof:placetype":"venue",

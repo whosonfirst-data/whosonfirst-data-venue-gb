@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.97608,52.491058,-1.97608,52.491058",
     "geom:latitude":52.491058,
     "geom:longitude":-1.97608,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787515,
-        85633159,
+        "102191581",
+        404446943,
+        "85633159",
+        404227469,
         101914045,
         85684511
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"e7e6cdf230ffa92fe3c13c0aaa4f0887",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
             "locality_id":101914045,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787515,
             "region_id":85684511,
             "venue_id":320510829
         }
     ],
     "wof:id":320510829,
-    "wof:lastmodified":1472263234,
+    "wof:lastmodified":1491936062,
     "wof:name":"T S Albion Sea Cadet Corps",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",

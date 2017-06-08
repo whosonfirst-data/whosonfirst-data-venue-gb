@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.178771,55.972214,-3.178771,55.972214",
     "geom:latitude":55.972214,
     "geom:longitude":-3.178771,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861481,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"0eb002c74200d1cf9cb0b7f94f51d392",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":269790793
         }
     ],
     "wof:id":269790793,
-    "wof:lastmodified":1472260104,
+    "wof:lastmodified":1491933652,
     "wof:name":"A B Mearns",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

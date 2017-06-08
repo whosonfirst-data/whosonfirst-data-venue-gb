@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.309472,51.391487,-0.309472,51.391487",
     "geom:latitude":51.391487,
     "geom:longitude":-0.309472,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792321,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684151
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"8c0c3698fa197ea948eb9daff12e4722",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792321,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":287105365
         }
     ],
     "wof:id":287105365,
-    "wof:lastmodified":1472256410,
+    "wof:lastmodified":1491917445,
     "wof:name":"Impress Print",
     "wof:parent_id":85792321,
     "wof:placetype":"venue",

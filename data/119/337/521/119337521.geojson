@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.156129,53.468666,-2.156129,53.468666",
     "geom:latitude":53.468666,
     "geom:longitude":-2.156129,
@@ -29,9 +30,12 @@
     "sg:province":"Greater Manchester",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750525,
-        85633159,
         85785179,
+        "102191581",
+        404431331,
+        "85633159",
+        404227469,
+        101750525,
         85683651
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"8cd4deec64ab9669976ec107bf2b072c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431331,
             "locality_id":101750525,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785179,
             "region_id":85683651,
             "venue_id":119337521
         }
     ],
     "wof:id":119337521,
-    "wof:lastmodified":1472266065,
+    "wof:lastmodified":1491906496,
     "wof:name":"Pine Interiors Ltd.",
     "wof:parent_id":85785179,
     "wof:placetype":"venue",

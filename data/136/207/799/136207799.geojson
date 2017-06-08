@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.849844,52.515823,-1.849844,52.515823",
     "geom:latitude":52.515823,
     "geom:longitude":-1.849844,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787715,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"fe19a8db45c893e0cc775ee1df43279d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787715,
             "region_id":85684283,
             "venue_id":136207799
         }
     ],
     "wof:id":136207799,
-    "wof:lastmodified":1472263831,
+    "wof:lastmodified":1491899788,
     "wof:name":"McGilloway,Jackie,",
     "wof:parent_id":85787715,
     "wof:placetype":"venue",

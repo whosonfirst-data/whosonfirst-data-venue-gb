@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.021746,51.522087,0.021746,51.522087",
     "geom:latitude":51.522087,
     "geom:longitude":0.021746,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789849,
-        85684411
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"f30497a4286d7801f0eeacd9d7b021a5",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789849,
-            "region_id":85684411,
+            "region_id":85684061,
             "venue_id":135497271
         }
     ],
     "wof:id":135497271,
-    "wof:lastmodified":1472264514,
+    "wof:lastmodified":1491906574,
     "wof:name":"Mac's Greengrocers",
     "wof:parent_id":85789849,
     "wof:placetype":"venue",

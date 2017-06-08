@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.001345,51.448868,0.001345,51.448868",
     "geom:latitude":51.448868,
     "geom:longitude":0.001345,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861189,
-        85684337
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"80f798d1aa61900b92dd80371aa69b86",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861189,
-            "region_id":85684337,
+            "region_id":85684061,
             "venue_id":135452765
         }
     ],
     "wof:id":135452765,
-    "wof:lastmodified":1472264156,
+    "wof:lastmodified":1491888467,
     "wof:name":"Smiths Accountants",
     "wof:parent_id":85861189,
     "wof:placetype":"venue",

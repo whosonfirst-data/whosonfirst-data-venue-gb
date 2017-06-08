@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.147721,51.510265,-0.147721,51.510265",
     "geom:latitude":51.510265,
     "geom:longitude":-0.147721,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861823,
-        85633159,
+        85789041,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061,
-        85789041
+        85861823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +52,30 @@
     "wof:geomhash":"4d3cf8e655e88f8f87a3b471b57f16e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85861823,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789041,
             "region_id":85684061,
             "venue_id":287211829
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85789041,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861823,
             "region_id":85684061,
             "venue_id":287211829
         }
     ],
     "wof:id":287211829,
-    "wof:lastmodified":1472257681,
+    "wof:lastmodified":1491920920,
     "wof:name":"Kasmare Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

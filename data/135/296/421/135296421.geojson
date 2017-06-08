@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.37299,55.863811,-4.37299,55.863811",
     "geom:latitude":55.863811,
     "geom:longitude":-4.37299,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101913923,
-        85633159,
         85788221,
+        "102191581",
+        404432463,
+        "85633159",
+        404227471,
+        101913923,
         85684039
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"c5971e3ab6d2dca6408b7e34e87bf623",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432463,
             "locality_id":101913923,
+            "macroregion_id":404227471,
             "neighbourhood_id":85788221,
             "region_id":85684039,
             "venue_id":135296421
         }
     ],
     "wof:id":135296421,
-    "wof:lastmodified":1472255782,
+    "wof:lastmodified":1491894315,
     "wof:name":"Surelite UK",
     "wof:parent_id":85788221,
     "wof:placetype":"venue",

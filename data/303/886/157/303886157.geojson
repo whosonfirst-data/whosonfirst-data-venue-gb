@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.204676,53.469635,-2.204676,53.469635",
     "geom:latitude":53.469635,
     "geom:longitude":-2.204676,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785331,
-        85633159,
+        "102191581",
+        404431331,
+        "85633159",
+        404227469,
         101750525,
         85683651
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"396b8463f2d6a0ee918fb3f8b5ad041d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431331,
             "locality_id":101750525,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785331,
             "region_id":85683651,
             "venue_id":303886157
         }
     ],
     "wof:id":303886157,
-    "wof:lastmodified":1472265019,
+    "wof:lastmodified":1491910418,
     "wof:name":"M M & S M BHAKTA",
     "wof:parent_id":85785331,
     "wof:placetype":"venue",

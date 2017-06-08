@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.167551,55.973469,-3.167551,55.973469",
     "geom:latitude":55.973469,
     "geom:longitude":-3.167551,
@@ -41,7 +42,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861481,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -53,16 +57,18 @@
     "wof:geomhash":"e6b0dded942383795f90c390d38ea657",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":286771467
         }
     ],
     "wof:id":286771467,
-    "wof:lastmodified":1472262260,
+    "wof:lastmodified":1491933647,
     "wof:name":"Rumbletums",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

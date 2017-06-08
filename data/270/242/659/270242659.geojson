@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.504,52.37912,-1.504,52.37912",
     "geom:latitude":52.37912,
     "geom:longitude":-1.504,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790739,
-        85633159,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
         101750449,
         85684565
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"5cbac962bf664c0ab17ff11f5c4ad92a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790739,
             "region_id":85684565,
             "venue_id":270242659
         }
     ],
     "wof:id":270242659,
-    "wof:lastmodified":1472258009,
+    "wof:lastmodified":1491930149,
     "wof:name":"Hair by Gillian Bennett",
     "wof:parent_id":85790739,
     "wof:placetype":"venue",

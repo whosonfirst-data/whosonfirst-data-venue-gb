@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.446607,53.38287,-1.446607,53.38287",
     "geom:latitude":53.38287,
     "geom:longitude":-1.446607,
@@ -44,7 +45,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785403,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -56,16 +60,18 @@
     "wof:geomhash":"4986c91a6e217deced4a5cd101f67929",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":286742825
         }
     ],
     "wof:id":286742825,
-    "wof:lastmodified":1472262021,
+    "wof:lastmodified":1491907093,
     "wof:name":"Wybourn Young Peoples Resource Centre",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

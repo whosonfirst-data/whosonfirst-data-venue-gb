@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.511256,52.375191,-1.511256,52.375191",
     "geom:latitude":52.375191,
     "geom:longitude":-1.511256,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790739,
-        85633159,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
         101750449,
         85684565
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"43cd0c9bc29739a1183a4de13d4115ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790739,
             "region_id":85684565,
             "venue_id":286554867
         }
     ],
     "wof:id":286554867,
-    "wof:lastmodified":1472258755,
+    "wof:lastmodified":1491930156,
     "wof:name":"Care-ability",
     "wof:parent_id":85790739,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.856388,52.515858,-1.856388,52.515858",
     "geom:latitude":52.515858,
     "geom:longitude":-1.856388,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787715,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283,
         85790751
     ],
@@ -48,24 +52,30 @@
     "wof:geomhash":"6d897fbb88541605094364936912f66b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787715,
             "region_id":85684283,
             "venue_id":102699313
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790751,
             "region_id":85684283,
             "venue_id":102699313
         }
     ],
     "wof:id":102699313,
-    "wof:lastmodified":1472258454,
+    "wof:lastmodified":1491899786,
     "wof:name":"Gordons Building Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

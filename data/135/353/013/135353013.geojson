@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.799924,53.814018,-1.799924,53.814018",
     "geom:latitude":53.814018,
     "geom:longitude":-1.799924,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750581,
-        85633159,
         85787493,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
+        101750581,
         85684463
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"7b7a71573ff36cc3157fc69b9342829c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787493,
             "region_id":85684463,
             "venue_id":135353013
         }
     ],
     "wof:id":135353013,
-    "wof:lastmodified":1472258786,
+    "wof:lastmodified":1491937708,
     "wof:name":"Shield Investments Ltd",
     "wof:parent_id":85787493,
     "wof:placetype":"venue",

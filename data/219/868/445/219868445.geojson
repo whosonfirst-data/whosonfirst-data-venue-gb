@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.835584,52.509811,-1.835584,52.509811",
     "geom:latitude":52.509811,
     "geom:longitude":-1.835584,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792007,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"85a74ad5b80c6da5adb71be9bb3bdcf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792007,
             "region_id":85684283,
             "venue_id":219868445
         }
     ],
     "wof:id":219868445,
-    "wof:lastmodified":1472262947,
+    "wof:lastmodified":1491911639,
     "wof:name":"MURCO PETROLEUM LTD",
     "wof:parent_id":85792007,
     "wof:placetype":"venue",

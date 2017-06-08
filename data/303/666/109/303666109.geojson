@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.088549,51.577084,-0.088549,51.577084",
     "geom:latitude":51.577084,
     "geom:longitude":-0.088549,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860379,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683683
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"38e3e3ee8494c3d736ee773096fa09c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860379,
-            "region_id":85683683,
+            "region_id":85684061,
             "venue_id":303666109
         }
     ],
     "wof:id":303666109,
-    "wof:lastmodified":1472264039,
+    "wof:lastmodified":1491905047,
     "wof:name":"Asigold Ltd",
     "wof:parent_id":85860379,
     "wof:placetype":"venue",

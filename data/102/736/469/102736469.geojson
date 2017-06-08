@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.244805,51.508045,-0.244805,51.508045",
     "geom:latitude":51.508045,
     "geom:longitude":-0.244805,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860407,
-        85683679
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"d1c5c60f2e9fa49738622490fdf665a4",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860407,
-            "region_id":85683679,
+            "region_id":85684061,
             "venue_id":102736469
         }
     ],
     "wof:id":102736469,
-    "wof:lastmodified":1472259287,
+    "wof:lastmodified":1491887128,
     "wof:name":"Chalmers,Joanne,",
     "wof:parent_id":85860407,
     "wof:placetype":"venue",

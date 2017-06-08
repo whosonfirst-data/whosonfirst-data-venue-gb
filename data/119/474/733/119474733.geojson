@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.402961,54.906364,-1.402961,54.906364",
     "geom:latitude":54.906364,
     "geom:longitude":-1.402961,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750611,
-        85633159,
         85793169,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
+        101750611,
         85684483
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"d585a95dd6ac78c6f9355d787a1af9ce",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793169,
             "region_id":85684483,
             "venue_id":119474733
         }
     ],
     "wof:id":119474733,
-    "wof:lastmodified":1472266905,
+    "wof:lastmodified":1491935436,
     "wof:name":"St Marks Nursing Home",
     "wof:parent_id":85793169,
     "wof:placetype":"venue",

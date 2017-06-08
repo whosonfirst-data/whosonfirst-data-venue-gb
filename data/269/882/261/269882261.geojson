@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.180129,51.480125,-3.180129,51.480125",
     "geom:latitude":51.480125,
     "geom:longitude":-3.180129,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792749,
-        85633159,
+        "102191581",
+        404446393,
+        "85633159",
+        404227475,
         101750397,
         85683787
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"f4965f05a919fa95b0dab8f5d99d608d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446393,
             "locality_id":101750397,
+            "macroregion_id":404227475,
             "neighbourhood_id":85792749,
             "region_id":85683787,
             "venue_id":269882261
         }
     ],
     "wof:id":269882261,
-    "wof:lastmodified":1472261438,
+    "wof:lastmodified":1491938176,
     "wof:name":"Bistro One",
     "wof:parent_id":85792749,
     "wof:placetype":"venue",

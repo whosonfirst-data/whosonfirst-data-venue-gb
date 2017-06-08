@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.32214,55.912102,-3.32214,55.912102",
     "geom:latitude":55.912102,
     "geom:longitude":-3.32214,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791551,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"736429cd31b6aaa8410e64f4e58e3127",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85791551,
             "region_id":85684587,
             "venue_id":303539287
         }
     ],
     "wof:id":303539287,
-    "wof:lastmodified":1472262547,
+    "wof:lastmodified":1491933683,
     "wof:name":"Physiotherapy Clinic",
     "wof:parent_id":85791551,
     "wof:placetype":"venue",

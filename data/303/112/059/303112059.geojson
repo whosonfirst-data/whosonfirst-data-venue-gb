@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.235442,51.532349,-0.235442,51.532349",
     "geom:latitude":51.532349,
     "geom:longitude":-0.235442,
@@ -38,9 +39,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792201,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684299
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,16 +54,18 @@
     "wof:geomhash":"561fc56b970849d22ed0398880afeeae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792201,
-            "region_id":85684299,
+            "region_id":85684061,
             "venue_id":303112059
         }
     ],
     "wof:id":303112059,
-    "wof:lastmodified":1472256486,
+    "wof:lastmodified":1491905418,
     "wof:name":"Elite Electrical & Lighting Distributors Ltd",
     "wof:parent_id":85792201,
     "wof:placetype":"venue",

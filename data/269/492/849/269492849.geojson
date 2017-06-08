@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.019504,51.524212,-0.019504,51.524212",
     "geom:latitude":51.524212,
     "geom:longitude":-0.019504,
@@ -39,9 +40,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785887,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684467
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,16 +55,18 @@
     "wof:geomhash":"8d7ace7157302c4a9f5ce60a2e2b5b6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785887,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":269492849
         }
     ],
     "wof:id":269492849,
-    "wof:lastmodified":1472255128,
+    "wof:lastmodified":1491919676,
     "wof:name":"Fairfoot Library",
     "wof:parent_id":85785887,
     "wof:placetype":"venue",

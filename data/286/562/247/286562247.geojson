@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.98917,53.407879,-2.98917,53.407879",
     "geom:latitude":53.407879,
     "geom:longitude":-2.98917,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85793275,
-        85633159,
+        85793261,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213,
-        85793261
+        85793275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,26 +50,30 @@
     "wof:geomhash":"0fb3f252659efd44d901560621bc3480",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
-            "neighbourhood_id":85793275,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85793261,
             "region_id":85684213,
             "venue_id":286562247
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
-            "neighbourhood_id":85793261,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85793275,
             "region_id":85684213,
             "venue_id":286562247
         }
     ],
     "wof:id":286562247,
-    "wof:lastmodified":1472258855,
+    "wof:lastmodified":1491911664,
     "wof:name":"Millennium 2000 (U K) Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

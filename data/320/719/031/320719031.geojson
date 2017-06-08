@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.511698,54.97385,-1.511698,54.97385",
     "geom:latitude":54.97385,
     "geom:longitude":-1.511698,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785695,
-        85633159,
+        "102191581",
+        404435809,
+        "85633159",
+        404227469,
         101750613,
         85684395
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"aabf6ba7a79d3386c0fd8ed014d3ce07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435809,
             "locality_id":101750613,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785695,
             "region_id":85684395,
             "venue_id":320719031
         }
     ],
     "wof:id":320719031,
-    "wof:lastmodified":1472264866,
+    "wof:lastmodified":1491938420,
     "wof:name":"L SINGH",
     "wof:parent_id":85785695,
     "wof:placetype":"venue",

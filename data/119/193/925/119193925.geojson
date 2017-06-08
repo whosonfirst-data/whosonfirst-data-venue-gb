@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.972339,53.392643,-2.972339,53.392643",
     "geom:latitude":53.392643,
     "geom:longitude":-2.972339,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750547,
-        85633159,
         85791115,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
+        101750547,
         85684213
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"150a83da00d439470ad3340d0c7c195d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791115,
             "region_id":85684213,
             "venue_id":119193925
         }
     ],
     "wof:id":119193925,
-    "wof:lastmodified":1472264360,
+    "wof:lastmodified":1491912887,
     "wof:name":"Hudson,C,",
     "wof:parent_id":85791115,
     "wof:placetype":"venue",

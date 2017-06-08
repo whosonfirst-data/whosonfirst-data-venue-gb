@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.048278,51.528667,-0.048278,51.528667",
     "geom:latitude":51.528667,
     "geom:longitude":-0.048278,
@@ -36,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785887,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684467
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,16 +52,18 @@
     "wof:geomhash":"4450500ef3b0da9c384329051376f058",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785887,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":320520237
         }
     ],
     "wof:id":320520237,
-    "wof:lastmodified":1472263254,
+    "wof:lastmodified":1491919656,
     "wof:name":"Starlight Cafe",
     "wof:parent_id":85785887,
     "wof:placetype":"venue",

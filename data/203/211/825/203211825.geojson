@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.780208,53.802193,-1.780208,53.802193",
     "geom:latitude":53.802193,
     "geom:longitude":-1.780208,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787493,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"d741199e6289ec053f2d2e855d48a58f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787493,
             "region_id":85684463,
             "venue_id":203211825
         }
     ],
     "wof:id":203211825,
-    "wof:lastmodified":1472256857,
+    "wof:lastmodified":1491937714,
     "wof:name":"Robin E Jones",
     "wof:parent_id":85787493,
     "wof:placetype":"venue",

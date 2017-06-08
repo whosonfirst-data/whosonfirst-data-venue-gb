@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.284232,55.88554,-4.284232,55.88554",
     "geom:latitude":55.88554,
     "geom:longitude":-4.284232,
@@ -29,9 +30,12 @@
     "sg:province":"Glasgow City",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85789015,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"816d834d22066d4cb738090487fdc34c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85789015,
             "region_id":85684351,
             "venue_id":119338975
         }
     ],
     "wof:id":119338975,
-    "wof:lastmodified":1472266080,
+    "wof:lastmodified":1491934475,
     "wof:name":"Robb Agency The",
     "wof:parent_id":85789015,
     "wof:placetype":"venue",

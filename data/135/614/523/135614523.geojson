@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.399495,54.900349,-1.399495,54.900349",
     "geom:latitude":54.900349,
     "geom:longitude":-1.399495,
@@ -28,9 +29,12 @@
     "sg:province":"Tyne and Wear",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750611,
-        85633159,
         85793173,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
+        101750611,
         85684483
     ],
     "wof:breaches":[],
@@ -41,15 +45,18 @@
     "wof:geomhash":"a60ba5aadb6e25e9ef33e45af79596d5",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793173,
             "region_id":85684483,
             "venue_id":135614523
         }
     ],
     "wof:id":135614523,
-    "wof:lastmodified":1472265319,
+    "wof:lastmodified":1491905677,
     "wof:name":"Dawson,Kevin,",
     "wof:parent_id":85793173,
     "wof:placetype":"venue",

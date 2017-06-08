@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.068737,51.516911,0.068737,51.516911",
     "geom:latitude":51.516911,
     "geom:longitude":0.068737,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860191,
-        85684411
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"3eb164e52df53e9860756597d724406b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860191,
-            "region_id":85684411,
+            "region_id":85684061,
             "venue_id":135921979
         }
     ],
     "wof:id":135921979,
-    "wof:lastmodified":1472267737,
+    "wof:lastmodified":1491892924,
     "wof:name":"Plasto Food Services Ltd.",
     "wof:parent_id":85860191,
     "wof:placetype":"venue",

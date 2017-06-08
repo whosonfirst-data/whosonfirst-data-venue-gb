@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.106107,51.592579,-0.106107,51.592579",
     "geom:latitude":51.592579,
     "geom:longitude":-0.106107,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791751,
-        85684121
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"13865007ce7822544f131ee64ff83718",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791751,
-            "region_id":85684121,
+            "region_id":85684061,
             "venue_id":119083143
         }
     ],
     "wof:id":119083143,
-    "wof:lastmodified":1472258170,
+    "wof:lastmodified":1491896724,
     "wof:name":"Luqmani Thompson & Partners",
     "wof:parent_id":85791751,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.256914,55.857086,-4.256914,55.857086",
     "geom:latitude":55.857086,
     "geom:longitude":-4.256914,
@@ -40,7 +41,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861547,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -52,16 +56,18 @@
     "wof:geomhash":"a7747582891dd2bbedda404444a05880",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861547,
             "region_id":85684351,
             "venue_id":186437375
         }
     ],
     "wof:id":186437375,
-    "wof:lastmodified":1472259041,
+    "wof:lastmodified":1491931742,
     "wof:name":"St Enoch Centre Car Park",
     "wof:parent_id":85861547,
     "wof:placetype":"venue",

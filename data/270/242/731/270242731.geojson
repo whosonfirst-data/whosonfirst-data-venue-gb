@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.50336,52.37904,-1.50336,52.37904",
     "geom:latitude":52.37904,
     "geom:longitude":-1.50336,
@@ -46,7 +47,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790739,
-        85633159,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
         101750449,
         85684565
     ],
@@ -58,16 +62,18 @@
     "wof:geomhash":"f60574c53d2c8112c40a9c3b73fb9d46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790739,
             "region_id":85684565,
             "venue_id":270242731
         }
     ],
     "wof:id":270242731,
-    "wof:lastmodified":1472258010,
+    "wof:lastmodified":1491930149,
     "wof:name":"Westcott Refrigeration & Air Conditioning Ltd",
     "wof:parent_id":85790739,
     "wof:placetype":"venue",

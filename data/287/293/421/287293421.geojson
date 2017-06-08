@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.451564,53.807339,-1.451564,53.807339",
     "geom:latitude":53.807339,
     "geom:longitude":-1.451564,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786887,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321,
         85792863
@@ -48,26 +52,30 @@
     "wof:geomhash":"e62f01da381adc6e85f0b15c4fa5cf25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786887,
             "region_id":85684321,
             "venue_id":287293421
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792863,
             "region_id":85684321,
             "venue_id":287293421
         }
     ],
     "wof:id":287293421,
-    "wof:lastmodified":1472258984,
+    "wof:lastmodified":1491932061,
     "wof:name":"E C Taylor (Leeds) Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.223462,55.859844,-4.223462,55.859844",
     "geom:latitude":55.859844,
     "geom:longitude":-4.223462,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785321,
-        85633159,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"b77f6c83ac7271ca8829f6e94c0899c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85785321,
             "region_id":85684351,
             "venue_id":219885095
         }
     ],
     "wof:id":219885095,
-    "wof:lastmodified":1472262930,
+    "wof:lastmodified":1491920194,
     "wof:name":"Dick Stewart Hostel",
     "wof:parent_id":85785321,
     "wof:placetype":"venue",

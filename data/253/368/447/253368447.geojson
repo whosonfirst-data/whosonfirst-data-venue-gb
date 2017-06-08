@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.792322,52.458965,-1.792322,52.458965",
     "geom:latitude":52.458965,
     "geom:longitude":-1.792322,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791869,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"42ad5533d5d8e3134bf31b2b05578c2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791869,
             "region_id":85684283,
             "venue_id":253368447
         }
     ],
     "wof:id":253368447,
-    "wof:lastmodified":1472260183,
+    "wof:lastmodified":1491930530,
     "wof:name":"Bhogal,A S,",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",

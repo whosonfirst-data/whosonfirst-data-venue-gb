@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.18539,55.946651,-3.18539,55.946651",
     "geom:latitude":55.946651,
     "geom:longitude":-3.18539,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792713,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -43,16 +47,18 @@
     "wof:geomhash":"9e1607c204f349b1ffcaa3cc93276af2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85792713,
             "region_id":85684587,
             "venue_id":303915877
         }
     ],
     "wof:id":303915877,
-    "wof:lastmodified":1472265070,
+    "wof:lastmodified":1491885559,
     "wof:name":"The Royal Bank of Scotland Plc",
     "wof:parent_id":85792713,
     "wof:placetype":"venue",

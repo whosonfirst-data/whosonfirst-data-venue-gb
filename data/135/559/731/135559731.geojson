@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.243546,51.395481,-0.243546,51.395481",
     "geom:latitude":51.395481,
     "geom:longitude":-0.243546,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860327,
-        85684099
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"42c3bcd145ffd9fb928d8123a1aa618a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860327,
-            "region_id":85684099,
+            "region_id":85684061,
             "venue_id":135559731
         }
     ],
     "wof:id":135559731,
-    "wof:lastmodified":1472265329,
+    "wof:lastmodified":1491885889,
     "wof:name":"L A S Music Agency",
     "wof:parent_id":85860327,
     "wof:placetype":"venue",

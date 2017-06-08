@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.149159,51.357506,-0.149159,51.357506",
     "geom:latitude":51.357506,
     "geom:longitude":-0.149159,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792361,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683649
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"a0f0d4d5f4bd51d9d3f0fb24ca42694c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792361,
-            "region_id":85683649,
+            "region_id":85684061,
             "venue_id":253663627
         }
     ],
     "wof:id":253663627,
-    "wof:lastmodified":1472264283,
+    "wof:lastmodified":1491930132,
     "wof:name":"The Woodcote Club",
     "wof:parent_id":85792361,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.406079,53.41412,-1.406079,53.41412",
     "geom:latitude":53.41412,
     "geom:longitude":-1.406079,
@@ -29,9 +30,12 @@
     "sg:province":"South Yorkshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85791057,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"741887ff5589742d8b82399617f4d075",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791057,
             "region_id":85684537,
             "venue_id":135458887
         }
     ],
     "wof:id":135458887,
-    "wof:lastmodified":1472264205,
+    "wof:lastmodified":1491891216,
     "wof:name":"Bradwells A Taste Of Englands",
     "wof:parent_id":85791057,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.078112,51.512142,-0.078112,51.512142",
     "geom:latitude":51.512142,
     "geom:longitude":-0.078112,
@@ -33,11 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861829,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684467,
-        85861625,
-        85684081
+        85684061,
+        85861625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +50,30 @@
     "wof:geomhash":"51cf70b1f31e3f0415698fed3941b2c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861829,
-            "region_id":85684467,
+            "region_id":85684061,
             "venue_id":320033437
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861625,
-            "region_id":85684081,
+            "region_id":85684061,
             "venue_id":320033437
         }
     ],
     "wof:id":320033437,
-    "wof:lastmodified":1472255606,
+    "wof:lastmodified":1491922406,
     "wof:name":"Davies & Co.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

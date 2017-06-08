@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.502034,52.451111,-1.502034,52.451111",
     "geom:latitude":52.451111,
     "geom:longitude":-1.502034,
@@ -29,10 +30,13 @@
     "sg:province":"Warwickshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750449,
-        85633159,
         85785359,
-        85683907
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
+        101750449,
+        85684565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"82144d51b96215dd35306e0c3a760fd3",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785359,
-            "region_id":85683907,
+            "region_id":85684565,
             "venue_id":102680383
         }
     ],
     "wof:id":102680383,
-    "wof:lastmodified":1472257872,
+    "wof:lastmodified":1491893888,
     "wof:name":"Coventry Welsh Rugby Football Club",
     "wof:parent_id":85785359,
     "wof:placetype":"venue",

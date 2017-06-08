@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.478717,53.798927,-1.478717,53.798927",
     "geom:latitude":53.798927,
     "geom:longitude":-1.478717,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788563,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"ad9299c258f7de367de1da48aea6f66e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788563,
             "region_id":85684321,
             "venue_id":252727547
         }
     ],
     "wof:id":252727547,
-    "wof:lastmodified":1472255205,
+    "wof:lastmodified":1491908054,
     "wof:name":"Selby Road Car Hire Ltd",
     "wof:parent_id":85788563,
     "wof:placetype":"venue",

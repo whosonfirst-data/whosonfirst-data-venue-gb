@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.206524,55.974255,-3.206524,55.974255",
     "geom:latitude":55.974255,
     "geom:longitude":-3.206524,
@@ -29,9 +30,12 @@
     "sg:province":"City of Edinburgh",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85791157,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"d1fe20e061aee0385f5cd616d21eac1e",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85791157,
             "region_id":85684587,
             "venue_id":135520285
         }
     ],
     "wof:id":135520285,
-    "wof:lastmodified":1472264702,
+    "wof:lastmodified":1491932052,
     "wof:name":"St.Serf's Church Hall",
     "wof:parent_id":85791157,
     "wof:placetype":"venue",

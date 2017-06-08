@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.41556,54.918678,-1.41556,54.918678",
     "geom:latitude":54.918678,
     "geom:longitude":-1.41556,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789711,
-        85633159,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
         101750611,
         85684483
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"e2869c72565d7eab250cba6b7a97c68f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789711,
             "region_id":85684483,
             "venue_id":270004307
         }
     ],
     "wof:id":270004307,
-    "wof:lastmodified":1472255063,
+    "wof:lastmodified":1491903137,
     "wof:name":"Treepax Ltd.",
     "wof:parent_id":85789711,
     "wof:placetype":"venue",

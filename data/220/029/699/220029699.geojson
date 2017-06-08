@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.978438,52.57925,-1.978438,52.57925",
     "geom:latitude":52.57925,
     "geom:longitude":-1.978438,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85791913,
-        85633159,
-        85684155,
         85789023,
-        101914035
+        "102191581",
+        404439659,
+        "85633159",
+        404227469,
+        101914035,
+        85684155,
+        85633159,
+        85791913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,26 +51,26 @@
     "wof:geomhash":"a5817dd9e9ec615a42917ae52af4e319",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85791913,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439659,
+            "locality_id":101914035,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789023,
             "region_id":85684155,
             "venue_id":220029699
         },
         {
-            "continent_id":-1,
             "country_id":85633159,
-            "locality_id":101914035,
-            "neighbourhood_id":85789023,
+            "neighbourhood_id":85791913,
             "region_id":85684155,
             "venue_id":220029699
         }
     ],
     "wof:id":220029699,
-    "wof:lastmodified":1472255283,
+    "wof:lastmodified":1491912084,
     "wof:name":"Skidmore Four Wheel Drive Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

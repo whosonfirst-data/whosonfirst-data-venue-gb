@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.387581,54.896809,-1.387581,54.896809",
     "geom:latitude":54.896809,
     "geom:longitude":-1.387581,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793173,
-        85633159,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
         101750611,
         85684483
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"228a7fdaa04ab54667a9856787145743",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793173,
             "region_id":85684483,
             "venue_id":236915531
         }
     ],
     "wof:id":236915531,
-    "wof:lastmodified":1472264266,
+    "wof:lastmodified":1491905692,
     "wof:name":"St Christophers Travel",
     "wof:parent_id":85793173,
     "wof:placetype":"venue",

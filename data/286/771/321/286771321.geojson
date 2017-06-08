@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.16785,55.973598,-3.16785,55.973598",
     "geom:latitude":55.973598,
     "geom:longitude":-3.16785,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861481,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"5be8605d230975760db840e3dd0f3883",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":286771321
         }
     ],
     "wof:id":286771321,
-    "wof:lastmodified":1472262257,
+    "wof:lastmodified":1491933650,
     "wof:name":"The Slammer Bar",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.891662,52.464996,-1.891662,52.464996",
     "geom:latitude":52.464996,
     "geom:longitude":-1.891662,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787023,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"47a840500bdc34d0b8a5f0f4ef1cf0e9",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787023,
             "region_id":85684283,
             "venue_id":119164127
         }
     ],
     "wof:id":119164127,
-    "wof:lastmodified":1472262162,
+    "wof:lastmodified":1491905545,
     "wof:name":"Takhar of Birmingham",
     "wof:parent_id":85787023,
     "wof:placetype":"venue",

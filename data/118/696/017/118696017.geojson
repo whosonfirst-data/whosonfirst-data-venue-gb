@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.01581,51.406601,-0.01581,51.406601",
     "geom:latitude":51.406601,
     "geom:longitude":-0.01581,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85790329,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85785551,
-        85684235,
-        85790329
+        85684061,
+        85785551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +51,30 @@
     "wof:geomhash":"7c1c5882fba3a68c005c719efba03e31",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85785551,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790329,
+            "region_id":85684061,
             "venue_id":118696017
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85790329,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85785551,
+            "region_id":85684061,
             "venue_id":118696017
         }
     ],
     "wof:id":118696017,
-    "wof:lastmodified":1472262498,
+    "wof:lastmodified":1491908099,
     "wof:name":"Ken G Seall",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

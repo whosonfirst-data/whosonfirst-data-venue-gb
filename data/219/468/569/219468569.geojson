@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.352388,53.478397,-2.352388,53.478397",
     "geom:latitude":53.478397,
     "geom:longitude":-2.352388,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789751,
-        85633159,
+        "102191581",
+        404450245,
+        "85633159",
+        404227469,
         101750555,
         85684495
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"291e3310db48383a0f28ee5df602f404",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101750555,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789751,
             "region_id":85684495,
             "venue_id":219468569
         }
     ],
     "wof:id":219468569,
-    "wof:lastmodified":1472258940,
+    "wof:lastmodified":1491915025,
     "wof:name":"Barton Wines",
     "wof:parent_id":85789751,
     "wof:placetype":"venue",

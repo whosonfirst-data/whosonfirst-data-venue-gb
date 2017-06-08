@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.569555,51.448826,-2.569555,51.448826",
     "geom:latitude":51.448826,
     "geom:longitude":-2.569555,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750389,
-        85633159,
         85790657,
-        85684063
+        "102191581",
+        404431949,
+        "85633159",
+        404227469,
+        101750389,
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"f171a008ff78cac7d0ebc19216692ddb",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431949,
             "locality_id":101750389,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790657,
-            "region_id":85684063,
+            "region_id":85683793,
             "venue_id":136148449
         }
     ],
     "wof:id":136148449,
-    "wof:lastmodified":1472260316,
+    "wof:lastmodified":1491911516,
     "wof:name":"Avon Marble Co. Ltd.",
     "wof:parent_id":85790657,
     "wof:placetype":"venue",

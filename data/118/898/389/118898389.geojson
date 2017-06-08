@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.553301,51.456146,-2.553301,51.456146",
     "geom:latitude":51.456146,
     "geom:longitude":-2.553301,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750389,
-        85633159,
         85790029,
-        85684063
+        "102191581",
+        404431949,
+        "85633159",
+        404227469,
+        101750389,
+        85683793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"3ecfdb9bb0d2c33d92dc95c528d8ecb9",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431949,
             "locality_id":101750389,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790029,
-            "region_id":85684063,
+            "region_id":85683793,
             "venue_id":118898389
         }
     ],
     "wof:id":118898389,
-    "wof:lastmodified":1472265713,
+    "wof:lastmodified":1491934833,
     "wof:name":"Martins of Bristol",
     "wof:parent_id":85790029,
     "wof:placetype":"venue",

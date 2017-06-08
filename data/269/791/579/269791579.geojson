@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.175079,55.972412,-3.175079,55.972412",
     "geom:latitude":55.972412,
     "geom:longitude":-3.175079,
@@ -40,7 +41,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861481,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -52,16 +56,18 @@
     "wof:geomhash":"5f8466f45996c4f2e305568a25f1deaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":269791579
         }
     ],
     "wof:id":269791579,
-    "wof:lastmodified":1472259947,
+    "wof:lastmodified":1491933677,
     "wof:name":"ST THOMAS JUNCTION ROAD PARISH CHURCH",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

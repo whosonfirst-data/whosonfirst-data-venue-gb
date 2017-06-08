@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.241936,51.549225,-0.241936,51.549225",
     "geom:latitude":51.549225,
     "geom:longitude":-0.241936,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85792215,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85860401,
-        85684003,
-        85792215
+        85684061,
+        85860401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +51,30 @@
     "wof:geomhash":"e8be5f0ade755ede83129d00ea4dff3b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85860401,
-            "region_id":85684003,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792215,
+            "region_id":85684061,
             "venue_id":136198925
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85792215,
-            "region_id":85684003,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860401,
+            "region_id":85684061,
             "venue_id":136198925
         }
     ],
     "wof:id":136198925,
-    "wof:lastmodified":1472263325,
+    "wof:lastmodified":1491913543,
     "wof:name":"M Moss (Repairs) Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

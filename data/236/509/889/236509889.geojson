@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.984937,53.399906,-2.984937,53.399906",
     "geom:latitude":53.399906,
     "geom:longitude":-2.984937,
@@ -36,7 +37,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861589,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -48,16 +52,18 @@
     "wof:geomhash":"95386013817095aee8e5ed344a7f32a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861589,
             "region_id":85684213,
             "venue_id":236509889
         }
     ],
     "wof:id":236509889,
-    "wof:lastmodified":1472260887,
+    "wof:lastmodified":1491897282,
     "wof:name":"B & G Greenberg",
     "wof:parent_id":85861589,
     "wof:placetype":"venue",

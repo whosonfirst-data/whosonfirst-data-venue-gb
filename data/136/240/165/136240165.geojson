@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.109697,51.535603,-0.109697,51.535603",
     "geom:latitude":51.535603,
     "geom:longitude":-0.109697,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85866373,
-        85684071
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"3c8bb8c6d5a21af8070bc89c6ba6e660",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85866373,
-            "region_id":85684071,
+            "region_id":85684061,
             "venue_id":136240165
         }
     ],
     "wof:id":136240165,
-    "wof:lastmodified":1472264595,
+    "wof:lastmodified":1491885093,
     "wof:name":"Arcrose",
     "wof:parent_id":85866373,
     "wof:placetype":"venue",

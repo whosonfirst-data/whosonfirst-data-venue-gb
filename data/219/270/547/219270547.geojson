@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.27929,55.839561,-4.27929,55.839561",
     "geom:latitude":55.839561,
     "geom:longitude":-4.27929,
@@ -40,11 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861549,
-        85633159,
+        85789887,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
         101750621,
         85684351,
-        85789887
+        85861549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,26 +58,30 @@
     "wof:geomhash":"577799b90343a9d9d3d8dd2695d592d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
-            "neighbourhood_id":85861549,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85789887,
             "region_id":85684351,
             "venue_id":219270547
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
-            "neighbourhood_id":85789887,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85861549,
             "region_id":85684351,
             "venue_id":219270547
         }
     ],
     "wof:id":219270547,
-    "wof:lastmodified":1472256471,
+    "wof:lastmodified":1491914343,
     "wof:name":"Sense Scotland",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

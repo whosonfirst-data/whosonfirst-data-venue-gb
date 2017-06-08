@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.119829,51.58197,-0.119829,51.58197",
     "geom:latitude":51.58197,
     "geom:longitude":-0.119829,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788337,
-        85684121
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"2e32b342ac4d71aa2a90f45ff63c7476",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788337,
-            "region_id":85684121,
+            "region_id":85684061,
             "venue_id":135658681
         }
     ],
     "wof:id":135658681,
-    "wof:lastmodified":1472265783,
+    "wof:lastmodified":1491916126,
     "wof:name":"That's Dancin'",
     "wof:parent_id":85788337,
     "wof:placetype":"venue",

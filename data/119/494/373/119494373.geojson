@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.51118,54.957981,-1.51118,54.957981",
     "geom:latitude":54.957981,
     "geom:longitude":-1.51118,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750613,
-        85633159,
         85785695,
+        "102191581",
+        404435809,
+        "85633159",
+        404227469,
+        101750613,
         85684395
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"0cce69678057458873592265a6f948eb",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435809,
             "locality_id":101750613,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785695,
             "region_id":85684395,
             "venue_id":119494373
         }
     ],
     "wof:id":119494373,
-    "wof:lastmodified":1472266975,
+    "wof:lastmodified":1491938424,
     "wof:name":"Securidoor North East Ltd",
     "wof:parent_id":85785695,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.395085,54.907238,-1.395085,54.907238",
     "geom:latitude":54.907238,
     "geom:longitude":-1.395085,
@@ -38,7 +39,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793169,
-        85633159,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
         101750611,
         85684483
     ],
@@ -50,16 +54,18 @@
     "wof:geomhash":"0cc7bd4a956b95b87e9d3e5c6fc1103b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793169,
             "region_id":85684483,
             "venue_id":269604577
         }
     ],
     "wof:id":269604577,
-    "wof:lastmodified":1472256749,
+    "wof:lastmodified":1491935440,
     "wof:name":"Sunderland Sterile Services",
     "wof:parent_id":85793169,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.371311,54.933121,-1.371311,54.933121",
     "geom:latitude":54.933121,
     "geom:longitude":-1.371311,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793177,
-        85633159,
+        "102191581",
+        404435809,
+        "85633159",
+        404227469,
         101872337,
         85684395
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"3f9688f82a20997181f11961f9010b8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435809,
             "locality_id":101872337,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793177,
             "region_id":85684395,
             "venue_id":286513675
         }
     ],
     "wof:id":286513675,
-    "wof:lastmodified":1472258250,
+    "wof:lastmodified":1491893086,
     "wof:name":"Shagorika Tandoori Ltd.",
     "wof:parent_id":85793177,
     "wof:placetype":"venue",

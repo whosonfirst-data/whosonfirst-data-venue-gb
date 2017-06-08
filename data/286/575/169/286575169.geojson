@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.516409,52.429188,-1.516409,52.429188",
     "geom:latitude":52.429188,
     "geom:longitude":-1.516409,
@@ -38,7 +39,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85864245,
-        85633159,
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
         101750449,
         85684565
     ],
@@ -50,16 +54,18 @@
     "wof:geomhash":"dcf0fcb117426916486a312367c01999",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85864245,
             "region_id":85684565,
             "venue_id":286575169
         }
     ],
     "wof:id":286575169,
-    "wof:lastmodified":1472259034,
+    "wof:lastmodified":1491902398,
     "wof:name":"J & J K Marlowe",
     "wof:parent_id":85864245,
     "wof:placetype":"venue",

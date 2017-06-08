@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.235705,51.533249,-0.235705,51.533249",
     "geom:latitude":51.533249,
     "geom:longitude":-0.235705,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792201,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684299
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"d0c8714f9fda6a44692c4a56b20123ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792201,
-            "region_id":85684299,
+            "region_id":85684061,
             "venue_id":320617879
         }
     ],
     "wof:id":320617879,
-    "wof:lastmodified":1472264392,
+    "wof:lastmodified":1491905418,
     "wof:name":"David O'Keeffe",
     "wof:parent_id":85792201,
     "wof:placetype":"venue",

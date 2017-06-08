@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.881112,52.470573,-1.881112,52.470573",
     "geom:latitude":52.470573,
     "geom:longitude":-1.881112,
@@ -40,7 +41,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786199,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -52,16 +56,18 @@
     "wof:geomhash":"6d3723df0d46dd72844c870a1492397b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786199,
             "region_id":85684283,
             "venue_id":236261229
         }
     ],
     "wof:id":236261229,
-    "wof:lastmodified":1472257704,
+    "wof:lastmodified":1491913084,
     "wof:name":"Trident Charitable Housing Association Ltd.",
     "wof:parent_id":85786199,
     "wof:placetype":"venue",

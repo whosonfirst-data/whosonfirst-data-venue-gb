@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.2531709969,51.6245651245,-0.2531709969,51.6245651245",
     "geom:latitude":51.624565,
     "geom:longitude":-0.253171,
@@ -32,16 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
-        85792297,
-        85684613,
         85789097,
         "102191581",
         404435563,
         "85633159",
         404227469,
         101750367,
-        85684061
+        85684061,
+        85633159,
+        85792297,
+        85684613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +53,6 @@
     "wof:geomhash":"3f0e71ab64136c4dc2d6c4f23be0b582",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
-            "neighbourhood_id":85792297,
-            "region_id":85684613,
-            "venue_id":907491153
-        },
-        {
             "continent_id":"102191581",
             "country_id":"85633159",
             "localadmin_id":404435563,
@@ -66,12 +61,18 @@
             "neighbourhood_id":85789097,
             "region_id":85684061,
             "venue_id":907491153
+        },
+        {
+            "country_id":85633159,
+            "neighbourhood_id":85792297,
+            "region_id":85684613,
+            "venue_id":907491153
         }
     ],
     "wof:id":907491153,
-    "wof:lastmodified":1472269407,
+    "wof:lastmodified":1491899854,
     "wof:name":"Central Signwriters",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

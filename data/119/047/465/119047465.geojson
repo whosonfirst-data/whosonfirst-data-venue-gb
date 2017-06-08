@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.51034,52.465328,-1.51034,52.465328",
     "geom:latitude":52.465328,
     "geom:longitude":-1.51034,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750449,
-        85633159,
         85785359,
-        85683907
+        "102191581",
+        404433241,
+        "85633159",
+        404227469,
+        101750449,
+        85684565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"471065ca6b119770451b728dc939ec48",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404433241,
             "locality_id":101750449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785359,
-            "region_id":85683907,
+            "region_id":85684565,
             "venue_id":119047465
         }
     ],
     "wof:id":119047465,
-    "wof:lastmodified":1472256150,
+    "wof:lastmodified":1491893887,
     "wof:name":"Burtonwood Brewery Plc",
     "wof:parent_id":85785359,
     "wof:placetype":"venue",

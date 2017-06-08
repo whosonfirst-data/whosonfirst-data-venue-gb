@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.356248,53.477879,-2.356248,53.477879",
     "geom:latitude":53.477879,
     "geom:longitude":-2.356248,
@@ -29,9 +30,12 @@
     "sg:province":"Greater Manchester",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750555,
-        85633159,
         85789751,
+        "102191581",
+        404450245,
+        "85633159",
+        404227469,
+        101750555,
         85684495
     ],
     "wof:breaches":[],
@@ -42,15 +46,18 @@
     "wof:geomhash":"94da56d02238fb1d487986a1752313b3",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404450245,
             "locality_id":101750555,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789751,
             "region_id":85684495,
             "venue_id":119320511
         }
     ],
     "wof:id":119320511,
-    "wof:lastmodified":1472265676,
+    "wof:lastmodified":1491915023,
     "wof:name":"Four Square",
     "wof:parent_id":85789751,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.54008,53.828987,-1.54008,53.828987",
     "geom:latitude":53.828987,
     "geom:longitude":-1.54008,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786417,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"151f3b0c20f3525c2f92e1e75b937d26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786417,
             "region_id":85684321,
             "venue_id":286848065
         }
     ],
     "wof:id":286848065,
-    "wof:lastmodified":1472262942,
+    "wof:lastmodified":1491916801,
     "wof:name":"Head for the Border",
     "wof:parent_id":85786417,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.628261,53.837994,-1.628261,53.837994",
     "geom:latitude":53.837994,
     "geom:longitude":-1.628261,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750579,
-        85633159,
         85792891,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
+        101750579,
         85684321
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"f76e3d57daeec9a60f3943851483362a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792891,
             "region_id":85684321,
             "venue_id":135579137
         }
     ],
     "wof:id":135579137,
-    "wof:lastmodified":1472265155,
+    "wof:lastmodified":1491889750,
     "wof:name":"J R Turner Plumbing & Heating",
     "wof:parent_id":85792891,
     "wof:placetype":"venue",

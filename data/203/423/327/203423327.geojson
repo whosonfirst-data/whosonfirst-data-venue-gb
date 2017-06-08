@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.042394,51.413322,0.042394,51.413322",
     "geom:latitude":51.413322,
     "geom:longitude":0.042394,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860033,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684235
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,18 @@
     "wof:geomhash":"9100ddea5d0ef38c864f6a27da4c3d27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860033,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":203423327
         }
     ],
     "wof:id":203423327,
-    "wof:lastmodified":1472259067,
+    "wof:lastmodified":1491926589,
     "wof:name":"Shaftesbury Housing",
     "wof:parent_id":85860033,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.836831,52.509079,-1.836831,52.509079",
     "geom:latitude":52.509079,
     "geom:longitude":-1.836831,
@@ -35,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85792007,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -48,15 +52,18 @@
     "wof:geomhash":"98cc1c4df2f658350f96f02876527fe6",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792007,
             "region_id":85684283,
             "venue_id":135999977
         }
     ],
     "wof:id":135999977,
-    "wof:lastmodified":1472267924,
+    "wof:lastmodified":1491911640,
     "wof:name":"Emporium Health & Fitness Ltd",
     "wof:parent_id":85792007,
     "wof:placetype":"venue",

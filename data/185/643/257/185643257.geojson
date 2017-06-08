@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.403209,54.904091,-1.403209,54.904091",
     "geom:latitude":54.904091,
     "geom:longitude":-1.403209,
@@ -39,7 +40,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793169,
-        85633159,
+        "102191581",
+        404439585,
+        "85633159",
+        404227469,
         101750611,
         85684483
     ],
@@ -51,16 +55,18 @@
     "wof:geomhash":"efdf89c568cc8aea586b367e10b6f713",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439585,
             "locality_id":101750611,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793169,
             "region_id":85684483,
             "venue_id":185643257
         }
     ],
     "wof:id":185643257,
-    "wof:lastmodified":1472255443,
+    "wof:lastmodified":1491935436,
     "wof:name":"Millfield Medical Group",
     "wof:parent_id":85793169,
     "wof:placetype":"venue",

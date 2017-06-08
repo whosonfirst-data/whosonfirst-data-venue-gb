@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.11678,53.34856,-2.11678,53.34856",
     "geom:latitude":53.34856,
     "geom:longitude":-2.11678,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750527,
-        85633159,
         85785933,
+        "102191581",
+        404444839,
+        "85633159",
+        404227469,
+        101750527,
         85683899
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"4fe77f5364ddc0983b041068536b5838",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444839,
             "locality_id":101750527,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785933,
             "region_id":85683899,
             "venue_id":119193427
         }
     ],
     "wof:id":119193427,
-    "wof:lastmodified":1472264315,
+    "wof:lastmodified":1491924850,
     "wof:name":"C L S Care Services Group",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",

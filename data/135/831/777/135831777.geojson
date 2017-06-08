@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.027289,51.469322,-0.027289,51.469322",
     "geom:latitude":51.469322,
     "geom:longitude":-0.027289,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860515,
-        85683707
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"7317f631adccf35f3134b529bd488785",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860515,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":135831777
         }
     ],
     "wof:id":135831777,
-    "wof:lastmodified":1472267425,
+    "wof:lastmodified":1491896191,
     "wof:name":"O.K. Audio & Video",
     "wof:parent_id":85860515,
     "wof:placetype":"venue",

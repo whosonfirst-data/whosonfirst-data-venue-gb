@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.175103,55.977154,-3.175103,55.977154",
     "geom:latitude":55.977154,
     "geom:longitude":-3.175103,
@@ -28,11 +29,14 @@
     "sg:province":"City of Edinburgh",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85788727,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
-        85633159,
-        85861481,
         85684587,
-        85788727
+        85861481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,22 +46,30 @@
     "wof:geomhash":"cf1a4b3cfe216b627f364d549d6fa933",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
-            "neighbourhood_id":85861481,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85788727,
             "region_id":85684587,
             "venue_id":136128639
         },
         {
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
-            "neighbourhood_id":85788727,
+            "macroregion_id":404227471,
+            "neighbourhood_id":85861481,
+            "region_id":85684587,
             "venue_id":136128639
         }
     ],
     "wof:id":136128639,
-    "wof:lastmodified":1472259836,
+    "wof:lastmodified":1491933644,
     "wof:name":"THE ROCK RESTAURANT",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

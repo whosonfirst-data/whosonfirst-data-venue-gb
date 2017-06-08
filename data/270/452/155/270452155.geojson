@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.187454,51.513348,-0.187454,51.513348",
     "geom:latitude":51.513348,
     "geom:longitude":-0.187454,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861621,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"8f82a3b726d74f67933cc5a633a12ba7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861621,
             "region_id":85684061,
             "venue_id":270452155
         }
     ],
     "wof:id":270452155,
-    "wof:lastmodified":1472261434,
+    "wof:lastmodified":1491919349,
     "wof:name":"Magic Wok Restaurant",
     "wof:parent_id":85861621,
     "wof:placetype":"venue",

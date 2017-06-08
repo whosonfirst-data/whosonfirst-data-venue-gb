@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.077349,51.536373,0.077349,51.536373",
     "geom:latitude":51.536373,
     "geom:longitude":0.077349,
@@ -41,9 +42,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785469,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683637
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,16 +57,18 @@
     "wof:geomhash":"4cb7157b7f7bfa4573335f05b2721fe1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785469,
-            "region_id":85683637,
+            "region_id":85684061,
             "venue_id":219932737
         }
     ],
     "wof:id":219932737,
-    "wof:lastmodified":1472263278,
+    "wof:lastmodified":1491892047,
     "wof:name":"Eaststreet-The Information Shop For Young People",
     "wof:parent_id":85785469,
     "wof:placetype":"venue",

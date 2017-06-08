@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.110238,51.507404,-0.110238,51.507404",
     "geom:latitude":51.507404,
     "geom:longitude":-0.110238,
@@ -34,11 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861777,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684533,
-        85861631,
-        85684289
+        85684061,
+        85861631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +51,30 @@
     "wof:geomhash":"3b12410d9637be8c974cf65e3fa97e16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861777,
-            "region_id":85684533,
+            "region_id":85684061,
             "venue_id":186616423
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861631,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":186616423
         }
     ],
     "wof:id":186616423,
-    "wof:lastmodified":1472260934,
+    "wof:lastmodified":1491934495,
     "wof:name":"Huon Corporation Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.939653,53.468494,-2.939653,53.468494",
     "geom:latitude":53.468494,
     "geom:longitude":-2.939653,
@@ -29,7 +30,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787377,
-        85633159,
+        "102191581",
+        404442221,
+        "85633159",
+        404227469,
         101750547,
         85684213
     ],
@@ -41,16 +45,18 @@
     "wof:geomhash":"b0b8e6894e8ab2759d528db3bb35fd41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404442221,
             "locality_id":101750547,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787377,
             "region_id":85684213,
             "venue_id":236474637
         }
     ],
     "wof:id":236474637,
-    "wof:lastmodified":1472260433,
+    "wof:lastmodified":1491906843,
     "wof:name":"Ashcroft,John,",
     "wof:parent_id":85787377,
     "wof:placetype":"venue",

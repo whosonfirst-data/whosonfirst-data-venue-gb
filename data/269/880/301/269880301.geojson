@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.096294,51.521835,0.096294,51.521835",
     "geom:latitude":51.521835,
     "geom:longitude":0.096294,
@@ -36,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786867,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683637
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,16 +52,18 @@
     "wof:geomhash":"3c581811a5ead04aa4c5ea2456dcae4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786867,
-            "region_id":85683637,
+            "region_id":85684061,
             "venue_id":269880301
         }
     ],
     "wof:id":269880301,
-    "wof:lastmodified":1472261477,
+    "wof:lastmodified":1491932157,
     "wof:name":"Timber Dryers Ltd.",
     "wof:parent_id":85786867,
     "wof:placetype":"venue",

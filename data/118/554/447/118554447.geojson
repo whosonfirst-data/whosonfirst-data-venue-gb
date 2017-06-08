@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.21485,51.520119,-0.21485,51.520119",
     "geom:latitude":51.520119,
     "geom:longitude":-0.21485,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789461,
-        85683667
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"ddc480e3f3cfa3f1ef9d317a827578ec",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789461,
-            "region_id":85683667,
+            "region_id":85684061,
             "venue_id":118554447
         }
     ],
     "wof:id":118554447,
-    "wof:lastmodified":1472257003,
+    "wof:lastmodified":1491902199,
     "wof:name":"Royal Borough of Kensington & Chelsea The",
     "wof:parent_id":85789461,
     "wof:placetype":"venue",

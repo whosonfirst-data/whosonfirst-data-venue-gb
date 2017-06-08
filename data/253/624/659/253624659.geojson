@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.400219,51.658234,-0.400219,51.658234",
     "geom:latitude":51.658234,
     "geom:longitude":-0.400219,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860799,
-        85633159,
+        "102191581",
+        404447683,
+        "85633159",
+        404227469,
         101751603,
         85684331
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"fb3fd8fc9b379c2ac417dcfeb526a8f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404447683,
             "locality_id":101751603,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":253624659
         }
     ],
     "wof:id":253624659,
-    "wof:lastmodified":1472264091,
+    "wof:lastmodified":1491931522,
     "wof:name":"Britannia Securities (International) Ltd.",
     "wof:parent_id":85860799,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.100021,51.465996,-0.100021,51.465996",
     "geom:latitude":51.465996,
     "geom:longitude":-0.100021,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786171,
-        85684289
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"6c6a9ee94f3238a9c9f5efb9f1ef4449",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786171,
-            "region_id":85684289,
+            "region_id":85684061,
             "venue_id":118847129
         }
     ],
     "wof:id":118847129,
-    "wof:lastmodified":1472264921,
+    "wof:lastmodified":1491921351,
     "wof:name":"North Brixton Motor Co.",
     "wof:parent_id":85786171,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.157179,51.539715,0.157179,51.539715",
     "geom:latitude":51.539715,
     "geom:longitude":0.157179,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786939,
-        85683637
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"93ad55b5496c8b0f934b039b17bcec29",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786939,
-            "region_id":85683637,
+            "region_id":85684061,
             "venue_id":135763115
         }
     ],
     "wof:id":135763115,
-    "wof:lastmodified":1472266886,
+    "wof:lastmodified":1491910715,
     "wof:name":"Church Elm Lane Sheltered Housing",
     "wof:parent_id":85786939,
     "wof:placetype":"venue",

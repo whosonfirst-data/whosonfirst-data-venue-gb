@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.544409,53.831825,-1.544409,53.831825",
     "geom:latitude":53.831825,
     "geom:longitude":-1.544409,
@@ -41,7 +42,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786417,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -53,16 +57,18 @@
     "wof:geomhash":"c46b7afec6e9bad1376cd8f1cb0d26bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786417,
             "region_id":85684321,
             "venue_id":286847839
         }
     ],
     "wof:id":286847839,
-    "wof:lastmodified":1472262982,
+    "wof:lastmodified":1491916808,
     "wof:name":"Chapel Allerton Lawn Tennis & Squash Club",
     "wof:parent_id":85786417,
     "wof:placetype":"venue",

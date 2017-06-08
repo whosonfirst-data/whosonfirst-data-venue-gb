@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.104424,52.472378,-2.104424,52.472378",
     "geom:latitude":52.472378,
     "geom:longitude":-2.104424,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789987,
-        85633159,
+        "102191581",
+        404451925,
+        "85633159",
+        404227469,
         101914027,
         85684449
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"76f6c566a7ba34d4b18b6fee62efa6ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404451925,
             "locality_id":101914027,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789987,
             "region_id":85684449,
             "venue_id":253622549
         }
     ],
     "wof:id":253622549,
-    "wof:lastmodified":1472264066,
+    "wof:lastmodified":1491910024,
     "wof:name":"M S Supermarkets",
     "wof:parent_id":85789987,
     "wof:placetype":"venue",

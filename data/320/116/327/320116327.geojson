@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.307842,51.392338,-0.307842,51.392338",
     "geom:latitude":51.392338,
     "geom:longitude":-0.307842,
@@ -34,11 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790841,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684387,
-        85792321,
-        85684151
+        85684061,
+        85792321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +51,30 @@
     "wof:geomhash":"c29b3b0b7c06280aedd67a0454fb7f78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790841,
-            "region_id":85684387,
+            "region_id":85684061,
             "venue_id":320116327
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792321,
-            "region_id":85684151,
+            "region_id":85684061,
             "venue_id":320116327
         }
     ],
     "wof:id":320116327,
-    "wof:lastmodified":1472257362,
+    "wof:lastmodified":1491917443,
     "wof:name":"Ollies The Skateboard Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

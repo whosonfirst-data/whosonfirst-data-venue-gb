@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.456467,53.392597,-1.456467,53.392597",
     "geom:latitude":53.392597,
     "geom:longitude":-1.456467,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785403,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"8d72f3e5b142270c86c05fc8b79f7392",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":186036599
         }
     ],
     "wof:id":186036599,
-    "wof:lastmodified":1472255269,
+    "wof:lastmodified":1491907126,
     "wof:name":"Economy Auto Centre",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

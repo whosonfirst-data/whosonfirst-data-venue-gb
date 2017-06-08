@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.164859,51.582432,0.164859,51.582432",
     "geom:latitude":51.582432,
     "geom:longitude":0.164859,
@@ -31,11 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85789027,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85633159,
-        85790087,
-        85683841,
-        85789027
+        85684061,
+        85790087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,24 +49,30 @@
     "wof:geomhash":"a8ee489f4f904e38237d5d37ddf513fc",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85790087,
-            "region_id":85683841,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789027,
+            "region_id":85684061,
             "venue_id":118906411
         },
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85789027,
-            "region_id":85683841,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790087,
+            "region_id":85684061,
             "venue_id":118906411
         }
     ],
     "wof:id":118906411,
-    "wof:lastmodified":1472265719,
+    "wof:lastmodified":1491895367,
     "wof:name":"V & S Newsagents",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

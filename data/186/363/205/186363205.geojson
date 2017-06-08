@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.881509,52.475189,-1.881509,52.475189",
     "geom:latitude":52.475189,
     "geom:longitude":-1.881509,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792835,
-        85633159,
+        85787009,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283,
-        85787009
+        85792835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +51,30 @@
     "wof:geomhash":"f3af7e76976ba9aa28e4f948c1238742",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
-            "neighbourhood_id":85792835,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787009,
             "region_id":85684283,
             "venue_id":186363205
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
-            "neighbourhood_id":85787009,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792835,
             "region_id":85684283,
             "venue_id":186363205
         }
     ],
     "wof:id":186363205,
-    "wof:lastmodified":1472258179,
+    "wof:lastmodified":1491889899,
     "wof:name":"Bodybits",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

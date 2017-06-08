@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-4.174926,55.852222,-4.174926,55.852222",
     "geom:latitude":55.852222,
     "geom:longitude":-4.174926,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750621,
-        85633159,
         85790555,
+        "102191581",
+        404430153,
+        "85633159",
+        404227471,
+        101750621,
         85684351
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"40b1ba046ebf0f1ec9a4a31336ed2e67",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430153,
             "locality_id":101750621,
+            "macroregion_id":404227471,
             "neighbourhood_id":85790555,
             "region_id":85684351,
             "venue_id":135328943
         }
     ],
     "wof:id":135328943,
-    "wof:lastmodified":1472257328,
+    "wof:lastmodified":1491897834,
     "wof:name":"Clydesdale Bank Plc",
     "wof:parent_id":85790555,
     "wof:placetype":"venue",

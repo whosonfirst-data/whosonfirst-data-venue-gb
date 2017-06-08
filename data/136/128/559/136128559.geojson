@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.171806,55.977238,-3.171806,55.977238",
     "geom:latitude":55.977238,
     "geom:longitude":-3.171806,
@@ -38,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85861481,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -51,15 +55,18 @@
     "wof:geomhash":"a3ad1f29be468526becafe3a62ab1ab6",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861481,
             "region_id":85684587,
             "venue_id":136128559
         }
     ],
     "wof:id":136128559,
-    "wof:lastmodified":1472259828,
+    "wof:lastmodified":1491933642,
     "wof:name":"Communicate",
     "wof:parent_id":85861481,
     "wof:placetype":"venue",

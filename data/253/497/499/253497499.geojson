@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.546587,53.794495,-1.546587,53.794495",
     "geom:latitude":53.794495,
     "geom:longitude":-1.546587,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792901,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -43,16 +47,18 @@
     "wof:geomhash":"f219ffb2fbedfd62da75e4715cd49864",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792901,
             "region_id":85684321,
             "venue_id":253497499
         }
     ],
     "wof:id":253497499,
-    "wof:lastmodified":1472262442,
+    "wof:lastmodified":1491910290,
     "wof:name":"NatWest",
     "wof:parent_id":85792901,
     "wof:placetype":"venue",

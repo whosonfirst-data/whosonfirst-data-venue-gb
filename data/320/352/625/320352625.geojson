@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.101849,51.292435,-0.101849,51.292435",
     "geom:latitude":51.292435,
     "geom:longitude":-0.101849,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860053,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684009
+        85684061
     ],
     "wof:brand_id":420574007,
     "wof:breaches":[],
@@ -48,16 +52,18 @@
     "wof:geomhash":"dcb5c09fcd6a58c01adcdd09f69b8de7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860053,
-            "region_id":85684009,
+            "region_id":85684061,
             "venue_id":320352625
         }
     ],
     "wof:id":320352625,
-    "wof:lastmodified":1472260588,
+    "wof:lastmodified":1491922321,
     "wof:name":"Victoria Wine",
     "wof:parent_id":85860053,
     "wof:placetype":"venue",

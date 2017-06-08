@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.792985,52.467022,-1.792985,52.467022",
     "geom:latitude":52.467022,
     "geom:longitude":-1.792985,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791869,
-        85633159,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
         101750467,
         85684283
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"920a936faaa5068a9b16e8da2fe829c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791869,
             "region_id":85684283,
             "venue_id":252792699
         }
     ],
     "wof:id":252792699,
-    "wof:lastmodified":1472255883,
+    "wof:lastmodified":1491930525,
     "wof:name":"Real Sandwich Co The",
     "wof:parent_id":85791869,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4019359946,51.6692771912,-0.4019359946,51.6692771912",
     "geom:latitude":51.669277,
     "geom:longitude":-0.401936,
@@ -31,15 +32,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633159,
+        85792443,
+        85684331,
         85860799,
         "102191581",
         404447683,
         "85633159",
         404227469,
-        101751603,
-        85684331,
-        85633159,
-        85792443
+        101751603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,6 +51,12 @@
     "wof:geomhash":"87f0314f5c12516f28ddc110af862b9e",
     "wof:hierarchy":[
         {
+            "country_id":85633159,
+            "neighbourhood_id":85792443,
+            "region_id":85684331,
+            "venue_id":923851133
+        },
+        {
             "continent_id":"102191581",
             "country_id":"85633159",
             "localadmin_id":404447683,
@@ -58,18 +65,12 @@
             "neighbourhood_id":85860799,
             "region_id":85684331,
             "venue_id":923851133
-        },
-        {
-            "country_id":85633159,
-            "neighbourhood_id":85792443,
-            "region_id":85684331,
-            "venue_id":923851133
         }
     ],
     "wof:id":923851133,
-    "wof:lastmodified":1472264399,
+    "wof:lastmodified":1491931653,
     "wof:name":"Gardencrest Services Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

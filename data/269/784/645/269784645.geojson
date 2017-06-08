@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.491179,53.817635,-1.491179,53.817635",
     "geom:latitude":53.817635,
     "geom:longitude":-1.491179,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792871,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"3c774ed258c41c93814aba4df53607c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792871,
             "region_id":85684321,
             "venue_id":269784645
         }
     ],
     "wof:id":269784645,
-    "wof:lastmodified":1472259839,
+    "wof:lastmodified":1491932497,
     "wof:name":"M C Properties (Leeds) Ltd.",
     "wof:parent_id":85792871,
     "wof:placetype":"venue",

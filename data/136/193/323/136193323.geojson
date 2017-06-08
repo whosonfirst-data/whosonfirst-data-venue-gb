@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.892359,52.463539,-1.892359,52.463539",
     "geom:latitude":52.463539,
     "geom:longitude":-1.892359,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85787023,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"e4b542493d1ea42f7134400de0d29b4a",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787023,
             "region_id":85684283,
             "venue_id":136193323
         }
     ],
     "wof:id":136193323,
-    "wof:lastmodified":1472263061,
+    "wof:lastmodified":1491905550,
     "wof:name":"Wheeler Fabrications Ltd",
     "wof:parent_id":85787023,
     "wof:placetype":"venue",

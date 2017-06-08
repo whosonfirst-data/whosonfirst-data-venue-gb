@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.451389,53.807423,-1.451389,53.807423",
     "geom:latitude":53.807423,
     "geom:longitude":-1.451389,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786887,
-        85633159,
+        "102191581",
+        404432293,
+        "85633159",
+        404227469,
         101750579,
         85684321,
         85792863
@@ -48,26 +52,30 @@
     "wof:geomhash":"68f82ed4ddebd550dcb509b06bf6adfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786887,
             "region_id":85684321,
             "venue_id":203241641
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404432293,
             "locality_id":101750579,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792863,
             "region_id":85684321,
             "venue_id":203241641
         }
     ],
     "wof:id":203241641,
-    "wof:lastmodified":1472257145,
+    "wof:lastmodified":1491932064,
     "wof:name":"Yorkshire Bank Plc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

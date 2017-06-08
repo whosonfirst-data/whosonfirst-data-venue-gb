@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.803993,53.795967,-1.803993,53.795967",
     "geom:latitude":53.795967,
     "geom:longitude":-1.803993,
@@ -41,7 +42,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787493,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -53,16 +57,18 @@
     "wof:geomhash":"62e66b2cc597c9752b97fb38e54d13f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787493,
             "region_id":85684463,
             "venue_id":235970629
         }
     ],
     "wof:id":235970629,
-    "wof:lastmodified":1472255342,
+    "wof:lastmodified":1491937707,
     "wof:name":"T Hewitson",
     "wof:parent_id":85787493,
     "wof:placetype":"venue",

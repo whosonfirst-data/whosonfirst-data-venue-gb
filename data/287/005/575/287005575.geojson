@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.122897,53.370579,-2.122897,53.370579",
     "geom:latitude":53.370579,
     "geom:longitude":-2.122897,
@@ -32,7 +33,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785933,
-        85633159,
+        "102191581",
+        404444839,
+        "85633159",
+        404227469,
         101750527,
         85683899
     ],
@@ -44,16 +48,18 @@
     "wof:geomhash":"c96278f8d29fe73b198dce49415028e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444839,
             "locality_id":101750527,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785933,
             "region_id":85683899,
             "venue_id":287005575
         }
     ],
     "wof:id":287005575,
-    "wof:lastmodified":1472255140,
+    "wof:lastmodified":1491924924,
     "wof:name":"Furber,Russell,",
     "wof:parent_id":85785933,
     "wof:placetype":"venue",

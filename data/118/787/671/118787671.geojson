@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.448079,53.39027,-1.448079,53.39027",
     "geom:latitude":53.39027,
     "geom:longitude":-1.448079,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85785403,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"a412466843593201f36a18058d0982d4",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785403,
             "region_id":85684537,
             "venue_id":118787671
         }
     ],
     "wof:id":118787671,
-    "wof:lastmodified":1472264573,
+    "wof:lastmodified":1491907093,
     "wof:name":"Chubb Electronic Security Ltd.",
     "wof:parent_id":85785403,
     "wof:placetype":"venue",

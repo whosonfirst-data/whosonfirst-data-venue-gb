@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.148566,51.512501,-0.148566,51.512501",
     "geom:latitude":51.512501,
     "geom:longitude":-0.148566,
@@ -35,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861823,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
         85684061
     ],
     "wof:breaches":[],
@@ -48,15 +52,18 @@
     "wof:geomhash":"39e3d69f6050e0f94784e5769f0a4d2f",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861823,
             "region_id":85684061,
             "venue_id":135457039
         }
     ],
     "wof:id":135457039,
-    "wof:lastmodified":1472264046,
+    "wof:lastmodified":1491920978,
     "wof:name":"Zawadi Ltd.",
     "wof:parent_id":85861823,
     "wof:placetype":"venue",

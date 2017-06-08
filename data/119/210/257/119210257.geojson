@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.226504,55.908649,-3.226504,55.908649",
     "geom:latitude":55.908649,
     "geom:longitude":-3.226504,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750629,
-        85633159,
         85861513,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
+        101750629,
         85684587
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"27703968a7199fb45000829083a53587",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861513,
             "region_id":85684587,
             "venue_id":119210257
         }
     ],
     "wof:id":119210257,
-    "wof:lastmodified":1472264823,
+    "wof:lastmodified":1491916692,
     "wof:name":"Comiston Primary School",
     "wof:parent_id":85861513,
     "wof:placetype":"venue",

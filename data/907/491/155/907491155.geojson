@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.2526359856,51.6247749329,-0.2526359856,51.6247749329",
     "geom:latitude":51.624775,
     "geom:longitude":-0.252636,
@@ -35,16 +36,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
-        85792297,
-        85684613,
         85789097,
         "102191581",
         404435563,
         "85633159",
         404227469,
         101750367,
-        85684061
+        85684061,
+        85633159,
+        85792297,
+        85684613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +56,6 @@
     "wof:geomhash":"a19bc7d76322afbe8099fbaade0c3c93",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
-            "neighbourhood_id":85792297,
-            "region_id":85684613,
-            "venue_id":907491155
-        },
-        {
             "continent_id":"102191581",
             "country_id":"85633159",
             "localadmin_id":404435563,
@@ -69,12 +64,18 @@
             "neighbourhood_id":85789097,
             "region_id":85684061,
             "venue_id":907491155
+        },
+        {
+            "country_id":85633159,
+            "neighbourhood_id":85792297,
+            "region_id":85684613,
+            "venue_id":907491155
         }
     ],
     "wof:id":907491155,
-    "wof:lastmodified":1472269418,
+    "wof:lastmodified":1491899868,
     "wof:name":"1st London Security Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

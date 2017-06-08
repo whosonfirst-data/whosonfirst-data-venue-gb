@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.08203,51.427929,-0.08203,51.427929",
     "geom:latitude":51.427929,
     "geom:longitude":-0.08203,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860547,
-        85684533
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"eea1746f18383722510a3562cbdc276d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860547,
-            "region_id":85684533,
+            "region_id":85684061,
             "venue_id":119218039
         }
     ],
     "wof:id":119218039,
-    "wof:lastmodified":1472264946,
+    "wof:lastmodified":1491898032,
     "wof:name":"Davids Removals",
     "wof:parent_id":85860547,
     "wof:placetype":"venue",

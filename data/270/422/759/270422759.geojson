@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.970347,52.577488,-1.970347,52.577488",
     "geom:latitude":52.577488,
     "geom:longitude":-1.970347,
@@ -38,7 +39,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789023,
-        85633159,
+        "102191581",
+        404439659,
+        "85633159",
+        404227469,
         101914035,
         85684155
     ],
@@ -50,16 +54,18 @@
     "wof:geomhash":"78dd8822c9e41c8d8639c521a7047436",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439659,
             "locality_id":101914035,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789023,
             "region_id":85684155,
             "venue_id":270422759
         }
     ],
     "wof:id":270422759,
-    "wof:lastmodified":1472260952,
+    "wof:lastmodified":1491912098,
     "wof:name":"Acorn Rest Home",
     "wof:parent_id":85789023,
     "wof:placetype":"venue",

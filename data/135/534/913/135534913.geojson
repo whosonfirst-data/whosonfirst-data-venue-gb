@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.896428,52.43372,-1.896428,52.43372",
     "geom:latitude":52.43372,
     "geom:longitude":-1.896428,
@@ -39,9 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85785881,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -52,15 +56,18 @@
     "wof:geomhash":"b5f62a16133435f2a7cc9712a57cd08d",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785881,
             "region_id":85684283,
             "venue_id":135534913
         }
     ],
     "wof:id":135534913,
-    "wof:lastmodified":1472265334,
+    "wof:lastmodified":1491893422,
     "wof:name":"Beautiform Training College",
     "wof:parent_id":85785881,
     "wof:placetype":"venue",

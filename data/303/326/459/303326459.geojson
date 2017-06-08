@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.146257,51.513771,-0.146257,51.513771",
     "geom:latitude":51.513771,
     "geom:longitude":-0.146257,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861823,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
         85684061
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"f807e8af5dc43b1458b1a3e473aa9a4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861823,
             "region_id":85684061,
             "venue_id":303326459
         }
     ],
     "wof:id":303326459,
-    "wof:lastmodified":1472259222,
+    "wof:lastmodified":1491920990,
     "wof:name":"Grenfell",
     "wof:parent_id":85861823,
     "wof:placetype":"venue",

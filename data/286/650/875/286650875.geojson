@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.960607,52.559452,-1.960607,52.559452",
     "geom:latitude":52.559452,
     "geom:longitude":-1.960607,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789023,
-        85633159,
+        "102191581",
+        404439659,
+        "85633159",
+        404227469,
         101914035,
         85684155
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"98f0e9187a824f9347d7cfa92c130680",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404439659,
             "locality_id":101914035,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789023,
             "region_id":85684155,
             "venue_id":286650875
         }
     ],
     "wof:id":286650875,
-    "wof:lastmodified":1472259724,
+    "wof:lastmodified":1491912087,
     "wof:name":"M Firkin",
     "wof:parent_id":85789023,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.174159,52.567753,-2.174159,52.567753",
     "geom:latitude":52.567753,
     "geom:longitude":-2.174159,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785907,
-        85633159,
+        "102191581",
+        404434911,
+        "85633159",
+        404227469,
         101914031,
         85683801
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"5725022015ce551f97a5532a324c939b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404434911,
             "locality_id":101914031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785907,
             "region_id":85683801,
             "venue_id":320281397
         }
     ],
     "wof:id":320281397,
-    "wof:lastmodified":1472259599,
+    "wof:lastmodified":1491914471,
     "wof:name":"Penn",
     "wof:parent_id":85785907,
     "wof:placetype":"venue",

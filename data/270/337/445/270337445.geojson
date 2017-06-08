@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-3.248017,55.923164,-3.248017,55.923164",
     "geom:latitude":55.923164,
     "geom:longitude":-3.248017,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861495,
-        85633159,
+        "102191581",
+        404437279,
+        "85633159",
+        404227471,
         101750629,
         85684587
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"0e023438e4b77d9d09d657ea1950086d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437279,
             "locality_id":101750629,
+            "macroregion_id":404227471,
             "neighbourhood_id":85861495,
             "region_id":85684587,
             "venue_id":270337445
         }
     ],
     "wof:id":270337445,
-    "wof:lastmodified":1472259293,
+    "wof:lastmodified":1491931247,
     "wof:name":"THISTLE VETERINARY HEALTH CENTRES",
     "wof:parent_id":85861495,
     "wof:placetype":"venue",

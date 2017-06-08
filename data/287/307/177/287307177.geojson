@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.802537,53.813183,-1.802537,53.813183",
     "geom:latitude":53.813183,
     "geom:longitude":-1.802537,
@@ -30,7 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787493,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -42,16 +46,18 @@
     "wof:geomhash":"298a57540ea45e059cb7b18e9b8ef54b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787493,
             "region_id":85684463,
             "venue_id":287307177
         }
     ],
     "wof:id":287307177,
-    "wof:lastmodified":1472259124,
+    "wof:lastmodified":1491937715,
     "wof:name":"Food Fair",
     "wof:parent_id":85787493,
     "wof:placetype":"venue",

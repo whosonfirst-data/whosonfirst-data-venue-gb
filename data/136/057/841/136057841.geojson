@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.491834,53.368183,-1.491834,53.368183",
     "geom:latitude":53.368183,
     "geom:longitude":-1.491834,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750529,
-        85633159,
         85793113,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
+        101750529,
         85684537
     ],
     "wof:breaches":[],
@@ -47,15 +51,18 @@
     "wof:geomhash":"3221a00de558b3a53cd3e1ec44a4f25b",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":136057841
         }
     ],
     "wof:id":136057841,
-    "wof:lastmodified":1472257090,
+    "wof:lastmodified":1491899105,
     "wof:name":"Russell Hutton Fine Interiors",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

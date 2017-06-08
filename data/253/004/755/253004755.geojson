@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.965069,52.50869,-1.965069,52.50869",
     "geom:latitude":52.50869,
     "geom:longitude":-1.965069,
@@ -33,7 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787515,
-        85633159,
+        "102191581",
+        404446943,
+        "85633159",
+        404227469,
         101914045,
         85684511
     ],
@@ -45,16 +49,18 @@
     "wof:geomhash":"b5992032d4074f14c31b2f3860714a51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404446943,
             "locality_id":101914045,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787515,
             "region_id":85684511,
             "venue_id":253004755
         }
     ],
     "wof:id":253004755,
-    "wof:lastmodified":1472255077,
+    "wof:lastmodified":1491936130,
     "wof:name":"Vp Plc",
     "wof:parent_id":85787515,
     "wof:placetype":"venue",

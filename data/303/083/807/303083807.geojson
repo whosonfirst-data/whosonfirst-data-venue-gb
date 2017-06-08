@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.090051,51.474163,0.090051,51.474163",
     "geom:latitude":51.474163,
     "geom:longitude":0.090051,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860539,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683707
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"10d6a3472033229f8f79ef6e18fb66ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860539,
-            "region_id":85683707,
+            "region_id":85684061,
             "venue_id":303083807
         }
     ],
     "wof:id":303083807,
-    "wof:lastmodified":1472256036,
+    "wof:lastmodified":1491892781,
     "wof:name":"Effectiveness Development U K",
     "wof:parent_id":85860539,
     "wof:placetype":"venue",

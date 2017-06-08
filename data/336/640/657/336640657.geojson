@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.46962,53.382092,-1.46962,53.382092",
     "geom:latitude":53.382092,
     "geom:longitude":-1.46962,
@@ -40,7 +41,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793113,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -52,16 +56,18 @@
     "wof:geomhash":"cb9778d7ed9dea8e5e1a92863294d35b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":336640657
         }
     ],
     "wof:id":336640657,
-    "wof:lastmodified":1472255789,
+    "wof:lastmodified":1491899054,
     "wof:name":"Sodexho Prestige",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.133646,51.508148,-0.133646,51.508148",
     "geom:latitude":51.508148,
     "geom:longitude":-0.133646,
@@ -33,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861787,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
         85684061
     ],
     "wof:breaches":[],
@@ -46,15 +50,18 @@
     "wof:geomhash":"20f060ccc1f61cd3bc680aeb51b0580c",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861787,
             "region_id":85684061,
             "venue_id":119056177
         }
     ],
     "wof:id":119056177,
-    "wof:lastmodified":1472256579,
+    "wof:lastmodified":1491916726,
     "wof:name":"Disc Interconsult",
     "wof:parent_id":85861787,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.478769,53.374928,-1.478769,53.374928",
     "geom:latitude":53.374928,
     "geom:longitude":-1.478769,
@@ -35,7 +36,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793113,
-        85633159,
+        "102191581",
+        404430843,
+        "85633159",
+        404227469,
         101750529,
         85684537
     ],
@@ -47,16 +51,18 @@
     "wof:geomhash":"f6cdf9a68d21a809f8a16337cc5e27bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404430843,
             "locality_id":101750529,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793113,
             "region_id":85684537,
             "venue_id":320830269
         }
     ],
     "wof:id":320830269,
-    "wof:lastmodified":1472265493,
+    "wof:lastmodified":1491898949,
     "wof:name":"Beckett & Garner Ltd.",
     "wof:parent_id":85793113,
     "wof:placetype":"venue",

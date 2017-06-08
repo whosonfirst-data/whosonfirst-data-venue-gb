@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-2.244808,53.453873,-2.244808,53.453873",
     "geom:latitude":53.453873,
     "geom:longitude":-2.244808,
@@ -37,7 +38,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789203,
-        85633159,
+        "102191581",
+        404431331,
+        "85633159",
+        404227469,
         101750525,
         85683651
     ],
@@ -49,16 +53,18 @@
     "wof:geomhash":"8346912255152df613dd0f75f908acdb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404431331,
             "locality_id":101750525,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789203,
             "region_id":85683651,
             "venue_id":253464445
         }
     ],
     "wof:id":253464445,
-    "wof:lastmodified":1472262029,
+    "wof:lastmodified":1491909457,
     "wof:name":"David  Gooer",
     "wof:parent_id":85789203,
     "wof:placetype":"venue",

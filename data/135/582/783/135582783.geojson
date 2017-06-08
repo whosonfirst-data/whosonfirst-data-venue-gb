@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.364469,54.950207,-1.364469,54.950207",
     "geom:latitude":54.950207,
     "geom:longitude":-1.364469,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101872337,
-        85633159,
         85793177,
+        "102191581",
+        404435809,
+        "85633159",
+        404227469,
+        101872337,
         85684395
     ],
     "wof:breaches":[],
@@ -45,15 +49,18 @@
     "wof:geomhash":"144e554a2955bfb83723dfc4723d9183",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435809,
             "locality_id":101872337,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793177,
             "region_id":85684395,
             "venue_id":135582783
         }
     ],
     "wof:id":135582783,
-    "wof:lastmodified":1472265385,
+    "wof:lastmodified":1491893088,
     "wof:name":"Sunbeam Windows & Joinery Service",
     "wof:parent_id":85793177,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.729344,53.832405,-1.729344,53.832405",
     "geom:latitude":53.832405,
     "geom:longitude":-1.729344,
@@ -34,7 +35,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788415,
-        85633159,
+        "102191581",
+        404444941,
+        "85633159",
+        404227469,
         101750581,
         85684463
     ],
@@ -46,16 +50,18 @@
     "wof:geomhash":"02042d04153df5f13c3683c936ee1998",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404444941,
             "locality_id":101750581,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788415,
             "region_id":85684463,
             "venue_id":253388401
         }
     ],
     "wof:id":253388401,
-    "wof:lastmodified":1472260554,
+    "wof:lastmodified":1491903370,
     "wof:name":"Waterhouse,D,",
     "wof:parent_id":85788415,
     "wof:placetype":"venue",

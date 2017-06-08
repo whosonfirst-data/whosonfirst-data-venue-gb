@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.5593260527,53.7743453979,-1.5593260527,53.7743453979",
     "geom:latitude":53.774345,
     "geom:longitude":-1.559326,
@@ -39,15 +40,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633159,
+        85785585,
+        85684321,
         85785589,
         "102191581",
         404432293,
         "85633159",
         404227469,
-        101750579,
-        85684321,
-        85633159,
-        85785585
+        101750579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,6 +59,12 @@
     "wof:geomhash":"cc4e4f22e9ed4950fe358af24c8d3141",
     "wof:hierarchy":[
         {
+            "country_id":85633159,
+            "neighbourhood_id":85785585,
+            "region_id":85684321,
+            "venue_id":907613467
+        },
+        {
             "continent_id":"102191581",
             "country_id":"85633159",
             "localadmin_id":404432293,
@@ -66,18 +73,12 @@
             "neighbourhood_id":85785589,
             "region_id":85684321,
             "venue_id":907613467
-        },
-        {
-            "country_id":85633159,
-            "neighbourhood_id":85785585,
-            "region_id":85684321,
-            "venue_id":907613467
         }
     ],
     "wof:id":907613467,
-    "wof:lastmodified":1472270381,
+    "wof:lastmodified":1491903341,
     "wof:name":"Network Windows",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

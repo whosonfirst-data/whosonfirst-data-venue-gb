@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.875239,52.480522,-1.875239,52.480522",
     "geom:latitude":52.480522,
     "geom:longitude":-1.875239,
@@ -31,9 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750467,
-        85633159,
         85792835,
+        "102191581",
+        404437169,
+        "85633159",
+        404227469,
+        101750467,
         85684283
     ],
     "wof:breaches":[],
@@ -44,15 +48,18 @@
     "wof:geomhash":"6458731ce07d879e2a8af396a005fae8",
     "wof:hierarchy":[
         {
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404437169,
             "locality_id":101750467,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792835,
             "region_id":85684283,
             "venue_id":119315181
         }
     ],
     "wof:id":119315181,
-    "wof:lastmodified":1472265535,
+    "wof:lastmodified":1491889873,
     "wof:name":"Sapphire Catering",
     "wof:parent_id":85792835,
     "wof:placetype":"venue",

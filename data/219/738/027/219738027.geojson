@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.176267,51.575848,0.176267,51.575848",
     "geom:latitude":51.575848,
     "geom:longitude":0.176267,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85865131,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85683841
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,18 @@
     "wof:geomhash":"8df9a2aed5db1d14e003b42c534dcab4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85865131,
-            "region_id":85683841,
+            "region_id":85684061,
             "venue_id":219738027
         }
     ],
     "wof:id":219738027,
-    "wof:lastmodified":1472261978,
+    "wof:lastmodified":1491901157,
     "wof:name":"Bondho Raj",
     "wof:parent_id":85865131,
     "wof:placetype":"venue",
