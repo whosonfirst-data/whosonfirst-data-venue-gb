@@ -3,19 +3,50 @@
   "type": "Feature",
   "properties": {
     "addr:full":"27 Monmouth Street Holborn Greater London WC2H 9DD",
-    "addr:housenumber":"27",
+    "addr:housenumber":27,
+    "addr:phone":"+44(0)20 7232 3010 ",
     "addr:postcode":"wc2h 9dd",
     "addr:street":"Monmouth Street",
+    "addr:website":"http://www.monmouthcoffee.co.uk/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-0.1266990006,51.5142707825,-0.1266990006,51.5142707825",
+    "geom:bbox":"-0.126699,51.514271,-0.126699,51.514271",
     "geom:latitude":51.514271,
     "geom:longitude":-0.126699,
     "iso:country":"GB",
+    "mz:categories":[
+        "eat_and_drink:drink=coffee_shop"
+    ],
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hours":{
+        "fri":{
+            "close":"18:30",
+            "open":"08:00"
+        },
+        "mon":{
+            "close":"18:30",
+            "open":"08:00"
+        },
+        "sat":{
+            "close":"18:30",
+            "open":"08:00"
+        },
+        "thu":{
+            "close":"18:30",
+            "open":"08:00"
+        },
+        "tue":{
+            "close":"18:30",
+            "open":"08:00"
+        },
+        "wed":{
+            "close":"18:30",
+            "open":"08:00"
+        }
+    },
+    "mz:is_current":1,
     "sg:address":"27 Monmouth Street",
     "sg:city":"Holborn",
     "sg:classifiers":[
@@ -45,7 +76,7 @@
     },
     "wof:country":"GB",
     "wof:created":1471920036,
-    "wof:geomhash":"5a5976b8494413b0388d26f828acfd3a",
+    "wof:geomhash":"b8c3d90606f7a4a6174b62d2bd38290c",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -59,7 +90,7 @@
         }
     ],
     "wof:id":907843937,
-    "wof:lastmodified":1496970309,
+    "wof:lastmodified":1501155359,
     "wof:name":"Monmouth Coffee House",
     "wof:parent_id":85861783,
     "wof:placetype":"venue",
@@ -69,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.1266990006,
-    51.5142707825,
-    -0.1266990006,
-    51.5142707825
+    -0.126699,
+    51.514271,
+    -0.126699,
+    51.514271
 ],
-  "geometry": {"coordinates":[-0.1266990006,51.5142707825],"type":"Point"}
+  "geometry": {"coordinates":[-0.126699,51.514271],"type":"Point"}
 }
