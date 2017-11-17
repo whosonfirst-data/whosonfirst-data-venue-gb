@@ -7,6 +7,7 @@
     "addr:postcode":"4du",
     "addr:street":"New St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-1.901527,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4th Floor 65 New St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":185788807,
-    "wof:lastmodified":1496963082,
+    "wof:lastmodified":1510943182,
     "wof:name":"A G W Trades",
     "wof:parent_id":85861281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185789269
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"

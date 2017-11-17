@@ -7,6 +7,7 @@
     "addr:postcode":"da5 1lu",
     "addr:street":"The Chapel Ho St;Bourne Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":0.151496,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"22 The Chapel Ho, St Mary's Business Cen, 66-70 Bourne Rd",
     "sg:city":"Bexley",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":923995167,
-    "wof:lastmodified":1496969157,
+    "wof:lastmodified":1510942099,
     "wof:name":"Gas Advisory Services Ltd",
     "wof:parent_id":85860123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        923995187
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information"

@@ -7,6 +7,7 @@
     "addr:postcode":"ec1r 0ne",
     "addr:street":"Bowling Green Lane",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-0.10731,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Studio Three, 40 Bowling Green Lane",
     "sg:city":"London",
     "sg:classifiers":[
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":320784337,
-    "wof:lastmodified":1496962892,
+    "wof:lastmodified":1510942583,
     "wof:name":"Redback Photography Ltd.",
     "wof:parent_id":85861673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        320783669
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"

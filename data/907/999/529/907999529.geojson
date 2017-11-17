@@ -7,6 +7,7 @@
     "addr:postcode":"g81 2qp",
     "addr:street":"Dunrobin Ct North Ave Clydebank Business Pk Clydebank",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-4.403649,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"6 Dunrobin Ct, North Ave, Clydebank Business Pk",
     "sg:city":"Clydebank",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":907999529,
-    "wof:lastmodified":1496972150,
+    "wof:lastmodified":1510941477,
     "wof:name":"F S M Technologies Ltd",
     "wof:parent_id":85786955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        907999549
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

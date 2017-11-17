@@ -7,6 +7,7 @@
     "addr:postcode":"g11 5qe",
     "addr:street":"Hyndland Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-4.302559,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"21 Hyndland Street",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -66,12 +67,14 @@
         }
     ],
     "wof:id":269684643,
-    "wof:lastmodified":1496964575,
+    "wof:lastmodified":1510941603,
     "wof:name":"A-2-B CABS",
     "wof:parent_id":85789735,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        269684683
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "messenger",

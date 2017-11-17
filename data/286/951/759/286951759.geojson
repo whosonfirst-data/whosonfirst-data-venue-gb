@@ -7,6 +7,7 @@
     "addr:postcode":"ne21 5nh",
     "addr:street":"Britannia Ct;Enterprise Pk",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-1.70036,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Unit 4, Britannia Ct, Brittania Enterprise Pk, Blaydon",
     "sg:city":"Newcastle-upon-tyne",
     "sg:classifiers":[
@@ -55,12 +56,14 @@
         }
     ],
     "wof:id":286951759,
-    "wof:lastmodified":1496940800,
+    "wof:lastmodified":1510943874,
     "wof:name":"Fasteners Direct Ltd",
     "wof:parent_id":85861875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286952009
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "device",

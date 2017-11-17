@@ -7,6 +7,7 @@
     "addr:postcode":"ls1 4ly",
     "addr:street":"Lisbon Sq",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-1.556982,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"5 Lisbon Sq",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -67,12 +68,14 @@
         }
     ],
     "wof:id":907250451,
-    "wof:lastmodified":1496971751,
+    "wof:lastmodified":1510943513,
     "wof:name":"Speirhead Ltd",
     "wof:parent_id":85792907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        907250453
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

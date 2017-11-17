@@ -7,6 +7,7 @@
     "addr:postcode":"ll11 1wf",
     "addr:street":"Guildhall P O Box",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-2.99532,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Electorial Registration, Guildhall, P O Box 1284",
     "sg:city":"Wrexham",
     "sg:classifiers":[
@@ -56,13 +57,19 @@
         }
     ],
     "wof:id":253510147,
-    "wof:lastmodified":1510695150,
+    "wof:lastmodified":1510941443,
     "wof:name":"Wrexham County Borough Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        253510347,
+        253510351
+    ],
+    "wof:supersedes":[
+        253510077,
+        253510131
+    ],
     "wof:tags":[
         "local"
     ]

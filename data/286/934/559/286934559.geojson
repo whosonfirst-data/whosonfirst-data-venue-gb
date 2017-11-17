@@ -7,6 +7,7 @@
     "addr:postcode":"tn9 1by",
     "addr:street":"High Street",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":0.275461,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"182 High Street",
     "sg:city":"Tonbridge",
     "sg:classifiers":[
@@ -51,12 +52,14 @@
         }
     ],
     "wof:id":286934559,
-    "wof:lastmodified":1496940452,
+    "wof:lastmodified":1510941637,
     "wof:name":"Lombard General Insurance Co. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286934577
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

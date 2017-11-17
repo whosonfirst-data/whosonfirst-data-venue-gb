@@ -7,6 +7,7 @@
     "addr:postcode":"rg40 1wl",
     "addr:street":"P O Box",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-0.821899,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Leisure Services Assistant, P O Box 153",
     "sg:city":"Wokingham",
     "sg:classifiers":[
@@ -44,13 +45,24 @@
     "wof:geomhash":"bb2ea0df18fb30b52827c67e47f763da",
     "wof:hierarchy":[],
     "wof:id":924501829,
-    "wof:lastmodified":1510874760,
+    "wof:lastmodified":1510944061,
     "wof:name":"Wokingham District Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        924501841,
+        924501831,
+        924501835,
+        924501845,
+        924501847,
+        924501853,
+        924501857
+    ],
+    "wof:supersedes":[
+        924501827,
+        924501823
+    ],
     "wof:tags":[
         "local"
     ]

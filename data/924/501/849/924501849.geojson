@@ -7,6 +7,7 @@
     "addr:postcode":"rg40 1wl",
     "addr:street":"P O Box",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-0.82629,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Sewerage Enquiries & Records, P O Box 153",
     "sg:city":"Wokingham",
     "sg:classifiers":[
@@ -44,12 +45,15 @@
     "wof:geomhash":"dd3ba9f6f6e88a51c487a4f2b14cebc4",
     "wof:hierarchy":[],
     "wof:id":924501849,
-    "wof:lastmodified":1510874760,
+    "wof:lastmodified":1510944049,
     "wof:name":"Wokingham District Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        924501851,
+        924501855
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "local"

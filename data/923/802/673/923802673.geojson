@@ -7,6 +7,7 @@
     "addr:postcode":"e4 9ld",
     "addr:street":"The Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":0.000128,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4 The Avenue, Highams Park",
     "sg:city":"London",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":923802673,
-    "wof:lastmodified":1496969870,
+    "wof:lastmodified":1510942312,
     "wof:name":"Garmans Estate Agents Ltd.",
     "wof:parent_id":85860303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        923802701
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

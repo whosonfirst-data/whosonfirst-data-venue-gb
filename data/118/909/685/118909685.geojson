@@ -7,6 +7,7 @@
     "addr:postcode":"nr3 4dy",
     "addr:street":"Sprowston Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":1.309514,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"484 Sprowston Rd",
     "sg:city":"Norwich",
     "sg:classifiers":[
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":118909685,
-    "wof:lastmodified":1496965905,
+    "wof:lastmodified":1510944187,
     "wof:name":"Driver Hire Norwich",
     "wof:parent_id":85793207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        118909689
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

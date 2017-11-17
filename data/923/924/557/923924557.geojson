@@ -7,6 +7,7 @@
     "addr:postcode":"cr8 2ab",
     "addr:street":"Purley Parade",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-0.116548,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"10 Purley Parade",
     "sg:city":"Purley",
     "sg:classifiers":[
@@ -63,12 +64,14 @@
         }
     ],
     "wof:id":923924557,
-    "wof:lastmodified":1496969193,
+    "wof:lastmodified":1510942163,
     "wof:name":"Laneline Ltd.",
     "wof:parent_id":85789961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        923924567
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

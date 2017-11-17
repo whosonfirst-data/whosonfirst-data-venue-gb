@@ -7,6 +7,7 @@
     "addr:postcode":"ip2 0ug",
     "addr:street":"Dunlop Road",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":1.128088,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"8 Dunlop Road",
     "sg:city":"Ipswich",
     "sg:classifiers":[
@@ -62,12 +63,14 @@
         }
     ],
     "wof:id":907388731,
-    "wof:lastmodified":1496973506,
+    "wof:lastmodified":1510941335,
     "wof:name":"De Facto Software Ltd.",
     "wof:parent_id":85861133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        907388737
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
