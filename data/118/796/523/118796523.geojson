@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785641,
-        85684289
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"9bd6349af39cd41ede7c04dc7e416a75",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785641,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":118796523
         }
     ],
     "wof:id":118796523,
-    "wof:lastmodified":1496966243,
+    "wof:lastmodified":1513998868,
     "wof:name":"Sul Bonte",
     "wof:parent_id":85785641,
     "wof:placetype":"venue",

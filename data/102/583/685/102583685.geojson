@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85792357,
+        102191581,
         85633159,
-        85861725,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,20 @@
     "wof:geomhash":"191c3d07b09053c8e924013c7f08315c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861725,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792357,
+            "region_id":-1,
             "venue_id":102583685
         }
     ],
     "wof:id":102583685,
-    "wof:lastmodified":1496968827,
+    "wof:lastmodified":1513998792,
     "wof:name":"Williams & Turner",
-    "wof:parent_id":85861725,
+    "wof:parent_id":85792357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

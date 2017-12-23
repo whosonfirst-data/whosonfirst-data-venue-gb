@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860487,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"c77fa64f738b0869580a37c94cf66b2e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860487,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":135682147
         }
     ],
     "wof:id":135682147,
-    "wof:lastmodified":1496960831,
+    "wof:lastmodified":1513983092,
     "wof:name":"Gleadell Meats",
     "wof:parent_id":85860487,
     "wof:placetype":"venue",

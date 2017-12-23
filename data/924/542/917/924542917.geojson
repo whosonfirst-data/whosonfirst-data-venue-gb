@@ -36,15 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787153,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85633159,
-        85785569,
-        85684141
+        1158857259,
+        85785569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,24 +52,28 @@
     "wof:geomhash":"4eac4291fb97908fbdf8e0f1d274f5d6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857259,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85787153,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":924542917
         },
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785569,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":924542917
         }
     ],
     "wof:id":924542917,
-    "wof:lastmodified":1496956450,
+    "wof:lastmodified":1513980527,
     "wof:name":"Citizen Systems & Peripherals Europe",
     "wof:parent_id":-3,
     "wof:placetype":"venue",

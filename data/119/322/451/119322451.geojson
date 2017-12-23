@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788329,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"c793d06e5fdca877f68ef57948bd8340",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788329,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":119322451
         }
     ],
     "wof:id":119322451,
-    "wof:lastmodified":1496967775,
+    "wof:lastmodified":1513998331,
     "wof:name":"Finsbury Enterprises Ltd",
     "wof:parent_id":85788329,
     "wof:placetype":"venue",

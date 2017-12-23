@@ -36,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860877,
+        85860871,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684141,
-        85860871
+        1158857259,
+        85860877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +52,30 @@
     "wof:geomhash":"b840eeb35092b05fb08c8a5b7844c186",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860877,
-            "region_id":85684141,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860871,
+            "region_id":-1,
             "venue_id":336820439
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860871,
-            "region_id":85684141,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860877,
+            "region_id":-1,
             "venue_id":336820439
         }
     ],
     "wof:id":336820439,
-    "wof:lastmodified":1496968554,
+    "wof:lastmodified":1513986215,
     "wof:name":"New Look 7",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

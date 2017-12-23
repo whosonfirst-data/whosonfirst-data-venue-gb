@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85790695,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:brand_id":420574475,
     "wof:breaches":[],
@@ -49,14 +52,18 @@
     "wof:geomhash":"fe64f5ec65ca5f777daa3fef3010b7a2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790695,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":907558603
         }
     ],
     "wof:id":907558603,
-    "wof:lastmodified":1510604454,
+    "wof:lastmodified":1513988592,
     "wof:name":"Boots the Chemist",
     "wof:parent_id":85790695,
     "wof:placetype":"venue",

@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789187,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"74fb6cabf825d67179de38e23d241a2a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789187,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":102630317
         }
     ],
     "wof:id":102630317,
-    "wof:lastmodified":1496968950,
+    "wof:lastmodified":1513982252,
     "wof:name":"Patricia Vivian Ltd.",
     "wof:parent_id":85789187,
     "wof:placetype":"venue",

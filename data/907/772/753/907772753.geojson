@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787951,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"e63d8b44a7afa80eca3252e09861c26e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787951,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":907772753
         }
     ],
     "wof:id":907772753,
-    "wof:lastmodified":1496972709,
+    "wof:lastmodified":1513980784,
     "wof:name":"Weald Adult Education Centre",
     "wof:parent_id":85787951,
     "wof:placetype":"venue",

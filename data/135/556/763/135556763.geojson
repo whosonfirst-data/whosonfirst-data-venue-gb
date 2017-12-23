@@ -31,9 +31,12 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787951,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:brand_id":1125154157,
     "wof:breaches":[],
@@ -44,14 +47,18 @@
     "wof:geomhash":"907af67f3efd8bf57a3fd7c653420172",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787951,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":135556763
         }
     ],
     "wof:id":135556763,
-    "wof:lastmodified":1510698730,
+    "wof:lastmodified":1513975666,
     "wof:name":"The Dental Surgery",
     "wof:parent_id":85787951,
     "wof:placetype":"venue",

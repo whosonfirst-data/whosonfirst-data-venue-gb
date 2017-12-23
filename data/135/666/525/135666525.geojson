@@ -42,10 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860347,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:brand_id":420575637,
     "wof:breaches":[],
@@ -56,15 +58,18 @@
     "wof:geomhash":"41a8ecf81d54934732c66e908c462c8f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860347,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":135666525
         }
     ],
     "wof:id":135666525,
-    "wof:lastmodified":1496962396,
+    "wof:lastmodified":1513980154,
     "wof:name":"Greenalls Management Ltd.",
     "wof:parent_id":85860347,
     "wof:placetype":"venue",

@@ -34,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860223,
+        85791605,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684613,
-        85791605
+        1158857285,
+        85860223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +50,30 @@
     "wof:geomhash":"bbec884480be689646948018dad5bad5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860223,
-            "region_id":85684613,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791605,
+            "region_id":-1,
             "venue_id":270523105
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85791605,
-            "region_id":85684613,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860223,
+            "region_id":-1,
             "venue_id":270523105
         }
     ],
     "wof:id":270523105,
-    "wof:lastmodified":1496965287,
+    "wof:lastmodified":1513996631,
     "wof:name":"Stallard & Co.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

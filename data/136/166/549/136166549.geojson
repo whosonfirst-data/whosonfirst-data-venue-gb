@@ -38,10 +38,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791099,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,18 @@
     "wof:geomhash":"d2eef9df17b548da8a1e18560e8a7ee5",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791099,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":136166549
         }
     ],
     "wof:id":136166549,
-    "wof:lastmodified":1496963657,
+    "wof:lastmodified":1514000875,
     "wof:name":"Prestige Car Services",
     "wof:parent_id":85791099,
     "wof:placetype":"venue",

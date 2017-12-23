@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861759,
+        85789041,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +50,21 @@
     "wof:geomhash":"da396b363b3f27ed4cd80fe04ff7ba4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861759,
-            "region_id":85684061,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789041,
+            "region_id":-1,
             "venue_id":286365821
         }
     ],
     "wof:id":286365821,
-    "wof:lastmodified":1496940416,
+    "wof:lastmodified":1513984700,
     "wof:name":"The Council of Mortgage Lenders",
-    "wof:parent_id":85861759,
+    "wof:parent_id":85789041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

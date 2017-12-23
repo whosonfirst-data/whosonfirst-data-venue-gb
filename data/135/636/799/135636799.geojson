@@ -42,10 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860871,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,18 @@
     "wof:geomhash":"bd5c67dd795a9a5cf34c0bc54826837c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860871,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":135636799
         }
     ],
     "wof:id":135636799,
-    "wof:lastmodified":1496962268,
+    "wof:lastmodified":1513981657,
     "wof:name":"Heston & Isleworth Old Peoples Welfare Trust",
     "wof:parent_id":85860871,
     "wof:placetype":"venue",

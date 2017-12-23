@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792227,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"dad784c97cd4858273ed4a4b7dc135df",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792227,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":135700995
         }
     ],
     "wof:id":135700995,
-    "wof:lastmodified":1496961165,
+    "wof:lastmodified":1513992171,
     "wof:name":"Northmount Developments",
     "wof:parent_id":85792227,
     "wof:placetype":"venue",

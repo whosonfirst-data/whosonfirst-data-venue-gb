@@ -43,10 +43,12 @@
     "sg:website":"http://www.m-andm.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792189,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,18 @@
     "wof:geomhash":"35c763743463200d272a4a6ff35b1fde",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792189,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":119415611
         }
     ],
     "wof:id":119415611,
-    "wof:lastmodified":1496967609,
+    "wof:lastmodified":1513980106,
     "wof:name":"M & M Accommodation For Students",
     "wof:parent_id":85792189,
     "wof:placetype":"venue",

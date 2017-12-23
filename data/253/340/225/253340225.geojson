@@ -34,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790639,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +49,19 @@
     "wof:geomhash":"61d06e0a878e234eb0c0a7782d85bbfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790639,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":253340225
         }
     ],
     "wof:id":253340225,
-    "wof:lastmodified":1496963415,
+    "wof:lastmodified":1513995814,
     "wof:name":"The Brennan Lambeth Partnership",
     "wof:parent_id":85790639,
     "wof:placetype":"venue",

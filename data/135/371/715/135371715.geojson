@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790087,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"13e062f11638aa7f782d9801c2f0ff37",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790087,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":135371715
         }
     ],
     "wof:id":135371715,
-    "wof:lastmodified":1496961054,
+    "wof:lastmodified":1513978618,
     "wof:name":"Romford Liberal Democrats",
     "wof:parent_id":85790087,
     "wof:placetype":"venue",

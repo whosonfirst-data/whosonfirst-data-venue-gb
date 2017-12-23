@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85792139,
+        102191581,
         85633159,
-        85866379,
-        85684533
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +49,20 @@
     "wof:geomhash":"74c14153d0a066b61c6a125e4b235dc5",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85866379,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792139,
+            "region_id":-1,
             "venue_id":119260703
         }
     ],
     "wof:id":119260703,
-    "wof:lastmodified":1496966846,
+    "wof:lastmodified":1514000232,
     "wof:name":"Vauxhall Neighbourhood Housing Office",
-    "wof:parent_id":85866379,
+    "wof:parent_id":85792139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

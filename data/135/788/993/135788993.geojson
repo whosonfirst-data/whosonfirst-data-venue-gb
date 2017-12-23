@@ -30,10 +30,12 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791773,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,18 @@
     "wof:geomhash":"2fb7aa593086ebf41ec1dc77ee84e4e1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791773,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":135788993
         }
     ],
     "wof:id":135788993,
-    "wof:lastmodified":1496960958,
+    "wof:lastmodified":1513979273,
     "wof:name":"Causethermo Ltd.",
     "wof:parent_id":85791773,
     "wof:placetype":"venue",

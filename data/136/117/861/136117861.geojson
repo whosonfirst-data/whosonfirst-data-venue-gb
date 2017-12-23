@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787277,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"fb3dbed00d28d877838a09bc1267bbc2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787277,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":136117861
         }
     ],
     "wof:id":136117861,
-    "wof:lastmodified":1496963859,
+    "wof:lastmodified":1513998879,
     "wof:name":"Fuseways",
     "wof:parent_id":85787277,
     "wof:placetype":"venue",

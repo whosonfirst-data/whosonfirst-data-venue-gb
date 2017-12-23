@@ -37,10 +37,12 @@
     "sg:website":"http://www.ltslondon.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792069,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,18 @@
     "wof:geomhash":"6deec52e3591c3f6bb52430a0050f68b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792069,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":135580843
         }
     ],
     "wof:id":135580843,
-    "wof:lastmodified":1496961026,
+    "wof:lastmodified":1513979648,
     "wof:name":"The London Theological Seminary",
     "wof:parent_id":85792069,
     "wof:placetype":"venue",

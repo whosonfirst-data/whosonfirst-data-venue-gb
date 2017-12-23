@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786397,
-        85683637
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"d33de71786657ab1696e6a8a8426a076",
     "wof:hierarchy":[
         {
+            "borough_id":1158857319,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786397,
-            "region_id":85683637,
+            "region_id":-1,
             "venue_id":135525017
         }
     ],
     "wof:id":135525017,
-    "wof:lastmodified":1496961169,
+    "wof:lastmodified":1513985441,
     "wof:name":"Accord Electrical Wholesalers Ltd.",
     "wof:parent_id":85786397,
     "wof:placetype":"venue",

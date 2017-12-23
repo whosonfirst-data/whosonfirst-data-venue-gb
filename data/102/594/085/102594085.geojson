@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785259,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"f5b822022464116c09480d75a9193fa9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785259,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":102594085
         }
     ],
     "wof:id":102594085,
-    "wof:lastmodified":1496968988,
+    "wof:lastmodified":1513987665,
     "wof:name":"Bollywoods",
     "wof:parent_id":85785259,
     "wof:placetype":"venue",

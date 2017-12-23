@@ -35,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85882211,
+        102191581,
+        1158860453,
         85633159,
+        404227469,
         101750367,
-        85684299
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +50,19 @@
     "wof:geomhash":"1fb9d35cdc98fddfba3773419d207c34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158860453,
+            "macroregion_id":404227469,
             "neighbourhood_id":85882211,
-            "region_id":85684299,
+            "region_id":-1,
             "venue_id":286963557
         }
     ],
     "wof:id":286963557,
-    "wof:lastmodified":1496940000,
+    "wof:lastmodified":1513981944,
     "wof:name":"London Carpets",
     "wof:parent_id":85882211,
     "wof:placetype":"venue",

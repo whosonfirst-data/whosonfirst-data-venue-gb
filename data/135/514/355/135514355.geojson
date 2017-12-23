@@ -40,10 +40,12 @@
     "sg:website":"http://www.sinton-andrews.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860781,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,18 @@
     "wof:geomhash":"175df88682391a86b1db272057af56f0",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860781,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":135514355
         }
     ],
     "wof:id":135514355,
-    "wof:lastmodified":1496962014,
+    "wof:lastmodified":1513975342,
     "wof:name":"Sinton Andrews",
     "wof:parent_id":85860781,
     "wof:placetype":"venue",

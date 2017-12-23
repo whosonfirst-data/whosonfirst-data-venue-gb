@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791765,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"aa1863e189dea77e3c4d2ebf7183070c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791765,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":119440637
         }
     ],
     "wof:id":119440637,
-    "wof:lastmodified":1496967574,
+    "wof:lastmodified":1513995407,
     "wof:name":"S Flynn Brickwork",
     "wof:parent_id":85791765,
     "wof:placetype":"venue",

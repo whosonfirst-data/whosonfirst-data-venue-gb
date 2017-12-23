@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85788535,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"e2cd54e315d8a8c30b3f91bb14c60b8e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788535,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":102645665
         }
     ],
     "wof:id":102645665,
-    "wof:lastmodified":1496968885,
+    "wof:lastmodified":1513981718,
     "wof:name":"Kent & Sussex Garage Doors",
     "wof:parent_id":85788535,
     "wof:placetype":"venue",

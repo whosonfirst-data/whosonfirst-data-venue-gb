@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860137,
-        85684411
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"4442d6d8310deed5719e78be831da662",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860137,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":119270543
         }
     ],
     "wof:id":119270543,
-    "wof:lastmodified":1496967361,
+    "wof:lastmodified":1514002695,
     "wof:name":"Tatts",
     "wof:parent_id":85860137,
     "wof:placetype":"venue",

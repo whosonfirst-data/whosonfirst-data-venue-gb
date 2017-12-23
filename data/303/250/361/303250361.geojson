@@ -34,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861759,
+        85792067,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684061,
-        85792067
+        1158857245
     ],
     "wof:brand_id":1125151153,
     "wof:breaches":[],
@@ -49,26 +51,21 @@
     "wof:geomhash":"f700686712d2c15fd6b7d3bda70c225f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861759,
-            "region_id":85684061,
-            "venue_id":303250361
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792067,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":303250361
         }
     ],
     "wof:id":303250361,
-    "wof:lastmodified":1510694673,
+    "wof:lastmodified":1513989524,
     "wof:name":"Prontaprint",
-    "wof:parent_id":-1,
+    "wof:parent_id":85792067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

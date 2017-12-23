@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860145,
-        85684411
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857293
     ],
     "wof:brand_id":1125151717,
     "wof:breaches":[],
@@ -49,15 +51,18 @@
     "wof:geomhash":"22d2b8b373668212b4d2414bc5094b9b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860145,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":136228839
         }
     ],
     "wof:id":136228839,
-    "wof:lastmodified":1511319362,
+    "wof:lastmodified":1514000536,
     "wof:name":"Benefits Agency",
     "wof:parent_id":85860145,
     "wof:placetype":"venue",

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860415,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"6c8ce0a2f383235c00c4954308ffbc0d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860415,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":119114581
         }
     ],
     "wof:id":119114581,
-    "wof:lastmodified":1496967958,
+    "wof:lastmodified":1513991560,
     "wof:name":"M P Abramoff & Co.",
     "wof:parent_id":85860415,
     "wof:placetype":"venue",

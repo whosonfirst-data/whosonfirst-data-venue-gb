@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787857,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"a7cc61e0df78a923f8d1968cc4154a4f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787857,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":119087529
         }
     ],
     "wof:id":119087529,
-    "wof:lastmodified":1496966720,
+    "wof:lastmodified":1513985765,
     "wof:name":"Elton Stone Audio Ltd.",
     "wof:parent_id":85787857,
     "wof:placetype":"venue",

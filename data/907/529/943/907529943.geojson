@@ -36,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85788413,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:brand_id":420574169,
     "wof:breaches":[],
@@ -50,14 +53,18 @@
     "wof:geomhash":"51968260ed9476588a92d3af42e8ba1b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788413,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":907529943
         }
     ],
     "wof:id":907529943,
-    "wof:lastmodified":1511323327,
+    "wof:lastmodified":1513983468,
     "wof:name":"Thresher",
     "wof:parent_id":85788413,
     "wof:placetype":"venue",

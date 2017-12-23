@@ -35,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792069,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684613,
+        1158857285,
         85788129
     ],
     "wof:breaches":[],
@@ -48,26 +50,30 @@
     "wof:geomhash":"7626bbc0e0f8d1eb98f8bed401cd512b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792069,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":236585681
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788129,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":236585681
         }
     ],
     "wof:id":236585681,
-    "wof:lastmodified":1496964391,
+    "wof:lastmodified":1513998026,
     "wof:name":"Jersey Jo Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

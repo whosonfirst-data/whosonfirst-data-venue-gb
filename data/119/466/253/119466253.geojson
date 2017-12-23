@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158859085,
+        85861707,
+        102191581,
         85633159,
-        85861741,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,21 @@
     "wof:geomhash":"ffe5d6ef0d415b23a9905e587ed6fd38",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861741,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "microhood_id":1158859085,
+            "neighbourhood_id":85861707,
+            "region_id":-1,
             "venue_id":119466253
         }
     ],
     "wof:id":119466253,
-    "wof:lastmodified":1496967522,
+    "wof:lastmodified":1513974676,
     "wof:name":"Portman Partnership",
-    "wof:parent_id":85861741,
+    "wof:parent_id":1158859085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

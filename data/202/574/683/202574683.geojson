@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860883,
+        85861659,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     "wof:geomhash":"9c20a47ea105c5b919ee65be944c3e66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860883,
-            "region_id":85684061,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861659,
+            "region_id":-1,
             "venue_id":202574683
         }
     ],
     "wof:id":202574683,
-    "wof:lastmodified":1496964993,
+    "wof:lastmodified":1513976268,
     "wof:name":"Samtung Estates",
-    "wof:parent_id":85860883,
+    "wof:parent_id":85861659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

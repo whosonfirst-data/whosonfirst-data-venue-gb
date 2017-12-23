@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791817,
-        85683707
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"260725a421f0b52c4a5692acbc797976",
     "wof:hierarchy":[
         {
+            "borough_id":1158857295,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791817,
-            "region_id":85683707,
+            "region_id":-1,
             "venue_id":118714369
         }
     ],
     "wof:id":118714369,
-    "wof:lastmodified":1496966173,
+    "wof:lastmodified":1513985918,
     "wof:name":"Alans Used Furniture Woolwich",
     "wof:parent_id":85791817,
     "wof:placetype":"venue",

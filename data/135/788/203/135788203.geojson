@@ -34,12 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
-        85860893,
-        85684597,
         85861767,
-        85684081
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +49,20 @@
     "wof:geomhash":"3f1e101767b9ba2988d416714ab457cb",
     "wof:hierarchy":[
         {
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860893,
-            "region_id":85684597,
-            "venue_id":135788203
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861767,
-            "region_id":85684081,
+            "region_id":-1,
             "venue_id":135788203
         }
     ],
     "wof:id":135788203,
-    "wof:lastmodified":1496960959,
+    "wof:lastmodified":1513984016,
     "wof:name":"Lanes Butchers (Brixton) Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85861767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785671,
-        85683763
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857255
     ],
     "wof:brand_id":420575605,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"14447008f664f44f371e9a80a6cac79a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857255,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785671,
-            "region_id":85683763,
+            "region_id":-1,
             "venue_id":135460933
         }
     ],
     "wof:id":135460933,
-    "wof:lastmodified":1496960983,
+    "wof:lastmodified":1513978784,
     "wof:name":"British Gas Energy Centre",
     "wof:parent_id":85785671,
     "wof:placetype":"venue",

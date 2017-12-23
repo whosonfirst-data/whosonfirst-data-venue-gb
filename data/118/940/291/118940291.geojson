@@ -38,10 +38,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158857437,
+        102191581,
         85633159,
-        85860599,
-        85683649
+        404227469,
+        101750367,
+        1158857303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +53,20 @@
     "wof:geomhash":"efe7313bd5e611684b7e24692945ff29",
     "wof:hierarchy":[
         {
+            "borough_id":1158857303,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860599,
-            "region_id":85683649,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158857437,
+            "region_id":-1,
             "venue_id":118940291
         }
     ],
     "wof:id":118940291,
-    "wof:lastmodified":1496966165,
+    "wof:lastmodified":1513990541,
     "wof:name":"Star Fox",
-    "wof:parent_id":85860599,
+    "wof:parent_id":1158857437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85860647,
+        102191581,
         85633159,
-        85860645,
-        85684533
+        404227469,
+        101750367,
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +45,20 @@
     "wof:geomhash":"078a6d8f69528863bae80e9e0f23c76c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860645,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860647,
+            "region_id":-1,
             "venue_id":119429723
         }
     ],
     "wof:id":119429723,
-    "wof:lastmodified":1496967962,
+    "wof:lastmodified":1513973665,
     "wof:name":"Alpha Engineers & Machine Tools",
-    "wof:parent_id":85860645,
+    "wof:parent_id":85860647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

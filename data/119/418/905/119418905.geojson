@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792341,
-        85684299
+        102191581,
+        1158860449,
+        85633159,
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:brand_id":420574643,
     "wof:breaches":[],
@@ -45,15 +48,19 @@
     "wof:geomhash":"1f4d3e482a2220a56c7813849a08713a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158860449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792341,
-            "region_id":85684299,
+            "region_id":-1,
             "venue_id":119418905
         }
     ],
     "wof:id":119418905,
-    "wof:lastmodified":1496968015,
+    "wof:lastmodified":1513996113,
     "wof:name":"Lunn Poly Ltd.",
     "wof:parent_id":85792341,
     "wof:placetype":"venue",

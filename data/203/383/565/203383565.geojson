@@ -31,10 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860265,
+        102191581,
         85633159,
-        85683711,
-        85787187,
-        101750367
+        404227469,
+        101750367,
+        1158857261,
+        85787187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,26 +46,30 @@
     "wof:geomhash":"30e8d546d186a9dcb5142feee6251425",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
-            "locality_id":-1,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860265,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":203383565
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787187,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":203383565
         }
     ],
     "wof:id":203383565,
-    "wof:lastmodified":1496960394,
+    "wof:lastmodified":1513985300,
     "wof:name":"Helen's Driving School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

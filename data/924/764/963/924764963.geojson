@@ -34,16 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
-        85789637,
-        85684363,
         85790635,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061
+        1158857297,
+        85789637
     ],
     "wof:brand_id":420575291,
     "wof:breaches":[],
@@ -55,26 +52,30 @@
     "wof:geomhash":"4b318e7ed8381da7954c5e4465a2fd78",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
-            "neighbourhood_id":85789637,
-            "region_id":85684363,
-            "venue_id":924764963
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85790635,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":924764963
+        },
+        {
+            "borough_id":1158857297,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789637,
+            "region_id":-1,
             "venue_id":924764963
         }
     ],
     "wof:id":924764963,
-    "wof:lastmodified":1510602586,
+    "wof:lastmodified":1513981055,
     "wof:name":"The Probation Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

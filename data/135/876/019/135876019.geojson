@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
+        102556703,
         85788065,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:brand_id":1125158869,
     "wof:breaches":[],
@@ -48,17 +51,21 @@
     "wof:geomhash":"4a2439276926c21ab42b15ea38fd9abe",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "campus_id":102556703,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788065,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":135876019
         }
     ],
     "wof:id":135876019,
-    "wof:lastmodified":1511318631,
+    "wof:lastmodified":1513980102,
     "wof:name":"The Gap",
-    "wof:parent_id":85788065,
+    "wof:parent_id":102556703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

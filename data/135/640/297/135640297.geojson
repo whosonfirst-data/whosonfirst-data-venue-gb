@@ -35,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790969,
-        85684613,
-        85861833,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285,
+        85861833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +51,30 @@
     "wof:geomhash":"20f6da9a23041339f4fa61c9945c516e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790969,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":135640297
         },
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861833,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":135640297
         }
     ],
     "wof:id":135640297,
-    "wof:lastmodified":1496961218,
+    "wof:lastmodified":1513982262,
     "wof:name":"J & J Stern",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

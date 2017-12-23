@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861759,
+        85786429,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"035cea41a5314162d74802e5855d8a70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861759,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786429,
+            "region_id":-1,
             "venue_id":236589231
         }
     ],
     "wof:id":236589231,
-    "wof:lastmodified":1496964282,
+    "wof:lastmodified":1513989747,
     "wof:name":"Aberdeen Steak Houses Group Plc",
-    "wof:parent_id":85861759,
+    "wof:parent_id":85786429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

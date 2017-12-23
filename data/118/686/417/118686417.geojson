@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
+        1158894007,
         85791077,
-        85683671
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,21 @@
     "wof:geomhash":"e32eb6cd9912045182b24fb1d93012e3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
+            "microhood_id":1158894007,
             "neighbourhood_id":85791077,
-            "region_id":85683671,
+            "region_id":-1,
             "venue_id":118686417
         }
     ],
     "wof:id":118686417,
-    "wof:lastmodified":1496965436,
+    "wof:lastmodified":1513984950,
     "wof:name":"J D Tyres",
-    "wof:parent_id":85791077,
+    "wof:parent_id":1158894007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

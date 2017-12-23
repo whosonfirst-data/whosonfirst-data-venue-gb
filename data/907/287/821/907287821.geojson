@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787755,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"7a68822672425d61971724e051dd2a9d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787755,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":907287821
         }
     ],
     "wof:id":907287821,
-    "wof:lastmodified":1496973513,
+    "wof:lastmodified":1513981588,
     "wof:name":"John Humphrey",
     "wof:parent_id":85787755,
     "wof:placetype":"venue",

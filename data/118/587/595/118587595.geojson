@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791541,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:brand_id":1125153437,
     "wof:breaches":[],
@@ -50,15 +52,18 @@
     "wof:geomhash":"08d343fa968b579d1611706f366cdb6c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791541,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":118587595
         }
     ],
     "wof:id":118587595,
-    "wof:lastmodified":1510694892,
+    "wof:lastmodified":1513981228,
     "wof:name":"Bottoms Up",
     "wof:parent_id":85791541,
     "wof:placetype":"venue",

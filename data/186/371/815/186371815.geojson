@@ -35,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861655,
+        1158859479,
+        1158859477,
+        102191581,
+        1158860449,
         85633159,
+        404227469,
         101750367,
-        85683671
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +52,22 @@
     "wof:geomhash":"d81b910b9b3d88d07420bcc85819afe8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861655,
-            "region_id":85683671,
+            "macrohood_id":1158860449,
+            "macroregion_id":404227469,
+            "microhood_id":1158859479,
+            "neighbourhood_id":1158859477,
+            "region_id":-1,
             "venue_id":186371815
         }
     ],
     "wof:id":186371815,
-    "wof:lastmodified":1496968623,
+    "wof:lastmodified":1514001045,
     "wof:name":"The Bike Company",
-    "wof:parent_id":85861655,
+    "wof:parent_id":1158859479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

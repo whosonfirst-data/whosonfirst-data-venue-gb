@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789715,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"83f75f5f851cba7a4cdf13ed59119404",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789715,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":135683999
         }
     ],
     "wof:id":135683999,
-    "wof:lastmodified":1496960944,
+    "wof:lastmodified":1514002518,
     "wof:name":"E Stansfield Miti",
     "wof:parent_id":85789715,
     "wof:placetype":"venue",

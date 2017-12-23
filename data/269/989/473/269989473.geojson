@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861643,
+        1158859087,
+        85861715,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857317
     ],
     "wof:brand_id":420574183,
     "wof:breaches":[],
@@ -45,18 +48,21 @@
     "wof:geomhash":"3897e933204be5d9e74d3ba06c961b92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861643,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "microhood_id":1158859087,
+            "neighbourhood_id":85861715,
+            "region_id":-1,
             "venue_id":269989473
         }
     ],
     "wof:id":269989473,
-    "wof:lastmodified":1496964467,
+    "wof:lastmodified":1513990697,
     "wof:name":"Barclays Bank Plc",
-    "wof:parent_id":85861643,
+    "wof:parent_id":1158859087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

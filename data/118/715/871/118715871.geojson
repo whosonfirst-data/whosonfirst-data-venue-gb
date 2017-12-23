@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860613,
-        85683649
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"9a00d024e65050a4fb51166f93f567bf",
     "wof:hierarchy":[
         {
+            "borough_id":1158857303,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860613,
-            "region_id":85683649,
+            "region_id":-1,
             "venue_id":118715871
         }
     ],
     "wof:id":118715871,
-    "wof:lastmodified":1496965533,
+    "wof:lastmodified":1513995048,
     "wof:name":"Visco Ltd.",
     "wof:parent_id":85860613,
     "wof:placetype":"venue",

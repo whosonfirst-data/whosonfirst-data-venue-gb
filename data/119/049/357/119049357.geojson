@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785229,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"74ddad1e73d8766bc8ba51c3992fe3b1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785229,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":119049357
         }
     ],
     "wof:id":119049357,
-    "wof:lastmodified":1496967406,
+    "wof:lastmodified":1513987299,
     "wof:name":"M J Constant",
     "wof:parent_id":85785229,
     "wof:placetype":"venue",

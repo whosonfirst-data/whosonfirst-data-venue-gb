@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860557,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"19b36f4d5688b49d6d284436ad7f729c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860557,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":119366575
         }
     ],
     "wof:id":119366575,
-    "wof:lastmodified":1496967482,
+    "wof:lastmodified":1513990576,
     "wof:name":"Daisy Chain",
     "wof:parent_id":85860557,
     "wof:placetype":"venue",

@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790545,
-        85684467
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,18 @@
     "wof:geomhash":"d661fe5c095276986567591631f3d1b3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790545,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":118568375
         }
     ],
     "wof:id":118568375,
-    "wof:lastmodified":1496966055,
+    "wof:lastmodified":1513987181,
     "wof:name":"Greenline Importers",
     "wof:parent_id":85790545,
     "wof:placetype":"venue",

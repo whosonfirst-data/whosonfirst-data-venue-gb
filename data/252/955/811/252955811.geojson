@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861729,
+        85861651,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684081
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"c5db643c9a3ad72d82db9aebd182434e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861729,
-            "region_id":85684081,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861651,
+            "region_id":-1,
             "venue_id":252955811
         }
     ],
     "wof:id":252955811,
-    "wof:lastmodified":1496968250,
+    "wof:lastmodified":1513981076,
     "wof:name":"Shinhan Bank",
-    "wof:parent_id":85861729,
+    "wof:parent_id":85861651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -31,11 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790047,
-        85684151,
-        85860705
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,24 +46,20 @@
     "wof:geomhash":"0dda850138bd0f81e560715cf327ee5d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790047,
-            "region_id":85684151,
-            "venue_id":119456317
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85860705,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":119456317
         }
     ],
     "wof:id":119456317,
-    "wof:lastmodified":1496967077,
+    "wof:lastmodified":1513990134,
     "wof:name":"Halifax Building Society",
-    "wof:parent_id":-1,
+    "wof:parent_id":85790047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

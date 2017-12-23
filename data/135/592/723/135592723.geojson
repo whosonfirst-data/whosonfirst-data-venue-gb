@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860219,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"54f9372a1affa15425e0d16b58a1b89c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860219,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":135592723
         }
     ],
     "wof:id":135592723,
-    "wof:lastmodified":1496961707,
+    "wof:lastmodified":1513986208,
     "wof:name":"Mills,Glynn,",
     "wof:parent_id":85860219,
     "wof:placetype":"venue",

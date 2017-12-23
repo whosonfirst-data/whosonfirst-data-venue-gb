@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792073,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"eaa46a7b08056be210cbe508b0c6147b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792073,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":118841259
         }
     ],
     "wof:id":118841259,
-    "wof:lastmodified":1496965816,
+    "wof:lastmodified":1513981559,
     "wof:name":"Ship Repairers & Ship Builders Ltd.",
     "wof:parent_id":85792073,
     "wof:placetype":"venue",

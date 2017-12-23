@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792277,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"8e8967d6026ee0dac22026e06daa6d23",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792277,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":135508139
         }
     ],
     "wof:id":135508139,
-    "wof:lastmodified":1496961479,
+    "wof:lastmodified":1514002110,
     "wof:name":"Greater London Stationers Ltd.",
     "wof:parent_id":85792277,
     "wof:placetype":"venue",

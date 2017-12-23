@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85785843,
+        102191581,
         85633159,
-        85792155,
-        85684597
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +46,20 @@
     "wof:geomhash":"9c4e8c45b7c8cdb757bad6b660cd80c6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792155,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85785843,
+            "region_id":-1,
             "venue_id":136154177
         }
     ],
     "wof:id":136154177,
-    "wof:lastmodified":1496963750,
+    "wof:lastmodified":1513989794,
     "wof:name":"Eborn & Associates Ltd",
-    "wof:parent_id":85792155,
+    "wof:parent_id":85785843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

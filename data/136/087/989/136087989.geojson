@@ -41,10 +41,12 @@
     "sg:website":"http://www.meridianmoneyadvice.org.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786431,
-        85683707
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,18 @@
     "wof:geomhash":"5f42cc35f0acc3a9bc41c58a9301cb42",
     "wof:hierarchy":[
         {
+            "borough_id":1158857295,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786431,
-            "region_id":85683707,
+            "region_id":-1,
             "venue_id":136087989
         }
     ],
     "wof:id":136087989,
-    "wof:lastmodified":1496963653,
+    "wof:lastmodified":1513999981,
     "wof:name":"Meridian Money Advice",
     "wof:parent_id":85786431,
     "wof:placetype":"venue",

@@ -32,9 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788147,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684141,
+        1158857259,
         85860877
     ],
     "wof:breaches":[],
@@ -45,26 +47,30 @@
     "wof:geomhash":"312c63555462659c98fa2273c8f90152",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788147,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":270230235
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860877,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":270230235
         }
     ],
     "wof:id":270230235,
-    "wof:lastmodified":1496965163,
+    "wof:lastmodified":1514001037,
     "wof:name":"Hounslow Social Care Inspectorate",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

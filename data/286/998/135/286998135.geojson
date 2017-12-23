@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792341,
+        85792351,
+        102191581,
+        1158860449,
         85633159,
+        404227469,
         101750367,
-        85684299
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +51,21 @@
     "wof:geomhash":"033653c5ed8b6fe0b98e1ec8a490cf2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792341,
-            "region_id":85684299,
+            "macrohood_id":1158860449,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792351,
+            "region_id":-1,
             "venue_id":286998135
         }
     ],
     "wof:id":286998135,
-    "wof:lastmodified":1496941498,
+    "wof:lastmodified":1513978292,
     "wof:name":"Action Time Vision",
-    "wof:parent_id":85792341,
+    "wof:parent_id":85792351,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785475,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"8e95835b0333ae76af110eab818ea2cc",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785475,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":135434981
         }
     ],
     "wof:id":135434981,
-    "wof:lastmodified":1496961862,
+    "wof:lastmodified":1513981454,
     "wof:name":"Euronews",
     "wof:parent_id":85785475,
     "wof:placetype":"venue",

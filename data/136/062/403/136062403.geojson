@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786345,
-        85684337
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"503d944afa81f077729d95ce57717746",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786345,
-            "region_id":85684337,
+            "region_id":-1,
             "venue_id":136062403
         }
     ],
     "wof:id":136062403,
-    "wof:lastmodified":1496963919,
+    "wof:lastmodified":1513998070,
     "wof:name":"St Laurence C Of E Church",
     "wof:parent_id":85786345,
     "wof:placetype":"venue",

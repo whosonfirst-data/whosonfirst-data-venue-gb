@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85793295,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"ddc023080ac2aa132b87b041cb7f442b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793295,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":135279717
         }
     ],
     "wof:id":135279717,
-    "wof:lastmodified":1496961683,
+    "wof:lastmodified":1513983104,
     "wof:name":"Farnell House Medical Centre",
     "wof:parent_id":85793295,
     "wof:placetype":"venue",

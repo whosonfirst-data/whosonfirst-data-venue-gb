@@ -35,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789715,
+        85791685,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684381,
-        85791685
+        1158857281,
+        85789715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +51,30 @@
     "wof:geomhash":"b9bbcfed7d28003fbf43f4578b8fd3b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789715,
-            "region_id":85684381,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791685,
+            "region_id":-1,
             "venue_id":252965931
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85791685,
-            "region_id":85684381,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789715,
+            "region_id":-1,
             "venue_id":252965931
         }
     ],
     "wof:id":252965931,
-    "wof:lastmodified":1496968309,
+    "wof:lastmodified":1513981233,
     "wof:name":"Mediate",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

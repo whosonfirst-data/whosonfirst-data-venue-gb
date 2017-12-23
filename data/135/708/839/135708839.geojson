@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158859487,
+        102191581,
+        1158860449,
         85633159,
-        85792341,
-        85684299
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,21 @@
     "wof:geomhash":"7ff2d1eb0d154460dbac13e94a045ea2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792341,
-            "region_id":85684299,
+            "macrohood_id":1158860449,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158859487,
+            "region_id":-1,
             "venue_id":135708839
         }
     ],
     "wof:id":135708839,
-    "wof:lastmodified":1496960922,
+    "wof:lastmodified":1513998350,
     "wof:name":"Margrave Studios Ltd.",
-    "wof:parent_id":85792341,
+    "wof:parent_id":1158859487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

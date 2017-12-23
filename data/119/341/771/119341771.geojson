@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792251,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"00c6e8587e62374bfc9f956e8a36e4c3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792251,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":119341771
         }
     ],
     "wof:id":119341771,
-    "wof:lastmodified":1496967023,
+    "wof:lastmodified":1513980082,
     "wof:name":"Chaseside Tyre Service",
     "wof:parent_id":85792251,
     "wof:placetype":"venue",

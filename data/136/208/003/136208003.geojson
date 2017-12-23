@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861715,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,18 @@
     "wof:geomhash":"ba34405b6b848ad163d414e3a5e71856",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861715,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":136208003
         }
     ],
     "wof:id":136208003,
-    "wof:lastmodified":1496963739,
+    "wof:lastmodified":1513998815,
     "wof:name":"Executive Support Ltd",
     "wof:parent_id":85861715,
     "wof:placetype":"venue",

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860505,
-        85683637
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"d8f4c1de999b550c45993e0ae2635773",
     "wof:hierarchy":[
         {
+            "borough_id":1158857319,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860505,
-            "region_id":85683637,
+            "region_id":-1,
             "venue_id":135628351
         }
     ],
     "wof:id":135628351,
-    "wof:lastmodified":1501088766,
+    "wof:lastmodified":1514001705,
     "wof:name":"Phoenix Total Security Ltd.",
     "wof:parent_id":85860505,
     "wof:placetype":"venue",

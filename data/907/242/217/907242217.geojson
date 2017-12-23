@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85788157,
-        85684331
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"6d2272a588856d3c65e626d15d6e43f1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788157,
-            "region_id":85684331,
+            "region_id":-1,
             "venue_id":907242217
         }
     ],
     "wof:id":907242217,
-    "wof:lastmodified":1496970448,
+    "wof:lastmodified":1513994875,
     "wof:name":"Wood Street Veterinary Hospital",
     "wof:parent_id":85788157,
     "wof:placetype":"venue",

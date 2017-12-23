@@ -33,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860091,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,18 @@
     "wof:geomhash":"9bca9d087977ff53df80c06c179d12f9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860091,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":119263317
         }
     ],
     "wof:id":119263317,
-    "wof:lastmodified":1496967460,
+    "wof:lastmodified":1514000423,
     "wof:name":"S C S Southern Ltd.",
     "wof:parent_id":85860091,
     "wof:placetype":"venue",

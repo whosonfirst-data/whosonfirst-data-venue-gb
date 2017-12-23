@@ -30,10 +30,12 @@
     "sg:province":"Kent",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785671,
-        85683763
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,18 @@
     "wof:geomhash":"5ebe5c9542257c3292c4e3aa39f4d300",
     "wof:hierarchy":[
         {
+            "borough_id":1158857255,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785671,
-            "region_id":85683763,
+            "region_id":-1,
             "venue_id":118658393
         }
     ],
     "wof:id":118658393,
-    "wof:lastmodified":1496965710,
+    "wof:lastmodified":1513984869,
     "wof:name":"The Flower Boutique",
     "wof:parent_id":85785671,
     "wof:placetype":"venue",

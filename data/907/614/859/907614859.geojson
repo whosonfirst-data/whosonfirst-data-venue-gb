@@ -30,14 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792251,
-        "102191581",
-        404435563,
-        "85633159",
+        85792255,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85792255
+        1158857281,
+        85792251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,30 +47,30 @@
     "wof:geomhash":"ea97e453e3d4f18615e18fd470b5a99f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85792251,
-            "region_id":85684061,
-            "venue_id":907614859
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857281,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85792255,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":907614859
+        },
+        {
+            "borough_id":1158857281,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792251,
+            "region_id":-1,
             "venue_id":907614859
         }
     ],
     "wof:id":907614859,
-    "wof:lastmodified":1496970645,
+    "wof:lastmodified":1513974699,
     "wof:name":"R S  Heather",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

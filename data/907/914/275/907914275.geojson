@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860023,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"010cd66807e3d48c05b58cf2d510766c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860023,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":907914275
         }
     ],
     "wof:id":907914275,
-    "wof:lastmodified":1496972312,
+    "wof:lastmodified":1513979470,
     "wof:name":"Rodney Skeemer",
     "wof:parent_id":85860023,
     "wof:placetype":"venue",

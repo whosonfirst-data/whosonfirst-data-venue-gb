@@ -34,12 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861625,
-        85633159,
-        101750367,
-        85684081,
         85897741,
-        85684467
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +49,20 @@
     "wof:geomhash":"0a424708faba53e0d68a3bab1c6e26d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861625,
-            "region_id":85684081,
-            "venue_id":336918349
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85897741,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":336918349
         }
     ],
     "wof:id":336918349,
-    "wof:lastmodified":1496968441,
+    "wof:lastmodified":1513997006,
     "wof:name":"Kids International",
-    "wof:parent_id":-1,
+    "wof:parent_id":85897741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

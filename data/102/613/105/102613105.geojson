@@ -41,10 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860411,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,18 @@
     "wof:geomhash":"4712522e838468aec2ce0c571f96f894",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860411,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":102613105
         }
     ],
     "wof:id":102613105,
-    "wof:lastmodified":1496968864,
+    "wof:lastmodified":1513982213,
     "wof:name":"United Refrigeration Ltd",
     "wof:parent_id":85860411,
     "wof:placetype":"venue",

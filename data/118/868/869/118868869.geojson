@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788559,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:brand_id":420574693,
     "wof:breaches":[],
@@ -44,15 +46,18 @@
     "wof:geomhash":"909b916304ff2ff04bc9b136f68fe3cf",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788559,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":118868869
         }
     ],
     "wof:id":118868869,
-    "wof:lastmodified":1511323362,
+    "wof:lastmodified":1514001994,
     "wof:name":"Dental Surgery",
     "wof:parent_id":85788559,
     "wof:placetype":"venue",

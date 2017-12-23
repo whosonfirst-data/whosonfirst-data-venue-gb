@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860157,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"f557f152f4005b7b2c4745aef00cf514",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860157,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":119285281
         }
     ],
     "wof:id":119285281,
-    "wof:lastmodified":1496966705,
+    "wof:lastmodified":1513991902,
     "wof:name":"Advent Design & Print Ltd.",
     "wof:parent_id":85860157,
     "wof:placetype":"venue",

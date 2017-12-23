@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789175,
-        85684099
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"57259dccf8b2d83d9f97c549081bdfa7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857305,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789175,
-            "region_id":85684099,
+            "region_id":-1,
             "venue_id":119084327
         }
     ],
     "wof:id":119084327,
-    "wof:lastmodified":1496966841,
+    "wof:lastmodified":1513997485,
     "wof:name":"Community Scrap Scheme",
     "wof:parent_id":85789175,
     "wof:placetype":"venue",

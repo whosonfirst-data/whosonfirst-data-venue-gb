@@ -42,10 +42,12 @@
     "sg:website":"http://www.halfords.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792375,
+        85786345,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684337
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,18 +57,20 @@
     "wof:geomhash":"d35d8e43533ed0a4fb97ac74b9f20f63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792375,
-            "region_id":85684337,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786345,
+            "region_id":-1,
             "venue_id":303686529
         }
     ],
     "wof:id":303686529,
-    "wof:lastmodified":1496937215,
+    "wof:lastmodified":1513980218,
     "wof:name":"Halfords Ltd.",
-    "wof:parent_id":85792375,
+    "wof:parent_id":85786345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

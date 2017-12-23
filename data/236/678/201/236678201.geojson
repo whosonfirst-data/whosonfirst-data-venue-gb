@@ -36,9 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792069,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684613,
+        1158857285,
         85788129
     ],
     "wof:breaches":[],
@@ -49,26 +51,30 @@
     "wof:geomhash":"8dbc650b9904ce841ad7d52a94608db9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792069,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":236678201
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788129,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":236678201
         }
     ],
     "wof:id":236678201,
-    "wof:lastmodified":1496964179,
+    "wof:lastmodified":1513986790,
     "wof:name":"Lionel Grall",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

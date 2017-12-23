@@ -43,10 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860371,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,18 @@
     "wof:geomhash":"9bca0eee7ed14f6cf1e8129e8fd5b2fb",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860371,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":119317277
         }
     ],
     "wof:id":119317277,
-    "wof:lastmodified":1496967709,
+    "wof:lastmodified":1513995102,
     "wof:name":"Amathus Wines Ltd",
     "wof:parent_id":85860371,
     "wof:placetype":"venue",

@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787169,
-        85684411
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"5277e2b23d0be7b292e1a80b59c93f2f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787169,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":135672207
         }
     ],
     "wof:id":135672207,
-    "wof:lastmodified":1496961985,
+    "wof:lastmodified":1514002651,
     "wof:name":"John W Brooks",
     "wof:parent_id":85787169,
     "wof:placetype":"venue",

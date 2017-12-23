@@ -37,13 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85859965,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85789765
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,30 +52,20 @@
     "wof:geomhash":"59791052b72c0977e459138ac1299922",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857247,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85859965,
-            "region_id":85684061,
-            "venue_id":286380635
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85789765,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":286380635
         }
     ],
     "wof:id":286380635,
-    "wof:lastmodified":1501088727,
+    "wof:lastmodified":1513991983,
     "wof:name":"Diespeker Marble & Terrazzo Ltd.",
-    "wof:parent_id":-3,
+    "wof:parent_id":85859965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

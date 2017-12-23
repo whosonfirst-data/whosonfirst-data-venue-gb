@@ -42,10 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158860467,
+        102191581,
+        1158860451,
         85633159,
-        85787867,
-        85684299
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +58,21 @@
     "wof:geomhash":"6d06f16db8a66d7d5b2bd4121c3be00f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85787867,
-            "region_id":85684299,
+            "macrohood_id":1158860451,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158860467,
+            "region_id":-1,
             "venue_id":118586281
         }
     ],
     "wof:id":118586281,
-    "wof:lastmodified":1496965582,
+    "wof:lastmodified":1513991938,
     "wof:name":"Qualipac Ltd.",
-    "wof:parent_id":85787867,
+    "wof:parent_id":1158860467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

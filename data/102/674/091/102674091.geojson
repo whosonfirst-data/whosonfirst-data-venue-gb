@@ -31,10 +31,12 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790117,
-        85683637
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"65ef63e65aaf36657c98e9ebcf48393a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857319,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790117,
-            "region_id":85683637,
+            "region_id":-1,
             "venue_id":102674091
         }
     ],
     "wof:id":102674091,
-    "wof:lastmodified":1496968856,
+    "wof:lastmodified":1513999320,
     "wof:name":"Type In Time",
     "wof:parent_id":85790117,
     "wof:placetype":"venue",

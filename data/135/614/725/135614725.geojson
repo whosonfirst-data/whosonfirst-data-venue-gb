@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861833,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,18 @@
     "wof:geomhash":"fcb8ab7e4154f5cecc4c0576d4801574",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861833,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":135614725
         }
     ],
     "wof:id":135614725,
-    "wof:lastmodified":1496961022,
+    "wof:lastmodified":1513984426,
     "wof:name":"Fiorucci (U K) Ltd.",
     "wof:parent_id":85861833,
     "wof:placetype":"venue",

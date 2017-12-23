@@ -38,9 +38,12 @@
     "sg:website":"http://www.amticoshop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860265,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,18 @@
     "wof:geomhash":"ed14882c5ac7a6f621974c665caf134e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860265,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":135282881
         }
     ],
     "wof:id":135282881,
-    "wof:lastmodified":1496961083,
+    "wof:lastmodified":1513983087,
     "wof:name":"Carpetstyle Ltd",
     "wof:parent_id":85860265,
     "wof:placetype":"venue",

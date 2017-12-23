@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158859477,
+        102191581,
+        1158860449,
         85633159,
-        85792351,
-        85684299
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,21 @@
     "wof:geomhash":"4a7b76ed2446a04c78db1fe38caba26f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792351,
-            "region_id":85684299,
+            "macrohood_id":1158860449,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158859477,
+            "region_id":-1,
             "venue_id":135350877
         }
     ],
     "wof:id":135350877,
-    "wof:lastmodified":1496961382,
+    "wof:lastmodified":1513998346,
     "wof:name":"Barron Building Services",
-    "wof:parent_id":85792351,
+    "wof:parent_id":1158859477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

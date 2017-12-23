@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914071,
-        85633159,
         85860817,
-        85684417
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"1b71c76d5d3df4e4e34ba3ef6b96a5d3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
-            "locality_id":101914071,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860817,
-            "region_id":85684417,
+            "region_id":-1,
             "venue_id":119334359
         }
     ],
     "wof:id":119334359,
-    "wof:lastmodified":1496967712,
+    "wof:lastmodified":1513995506,
     "wof:name":"Fletchers Roofing",
     "wof:parent_id":85860817,
     "wof:placetype":"venue",

@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787291,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"9bb47eb7d1bdc9c2ee828caa52e60850",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787291,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":924304903
         }
     ],
     "wof:id":924304903,
-    "wof:lastmodified":1496953829,
+    "wof:lastmodified":1513974399,
     "wof:name":"Westminster Consulting Ltd",
     "wof:parent_id":85787291,
     "wof:placetype":"venue",

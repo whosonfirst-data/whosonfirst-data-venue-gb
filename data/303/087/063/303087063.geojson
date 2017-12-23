@@ -32,9 +32,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790639,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +47,19 @@
     "wof:geomhash":"41f520915c09461aa3f50ee30f2733c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790639,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":303087063
         }
     ],
     "wof:id":303087063,
-    "wof:lastmodified":1496937159,
+    "wof:lastmodified":1513985423,
     "wof:name":"Cricketers Club of London",
     "wof:parent_id":85790639,
     "wof:placetype":"venue",

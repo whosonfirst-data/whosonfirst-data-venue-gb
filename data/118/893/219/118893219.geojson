@@ -31,10 +31,12 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789961,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"58d5a1c07b48d61e5eeedb12eeee6d61",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789961,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":118893219
         }
     ],
     "wof:id":118893219,
-    "wof:lastmodified":1496965559,
+    "wof:lastmodified":1513982364,
     "wof:name":"J L H Business Services",
     "wof:parent_id":85789961,
     "wof:placetype":"venue",

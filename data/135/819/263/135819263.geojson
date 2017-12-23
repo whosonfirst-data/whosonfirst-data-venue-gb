@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85860647,
+        102191581,
         85633159,
-        85860645,
-        85684533
+        404227469,
+        101750367,
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +49,20 @@
     "wof:geomhash":"7579be46b2fb450077794844811d247a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860645,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860647,
+            "region_id":-1,
             "venue_id":135819263
         }
     ],
     "wof:id":135819263,
-    "wof:lastmodified":1496960753,
+    "wof:lastmodified":1513979683,
     "wof:name":"South West London Community N H S Trust",
-    "wof:parent_id":85860645,
+    "wof:parent_id":85860647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

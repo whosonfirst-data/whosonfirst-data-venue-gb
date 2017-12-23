@@ -41,10 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791669,
-        85684003,
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267,
         85787935
     ],
     "wof:breaches":[],
@@ -55,24 +57,30 @@
     "wof:geomhash":"5b9dda46f8ec9c97fccc4dc4195753a7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791669,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":135465015
         },
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787935,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":135465015
         }
     ],
     "wof:id":135465015,
-    "wof:lastmodified":1496961084,
+    "wof:lastmodified":1513997841,
     "wof:name":"A B Upholstery Specialists in Car Interiors",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

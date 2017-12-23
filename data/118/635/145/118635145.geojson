@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861763,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"cc304ae490872a0ae89ad7f59ee1f862",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861763,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":118635145
         }
     ],
     "wof:id":118635145,
-    "wof:lastmodified":1496965726,
+    "wof:lastmodified":1513997247,
     "wof:name":"C & S Builders",
     "wof:parent_id":85861763,
     "wof:placetype":"venue",

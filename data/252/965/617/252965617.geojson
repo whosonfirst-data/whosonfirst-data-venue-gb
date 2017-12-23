@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861617,
+        85861651,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684289
+        1158857257
     ],
     "wof:brand_id":420575069,
     "wof:breaches":[],
@@ -45,18 +47,20 @@
     "wof:geomhash":"8714846fe487b6e790f7ea57b4a30ae1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861617,
-            "region_id":85684289,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861651,
+            "region_id":-1,
             "venue_id":252965617
         }
     ],
     "wof:id":252965617,
-    "wof:lastmodified":1496968309,
+    "wof:lastmodified":1514002401,
     "wof:name":"Lloyds Tsb Bank Plc",
-    "wof:parent_id":85861617,
+    "wof:parent_id":85861651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

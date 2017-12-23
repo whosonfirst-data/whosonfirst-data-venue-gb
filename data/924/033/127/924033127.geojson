@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786059,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"51b144afc5fb36b1d1dcb75284897e43",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786059,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":924033127
         }
     ],
     "wof:id":924033127,
-    "wof:lastmodified":1496959748,
+    "wof:lastmodified":1513999186,
     "wof:name":"Hair Chat",
     "wof:parent_id":85786059,
     "wof:placetype":"venue",

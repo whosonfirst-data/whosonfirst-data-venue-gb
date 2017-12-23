@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85790639,
+        102191581,
+        1158859031,
         85633159,
-        85861741,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,21 @@
     "wof:geomhash":"691fd08697bd28e10df3e9621f74c6e4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861741,
-            "region_id":85684061,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790639,
+            "region_id":-1,
             "venue_id":119497721
         }
     ],
     "wof:id":119497721,
-    "wof:lastmodified":1496966703,
+    "wof:lastmodified":1513994435,
     "wof:name":"Vecchia Milano",
-    "wof:parent_id":85861741,
+    "wof:parent_id":85790639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

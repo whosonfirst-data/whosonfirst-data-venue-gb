@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85897741,
-        85684467
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"b79f0b8035e7e45b88c593800bed428a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85897741,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":119526421
         }
     ],
     "wof:id":119526421,
-    "wof:lastmodified":1496967817,
+    "wof:lastmodified":1513974681,
     "wof:name":"B M S Group",
     "wof:parent_id":85897741,
     "wof:placetype":"venue",

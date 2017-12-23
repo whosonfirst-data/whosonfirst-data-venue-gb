@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787873,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,18 @@
     "wof:geomhash":"a3ea594bdde3f0485aa1d867f69a5562",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787873,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":119073097
         }
     ],
     "wof:id":119073097,
-    "wof:lastmodified":1501088738,
+    "wof:lastmodified":1513981106,
     "wof:name":"Gripping Stuff International Ltd.",
     "wof:parent_id":85787873,
     "wof:placetype":"venue",

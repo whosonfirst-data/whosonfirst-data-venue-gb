@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787169,
-        85684411
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"0d812d48d051b7fd229222962978ec98",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787169,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":119359743
         }
     ],
     "wof:id":119359743,
-    "wof:lastmodified":1496967151,
+    "wof:lastmodified":1513995540,
     "wof:name":"St. Lazarus & St. Andrews",
     "wof:parent_id":85787169,
     "wof:placetype":"venue",

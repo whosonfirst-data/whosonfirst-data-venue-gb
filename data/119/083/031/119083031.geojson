@@ -30,10 +30,12 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785229,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"56f7a23452af9a271ba27c072655312f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785229,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":119083031
         }
     ],
     "wof:id":119083031,
-    "wof:lastmodified":1501088709,
+    "wof:lastmodified":1513986612,
     "wof:name":"Antiques Emporium Ltd",
     "wof:parent_id":85785229,
     "wof:placetype":"venue",

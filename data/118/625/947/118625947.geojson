@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788539,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"6593527aff5bdd83296f5f23dde0203f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788539,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":118625947
         }
     ],
     "wof:id":118625947,
-    "wof:lastmodified":1496965789,
+    "wof:lastmodified":1514002466,
     "wof:name":"Bullseye Printing",
     "wof:parent_id":85788539,
     "wof:placetype":"venue",

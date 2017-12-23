@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85869851,
-        85684289
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"d5babf49844ad88d63ca1b17ef136e6e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869851,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":135683215
         }
     ],
     "wof:id":135683215,
-    "wof:lastmodified":1496960945,
+    "wof:lastmodified":1514000278,
     "wof:name":"Warwick Balfour Management Ltd",
     "wof:parent_id":85869851,
     "wof:placetype":"venue",

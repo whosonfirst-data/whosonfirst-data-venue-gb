@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790453,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"8762d402ef81b60db7246c101028fbdc",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790453,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":135753625
         }
     ],
     "wof:id":135753625,
-    "wof:lastmodified":1496961328,
+    "wof:lastmodified":1513980024,
     "wof:name":"Holy Innocents C Of E Church",
     "wof:parent_id":85790453,
     "wof:placetype":"venue",

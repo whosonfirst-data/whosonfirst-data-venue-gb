@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789453,
-        85684299
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"639d0c8baa5448cae94725cebd27d728",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789453,
-            "region_id":85684299,
+            "region_id":-1,
             "venue_id":135564071
         }
     ],
     "wof:id":135564071,
-    "wof:lastmodified":1496961755,
+    "wof:lastmodified":1513986178,
     "wof:name":"Liljefors,Maria,",
     "wof:parent_id":85789453,
     "wof:placetype":"venue",

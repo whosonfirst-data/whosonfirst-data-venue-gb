@@ -33,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85790317,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"8b0dac73a7fb9be9fb5f89cf3a39e3df",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790317,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":907685617
         }
     ],
     "wof:id":907685617,
-    "wof:lastmodified":1496970606,
+    "wof:lastmodified":1513974593,
     "wof:name":"Trinity Dry Cleaners",
     "wof:parent_id":85790317,
     "wof:placetype":"venue",

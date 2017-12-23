@@ -33,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861783,
+        85786805,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684597
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +49,21 @@
     "wof:geomhash":"c340b4b4719ea85b1eef1f5ceba636b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861783,
-            "region_id":85684597,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786805,
+            "region_id":-1,
             "venue_id":286936527
         }
     ],
     "wof:id":286936527,
-    "wof:lastmodified":1496939424,
+    "wof:lastmodified":1513981932,
     "wof:name":"Fc Entertainment Ltd",
-    "wof:parent_id":85861783,
+    "wof:parent_id":85786805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860383,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"dce7f8a18a1cd470815835b245db85f1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860383,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":119299737
         }
     ],
     "wof:id":119299737,
-    "wof:lastmodified":1496967016,
+    "wof:lastmodified":1513991886,
     "wof:name":"St Peter-in-Chains Roman Catholic Infant School",
     "wof:parent_id":85860383,
     "wof:placetype":"venue",

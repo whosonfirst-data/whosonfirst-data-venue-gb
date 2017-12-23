@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790841,
-        85684387
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"bf7c1c54838ca9472b05a9e357b91e3d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857309,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790841,
-            "region_id":85684387,
+            "region_id":-1,
             "venue_id":135347919
         }
     ],
     "wof:id":135347919,
-    "wof:lastmodified":1496962022,
+    "wof:lastmodified":1513999139,
     "wof:name":"Eloquence",
     "wof:parent_id":85790841,
     "wof:placetype":"venue",

@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860397,
-        85684597
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"5779f015589ee9d18e2ed0c64f9e140f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860397,
-            "region_id":85684597,
+            "region_id":-1,
             "venue_id":119053801
         }
     ],
     "wof:id":119053801,
-    "wof:lastmodified":1496968018,
+    "wof:lastmodified":1513973538,
     "wof:name":"Jane Lehrer Associates",
     "wof:parent_id":85860397,
     "wof:placetype":"venue",

@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785657,
-        85684467
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"acc15d8ccb3e510d3d9c129d793b7fdf",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785657,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":119250485
         }
     ],
     "wof:id":119250485,
-    "wof:lastmodified":1496967364,
+    "wof:lastmodified":1513981533,
     "wof:name":"Muscleworks Gym",
     "wof:parent_id":85785657,
     "wof:placetype":"venue",

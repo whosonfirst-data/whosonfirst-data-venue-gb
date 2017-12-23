@@ -31,9 +31,12 @@
     "sg:province":"Berkshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785569,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,18 @@
     "wof:geomhash":"80c8a75b16cc682a0d0862ae3da9e6e7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785569,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":119404925
         }
     ],
     "wof:id":119404925,
-    "wof:lastmodified":1496967135,
+    "wof:lastmodified":1513984555,
     "wof:name":"KONINKLIJKE LUCHTVAART MAATSCHAPPIJ N.V",
     "wof:parent_id":85785569,
     "wof:placetype":"venue",

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788559,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"a3f5d56406b31e61b3cc65dd0ce1915b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788559,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":102571031
         }
     ],
     "wof:id":102571031,
-    "wof:lastmodified":1496968986,
+    "wof:lastmodified":1513984036,
     "wof:name":"Carlton Mini Cabs",
     "wof:parent_id":85788559,
     "wof:placetype":"venue",

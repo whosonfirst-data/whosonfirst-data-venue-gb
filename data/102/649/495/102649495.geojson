@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790773,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,18 @@
     "wof:geomhash":"5378dbbaff09a27b6d4f50b24906d5a9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790773,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":102649495
         }
     ],
     "wof:id":102649495,
-    "wof:lastmodified":1496968836,
+    "wof:lastmodified":1513982375,
     "wof:name":"Simon Jacobs",
     "wof:parent_id":85790773,
     "wof:placetype":"venue",

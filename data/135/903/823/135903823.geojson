@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85786805,
+        102191581,
+        1158859031,
         85633159,
-        85860883,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,21 @@
     "wof:geomhash":"163b2d0c9c014f2fc7e403c7f79777c1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860883,
-            "region_id":85684061,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786805,
+            "region_id":-1,
             "venue_id":135903823
         }
     ],
     "wof:id":135903823,
-    "wof:lastmodified":1496961827,
+    "wof:lastmodified":1513974670,
     "wof:name":"Art Line Magazine",
-    "wof:parent_id":85860883,
+    "wof:parent_id":85786805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

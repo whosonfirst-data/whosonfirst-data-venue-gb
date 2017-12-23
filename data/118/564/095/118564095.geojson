@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860161,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"5682a0e18eeba3e218eac28322d3c199",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860161,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":118564095
         }
     ],
     "wof:id":118564095,
-    "wof:lastmodified":1501088744,
+    "wof:lastmodified":1513989209,
     "wof:name":"J.B. Office Management Ltd",
     "wof:parent_id":85860161,
     "wof:placetype":"venue",

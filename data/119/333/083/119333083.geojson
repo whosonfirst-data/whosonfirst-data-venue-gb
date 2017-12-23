@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790435,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"524398df61d57c33a3488c10efa8d1f2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790435,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":119333083
         }
     ],
     "wof:id":119333083,
-    "wof:lastmodified":1496967690,
+    "wof:lastmodified":1513990565,
     "wof:name":"K W Freight",
     "wof:parent_id":85790435,
     "wof:placetype":"venue",

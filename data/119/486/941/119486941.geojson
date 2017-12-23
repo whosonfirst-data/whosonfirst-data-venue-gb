@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
+        1158859087,
         85861715,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,21 @@
     "wof:geomhash":"d8ad7b750c563f7e3f16bd476d56df52",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
+            "microhood_id":1158859087,
             "neighbourhood_id":85861715,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":119486941
         }
     ],
     "wof:id":119486941,
-    "wof:lastmodified":1496967214,
+    "wof:lastmodified":1513994894,
     "wof:name":"Egerton House Hotel",
-    "wof:parent_id":85861715,
+    "wof:parent_id":1158859087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

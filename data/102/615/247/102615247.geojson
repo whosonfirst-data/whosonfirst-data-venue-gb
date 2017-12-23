@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787633,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:brand_id":1125155479,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"1b74d8d6c1832da77785446aa73637fa",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787633,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":102615247
         }
     ],
     "wof:id":102615247,
-    "wof:lastmodified":1510612912,
+    "wof:lastmodified":1513987422,
     "wof:name":"Dewhurst Butchers Ltd.",
     "wof:parent_id":85787633,
     "wof:placetype":"venue",

@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860469,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"db37a1a8f59dcedfab0f8fee604c7cf4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860469,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":136226573
         }
     ],
     "wof:id":136226573,
-    "wof:lastmodified":1496963937,
+    "wof:lastmodified":1514002584,
     "wof:name":"Sri Sai Superstores",
     "wof:parent_id":85860469,
     "wof:placetype":"venue",

@@ -35,14 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861639,
-        "102191581",
-        404435563,
-        "85633159",
+        85861625,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85861625
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,30 +51,20 @@
     "wof:geomhash":"aa15ed7c6e7e306f4b5472290b8da9a9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85861639,
-            "region_id":85684061,
-            "venue_id":907355595
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857257,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85861625,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907355595
         }
     ],
     "wof:id":907355595,
-    "wof:lastmodified":1496970900,
+    "wof:lastmodified":1513990520,
     "wof:name":"Pitcher & Piano Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85861625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

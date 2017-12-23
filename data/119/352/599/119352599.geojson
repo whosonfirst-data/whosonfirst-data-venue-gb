@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158865989,
+        102191581,
         85633159,
-        85789213,
-        85684235
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +45,20 @@
     "wof:geomhash":"a6256e82d60b65b320cd07791075eb55",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789213,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158865989,
+            "region_id":-1,
             "venue_id":119352599
         }
     ],
     "wof:id":119352599,
-    "wof:lastmodified":1496968003,
+    "wof:lastmodified":1514001316,
     "wof:name":"Grove Park Dental Surgery",
-    "wof:parent_id":85789213,
+    "wof:parent_id":1158865989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

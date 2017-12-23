@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787755,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,18 @@
     "wof:geomhash":"592604b751a519582f7d48c1c2b8013b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787755,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":924455471
         }
     ],
     "wof:id":924455471,
-    "wof:lastmodified":1496948246,
+    "wof:lastmodified":1513980757,
     "wof:name":"The New Lucky House",
     "wof:parent_id":85787755,
     "wof:placetype":"venue",

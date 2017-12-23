@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790809,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:brand_id":420574589,
     "wof:breaches":[],
@@ -49,15 +51,18 @@
     "wof:geomhash":"d7240818ae0ab8718c3ad39a7a3839dd",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790809,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":135531615
         }
     ],
     "wof:id":135531615,
-    "wof:lastmodified":1496961391,
+    "wof:lastmodified":1513977407,
     "wof:name":"Nationwide Building Society",
     "wof:parent_id":85790809,
     "wof:placetype":"venue",

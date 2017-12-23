@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787169,
-        85684411
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857293
     ],
     "wof:brand_id":1125161625,
     "wof:breaches":[],
@@ -45,15 +47,18 @@
     "wof:geomhash":"c40be0053862b21650fb28ac6a1cc5d4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787169,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":135449651
         }
     ],
     "wof:id":135449651,
-    "wof:lastmodified":1511318112,
+    "wof:lastmodified":1513984250,
     "wof:name":"Taylors",
     "wof:parent_id":85787169,
     "wof:placetype":"venue",

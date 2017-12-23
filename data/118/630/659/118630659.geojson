@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789187,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +47,18 @@
     "wof:geomhash":"6cade01f5b514b5f29fa78fcb20bf7c1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789187,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":118630659
         }
     ],
     "wof:id":118630659,
-    "wof:lastmodified":1510944194,
+    "wof:lastmodified":1513994971,
     "wof:name":"Kingsway Stores",
     "wof:parent_id":85789187,
     "wof:placetype":"venue",

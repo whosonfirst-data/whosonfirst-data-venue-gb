@@ -42,10 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860751,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,18 @@
     "wof:geomhash":"f2c9a9185e42d68f120a903e9161eb34",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860751,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":136108783
         }
     ],
     "wof:id":136108783,
-    "wof:lastmodified":1496963755,
+    "wof:lastmodified":1513998535,
     "wof:name":"The Havelock Arms",
     "wof:parent_id":85860751,
     "wof:placetype":"venue",

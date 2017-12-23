@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85882211,
-        85684299
+        102191581,
+        1158860453,
+        85633159,
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +47,19 @@
     "wof:geomhash":"35dc2ab5bc17459296b783e110cf07fe",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158860453,
+            "macroregion_id":404227469,
             "neighbourhood_id":85882211,
-            "region_id":85684299,
+            "region_id":-1,
             "venue_id":119513333
         }
     ],
     "wof:id":119513333,
-    "wof:lastmodified":1496967718,
+    "wof:lastmodified":1513993113,
     "wof:name":"McCann Taverns Ltd.",
     "wof:parent_id":85882211,
     "wof:placetype":"venue",

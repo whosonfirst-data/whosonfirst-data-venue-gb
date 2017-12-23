@@ -37,9 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860265,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,18 @@
     "wof:geomhash":"fb5c5fe6a8af50e2d008795093ce8dc1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860265,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":923971279
         }
     ],
     "wof:id":923971279,
-    "wof:lastmodified":1496969063,
+    "wof:lastmodified":1514002171,
     "wof:name":"Rapid Tool Hire",
     "wof:parent_id":85860265,
     "wof:placetype":"venue",

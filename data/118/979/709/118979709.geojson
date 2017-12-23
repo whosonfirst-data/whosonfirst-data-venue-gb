@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788329,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"ff588e24332bd58325ca09f24a5f3951",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788329,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":118979709
         }
     ],
     "wof:id":118979709,
-    "wof:lastmodified":1496966091,
+    "wof:lastmodified":1513982105,
     "wof:name":"D Tirmizey",
     "wof:parent_id":85788329,
     "wof:placetype":"venue",

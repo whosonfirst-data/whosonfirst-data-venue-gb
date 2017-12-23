@@ -33,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789175,
+        85860869,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684099,
-        85860869
+        1158857305,
+        85789175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +49,30 @@
     "wof:geomhash":"e566f613eb25e7e79b54455de8f67b92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857305,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789175,
-            "region_id":85684099,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860869,
+            "region_id":-1,
             "venue_id":186313561
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857305,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860869,
-            "region_id":85684099,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789175,
+            "region_id":-1,
             "venue_id":186313561
         }
     ],
     "wof:id":186313561,
-    "wof:lastmodified":1496968729,
+    "wof:lastmodified":1513998155,
     "wof:name":"Ron Gregory",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

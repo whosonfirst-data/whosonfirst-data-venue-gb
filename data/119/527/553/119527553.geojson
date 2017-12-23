@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158859435,
+        85861739,
+        102191581,
         85633159,
-        85792207,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,21 @@
     "wof:geomhash":"11ef193dcde86bd5cf12e15d8e12d7c2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792207,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "microhood_id":1158859435,
+            "neighbourhood_id":85861739,
+            "region_id":-1,
             "venue_id":119527553
         }
     ],
     "wof:id":119527553,
-    "wof:lastmodified":1496967197,
+    "wof:lastmodified":1513983210,
     "wof:name":"Espresso Software",
-    "wof:parent_id":85792207,
+    "wof:parent_id":1158859435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

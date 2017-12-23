@@ -41,10 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860705,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,18 @@
     "wof:geomhash":"0efe3913ae1a57fa9af4481228ce90f5",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860705,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":118669971
         }
     ],
     "wof:id":118669971,
-    "wof:lastmodified":1496965818,
+    "wof:lastmodified":1513984501,
     "wof:name":"Ace Mini Cabs",
     "wof:parent_id":85860705,
     "wof:placetype":"venue",

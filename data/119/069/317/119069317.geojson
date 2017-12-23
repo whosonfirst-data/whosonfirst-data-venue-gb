@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85793305,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"36c05ea9ed017b0d01684961a8d43a09",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793305,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":119069317
         }
     ],
     "wof:id":119069317,
-    "wof:lastmodified":1496967422,
+    "wof:lastmodified":1514001296,
     "wof:name":"A A A Driving School",
     "wof:parent_id":85793305,
     "wof:placetype":"venue",

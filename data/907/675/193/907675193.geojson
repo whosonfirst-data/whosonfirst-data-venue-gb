@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786015,
-        85684217
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"32d71ae2cc9e42e3d99d8b2608cf904a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786015,
-            "region_id":85684217,
+            "region_id":-1,
             "venue_id":907675193
         }
     ],
     "wof:id":907675193,
-    "wof:lastmodified":1496970855,
+    "wof:lastmodified":1513976683,
     "wof:name":"Ardmore Construction Ltd.",
     "wof:parent_id":85786015,
     "wof:placetype":"venue",

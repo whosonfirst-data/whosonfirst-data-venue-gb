@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85861621,
+        102191581,
         85633159,
-        85789693,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,20 @@
     "wof:geomhash":"284d4225908fa32b3fbec9a1e6b9e805",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789693,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861621,
+            "region_id":-1,
             "venue_id":118756907
         }
     ],
     "wof:id":118756907,
-    "wof:lastmodified":1496966000,
+    "wof:lastmodified":1513975539,
     "wof:name":"Hazel Wildman",
-    "wof:parent_id":85789693,
+    "wof:parent_id":85861621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

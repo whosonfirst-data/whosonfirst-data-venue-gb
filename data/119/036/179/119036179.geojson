@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860571,
-        85684337
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"48f632cd69e7d7bf1bcb81abdf1d950c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860571,
-            "region_id":85684337,
+            "region_id":-1,
             "venue_id":119036179
         }
     ],
     "wof:id":119036179,
-    "wof:lastmodified":1496967906,
+    "wof:lastmodified":1513991118,
     "wof:name":"Louis A  Vivas",
     "wof:parent_id":85860571,
     "wof:placetype":"venue",

@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860371,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"59633d8d85cf15156c954931b78c7222",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860371,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":118876381
         }
     ],
     "wof:id":118876381,
-    "wof:lastmodified":1496965797,
+    "wof:lastmodified":1513978116,
     "wof:name":"Bismla Halal Meat",
     "wof:parent_id":85860371,
     "wof:placetype":"venue",

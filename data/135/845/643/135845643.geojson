@@ -41,10 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787927,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,18 @@
     "wof:geomhash":"5f8fe22fd44c180765b1bff5f138236f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787927,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":135845643
         }
     ],
     "wof:id":135845643,
-    "wof:lastmodified":1496960716,
+    "wof:lastmodified":1513990082,
     "wof:name":"Athena Palace",
     "wof:parent_id":85787927,
     "wof:placetype":"venue",

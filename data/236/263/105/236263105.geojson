@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789133,
+        85860605,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684099
+        1158857303
     ],
     "wof:brand_id":1125159239,
     "wof:breaches":[],
@@ -45,18 +47,20 @@
     "wof:geomhash":"4f01cc0e4545966a122c545f68a5bb2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857303,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789133,
-            "region_id":85684099,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860605,
+            "region_id":-1,
             "venue_id":236263105
         }
     ],
     "wof:id":236263105,
-    "wof:lastmodified":1510874674,
+    "wof:lastmodified":1513981046,
     "wof:name":"Equinox",
-    "wof:parent_id":85789133,
+    "wof:parent_id":85860605,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -41,10 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792179,
+        85792177,
+        102191581,
+        1158860449,
         85633159,
+        404227469,
         101750367,
-        85684299
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,18 +58,21 @@
     "wof:geomhash":"76f8c64fc4a486516a31f377d5d9f8da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792179,
-            "region_id":85684299,
+            "macrohood_id":1158860449,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792177,
+            "region_id":-1,
             "venue_id":287012559
         }
     ],
     "wof:id":287012559,
-    "wof:lastmodified":1501088788,
+    "wof:lastmodified":1513979845,
     "wof:name":"Universal Investment & Manufacturing Co. Ltd.",
-    "wof:parent_id":85792179,
+    "wof:parent_id":85792177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

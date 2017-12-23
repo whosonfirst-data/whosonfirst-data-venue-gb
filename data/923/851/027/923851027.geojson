@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85788535,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"0248ce0aa74e1e78d9604d29ffe47917",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788535,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":923851027
         }
     ],
     "wof:id":923851027,
-    "wof:lastmodified":1496969959,
+    "wof:lastmodified":1513999972,
     "wof:name":"Aeon Electronic Protection Systems",
     "wof:parent_id":85788535,
     "wof:placetype":"venue",

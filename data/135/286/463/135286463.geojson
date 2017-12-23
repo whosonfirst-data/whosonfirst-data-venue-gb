@@ -43,9 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85790695,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +58,18 @@
     "wof:geomhash":"e774e93d41e88595b2457ad934a908c2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790695,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":135286463
         }
     ],
     "wof:id":135286463,
-    "wof:lastmodified":1496960810,
+    "wof:lastmodified":1514000504,
     "wof:name":"Riverside Tarmacadam Ltd",
     "wof:parent_id":85790695,
     "wof:placetype":"venue",

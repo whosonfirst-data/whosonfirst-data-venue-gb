@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861645,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"0f81361c78485e6f2be24e68d913e3d6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861645,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":135572603
         }
     ],
     "wof:id":135572603,
-    "wof:lastmodified":1496961594,
+    "wof:lastmodified":1513996122,
     "wof:name":"Coco One",
     "wof:parent_id":85861645,
     "wof:placetype":"venue",

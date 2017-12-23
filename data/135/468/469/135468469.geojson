@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158857445,
+        102191581,
         85633159,
-        85790847,
-        85683649
+        404227469,
+        101750367,
+        1158857303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +52,20 @@
     "wof:geomhash":"c11f6d476d0484e00548f9b79c0a0478",
     "wof:hierarchy":[
         {
+            "borough_id":1158857303,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85790847,
-            "region_id":85683649,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158857445,
+            "region_id":-1,
             "venue_id":135468469
         }
     ],
     "wof:id":135468469,
-    "wof:lastmodified":1496961953,
+    "wof:lastmodified":1513990971,
     "wof:name":"Sutton Talking Newspaper For The Blind",
-    "wof:parent_id":85790847,
+    "wof:parent_id":1158857445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

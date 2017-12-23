@@ -36,9 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786397,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683637,
+        1158857319,
         85860505
     ],
     "wof:breaches":[],
@@ -49,26 +51,30 @@
     "wof:geomhash":"d8166a6037a7e071d2df85ff84692b30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857319,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786397,
-            "region_id":85683637,
+            "region_id":-1,
             "venue_id":320157085
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857319,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860505,
-            "region_id":85683637,
+            "region_id":-1,
             "venue_id":320157085
         }
     ],
     "wof:id":320157085,
-    "wof:lastmodified":1496962788,
+    "wof:lastmodified":1513996386,
     "wof:name":"R K Electrical",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

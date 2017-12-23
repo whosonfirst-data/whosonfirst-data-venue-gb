@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85793315,
-        85683683
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +47,18 @@
     "wof:geomhash":"ecb1d67ffbf90161ba96d633a7b8d675",
     "wof:hierarchy":[
         {
+            "borough_id":1158857273,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793315,
-            "region_id":85683683,
+            "region_id":-1,
             "venue_id":119488153
         }
     ],
     "wof:id":119488153,
-    "wof:lastmodified":1510943043,
+    "wof:lastmodified":1513992296,
     "wof:name":"Kadimah Hotel",
     "wof:parent_id":85793315,
     "wof:placetype":"venue",

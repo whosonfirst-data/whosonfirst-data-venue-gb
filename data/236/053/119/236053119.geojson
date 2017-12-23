@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866375,
+        85792079,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684289
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"cec932c730febe4c900e585402a45f98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85866375,
-            "region_id":85684289,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792079,
+            "region_id":-1,
             "venue_id":236053119
         }
     ],
     "wof:id":236053119,
-    "wof:lastmodified":1496964383,
+    "wof:lastmodified":1513988525,
     "wof:name":"Potter & Holmes Architects",
-    "wof:parent_id":85866375,
+    "wof:parent_id":85792079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

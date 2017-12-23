@@ -33,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786059,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"70344f858d3ef2e19674396fd528b0b1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786059,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":907591875
         }
     ],
     "wof:id":907591875,
-    "wof:lastmodified":1496972700,
+    "wof:lastmodified":1513987961,
     "wof:name":"G J Clark & Associates",
     "wof:parent_id":85786059,
     "wof:placetype":"venue",

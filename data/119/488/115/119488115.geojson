@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85793315,
-        85683683
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"3cd605d996bd1edaf78e7f0bf9b98b73",
     "wof:hierarchy":[
         {
+            "borough_id":1158857273,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793315,
-            "region_id":85683683,
+            "region_id":-1,
             "venue_id":119488115
         }
     ],
     "wof:id":119488115,
-    "wof:lastmodified":1496967544,
+    "wof:lastmodified":1513982034,
     "wof:name":"Brewer",
     "wof:parent_id":85793315,
     "wof:placetype":"venue",

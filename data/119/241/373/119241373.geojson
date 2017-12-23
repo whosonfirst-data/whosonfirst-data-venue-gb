@@ -38,10 +38,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861793,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,18 @@
     "wof:geomhash":"ff446f3f679ce130e5525339be35ddf2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861793,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":119241373
         }
     ],
     "wof:id":119241373,
-    "wof:lastmodified":1496966980,
+    "wof:lastmodified":1513989296,
     "wof:name":"Bluebell Minicab Hire",
     "wof:parent_id":85861793,
     "wof:placetype":"venue",

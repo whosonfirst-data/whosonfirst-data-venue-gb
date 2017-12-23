@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792255,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"04ca774dea1400f94562886a8c7415a3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792255,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":135532329
         }
     ],
     "wof:id":135532329,
-    "wof:lastmodified":1496961726,
+    "wof:lastmodified":1513989019,
     "wof:name":"Derrick Stone Associates",
     "wof:parent_id":85792255,
     "wof:placetype":"venue",

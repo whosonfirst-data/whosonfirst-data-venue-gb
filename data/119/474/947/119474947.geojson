@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158865877,
+        102191581,
         85633159,
-        85785773,
-        85684337
+        404227469,
+        101750367,
+        1158857295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,20 @@
     "wof:geomhash":"3a5d4692a6b1d57ad0aa048aa5cf0f04",
     "wof:hierarchy":[
         {
+            "borough_id":1158857295,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85785773,
-            "region_id":85684337,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158865877,
+            "region_id":-1,
             "venue_id":119474947
         }
     ],
     "wof:id":119474947,
-    "wof:lastmodified":1496967889,
+    "wof:lastmodified":1513974506,
     "wof:name":"London Borough of Greenwich",
-    "wof:parent_id":85785773,
+    "wof:parent_id":1158865877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

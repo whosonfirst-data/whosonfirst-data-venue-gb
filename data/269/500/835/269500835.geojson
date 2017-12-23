@@ -33,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860005,
+        85860001,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684235,
-        85860001
+        1158857297,
+        85860005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +49,30 @@
     "wof:geomhash":"88b4b13dc670695261abe8c46039672e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860005,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860001,
+            "region_id":-1,
             "venue_id":269500835
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860001,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860005,
+            "region_id":-1,
             "venue_id":269500835
         }
     ],
     "wof:id":269500835,
-    "wof:lastmodified":1496964705,
+    "wof:lastmodified":1513981260,
     "wof:name":"Gibson Partners Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

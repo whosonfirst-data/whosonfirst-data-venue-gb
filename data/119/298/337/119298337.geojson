@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85793303,
+        102191581,
         85633159,
-        85865125,
-        85684597
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +46,20 @@
     "wof:geomhash":"5dfb5a693f525cac4731994ea2a34f0e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85865125,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85793303,
+            "region_id":-1,
             "venue_id":119298337
         }
     ],
     "wof:id":119298337,
-    "wof:lastmodified":1496967988,
+    "wof:lastmodified":1513987210,
     "wof:name":"Tom Kay Associates",
-    "wof:parent_id":85865125,
+    "wof:parent_id":85793303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

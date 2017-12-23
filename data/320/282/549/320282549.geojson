@@ -35,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860337,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684613,
+        1158857285,
         85792231
     ],
     "wof:breaches":[],
@@ -48,26 +50,30 @@
     "wof:geomhash":"8674e9efa649df22f473c6926701e07b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860337,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":320282549
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792231,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":320282549
         }
     ],
     "wof:id":320282549,
-    "wof:lastmodified":1496962562,
+    "wof:lastmodified":1513977205,
     "wof:name":"Steve Lambrou",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

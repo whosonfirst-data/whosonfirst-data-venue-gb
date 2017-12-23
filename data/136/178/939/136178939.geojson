@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790047,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"29206c76fa60fa059c1c396fe6b1d959",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790047,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":136178939
         }
     ],
     "wof:id":136178939,
-    "wof:lastmodified":1496963731,
+    "wof:lastmodified":1513988318,
     "wof:name":"Anokhi",
     "wof:parent_id":85790047,
     "wof:placetype":"venue",

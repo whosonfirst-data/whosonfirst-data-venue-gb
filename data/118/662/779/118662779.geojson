@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861715,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"2b6b175ea26e2a43d7826c4e09986ada",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861715,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":118662779
         }
     ],
     "wof:id":118662779,
-    "wof:lastmodified":1496965925,
+    "wof:lastmodified":1513984971,
     "wof:name":"Afghan Embassy",
     "wof:parent_id":85861715,
     "wof:placetype":"venue",

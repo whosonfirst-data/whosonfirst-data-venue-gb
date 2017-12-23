@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786345,
-        85684337
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"985c35df4472c0b2fa37c5f5131d3504",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786345,
-            "region_id":85684337,
+            "region_id":-1,
             "venue_id":118756547
         }
     ],
     "wof:id":118756547,
-    "wof:lastmodified":1496965998,
+    "wof:lastmodified":1513977431,
     "wof:name":"Southside Cleaning Services",
     "wof:parent_id":85786345,
     "wof:placetype":"venue",

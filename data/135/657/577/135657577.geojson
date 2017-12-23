@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860165,
-        85684467
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"4161f09846ab9af7b4d1e5746850bbec",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860165,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":135657577
         }
     ],
     "wof:id":135657577,
-    "wof:lastmodified":1496961456,
+    "wof:lastmodified":1513989138,
     "wof:name":"Trafalgar Square 2000",
     "wof:parent_id":85860165,
     "wof:placetype":"venue",

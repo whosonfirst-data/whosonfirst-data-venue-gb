@@ -34,14 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861811,
-        "102191581",
-        404435563,
-        "85633159",
+        85791477,
+        102191581,
+        1158884889,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85860547
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,30 +50,21 @@
     "wof:geomhash":"a13297b79b2343cfae069204731a4f56",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857247,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158884889,
             "macroregion_id":404227469,
-            "neighbourhood_id":85861811,
-            "region_id":85684061,
-            "venue_id":119218073
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85860547,
-            "region_id":85684061,
+            "neighbourhood_id":85791477,
+            "region_id":-1,
             "venue_id":119218073
         }
     ],
     "wof:id":119218073,
-    "wof:lastmodified":1496966892,
+    "wof:lastmodified":1513999830,
     "wof:name":"The Great Star",
-    "wof:parent_id":-3,
+    "wof:parent_id":85791477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -34,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786805,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +49,19 @@
     "wof:geomhash":"8b72bc99377a51bf817614a3732e3154",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786805,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":303704625
         }
     ],
     "wof:id":303704625,
-    "wof:lastmodified":1496938372,
+    "wof:lastmodified":1513997839,
     "wof:name":"Magic T-Shirts",
     "wof:parent_id":85786805,
     "wof:placetype":"venue",

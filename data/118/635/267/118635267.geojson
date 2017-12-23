@@ -31,13 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158859091,
         85861621,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,20 +47,21 @@
     "wof:geomhash":"1db5ea42e4c5fe2f92a7582c006c2dcf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857245,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
+            "microhood_id":1158859091,
             "neighbourhood_id":85861621,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":118635267
         }
     ],
     "wof:id":118635267,
-    "wof:lastmodified":1496965725,
+    "wof:lastmodified":1513978151,
     "wof:name":"Ghanem Ltd",
-    "wof:parent_id":85861621,
+    "wof:parent_id":1158859091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

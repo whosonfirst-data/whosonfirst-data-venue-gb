@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789715,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"533c16e92812f2f39e09b9a6428519f9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789715,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":118664873
         }
     ],
     "wof:id":118664873,
-    "wof:lastmodified":1496966280,
+    "wof:lastmodified":1513984772,
     "wof:name":"Jedden Ltd",
     "wof:parent_id":85789715,
     "wof:placetype":"venue",

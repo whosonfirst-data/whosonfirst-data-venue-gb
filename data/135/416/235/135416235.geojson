@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861689,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"83f71bc0a4d2b313667c63939c84f9b7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861689,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":135416235
         }
     ],
     "wof:id":135416235,
-    "wof:lastmodified":1496961681,
+    "wof:lastmodified":1514001066,
     "wof:name":"The Highland Gathering",
     "wof:parent_id":85861689,
     "wof:placetype":"venue",

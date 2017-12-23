@@ -36,13 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861673,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85787431
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,30 +51,20 @@
     "wof:geomhash":"10f67b76f2916ff114fa49bd8d62996d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857275,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85861673,
-            "region_id":85684061,
-            "venue_id":924063495
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85787431,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":924063495
         }
     ],
     "wof:id":924063495,
-    "wof:lastmodified":1496959760,
+    "wof:lastmodified":1513989159,
     "wof:name":"Rosebery Mini Cab Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85861673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

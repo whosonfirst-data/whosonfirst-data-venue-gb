@@ -35,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
+        1158859473,
         85792129,
-        85684061,
-        85859987,
-        85683667
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +51,21 @@
     "wof:geomhash":"a6c4d17f55a1e993814aba9f0cf28366",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
+            "microhood_id":1158859473,
             "neighbourhood_id":85792129,
-            "region_id":85684061,
-            "venue_id":119113237
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85859987,
-            "region_id":85683667,
+            "region_id":-1,
             "venue_id":119113237
         }
     ],
     "wof:id":119113237,
-    "wof:lastmodified":1496967496,
+    "wof:lastmodified":1513989953,
     "wof:name":"Pickett",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158859473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

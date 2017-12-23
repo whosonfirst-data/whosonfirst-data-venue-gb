@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861669,
+        85792161,
+        102191581,
+        1158864487,
         85633159,
+        404227469,
         101750367,
-        85683683
+        1158857273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +51,21 @@
     "wof:geomhash":"e189d5c866fafacbc24db5778a95b715",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857273,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861669,
-            "region_id":85683683,
+            "macrohood_id":1158864487,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792161,
+            "region_id":-1,
             "venue_id":219165595
         }
     ],
     "wof:id":219165595,
-    "wof:lastmodified":1496966442,
+    "wof:lastmodified":1513986701,
     "wof:name":"MILLFIELDS COMMUNITY SCHOOL",
-    "wof:parent_id":85861669,
+    "wof:parent_id":85792161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

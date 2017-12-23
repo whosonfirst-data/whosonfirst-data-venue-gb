@@ -31,10 +31,11 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860705,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684151
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +45,20 @@
     "wof:geomhash":"f941b06c5c3dfbcd57e3f92a50f1b6aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860705,
-            "region_id":85684151,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":-1,
             "venue_id":202690551
         }
     ],
     "wof:id":202690551,
-    "wof:lastmodified":1496964955,
+    "wof:lastmodified":1513980839,
     "wof:name":"Religious Society Of Friends Quakers",
-    "wof:parent_id":85860705,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

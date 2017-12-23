@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860347,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"60ce2ac2dffa06e99a642872e5c9936d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860347,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":118776035
         }
     ],
     "wof:id":118776035,
-    "wof:lastmodified":1496965949,
+    "wof:lastmodified":1513991361,
     "wof:name":"Apparel & General Ltd",
     "wof:parent_id":85860347,
     "wof:placetype":"venue",

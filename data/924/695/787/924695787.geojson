@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85790695,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,18 @@
     "wof:geomhash":"f5ed860fc5f25a26f2891bdee3b86698",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790695,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":924695787
         }
     ],
     "wof:id":924695787,
-    "wof:lastmodified":1496959131,
+    "wof:lastmodified":1513980238,
     "wof:name":"United International Trade Ltd.",
     "wof:parent_id":85790695,
     "wof:placetype":"venue",

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85785537,
+        102191581,
         85633159,
-        85792355,
-        85684533
+        404227469,
+        101750367,
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,20 @@
     "wof:geomhash":"51c6b6bc22a4248107827c5dc68487c4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792355,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85785537,
+            "region_id":-1,
             "venue_id":118490857
         }
     ],
     "wof:id":118490857,
-    "wof:lastmodified":1496965878,
+    "wof:lastmodified":1514000662,
     "wof:name":"The Bowling Green Cafe",
-    "wof:parent_id":85792355,
+    "wof:parent_id":85785537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

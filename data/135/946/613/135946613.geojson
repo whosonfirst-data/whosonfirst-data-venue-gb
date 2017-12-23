@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85788157,
-        85684331
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"0788b47958f866efa7149ff0983b865a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788157,
-            "region_id":85684331,
+            "region_id":-1,
             "venue_id":135946613
         }
     ],
     "wof:id":135946613,
-    "wof:lastmodified":1496961655,
+    "wof:lastmodified":1513994741,
     "wof:name":"Withey Building Services Ltd.",
     "wof:parent_id":85788157,
     "wof:placetype":"venue",

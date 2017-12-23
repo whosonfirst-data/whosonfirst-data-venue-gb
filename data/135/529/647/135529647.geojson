@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789437,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"2a51feed81929e5cc246be0b3d47e6b7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789437,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":135529647
         }
     ],
     "wof:id":135529647,
-    "wof:lastmodified":1496960928,
+    "wof:lastmodified":1513976309,
     "wof:name":"Pramtoys",
     "wof:parent_id":85789437,
     "wof:placetype":"venue",

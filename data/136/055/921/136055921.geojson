@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860137,
-        85684411
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"f27437624fd7265a792bc0825f4a4b89",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860137,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":136055921
         }
     ],
     "wof:id":136055921,
-    "wof:lastmodified":1496963893,
+    "wof:lastmodified":1513981586,
     "wof:name":"A ALLIDINA",
     "wof:parent_id":85860137,
     "wof:placetype":"venue",

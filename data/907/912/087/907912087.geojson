@@ -36,13 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792171,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85790327
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,30 +51,20 @@
     "wof:geomhash":"d9e6e7b8679662dec53fed3b9517e987",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857275,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85792171,
-            "region_id":85684061,
-            "venue_id":907912087
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85790327,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907912087
         }
     ],
     "wof:id":907912087,
-    "wof:lastmodified":1496970365,
+    "wof:lastmodified":1513980563,
     "wof:name":"Shepherdess Cafe",
-    "wof:parent_id":-1,
+    "wof:parent_id":85792171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792129,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"4b9505da084259f845a0df9d2c7456dd",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792129,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":119267477
         }
     ],
     "wof:id":119267477,
-    "wof:lastmodified":1496967390,
+    "wof:lastmodified":1514000219,
     "wof:name":"Trams Ltd.",
     "wof:parent_id":85792129,
     "wof:placetype":"venue",

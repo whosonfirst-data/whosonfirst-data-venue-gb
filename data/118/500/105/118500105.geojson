@@ -35,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787143,
-        85683667,
-        85791457
+        102191581,
+        1158859439,
+        85633159,
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +51,21 @@
     "wof:geomhash":"d47b2883fdbffd2b1b7baf7c06c93fba",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859439,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787143,
-            "region_id":85683667,
-            "venue_id":118500105
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85791457,
-            "region_id":85683667,
+            "region_id":-1,
             "venue_id":118500105
         }
     ],
     "wof:id":118500105,
-    "wof:lastmodified":1496966107,
+    "wof:lastmodified":1514000139,
     "wof:name":"The Tournament",
-    "wof:parent_id":-1,
+    "wof:parent_id":85787143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

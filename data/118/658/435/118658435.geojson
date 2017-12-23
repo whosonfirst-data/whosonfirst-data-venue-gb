@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785671,
-        85683763
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857255
     ],
     "wof:brand_id":420574607,
     "wof:breaches":[],
@@ -50,15 +52,18 @@
     "wof:geomhash":"0eed4f061683257a84c533f716bfc9b0",
     "wof:hierarchy":[
         {
+            "borough_id":1158857255,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785671,
-            "region_id":85683763,
+            "region_id":-1,
             "venue_id":118658435
         }
     ],
     "wof:id":118658435,
-    "wof:lastmodified":1496965710,
+    "wof:lastmodified":1513986326,
     "wof:name":"Age Concern",
     "wof:parent_id":85785671,
     "wof:placetype":"venue",

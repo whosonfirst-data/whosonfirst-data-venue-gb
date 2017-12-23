@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861715,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"9fdaaa1f2ccc90aa4d330fc3b2ac8db3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861715,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":135530645
         }
     ],
     "wof:id":135530645,
-    "wof:lastmodified":1496962077,
+    "wof:lastmodified":1513975334,
     "wof:name":"Denyer Depot",
     "wof:parent_id":85861715,
     "wof:placetype":"venue",

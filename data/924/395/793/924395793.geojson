@@ -36,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860023,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,18 @@
     "wof:geomhash":"0a89089fb31e458d7a770f3471ad1ccf",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860023,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":924395793
         }
     ],
     "wof:id":924395793,
-    "wof:lastmodified":1496958066,
+    "wof:lastmodified":1513979994,
     "wof:name":"Children's Transplant Foundation Ltd.",
     "wof:parent_id":85860023,
     "wof:placetype":"venue",

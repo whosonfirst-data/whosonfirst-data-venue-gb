@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860877,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:brand_id":420575249,
     "wof:breaches":[],
@@ -51,15 +53,18 @@
     "wof:geomhash":"abcdf882e97d665322d0e40689afb038",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860877,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":119367491
         }
     ],
     "wof:id":119367491,
-    "wof:lastmodified":1496967567,
+    "wof:lastmodified":1513981386,
     "wof:name":"British Red Cross Society",
     "wof:parent_id":85860877,
     "wof:placetype":"venue",

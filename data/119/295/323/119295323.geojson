@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787877,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"16f9506b1b41c22c92892880204ebb12",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787877,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":119295323
         }
     ],
     "wof:id":119295323,
-    "wof:lastmodified":1496967688,
+    "wof:lastmodified":1513991786,
     "wof:name":"Diplomatic Chauffeur Services",
     "wof:parent_id":85787877,
     "wof:placetype":"venue",

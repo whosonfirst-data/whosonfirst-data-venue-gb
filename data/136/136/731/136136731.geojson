@@ -31,10 +31,12 @@
     "sg:province":"Kent",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860015,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"89becdcfda34f2cb74e669e7b813113b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860015,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":136136731
         }
     ],
     "wof:id":136136731,
-    "wof:lastmodified":1496963792,
+    "wof:lastmodified":1514000049,
     "wof:name":"Inches Away",
     "wof:parent_id":85860015,
     "wof:placetype":"venue",

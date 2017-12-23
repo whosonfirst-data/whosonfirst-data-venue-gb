@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85786345,
+        102191581,
         85633159,
-        85792375,
-        85684337
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +45,20 @@
     "wof:geomhash":"b616b4471c3e8ddc8838740fe0c9787e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792375,
-            "region_id":85684337,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786345,
+            "region_id":-1,
             "venue_id":135882105
         }
     ],
     "wof:id":135882105,
-    "wof:lastmodified":1496961398,
+    "wof:lastmodified":1513989847,
     "wof:name":"Casa Cominetti",
-    "wof:parent_id":85792375,
+    "wof:parent_id":85786345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

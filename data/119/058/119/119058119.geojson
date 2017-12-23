@@ -40,9 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786015,
-        85684217
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,18 @@
     "wof:geomhash":"90e6fd652c0a14a3eaf97da40acccc95",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786015,
-            "region_id":85684217,
+            "region_id":-1,
             "venue_id":119058119
         }
     ],
     "wof:id":119058119,
-    "wof:lastmodified":1496967778,
+    "wof:lastmodified":1513991192,
     "wof:name":"The Brothers Fish Bar",
     "wof:parent_id":85786015,
     "wof:placetype":"venue",

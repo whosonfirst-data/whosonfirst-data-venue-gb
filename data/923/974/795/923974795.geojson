@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787957,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:brand_id":1125154189,
     "wof:breaches":[],
@@ -49,14 +52,18 @@
     "wof:geomhash":"24a2b24bef20153450fafe87bd8c574b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787957,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":923974795
         }
     ],
     "wof:id":923974795,
-    "wof:lastmodified":1510875363,
+    "wof:lastmodified":1513978868,
     "wof:name":"Co-op Pharmacy",
     "wof:parent_id":85787957,
     "wof:placetype":"venue",

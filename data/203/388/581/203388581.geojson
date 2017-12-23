@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861625,
+        85897741,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684081
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +45,20 @@
     "wof:geomhash":"6ca7c62f1dcd520cb85de6fda0537380",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861625,
-            "region_id":85684081,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85897741,
+            "region_id":-1,
             "venue_id":203388581
         }
     ],
     "wof:id":203388581,
-    "wof:lastmodified":1496960526,
+    "wof:lastmodified":1513995398,
     "wof:name":"Giles Adams",
-    "wof:parent_id":85861625,
+    "wof:parent_id":85897741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

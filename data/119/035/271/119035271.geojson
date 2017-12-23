@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788545,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"4829e76bb1ef8f19f2b64497e5c1bcbf",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788545,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":119035271
         }
     ],
     "wof:id":119035271,
-    "wof:lastmodified":1496967352,
+    "wof:lastmodified":1513991102,
     "wof:name":"W S M Building Services Ltd.",
     "wof:parent_id":85788545,
     "wof:placetype":"venue",

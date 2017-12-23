@@ -41,10 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785187,
-        85683763
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,18 @@
     "wof:geomhash":"771faadd3964058624c87ee415f594a9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857255,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785187,
-            "region_id":85683763,
+            "region_id":-1,
             "venue_id":135365307
         }
     ],
     "wof:id":135365307,
-    "wof:lastmodified":1496961571,
+    "wof:lastmodified":1513988163,
     "wof:name":"Parkway Primary School",
     "wof:parent_id":85785187,
     "wof:placetype":"venue",

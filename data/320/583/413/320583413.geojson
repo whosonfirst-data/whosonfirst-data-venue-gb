@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861771,
+        85792155,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684597
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +45,20 @@
     "wof:geomhash":"31a9461a23fead0fceb819c65a1c8108",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861771,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792155,
+            "region_id":-1,
             "venue_id":320583413
         }
     ],
     "wof:id":320583413,
-    "wof:lastmodified":1496962478,
+    "wof:lastmodified":1514002652,
     "wof:name":"Walmer Property Company Ltd",
-    "wof:parent_id":85861771,
+    "wof:parent_id":85792155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

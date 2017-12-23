@@ -37,9 +37,12 @@
     "sg:website":"http://www.rfsk.org.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85860165,
+        102191581,
         85633159,
-        85792381,
-        85684515
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,16 +53,20 @@
     "wof:geomhash":"ef5eda898d777657d4962a990a210125",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
-            "neighbourhood_id":85792381,
-            "region_id":85684515,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860165,
+            "region_id":-1,
             "venue_id":907239651
         }
     ],
     "wof:id":907239651,
-    "wof:lastmodified":1496970223,
+    "wof:lastmodified":1513989359,
     "wof:name":"Royal Foundation Of St Katharine",
-    "wof:parent_id":85792381,
+    "wof:parent_id":85860165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

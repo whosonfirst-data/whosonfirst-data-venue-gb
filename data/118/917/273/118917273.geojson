@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158893995,
+        85790809,
+        102191581,
         85633159,
-        85789437,
-        85684009
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,21 @@
     "wof:geomhash":"7d1e8c4f37f943bc2c68cc003a8fa839",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789437,
-            "region_id":85684009,
+            "macroregion_id":404227469,
+            "microhood_id":1158893995,
+            "neighbourhood_id":85790809,
+            "region_id":-1,
             "venue_id":118917273
         }
     ],
     "wof:id":118917273,
-    "wof:lastmodified":1496965524,
+    "wof:lastmodified":1514002751,
     "wof:name":"St.Bartholomews R C Church",
-    "wof:parent_id":85789437,
+    "wof:parent_id":1158893995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

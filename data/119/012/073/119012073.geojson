@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789857,
-        85683707
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"674b24433347578c166e709124fd4fc1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857295,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789857,
-            "region_id":85683707,
+            "region_id":-1,
             "venue_id":119012073
         }
     ],
     "wof:id":119012073,
-    "wof:lastmodified":1496967258,
+    "wof:lastmodified":1513984247,
     "wof:name":"Streamtech Auto Services Ltd.",
     "wof:parent_id":85789857,
     "wof:placetype":"venue",

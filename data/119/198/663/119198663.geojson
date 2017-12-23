@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789115,
-        85684467
+        102191581,
+        1158864717,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,19 @@
     "wof:geomhash":"8fe96508e733584bac264e984c23eaea",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158864717,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789115,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":119198663
         }
     ],
     "wof:id":119198663,
-    "wof:lastmodified":1496967870,
+    "wof:lastmodified":1513999609,
     "wof:name":"Arnhem Wharf School",
     "wof:parent_id":85789115,
     "wof:placetype":"venue",

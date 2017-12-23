@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158864407,
+        1158864405,
+        102191581,
         85633159,
-        85861613,
-        85684071
+        404227469,
+        101750367,
+        1158857275
     ],
     "wof:brand_id":1125161129,
     "wof:breaches":[],
@@ -45,17 +48,21 @@
     "wof:geomhash":"130ff624b5a72e1348e77ff897163551",
     "wof:hierarchy":[
         {
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861613,
-            "region_id":85684071,
+            "macroregion_id":404227469,
+            "microhood_id":1158864407,
+            "neighbourhood_id":1158864405,
+            "region_id":-1,
             "venue_id":118801419
         }
     ],
     "wof:id":118801419,
-    "wof:lastmodified":1511316720,
+    "wof:lastmodified":1513981673,
     "wof:name":"Halifax plc",
-    "wof:parent_id":85861613,
+    "wof:parent_id":1158864407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

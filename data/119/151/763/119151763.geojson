@@ -36,10 +36,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85861793,
+        102191581,
         85633159,
-        85792145,
-        85684533
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +52,20 @@
     "wof:geomhash":"e7cc2a5c755e4395374f42de367ac2fc",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792145,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861793,
+            "region_id":-1,
             "venue_id":119151763
         }
     ],
     "wof:id":119151763,
-    "wof:lastmodified":1510942417,
+    "wof:lastmodified":1513986549,
     "wof:name":"Michael'S Shoe Repairs",
-    "wof:parent_id":85792145,
+    "wof:parent_id":85861793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

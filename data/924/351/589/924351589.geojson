@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85790695,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"1100fd5f3ea59ad5e56d05f7e91ead81",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790695,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":924351589
         }
     ],
     "wof:id":924351589,
-    "wof:lastmodified":1496955622,
+    "wof:lastmodified":1513994064,
     "wof:name":"Ricky Shoes",
     "wof:parent_id":85790695,
     "wof:placetype":"venue",

@@ -37,9 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785225,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,18 @@
     "wof:geomhash":"afaa0e81a1f97a0532e446580b92fbc3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785225,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":119055077
         }
     ],
     "wof:id":119055077,
-    "wof:lastmodified":1496967753,
+    "wof:lastmodified":1513991330,
     "wof:name":"The Malden Group Plc",
     "wof:parent_id":85785225,
     "wof:placetype":"venue",

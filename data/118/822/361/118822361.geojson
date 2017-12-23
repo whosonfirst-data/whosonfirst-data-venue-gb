@@ -40,10 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860365,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,18 @@
     "wof:geomhash":"e15c53bfde2cb2531ea5ab4c04687594",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860365,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":118822361
         }
     ],
     "wof:id":118822361,
-    "wof:lastmodified":1496965415,
+    "wof:lastmodified":1513981789,
     "wof:name":"Hing Wah Fish Bar",
     "wof:parent_id":85860365,
     "wof:placetype":"venue",

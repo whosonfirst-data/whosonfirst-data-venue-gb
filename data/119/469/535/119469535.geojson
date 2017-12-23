@@ -34,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85861793,
+        102191581,
         85633159,
-        85792145,
-        85684533,
-        85866379
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +49,20 @@
     "wof:geomhash":"ef5914a3acc4d83fd68aba34ae9cee3a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792145,
-            "region_id":85684533,
-            "venue_id":119469535
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85866379,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861793,
+            "region_id":-1,
             "venue_id":119469535
         }
     ],
     "wof:id":119469535,
-    "wof:lastmodified":1496968115,
+    "wof:lastmodified":1513984197,
     "wof:name":"T Charnock",
-    "wof:parent_id":-1,
+    "wof:parent_id":85861793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

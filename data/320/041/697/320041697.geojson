@@ -34,12 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860527,
+        85787005,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684289,
-        85789319,
-        85684337
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +49,20 @@
     "wof:geomhash":"2a9076bc5e5edd3923936638e7a271cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860527,
-            "region_id":85684289,
-            "venue_id":320041697
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85789319,
-            "region_id":85684337,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787005,
+            "region_id":-1,
             "venue_id":320041697
         }
     ],
     "wof:id":320041697,
-    "wof:lastmodified":1496963046,
+    "wof:lastmodified":1513989459,
     "wof:name":"Lewisham Voluntary Sector Training Network",
-    "wof:parent_id":-1,
+    "wof:parent_id":85787005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786729,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"cf0b8ab270798c71750af27155a23227",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786729,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":923847749
         }
     ],
     "wof:id":923847749,
-    "wof:lastmodified":1496969736,
+    "wof:lastmodified":1514000523,
     "wof:name":"Simons & Green (Retail) Ltd.",
     "wof:parent_id":85786729,
     "wof:placetype":"venue",

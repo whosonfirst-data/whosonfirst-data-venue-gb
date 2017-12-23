@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861721,
+        85788249,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684081
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"52728a1b0da5fb9f701d98698c0ede6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861721,
-            "region_id":85684081,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788249,
+            "region_id":-1,
             "venue_id":286825957
         }
     ],
     "wof:id":286825957,
-    "wof:lastmodified":1496940736,
+    "wof:lastmodified":1513997003,
     "wof:name":"Association of Official Shorthandwriters",
-    "wof:parent_id":85861721,
+    "wof:parent_id":85788249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

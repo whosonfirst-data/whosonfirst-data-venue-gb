@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85789319,
+        102191581,
         85633159,
-        85860581,
-        85684337
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +45,20 @@
     "wof:geomhash":"0401d1b307e681c2b9be2167ef64df2c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860581,
-            "region_id":85684337,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789319,
+            "region_id":-1,
             "venue_id":119036143
         }
     ],
     "wof:id":119036143,
-    "wof:lastmodified":1496967905,
+    "wof:lastmodified":1513981123,
     "wof:name":"Homelink International Remittances Ltd",
-    "wof:parent_id":85860581,
+    "wof:parent_id":85789319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

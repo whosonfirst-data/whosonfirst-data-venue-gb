@@ -35,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860223,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684613,
+        1158857285,
         85787149
     ],
     "wof:breaches":[],
@@ -48,26 +50,30 @@
     "wof:geomhash":"51aae0441cbe099d3dc8a0e895ecf9d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860223,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":303558113
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787149,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":303558113
         }
     ],
     "wof:id":303558113,
-    "wof:lastmodified":1496937413,
+    "wof:lastmodified":1513997696,
     "wof:name":"Raymond D Walsh",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -35,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
-        85787277,
-        85684235,
         85860557,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301,
+        85787277,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +52,30 @@
     "wof:geomhash":"0eb26a1d8bf5edd7e2e719828fcedb45",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85787277,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860557,
+            "region_id":-1,
             "venue_id":119421997
         },
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860557,
-            "region_id":85684009,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787277,
+            "region_id":-1,
             "venue_id":119421997
         }
     ],
     "wof:id":119421997,
-    "wof:lastmodified":1496967618,
+    "wof:lastmodified":1513982036,
     "wof:name":"Cracking Good Design Co.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

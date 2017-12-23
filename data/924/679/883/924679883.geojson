@@ -31,14 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158859473,
         85792129,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85859987
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,30 +48,21 @@
     "wof:geomhash":"3253f4e5553d366a07997f23d1f0658b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857245,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
+            "microhood_id":1158859473,
             "neighbourhood_id":85792129,
-            "region_id":85684061,
-            "venue_id":924679883
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85859987,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":924679883
         }
     ],
     "wof:id":924679883,
-    "wof:lastmodified":1496948975,
+    "wof:lastmodified":1513978409,
     "wof:name":"12 Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158859473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

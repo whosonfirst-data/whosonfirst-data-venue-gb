@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790327,
-        85683683
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"75a6e15677b2eb816e943f014223c8f3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857273,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790327,
-            "region_id":85683683,
+            "region_id":-1,
             "venue_id":119103095
         }
     ],
     "wof:id":119103095,
-    "wof:lastmodified":1496967463,
+    "wof:lastmodified":1513985204,
     "wof:name":"Blinds.co.uk",
     "wof:parent_id":85790327,
     "wof:placetype":"venue",

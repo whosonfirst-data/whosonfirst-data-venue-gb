@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860831,
+        85786921,
+        102191581,
+        1158864717,
         85633159,
+        404227469,
         101750367,
-        85684467
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     "wof:geomhash":"f4b50b4a202dca7e71baa6de1778ecbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860831,
-            "region_id":85684467,
+            "macrohood_id":1158864717,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786921,
+            "region_id":-1,
             "venue_id":253589295
         }
     ],
     "wof:id":253589295,
-    "wof:lastmodified":1496963507,
+    "wof:lastmodified":1513995944,
     "wof:name":"Security Media Ltd.",
-    "wof:parent_id":85860831,
+    "wof:parent_id":85786921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

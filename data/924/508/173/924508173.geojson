@@ -34,14 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860329,
-        "102191581",
-        404435563,
-        "85633159",
+        85860305,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85860305
+        1158857309,
+        85860329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,30 +51,30 @@
     "wof:geomhash":"b54306e5d28a68aac982a24f62a2b947",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85860329,
-            "region_id":85684061,
-            "venue_id":924508173
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857309,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85860305,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":924508173
+        },
+        {
+            "borough_id":1158857309,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860329,
+            "region_id":-1,
             "venue_id":924508173
         }
     ],
     "wof:id":924508173,
-    "wof:lastmodified":1496951291,
+    "wof:lastmodified":1513983462,
     "wof:name":"David Lightfoot & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

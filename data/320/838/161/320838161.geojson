@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860851,
+        85788911,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684071
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"f2c084da701e5232e0004773cf7ec5d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860851,
-            "region_id":85684071,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788911,
+            "region_id":-1,
             "venue_id":320838161
         }
     ],
     "wof:id":320838161,
-    "wof:lastmodified":1496962924,
+    "wof:lastmodified":1514001558,
     "wof:name":"Barbara Weiss Architects Ltd",
-    "wof:parent_id":85860851,
+    "wof:parent_id":85788911,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

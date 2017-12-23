@@ -31,9 +31,12 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860041,
-        85684417
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,18 @@
     "wof:geomhash":"190b307c4cbb498087178037e665b172",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860041,
-            "region_id":85684417,
+            "region_id":-1,
             "venue_id":924359837
         }
     ],
     "wof:id":924359837,
-    "wof:lastmodified":1496949330,
+    "wof:lastmodified":1513975054,
     "wof:name":"A G Murray",
     "wof:parent_id":85860041,
     "wof:placetype":"venue",

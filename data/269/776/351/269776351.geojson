@@ -31,10 +31,11 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865123,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684003
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +45,20 @@
     "wof:geomhash":"017f80f52f7579a8d6acc30f2ad0b932",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85865123,
-            "region_id":85684003,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":-1,
             "venue_id":269776351
         }
     ],
     "wof:id":269776351,
-    "wof:lastmodified":1496964645,
+    "wof:lastmodified":1513985096,
     "wof:name":"Salstream",
-    "wof:parent_id":85865123,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

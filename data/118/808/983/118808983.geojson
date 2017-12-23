@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789129,
-        85684099
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"5f67b54ef8629cf35827233b4deed0e2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857305,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789129,
-            "region_id":85684099,
+            "region_id":-1,
             "venue_id":118808983
         }
     ],
     "wof:id":118808983,
-    "wof:lastmodified":1496965456,
+    "wof:lastmodified":1513998879,
     "wof:name":"Flanders,Ian,",
     "wof:parent_id":85789129,
     "wof:placetype":"venue",

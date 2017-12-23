@@ -43,10 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861607,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,18 @@
     "wof:geomhash":"d255c5738c159816244e3d008ec3b1c1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861607,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":119227299
         }
     ],
     "wof:id":119227299,
-    "wof:lastmodified":1496966729,
+    "wof:lastmodified":1513981618,
     "wof:name":"Telescope Technology Ltd.",
     "wof:parent_id":85861607,
     "wof:placetype":"venue",

@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789965,
-        85683671
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"ed4e6d7cb5607f8568fb40f5305884a7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789965,
-            "region_id":85683671,
+            "region_id":-1,
             "venue_id":135604537
         }
     ],
     "wof:id":135604537,
-    "wof:lastmodified":1496961152,
+    "wof:lastmodified":1513995184,
     "wof:name":"Patricia Abbey",
     "wof:parent_id":85789965,
     "wof:placetype":"venue",

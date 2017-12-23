@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861625,
-        85684081
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"31bfed55ead2eec8718cd32b5910c6e5",
     "wof:hierarchy":[
         {
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861625,
-            "region_id":85684081,
+            "region_id":-1,
             "venue_id":135624649
         }
     ],
     "wof:id":135624649,
-    "wof:lastmodified":1496961197,
+    "wof:lastmodified":1513988899,
     "wof:name":"Richard Ellis",
     "wof:parent_id":85861625,
     "wof:placetype":"venue",

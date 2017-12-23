@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787977,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"cba1ef747874e01a79cb91a42cce9d56",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787977,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":924056993
         }
     ],
     "wof:id":924056993,
-    "wof:lastmodified":1496959005,
+    "wof:lastmodified":1513982343,
     "wof:name":"Hanprint",
     "wof:parent_id":85787977,
     "wof:placetype":"venue",

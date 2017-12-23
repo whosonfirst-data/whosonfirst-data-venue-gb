@@ -31,14 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792217,
-        "102191581",
-        404435563,
-        "85633159",
+        85788129,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85788129
+        1158857285,
+        85792217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,30 +48,30 @@
     "wof:geomhash":"b2ed57aa5ef62c2e5216dcb3a7bef497",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85792217,
-            "region_id":85684061,
-            "venue_id":924098615
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857285,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85788129,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":924098615
+        },
+        {
+            "borough_id":1158857285,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792217,
+            "region_id":-1,
             "venue_id":924098615
         }
     ],
     "wof:id":924098615,
-    "wof:lastmodified":1496959138,
+    "wof:lastmodified":1513982550,
     "wof:name":"Thomas Zacharia",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -32,9 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793295,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684141,
+        1158857259,
         85860877
     ],
     "wof:breaches":[],
@@ -45,26 +47,30 @@
     "wof:geomhash":"796a36feca73a14ff30cb1ce6f87c3ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793295,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":169661229
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860877,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":169661229
         }
     ],
     "wof:id":169661229,
-    "wof:lastmodified":1496959961,
+    "wof:lastmodified":1513994971,
     "wof:name":"Westwood Estate Agents",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

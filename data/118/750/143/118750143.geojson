@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790463,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"9341f9f30c807c5be5ec225b3ec7f237",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790463,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":118750143
         }
     ],
     "wof:id":118750143,
-    "wof:lastmodified":1496965518,
+    "wof:lastmodified":1513989693,
     "wof:name":"The London Chimney Co.",
     "wof:parent_id":85790463,
     "wof:placetype":"venue",

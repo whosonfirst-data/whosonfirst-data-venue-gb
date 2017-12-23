@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785229,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"0d4fd4d396227c4cdc46ca58098b999f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785229,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":135921139
         }
     ],
     "wof:id":135921139,
-    "wof:lastmodified":1496961815,
+    "wof:lastmodified":1513994703,
     "wof:name":"Design Lighting",
     "wof:parent_id":85785229,
     "wof:placetype":"venue",

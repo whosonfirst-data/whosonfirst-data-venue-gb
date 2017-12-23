@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786015,
-        85684217
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"73ffbe06ad7516883c927289855460d6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786015,
-            "region_id":85684217,
+            "region_id":-1,
             "venue_id":924283693
         }
     ],
     "wof:id":924283693,
-    "wof:lastmodified":1496949976,
+    "wof:lastmodified":1513976074,
     "wof:name":"C S Products",
     "wof:parent_id":85786015,
     "wof:placetype":"venue",

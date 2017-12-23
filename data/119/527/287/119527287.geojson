@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785675,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"98f622f49ed7fbbcc1a9c265e4d8568d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785675,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":119527287
         }
     ],
     "wof:id":119527287,
-    "wof:lastmodified":1496967197,
+    "wof:lastmodified":1513983649,
     "wof:name":"Mak Import & Export",
     "wof:parent_id":85785675,
     "wof:placetype":"venue",

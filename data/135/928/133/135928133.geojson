@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792371,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"a7adb54b379c5e273c9e3fd5a6283eda",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792371,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":135928133
         }
     ],
     "wof:id":135928133,
-    "wof:lastmodified":1496961406,
+    "wof:lastmodified":1513989788,
     "wof:name":"Barry Phillips",
     "wof:parent_id":85792371,
     "wof:placetype":"venue",

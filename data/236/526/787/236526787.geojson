@@ -37,9 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860281,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684441,
+        1158857291,
         85792395
     ],
     "wof:breaches":[],
@@ -50,26 +52,30 @@
     "wof:geomhash":"2c6339677f7a6061cec3b515cc17023b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860281,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":236526787
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792395,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":236526787
         }
     ],
     "wof:id":236526787,
-    "wof:lastmodified":1496964315,
+    "wof:lastmodified":1513976887,
     "wof:name":"Risha's News & Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

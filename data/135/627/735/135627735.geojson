@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790725,
-        85684467
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:brand_id":1125151905,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"71d0ed92f0243de5a0160eeb2ac890a1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790725,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":135627735
         }
     ],
     "wof:id":135627735,
-    "wof:lastmodified":1510697306,
+    "wof:lastmodified":1513988048,
     "wof:name":"Police",
     "wof:parent_id":85790725,
     "wof:placetype":"venue",

@@ -30,10 +30,11 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        102191581,
         85633159,
-        85788611,
-        85684387
+        404227469,
+        101750367,
+        1158857309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,20 @@
     "wof:geomhash":"7a04f3c4ee9d942756d9f17ca0b0eeb4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857309,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85788611,
-            "region_id":85684387,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":-1,
             "venue_id":119173025
         }
     ],
     "wof:id":119173025,
-    "wof:lastmodified":1496967629,
+    "wof:lastmodified":1513995489,
     "wof:name":"A Reid Antiques",
-    "wof:parent_id":85788611,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

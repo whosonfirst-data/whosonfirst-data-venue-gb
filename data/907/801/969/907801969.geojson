@@ -31,9 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85792261,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:brand_id":420574165,
     "wof:breaches":[],
@@ -45,14 +48,18 @@
     "wof:geomhash":"17c5b48c82e2307ede5a65d6d471034b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792261,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":907801969
         }
     ],
     "wof:id":907801969,
-    "wof:lastmodified":1511323920,
+    "wof:lastmodified":1514001470,
     "wof:name":"The Salvation Army",
     "wof:parent_id":85792261,
     "wof:placetype":"venue",

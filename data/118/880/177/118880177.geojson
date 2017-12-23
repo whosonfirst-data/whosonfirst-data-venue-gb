@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790435,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"7d887646f24cdb874cb3fe291a50632c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790435,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":118880177
         }
     ],
     "wof:id":118880177,
-    "wof:lastmodified":1496965413,
+    "wof:lastmodified":1513977957,
     "wof:name":"S S Lawson",
     "wof:parent_id":85790435,
     "wof:placetype":"venue",

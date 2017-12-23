@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790821,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"9c4c9aaba99384c849db997656bdf235",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790821,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":135792479
         }
     ],
     "wof:id":135792479,
-    "wof:lastmodified":1496961417,
+    "wof:lastmodified":1514001263,
     "wof:name":"Ashford Associates",
     "wof:parent_id":85790821,
     "wof:placetype":"venue",

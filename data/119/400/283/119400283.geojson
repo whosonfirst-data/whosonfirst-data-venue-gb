@@ -31,10 +31,12 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787633,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"f303e23cd39a40c5b4f9d426e8e12023",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787633,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":119400283
         }
     ],
     "wof:id":119400283,
-    "wof:lastmodified":1496967040,
+    "wof:lastmodified":1513990112,
     "wof:name":"Goodfoot Footwear Ltd.",
     "wof:parent_id":85787633,
     "wof:placetype":"venue",

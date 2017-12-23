@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861763,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"8f8c44e176a0df812a4e38ff83a9aabb",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861763,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":102734141
         }
     ],
     "wof:id":102734141,
-    "wof:lastmodified":1496968974,
+    "wof:lastmodified":1514000580,
     "wof:name":"The Fabric Store",
     "wof:parent_id":85861763,
     "wof:placetype":"venue",

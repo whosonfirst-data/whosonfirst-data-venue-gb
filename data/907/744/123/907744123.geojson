@@ -34,14 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85791023,
-        "102191581",
-        404435563,
-        "85633159",
+        85791241,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85791241
+        1158857301,
+        85791023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,30 +51,30 @@
     "wof:geomhash":"c0d14b87d0de3b4b29bbd34ee67ad09c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85791023,
-            "region_id":85684061,
-            "venue_id":907744123
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857301,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85791241,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":907744123
+        },
+        {
+            "borough_id":1158857301,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791023,
+            "region_id":-1,
             "venue_id":907744123
         }
     ],
     "wof:id":907744123,
-    "wof:lastmodified":1496971954,
+    "wof:lastmodified":1513978616,
     "wof:name":"McMillan Williams",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

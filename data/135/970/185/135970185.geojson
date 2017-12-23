@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787051,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"a49c0ee9f38124f45cc17b67a6d67c80",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787051,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":135970185
         }
     ],
     "wof:id":135970185,
-    "wof:lastmodified":1496960816,
+    "wof:lastmodified":1513994787,
     "wof:name":"Jordan,Nicola,",
     "wof:parent_id":85787051,
     "wof:placetype":"venue",

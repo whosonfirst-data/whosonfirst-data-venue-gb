@@ -33,9 +33,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792069,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684613,
+        1158857285,
         85792227
     ],
     "wof:breaches":[],
@@ -46,26 +48,30 @@
     "wof:geomhash":"d7f8ad4af16ac171c84641d5ac3c90d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792069,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":304028643
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792227,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":304028643
         }
     ],
     "wof:id":304028643,
-    "wof:lastmodified":1496968152,
+    "wof:lastmodified":1513981031,
     "wof:name":"St Philip The Apostle Catholic Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

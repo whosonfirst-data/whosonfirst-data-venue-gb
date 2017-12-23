@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791895,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"c06b72d3a93e6e4ed35a9575891246b1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791895,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":136113265
         }
     ],
     "wof:id":136113265,
-    "wof:lastmodified":1496963839,
+    "wof:lastmodified":1513981920,
     "wof:name":"Ernest Pasterfield & Partners",
     "wof:parent_id":85791895,
     "wof:placetype":"venue",

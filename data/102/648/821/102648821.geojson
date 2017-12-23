@@ -43,10 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860427,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:brand_id":420574909,
     "wof:breaches":[],
@@ -57,15 +59,18 @@
     "wof:geomhash":"59f0e6da89e115a73ad607dd0a50f6d1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860427,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":102648821
         }
     ],
     "wof:id":102648821,
-    "wof:lastmodified":1496968880,
+    "wof:lastmodified":1513999473,
     "wof:name":"Scope",
     "wof:parent_id":85860427,
     "wof:placetype":"venue",

@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85792351,
+        102191581,
+        1158860449,
         85633159,
-        85792341,
-        85684299
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,21 @@
     "wof:geomhash":"669b4967e78f88da4eba3ea2e2bf21d9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792341,
-            "region_id":85684299,
+            "macrohood_id":1158860449,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792351,
+            "region_id":-1,
             "venue_id":136060899
         }
     ],
     "wof:id":136060899,
-    "wof:lastmodified":1496963856,
+    "wof:lastmodified":1513999837,
     "wof:name":"Home From Home Ltd.",
-    "wof:parent_id":85792341,
+    "wof:parent_id":85792351,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85860461,
+        102191581,
         85633159,
-        85860465,
-        85684597
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,20 @@
     "wof:geomhash":"a8bc8668ef4de12e6a3ce3c6e8275153",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860465,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860461,
+            "region_id":-1,
             "venue_id":102591787
         }
     ],
     "wof:id":102591787,
-    "wof:lastmodified":1496968964,
+    "wof:lastmodified":1513996932,
     "wof:name":"M N Clappe",
-    "wof:parent_id":85860465,
+    "wof:parent_id":85860461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

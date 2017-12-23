@@ -39,13 +39,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791457,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        1158859439,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85787143
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,30 +55,21 @@
     "wof:geomhash":"5261177324530ffcfea6fc40c90c19e3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857317,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859439,
             "macroregion_id":404227469,
             "neighbourhood_id":85791457,
-            "region_id":85684061,
-            "venue_id":907610627
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85787143,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907610627
         }
     ],
     "wof:id":907610627,
-    "wof:lastmodified":1496972884,
+    "wof:lastmodified":1513993806,
     "wof:name":"Princess Beatrice House",
-    "wof:parent_id":-1,
+    "wof:parent_id":85791457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

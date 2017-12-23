@@ -34,12 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860631,
+        85790809,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684533,
-        85860651,
-        85683671
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +49,20 @@
     "wof:geomhash":"17a81e7b4cdf13e9ef05e416612784ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860631,
-            "region_id":85684533,
-            "venue_id":303666155
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85860651,
-            "region_id":85683671,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790809,
+            "region_id":-1,
             "venue_id":303666155
         }
     ],
     "wof:id":303666155,
-    "wof:lastmodified":1496939143,
+    "wof:lastmodified":1513999903,
     "wof:name":"Alan Guy Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85790809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

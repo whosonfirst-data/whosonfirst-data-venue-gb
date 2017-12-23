@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788173,
-        85684071
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857275
     ],
     "wof:brand_id":420575623,
     "wof:breaches":[],
@@ -50,15 +52,18 @@
     "wof:geomhash":"0e5da0358376d70d2c02c97b6990ff1e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788173,
-            "region_id":85684071,
+            "region_id":-1,
             "venue_id":135834581
         }
     ],
     "wof:id":135834581,
-    "wof:lastmodified":1496961779,
+    "wof:lastmodified":1514002450,
     "wof:name":"Thresher Wine Shop",
     "wof:parent_id":85788173,
     "wof:placetype":"venue",

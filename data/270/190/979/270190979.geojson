@@ -35,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791023,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684009,
-        85786907
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +49,20 @@
     "wof:geomhash":"30d2667cce898daa4f7618ed2d384038",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791023,
-            "region_id":85684009,
-            "venue_id":270190979
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85786907,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":270190979
         }
     ],
     "wof:id":270190979,
-    "wof:lastmodified":1496965216,
+    "wof:lastmodified":1513984412,
     "wof:name":"Croydon House Clearance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85791023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

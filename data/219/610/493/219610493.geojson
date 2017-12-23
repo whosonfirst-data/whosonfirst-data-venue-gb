@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860581,
+        85789765,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684337
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +45,20 @@
     "wof:geomhash":"6f7b3b00c311e9a13b789f189bacd244",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860581,
-            "region_id":85684337,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789765,
+            "region_id":-1,
             "venue_id":219610493
         }
     ],
     "wof:id":219610493,
-    "wof:lastmodified":1496966587,
+    "wof:lastmodified":1513984219,
     "wof:name":"Yemi Olayemi",
-    "wof:parent_id":85860581,
+    "wof:parent_id":85789765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

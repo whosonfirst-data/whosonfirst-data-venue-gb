@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861781,
-        85684387
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"019ec830d6edffb1e20b09e3eb7bb408",
     "wof:hierarchy":[
         {
+            "borough_id":1158857309,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861781,
-            "region_id":85684387,
+            "region_id":-1,
             "venue_id":119447593
         }
     ],
     "wof:id":119447593,
-    "wof:lastmodified":1496967758,
+    "wof:lastmodified":1513984459,
     "wof:name":"A Ward & Son",
     "wof:parent_id":85861781,
     "wof:placetype":"venue",

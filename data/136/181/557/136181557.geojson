@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788545,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"d4ff7aa21aa0e48610749b83bcb876e4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788545,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":136181557
         }
     ],
     "wof:id":136181557,
-    "wof:lastmodified":1496963884,
+    "wof:lastmodified":1513989771,
     "wof:name":"Jedwab & Jedwab",
     "wof:parent_id":85788545,
     "wof:placetype":"venue",

@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85859965,
-        85684289
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"3da77d851faa72c39790efce9d9e5d24",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85859965,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":119391113
         }
     ],
     "wof:id":119391113,
-    "wof:lastmodified":1496967748,
+    "wof:lastmodified":1514001393,
     "wof:name":"Harris,F C,(Electrical) Ltd",
     "wof:parent_id":85859965,
     "wof:placetype":"venue",

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85791623,
+        102191581,
         85633159,
-        85790545,
-        85684467
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,20 @@
     "wof:geomhash":"e7878375938cd021b2cd367c9c06ce4a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85790545,
-            "region_id":85684467,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791623,
+            "region_id":-1,
             "venue_id":119365291
         }
     ],
     "wof:id":119365291,
-    "wof:lastmodified":1496967407,
+    "wof:lastmodified":1513980126,
     "wof:name":"Citizens Advice Bureaux",
-    "wof:parent_id":85790545,
+    "wof:parent_id":85791623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

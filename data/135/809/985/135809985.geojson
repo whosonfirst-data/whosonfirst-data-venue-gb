@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786517,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"147991abdc42c6f77d116681e0deebd9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786517,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":135809985
         }
     ],
     "wof:id":135809985,
-    "wof:lastmodified":1496961734,
+    "wof:lastmodified":1513984131,
     "wof:name":"Combat Alarms",
     "wof:parent_id":85786517,
     "wof:placetype":"venue",

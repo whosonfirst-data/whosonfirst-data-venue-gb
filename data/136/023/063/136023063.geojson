@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788303,
-        85684387
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"ad46e79d7f5f6e408026e122b80a0147",
     "wof:hierarchy":[
         {
+            "borough_id":1158857309,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788303,
-            "region_id":85684387,
+            "region_id":-1,
             "venue_id":136023063
         }
     ],
     "wof:id":136023063,
-    "wof:lastmodified":1496963792,
+    "wof:lastmodified":1514000559,
     "wof:name":"Mayspark Ltd.",
     "wof:parent_id":85788303,
     "wof:placetype":"venue",

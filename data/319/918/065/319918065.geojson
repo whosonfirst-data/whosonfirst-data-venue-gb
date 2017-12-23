@@ -31,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792215,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684003,
+        1158857267,
         85789259
     ],
     "wof:breaches":[],
@@ -44,26 +46,30 @@
     "wof:geomhash":"48a303ff459b72e785db043fa3026707",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792215,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":319918065
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789259,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":319918065
         }
     ],
     "wof:id":319918065,
-    "wof:lastmodified":1496960165,
+    "wof:lastmodified":1513985088,
     "wof:name":"Haymas Food & Wine",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790647,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,18 @@
     "wof:geomhash":"7374ae29d8e8caaace5330be4eaca392",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790647,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":135522745
         }
     ],
     "wof:id":135522745,
-    "wof:lastmodified":1496961675,
+    "wof:lastmodified":1513989465,
     "wof:name":"Evans,R P,",
     "wof:parent_id":85790647,
     "wof:placetype":"venue",

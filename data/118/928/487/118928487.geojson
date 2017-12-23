@@ -40,10 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85869851,
-        85684289
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,18 @@
     "wof:geomhash":"b07e10a6b0a0f6b65bc32a68bdec3da0",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869851,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":118928487
         }
     ],
     "wof:id":118928487,
-    "wof:lastmodified":1496965738,
+    "wof:lastmodified":1514002554,
     "wof:name":"New Crown Financial Services Ltd.",
     "wof:parent_id":85869851,
     "wof:placetype":"venue",

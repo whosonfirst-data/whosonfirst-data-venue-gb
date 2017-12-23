@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785675,
-        85684235,
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297,
         85786059
     ],
     "wof:breaches":[],
@@ -50,23 +52,30 @@
     "wof:geomhash":"9032aa2cb3afdeb3bdba57ab6e976efd",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785675,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":102636185
         },
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786059,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":102636185
         }
     ],
     "wof:id":102636185,
-    "wof:lastmodified":1496969024,
+    "wof:lastmodified":1513979296,
     "wof:name":"The Bromley Cattery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85859969,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:brand_id":1125149659,
     "wof:breaches":[],
@@ -44,15 +46,18 @@
     "wof:geomhash":"8935be944115ebd5cc1c5be0928763e9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85859969,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":135331919
         }
     ],
     "wof:id":135331919,
-    "wof:lastmodified":1511319644,
+    "wof:lastmodified":1513977578,
     "wof:name":"Something Special",
     "wof:parent_id":85859969,
     "wof:placetype":"venue",

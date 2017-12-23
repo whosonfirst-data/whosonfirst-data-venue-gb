@@ -33,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158860467,
+        102191581,
+        1158860451,
         85633159,
-        85792183,
-        85684141
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,21 @@
     "wof:geomhash":"32c179e6f675786bb8179b1b21066382",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792183,
-            "region_id":85684141,
+            "macrohood_id":1158860451,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158860467,
+            "region_id":-1,
             "venue_id":136127083
         }
     ],
     "wof:id":136127083,
-    "wof:lastmodified":1496963896,
+    "wof:lastmodified":1514000710,
     "wof:name":"Lovat Delicatessen",
-    "wof:parent_id":85792183,
+    "wof:parent_id":1158860467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860871,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"cb107b2d1dd9caa6a769b998d337a4ce",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860871,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":102647159
         }
     ],
     "wof:id":102647159,
-    "wof:lastmodified":1496968896,
+    "wof:lastmodified":1513999189,
     "wof:name":"Hounslow Pentecostal Church",
     "wof:parent_id":85860871,
     "wof:placetype":"venue",

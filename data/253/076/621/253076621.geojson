@@ -34,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85788355,
+        85860389,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684071,
-        85860389
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +49,20 @@
     "wof:geomhash":"098703429c7dbef011d8c1e6e6f6e293",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85788355,
-            "region_id":85684071,
-            "venue_id":253076621
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860389,
-            "region_id":85684071,
+            "region_id":-1,
             "venue_id":253076621
         }
     ],
     "wof:id":253076621,
-    "wof:lastmodified":1496963458,
+    "wof:lastmodified":1513981145,
     "wof:name":"Karmag Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85860389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

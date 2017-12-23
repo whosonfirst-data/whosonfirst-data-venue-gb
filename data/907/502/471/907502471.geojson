@@ -39,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787977,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,18 @@
     "wof:geomhash":"aa068639b7bfb348f4ed05e54c4abea3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787977,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":907502471
         }
     ],
     "wof:id":907502471,
-    "wof:lastmodified":1496970082,
+    "wof:lastmodified":1513993715,
     "wof:name":"ADAMS OPHTHALMIC OPTICIANS",
     "wof:parent_id":85787977,
     "wof:placetype":"venue",

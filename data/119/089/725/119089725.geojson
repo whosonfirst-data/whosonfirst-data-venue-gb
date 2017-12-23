@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860743,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"ee57f8005a143c150213e74650a8d689",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860743,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":119089725
         }
     ],
     "wof:id":119089725,
-    "wof:lastmodified":1496967265,
+    "wof:lastmodified":1514001718,
     "wof:name":"Telford Mini Market",
     "wof:parent_id":85860743,
     "wof:placetype":"venue",

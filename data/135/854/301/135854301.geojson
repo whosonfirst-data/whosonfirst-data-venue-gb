@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785225,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"4690693d268d71ea8a4261a00549453f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785225,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":135854301
         }
     ],
     "wof:id":135854301,
-    "wof:lastmodified":1496962035,
+    "wof:lastmodified":1513990743,
     "wof:name":"Maurice's Removals of Croydon",
     "wof:parent_id":85785225,
     "wof:placetype":"venue",

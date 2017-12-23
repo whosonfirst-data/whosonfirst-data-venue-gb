@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785335,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"5ed6f7828f38c7bea4b5b5b3a9f33db2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785335,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":907852181
         }
     ],
     "wof:id":907852181,
-    "wof:lastmodified":1496973319,
+    "wof:lastmodified":1513990314,
     "wof:name":"Ecological Water Products Ltd",
     "wof:parent_id":85785335,
     "wof:placetype":"venue",

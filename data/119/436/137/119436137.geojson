@@ -36,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85786921,
+        102191581,
+        1158864717,
         85633159,
-        85860831,
-        85684467
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:brand_id":1125149667,
     "wof:breaches":[],
@@ -50,17 +53,21 @@
     "wof:geomhash":"521100fb6659e30cc99e745faf6770a3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860831,
-            "region_id":85684467,
+            "macrohood_id":1158864717,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786921,
+            "region_id":-1,
             "venue_id":119436137
         }
     ],
     "wof:id":119436137,
-    "wof:lastmodified":1511319677,
+    "wof:lastmodified":1513990141,
     "wof:name":"A T & T",
-    "wof:parent_id":85860831,
+    "wof:parent_id":85786921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

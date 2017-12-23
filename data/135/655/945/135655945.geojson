@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860161,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"bf7e59fb30a00581ed1a9ae796a2b3f1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860161,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":135655945
         }
     ],
     "wof:id":135655945,
-    "wof:lastmodified":1496962427,
+    "wof:lastmodified":1513978067,
     "wof:name":"Shirley Faruki",
     "wof:parent_id":85860161,
     "wof:placetype":"venue",

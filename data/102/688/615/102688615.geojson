@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85869843,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,18 @@
     "wof:geomhash":"da9a4de3cb515b0e0ad5179556df3710",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869843,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":102688615
         }
     ],
     "wof:id":102688615,
-    "wof:lastmodified":1496969006,
+    "wof:lastmodified":1513999807,
     "wof:name":"Cyron Housing Co-Operative Ltd",
     "wof:parent_id":85869843,
     "wof:placetype":"venue",

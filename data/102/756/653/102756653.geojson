@@ -34,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158864397,
+        102191581,
         85633159,
-        85788355,
-        85684071,
-        85860851
+        404227469,
+        101750367,
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +49,20 @@
     "wof:geomhash":"f132ac071e6ad04b1a5141e0063a84d9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85788355,
-            "region_id":85684071,
-            "venue_id":102756653
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85860851,
-            "region_id":85684071,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158864397,
+            "region_id":-1,
             "venue_id":102756653
         }
     ],
     "wof:id":102756653,
-    "wof:lastmodified":1496968959,
+    "wof:lastmodified":1513997507,
     "wof:name":"Minifix",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158864397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

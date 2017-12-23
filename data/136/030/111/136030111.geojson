@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85791511,
+        102191581,
+        1158860449,
         85633159,
-        85792177,
-        85684299
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,21 @@
     "wof:geomhash":"2439ad8badc445686dfbf677217a9202",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792177,
-            "region_id":85684299,
+            "macrohood_id":1158860449,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791511,
+            "region_id":-1,
             "venue_id":136030111
         }
     ],
     "wof:id":136030111,
-    "wof:lastmodified":1496963874,
+    "wof:lastmodified":1513999837,
     "wof:name":"Palliser Court",
-    "wof:parent_id":85792177,
+    "wof:parent_id":85791511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

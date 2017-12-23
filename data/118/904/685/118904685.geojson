@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792129,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"30c47113477f6db0c6b415000e225edd",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792129,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":118904685
         }
     ],
     "wof:id":118904685,
-    "wof:lastmodified":1496965403,
+    "wof:lastmodified":1514000275,
     "wof:name":"Eric Son Beamon",
     "wof:parent_id":85792129,
     "wof:placetype":"venue",

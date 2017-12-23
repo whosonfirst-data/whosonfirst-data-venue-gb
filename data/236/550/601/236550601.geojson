@@ -37,11 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85788157,
+        102191581,
         85633159,
-        85684331,
-        85792241,
+        404227469,
         101750367,
-        85684613
+        1158857285,
+        85792241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,26 +52,30 @@
     "wof:geomhash":"e9d18bc2aad5ae1dafc2c2914ae1e9ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
-            "locality_id":-1,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788157,
-            "region_id":85684331,
+            "region_id":-1,
             "venue_id":236550601
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792241,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":236550601
         }
     ],
     "wof:id":236550601,
-    "wof:lastmodified":1496964165,
+    "wof:lastmodified":1513984857,
     "wof:name":"The Bathroom Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

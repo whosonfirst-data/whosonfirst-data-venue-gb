@@ -42,9 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785689,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +58,18 @@
     "wof:geomhash":"dd093be36cf6c1a874212084b6cf4d53",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785689,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":908056135
         }
     ],
     "wof:id":908056135,
-    "wof:lastmodified":1496942595,
+    "wof:lastmodified":1513984140,
     "wof:name":"Biggin Hill Newsagent",
     "wof:parent_id":85785689,
     "wof:placetype":"venue",

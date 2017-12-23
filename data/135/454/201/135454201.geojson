@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861805,
-        85683649
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"99ce8cab5685ccad0a1e76cb2ea6a938",
     "wof:hierarchy":[
         {
+            "borough_id":1158857303,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861805,
-            "region_id":85683649,
+            "region_id":-1,
             "venue_id":135454201
         }
     ],
     "wof:id":135454201,
-    "wof:lastmodified":1496961902,
+    "wof:lastmodified":1513989637,
     "wof:name":"Smith Charles D & Associates",
     "wof:parent_id":85861805,
     "wof:placetype":"venue",

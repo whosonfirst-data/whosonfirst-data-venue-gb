@@ -35,10 +35,12 @@
     "sg:website":"http://www.rhwhite.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792249,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"d75f3289614604005d4e773f0c620af7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792249,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":119175541
         }
     ],
     "wof:id":119175541,
-    "wof:lastmodified":1501088769,
+    "wof:lastmodified":1513991410,
     "wof:name":"R H White Ltd",
     "wof:parent_id":85792249,
     "wof:placetype":"venue",

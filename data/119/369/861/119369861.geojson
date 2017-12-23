@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789319,
-        85684337
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"1bdcc233cb302a4c1bb1f4c1419e7a83",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789319,
-            "region_id":85684337,
+            "region_id":-1,
             "venue_id":119369861
         }
     ],
     "wof:id":119369861,
-    "wof:lastmodified":1496967978,
+    "wof:lastmodified":1513983976,
     "wof:name":"Gems Cafe",
     "wof:parent_id":85789319,
     "wof:placetype":"venue",

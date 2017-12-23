@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792151,
+        85786023,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684289
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"7b1eea833f2539271ce87af934d38b3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792151,
-            "region_id":85684289,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786023,
+            "region_id":-1,
             "venue_id":253010703
         }
     ],
     "wof:id":253010703,
-    "wof:lastmodified":1496963286,
+    "wof:lastmodified":1513998770,
     "wof:name":"Mount Herman Church Of God",
-    "wof:parent_id":85792151,
+    "wof:parent_id":85786023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

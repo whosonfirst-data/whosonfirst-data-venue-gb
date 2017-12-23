@@ -36,11 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789929,
+        102191581,
         85633159,
-        85684363,
-        85786517,
+        404227469,
         101750367,
-        85684235
+        1158857297,
+        85786517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +51,30 @@
     "wof:geomhash":"4653e0db75ce85165a446547a0f7bbb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
-            "locality_id":-1,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789929,
-            "region_id":85684363,
+            "region_id":-1,
             "venue_id":303387697
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786517,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":303387697
         }
     ],
     "wof:id":303387697,
-    "wof:lastmodified":1496937499,
+    "wof:lastmodified":1513989353,
     "wof:name":"Chelsfield Riding School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

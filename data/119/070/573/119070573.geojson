@@ -33,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85789283,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,18 @@
     "wof:geomhash":"fb9b00a5c1e56e78cf2c751d1c855e9b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789283,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":119070573
         }
     ],
     "wof:id":119070573,
-    "wof:lastmodified":1496967932,
+    "wof:lastmodified":1513981068,
     "wof:name":"Power,John,",
     "wof:parent_id":85789283,
     "wof:placetype":"venue",

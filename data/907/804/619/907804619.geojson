@@ -31,14 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85791427,
-        "102191581",
-        404435563,
-        "85633159",
+        85789933,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85789933
+        1158857267,
+        85791427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,28 +48,28 @@
     "wof:geomhash":"fe95d872d3e4fd80ed2f14ada7e98f9d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85791427,
-            "region_id":85684061,
-            "venue_id":907804619
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857267,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85789933,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":907804619
+        },
+        {
+            "borough_id":1158857267,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791427,
+            "region_id":-1,
             "venue_id":907804619
         }
     ],
     "wof:id":907804619,
-    "wof:lastmodified":1496973414,
+    "wof:lastmodified":1514002364,
     "wof:name":"Indoor Ltd",
     "wof:parent_id":-3,
     "wof:placetype":"venue",

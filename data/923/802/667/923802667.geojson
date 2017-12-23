@@ -30,14 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786601,
-        "102191581",
-        404435563,
-        "85633159",
+        85860303,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85860303
+        1158857287,
+        85786601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +47,28 @@
     "wof:geomhash":"5a931f57fe73adf6f71c6e0f841e57f9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85786601,
-            "region_id":85684061,
-            "venue_id":923802667
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857287,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85860303,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":923802667
+        },
+        {
+            "borough_id":1158857287,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786601,
+            "region_id":-1,
             "venue_id":923802667
         }
     ],
     "wof:id":923802667,
-    "wof:lastmodified":1496969872,
+    "wof:lastmodified":1513979965,
     "wof:name":"Hobson & Co",
     "wof:parent_id":-3,
     "wof:placetype":"venue",

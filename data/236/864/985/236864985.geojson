@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785569,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"7da080e62621af52f757317ea22d369b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785569,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":236864985
         }
     ],
     "wof:id":236864985,
-    "wof:lastmodified":1496964343,
+    "wof:lastmodified":1513997625,
     "wof:name":"Lakeside Cars",
     "wof:parent_id":85785569,
     "wof:placetype":"venue",

@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85793315,
+        85791225,
+        102191581,
+        1158864487,
         85633159,
+        404227469,
         101750367,
-        85683683
+        1158857273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     "wof:geomhash":"c0cfda05e2f8d653f45ff14137abbc8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857273,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85793315,
-            "region_id":85683683,
+            "macrohood_id":1158864487,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791225,
+            "region_id":-1,
             "venue_id":303940697
         }
     ],
     "wof:id":303940697,
-    "wof:lastmodified":1496938734,
+    "wof:lastmodified":1513996060,
     "wof:name":"Noreen & Nosheen School of Motoring",
-    "wof:parent_id":85793315,
+    "wof:parent_id":85791225,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

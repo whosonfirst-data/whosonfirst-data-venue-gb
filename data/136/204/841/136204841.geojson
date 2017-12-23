@@ -35,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85787005,
+        102191581,
         85633159,
-        85860527,
-        85684289,
-        85790091
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +50,20 @@
     "wof:geomhash":"67cba77c7c88421f0b18b741e96d1005",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860527,
-            "region_id":85684289,
-            "venue_id":136204841
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85790091,
-            "region_id":85684289,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787005,
+            "region_id":-1,
             "venue_id":136204841
         }
     ],
     "wof:id":136204841,
-    "wof:lastmodified":1496963725,
+    "wof:lastmodified":1513982290,
     "wof:name":"Glass (Structural Services) London Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85787005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

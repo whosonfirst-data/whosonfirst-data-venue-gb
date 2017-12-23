@@ -38,10 +38,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860347,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,18 @@
     "wof:geomhash":"897526c09bfbe7968b18b0bb4a4933d8",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860347,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":135666511
         }
     ],
     "wof:id":135666511,
-    "wof:lastmodified":1496962397,
+    "wof:lastmodified":1514000621,
     "wof:name":"West Green Car Services",
     "wof:parent_id":85860347,
     "wof:placetype":"venue",

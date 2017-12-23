@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790011,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"2479f90382cea179e0bf960a4cf3cc25",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790011,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":135408603
         }
     ],
     "wof:id":135408603,
-    "wof:lastmodified":1496960781,
+    "wof:lastmodified":1513984244,
     "wof:name":"Century Youth House",
     "wof:parent_id":85790011,
     "wof:placetype":"venue",

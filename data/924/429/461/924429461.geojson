@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787951,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"d637d42a95658c95fa700cf18ad51934",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787951,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":924429461
         }
     ],
     "wof:id":924429461,
-    "wof:lastmodified":1496959178,
+    "wof:lastmodified":1513993866,
     "wof:name":"A1 Plumbing Services",
     "wof:parent_id":85787951,
     "wof:placetype":"venue",

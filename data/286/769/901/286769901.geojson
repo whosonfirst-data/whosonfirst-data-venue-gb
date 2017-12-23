@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792171,
+        85860887,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684071
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"dae043ca7f06219e787888f3fd031bb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792171,
-            "region_id":85684071,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860887,
+            "region_id":-1,
             "venue_id":286769901
         }
     ],
     "wof:id":286769901,
-    "wof:lastmodified":1496939770,
+    "wof:lastmodified":1513973290,
     "wof:name":"Floating Production Consultants Group",
-    "wof:parent_id":85792171,
+    "wof:parent_id":85860887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

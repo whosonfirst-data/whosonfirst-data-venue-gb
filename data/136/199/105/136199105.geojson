@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790635,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"9d67cd56417538ca7b8f0c0409cffd79",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790635,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":136199105
         }
     ],
     "wof:id":136199105,
-    "wof:lastmodified":1496963961,
+    "wof:lastmodified":1513988300,
     "wof:name":"Newsboy",
     "wof:parent_id":85790635,
     "wof:placetype":"venue",

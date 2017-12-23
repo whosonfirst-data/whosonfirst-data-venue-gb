@@ -33,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85789283,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,18 @@
     "wof:geomhash":"5f125d3f9b52e9bdd2e21795203c61a1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789283,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":118767031
         }
     ],
     "wof:id":118767031,
-    "wof:lastmodified":1496965707,
+    "wof:lastmodified":1513978224,
     "wof:name":"A Andrews Plumbing",
     "wof:parent_id":85789283,
     "wof:placetype":"venue",

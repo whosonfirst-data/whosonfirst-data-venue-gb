@@ -36,13 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786805,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        1158859031,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85788249
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,30 +52,21 @@
     "wof:geomhash":"83e26e1678d8fb3e4fa9c4a5c4c77cfd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857245,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
             "macroregion_id":404227469,
             "neighbourhood_id":85786805,
-            "region_id":85684061,
-            "venue_id":907830327
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85788249,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907830327
         }
     ],
     "wof:id":907830327,
-    "wof:lastmodified":1496973087,
+    "wof:lastmodified":1513982870,
     "wof:name":"Central London Valuation Tribunal",
-    "wof:parent_id":-3,
+    "wof:parent_id":85786805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

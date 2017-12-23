@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786877,
-        85684331
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,18 @@
     "wof:geomhash":"9107ebc018aaf8f45b490356581fa99f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786877,
-            "region_id":85684331,
+            "region_id":-1,
             "venue_id":924681659
         }
     ],
     "wof:id":924681659,
-    "wof:lastmodified":1496958636,
+    "wof:lastmodified":1513992245,
     "wof:name":"Architectural Reclaim",
     "wof:parent_id":85786877,
     "wof:placetype":"venue",

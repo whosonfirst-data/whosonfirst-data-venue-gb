@@ -42,10 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785229,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,18 @@
     "wof:geomhash":"ab1fc315ed817d77c87b7f56ea01c076",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785229,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":119049461
         }
     ],
     "wof:id":119049461,
-    "wof:lastmodified":1496967405,
+    "wof:lastmodified":1513981039,
     "wof:name":"The Cricketers",
     "wof:parent_id":85785229,
     "wof:placetype":"venue",

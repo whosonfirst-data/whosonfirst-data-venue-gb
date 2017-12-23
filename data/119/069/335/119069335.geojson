@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85793305,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"0b06eab43bcb23eddfbe8aec19e826f3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793305,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":119069335
         }
     ],
     "wof:id":119069335,
-    "wof:lastmodified":1496967421,
+    "wof:lastmodified":1513975584,
     "wof:name":"Rainbow Copy Shop",
     "wof:parent_id":85793305,
     "wof:placetype":"venue",

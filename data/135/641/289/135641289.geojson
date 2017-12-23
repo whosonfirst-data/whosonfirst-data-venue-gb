@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861625,
-        85684081
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857257
     ],
     "wof:brand_id":420575325,
     "wof:breaches":[],
@@ -45,15 +47,18 @@
     "wof:geomhash":"ecb6ab9c33cb49f75cd571395aa11ff3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861625,
-            "region_id":85684081,
+            "region_id":-1,
             "venue_id":135641289
         }
     ],
     "wof:id":135641289,
-    "wof:lastmodified":1496961626,
+    "wof:lastmodified":1513982590,
     "wof:name":"Hsbc Bank Plc",
     "wof:parent_id":85861625,
     "wof:placetype":"venue",

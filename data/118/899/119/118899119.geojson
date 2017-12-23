@@ -40,10 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860375,
-        85684071
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,18 @@
     "wof:geomhash":"a731ec527c2a7854db36a2b86e48e85f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860375,
-            "region_id":85684071,
+            "region_id":-1,
             "venue_id":118899119
         }
     ],
     "wof:id":118899119,
-    "wof:lastmodified":1496965391,
+    "wof:lastmodified":1514000396,
     "wof:name":"BIG POND PRODUCTIONS LTD",
     "wof:parent_id":85860375,
     "wof:placetype":"venue",

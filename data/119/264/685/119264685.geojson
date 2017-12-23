@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860165,
-        85684467
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"ad5bd7e1a8387f694e72fa700a4f1fda",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860165,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":119264685
         }
     ],
     "wof:id":119264685,
-    "wof:lastmodified":1496967784,
+    "wof:lastmodified":1513992193,
     "wof:name":"Edward Fail Bradshaw & Waterson",
     "wof:parent_id":85860165,
     "wof:placetype":"venue",

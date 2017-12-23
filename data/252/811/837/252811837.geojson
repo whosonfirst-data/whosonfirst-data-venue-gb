@@ -30,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85791477,
+        85861811,
+        102191581,
+        1158884889,
         85633159,
+        404227469,
         101750367,
-        85684289
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     "wof:geomhash":"6af8194388c408e4e02349006d42fd20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85791477,
-            "region_id":85684289,
+            "macrohood_id":1158884889,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861811,
+            "region_id":-1,
             "venue_id":252811837
         }
     ],
     "wof:id":252811837,
-    "wof:lastmodified":1496968253,
+    "wof:lastmodified":1513998558,
     "wof:name":"Honor Oak & Tulse Hill Club Ltd.",
-    "wof:parent_id":85791477,
+    "wof:parent_id":85861811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

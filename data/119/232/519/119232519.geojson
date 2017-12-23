@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85860577,
+        102191581,
         85633159,
-        85860537,
-        85683707
+        404227469,
+        101750367,
+        1158857295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +49,20 @@
     "wof:geomhash":"2fc085525be0ffc38913a98f06fea224",
     "wof:hierarchy":[
         {
+            "borough_id":1158857295,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860537,
-            "region_id":85683707,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860577,
+            "region_id":-1,
             "venue_id":119232519
         }
     ],
     "wof:id":119232519,
-    "wof:lastmodified":1496966680,
+    "wof:lastmodified":1513988396,
     "wof:name":"Double 'd' Services",
-    "wof:parent_id":85860537,
+    "wof:parent_id":85860577,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

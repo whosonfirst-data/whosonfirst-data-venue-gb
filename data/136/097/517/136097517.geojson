@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792313,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"d865c5141ea610042af3d4417bcfdd24",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792313,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":136097517
         }
     ],
     "wof:id":136097517,
-    "wof:lastmodified":1496963948,
+    "wof:lastmodified":1514000489,
     "wof:name":"Moco",
     "wof:parent_id":85792313,
     "wof:placetype":"venue",

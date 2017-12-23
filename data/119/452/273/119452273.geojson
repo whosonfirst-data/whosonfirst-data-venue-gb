@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860175,
-        85683683
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"0f3cd32bf65666a755e69562e46349d6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860175,
-            "region_id":85683683,
+            "region_id":-1,
             "venue_id":119452273
         }
     ],
     "wof:id":119452273,
-    "wof:lastmodified":1496967137,
+    "wof:lastmodified":1514001389,
     "wof:name":"St John On Bethnal Green",
     "wof:parent_id":85860175,
     "wof:placetype":"venue",

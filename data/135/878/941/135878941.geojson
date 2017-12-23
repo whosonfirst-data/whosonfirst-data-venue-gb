@@ -36,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85789637,
-        85684363
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,18 @@
     "wof:geomhash":"9c9f0bd4cddd560ed65a054452909978",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789637,
-            "region_id":85684363,
+            "region_id":-1,
             "venue_id":135878941
         }
     ],
     "wof:id":135878941,
-    "wof:lastmodified":1496962417,
+    "wof:lastmodified":1513980088,
     "wof:name":"Priory Designs",
     "wof:parent_id":85789637,
     "wof:placetype":"venue",

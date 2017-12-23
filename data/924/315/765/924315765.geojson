@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85788413,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:brand_id":1125156775,
     "wof:breaches":[],
@@ -48,14 +51,18 @@
     "wof:geomhash":"e3dc3d387fedb031af5504c2b3c4d561",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788413,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":924315765
         }
     ],
     "wof:id":924315765,
-    "wof:lastmodified":1510875059,
+    "wof:lastmodified":1513993291,
     "wof:name":"Liberal Democrats",
     "wof:parent_id":85788413,
     "wof:placetype":"venue",

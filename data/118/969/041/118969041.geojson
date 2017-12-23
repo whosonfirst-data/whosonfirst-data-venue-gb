@@ -36,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860883,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +52,19 @@
     "wof:geomhash":"828ccddc3a4656c26ef77319ac49bf6c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860883,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":118969041
         }
     ],
     "wof:id":118969041,
-    "wof:lastmodified":1496965625,
+    "wof:lastmodified":1513986922,
     "wof:name":"Delfont Mackintosh Theatres Ltd.",
     "wof:parent_id":85860883,
     "wof:placetype":"venue",

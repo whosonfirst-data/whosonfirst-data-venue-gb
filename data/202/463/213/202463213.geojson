@@ -32,11 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790077,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683671,
-        85785483,
-        85684151
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,26 +46,20 @@
     "wof:geomhash":"57dd7c590373ec46a06406b96cc2dd99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790077,
-            "region_id":85683671,
-            "venue_id":202463213
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85785483,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":202463213
         }
     ],
     "wof:id":202463213,
-    "wof:lastmodified":1496964915,
+    "wof:lastmodified":1513984495,
     "wof:name":"K O C Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85790077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

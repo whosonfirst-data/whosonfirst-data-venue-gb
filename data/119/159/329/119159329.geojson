@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785773,
-        85684337
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"4fe3ff89515a06491c4b07199b865761",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785773,
-            "region_id":85684337,
+            "region_id":-1,
             "venue_id":119159329
         }
     ],
     "wof:id":119159329,
-    "wof:lastmodified":1496966861,
+    "wof:lastmodified":1513989356,
     "wof:name":"Andrew Bennett",
     "wof:parent_id":85785773,
     "wof:placetype":"venue",

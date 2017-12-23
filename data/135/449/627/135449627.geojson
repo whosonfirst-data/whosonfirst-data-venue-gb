@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85897741,
+        102191581,
         85633159,
-        85861625,
-        85684081
+        404227469,
+        101750367,
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +46,20 @@
     "wof:geomhash":"9a33ee68e9d356869b76ecf6e850b8c9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861625,
-            "region_id":85684081,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85897741,
+            "region_id":-1,
             "venue_id":135449627
         }
     ],
     "wof:id":135449627,
-    "wof:lastmodified":1496962201,
+    "wof:lastmodified":1513992199,
     "wof:name":"Hansard Security Ltd",
-    "wof:parent_id":85861625,
+    "wof:parent_id":85897741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

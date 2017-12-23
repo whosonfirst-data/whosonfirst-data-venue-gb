@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792241,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:brand_id":1125150875,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"be307c1c818670ecd45c259152271be0",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792241,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":119292269
         }
     ],
     "wof:id":119292269,
-    "wof:lastmodified":1510613209,
+    "wof:lastmodified":1513991959,
     "wof:name":"Pizza Express",
     "wof:parent_id":85792241,
     "wof:placetype":"venue",

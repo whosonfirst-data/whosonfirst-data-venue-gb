@@ -36,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860023,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:brand_id":1125161197,
     "wof:breaches":[],
@@ -50,14 +53,18 @@
     "wof:geomhash":"b95eb0ee2030b6f3fc723d9a20e355b8",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860023,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":924097739
         }
     ],
     "wof:id":924097739,
-    "wof:lastmodified":1511317194,
+    "wof:lastmodified":1513987812,
     "wof:name":"Meridian",
     "wof:parent_id":85860023,
     "wof:placetype":"venue",

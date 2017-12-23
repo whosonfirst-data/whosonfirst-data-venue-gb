@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85792357,
+        102191581,
         85633159,
-        85790639,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,20 @@
     "wof:geomhash":"040cd50d92cdc0905b47f6ebb0e54dbe",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85790639,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792357,
+            "region_id":-1,
             "venue_id":119327559
         }
     ],
     "wof:id":119327559,
-    "wof:lastmodified":1496967633,
+    "wof:lastmodified":1513982096,
     "wof:name":"Carl Morris Associates",
-    "wof:parent_id":85790639,
+    "wof:parent_id":85792357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

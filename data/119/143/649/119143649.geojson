@@ -39,10 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860151,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,18 @@
     "wof:geomhash":"016e9e71e69c488dded4dcfbec073bd6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860151,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":119143649
         }
     ],
     "wof:id":119143649,
-    "wof:lastmodified":1496967376,
+    "wof:lastmodified":1513989358,
     "wof:name":"Shrina's News",
     "wof:parent_id":85860151,
     "wof:placetype":"venue",

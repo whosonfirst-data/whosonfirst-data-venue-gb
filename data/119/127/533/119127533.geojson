@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786505,
-        85683649
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"fdf1fd3be5d7b152e64b267346f2b9d4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857303,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786505,
-            "region_id":85683649,
+            "region_id":-1,
             "venue_id":119127533
         }
     ],
     "wof:id":119127533,
-    "wof:lastmodified":1496967782,
+    "wof:lastmodified":1513978253,
     "wof:name":"Accountancy Services",
     "wof:parent_id":85786505,
     "wof:placetype":"venue",

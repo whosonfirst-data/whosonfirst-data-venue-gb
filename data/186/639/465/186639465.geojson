@@ -35,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85787169,
+        85865127,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684411,
-        85865127
+        1158857293,
+        85787169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +51,30 @@
     "wof:geomhash":"ff27251a1fa302be57f8d7f9b0930723",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85787169,
-            "region_id":85684411,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85865127,
+            "region_id":-1,
             "venue_id":186639465
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85865127,
-            "region_id":85684411,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787169,
+            "region_id":-1,
             "venue_id":186639465
         }
     ],
     "wof:id":186639465,
-    "wof:lastmodified":1496968761,
+    "wof:lastmodified":1513989078,
     "wof:name":"McDowalls",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

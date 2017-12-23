@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85859997,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"4ac7f636e55c2785aa4e9d15d19a04b5",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85859997,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":119534037
         }
     ],
     "wof:id":119534037,
-    "wof:lastmodified":1496967901,
+    "wof:lastmodified":1513983558,
     "wof:name":"St Raphael R C Church",
     "wof:parent_id":85859997,
     "wof:placetype":"venue",

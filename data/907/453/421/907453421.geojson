@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85789283,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"50ba5ccba94b51a059f16c09d2a31ade",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789283,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":907453421
         }
     ],
     "wof:id":907453421,
-    "wof:lastmodified":1496970325,
+    "wof:lastmodified":1513987356,
     "wof:name":"South East London Probation Service",
     "wof:parent_id":85789283,
     "wof:placetype":"venue",

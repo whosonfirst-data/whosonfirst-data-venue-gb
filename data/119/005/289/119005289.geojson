@@ -36,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85789115,
+        102191581,
+        1158864717,
         85633159,
-        85860827,
-        85684467
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,21 @@
     "wof:geomhash":"dd320307e78ad0f5eb9cb422a2eabd36",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860827,
-            "region_id":85684467,
+            "macrohood_id":1158864717,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789115,
+            "region_id":-1,
             "venue_id":119005289
         }
     ],
     "wof:id":119005289,
-    "wof:lastmodified":1496967147,
+    "wof:lastmodified":1514002555,
     "wof:name":"Socrates Charitable Trust",
-    "wof:parent_id":85860827,
+    "wof:parent_id":85789115,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

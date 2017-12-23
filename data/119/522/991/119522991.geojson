@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860183,
-        85684467
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"3c5723f2d8e552a4b93d9be059580c4e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860183,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":119522991
         }
     ],
     "wof:id":119522991,
-    "wof:lastmodified":1496967499,
+    "wof:lastmodified":1513983191,
     "wof:name":"Print Processes Ltd.",
     "wof:parent_id":85860183,
     "wof:placetype":"venue",

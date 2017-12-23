@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790809,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"76881a1feef0d234717bb0fc9bc6c5dd",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790809,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":118982543
         }
     ],
     "wof:id":118982543,
-    "wof:lastmodified":1496966219,
+    "wof:lastmodified":1513991069,
     "wof:name":"Nannies & Home Services Ltd.",
     "wof:parent_id":85790809,
     "wof:placetype":"venue",

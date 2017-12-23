@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860145,
-        85684411
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,18 @@
     "wof:geomhash":"06e5c34efe8d6eb14541034558a67b39",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860145,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":135457597
         }
     ],
     "wof:id":135457597,
-    "wof:lastmodified":1496961074,
+    "wof:lastmodified":1513996588,
     "wof:name":"Golden Sands Chinese Take Away",
     "wof:parent_id":85860145,
     "wof:placetype":"venue",

@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792159,
+        85860335,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683683
+        1158857273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"5ea10f7f34ee1b830b42358e1fab4f1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857273,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792159,
-            "region_id":85683683,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860335,
+            "region_id":-1,
             "venue_id":320542877
         }
     ],
     "wof:id":320542877,
-    "wof:lastmodified":1496962884,
+    "wof:lastmodified":1513977202,
     "wof:name":"Handy Food Stores",
-    "wof:parent_id":85792159,
+    "wof:parent_id":85860335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

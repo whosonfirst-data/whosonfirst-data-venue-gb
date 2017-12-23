@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860023,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"873775308768aef1c5e7cec9e18ebe28",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860023,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":907434381
         }
     ],
     "wof:id":907434381,
-    "wof:lastmodified":1496972485,
+    "wof:lastmodified":1513979444,
     "wof:name":"N.R Mills",
     "wof:parent_id":85860023,
     "wof:placetype":"venue",

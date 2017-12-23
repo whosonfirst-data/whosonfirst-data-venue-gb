@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860157,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,18 @@
     "wof:geomhash":"433299258f7cce80ed659747972e1acb",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860157,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":135324201
         }
     ],
     "wof:id":135324201,
-    "wof:lastmodified":1501088726,
+    "wof:lastmodified":1514000872,
     "wof:name":"Davco Construction Co. Ltd.",
     "wof:parent_id":85860157,
     "wof:placetype":"venue",

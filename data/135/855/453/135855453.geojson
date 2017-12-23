@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860759,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"2c1a3a7db87d0c021f220c33cae61a04",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860759,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":135855453
         }
     ],
     "wof:id":135855453,
-    "wof:lastmodified":1510942056,
+    "wof:lastmodified":1513979837,
     "wof:name":"The Argyle Surgery",
     "wof:parent_id":85860759,
     "wof:placetype":"venue",

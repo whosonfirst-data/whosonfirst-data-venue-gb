@@ -36,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158859437,
+        102191581,
+        1158859439,
         85633159,
-        85860773,
-        85683667
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,21 @@
     "wof:geomhash":"68516d79ea31a8379d92aedd1c0f2b99",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860773,
-            "region_id":85683667,
+            "macrohood_id":1158859439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158859437,
+            "region_id":-1,
             "venue_id":102591605
         }
     ],
     "wof:id":102591605,
-    "wof:lastmodified":1496968964,
+    "wof:lastmodified":1513999138,
     "wof:name":"Laboratoire Garnier",
-    "wof:parent_id":85860773,
+    "wof:parent_id":1158859437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

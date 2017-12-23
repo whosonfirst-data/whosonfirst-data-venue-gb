@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792217,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"cc758f5ad2872fbe6510501daef12a35",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792217,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":135606425
         }
     ],
     "wof:id":135606425,
-    "wof:lastmodified":1496961484,
+    "wof:lastmodified":1513998744,
     "wof:name":"Douglas Martin Estate Agents",
     "wof:parent_id":85792217,
     "wof:placetype":"venue",

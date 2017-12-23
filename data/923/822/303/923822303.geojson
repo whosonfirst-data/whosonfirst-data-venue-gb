@@ -36,13 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861639,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85861745
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,30 +51,20 @@
     "wof:geomhash":"af01301c201dfce0315dadd6c62d272c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857257,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85861639,
-            "region_id":85684061,
-            "venue_id":923822303
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85861745,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":923822303
         }
     ],
     "wof:id":923822303,
-    "wof:lastmodified":1496969075,
+    "wof:lastmodified":1513998791,
     "wof:name":"Pret A Manger",
-    "wof:parent_id":-1,
+    "wof:parent_id":85861639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

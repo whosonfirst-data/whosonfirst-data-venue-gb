@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860259,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,18 @@
     "wof:geomhash":"828c4131539d64ffe522af4ffd8f1176",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860259,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":135740303
         }
     ],
     "wof:id":135740303,
-    "wof:lastmodified":1496961644,
+    "wof:lastmodified":1513973522,
     "wof:name":"Mfi Furniture Centre",
     "wof:parent_id":85860259,
     "wof:placetype":"venue",

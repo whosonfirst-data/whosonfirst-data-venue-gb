@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786917,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"e7063c2da7a9c338b6ce9f999f02f5de",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786917,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":102745715
         }
     ],
     "wof:id":102745715,
-    "wof:lastmodified":1496968989,
+    "wof:lastmodified":1513999910,
     "wof:name":"Cartaplan Systems Ltd.",
     "wof:parent_id":85786917,
     "wof:placetype":"venue",

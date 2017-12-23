@@ -36,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85790047,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684151,
-        85860705
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +50,20 @@
     "wof:geomhash":"872d6743fd094545f39ff42662865e20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790047,
-            "region_id":85684151,
-            "venue_id":236023201
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85860705,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":236023201
         }
     ],
     "wof:id":236023201,
-    "wof:lastmodified":1496964166,
+    "wof:lastmodified":1513981013,
     "wof:name":"Saj Business Management Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85790047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

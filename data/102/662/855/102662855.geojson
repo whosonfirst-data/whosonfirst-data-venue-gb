@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792125,
-        85684289
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"83c6cd376a8de7f5e21724513c267e5b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792125,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":102662855
         }
     ],
     "wof:id":102662855,
-    "wof:lastmodified":1496968942,
+    "wof:lastmodified":1514001529,
     "wof:name":"The Evelina Family Trust",
     "wof:parent_id":85792125,
     "wof:placetype":"venue",

@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85789283,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"b48bce20745d2b947753e3d14536ad89",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789283,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":286461813
         }
     ],
     "wof:id":286461813,
-    "wof:lastmodified":1496940861,
+    "wof:lastmodified":1514001956,
     "wof:name":"Greeno,T,",
     "wof:parent_id":85789283,
     "wof:placetype":"venue",

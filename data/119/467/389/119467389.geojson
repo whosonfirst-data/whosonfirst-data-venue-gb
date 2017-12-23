@@ -39,10 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860823,
-        85683763
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,18 @@
     "wof:geomhash":"f3a41ff32fcf7de664538930f3e01bfd",
     "wof:hierarchy":[
         {
+            "borough_id":1158857255,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860823,
-            "region_id":85683763,
+            "region_id":-1,
             "venue_id":119467389
         }
     ],
     "wof:id":119467389,
-    "wof:lastmodified":1496966799,
+    "wof:lastmodified":1513982475,
     "wof:name":"Marlowe Rooms",
     "wof:parent_id":85860823,
     "wof:placetype":"venue",

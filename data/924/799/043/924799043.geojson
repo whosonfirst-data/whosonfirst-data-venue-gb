@@ -31,9 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85791107,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,18 @@
     "wof:geomhash":"cc1ef3a464787d09195ef4c174a51a85",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791107,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":924799043
         }
     ],
     "wof:id":924799043,
-    "wof:lastmodified":1496944864,
+    "wof:lastmodified":1513979544,
     "wof:name":"Renata Automatic Driving Tuition",
     "wof:parent_id":85791107,
     "wof:placetype":"venue",

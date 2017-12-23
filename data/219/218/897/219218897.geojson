@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861693,
+        85861801,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:brand_id":1125156003,
     "wof:breaches":[],
@@ -44,18 +46,20 @@
     "wof:geomhash":"fa07f5a9a071c438542f7c4aadf1f08f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861693,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861801,
+            "region_id":-1,
             "venue_id":219218897
         }
     ],
     "wof:id":219218897,
-    "wof:lastmodified":1510697082,
+    "wof:lastmodified":1513977770,
     "wof:name":"The Phone House",
-    "wof:parent_id":85861693,
+    "wof:parent_id":85861801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

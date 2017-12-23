@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85791623,
+        102191581,
         85633159,
-        85865133,
-        85684467
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,20 @@
     "wof:geomhash":"3eb4785a40e62a87b3c77e3e01732975",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85865133,
-            "region_id":85684467,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791623,
+            "region_id":-1,
             "venue_id":118713109
         }
     ],
     "wof:id":118713109,
-    "wof:lastmodified":1496965454,
+    "wof:lastmodified":1514001945,
     "wof:name":"A1 Standard Glass",
-    "wof:parent_id":85865133,
+    "wof:parent_id":85791623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

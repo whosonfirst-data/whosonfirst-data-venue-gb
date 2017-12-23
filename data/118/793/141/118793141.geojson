@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85793303,
-        85684597
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"b45aafaaed3fc2c17ab8cf0da50354ef",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793303,
-            "region_id":85684597,
+            "region_id":-1,
             "venue_id":118793141
         }
     ],
     "wof:id":118793141,
-    "wof:lastmodified":1496965859,
+    "wof:lastmodified":1513977293,
     "wof:name":"Eric Noble",
     "wof:parent_id":85793303,
     "wof:placetype":"venue",

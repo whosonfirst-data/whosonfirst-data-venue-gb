@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792189,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"e36405da0a178df41b0d738b6366dad4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792189,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":102756089
         }
     ],
     "wof:id":102756089,
-    "wof:lastmodified":1496968959,
+    "wof:lastmodified":1513988255,
     "wof:name":"Happy Mountain Design & Print",
     "wof:parent_id":85792189,
     "wof:placetype":"venue",

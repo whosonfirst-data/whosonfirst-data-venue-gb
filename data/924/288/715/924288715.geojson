@@ -43,9 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85788957,
-        85684417
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +59,18 @@
     "wof:geomhash":"acd169b7311aaecced4b9bfc0c4b5810",
     "wof:hierarchy":[
         {
+            "borough_id":1158857309,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788957,
-            "region_id":85684417,
+            "region_id":-1,
             "venue_id":924288715
         }
     ],
     "wof:id":924288715,
-    "wof:lastmodified":1496950063,
+    "wof:lastmodified":1513976802,
     "wof:name":"Holborn Asphalte Co Ltd",
     "wof:parent_id":85788957,
     "wof:placetype":"venue",

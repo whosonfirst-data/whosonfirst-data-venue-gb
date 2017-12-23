@@ -34,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792375,
+        85786345,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684337,
-        85786345
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +49,20 @@
     "wof:geomhash":"146079a679d630ec77d38c16e686031e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792375,
-            "region_id":85684337,
-            "venue_id":236157319
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786345,
-            "region_id":85684337,
+            "region_id":-1,
             "venue_id":236157319
         }
     ],
     "wof:id":236157319,
-    "wof:lastmodified":1496964228,
+    "wof:lastmodified":1513973444,
     "wof:name":"St Michael Business Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85786345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

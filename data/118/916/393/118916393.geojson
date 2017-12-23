@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787291,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"793da063461d53233a8209cfe68455ca",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787291,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":118916393
         }
     ],
     "wof:id":118916393,
-    "wof:lastmodified":1496965752,
+    "wof:lastmodified":1513977506,
     "wof:name":"Colourscene (Mastervision)",
     "wof:parent_id":85787291,
     "wof:placetype":"venue",

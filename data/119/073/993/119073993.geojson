@@ -42,10 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790821,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,18 @@
     "wof:geomhash":"f3411d70bf4cfb95197bcca5556c065b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790821,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":119073993
         }
     ],
     "wof:id":119073993,
-    "wof:lastmodified":1496967936,
+    "wof:lastmodified":1513973223,
     "wof:name":"Perfect Pizza Ltd",
     "wof:parent_id":85790821,
     "wof:placetype":"venue",

@@ -40,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792351,
-        85684299
+        102191581,
+        1158860449,
+        85633159,
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +56,19 @@
     "wof:geomhash":"ace40584fd6fe5f525e77f3ae0a9036c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158860449,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792351,
-            "region_id":85684299,
+            "region_id":-1,
             "venue_id":135302371
         }
     ],
     "wof:id":135302371,
-    "wof:lastmodified":1496962368,
+    "wof:lastmodified":1513999634,
     "wof:name":"Queensmill School",
     "wof:parent_id":85792351,
     "wof:placetype":"venue",

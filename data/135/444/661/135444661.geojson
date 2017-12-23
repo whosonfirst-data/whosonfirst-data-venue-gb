@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789897,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"3824548354ba2d3e6631e8894f91b465",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789897,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":135444661
         }
     ],
     "wof:id":135444661,
-    "wof:lastmodified":1496961103,
+    "wof:lastmodified":1513983894,
     "wof:name":"Chas & D Flowers",
     "wof:parent_id":85789897,
     "wof:placetype":"venue",

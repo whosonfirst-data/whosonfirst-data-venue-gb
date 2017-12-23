@@ -37,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786805,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,16 +52,19 @@
     "wof:geomhash":"2e3ea5c6bf97e6e3f3fc41bb9f6855b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786805,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":269968753
         }
     ],
     "wof:id":269968753,
-    "wof:lastmodified":1496964772,
+    "wof:lastmodified":1513986566,
     "wof:name":"Contact the Elderly",
     "wof:parent_id":85786805,
     "wof:placetype":"venue",

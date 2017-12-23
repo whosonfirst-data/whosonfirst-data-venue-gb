@@ -35,12 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789479,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061
+        1158857293,
+        1158894067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,20 +51,29 @@
     "wof:geomhash":"69181c7b19ff8675f670e3de4e1d6f6d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857293,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85789479,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":907556893
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158894067,
+            "region_id":-1,
             "venue_id":907556893
         }
     ],
     "wof:id":907556893,
-    "wof:lastmodified":1496973614,
+    "wof:lastmodified":1513973933,
     "wof:name":"St.John's Centre",
-    "wof:parent_id":85789479,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

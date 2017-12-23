@@ -40,10 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860289,
-        85683637
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,18 @@
     "wof:geomhash":"158e787be8a315074d564ec64570d8fb",
     "wof:hierarchy":[
         {
+            "borough_id":1158857319,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860289,
-            "region_id":85683637,
+            "region_id":-1,
             "venue_id":119402175
         }
     ],
     "wof:id":119402175,
-    "wof:lastmodified":1496967468,
+    "wof:lastmodified":1513994199,
     "wof:name":"Faircross Complementary Medical Centre (The)",
     "wof:parent_id":85860289,
     "wof:placetype":"venue",

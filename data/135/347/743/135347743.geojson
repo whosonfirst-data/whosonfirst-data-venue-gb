@@ -31,11 +31,13 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85792439,
+        102191581,
         85633159,
-        85786741,
-        85683841,
-        85792439
+        404227469,
+        101750367,
+        1158857313,
+        85786741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,23 +47,30 @@
     "wof:geomhash":"4f08018731eb03bc7262bddfd79164d3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85786741,
-            "region_id":85683841,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792439,
+            "region_id":-1,
             "venue_id":135347743
         },
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
-            "neighbourhood_id":85792439,
-            "region_id":85683841,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786741,
+            "region_id":-1,
             "venue_id":135347743
         }
     ],
     "wof:id":135347743,
-    "wof:lastmodified":1496962022,
+    "wof:lastmodified":1513989454,
     "wof:name":"Gobions Post Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

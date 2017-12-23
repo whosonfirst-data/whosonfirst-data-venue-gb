@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789259,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"a6749cf4b1bafede9d8540194c770d3a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789259,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":119178813
         }
     ],
     "wof:id":119178813,
-    "wof:lastmodified":1496967008,
+    "wof:lastmodified":1513998856,
     "wof:name":"Sidney's",
     "wof:parent_id":85789259,
     "wof:placetype":"venue",

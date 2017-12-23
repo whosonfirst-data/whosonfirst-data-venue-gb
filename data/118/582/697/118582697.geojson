@@ -37,10 +37,12 @@
     "sg:website":"http://www.clarks.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790801,
-        85684411
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857293
     ],
     "wof:brand_id":1125158723,
     "wof:breaches":[],
@@ -51,15 +53,18 @@
     "wof:geomhash":"92ee26563bf0e0662d905f1f45c309ab",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790801,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":118582697
         }
     ],
     "wof:id":118582697,
-    "wof:lastmodified":1510695831,
+    "wof:lastmodified":1513991214,
     "wof:name":"Clarks Shoes Ltd",
     "wof:parent_id":85790801,
     "wof:placetype":"venue",

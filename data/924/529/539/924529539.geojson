@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786819,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,18 @@
     "wof:geomhash":"3d5cab55067d669154678fafaed2e864",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786819,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":924529539
         }
     ],
     "wof:id":924529539,
-    "wof:lastmodified":1496944923,
+    "wof:lastmodified":1513983587,
     "wof:name":"Mick's Kebab House",
     "wof:parent_id":85786819,
     "wof:placetype":"venue",

@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860001,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"b4209512743a42479ba53e4fc267f040",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860001,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":118732101
         }
     ],
     "wof:id":118732101,
-    "wof:lastmodified":1496966168,
+    "wof:lastmodified":1513986077,
     "wof:name":"Westmill Homes Ltd",
     "wof:parent_id":85860001,
     "wof:placetype":"venue",

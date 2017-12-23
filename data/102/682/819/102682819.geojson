@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792129,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"ec58bb76aee553231f48e1e78a6bd70f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792129,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":102682819
         }
     ],
     "wof:id":102682819,
-    "wof:lastmodified":1510941496,
+    "wof:lastmodified":1514000213,
     "wof:name":"Oliveto",
     "wof:parent_id":85792129,
     "wof:placetype":"venue",

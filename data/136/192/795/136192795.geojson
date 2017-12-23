@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787485,
-        85684337
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,18 @@
     "wof:geomhash":"25d3da7d54e98f3a6a1d3c2b3bd3dd0c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787485,
-            "region_id":85684337,
+            "region_id":-1,
             "venue_id":136192795
         }
     ],
     "wof:id":136192795,
-    "wof:lastmodified":1496963713,
+    "wof:lastmodified":1513977702,
     "wof:name":"Robert Wilson",
     "wof:parent_id":85787485,
     "wof:placetype":"venue",

@@ -31,14 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860137,
-        "102191581",
-        404435563,
-        "85633159",
+        85787169,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85787169
+        1158857293,
+        85860137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,30 +48,30 @@
     "wof:geomhash":"dbd8f7bd9ca749e782378f82b3007eb2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85860137,
-            "region_id":85684061,
-            "venue_id":907778359
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857293,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85787169,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":907778359
+        },
+        {
+            "borough_id":1158857293,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860137,
+            "region_id":-1,
             "venue_id":907778359
         }
     ],
     "wof:id":907778359,
-    "wof:lastmodified":1496971979,
+    "wof:lastmodified":1513990048,
     "wof:name":"Bluebird Estates Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792395,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:brand_id":420573851,
     "wof:breaches":[],
@@ -51,15 +53,18 @@
     "wof:geomhash":"df408f142feacdce766b3936c7dc2f57",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792395,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":135548237
         }
     ],
     "wof:id":135548237,
-    "wof:lastmodified":1496962200,
+    "wof:lastmodified":1513985635,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":85792395,
     "wof:placetype":"venue",

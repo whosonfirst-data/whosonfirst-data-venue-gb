@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790809,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:brand_id":420574323,
     "wof:breaches":[],
@@ -51,15 +53,18 @@
     "wof:geomhash":"73b2ecac154b6d0f68856ec5c2224768",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790809,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":135531713
         }
     ],
     "wof:id":135531713,
-    "wof:lastmodified":1496961390,
+    "wof:lastmodified":1513985658,
     "wof:name":"Iceland Foods Plc",
     "wof:parent_id":85790809,
     "wof:placetype":"venue",

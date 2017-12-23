@@ -43,10 +43,12 @@
     "sg:website":"http://www.mind.org.uk/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860383,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:brand_id":1125156607,
     "wof:breaches":[],
@@ -57,15 +59,18 @@
     "wof:geomhash":"97d1629c6e34bae88fae6677d7446620",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860383,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":119388171
         }
     ],
     "wof:id":119388171,
-    "wof:lastmodified":1511317792,
+    "wof:lastmodified":1513981419,
     "wof:name":"Mind",
     "wof:parent_id":85860383,
     "wof:placetype":"venue",

@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787935,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:brand_id":1125154465,
     "wof:breaches":[],
@@ -45,15 +47,18 @@
     "wof:geomhash":"0f1571655ae2a25e13e6c811de90e38d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787935,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":119110891
         }
     ],
     "wof:id":119110891,
-    "wof:lastmodified":1510874618,
+    "wof:lastmodified":1513986174,
     "wof:name":"Post Office Counters Ltd.",
     "wof:parent_id":85787935,
     "wof:placetype":"venue",

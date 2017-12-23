@@ -33,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860023,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"242a4f5baab5e77898431aa05fa62d49",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860023,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":924282253
         }
     ],
     "wof:id":924282253,
-    "wof:lastmodified":1496946738,
+    "wof:lastmodified":1513978442,
     "wof:name":"Appliance Services",
     "wof:parent_id":85860023,
     "wof:placetype":"venue",

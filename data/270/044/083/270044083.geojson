@@ -35,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792273,
-        85633159,
-        101750367,
-        85684141,
         85787907,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265,
+        85792273,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +52,30 @@
     "wof:geomhash":"7c02554171278754fa726c86dfb7f2c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792273,
-            "region_id":85684141,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787907,
+            "region_id":-1,
             "venue_id":270044083
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85787907,
-            "region_id":85683679,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792273,
+            "region_id":-1,
             "venue_id":270044083
         }
     ],
     "wof:id":270044083,
-    "wof:lastmodified":1496965237,
+    "wof:lastmodified":1513987466,
     "wof:name":"Elthorne Youth Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

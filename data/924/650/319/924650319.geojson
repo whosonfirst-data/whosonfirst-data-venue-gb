@@ -30,16 +30,13 @@
     "sg:province":"Hertfordshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85788157,
-        85684331,
-        85792241,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061
+        1158857285,
+        85792241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +47,30 @@
     "wof:geomhash":"165ea684c177f8b15950e83a28dadfe7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788157,
-            "region_id":85684331,
+            "region_id":-1,
             "venue_id":924650319
         },
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857285,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85792241,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":924650319
         }
     ],
     "wof:id":924650319,
-    "wof:lastmodified":1496959060,
+    "wof:lastmodified":1513982632,
     "wof:name":"M S Gold",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

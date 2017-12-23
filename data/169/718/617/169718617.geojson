@@ -31,11 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85787051,
+        85789259,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684003,
-        85789259
+        1158857267,
+        85787051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,26 +47,30 @@
     "wof:geomhash":"af731e12e20aed6631abf49dab175654",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85787051,
-            "region_id":85684003,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789259,
+            "region_id":-1,
             "venue_id":169718617
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789259,
-            "region_id":85684003,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787051,
+            "region_id":-1,
             "venue_id":169718617
         }
     ],
     "wof:id":169718617,
-    "wof:lastmodified":1496960048,
+    "wof:lastmodified":1513977286,
     "wof:name":"Italian Cookery Weeks Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

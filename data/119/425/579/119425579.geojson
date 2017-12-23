@@ -42,10 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791071,
-        85684387
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,18 @@
     "wof:geomhash":"38c6063d72bb4850d8bfbd5da7cf0120",
     "wof:hierarchy":[
         {
+            "borough_id":1158857309,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791071,
-            "region_id":85684387,
+            "region_id":-1,
             "venue_id":119425579
         }
     ],
     "wof:id":119425579,
-    "wof:lastmodified":1496967477,
+    "wof:lastmodified":1513977040,
     "wof:name":"Saxon Chauffeur Hire",
     "wof:parent_id":85791071,
     "wof:placetype":"venue",

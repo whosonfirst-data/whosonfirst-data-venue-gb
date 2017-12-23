@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789213,
+        85787281,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684235
+        1158857295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"dd0c36b8ceab7e5aa2ec6e94786c12d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857295,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789213,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787281,
+            "region_id":-1,
             "venue_id":219439821
         }
     ],
     "wof:id":219439821,
-    "wof:lastmodified":1496966652,
+    "wof:lastmodified":1514001297,
     "wof:name":"Glen's Shoe Repair",
-    "wof:parent_id":85789213,
+    "wof:parent_id":85787281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

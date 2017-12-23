@@ -33,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85787907,
+        85792277,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683679,
-        85792277
+        1158857265,
+        85787907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +49,30 @@
     "wof:geomhash":"475a2a81158038c8d6c1f529d28043c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85787907,
-            "region_id":85683679,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792277,
+            "region_id":-1,
             "venue_id":287019715
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792277,
-            "region_id":85683679,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787907,
+            "region_id":-1,
             "venue_id":287019715
         }
     ],
     "wof:id":287019715,
-    "wof:lastmodified":1496973780,
+    "wof:lastmodified":1513977771,
     "wof:name":"Hanwell Nursery Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

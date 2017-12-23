@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787755,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,18 @@
     "wof:geomhash":"1a55a87037daa81c6b8df38edb1d08d8",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787755,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":924505847
         }
     ],
     "wof:id":924505847,
-    "wof:lastmodified":1496947289,
+    "wof:lastmodified":1513983701,
     "wof:name":"Bristol Street Bromley",
     "wof:parent_id":85787755,
     "wof:placetype":"venue",

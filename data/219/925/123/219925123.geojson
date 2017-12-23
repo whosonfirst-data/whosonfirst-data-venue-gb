@@ -35,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860553,
+        85789795,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684235,
-        85789795
+        1158857297,
+        85860553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +51,30 @@
     "wof:geomhash":"670197eb0cff1ebd75651e9b5dd0c7e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860553,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789795,
+            "region_id":-1,
             "venue_id":219925123
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789795,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860553,
+            "region_id":-1,
             "venue_id":219925123
         }
     ],
     "wof:id":219925123,
-    "wof:lastmodified":1496966619,
+    "wof:lastmodified":1513995487,
     "wof:name":"Parkmore Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

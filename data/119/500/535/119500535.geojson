@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860353,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"72a603cae8db8c9e82f661f63b11a00c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860353,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":119500535
         }
     ],
     "wof:id":119500535,
-    "wof:lastmodified":1496967835,
+    "wof:lastmodified":1513994887,
     "wof:name":"Seven Sisters Health Care Training",
     "wof:parent_id":85860353,
     "wof:placetype":"venue",

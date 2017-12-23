@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787927,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"c12b44f065df2b2fa4f0bed2055864b3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787927,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":119083017
         }
     ],
     "wof:id":119083017,
-    "wof:lastmodified":1496967118,
+    "wof:lastmodified":1513997077,
     "wof:name":"P C Fabrics",
     "wof:parent_id":85787927,
     "wof:placetype":"venue",

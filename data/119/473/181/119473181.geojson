@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860411,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"0479314b5dd1748817debd3f667cae3a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860411,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":119473181
         }
     ],
     "wof:id":119473181,
-    "wof:lastmodified":1496967063,
+    "wof:lastmodified":1513989916,
     "wof:name":"Keith Hamer",
     "wof:parent_id":85860411,
     "wof:placetype":"venue",

@@ -36,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85791107,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,18 @@
     "wof:geomhash":"2829cff85d9f65e54e6249d0c0b83949",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791107,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":923820545
         }
     ],
     "wof:id":923820545,
-    "wof:lastmodified":1496969889,
+    "wof:lastmodified":1513992446,
     "wof:name":"First Concept (U K)",
     "wof:parent_id":85791107,
     "wof:placetype":"venue",

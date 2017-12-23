@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860599,
-        85683649
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857303
     ],
     "wof:brand_id":420574825,
     "wof:breaches":[],
@@ -49,15 +51,18 @@
     "wof:geomhash":"d008d895f30dcd1086e0a9f75a989888",
     "wof:hierarchy":[
         {
+            "borough_id":1158857303,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860599,
-            "region_id":85683649,
+            "region_id":-1,
             "venue_id":118868591
         }
     ],
     "wof:id":118868591,
-    "wof:lastmodified":1496966252,
+    "wof:lastmodified":1513999824,
     "wof:name":"Moss Chemists",
     "wof:parent_id":85860599,
     "wof:placetype":"venue",

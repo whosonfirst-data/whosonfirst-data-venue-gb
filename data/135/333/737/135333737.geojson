@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787911,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"162e946cded33536fd6744bbde0459bb",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787911,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":135333737
         }
     ],
     "wof:id":135333737,
-    "wof:lastmodified":1496961889,
+    "wof:lastmodified":1514000108,
     "wof:name":"Buckingham Primary School",
     "wof:parent_id":85787911,
     "wof:placetype":"venue",

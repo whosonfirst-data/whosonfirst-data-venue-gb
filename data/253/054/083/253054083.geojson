@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792179,
+        85792177,
+        102191581,
+        1158860449,
         85633159,
+        404227469,
         101750367,
-        85684299
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     "wof:geomhash":"ee0bb5486832d0be325def2a2b372212",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792179,
-            "region_id":85684299,
+            "macrohood_id":1158860449,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792177,
+            "region_id":-1,
             "venue_id":253054083
         }
     ],
     "wof:id":253054083,
-    "wof:lastmodified":1501088778,
+    "wof:lastmodified":1513988446,
     "wof:name":"St. George's Holidays Ltd.",
-    "wof:parent_id":85792179,
+    "wof:parent_id":85792177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

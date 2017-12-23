@@ -42,10 +42,12 @@
     "sg:website":"http://www.harveyjones.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860665,
+        85785537,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683671
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,18 +57,20 @@
     "wof:geomhash":"cf5c65263fede24ff440091d3712177c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860665,
-            "region_id":85683671,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85785537,
+            "region_id":-1,
             "venue_id":287116773
         }
     ],
     "wof:id":287116773,
-    "wof:lastmodified":1496973886,
+    "wof:lastmodified":1513986665,
     "wof:name":"Simple Kitchens Ltd",
-    "wof:parent_id":85860665,
+    "wof:parent_id":85785537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

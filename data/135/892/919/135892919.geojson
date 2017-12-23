@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860635,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"03688bed73cce63f934ebc14bce472fd",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860635,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":135892919
         }
     ],
     "wof:id":135892919,
-    "wof:lastmodified":1496961293,
+    "wof:lastmodified":1513995378,
     "wof:name":"Stag Brewing Co. Ltd.",
     "wof:parent_id":85860635,
     "wof:placetype":"venue",

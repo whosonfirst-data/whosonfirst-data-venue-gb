@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85793307,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"34493a9153ed7276a2502294e555ce93",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793307,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":118910685
         }
     ],
     "wof:id":118910685,
-    "wof:lastmodified":1496965448,
+    "wof:lastmodified":1514002593,
     "wof:name":"Technology Control Associates Ltd",
     "wof:parent_id":85793307,
     "wof:placetype":"venue",

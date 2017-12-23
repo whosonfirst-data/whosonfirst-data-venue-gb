@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787771,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"ed7a0b1103d695b391190cbf28b62b6e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787771,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":135428573
         }
     ],
     "wof:id":135428573,
-    "wof:lastmodified":1501088741,
+    "wof:lastmodified":1513973412,
     "wof:name":"Hill Wooldridge & Co.",
     "wof:parent_id":85787771,
     "wof:placetype":"venue",

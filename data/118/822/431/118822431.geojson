@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787911,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,18 @@
     "wof:geomhash":"3ae4d1813a67f472714201276d5f1a0c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787911,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":118822431
         }
     ],
     "wof:id":118822431,
-    "wof:lastmodified":1496965414,
+    "wof:lastmodified":1514000763,
     "wof:name":"House and Factory Properties Ltd",
     "wof:parent_id":85787911,
     "wof:placetype":"venue",

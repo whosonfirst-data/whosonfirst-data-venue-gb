@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789175,
-        85684099
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857305
     ],
     "wof:brand_id":1125162039,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"8044e94107efc0d9a1b847f3f1e5eff2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857305,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789175,
-            "region_id":85684099,
+            "region_id":-1,
             "venue_id":135969953
         }
     ],
     "wof:id":135969953,
-    "wof:lastmodified":1510877307,
+    "wof:lastmodified":1513976832,
     "wof:name":"The Pantry",
     "wof:parent_id":85789175,
     "wof:placetype":"venue",

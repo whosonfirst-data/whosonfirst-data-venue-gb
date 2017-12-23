@@ -36,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85789929,
-        85684363
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,18 @@
     "wof:geomhash":"a2d8135014f160d54b5b1083c4dd8865",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789929,
-            "region_id":85684363,
+            "region_id":-1,
             "venue_id":907687661
         }
     ],
     "wof:id":907687661,
-    "wof:lastmodified":1496971712,
+    "wof:lastmodified":1513993838,
     "wof:name":"Concorde Graphics Ltd.",
     "wof:parent_id":85789929,
     "wof:placetype":"venue",

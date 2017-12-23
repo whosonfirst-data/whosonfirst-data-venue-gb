@@ -33,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85861733,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,18 @@
     "wof:geomhash":"ec95ab1ef33e85c9f52281762c6904b4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861733,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":236333039
         }
     ],
     "wof:id":236333039,
-    "wof:lastmodified":1496964277,
+    "wof:lastmodified":1513995438,
     "wof:name":"Sovereign International Freight",
     "wof:parent_id":85861733,
     "wof:placetype":"venue",

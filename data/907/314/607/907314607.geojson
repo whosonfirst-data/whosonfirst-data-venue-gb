@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860091,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:brand_id":1125149663,
     "wof:breaches":[],
@@ -49,14 +52,18 @@
     "wof:geomhash":"cb59a6e48f5d903e5cad7b2d13c2a1c6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860091,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":907314607
         }
     ],
     "wof:id":907314607,
-    "wof:lastmodified":1510877288,
+    "wof:lastmodified":1514002756,
     "wof:name":"Tangles",
     "wof:parent_id":85860091,
     "wof:placetype":"venue",

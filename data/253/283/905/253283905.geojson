@@ -31,9 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85791107,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,18 @@
     "wof:geomhash":"a4349deb01623ec6e8c48b1e98a15cf1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791107,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":253283905
         }
     ],
     "wof:id":253283905,
-    "wof:lastmodified":1496963367,
+    "wof:lastmodified":1513997259,
     "wof:name":"St Andrews Church",
     "wof:parent_id":85791107,
     "wof:placetype":"venue",

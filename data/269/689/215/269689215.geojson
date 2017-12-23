@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860183,
+        85860179,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684467
+        1158857269
     ],
     "wof:brand_id":1125150509,
     "wof:breaches":[],
@@ -45,18 +47,20 @@
     "wof:geomhash":"a1df85d895d158bf46f02fdc5dbb3b1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860183,
-            "region_id":85684467,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860179,
+            "region_id":-1,
             "venue_id":269689215
         }
     ],
     "wof:id":269689215,
-    "wof:lastmodified":1510876517,
+    "wof:lastmodified":1513980958,
     "wof:name":"Lighthouse Baptist Church",
-    "wof:parent_id":85860183,
+    "wof:parent_id":85860179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789715,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:brand_id":1125153961,
     "wof:breaches":[],
@@ -50,15 +52,18 @@
     "wof:geomhash":"3cd06930859c47efa7e8f03400eceb5a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789715,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":119320259
         }
     ],
     "wof:id":119320259,
-    "wof:lastmodified":1510698943,
+    "wof:lastmodified":1513979272,
     "wof:name":"Holland & Barrett Ltd",
     "wof:parent_id":85789715,
     "wof:placetype":"venue",

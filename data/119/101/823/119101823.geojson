@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85860175,
+        102191581,
         85633159,
-        85785657,
-        85684467
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +46,20 @@
     "wof:geomhash":"da883e9de52b6868b1b7455c16f402ac",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85785657,
-            "region_id":85684467,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860175,
+            "region_id":-1,
             "venue_id":119101823
         }
     ],
     "wof:id":119101823,
-    "wof:lastmodified":1496966813,
+    "wof:lastmodified":1513975500,
     "wof:name":"Hackneys",
-    "wof:parent_id":85785657,
+    "wof:parent_id":85860175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

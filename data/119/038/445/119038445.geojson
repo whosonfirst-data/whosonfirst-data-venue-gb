@@ -41,10 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789213,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,18 @@
     "wof:geomhash":"bfb1ea76a6fa8214c679aa8642892ebc",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789213,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":119038445
         }
     ],
     "wof:id":119038445,
-    "wof:lastmodified":1496967980,
+    "wof:lastmodified":1513973545,
     "wof:name":"Brian John Bandwagon Disco",
     "wof:parent_id":85789213,
     "wof:placetype":"venue",

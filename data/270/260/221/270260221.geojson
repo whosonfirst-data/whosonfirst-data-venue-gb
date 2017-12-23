@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861783,
+        85792067,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684597
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +50,21 @@
     "wof:geomhash":"a4ce4dc2d90ee1b994d86af5a13e9068",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861783,
-            "region_id":85684597,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792067,
+            "region_id":-1,
             "venue_id":270260221
         }
     ],
     "wof:id":270260221,
-    "wof:lastmodified":1496965065,
+    "wof:lastmodified":1513987680,
     "wof:name":"Office London",
-    "wof:parent_id":85861783,
+    "wof:parent_id":85792067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

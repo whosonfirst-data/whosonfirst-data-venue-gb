@@ -49,10 +49,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787621,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +64,18 @@
     "wof:geomhash":"5fa81cbf848381b5d8d961f231ce4169",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787621,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":118910087
         }
     ],
     "wof:id":118910087,
-    "wof:lastmodified":1496965448,
+    "wof:lastmodified":1514000464,
     "wof:name":"Drs Golden Blom Wolfman",
     "wof:parent_id":85787621,
     "wof:placetype":"venue",

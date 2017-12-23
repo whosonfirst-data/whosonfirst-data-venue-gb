@@ -31,13 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861753,
-        "102191581",
-        404435563,
-        "85633159",
+        85789041,
+        102191581,
+        1158859031,
+        85633159,
         404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:brand_id":420574657,
     "wof:breaches":[],
@@ -49,20 +49,21 @@
     "wof:geomhash":"7b8a284c00697c0f1ed2553dccaa12a8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857245,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
             "macroregion_id":404227469,
-            "neighbourhood_id":85861753,
-            "region_id":85684061,
+            "neighbourhood_id":85789041,
+            "region_id":-1,
             "venue_id":907959985
         }
     ],
     "wof:id":907959985,
-    "wof:lastmodified":1511324456,
+    "wof:lastmodified":1513979491,
     "wof:name":"Holiday Inn",
-    "wof:parent_id":85861753,
+    "wof:parent_id":85789041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

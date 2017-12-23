@@ -31,14 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789073,
-        "102191581",
-        404435563,
-        "85633159",
+        85791675,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85791675
+        1158857305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,30 +47,20 @@
     "wof:geomhash":"6b8a7989f6ae9c555ca7a8624fe04dd5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85789073,
-            "region_id":85684061,
-            "venue_id":907584893
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857305,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85791675,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907584893
         }
     ],
     "wof:id":907584893,
-    "wof:lastmodified":1496972022,
+    "wof:lastmodified":1513979700,
     "wof:name":"Old Rutlishians' Sports Ground Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85791675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

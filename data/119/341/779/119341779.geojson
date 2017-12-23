@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792251,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,18 @@
     "wof:geomhash":"a3ca2e7f84334b26bc6372472ce6f08e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792251,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":119341779
         }
     ],
     "wof:id":119341779,
-    "wof:lastmodified":1496967024,
+    "wof:lastmodified":1513997313,
     "wof:name":"Gallerie Veronique",
     "wof:parent_id":85792251,
     "wof:placetype":"venue",

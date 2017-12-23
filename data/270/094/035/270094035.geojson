@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860645,
+        85790809,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684533
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"936c8009388a448833996551386688fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860645,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790809,
+            "region_id":-1,
             "venue_id":270094035
         }
     ],
     "wof:id":270094035,
-    "wof:lastmodified":1496965054,
+    "wof:lastmodified":1513981103,
     "wof:name":"R Hassan",
-    "wof:parent_id":85860645,
+    "wof:parent_id":85790809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

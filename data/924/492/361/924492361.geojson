@@ -43,9 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787291,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +59,18 @@
     "wof:geomhash":"7dc655e0931fc8e7ec1eca43c45e8c4c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787291,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":924492361
         }
     ],
     "wof:id":924492361,
-    "wof:lastmodified":1496959379,
+    "wof:lastmodified":1513977341,
     "wof:name":"Lamba Motors",
     "wof:parent_id":85787291,
     "wof:placetype":"venue",

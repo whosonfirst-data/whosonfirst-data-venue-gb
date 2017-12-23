@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85789693,
+        102191581,
         85633159,
-        85792357,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +51,20 @@
     "wof:geomhash":"43377bb6f75c7f1b69cf3ef61ed62293",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792357,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789693,
+            "region_id":-1,
             "venue_id":119464433
         }
     ],
     "wof:id":119464433,
-    "wof:lastmodified":1510941893,
+    "wof:lastmodified":1513974676,
     "wof:name":"The Monkey Puzzle",
-    "wof:parent_id":85792357,
+    "wof:parent_id":85789693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

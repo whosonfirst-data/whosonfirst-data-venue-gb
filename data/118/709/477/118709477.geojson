@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85789465,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"f40f1a24cb8330b3bb49b43b1c945a80",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789465,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":118709477
         }
     ],
     "wof:id":118709477,
-    "wof:lastmodified":1496966295,
+    "wof:lastmodified":1513984849,
     "wof:name":"Top Meadow Golf Club",
     "wof:parent_id":85789465,
     "wof:placetype":"venue",

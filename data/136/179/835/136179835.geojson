@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792173,
-        85684597
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"7b49504e6e2cb78eda04033eb1745119",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792173,
-            "region_id":85684597,
+            "region_id":-1,
             "venue_id":136179835
         }
     ],
     "wof:id":136179835,
-    "wof:lastmodified":1496963906,
+    "wof:lastmodified":1513999108,
     "wof:name":"Textra House Ltd",
     "wof:parent_id":85792173,
     "wof:placetype":"venue",

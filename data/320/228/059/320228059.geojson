@@ -31,11 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85787245,
+        85790773,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684613,
-        85790773
+        1158857285,
+        85787245
     ],
     "wof:brand_id":1125151657,
     "wof:breaches":[],
@@ -46,26 +48,30 @@
     "wof:geomhash":"99405e51ebca2494bcee84406ab7e4ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85787245,
-            "region_id":85684613,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790773,
+            "region_id":-1,
             "venue_id":320228059
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85790773,
-            "region_id":85684613,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787245,
+            "region_id":-1,
             "venue_id":320228059
         }
     ],
     "wof:id":320228059,
-    "wof:lastmodified":1510695898,
+    "wof:lastmodified":1513977903,
     "wof:name":"Marks & Spencer Plc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

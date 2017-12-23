@@ -47,12 +47,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
-        85791765,
-        85684441,
         85860849,
-        85684217
+        102191581,
+        404437543,
+        85633159,
+        404227469,
+        85684217,
+        85791765,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,23 +65,30 @@
     "wof:geomhash":"c7a8aa4e196869e7bae3ae0f1fbefd08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85791765,
-            "region_id":85684441,
+            "localadmin_id":404437543,
+            "locality_id":-1,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860849,
+            "region_id":85684217,
             "venue_id":119459407
         },
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
-            "neighbourhood_id":85860849,
-            "region_id":85684217,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791765,
+            "region_id":-1,
             "venue_id":119459407
         }
     ],
     "wof:id":119459407,
-    "wof:lastmodified":1496968010,
+    "wof:lastmodified":1513994798,
     "wof:name":"STUART M MARHEINEKE",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

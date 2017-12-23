@@ -35,12 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
-        85790327,
-        85683683,
         85792171,
-        85684071
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +50,20 @@
     "wof:geomhash":"0a5dff3156fed7da89e4232fb0f4278b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85790327,
-            "region_id":85683683,
-            "venue_id":119218477
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792171,
-            "region_id":85684071,
+            "region_id":-1,
             "venue_id":119218477
         }
     ],
     "wof:id":119218477,
-    "wof:lastmodified":1496966892,
+    "wof:lastmodified":1513997911,
     "wof:name":"Copypoint Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85792171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

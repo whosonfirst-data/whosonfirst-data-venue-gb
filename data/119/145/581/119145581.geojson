@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792357,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"0c8c147f36500dc602ffc321a6908841",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792357,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":119145581
         }
     ],
     "wof:id":119145581,
-    "wof:lastmodified":1496968076,
+    "wof:lastmodified":1513998149,
     "wof:name":"Hi-Way Hi-Fi Ltd.",
     "wof:parent_id":85792357,
     "wof:placetype":"venue",

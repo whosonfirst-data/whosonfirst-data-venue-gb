@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860151,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"02b61057f8bc115dc8a4d72649d74686",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860151,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":135321811
         }
     ],
     "wof:id":135321811,
-    "wof:lastmodified":1496960918,
+    "wof:lastmodified":1513989115,
     "wof:name":"The Modern Salvage Co.",
     "wof:parent_id":85860151,
     "wof:placetype":"venue",

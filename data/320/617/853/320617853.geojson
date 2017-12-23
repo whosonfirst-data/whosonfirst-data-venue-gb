@@ -35,12 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861639,
+        85792171,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684081,
-        85790327,
-        85683683
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +50,20 @@
     "wof:geomhash":"f4936610690252430ded7c506182b857",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861639,
-            "region_id":85684081,
-            "venue_id":320617853
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85790327,
-            "region_id":85683683,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792171,
+            "region_id":-1,
             "venue_id":320617853
         }
     ],
     "wof:id":320617853,
-    "wof:lastmodified":1496962787,
+    "wof:lastmodified":1514001153,
     "wof:name":"The Windmill",
-    "wof:parent_id":-1,
+    "wof:parent_id":85792171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

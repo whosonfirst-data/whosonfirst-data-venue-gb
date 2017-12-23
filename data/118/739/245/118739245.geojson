@@ -36,13 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785843,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85790643
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,30 +50,20 @@
     "wof:geomhash":"ac0f43c9343fe3c1bc5835a06a9cb4db",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857277,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85785843,
-            "region_id":85684061,
-            "venue_id":118739245
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85790643,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":118739245
         }
     ],
     "wof:id":118739245,
-    "wof:lastmodified":1496965715,
+    "wof:lastmodified":1513996403,
     "wof:name":"The Friend At Hand",
-    "wof:parent_id":-3,
+    "wof:parent_id":85785843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

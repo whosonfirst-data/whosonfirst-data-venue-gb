@@ -34,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860157,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684273,
+        1158857287,
         85791309
     ],
     "wof:breaches":[],
@@ -47,26 +49,30 @@
     "wof:geomhash":"4114de4101bad391b40662f030751534",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860157,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":320632811
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791309,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":320632811
         }
     ],
     "wof:id":320632811,
-    "wof:lastmodified":1496962806,
+    "wof:lastmodified":1513982163,
     "wof:name":"Grange Park Investments Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

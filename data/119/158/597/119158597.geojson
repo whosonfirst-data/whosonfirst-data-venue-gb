@@ -33,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158860465,
+        102191581,
+        1158860453,
         85633159,
-        85790283,
-        85684299
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,21 @@
     "wof:geomhash":"66269614a09f3fe0d55ac7dd729beb07",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85790283,
-            "region_id":85684299,
+            "macrohood_id":1158860453,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158860465,
+            "region_id":-1,
             "venue_id":119158597
         }
     ],
     "wof:id":119158597,
-    "wof:lastmodified":1496967581,
+    "wof:lastmodified":1513995942,
     "wof:name":"Get Going Ventures Ltd",
-    "wof:parent_id":85790283,
+    "wof:parent_id":1158860465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

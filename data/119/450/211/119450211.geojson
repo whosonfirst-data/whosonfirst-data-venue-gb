@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786429,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:brand_id":1125157341,
     "wof:breaches":[],
@@ -49,15 +51,18 @@
     "wof:geomhash":"31c3b443df820ba80dd9161a83656c85",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786429,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":119450211
         }
     ],
     "wof:id":119450211,
-    "wof:lastmodified":1510699579,
+    "wof:lastmodified":1513988032,
     "wof:name":"Bristol & West Plc",
     "wof:parent_id":85786429,
     "wof:placetype":"venue",

@@ -35,14 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786907,
-        "102191581",
-        404435563,
-        "85633159",
+        85785229,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85785229
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,30 +51,20 @@
     "wof:geomhash":"eb1478d18da3003a05a349545bba4e93",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85786907,
-            "region_id":85684061,
-            "venue_id":907854405
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857301,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85785229,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907854405
         }
     ],
     "wof:id":907854405,
-    "wof:lastmodified":1496972855,
+    "wof:lastmodified":1513983788,
     "wof:name":"Savill Fabrications Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85785229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

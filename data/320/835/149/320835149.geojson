@@ -35,10 +35,12 @@
     "sg:website":"http://www.mca.gov.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866379,
+        85792135,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684533
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +50,20 @@
     "wof:geomhash":"d9b1bb7e1125491fdecae0ee0f0d10b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85866379,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792135,
+            "region_id":-1,
             "venue_id":320835149
         }
     ],
     "wof:id":320835149,
-    "wof:lastmodified":1496962537,
+    "wof:lastmodified":1513982158,
     "wof:name":"M H R A",
-    "wof:parent_id":85866379,
+    "wof:parent_id":85792135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

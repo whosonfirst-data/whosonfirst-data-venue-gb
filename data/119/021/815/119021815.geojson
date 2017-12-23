@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792317,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"9ab7a99d72c4d2e0fe1f7d87ee1e5fc7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792317,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":119021815
         }
     ],
     "wof:id":119021815,
-    "wof:lastmodified":1496967548,
+    "wof:lastmodified":1513984365,
     "wof:name":"Vantage Chemist",
     "wof:parent_id":85792317,
     "wof:placetype":"venue",

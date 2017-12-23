@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789259,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"bb38aa2756542123dda40617e3fd42d9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789259,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":118704967
         }
     ],
     "wof:id":118704967,
-    "wof:lastmodified":1496965988,
+    "wof:lastmodified":1513990025,
     "wof:name":"D Ayres",
     "wof:parent_id":85789259,
     "wof:placetype":"venue",

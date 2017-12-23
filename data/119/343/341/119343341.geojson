@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860457,
-        85684597
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"1754944d3939aeadf9d110a27d9e236c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860457,
-            "region_id":85684597,
+            "region_id":-1,
             "venue_id":119343341
         }
     ],
     "wof:id":119343341,
-    "wof:lastmodified":1496966983,
+    "wof:lastmodified":1513982188,
     "wof:name":"St. Martins C.E Church",
     "wof:parent_id":85860457,
     "wof:placetype":"venue",

@@ -41,9 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787755,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +57,18 @@
     "wof:geomhash":"046e7cb9d723d7045458c5dec9a9eba8",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787755,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":924250809
         }
     ],
     "wof:id":924250809,
-    "wof:lastmodified":1496951824,
+    "wof:lastmodified":1513979709,
     "wof:name":"Park Gate Roofing Supplies",
     "wof:parent_id":85787755,
     "wof:placetype":"venue",

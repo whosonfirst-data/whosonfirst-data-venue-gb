@@ -35,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158859095,
+        85792067,
+        102191581,
+        1158859031,
         85633159,
-        85861759,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,22 @@
     "wof:geomhash":"b21551810d5bb8b29b72de3b81ee39a2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861759,
-            "region_id":85684061,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "microhood_id":1158859095,
+            "neighbourhood_id":85792067,
+            "region_id":-1,
             "venue_id":102724231
         }
     ],
     "wof:id":102724231,
-    "wof:lastmodified":1496968834,
+    "wof:lastmodified":1514000112,
     "wof:name":"Larry Dalzell Associates Ltd",
-    "wof:parent_id":85861759,
+    "wof:parent_id":1158859095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

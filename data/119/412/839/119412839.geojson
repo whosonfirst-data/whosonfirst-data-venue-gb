@@ -31,14 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865129,
-        "102191581",
-        404435563,
-        "85633159",
+        85791751,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85791751
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,30 +46,20 @@
     "wof:geomhash":"d9f1bb81c8b3ae2cc371663716eb1ebd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85865129,
-            "region_id":85684061,
-            "venue_id":119412839
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857279,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85791751,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":119412839
         }
     ],
     "wof:id":119412839,
-    "wof:lastmodified":1496967489,
+    "wof:lastmodified":1513995402,
     "wof:name":"C & M Marshall",
-    "wof:parent_id":-3,
+    "wof:parent_id":85791751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

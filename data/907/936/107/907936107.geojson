@@ -43,12 +43,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792177,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        1158860449,
+        85633159,
         404227469,
         101750367,
-        85684061
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,18 +59,19 @@
     "wof:geomhash":"72db3b52eb08ecb4293e328965a7aa41",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857315,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158860449,
             "macroregion_id":404227469,
             "neighbourhood_id":85792177,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907936107
         }
     ],
     "wof:id":907936107,
-    "wof:lastmodified":1496970352,
+    "wof:lastmodified":1513979657,
     "wof:name":"Kebab Hamburger Bar",
     "wof:parent_id":85792177,
     "wof:placetype":"venue",

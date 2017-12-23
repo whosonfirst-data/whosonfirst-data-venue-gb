@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861745,
-        85684081
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857257
     ],
     "wof:brand_id":420575213,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"db2bb7cbe618342d19ab20db9eecc25e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861745,
-            "region_id":85684081,
+            "region_id":-1,
             "venue_id":135320783
         }
     ],
     "wof:id":135320783,
-    "wof:lastmodified":1496961372,
+    "wof:lastmodified":1513989128,
     "wof:name":"H Samuel",
     "wof:parent_id":85861745,
     "wof:placetype":"venue",

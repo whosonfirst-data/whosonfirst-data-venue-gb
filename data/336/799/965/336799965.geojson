@@ -31,10 +31,13 @@
     "sg:province":"Hampshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861771,
+        85861697,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684597
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     "wof:geomhash":"2f66163ff50b0e2d7a60985afb200c63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861771,
-            "region_id":85684597,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861697,
+            "region_id":-1,
             "venue_id":336799965
         }
     ],
     "wof:id":336799965,
-    "wof:lastmodified":1496968355,
+    "wof:lastmodified":1513977746,
     "wof:name":"Legge Somerville-large",
-    "wof:parent_id":85861771,
+    "wof:parent_id":85861697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

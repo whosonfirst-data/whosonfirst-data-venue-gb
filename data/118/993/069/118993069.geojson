@@ -39,10 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101914071,
-        85633159,
         85860817,
-        85684417
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,18 @@
     "wof:geomhash":"eff41cfb54b02fa93796c4b28914c25f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
-            "locality_id":101914071,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860817,
-            "region_id":85684417,
+            "region_id":-1,
             "venue_id":118993069
         }
     ],
     "wof:id":118993069,
-    "wof:lastmodified":1496965490,
+    "wof:lastmodified":1513995551,
     "wof:name":"Patrick Realls",
     "wof:parent_id":85860817,
     "wof:placetype":"venue",

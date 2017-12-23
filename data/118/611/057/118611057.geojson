@@ -36,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790639,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +52,19 @@
     "wof:geomhash":"9f35580f9262116be15be9817b76eaff",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790639,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":118611057
         }
     ],
     "wof:id":118611057,
-    "wof:lastmodified":1496965396,
+    "wof:lastmodified":1513976257,
     "wof:name":"Eger Landscapes",
     "wof:parent_id":85790639,
     "wof:placetype":"venue",

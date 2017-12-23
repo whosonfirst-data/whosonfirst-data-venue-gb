@@ -42,10 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860609,
-        85683649
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,18 @@
     "wof:geomhash":"857678190b18583a76d34450801965ea",
     "wof:hierarchy":[
         {
+            "borough_id":1158857303,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860609,
-            "region_id":85683649,
+            "region_id":-1,
             "venue_id":119074111
         }
     ],
     "wof:id":119074111,
-    "wof:lastmodified":1496967904,
+    "wof:lastmodified":1513999176,
     "wof:name":"Kitchen Installations",
     "wof:parent_id":85860609,
     "wof:placetype":"venue",

@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860161,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,18 @@
     "wof:geomhash":"e62b68c2e54fc93f7f6f59dd47c27568",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860161,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":119198213
         }
     ],
     "wof:id":119198213,
-    "wof:lastmodified":1496967870,
+    "wof:lastmodified":1513997562,
     "wof:name":"Quality in Focus Educational Programme",
     "wof:parent_id":85860161,
     "wof:placetype":"venue",

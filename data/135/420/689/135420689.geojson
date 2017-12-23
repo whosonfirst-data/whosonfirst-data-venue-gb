@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790435,
-        85683765,
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263,
         85859969
     ],
     "wof:breaches":[],
@@ -48,24 +50,30 @@
     "wof:geomhash":"342c9ef01f8e578a9e9909e6328f39e0",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790435,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":135420689
         },
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85859969,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":135420689
         }
     ],
     "wof:id":135420689,
-    "wof:lastmodified":1496961088,
+    "wof:lastmodified":1513983013,
     "wof:name":"Roberts & Roberts",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -36,10 +36,12 @@
     "sg:website":"http://www.greggs.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790801,
-        85684411
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857293
     ],
     "wof:brand_id":1125155757,
     "wof:breaches":[],
@@ -50,15 +52,18 @@
     "wof:geomhash":"4aded0aa716ec4d11aac801957e8386b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790801,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":118582789
         }
     ],
     "wof:id":118582789,
-    "wof:lastmodified":1510613241,
+    "wof:lastmodified":1513986717,
     "wof:name":"Greggs Plc",
     "wof:parent_id":85790801,
     "wof:placetype":"venue",

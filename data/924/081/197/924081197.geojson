@@ -31,14 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897741,
-        "102191581",
-        404435563,
-        "85633159",
+        85790545,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85790545
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,30 +47,20 @@
     "wof:geomhash":"e01b5535a7d085568e6e17efdcc5333f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85897741,
-            "region_id":85684061,
-            "venue_id":924081197
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857269,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85790545,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":924081197
         }
     ],
     "wof:id":924081197,
-    "wof:lastmodified":1496946852,
+    "wof:lastmodified":1514002637,
     "wof:name":"Baker Allen Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85790545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

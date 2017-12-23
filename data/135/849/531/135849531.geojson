@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789245,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +47,18 @@
     "wof:geomhash":"b4defe9bb49a9fa43ba2fecaa7a3093f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789245,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":135849531
         }
     ],
     "wof:id":135849531,
-    "wof:lastmodified":1501088787,
+    "wof:lastmodified":1513990108,
     "wof:name":"Travelwise Ltd.",
     "wof:parent_id":85789245,
     "wof:placetype":"venue",

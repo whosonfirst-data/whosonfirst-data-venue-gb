@@ -31,14 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786511,
-        "102191581",
-        404435563,
-        "85633159",
+        85791457,
+        102191581,
+        1158859439,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85861715
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,30 +48,21 @@
     "wof:geomhash":"f275b19c12c72d6043c44b9086189326",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857317,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859439,
             "macroregion_id":404227469,
-            "neighbourhood_id":85786511,
-            "region_id":85684061,
-            "venue_id":907443139
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85861715,
-            "region_id":85684061,
+            "neighbourhood_id":85791457,
+            "region_id":-1,
             "venue_id":907443139
         }
     ],
     "wof:id":907443139,
-    "wof:lastmodified":1496971567,
+    "wof:lastmodified":1513994898,
     "wof:name":"Reinhardt Books Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85791457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

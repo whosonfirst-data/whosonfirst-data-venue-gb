@@ -33,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158859087,
+        85861715,
+        102191581,
         85633159,
-        85861643,
-        85684061
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,21 @@
     "wof:geomhash":"0f741c1a6e52542e61225f30f4751ba8",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861643,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "microhood_id":1158859087,
+            "neighbourhood_id":85861715,
+            "region_id":-1,
             "venue_id":135420789
         }
     ],
     "wof:id":135420789,
-    "wof:lastmodified":1496961088,
+    "wof:lastmodified":1513984308,
     "wof:name":"Tunstill & Co",
-    "wof:parent_id":85861643,
+    "wof:parent_id":1158859087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

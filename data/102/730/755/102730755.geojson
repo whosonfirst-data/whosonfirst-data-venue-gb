@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860215,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"940d61428913852fee9c3d5ef5f234f9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860215,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":102730755
         }
     ],
     "wof:id":102730755,
-    "wof:lastmodified":1496968872,
+    "wof:lastmodified":1513988828,
     "wof:name":"Haven Care",
     "wof:parent_id":85860215,
     "wof:placetype":"venue",

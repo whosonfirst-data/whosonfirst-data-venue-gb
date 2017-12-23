@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790613,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"e68f67b9900e0811a88124fff7b41335",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790613,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":136225463
         }
     ],
     "wof:id":136225463,
-    "wof:lastmodified":1496963642,
+    "wof:lastmodified":1513998634,
     "wof:name":"le Connaisseur Two",
     "wof:parent_id":85790613,
     "wof:placetype":"venue",

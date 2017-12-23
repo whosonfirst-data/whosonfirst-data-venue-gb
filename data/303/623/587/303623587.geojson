@@ -35,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789813,
+        85860247,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683679,
-        85860247
+        1158857265,
+        85789813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +51,30 @@
     "wof:geomhash":"0ae94e0ab61ce8c1edda173cea98d754",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789813,
-            "region_id":85683679,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860247,
+            "region_id":-1,
             "venue_id":303623587
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860247,
-            "region_id":85683679,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789813,
+            "region_id":-1,
             "venue_id":303623587
         }
     ],
     "wof:id":303623587,
-    "wof:lastmodified":1496937416,
+    "wof:lastmodified":1513999515,
     "wof:name":"Magnolia Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

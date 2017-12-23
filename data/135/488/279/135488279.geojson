@@ -31,10 +31,13 @@
     "sg:province":"Hampshire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861659,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +47,19 @@
     "wof:geomhash":"ce7773ff724fdd4e884b4fdb56fdf727",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861659,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":135488279
         }
     ],
     "wof:id":135488279,
-    "wof:lastmodified":1496961711,
+    "wof:lastmodified":1513981255,
     "wof:name":"Wong Kei Restaurant",
     "wof:parent_id":85861659,
     "wof:placetype":"venue",

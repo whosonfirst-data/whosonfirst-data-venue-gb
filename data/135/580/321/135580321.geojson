@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792371,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"fa51206c325434b9e1b95808d5a3251f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792371,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":135580321
         }
     ],
     "wof:id":135580321,
-    "wof:lastmodified":1496961026,
+    "wof:lastmodified":1513996160,
     "wof:name":"Baker Ken",
     "wof:parent_id":85792371,
     "wof:placetype":"venue",

@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85789283,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"a358e8e704b45a858617f3281fdfa5e1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789283,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":269758333
         }
     ],
     "wof:id":269758333,
-    "wof:lastmodified":1496964713,
+    "wof:lastmodified":1513986585,
     "wof:name":"Fingers Charcoal Delight",
     "wof:parent_id":85789283,
     "wof:placetype":"venue",

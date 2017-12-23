@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790091,
-        85684289
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:brand_id":1125153841,
     "wof:breaches":[],
@@ -47,15 +49,18 @@
     "wof:geomhash":"b5201c7460dcd281710ad54d672e4fb6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790091,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":135811279
         }
     ],
     "wof:id":135811279,
-    "wof:lastmodified":1511318108,
+    "wof:lastmodified":1513995655,
     "wof:name":"Arco",
     "wof:parent_id":85790091,
     "wof:placetype":"venue",

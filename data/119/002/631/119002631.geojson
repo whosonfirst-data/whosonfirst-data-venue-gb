@@ -40,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861697,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +56,19 @@
     "wof:geomhash":"74dcab79ae7d53c294302e72d41d3ddf",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861697,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":119002631
         }
     ],
     "wof:id":119002631,
-    "wof:lastmodified":1496967109,
+    "wof:lastmodified":1513990990,
     "wof:name":"S J T & Associates",
     "wof:parent_id":85861697,
     "wof:placetype":"venue",

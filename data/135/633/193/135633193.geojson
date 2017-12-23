@@ -34,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85860743,
+        102191581,
         85633159,
-        85792277,
-        85683679,
-        85860743
+        404227469,
+        101750367,
+        1158857265,
+        85792277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +50,30 @@
     "wof:geomhash":"fc08d96c89b0df73d154a001871dbe4c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792277,
-            "region_id":85683679,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860743,
+            "region_id":-1,
             "venue_id":135633193
         },
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860743,
-            "region_id":85683679,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792277,
+            "region_id":-1,
             "venue_id":135633193
         }
     ],
     "wof:id":135633193,
-    "wof:lastmodified":1496961523,
+    "wof:lastmodified":1513999573,
     "wof:name":"Chaucer Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

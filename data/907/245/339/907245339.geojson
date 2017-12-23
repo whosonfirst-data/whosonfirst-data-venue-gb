@@ -30,14 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860735,
-        "102191581",
-        404435563,
-        "85633159",
+        85793295,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85793295
+        1158857259,
+        85860735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +47,28 @@
     "wof:geomhash":"8a7fa16354fc83b2a97bfa70a66bf1df",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85860735,
-            "region_id":85684061,
-            "venue_id":907245339
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857259,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85793295,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":907245339
+        },
+        {
+            "borough_id":1158857259,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860735,
+            "region_id":-1,
             "venue_id":907245339
         }
     ],
     "wof:id":907245339,
-    "wof:lastmodified":1496971390,
+    "wof:lastmodified":1513989343,
     "wof:name":"Testbusters",
     "wof:parent_id":-3,
     "wof:placetype":"venue",

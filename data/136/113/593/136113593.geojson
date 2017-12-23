@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791523,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"03e33d933e6636a14601c1ff6a62e1f1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791523,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":136113593
         }
     ],
     "wof:id":136113593,
-    "wof:lastmodified":1496963838,
+    "wof:lastmodified":1513999832,
     "wof:name":"Wavertree Court Garage Ltd.",
     "wof:parent_id":85791523,
     "wof:placetype":"venue",

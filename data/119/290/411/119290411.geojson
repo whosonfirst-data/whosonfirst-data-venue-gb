@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786877,
-        85684331
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"f51a8e6d3469251f46175690aaed1405",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786877,
-            "region_id":85684331,
+            "region_id":-1,
             "venue_id":119290411
         }
     ],
     "wof:id":119290411,
-    "wof:lastmodified":1496967046,
+    "wof:lastmodified":1513998943,
     "wof:name":"Whitewebbs House Brewers Fayre",
     "wof:parent_id":85786877,
     "wof:placetype":"venue",

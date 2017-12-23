@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860553,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"73e29d6c93bfa81cdbcd94d8717d980a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860553,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":119090189
         }
     ],
     "wof:id":119090189,
-    "wof:lastmodified":1496967278,
+    "wof:lastmodified":1513986292,
     "wof:name":"Elite Dry Cleaners",
     "wof:parent_id":85860553,
     "wof:placetype":"venue",

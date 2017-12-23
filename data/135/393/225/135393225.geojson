@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861689,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:brand_id":1125153789,
     "wof:breaches":[],
@@ -50,15 +52,18 @@
     "wof:geomhash":"f14a609484e8722f4b49bf7d7f91f0e7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861689,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":135393225
         }
     ],
     "wof:id":135393225,
-    "wof:lastmodified":1510696827,
+    "wof:lastmodified":1514001064,
     "wof:name":"Mencap",
     "wof:parent_id":85861689,
     "wof:placetype":"venue",

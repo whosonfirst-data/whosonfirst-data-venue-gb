@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787977,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:brand_id":1125154075,
     "wof:breaches":[],
@@ -49,14 +52,18 @@
     "wof:geomhash":"545331255e7bf3995cc6786ba6ef5d0d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787977,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":907865909
         }
     ],
     "wof:id":907865909,
-    "wof:lastmodified":1510697256,
+    "wof:lastmodified":1513979411,
     "wof:name":"Punch Inns (U K) Ltd",
     "wof:parent_id":85787977,
     "wof:placetype":"venue",

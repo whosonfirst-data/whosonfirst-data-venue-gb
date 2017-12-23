@@ -35,13 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785641,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85793299
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,30 +50,20 @@
     "wof:geomhash":"836862fa531c9e042ab373d0d92977ef",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857247,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85785641,
-            "region_id":85684061,
-            "venue_id":907918379
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85793299,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907918379
         }
     ],
     "wof:id":907918379,
-    "wof:lastmodified":1496971642,
+    "wof:lastmodified":1513973945,
     "wof:name":"St.Michaels R C Secondary School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85785641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

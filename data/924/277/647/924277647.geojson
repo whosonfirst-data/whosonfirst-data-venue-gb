@@ -36,9 +36,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85792261,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,18 @@
     "wof:geomhash":"a68b832e27d79777075f3bd6394fb0de",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792261,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":924277647
         }
     ],
     "wof:id":924277647,
-    "wof:lastmodified":1496951866,
+    "wof:lastmodified":1513987866,
     "wof:name":"Absolute Home Security",
     "wof:parent_id":85792261,
     "wof:placetype":"venue",

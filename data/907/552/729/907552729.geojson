@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85790317,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"6c443a6be8297edb21773c9402df765d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790317,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":907552729
         }
     ],
     "wof:id":907552729,
-    "wof:lastmodified":1496972217,
+    "wof:lastmodified":1513979465,
     "wof:name":"Coloma Convent School",
     "wof:parent_id":85790317,
     "wof:placetype":"venue",

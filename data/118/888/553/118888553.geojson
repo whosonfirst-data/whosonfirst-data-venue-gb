@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790893,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"8b0c4d4708e152fdb5b2cab5cb951a32",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790893,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":118888553
         }
     ],
     "wof:id":118888553,
-    "wof:lastmodified":1496965472,
+    "wof:lastmodified":1513988238,
     "wof:name":"Old Function Photographic Services Ltd.",
     "wof:parent_id":85790893,
     "wof:placetype":"venue",

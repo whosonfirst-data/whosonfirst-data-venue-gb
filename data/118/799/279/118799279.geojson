@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789175,
-        85684099
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"2ad2cf2e91ff7c252731a12bd6d6c807",
     "wof:hierarchy":[
         {
+            "borough_id":1158857305,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789175,
-            "region_id":85684099,
+            "region_id":-1,
             "venue_id":118799279
         }
     ],
     "wof:id":118799279,
-    "wof:lastmodified":1496965483,
+    "wof:lastmodified":1513977982,
     "wof:name":"James O'Neill",
     "wof:parent_id":85789175,
     "wof:placetype":"venue",

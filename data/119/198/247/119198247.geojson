@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860161,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:brand_id":1125162659,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"7daf52bff08d9f3ae03848fde44553eb",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860161,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":119198247
         }
     ],
     "wof:id":119198247,
-    "wof:lastmodified":1511317522,
+    "wof:lastmodified":1514001713,
     "wof:name":"Harveys",
     "wof:parent_id":85860161,
     "wof:placetype":"venue",

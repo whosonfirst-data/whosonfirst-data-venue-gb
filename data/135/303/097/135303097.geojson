@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791099,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:brand_id":1125152061,
     "wof:breaches":[],
@@ -49,15 +51,18 @@
     "wof:geomhash":"3c88cc297ec5e2f0ec152363ca485701",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791099,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":135303097
         }
     ],
     "wof:id":135303097,
-    "wof:lastmodified":1511317199,
+    "wof:lastmodified":1513981565,
     "wof:name":"Punch Retail Ltd.",
     "wof:parent_id":85791099,
     "wof:placetype":"venue",

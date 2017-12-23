@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790445,
-        85683667
+        102191581,
+        1158859439,
+        85633159,
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,19 @@
     "wof:geomhash":"c3723a93f9177739f0feb957a4f0872e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859439,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790445,
-            "region_id":85683667,
+            "region_id":-1,
             "venue_id":135656579
         }
     ],
     "wof:id":135656579,
-    "wof:lastmodified":1496961196,
+    "wof:lastmodified":1513984260,
     "wof:name":"The Stanhope Arms",
     "wof:parent_id":85790445,
     "wof:placetype":"venue",

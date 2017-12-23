@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861697,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,19 @@
     "wof:geomhash":"1bc9c6bbc090cd43d8de26b2c6ec1cf0",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861697,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":136210483
         }
     ],
     "wof:id":136210483,
-    "wof:lastmodified":1496963731,
+    "wof:lastmodified":1514000241,
     "wof:name":"Satfa (Support Around Termination for Abnormality)",
     "wof:parent_id":85861697,
     "wof:placetype":"venue",

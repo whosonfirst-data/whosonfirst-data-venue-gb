@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860725,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"be47dffdeed44b075db92093059e022c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860725,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":136220975
         }
     ],
     "wof:id":136220975,
-    "wof:lastmodified":1496963736,
+    "wof:lastmodified":1513996256,
     "wof:name":"Woodcote Financial Services",
     "wof:parent_id":85860725,
     "wof:placetype":"venue",

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860029,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"8832155cc1f4f787a94ae591e3aa7e7e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860029,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":135412177
         }
     ],
     "wof:id":135412177,
-    "wof:lastmodified":1496961659,
+    "wof:lastmodified":1514000446,
     "wof:name":"Black Horse",
     "wof:parent_id":85860029,
     "wof:placetype":"venue",

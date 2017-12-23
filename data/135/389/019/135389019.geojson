@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861819,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:brand_id":420575007,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"c9af8ae5b447a49e0761feea2cf7d671",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861819,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":135389019
         }
     ],
     "wof:id":135389019,
-    "wof:lastmodified":1496961833,
+    "wof:lastmodified":1513981620,
     "wof:name":"Dolcis",
     "wof:parent_id":85861819,
     "wof:placetype":"venue",

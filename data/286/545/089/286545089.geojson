@@ -36,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860255,
+        85787977,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683765,
-        85787977
+        1158857263,
+        85860255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +52,30 @@
     "wof:geomhash":"3d57c183c196b11dc116e09346d8509c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860255,
-            "region_id":85683765,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787977,
+            "region_id":-1,
             "venue_id":286545089
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85787977,
-            "region_id":85683765,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860255,
+            "region_id":-1,
             "venue_id":286545089
         }
     ],
     "wof:id":286545089,
-    "wof:lastmodified":1496940642,
+    "wof:lastmodified":1513985382,
     "wof:name":"V N Electrical",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

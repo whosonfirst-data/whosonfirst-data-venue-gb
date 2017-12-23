@@ -32,10 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785229,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684009,
-        85786907
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,26 +46,20 @@
     "wof:geomhash":"b3e247f477e87813947d6de728120f14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785229,
-            "region_id":85684009,
-            "venue_id":219184259
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85786907,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":219184259
         }
     ],
     "wof:id":219184259,
-    "wof:lastmodified":1496966514,
+    "wof:lastmodified":1513998665,
     "wof:name":"Dr V T Rhaasa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85785229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

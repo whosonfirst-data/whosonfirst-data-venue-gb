@@ -35,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85786819,
+        102191581,
         85633159,
-        85683711,
+        404227469,
+        101750367,
+        1158857261,
         85789325,
+        404448513,
         85684231
     ],
     "wof:breaches":[],
@@ -48,26 +52,30 @@
     "wof:geomhash":"97f58bf9426254669b2e25b6ba97c5af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
-            "locality_id":-1,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786819,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":303314599
         },
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633159,
+            "localadmin_id":404448513,
             "locality_id":-1,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789325,
             "region_id":85684231,
             "venue_id":303314599
         }
     ],
     "wof:id":303314599,
-    "wof:lastmodified":1496937180,
+    "wof:lastmodified":1513989012,
     "wof:name":"Vernon Charles",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

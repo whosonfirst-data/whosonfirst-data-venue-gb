@@ -36,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785689,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,18 @@
     "wof:geomhash":"933b97fe824b6e1ca7c685703a180d5e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785689,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":119184103
         }
     ],
     "wof:id":119184103,
-    "wof:lastmodified":1496967527,
+    "wof:lastmodified":1513973320,
     "wof:name":"Jeanette's Hobby Ceramics",
     "wof:parent_id":85785689,
     "wof:placetype":"venue",

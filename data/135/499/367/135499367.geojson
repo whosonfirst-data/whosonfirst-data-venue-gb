@@ -40,10 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786855,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,18 @@
     "wof:geomhash":"f589c96d0e73b7546aa8e9ee3d208722",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786855,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":135499367
         }
     ],
     "wof:id":135499367,
-    "wof:lastmodified":1496961818,
+    "wof:lastmodified":1513987329,
     "wof:name":"Allport Freight",
     "wof:parent_id":85786855,
     "wof:placetype":"venue",

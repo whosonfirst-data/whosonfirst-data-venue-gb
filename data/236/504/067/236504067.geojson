@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158859473,
         85792129,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:brand_id":1125157259,
     "wof:breaches":[],
@@ -45,18 +48,21 @@
     "wof:geomhash":"c8c0f0b215c11316db3b8c03d52a8354",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
+            "microhood_id":1158859473,
             "neighbourhood_id":85792129,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":236504067
         }
     ],
     "wof:id":236504067,
-    "wof:lastmodified":1511317392,
+    "wof:lastmodified":1513989955,
     "wof:name":"St Marys Church",
-    "wof:parent_id":85792129,
+    "wof:parent_id":1158859473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

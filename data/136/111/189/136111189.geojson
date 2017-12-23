@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792069,
-        85684613,
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285,
         85788129
     ],
     "wof:breaches":[],
@@ -49,24 +51,30 @@
     "wof:geomhash":"7626bbc0e0f8d1eb98f8bed401cd512b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792069,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":136111189
         },
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788129,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":136111189
         }
     ],
     "wof:id":136111189,
-    "wof:lastmodified":1496963951,
+    "wof:lastmodified":1514000154,
     "wof:name":"Core Clothing Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786593,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:brand_id":420574925,
     "wof:breaches":[],
@@ -49,14 +52,18 @@
     "wof:geomhash":"c19ddcccb3a7e033b1af1074e5407132",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786593,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":924759763
         }
     ],
     "wof:id":924759763,
-    "wof:lastmodified":1511324269,
+    "wof:lastmodified":1513993742,
     "wof:name":"The Royal Oak",
     "wof:parent_id":85786593,
     "wof:placetype":"venue",

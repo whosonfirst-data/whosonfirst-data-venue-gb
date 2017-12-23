@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792333,
-        85684099
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,18 @@
     "wof:geomhash":"485df0ff3c957d93c5b235a74d6adafb",
     "wof:hierarchy":[
         {
+            "borough_id":1158857305,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792333,
-            "region_id":85684099,
+            "region_id":-1,
             "venue_id":118497525
         }
     ],
     "wof:id":118497525,
-    "wof:lastmodified":1496965408,
+    "wof:lastmodified":1513999414,
     "wof:name":"The G Force Partnership Ltd.",
     "wof:parent_id":85792333,
     "wof:placetype":"venue",

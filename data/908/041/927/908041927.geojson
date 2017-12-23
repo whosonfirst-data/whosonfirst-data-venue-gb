@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85789283,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"0d0a7536d8a67140ce73013dc62d21b6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789283,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":908041927
         }
     ],
     "wof:id":908041927,
-    "wof:lastmodified":1496942774,
+    "wof:lastmodified":1513981822,
     "wof:name":"Tote Sport",
     "wof:parent_id":85789283,
     "wof:placetype":"venue",

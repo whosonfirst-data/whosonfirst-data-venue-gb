@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786805,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,19 @@
     "wof:geomhash":"390629f53b55ecd96ede3d27c3a312d0",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786805,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":119520291
         }
     ],
     "wof:id":119520291,
-    "wof:lastmodified":1496968056,
+    "wof:lastmodified":1513983267,
     "wof:name":"Poster Shop The",
     "wof:parent_id":85786805,
     "wof:placetype":"venue",

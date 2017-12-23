@@ -37,13 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861815,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85786805
+        1158857245
     ],
     "wof:brand_id":1125157165,
     "wof:breaches":[],
@@ -55,30 +53,20 @@
     "wof:geomhash":"cbf9a9d44de863dcbd99c028210a0a61",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857245,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85861815,
-            "region_id":85684061,
-            "venue_id":907534623
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85786805,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907534623
         }
     ],
     "wof:id":907534623,
-    "wof:lastmodified":1510695798,
+    "wof:lastmodified":1513993483,
     "wof:name":"First Quench Retailing Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85861815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

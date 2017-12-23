@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792069,
-        85684613,
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285,
         85860427
     ],
     "wof:breaches":[],
@@ -48,24 +50,30 @@
     "wof:geomhash":"c9430327ac692890e8ffbf43785c8aef",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792069,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":135839165
         },
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860427,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":135839165
         }
     ],
     "wof:id":135839165,
-    "wof:lastmodified":1496961093,
+    "wof:lastmodified":1513977065,
     "wof:name":"Deli Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

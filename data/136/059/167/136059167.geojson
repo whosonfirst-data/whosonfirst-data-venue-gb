@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85793307,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"e6fa17b8bbb0b6629eee76327b4c1a9b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793307,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":136059167
         }
     ],
     "wof:id":136059167,
-    "wof:lastmodified":1496963669,
+    "wof:lastmodified":1514001055,
     "wof:name":"Colworth Stores",
     "wof:parent_id":85793307,
     "wof:placetype":"venue",

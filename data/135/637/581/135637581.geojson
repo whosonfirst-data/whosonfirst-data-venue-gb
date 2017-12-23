@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85789765,
+        102191581,
         85633159,
-        85860523,
-        85684289
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:brand_id":1125153749,
     "wof:breaches":[],
@@ -45,17 +47,20 @@
     "wof:geomhash":"652824c2903a6673ef99886362ba4d6c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860523,
-            "region_id":85684289,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789765,
+            "region_id":-1,
             "venue_id":135637581
         }
     ],
     "wof:id":135637581,
-    "wof:lastmodified":1510698503,
+    "wof:lastmodified":1513981561,
     "wof:name":"Cheltenham & Gloucester Plc",
-    "wof:parent_id":85860523,
+    "wof:parent_id":85789765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

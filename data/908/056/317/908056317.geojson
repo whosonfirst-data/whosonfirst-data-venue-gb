@@ -36,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785689,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,18 @@
     "wof:geomhash":"b0cd2ca6789f29c26719e8446c17da91",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785689,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":908056317
         }
     ],
     "wof:id":908056317,
-    "wof:lastmodified":1496942607,
+    "wof:lastmodified":1513978317,
     "wof:name":"Proco",
     "wof:parent_id":85785689,
     "wof:placetype":"venue",

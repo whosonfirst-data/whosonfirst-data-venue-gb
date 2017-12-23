@@ -34,14 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792211,
-        "102191581",
-        404435563,
-        "85633159",
+        85860465,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85860461
+        1158857277
     ],
     "wof:brand_id":420573787,
     "wof:breaches":[],
@@ -52,30 +50,20 @@
     "wof:geomhash":"606caaadbc91f57d9895be218b508960",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857277,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
-            "neighbourhood_id":85792211,
-            "region_id":85684061,
-            "venue_id":253361587
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85860461,
-            "region_id":85684061,
+            "neighbourhood_id":85860465,
+            "region_id":-1,
             "venue_id":253361587
         }
     ],
     "wof:id":253361587,
-    "wof:lastmodified":1496963470,
+    "wof:lastmodified":1513985056,
     "wof:name":"Pizza Hut",
-    "wof:parent_id":-3,
+    "wof:parent_id":85860465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

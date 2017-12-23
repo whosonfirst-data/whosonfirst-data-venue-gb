@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789903,
-        85684467
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,18 @@
     "wof:geomhash":"5601aba56e5742d448106af236629547",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789903,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":135970585
         }
     ],
     "wof:id":135970585,
-    "wof:lastmodified":1496960817,
+    "wof:lastmodified":1513979887,
     "wof:name":"Relu Properties Ltd",
     "wof:parent_id":85789903,
     "wof:placetype":"venue",

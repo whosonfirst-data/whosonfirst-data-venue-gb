@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791241,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:brand_id":1125152877,
     "wof:breaches":[],
@@ -45,15 +47,18 @@
     "wof:geomhash":"97a6c4f0d36900832d1a61f65321cd7d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791241,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":102745707
         }
     ],
     "wof:id":102745707,
-    "wof:lastmodified":1510875456,
+    "wof:lastmodified":1513998522,
     "wof:name":"General Accident Property Services",
     "wof:parent_id":85791241,
     "wof:placetype":"venue",

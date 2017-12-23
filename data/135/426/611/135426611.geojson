@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787157,
-        85684289
+        102191581,
+        1158884889,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,19 @@
     "wof:geomhash":"73c5bcd6c8e16f83210f99957cec32fa",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158884889,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787157,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":135426611
         }
     ],
     "wof:id":135426611,
-    "wof:lastmodified":1496962362,
+    "wof:lastmodified":1514001224,
     "wof:name":"Dells Window Cleaning",
     "wof:parent_id":85787157,
     "wof:placetype":"venue",

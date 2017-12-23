@@ -31,13 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860773,
-        "102191581",
-        404435563,
-        "85633159",
+        85790445,
+        102191581,
+        1158859439,
+        85633159,
         404227469,
         101750367,
-        85684061
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,20 +49,21 @@
     "wof:geomhash":"3b363a0d700c078a00b685f7e8becae8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857317,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859439,
             "macroregion_id":404227469,
-            "neighbourhood_id":85860773,
-            "region_id":85684061,
+            "neighbourhood_id":85790445,
+            "region_id":-1,
             "venue_id":907382347
         }
     ],
     "wof:id":907382347,
-    "wof:lastmodified":1501088782,
+    "wof:lastmodified":1513994464,
     "wof:name":"Thackeray Gallery",
-    "wof:parent_id":85860773,
+    "wof:parent_id":85790445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

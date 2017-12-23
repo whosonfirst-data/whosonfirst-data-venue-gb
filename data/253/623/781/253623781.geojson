@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85785483,
+        85790077,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684151
+        1158857251
     ],
     "wof:brand_id":420575497,
     "wof:breaches":[],
@@ -45,18 +47,20 @@
     "wof:geomhash":"5e2d02a2b7293212523cc52f233f1005",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85785483,
-            "region_id":85684151,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790077,
+            "region_id":-1,
             "venue_id":253623781
         }
     ],
     "wof:id":253623781,
-    "wof:lastmodified":1496963266,
+    "wof:lastmodified":1513995182,
     "wof:name":"Costcutter",
-    "wof:parent_id":85785483,
+    "wof:parent_id":85790077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

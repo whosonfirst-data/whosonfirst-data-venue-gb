@@ -35,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85792079,
+        102191581,
         85633159,
-        85792073,
-        85684533,
-        85860897
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +50,20 @@
     "wof:geomhash":"31c31f7c21ece2b5d8daf6046b9cee76",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792073,
-            "region_id":85684533,
-            "venue_id":119286287
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85860897,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792079,
+            "region_id":-1,
             "venue_id":119286287
         }
     ],
     "wof:id":119286287,
-    "wof:lastmodified":1496966757,
+    "wof:lastmodified":1513991053,
     "wof:name":"The Loft",
-    "wof:parent_id":-1,
+    "wof:parent_id":85792079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

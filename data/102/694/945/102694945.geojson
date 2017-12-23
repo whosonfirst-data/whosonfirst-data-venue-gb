@@ -39,10 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787245,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,18 @@
     "wof:geomhash":"f6df6b40c9bd630cbe09d5ea4a242ea9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787245,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":102694945
         }
     ],
     "wof:id":102694945,
-    "wof:lastmodified":1496968824,
+    "wof:lastmodified":1513991861,
     "wof:name":"Vaid Optometrists",
     "wof:parent_id":85787245,
     "wof:placetype":"venue",

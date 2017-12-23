@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786511,
+        85861715,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683667
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"718d337c5fb8b3401e8ebff9b620189e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85786511,
-            "region_id":85683667,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861715,
+            "region_id":-1,
             "venue_id":236277337
         }
     ],
     "wof:id":236277337,
-    "wof:lastmodified":1496964190,
+    "wof:lastmodified":1513995809,
     "wof:name":"English Garden The",
-    "wof:parent_id":85786511,
+    "wof:parent_id":85861715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

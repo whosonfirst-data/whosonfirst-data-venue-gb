@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861715,
+        85790445,
+        102191581,
+        1158859439,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +50,21 @@
     "wof:geomhash":"b5d93eef2a37a437d8a9257d7e52815c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861715,
-            "region_id":85684061,
+            "macrohood_id":1158859439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790445,
+            "region_id":-1,
             "venue_id":286923299
         }
     ],
     "wof:id":286923299,
-    "wof:lastmodified":1496941240,
+    "wof:lastmodified":1513977567,
     "wof:name":"Bookends",
-    "wof:parent_id":85861715,
+    "wof:parent_id":85790445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -41,10 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790805,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,18 @@
     "wof:geomhash":"4f0f3a10c36cc6c9c9c247df280b83af",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790805,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":119068881
         }
     ],
     "wof:id":119068881,
-    "wof:lastmodified":1496967640,
+    "wof:lastmodified":1513995318,
     "wof:name":"Sandown Court",
     "wof:parent_id":85790805,
     "wof:placetype":"venue",

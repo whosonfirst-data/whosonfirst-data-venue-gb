@@ -36,9 +36,12 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787957,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:brand_id":420574751,
     "wof:breaches":[],
@@ -50,14 +53,18 @@
     "wof:geomhash":"1cc1a86307a79af39e580a05d0f5bd47",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787957,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":923872723
         }
     ],
     "wof:id":923872723,
-    "wof:lastmodified":1511323220,
+    "wof:lastmodified":1513983092,
     "wof:name":"Londis",
     "wof:parent_id":85787957,
     "wof:placetype":"venue",

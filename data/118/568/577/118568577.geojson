@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790545,
-        85684467
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"f911eb6d5cb6e08a8e3a09e723b005fc",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790545,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":118568577
         }
     ],
     "wof:id":118568577,
-    "wof:lastmodified":1501088780,
+    "wof:lastmodified":1513988550,
     "wof:name":"Sunrise Wedding Services Ltd.",
     "wof:parent_id":85790545,
     "wof:placetype":"venue",

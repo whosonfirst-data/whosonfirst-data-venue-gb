@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860655,
-        85683671
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"5fc6240db3d7989172db23123c6bac29",
     "wof:hierarchy":[
         {
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860655,
-            "region_id":85683671,
+            "region_id":-1,
             "venue_id":135401993
         }
     ],
     "wof:id":135401993,
-    "wof:lastmodified":1496961174,
+    "wof:lastmodified":1514000464,
     "wof:name":"Projected It Ltd",
     "wof:parent_id":85860655,
     "wof:placetype":"venue",

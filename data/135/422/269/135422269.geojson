@@ -31,10 +31,12 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860505,
-        85683637
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"fb6a48bce0b8c0270283ce0fea2c2736",
     "wof:hierarchy":[
         {
+            "borough_id":1158857319,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860505,
-            "region_id":85683637,
+            "region_id":-1,
             "venue_id":135422269
         }
     ],
     "wof:id":135422269,
-    "wof:lastmodified":1496960981,
+    "wof:lastmodified":1514001241,
     "wof:name":"Beacontree Heath Methodist Church",
     "wof:parent_id":85860505,
     "wof:placetype":"venue",

@@ -30,13 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861669,
-        "102191581",
-        404435563,
-        "85633159",
+        85792161,
+        102191581,
+        1158864487,
+        85633159,
         404227469,
         101750367,
-        85684061
+        1158857273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,20 +47,21 @@
     "wof:geomhash":"90b9a6957bbd4a74bb5deccee1a297ea",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857273,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158864487,
             "macroregion_id":404227469,
-            "neighbourhood_id":85861669,
-            "region_id":85684061,
+            "neighbourhood_id":85792161,
+            "region_id":-1,
             "venue_id":907978849
         }
     ],
     "wof:id":907978849,
-    "wof:lastmodified":1496971491,
+    "wof:lastmodified":1513973300,
     "wof:name":"A Solak",
-    "wof:parent_id":85861669,
+    "wof:parent_id":85792161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

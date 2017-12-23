@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792183,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"acd6d1226e48d23d8f4462f444cdba85",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792183,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":135558139
         }
     ],
     "wof:id":135558139,
-    "wof:lastmodified":1496960989,
+    "wof:lastmodified":1513992624,
     "wof:name":"The Skill Shop",
     "wof:parent_id":85792183,
     "wof:placetype":"venue",

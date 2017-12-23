@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861625,
-        85684081
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"913b433d5c60f6f34e65506a1643102d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861625,
-            "region_id":85684081,
+            "region_id":-1,
             "venue_id":118724183
         }
     ],
     "wof:id":118724183,
-    "wof:lastmodified":1496965498,
+    "wof:lastmodified":1513988773,
     "wof:name":"Milligan & Hill",
     "wof:parent_id":85861625,
     "wof:placetype":"venue",

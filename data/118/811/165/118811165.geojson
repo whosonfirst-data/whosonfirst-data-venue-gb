@@ -30,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792067,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,19 @@
     "wof:geomhash":"abae4ad50a1cc6cc1e6074457fef8912",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792067,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":118811165
         }
     ],
     "wof:id":118811165,
-    "wof:lastmodified":1496965763,
+    "wof:lastmodified":1513977608,
     "wof:name":"National Promotions",
     "wof:parent_id":85792067,
     "wof:placetype":"venue",

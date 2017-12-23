@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788147,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"b7aead444a4a3d64f3eb38ee71f5b517",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788147,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":118799007
         }
     ],
     "wof:id":118799007,
-    "wof:lastmodified":1496965482,
+    "wof:lastmodified":1513997054,
     "wof:name":"Mellford Associates",
     "wof:parent_id":85788147,
     "wof:placetype":"venue",

@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860759,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"9948b4476095b027f14c2326981747e9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860759,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":119317217
         }
     ],
     "wof:id":119317217,
-    "wof:lastmodified":1496967711,
+    "wof:lastmodified":1513998554,
     "wof:name":"Joanna Edwards",
     "wof:parent_id":85860759,
     "wof:placetype":"venue",

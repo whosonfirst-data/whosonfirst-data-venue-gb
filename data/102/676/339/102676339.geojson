@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785221,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"d275d8fbd059bd62b840ddb9aef352be",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785221,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":102676339
         }
     ],
     "wof:id":102676339,
-    "wof:lastmodified":1496969000,
+    "wof:lastmodified":1513981749,
     "wof:name":"International Research Associates (U K)",
     "wof:parent_id":85785221,
     "wof:placetype":"venue",

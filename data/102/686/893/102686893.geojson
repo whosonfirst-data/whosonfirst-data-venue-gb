@@ -39,10 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860137,
-        85684411
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,18 @@
     "wof:geomhash":"ad24addd96a5e69bfe15414dc8e4cad8",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860137,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":102686893
         }
     ],
     "wof:id":102686893,
-    "wof:lastmodified":1496968817,
+    "wof:lastmodified":1513999350,
     "wof:name":"Talon Catering Services",
     "wof:parent_id":85860137,
     "wof:placetype":"venue",

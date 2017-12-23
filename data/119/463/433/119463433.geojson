@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860041,
-        85684417
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:brand_id":1125160069,
     "wof:breaches":[],
@@ -47,14 +50,18 @@
     "wof:geomhash":"739a3a5958a2760e3bb36c5c963a9ec6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860041,
-            "region_id":85684417,
+            "region_id":-1,
             "venue_id":119463433
         }
     ],
     "wof:id":119463433,
-    "wof:lastmodified":1511318912,
+    "wof:lastmodified":1513994709,
     "wof:name":"Agency Financial Services",
     "wof:parent_id":85860041,
     "wof:placetype":"venue",

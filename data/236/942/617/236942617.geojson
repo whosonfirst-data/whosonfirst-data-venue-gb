@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860465,
+        85860461,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684597
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"3f1554568c4dae826b7a9ae075d6c9b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860465,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860461,
+            "region_id":-1,
             "venue_id":236942617
         }
     ],
     "wof:id":236942617,
-    "wof:lastmodified":1496964009,
+    "wof:lastmodified":1513999352,
     "wof:name":"Swiss Cottage Post Office",
-    "wof:parent_id":85860465,
+    "wof:parent_id":85860461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

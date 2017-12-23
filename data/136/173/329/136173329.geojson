@@ -37,10 +37,12 @@
     "sg:website":"http://www.shantys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85791623,
+        102191581,
         85633159,
-        85865133,
-        85684467
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +52,20 @@
     "wof:geomhash":"308cd6743fa2f3d2955581a0f72bbad4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85865133,
-            "region_id":85684467,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791623,
+            "region_id":-1,
             "venue_id":136173329
         }
     ],
     "wof:id":136173329,
-    "wof:lastmodified":1496963872,
+    "wof:lastmodified":1513986807,
     "wof:name":"Shantys",
-    "wof:parent_id":85865133,
+    "wof:parent_id":85791623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

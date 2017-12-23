@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790339,
-        85683763
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"05865e00fb09a411a657c63ad01cb63d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857255,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790339,
-            "region_id":85683763,
+            "region_id":-1,
             "venue_id":135496357
         }
     ],
     "wof:id":135496357,
-    "wof:lastmodified":1496961224,
+    "wof:lastmodified":1513986646,
     "wof:name":"Carry Safe Fork Lift Driver Training",
     "wof:parent_id":85790339,
     "wof:placetype":"venue",

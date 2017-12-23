@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787907,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"88b6253d1fa9103e372e8bac37fda5c9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787907,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":119253391
         }
     ],
     "wof:id":119253391,
-    "wof:lastmodified":1496967287,
+    "wof:lastmodified":1513997435,
     "wof:name":"K & J'S Home Improvements",
     "wof:parent_id":85787907,
     "wof:placetype":"venue",

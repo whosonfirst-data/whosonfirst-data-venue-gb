@@ -31,10 +31,12 @@
     "sg:province":"Kent",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785671,
-        85683763
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"618faf51ad2be24f83c1a6ae33666ab6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857255,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785671,
-            "region_id":85683763,
+            "region_id":-1,
             "venue_id":119149355
         }
     ],
     "wof:id":119149355,
-    "wof:lastmodified":1496967997,
+    "wof:lastmodified":1513986464,
     "wof:name":"M A Sanders",
     "wof:parent_id":85785671,
     "wof:placetype":"venue",

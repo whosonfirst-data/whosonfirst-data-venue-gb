@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85861189,
+        102191581,
         85633159,
-        85792375,
-        85684337
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +46,20 @@
     "wof:geomhash":"f996c63b7aeb6d3bf48c8b3d5fc490f8",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792375,
-            "region_id":85684337,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861189,
+            "region_id":-1,
             "venue_id":135882169
         }
     ],
     "wof:id":135882169,
-    "wof:lastmodified":1496961399,
+    "wof:lastmodified":1513989848,
     "wof:name":"Eastern Queen Restaurant Ltd.",
-    "wof:parent_id":85792375,
+    "wof:parent_id":85861189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

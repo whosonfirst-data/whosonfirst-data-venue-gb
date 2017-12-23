@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860465,
+        85860397,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684597
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"7fd7580d652c3f4a61b29e03725541b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860465,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860397,
+            "region_id":-1,
             "venue_id":270213627
         }
     ],
     "wof:id":270213627,
-    "wof:lastmodified":1496965126,
+    "wof:lastmodified":1513983909,
     "wof:name":"Belgrave Gallery Ltd.",
-    "wof:parent_id":85860465,
+    "wof:parent_id":85860397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

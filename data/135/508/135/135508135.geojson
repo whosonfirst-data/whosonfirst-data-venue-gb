@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792277,
-        85683679,
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265,
         85787907
     ],
     "wof:breaches":[],
@@ -49,24 +51,30 @@
     "wof:geomhash":"45578f4dff3f5d805257bd1fef2fa9db",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792277,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":135508135
         },
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787907,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":135508135
         }
     ],
     "wof:id":135508135,
-    "wof:lastmodified":1496961480,
+    "wof:lastmodified":1514002411,
     "wof:name":"Wireless Telecom Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

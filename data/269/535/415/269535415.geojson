@@ -32,10 +32,13 @@
     "sg:website":"http://www.hartswoodtennis.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786621,
+        1158860465,
+        102191581,
+        1158860453,
         85633159,
+        404227469,
         101750367,
-        85684141
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     "wof:geomhash":"c9cd186a69301dcd3ea4fca26f15a6e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85786621,
-            "region_id":85684141,
+            "macrohood_id":1158860453,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158860465,
+            "region_id":-1,
             "venue_id":269535415
         }
     ],
     "wof:id":269535415,
-    "wof:lastmodified":1496964771,
+    "wof:lastmodified":1513991007,
     "wof:name":"Hartswood Lawn Tennis Club",
-    "wof:parent_id":85786621,
+    "wof:parent_id":1158860465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

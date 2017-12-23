@@ -34,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786429,
-        85684061,
-        85861759
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +49,20 @@
     "wof:geomhash":"c1a4533503fa183a5bdb5b36bfbd5d31",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786429,
-            "region_id":85684061,
-            "venue_id":119388785
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85861759,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":119388785
         }
     ],
     "wof:id":119388785,
-    "wof:lastmodified":1496968032,
+    "wof:lastmodified":1514001886,
     "wof:name":"Kenmore",
-    "wof:parent_id":-1,
+    "wof:parent_id":85786429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -33,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785335,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,18 @@
     "wof:geomhash":"f378b6ac7af713ceb6aaaef7f042cc99",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785335,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":118838021
         }
     ],
     "wof:id":118838021,
-    "wof:lastmodified":1496966086,
+    "wof:lastmodified":1513989064,
     "wof:name":"S S E Ltd.",
     "wof:parent_id":85785335,
     "wof:placetype":"venue",

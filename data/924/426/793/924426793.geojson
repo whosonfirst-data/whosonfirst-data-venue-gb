@@ -31,14 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792251,
-        "102191581",
-        404435563,
-        "85633159",
+        85792255,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85792255
+        1158857281,
+        85792251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,30 +48,30 @@
     "wof:geomhash":"2a0d7017781a23d7512b5c7bc87207fa",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85792251,
-            "region_id":85684061,
-            "venue_id":924426793
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857281,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85792255,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":924426793
+        },
+        {
+            "borough_id":1158857281,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792251,
+            "region_id":-1,
             "venue_id":924426793
         }
     ],
     "wof:id":924426793,
-    "wof:lastmodified":1496959666,
+    "wof:lastmodified":1513980720,
     "wof:name":"Chase Pet Stores",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

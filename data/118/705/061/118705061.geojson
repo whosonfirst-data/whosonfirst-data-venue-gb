@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861783,
-        85684597
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"fa46c14d0ad439778390879fa466474b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861783,
-            "region_id":85684597,
+            "region_id":-1,
             "venue_id":118705061
         }
     ],
     "wof:id":118705061,
-    "wof:lastmodified":1496965460,
+    "wof:lastmodified":1513989421,
     "wof:name":"Elms Lesters Painting Rooms",
     "wof:parent_id":85861783,
     "wof:placetype":"venue",

@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85861663,
+        102191581,
         85633159,
-        85792139,
-        85684533
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +49,20 @@
     "wof:geomhash":"7f9a97245cfa2a7a73e30d16b82b6e49",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792139,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861663,
+            "region_id":-1,
             "venue_id":135786041
         }
     ],
     "wof:id":135786041,
-    "wof:lastmodified":1496960958,
+    "wof:lastmodified":1513973027,
     "wof:name":"Larkhall Lane Service Station",
-    "wof:parent_id":85792139,
+    "wof:parent_id":85861663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

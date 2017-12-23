@@ -31,10 +31,11 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789073,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684099
+        1158857305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +45,20 @@
     "wof:geomhash":"2794170ace3abd2c452a543de24846e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857305,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789073,
-            "region_id":85684099,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":-1,
             "venue_id":236575769
         }
     ],
     "wof:id":236575769,
-    "wof:lastmodified":1496963999,
+    "wof:lastmodified":1513989240,
     "wof:name":"Wimbledon School Of Music",
-    "wof:parent_id":85789073,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

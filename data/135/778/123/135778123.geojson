@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791309,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"88b8ef20241a8b94fa0fbf6f4d8fe5b3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791309,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":135778123
         }
     ],
     "wof:id":135778123,
-    "wof:lastmodified":1496961631,
+    "wof:lastmodified":1513992283,
     "wof:name":"P & P Body Shop",
     "wof:parent_id":85791309,
     "wof:placetype":"venue",

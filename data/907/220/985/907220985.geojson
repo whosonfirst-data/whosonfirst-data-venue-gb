@@ -41,14 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792227,
-        "102191581",
-        404435563,
-        "85633159",
+        85792069,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85792069
+        1158857285,
+        85792227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,30 +58,30 @@
     "wof:geomhash":"fc1908e8078a6f3434ddf99b2483a6de",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85792227,
-            "region_id":85684061,
-            "venue_id":907220985
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857285,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85792069,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":907220985
+        },
+        {
+            "borough_id":1158857285,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792227,
+            "region_id":-1,
             "venue_id":907220985
         }
     ],
     "wof:id":907220985,
-    "wof:lastmodified":1496970946,
+    "wof:lastmodified":1513986039,
     "wof:name":"Plumb Wise Supplies Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

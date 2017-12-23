@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861715,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"c9474ccec78babe67ad9464bbcfa3e37",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861715,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":135975307
         }
     ],
     "wof:id":135975307,
-    "wof:lastmodified":1496962080,
+    "wof:lastmodified":1513984468,
     "wof:name":"London Property News",
     "wof:parent_id":85861715,
     "wof:placetype":"venue",

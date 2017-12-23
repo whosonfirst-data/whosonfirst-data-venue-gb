@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789897,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"a5d9a256c0aaa58deac97b2dc59c029b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789897,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":135444667
         }
     ],
     "wof:id":135444667,
-    "wof:lastmodified":1496961105,
+    "wof:lastmodified":1513980082,
     "wof:name":"J Seymour-Griffiths",
     "wof:parent_id":85789897,
     "wof:placetype":"venue",

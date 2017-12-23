@@ -31,13 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860199,
-        "102191581",
-        404435563,
-        "85633159",
+        85792161,
+        102191581,
+        1158864487,
+        85633159,
         404227469,
         101750367,
-        85684061
+        1158857273
     ],
     "wof:brand_id":1125154157,
     "wof:breaches":[],
@@ -49,20 +49,21 @@
     "wof:geomhash":"894cec46a22abbbf53db2b19f23a2a25",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857273,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158864487,
             "macroregion_id":404227469,
-            "neighbourhood_id":85860199,
-            "region_id":85684061,
+            "neighbourhood_id":85792161,
+            "region_id":-1,
             "venue_id":924030831
         }
     ],
     "wof:id":924030831,
-    "wof:lastmodified":1511319238,
+    "wof:lastmodified":1513996979,
     "wof:name":"The Dental Surgery",
-    "wof:parent_id":85860199,
+    "wof:parent_id":85792161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

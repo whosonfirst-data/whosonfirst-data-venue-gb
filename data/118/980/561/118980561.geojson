@@ -36,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85787143,
+        102191581,
+        1158859439,
         85633159,
-        85791457,
-        85683667
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,21 @@
     "wof:geomhash":"5dbd466b9a57a0211092d2f5bdb0a4a5",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85791457,
-            "region_id":85683667,
+            "macrohood_id":1158859439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787143,
+            "region_id":-1,
             "venue_id":118980561
         }
     ],
     "wof:id":118980561,
-    "wof:lastmodified":1496966049,
+    "wof:lastmodified":1514001969,
     "wof:name":"Knightsbridge Carriage Co",
-    "wof:parent_id":85791457,
+    "wof:parent_id":85787143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

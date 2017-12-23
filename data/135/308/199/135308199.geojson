@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786397,
-        85683637
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"fecd537cc02f87bae95aabb6c30a68b5",
     "wof:hierarchy":[
         {
+            "borough_id":1158857319,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786397,
-            "region_id":85683637,
+            "region_id":-1,
             "venue_id":135308199
         }
     ],
     "wof:id":135308199,
-    "wof:lastmodified":1496961195,
+    "wof:lastmodified":1513981843,
     "wof:name":"Forsters Close Sheltered Housing",
     "wof:parent_id":85786397,
     "wof:placetype":"venue",

@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792231,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"130818fcf83eb48adb44b5c271f51876",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792231,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":136218961
         }
     ],
     "wof:id":136218961,
-    "wof:lastmodified":1496963697,
+    "wof:lastmodified":1513983114,
     "wof:name":"Gingerbread (An Association for One Pare",
     "wof:parent_id":85792231,
     "wof:placetype":"venue",

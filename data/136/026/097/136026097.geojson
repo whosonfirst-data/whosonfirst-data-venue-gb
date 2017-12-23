@@ -31,10 +31,11 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        102191581,
         85633159,
-        85865129,
-        85684121
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,20 @@
     "wof:geomhash":"eb73338412f4b52b90d58b87fc0e4153",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85865129,
-            "region_id":85684121,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":-1,
             "venue_id":136026097
         }
     ],
     "wof:id":136026097,
-    "wof:lastmodified":1496963661,
+    "wof:lastmodified":1514001271,
     "wof:name":"U K RESTAURANT",
-    "wof:parent_id":85865129,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

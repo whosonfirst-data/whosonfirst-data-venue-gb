@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792215,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"3a3eaf15ba9a4a41f5d228df9608f867",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792215,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":136198965
         }
     ],
     "wof:id":136198965,
-    "wof:lastmodified":1496963917,
+    "wof:lastmodified":1514001995,
     "wof:name":"Rajhans",
     "wof:parent_id":85792215,
     "wof:placetype":"venue",

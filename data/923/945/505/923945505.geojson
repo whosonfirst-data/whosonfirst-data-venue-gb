@@ -36,13 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861697,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        1158859031,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85861771
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,30 +52,21 @@
     "wof:geomhash":"1312c473209c44b30b311e8627d4aeca",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857245,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
             "macroregion_id":404227469,
             "neighbourhood_id":85861697,
-            "region_id":85684061,
-            "venue_id":923945505
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85861771,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":923945505
         }
     ],
     "wof:id":923945505,
-    "wof:lastmodified":1496969841,
+    "wof:lastmodified":1513980116,
     "wof:name":"B Dellapina",
-    "wof:parent_id":-1,
+    "wof:parent_id":85861697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

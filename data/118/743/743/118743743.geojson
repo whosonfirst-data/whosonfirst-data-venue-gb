@@ -33,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
+        1158859083,
         85861739,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,21 @@
     "wof:geomhash":"97acdbce1648ea0890090d749b1178b3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
+            "microhood_id":1158859083,
             "neighbourhood_id":85861739,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":118743743
         }
     ],
     "wof:id":118743743,
-    "wof:lastmodified":1496965717,
+    "wof:lastmodified":1513996405,
     "wof:name":"Timothys Delicattessen",
-    "wof:parent_id":85861739,
+    "wof:parent_id":1158859083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

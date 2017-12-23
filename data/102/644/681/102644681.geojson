@@ -39,10 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792291,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,18 @@
     "wof:geomhash":"548b8d1ef03372af5b3b7b6412a35214",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792291,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":102644681
         }
     ],
     "wof:id":102644681,
-    "wof:lastmodified":1496968851,
+    "wof:lastmodified":1513999328,
     "wof:name":"Diamond News",
     "wof:parent_id":85792291,
     "wof:placetype":"venue",

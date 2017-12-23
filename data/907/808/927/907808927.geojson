@@ -31,14 +31,13 @@
     "sg:province":"Kent",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860127,
-        "102191581",
-        404435563,
-        "85633159",
+        85785671,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85785671
+        1158857255,
+        85860127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,30 +48,30 @@
     "wof:geomhash":"ebef5d4a4d253b91d8cd87e3afe487a6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85860127,
-            "region_id":85684061,
-            "venue_id":907808927
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857255,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85785671,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":907808927
+        },
+        {
+            "borough_id":1158857255,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860127,
+            "region_id":-1,
             "venue_id":907808927
         }
     ],
     "wof:id":907808927,
-    "wof:lastmodified":1496970284,
+    "wof:lastmodified":1513974478,
     "wof:name":"A P Maddison-Roberts",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

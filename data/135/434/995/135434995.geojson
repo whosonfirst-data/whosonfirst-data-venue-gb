@@ -38,10 +38,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785475,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,18 @@
     "wof:geomhash":"9863aad0ef759f0025730f294bbe26a4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785475,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":135434995
         }
     ],
     "wof:id":135434995,
-    "wof:lastmodified":1496961859,
+    "wof:lastmodified":1514002586,
     "wof:name":"Central Heating Services",
     "wof:parent_id":85785475,
     "wof:placetype":"venue",

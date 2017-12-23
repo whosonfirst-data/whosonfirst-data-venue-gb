@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85791623,
+        85860165,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684467
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +45,20 @@
     "wof:geomhash":"b843993b8234e5ae6b096891021f7733",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85791623,
-            "region_id":85684467,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860165,
+            "region_id":-1,
             "venue_id":219996051
         }
     ],
     "wof:id":219996051,
-    "wof:lastmodified":1496966352,
+    "wof:lastmodified":1513981607,
     "wof:name":"Azad,A K,",
-    "wof:parent_id":85791623,
+    "wof:parent_id":85860165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

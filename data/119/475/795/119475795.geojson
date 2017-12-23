@@ -40,10 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785843,
-        85684597
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,18 @@
     "wof:geomhash":"0d2d4feb21421fcad45b76678bb756b3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785843,
-            "region_id":85684597,
+            "region_id":-1,
             "venue_id":119475795
         }
     ],
     "wof:id":119475795,
-    "wof:lastmodified":1510943120,
+    "wof:lastmodified":1513982070,
     "wof:name":"Cafe Romano",
     "wof:parent_id":85785843,
     "wof:placetype":"venue",

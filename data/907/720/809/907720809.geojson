@@ -36,13 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791895,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85792129
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,30 +51,20 @@
     "wof:geomhash":"dccc98157237677cde27de66d25945bd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857245,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85791895,
-            "region_id":85684061,
-            "venue_id":907720809
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85792129,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907720809
         }
     ],
     "wof:id":907720809,
-    "wof:lastmodified":1496971867,
+    "wof:lastmodified":1513973937,
     "wof:name":"Lesegnore Snack Bar",
-    "wof:parent_id":-1,
+    "wof:parent_id":85791895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791241,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"1f1d43f457ab3b6b579b74100ae3abd3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791241,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":135381711
         }
     ],
     "wof:id":135381711,
-    "wof:lastmodified":1496962345,
+    "wof:lastmodified":1513982332,
     "wof:name":"St Oswald C Of E Church",
     "wof:parent_id":85791241,
     "wof:placetype":"venue",

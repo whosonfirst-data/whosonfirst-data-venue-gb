@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790821,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:brand_id":1125156311,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"ee07a2b10c15279a266cc4fbfe6d1ff6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790821,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":119074053
         }
     ],
     "wof:id":119074053,
-    "wof:lastmodified":1511318041,
+    "wof:lastmodified":1514002507,
     "wof:name":"The Swan",
     "wof:parent_id":85790821,
     "wof:placetype":"venue",

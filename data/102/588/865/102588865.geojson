@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860011,
-        85684337
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"c1a97485604941bdb96b5d1bace502d0",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860011,
-            "region_id":85684337,
+            "region_id":-1,
             "venue_id":102588865
         }
     ],
     "wof:id":102588865,
-    "wof:lastmodified":1496968995,
+    "wof:lastmodified":1513981693,
     "wof:name":"A.D.P. Building & Property Sevices",
     "wof:parent_id":85860011,
     "wof:placetype":"venue",

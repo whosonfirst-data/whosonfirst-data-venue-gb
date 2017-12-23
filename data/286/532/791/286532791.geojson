@@ -35,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861729,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684081,
-        85861651
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +49,20 @@
     "wof:geomhash":"4ef6541a7149f2a4bd0a013d4302f222",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861729,
-            "region_id":85684081,
-            "venue_id":286532791
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85861651,
-            "region_id":85684081,
+            "region_id":-1,
             "venue_id":286532791
         }
     ],
     "wof:id":286532791,
-    "wof:lastmodified":1496940621,
+    "wof:lastmodified":1513985431,
     "wof:name":"McMillan Montague Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85861729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -41,9 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85790317,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +57,18 @@
     "wof:geomhash":"7203e438efd939b410f60904e4c05d25",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790317,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":923945015
         }
     ],
     "wof:id":923945015,
-    "wof:lastmodified":1496969840,
+    "wof:lastmodified":1513993585,
     "wof:name":"Modern Electrical Services",
     "wof:parent_id":85790317,
     "wof:placetype":"venue",

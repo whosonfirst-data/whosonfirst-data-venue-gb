@@ -39,10 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790841,
-        85684387
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,18 @@
     "wof:geomhash":"ea1a5d3174b1a7d6ee3dcef6d0990f1a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857309,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790841,
-            "region_id":85684387,
+            "region_id":-1,
             "venue_id":118664087
         }
     ],
     "wof:id":118664087,
-    "wof:lastmodified":1496966280,
+    "wof:lastmodified":1513985882,
     "wof:name":"ASTRA FISH BAR",
     "wof:parent_id":85790841,
     "wof:placetype":"venue",

@@ -39,10 +39,12 @@
     "sg:website":"http://www.jdwetherspoon.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85786023,
+        102191581,
         85633159,
-        85861793,
-        85684533
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +55,20 @@
     "wof:geomhash":"17999b4c6b433180c98a58301756018e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861793,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786023,
+            "region_id":-1,
             "venue_id":135698413
         }
     ],
     "wof:id":135698413,
-    "wof:lastmodified":1510943316,
+    "wof:lastmodified":1513991814,
     "wof:name":"The Beehive",
-    "wof:parent_id":85861793,
+    "wof:parent_id":85786023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

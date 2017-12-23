@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791327,
-        85684289
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:brand_id":1125162271,
     "wof:breaches":[],
@@ -50,15 +52,18 @@
     "wof:geomhash":"be1969c84d5386e5183bb1b7c3618617",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791327,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":135881737
         }
     ],
     "wof:id":135881737,
-    "wof:lastmodified":1511318389,
+    "wof:lastmodified":1513976122,
     "wof:name":"Homestyle",
     "wof:parent_id":85791327,
     "wof:placetype":"venue",

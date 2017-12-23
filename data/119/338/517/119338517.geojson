@@ -31,10 +31,12 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785475,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"57a5b90cabdde50d496ed499c8bd22be",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785475,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":119338517
         }
     ],
     "wof:id":119338517,
-    "wof:lastmodified":1496967130,
+    "wof:lastmodified":1513978969,
     "wof:name":"The Best Leather Sofa Co",
     "wof:parent_id":85785475,
     "wof:placetype":"venue",

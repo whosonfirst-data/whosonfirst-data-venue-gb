@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786741,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"6e50294603af4c35b5c1c18913cd0e69",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786741,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":102614615
         }
     ],
     "wof:id":102614615,
-    "wof:lastmodified":1496968847,
+    "wof:lastmodified":1513985726,
     "wof:name":"Collier Row Builders",
     "wof:parent_id":85786741,
     "wof:placetype":"venue",

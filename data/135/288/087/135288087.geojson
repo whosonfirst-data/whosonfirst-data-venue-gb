@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861805,
-        85683649
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"ee5741d0f309859da439ac1de5258538",
     "wof:hierarchy":[
         {
+            "borough_id":1158857303,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861805,
-            "region_id":85683649,
+            "region_id":-1,
             "venue_id":135288087
         }
     ],
     "wof:id":135288087,
-    "wof:lastmodified":1496961367,
+    "wof:lastmodified":1514000090,
     "wof:name":"ST. PETER'S NEWS",
     "wof:parent_id":85861805,
     "wof:placetype":"venue",

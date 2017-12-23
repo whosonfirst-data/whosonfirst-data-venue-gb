@@ -34,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792067,
-        85684061,
-        85861659
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +50,21 @@
     "wof:geomhash":"58bee6c24fa6160f5161b2a49792c5dd",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792067,
-            "region_id":85684061,
-            "venue_id":118898529
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85861659,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":118898529
         }
     ],
     "wof:id":118898529,
-    "wof:lastmodified":1496965946,
+    "wof:lastmodified":1513978013,
     "wof:name":"The Hong Kong Standard",
-    "wof:parent_id":-1,
+    "wof:parent_id":85792067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

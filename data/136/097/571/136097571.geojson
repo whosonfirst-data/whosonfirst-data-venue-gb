@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792313,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"e79a50e85e002395d903356cc81ac4bc",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792313,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":136097571
         }
     ],
     "wof:id":136097571,
-    "wof:lastmodified":1496963948,
+    "wof:lastmodified":1514001156,
     "wof:name":"Larkswood Ltd.",
     "wof:parent_id":85792313,
     "wof:placetype":"venue",

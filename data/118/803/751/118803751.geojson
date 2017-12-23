@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85793303,
-        85684597
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"637358f5809e4dab9404680478842832",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793303,
-            "region_id":85684597,
+            "region_id":-1,
             "venue_id":118803751
         }
     ],
     "wof:id":118803751,
-    "wof:lastmodified":1496966231,
+    "wof:lastmodified":1513976998,
     "wof:name":"Dale Peter Loth",
     "wof:parent_id":85793303,
     "wof:placetype":"venue",

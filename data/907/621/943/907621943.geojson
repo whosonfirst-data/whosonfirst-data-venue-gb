@@ -34,13 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861663,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85860701
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,30 +49,20 @@
     "wof:geomhash":"17cdc1e682e0add41b6803c7a76d4394",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857249,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85861663,
-            "region_id":85684061,
-            "venue_id":907621943
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85860701,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907621943
         }
     ],
     "wof:id":907621943,
-    "wof:lastmodified":1496972801,
+    "wof:lastmodified":1513975274,
     "wof:name":"Cedarberg Builders Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85861663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

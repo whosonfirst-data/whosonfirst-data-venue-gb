@@ -37,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792179,
-        85684299
+        102191581,
+        1158860451,
+        85633159,
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +53,19 @@
     "wof:geomhash":"9cdc031bde783da0aed8140aacadbfec",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158860451,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792179,
-            "region_id":85684299,
+            "region_id":-1,
             "venue_id":135474141
         }
     ],
     "wof:id":135474141,
-    "wof:lastmodified":1496962147,
+    "wof:lastmodified":1513991012,
     "wof:name":"Sonicon Ltd.",
     "wof:parent_id":85792179,
     "wof:placetype":"venue",

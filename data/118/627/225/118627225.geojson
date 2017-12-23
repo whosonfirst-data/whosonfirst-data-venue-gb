@@ -33,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85789965,
+        102191581,
         85633159,
-        85860641,
-        85683671,
-        85789965
+        404227469,
+        101750367,
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +49,20 @@
     "wof:geomhash":"268e63b7d4a6e35eb3d33015ac66f72a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860641,
-            "region_id":85683671,
-            "venue_id":118627225
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789965,
-            "region_id":85683671,
+            "region_id":-1,
             "venue_id":118627225
         }
     ],
     "wof:id":118627225,
-    "wof:lastmodified":1501088772,
+    "wof:lastmodified":1513981006,
     "wof:name":"Russell-Cooke",
-    "wof:parent_id":-1,
+    "wof:parent_id":85789965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158893995,
+        85790809,
+        102191581,
         85633159,
-        85789437,
-        85684009
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,21 @@
     "wof:geomhash":"623c341f3099c15e5cb5667882e0f60d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789437,
-            "region_id":85684009,
+            "macroregion_id":404227469,
+            "microhood_id":1158893995,
+            "neighbourhood_id":85790809,
+            "region_id":-1,
             "venue_id":135476981
         }
     ],
     "wof:id":135476981,
-    "wof:lastmodified":1496962359,
+    "wof:lastmodified":1513977359,
     "wof:name":"Total Ceramics",
-    "wof:parent_id":85789437,
+    "wof:parent_id":1158893995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

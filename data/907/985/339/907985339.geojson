@@ -31,13 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861697,
-        "102191581",
-        404435563,
-        "85633159",
+        85790639,
+        102191581,
+        1158859031,
+        85633159,
         404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,20 +48,21 @@
     "wof:geomhash":"bcbe7fe99a8aaa9c84dc827bfa2bbc6e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857245,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
             "macroregion_id":404227469,
-            "neighbourhood_id":85861697,
-            "region_id":85684061,
+            "neighbourhood_id":85790639,
+            "region_id":-1,
             "venue_id":907985339
         }
     ],
     "wof:id":907985339,
-    "wof:lastmodified":1496971551,
+    "wof:lastmodified":1513975075,
     "wof:name":"M & H Frickmann",
-    "wof:parent_id":85861697,
+    "wof:parent_id":85790639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

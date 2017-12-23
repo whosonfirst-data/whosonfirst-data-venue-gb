@@ -43,10 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790647,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,18 @@
     "wof:geomhash":"2f1582acf8519a556a8202716df839b6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790647,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":119495091
         }
     ],
     "wof:id":119495091,
-    "wof:lastmodified":1496967230,
+    "wof:lastmodified":1513978652,
     "wof:name":"Foreshaw Building Services Ltd.",
     "wof:parent_id":85790647,
     "wof:placetype":"venue",

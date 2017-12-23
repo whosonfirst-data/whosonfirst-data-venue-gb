@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85790613,
+        102191581,
         85633159,
-        85788559,
-        85684003
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +51,20 @@
     "wof:geomhash":"c80c8c8bea3ad5dea6380f1cb8b6b941",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85788559,
-            "region_id":85684003,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790613,
+            "region_id":-1,
             "venue_id":119020723
         }
     ],
     "wof:id":119020723,
-    "wof:lastmodified":1496966784,
+    "wof:lastmodified":1513979373,
     "wof:name":"Abbey Bottle",
-    "wof:parent_id":85788559,
+    "wof:parent_id":85790613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

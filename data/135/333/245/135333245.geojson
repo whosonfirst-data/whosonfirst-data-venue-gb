@@ -48,10 +48,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789175,
-        85684099
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +63,18 @@
     "wof:geomhash":"dca698d0181a4581b82b2f0ba79f7f3d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857305,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789175,
-            "region_id":85684099,
+            "region_id":-1,
             "venue_id":135333245
         }
     ],
     "wof:id":135333245,
-    "wof:lastmodified":1496961888,
+    "wof:lastmodified":1513977170,
     "wof:name":"Lawric Gas Services",
     "wof:parent_id":85789175,
     "wof:placetype":"venue",

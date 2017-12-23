@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85792433,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"d089847832fb3eaaaaf3c8825da8cc81",
     "wof:hierarchy":[
         {
+            "borough_id":1158857319,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792433,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":907887013
         }
     ],
     "wof:id":907887013,
-    "wof:lastmodified":1496972055,
+    "wof:lastmodified":1513976403,
     "wof:name":"Port,David,",
     "wof:parent_id":85792433,
     "wof:placetype":"venue",

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791023,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"e6262a3e57380db93fde6fbe550bfa37",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791023,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":119109165
         }
     ],
     "wof:id":119109165,
-    "wof:lastmodified":1496967838,
+    "wof:lastmodified":1513989466,
     "wof:name":"Drain Away Services",
     "wof:parent_id":85791023,
     "wof:placetype":"venue",

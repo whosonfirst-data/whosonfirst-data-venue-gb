@@ -31,9 +31,12 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860041,
-        85684417
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,18 @@
     "wof:geomhash":"cb4afe30c2fcd9d48c36f7753bcfd49f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860041,
-            "region_id":85684417,
+            "region_id":-1,
             "venue_id":907244375
         }
     ],
     "wof:id":907244375,
-    "wof:lastmodified":1496973477,
+    "wof:lastmodified":1513986089,
     "wof:name":"Brent Vic Audio Visual Conference Services",
     "wof:parent_id":85860041,
     "wof:placetype":"venue",

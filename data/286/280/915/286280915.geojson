@@ -37,12 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860271,
-        85633159,
-        101750367,
-        85683765,
         85790773,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285,
+        85860271,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,26 +54,30 @@
     "wof:geomhash":"b976a01d77947c65198573be3d1ceddc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860271,
-            "region_id":85683765,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790773,
+            "region_id":-1,
             "venue_id":286280915
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85790773,
-            "region_id":85684613,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860271,
+            "region_id":-1,
             "venue_id":286280915
         }
     ],
     "wof:id":286280915,
-    "wof:lastmodified":1496940282,
+    "wof:lastmodified":1513977202,
     "wof:name":"Drizen School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

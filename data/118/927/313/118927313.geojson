@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791309,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"f761abd17b9f995bd33abd87e09cb832",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791309,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":118927313
         }
     ],
     "wof:id":118927313,
-    "wof:lastmodified":1496965383,
+    "wof:lastmodified":1513998563,
     "wof:name":"St Gabriel's Family Centre",
     "wof:parent_id":85791309,
     "wof:placetype":"venue",

@@ -39,10 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791023,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,18 @@
     "wof:geomhash":"9e4a796711884d21de3f8e6ff32e6be3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791023,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":119502233
         }
     ],
     "wof:id":119502233,
-    "wof:lastmodified":1496966690,
+    "wof:lastmodified":1513974722,
     "wof:name":"The Alpha Rest Home",
     "wof:parent_id":85791023,
     "wof:placetype":"venue",

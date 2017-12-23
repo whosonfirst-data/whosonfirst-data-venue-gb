@@ -31,14 +31,14 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789349,
-        "102191581",
-        404435563,
-        "85633159",
+        85787527,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85787527
+        1158857285,
+        85789349,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,28 +49,28 @@
     "wof:geomhash":"e11c2a1aa376fd4e9cb97d4fcffc2627",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85789349,
-            "region_id":85684061,
-            "venue_id":908026903
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857285,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85787527,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":908026903
+        },
+        {
+            "borough_id":1158857281,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789349,
+            "region_id":-1,
             "venue_id":908026903
         }
     ],
     "wof:id":908026903,
-    "wof:lastmodified":1496941657,
+    "wof:lastmodified":1513996921,
     "wof:name":"St Pauls Vicarage C of E Church",
     "wof:parent_id":-3,
     "wof:placetype":"venue",

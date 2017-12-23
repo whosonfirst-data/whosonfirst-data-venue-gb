@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787143,
-        85683667
+        102191581,
+        1158859439,
+        85633159,
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,19 @@
     "wof:geomhash":"763831bc20bfc335b4e5345cf2c5a699",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859439,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787143,
-            "region_id":85683667,
+            "region_id":-1,
             "venue_id":119322775
         }
     ],
     "wof:id":119322775,
-    "wof:lastmodified":1496967775,
+    "wof:lastmodified":1513995696,
     "wof:name":"Private Tenants Rights Project",
     "wof:parent_id":85787143,
     "wof:placetype":"venue",

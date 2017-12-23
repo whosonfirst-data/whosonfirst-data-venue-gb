@@ -35,11 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792333,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684099,
-        85791077,
-        85683671
+        1158857305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +49,20 @@
     "wof:geomhash":"4b654cee3e7f1aa0bbe1610dc49b3cc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857305,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792333,
-            "region_id":85684099,
-            "venue_id":236906707
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85791077,
-            "region_id":85683671,
+            "region_id":-1,
             "venue_id":236906707
         }
     ],
     "wof:id":236906707,
-    "wof:lastmodified":1496964061,
+    "wof:lastmodified":1513999829,
     "wof:name":"Eve Group Plc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85792333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

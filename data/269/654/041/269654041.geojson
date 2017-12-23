@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85861733,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"d6b41e7b15844729e7bb85f7d9b88fab",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861733,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":269654041
         }
     ],
     "wof:id":269654041,
-    "wof:lastmodified":1496964707,
+    "wof:lastmodified":1513995319,
     "wof:name":"R G P Computing",
     "wof:parent_id":85861733,
     "wof:placetype":"venue",

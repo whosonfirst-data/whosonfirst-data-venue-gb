@@ -40,10 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791765,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,18 @@
     "wof:geomhash":"5b73e8fe947541ac17368ced00e2ae95",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791765,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":136183631
         }
     ],
     "wof:id":136183631,
-    "wof:lastmodified":1496963914,
+    "wof:lastmodified":1513981724,
     "wof:name":"Richards,J,",
     "wof:parent_id":85791765,
     "wof:placetype":"venue",

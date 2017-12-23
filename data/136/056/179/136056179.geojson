@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85791327,
+        102191581,
         85633159,
-        85866379,
-        85684533
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +51,20 @@
     "wof:geomhash":"6622152b59dbc504965dbbdccb9f17a1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85866379,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791327,
+            "region_id":-1,
             "venue_id":136056179
         }
     ],
     "wof:id":136056179,
-    "wof:lastmodified":1496963930,
+    "wof:lastmodified":1513997821,
     "wof:name":"Lambeth Council (Mayor & Burgessess of)",
-    "wof:parent_id":85866379,
+    "wof:parent_id":85791327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85790639,
+        102191581,
+        1158859031,
         85633159,
-        85861741,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:brand_id":420575663,
     "wof:breaches":[],
@@ -48,17 +51,21 @@
     "wof:geomhash":"77396cb2a9dcbca71dc9c39b61db3525",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861741,
-            "region_id":85684061,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790639,
+            "region_id":-1,
             "venue_id":119082065
         }
     ],
     "wof:id":119082065,
-    "wof:lastmodified":1511318888,
+    "wof:lastmodified":1513986356,
     "wof:name":"Warehouse",
-    "wof:parent_id":85861741,
+    "wof:parent_id":85790639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785689,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,18 @@
     "wof:geomhash":"b71c0ceee79c9b57fcb18c47baa62564",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785689,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":908056209
         }
     ],
     "wof:id":908056209,
-    "wof:lastmodified":1510943374,
+    "wof:lastmodified":1513999968,
     "wof:name":"Bengal Butler",
     "wof:parent_id":85785689,
     "wof:placetype":"venue",

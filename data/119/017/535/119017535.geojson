@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788911,
-        85684071
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"a8b281508ccaef78f1dfdf769d143684",
     "wof:hierarchy":[
         {
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788911,
-            "region_id":85684071,
+            "region_id":-1,
             "venue_id":119017535
         }
     ],
     "wof:id":119017535,
-    "wof:lastmodified":1496966990,
+    "wof:lastmodified":1513987765,
     "wof:name":"The Most Sacred Heart of Jesus R C Church",
     "wof:parent_id":85788911,
     "wof:placetype":"venue",

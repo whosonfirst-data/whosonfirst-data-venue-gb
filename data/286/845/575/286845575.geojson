@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85787431,
+        85861673,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684071
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +45,20 @@
     "wof:geomhash":"3e4faf84272f3143e9fc84df0c4e66df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85787431,
-            "region_id":85684071,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861673,
+            "region_id":-1,
             "venue_id":286845575
         }
     ],
     "wof:id":286845575,
-    "wof:lastmodified":1496939242,
+    "wof:lastmodified":1513997007,
     "wof:name":"M M I Spares Ltd",
-    "wof:parent_id":85787431,
+    "wof:parent_id":85861673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

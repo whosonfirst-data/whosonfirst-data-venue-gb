@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85861663,
+        102191581,
         85633159,
-        85792139,
-        85684533
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +49,20 @@
     "wof:geomhash":"d5a789d9604ca4c86ed0e3f0d6f69e43",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792139,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861663,
+            "region_id":-1,
             "venue_id":119034929
         }
     ],
     "wof:id":119034929,
-    "wof:lastmodified":1496967416,
+    "wof:lastmodified":1513988569,
     "wof:name":"Alanlite",
-    "wof:parent_id":85792139,
+    "wof:parent_id":85861663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

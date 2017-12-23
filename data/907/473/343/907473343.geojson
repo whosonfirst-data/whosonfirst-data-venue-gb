@@ -31,14 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860795,
-        "102191581",
-        404435563,
-        "85633159",
+        85792207,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85792207
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,30 +47,20 @@
     "wof:geomhash":"628a1526ae4875357ba94e1d7926de0d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85860795,
-            "region_id":85684061,
-            "venue_id":907473343
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857245,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85792207,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907473343
         }
     ],
     "wof:id":907473343,
-    "wof:lastmodified":1496971034,
+    "wof:lastmodified":1513993950,
     "wof:name":"Theo's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85792207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

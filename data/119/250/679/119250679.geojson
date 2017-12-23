@@ -33,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85792067,
+        102191581,
+        1158859031,
         85633159,
-        85861659,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,21 @@
     "wof:geomhash":"ab72b8e4e0fcfe13dd9110c86d7e6930",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861659,
-            "region_id":85684061,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792067,
+            "region_id":-1,
             "venue_id":119250679
         }
     ],
     "wof:id":119250679,
-    "wof:lastmodified":1496967365,
+    "wof:lastmodified":1513981914,
     "wof:name":"Jubilee Catering Agency",
-    "wof:parent_id":85861659,
+    "wof:parent_id":85792067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

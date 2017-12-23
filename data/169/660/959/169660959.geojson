@@ -42,9 +42,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85793295,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684141,
+        1158857259,
         85860877
     ],
     "wof:breaches":[],
@@ -55,26 +57,30 @@
     "wof:geomhash":"5b5f340ed1ea34795529f7aa92990839",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793295,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":169660959
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860877,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":169660959
         }
     ],
     "wof:id":169660959,
-    "wof:lastmodified":1496960059,
+    "wof:lastmodified":1513988564,
     "wof:name":"Kingsley Auto Supplies Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

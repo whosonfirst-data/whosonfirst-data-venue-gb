@@ -31,10 +31,11 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        102191581,
         85633159,
-        85785565,
-        85683649
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:brand_id":420574265,
     "wof:breaches":[],
@@ -45,17 +46,20 @@
     "wof:geomhash":"5dd0816c7c3c2440989a7c149d36cbbf",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85785565,
-            "region_id":85683649,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":-1,
             "venue_id":118681255
         }
     ],
     "wof:id":118681255,
-    "wof:lastmodified":1496966151,
+    "wof:lastmodified":1513984301,
     "wof:name":"NatWest",
-    "wof:parent_id":85785565,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

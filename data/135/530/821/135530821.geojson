@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786023,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"3d3e55908f3f45685ee07c426ffd12ab",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786023,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":135530821
         }
     ],
     "wof:id":135530821,
-    "wof:lastmodified":1496962078,
+    "wof:lastmodified":1513984941,
     "wof:name":"Curlue's Hairdressers",
     "wof:parent_id":85786023,
     "wof:placetype":"venue",

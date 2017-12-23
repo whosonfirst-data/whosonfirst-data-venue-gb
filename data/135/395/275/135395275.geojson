@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860393,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"e2737bef892c35d189591b989c69af91",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860393,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":135395275
         }
     ],
     "wof:id":135395275,
-    "wof:lastmodified":1496962109,
+    "wof:lastmodified":1513991714,
     "wof:name":"Clean Easy Launderette",
     "wof:parent_id":85860393,
     "wof:placetype":"venue",

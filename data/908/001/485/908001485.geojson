@@ -40,14 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85787481,
-        "102191581",
-        404435563,
-        "85633159",
+        85790801,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85790801
+        1158857293,
+        85787481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,30 +57,30 @@
     "wof:geomhash":"ed8cbda0d98a7a3746f3dd6184fac7f9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85787481,
-            "region_id":85684061,
-            "venue_id":908001485
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857293,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85790801,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":908001485
+        },
+        {
+            "borough_id":1158857293,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787481,
+            "region_id":-1,
             "venue_id":908001485
         }
     ],
     "wof:id":908001485,
-    "wof:lastmodified":1496942080,
+    "wof:lastmodified":1513998179,
     "wof:name":"Smarty Pants Day Nursery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

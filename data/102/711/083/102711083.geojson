@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85861663,
+        102191581,
         85633159,
-        85861793,
-        85684533
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +46,20 @@
     "wof:geomhash":"e9418c18d4ccc5bbb015dbeef6acfae8",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861793,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861663,
+            "region_id":-1,
             "venue_id":102711083
         }
     ],
     "wof:id":102711083,
-    "wof:lastmodified":1496969011,
+    "wof:lastmodified":1513978041,
     "wof:name":"Instant Holidays",
-    "wof:parent_id":85861793,
+    "wof:parent_id":85861663,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

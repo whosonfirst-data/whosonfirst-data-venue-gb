@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861745,
-        85684081
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"be6b16cadf56f9a453bd4fed78e7b483",
     "wof:hierarchy":[
         {
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861745,
-            "region_id":85684081,
+            "region_id":-1,
             "venue_id":118494905
         }
     ],
     "wof:id":118494905,
-    "wof:lastmodified":1496965690,
+    "wof:lastmodified":1514002178,
     "wof:name":"Throgmorton Press Ltd The",
     "wof:parent_id":85861745,
     "wof:placetype":"venue",

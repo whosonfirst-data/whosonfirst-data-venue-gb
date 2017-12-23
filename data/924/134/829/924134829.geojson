@@ -35,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786819,
-        85683711,
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261,
         85789325,
+        404448513,
         85684231
     ],
     "wof:breaches":[],
@@ -50,22 +54,30 @@
     "wof:geomhash":"97da612c70e384659e149375d792824c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786819,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":924134829
         },
         {
+            "continent_id":102191581,
             "country_id":85633159,
+            "localadmin_id":404448513,
+            "locality_id":-1,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789325,
             "region_id":85684231,
             "venue_id":924134829
         }
     ],
     "wof:id":924134829,
-    "wof:lastmodified":1496946432,
+    "wof:lastmodified":1513986863,
     "wof:name":"Silver Fox Bus Co. Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

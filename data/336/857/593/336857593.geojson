@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869843,
+        85792207,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684003
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"72dd05008abecd03967a2f7fb4e66f10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85869843,
-            "region_id":85684003,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792207,
+            "region_id":-1,
             "venue_id":336857593
         }
     ],
     "wof:id":336857593,
-    "wof:lastmodified":1496968458,
+    "wof:lastmodified":1513995591,
     "wof:name":"Paul Anderton",
-    "wof:parent_id":85869843,
+    "wof:parent_id":85792207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

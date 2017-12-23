@@ -31,14 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85787927,
-        "102191581",
-        404435563,
-        "85633159",
+        85860379,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85860379
+        1158857279,
+        85787927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +47,28 @@
     "wof:geomhash":"b8ba5af66e3f5a4d330967cd59a969e2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85787927,
-            "region_id":85684061,
-            "venue_id":135897817
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857279,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85860379,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":135897817
+        },
+        {
+            "borough_id":1158857279,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787927,
+            "region_id":-1,
             "venue_id":135897817
         }
     ],
     "wof:id":135897817,
-    "wof:lastmodified":1496961385,
+    "wof:lastmodified":1513994945,
     "wof:name":"Bernard Clegg Funeral Directors",
     "wof:parent_id":-3,
     "wof:placetype":"venue",

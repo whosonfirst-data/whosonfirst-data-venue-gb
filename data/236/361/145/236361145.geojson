@@ -35,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85787169,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684411,
+        1158857293,
         85860137
     ],
     "wof:breaches":[],
@@ -48,26 +50,30 @@
     "wof:geomhash":"9c930276c6220230d0fa446de6ef3d0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787169,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":236361145
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860137,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":236361145
         }
     ],
     "wof:id":236361145,
-    "wof:lastmodified":1496964243,
+    "wof:lastmodified":1513997842,
     "wof:name":"Cliffgate Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

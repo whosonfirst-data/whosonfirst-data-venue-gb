@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786861,
-        85684217
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,18 @@
     "wof:geomhash":"6511b8f2d7d3c443c5231bcb722607db",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786861,
-            "region_id":85684217,
+            "region_id":-1,
             "venue_id":907933881
         }
     ],
     "wof:id":907933881,
-    "wof:lastmodified":1496971049,
+    "wof:lastmodified":1513982486,
     "wof:name":"ChipsAway",
     "wof:parent_id":85786861,
     "wof:placetype":"venue",

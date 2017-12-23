@@ -42,10 +42,12 @@
     "sg:website":"http://www.londis.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788129,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:brand_id":420574751,
     "wof:breaches":[],
@@ -56,15 +58,18 @@
     "wof:geomhash":"b92d07b582fda241a44c6281941bede4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788129,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":136117259
         }
     ],
     "wof:id":136117259,
-    "wof:lastmodified":1496963859,
+    "wof:lastmodified":1513983015,
     "wof:name":"Londis",
     "wof:parent_id":85788129,
     "wof:placetype":"venue",

@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789903,
-        85684467
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,18 @@
     "wof:geomhash":"aea36576dda8fe3c1720c6d07ba66c53",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789903,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":135429353
         }
     ],
     "wof:id":135429353,
-    "wof:lastmodified":1496962234,
+    "wof:lastmodified":1513992196,
     "wof:name":"Queen Victoria Seamen's Rest",
     "wof:parent_id":85789903,
     "wof:placetype":"venue",

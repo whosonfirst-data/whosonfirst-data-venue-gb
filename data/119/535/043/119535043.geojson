@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791477,
-        85684289
+        102191581,
+        1158884889,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:brand_id":1125157525,
     "wof:breaches":[],
@@ -45,15 +48,19 @@
     "wof:geomhash":"43500aedd6d6476016c1ceb4cdc1019e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158884889,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791477,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":119535043
         }
     ],
     "wof:id":119535043,
-    "wof:lastmodified":1510699756,
+    "wof:lastmodified":1513993651,
     "wof:name":"Unigate Dairies Ltd",
     "wof:parent_id":85791477,
     "wof:placetype":"venue",

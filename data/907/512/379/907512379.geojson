@@ -40,9 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787977,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +56,18 @@
     "wof:geomhash":"9528d1447061d08505dbfb06d2957757",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787977,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":907512379
         }
     ],
     "wof:id":907512379,
-    "wof:lastmodified":1496970593,
+    "wof:lastmodified":1513976855,
     "wof:name":"TERRON BUILDERS",
     "wof:parent_id":85787977,
     "wof:placetype":"venue",

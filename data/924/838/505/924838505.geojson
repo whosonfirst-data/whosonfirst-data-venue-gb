@@ -54,14 +54,12 @@
     "sg:website":"http://squa.re",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789461,
-        "102191581",
-        404435563,
-        "85633159",
+        85789533,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85789533
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,30 +70,20 @@
     "wof:geomhash":"035af28158125b88fc21d7a28036825f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85789461,
-            "region_id":85684061,
-            "venue_id":924838505
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857317,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85789533,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":924838505
         }
     ],
     "wof:id":924838505,
-    "wof:lastmodified":1496957657,
+    "wof:lastmodified":1513981055,
     "wof:name":"SQUA.RE",
-    "wof:parent_id":-3,
+    "wof:parent_id":85789533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

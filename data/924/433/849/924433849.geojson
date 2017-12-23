@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787951,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,18 @@
     "wof:geomhash":"7da09c71c05cb681738202d86bb7b4d7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787951,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":924433849
         }
     ],
     "wof:id":924433849,
-    "wof:lastmodified":1496944434,
+    "wof:lastmodified":1513974416,
     "wof:name":"Havering Community Dementia Service",
     "wof:parent_id":85787951,
     "wof:placetype":"venue",

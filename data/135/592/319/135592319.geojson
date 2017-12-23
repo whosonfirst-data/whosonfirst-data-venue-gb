@@ -37,10 +37,12 @@
     "sg:website":"http://www.gideons.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788303,
-        85684387
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857309
     ],
     "wof:brand_id":420575163,
     "wof:breaches":[],
@@ -51,15 +53,18 @@
     "wof:geomhash":"739bfe328d3b034718eee6d3a07bb102",
     "wof:hierarchy":[
         {
+            "borough_id":1158857309,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788303,
-            "region_id":85684387,
+            "region_id":-1,
             "venue_id":135592319
         }
     ],
     "wof:id":135592319,
-    "wof:lastmodified":1496961706,
+    "wof:lastmodified":1513991498,
     "wof:name":"Gideons International",
     "wof:parent_id":85788303,
     "wof:placetype":"venue",

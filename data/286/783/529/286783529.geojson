@@ -35,12 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860669,
-        85633159,
-        101750367,
-        85684099,
         85791077,
-        85683671
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +50,20 @@
     "wof:geomhash":"5567f6d31c5c89a4c2ff85b2c57fce2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860669,
-            "region_id":85684099,
-            "venue_id":286783529
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791077,
-            "region_id":85683671,
+            "region_id":-1,
             "venue_id":286783529
         }
     ],
     "wof:id":286783529,
-    "wof:lastmodified":1496941102,
+    "wof:lastmodified":1513992357,
     "wof:name":"E C A (u K ) Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85791077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -43,10 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861697,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +60,19 @@
     "wof:geomhash":"a9efe0c6eeb2f375adf60c8e2d1a2f51",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861697,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":135652375
         }
     ],
     "wof:id":135652375,
-    "wof:lastmodified":1501088774,
+    "wof:lastmodified":1513989156,
     "wof:name":"Schwarzschild Ochs Pty Ltd.",
     "wof:parent_id":85861697,
     "wof:placetype":"venue",

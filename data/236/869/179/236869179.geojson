@@ -36,11 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792241,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684613,
-        85785487,
-        85684331
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +50,20 @@
     "wof:geomhash":"fa7d20351ad552d7ac3c5121fe44c016",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792241,
-            "region_id":85684613,
-            "venue_id":236869179
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85785487,
-            "region_id":85684331,
+            "region_id":-1,
             "venue_id":236869179
         }
     ],
     "wof:id":236869179,
-    "wof:lastmodified":1496964015,
+    "wof:lastmodified":1513998878,
     "wof:name":"Ted Electrical Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85792241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

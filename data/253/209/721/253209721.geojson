@@ -35,14 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85791255,
-        "102191581",
-        404435563,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85633159,
+        1158857261,
         85792303,
+        404453185,
         85684231
     ],
     "wof:breaches":[],
@@ -53,24 +52,28 @@
     "wof:geomhash":"9d359744cc0f195cfe144e159f4a1370",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857261,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85791255,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":253209721
         },
         {
+            "continent_id":102191581,
             "country_id":85633159,
+            "localadmin_id":404453185,
+            "locality_id":-1,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792303,
             "region_id":85684231,
             "venue_id":253209721
         }
     ],
     "wof:id":253209721,
-    "wof:lastmodified":1496963394,
+    "wof:lastmodified":1513975484,
     "wof:name":"Abacus Associates",
     "wof:parent_id":-3,
     "wof:placetype":"venue",

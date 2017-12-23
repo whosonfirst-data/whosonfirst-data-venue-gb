@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85860519,
+        102191581,
         85633159,
-        85860571,
-        85684337
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,20 @@
     "wof:geomhash":"b7b601a9799be94b205bdc7f3988ce04",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860571,
-            "region_id":85684337,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860519,
+            "region_id":-1,
             "venue_id":119275931
         }
     ],
     "wof:id":119275931,
-    "wof:lastmodified":1496966871,
+    "wof:lastmodified":1513996242,
     "wof:name":"Kevin Heelan",
-    "wof:parent_id":85860571,
+    "wof:parent_id":85860519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

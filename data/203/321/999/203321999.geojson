@@ -30,10 +30,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1158894007,
         85791077,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683671
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,21 @@
     "wof:geomhash":"3d3ec91cc316c21030d6fc9327f1d1d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
+            "microhood_id":1158894007,
             "neighbourhood_id":85791077,
-            "region_id":85683671,
+            "region_id":-1,
             "venue_id":203321999
         }
     ],
     "wof:id":203321999,
-    "wof:lastmodified":1496960303,
+    "wof:lastmodified":1513989684,
     "wof:name":"Ewell,M W,",
-    "wof:parent_id":85791077,
+    "wof:parent_id":1158894007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

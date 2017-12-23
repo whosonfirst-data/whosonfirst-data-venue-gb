@@ -34,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85792161,
+        102191581,
+        1158864487,
         85633159,
+        404227469,
         101750367,
-        85683683
+        1158857273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +49,19 @@
     "wof:geomhash":"ae3f2cd1257aca75b5b495e1d29c9a80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857273,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158864487,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792161,
-            "region_id":85683683,
+            "region_id":-1,
             "venue_id":303111115
         }
     ],
     "wof:id":303111115,
-    "wof:lastmodified":1496938867,
+    "wof:lastmodified":1513984604,
     "wof:name":"Highway 57 Web Design",
     "wof:parent_id":85792161,
     "wof:placetype":"venue",

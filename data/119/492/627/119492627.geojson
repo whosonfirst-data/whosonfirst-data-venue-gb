@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785689,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"41da9344050271eff635239e52865843",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785689,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":119492627
         }
     ],
     "wof:id":119492627,
-    "wof:lastmodified":1496968000,
+    "wof:lastmodified":1513976237,
     "wof:name":"Ravensbourne NHS Trust",
     "wof:parent_id":85785689,
     "wof:placetype":"venue",

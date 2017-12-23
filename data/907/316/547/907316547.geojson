@@ -34,14 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865125,
-        "102191581",
-        404435563,
-        "85633159",
+        85861771,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85861711
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,30 +50,20 @@
     "wof:geomhash":"e700cd1fe75c3735e315b287d57f2660",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857277,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
-            "neighbourhood_id":85865125,
-            "region_id":85684061,
-            "venue_id":907316547
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85861711,
-            "region_id":85684061,
+            "neighbourhood_id":85861771,
+            "region_id":-1,
             "venue_id":907316547
         }
     ],
     "wof:id":907316547,
-    "wof:lastmodified":1496970744,
+    "wof:lastmodified":1513990991,
     "wof:name":"T C Motors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85861771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

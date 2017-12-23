@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789351,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"e1fcf06d5bdb3c34cf7b68ff576f86db",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789351,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":118931939
         }
     ],
     "wof:id":118931939,
-    "wof:lastmodified":1496965652,
+    "wof:lastmodified":1513991239,
     "wof:name":"Martins",
     "wof:parent_id":85789351,
     "wof:placetype":"venue",

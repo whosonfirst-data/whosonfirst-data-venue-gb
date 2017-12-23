@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790821,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,18 @@
     "wof:geomhash":"7a24dd1ee0f540d169fcd0a0f15d3746",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790821,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":135553695
         }
     ],
     "wof:id":135553695,
-    "wof:lastmodified":1496962233,
+    "wof:lastmodified":1513984851,
     "wof:name":"The Mulberry Cafe",
     "wof:parent_id":85790821,
     "wof:placetype":"venue",

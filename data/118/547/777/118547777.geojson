@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860469,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"6d6c738467a4730bf25e1e86f21e1b15",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860469,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":118547777
         }
     ],
     "wof:id":118547777,
-    "wof:lastmodified":1496965398,
+    "wof:lastmodified":1513986822,
     "wof:name":"Broadway Radio Cars & Couriers Ltd.",
     "wof:parent_id":85860469,
     "wof:placetype":"venue",

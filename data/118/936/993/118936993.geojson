@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790809,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"769d63fa257b02bdd232bf3124fc50d3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790809,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":118936993
         }
     ],
     "wof:id":118936993,
-    "wof:lastmodified":1496965469,
+    "wof:lastmodified":1514002668,
     "wof:name":"Pocock,Duncan,(Insurance Brokers) Ltd",
     "wof:parent_id":85790809,
     "wof:placetype":"venue",

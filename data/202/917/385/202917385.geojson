@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860883,
+        85786805,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     "wof:geomhash":"1d7839490d8eb1f69f06eea87b8270d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860883,
-            "region_id":85684061,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786805,
+            "region_id":-1,
             "venue_id":202917385
         }
     ],
     "wof:id":202917385,
-    "wof:lastmodified":1496964813,
+    "wof:lastmodified":1513976273,
     "wof:name":"Drury Tea & Coffee Co",
-    "wof:parent_id":85860883,
+    "wof:parent_id":85786805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

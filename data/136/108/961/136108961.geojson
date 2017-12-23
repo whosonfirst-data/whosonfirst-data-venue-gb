@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860751,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"edcb1f5640eb9ba0ffdeba445f1e2708",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860751,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":136108961
         }
     ],
     "wof:id":136108961,
-    "wof:lastmodified":1496963754,
+    "wof:lastmodified":1513998535,
     "wof:name":"Sunrise Bakers",
     "wof:parent_id":85860751,
     "wof:placetype":"venue",

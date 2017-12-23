@@ -34,14 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861189,
-        "102191581",
-        404435563,
-        "85633159",
+        85788555,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85788555
+        1158857295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,30 +49,20 @@
     "wof:geomhash":"03e81b51e2d4ab893ff38a52f78c1fa7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85861189,
-            "region_id":85684061,
-            "venue_id":202548557
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857295,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85788555,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":202548557
         }
     ],
     "wof:id":202548557,
-    "wof:lastmodified":1496964987,
+    "wof:lastmodified":1513981016,
     "wof:name":"Building & Management Services Consultancy",
-    "wof:parent_id":-3,
+    "wof:parent_id":85788555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786877,
-        85684331
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"e62ae730b3dcd086d6468e289a8fa3b1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786877,
-            "region_id":85684331,
+            "region_id":-1,
             "venue_id":102622461
         }
     ],
     "wof:id":102622461,
-    "wof:lastmodified":1496968931,
+    "wof:lastmodified":1513985724,
     "wof:name":"Montys Furniture Warehouse",
     "wof:parent_id":85786877,
     "wof:placetype":"venue",

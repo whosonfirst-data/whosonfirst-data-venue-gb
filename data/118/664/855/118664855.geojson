@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789715,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"6d3450998869dd2ae8e0f99a3f7f4abb",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789715,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":118664855
         }
     ],
     "wof:id":118664855,
-    "wof:lastmodified":1496966281,
+    "wof:lastmodified":1513997294,
     "wof:name":"Senem Ltd",
     "wof:parent_id":85789715,
     "wof:placetype":"venue",

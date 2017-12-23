@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785335,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"7b60a96fb1953550277267fc31b57ebf",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785335,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":118815229
         }
     ],
     "wof:id":118815229,
-    "wof:lastmodified":1496965863,
+    "wof:lastmodified":1513979304,
     "wof:name":"Bruce King",
     "wof:parent_id":85785335,
     "wof:placetype":"venue",

@@ -31,12 +31,15 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
-        85791773,
-        85684441,
         85860849,
-        85684217
+        102191581,
+        404437543,
+        85633159,
+        404227469,
+        85684217,
+        85791773,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,23 +49,30 @@
     "wof:geomhash":"92916116628a9127051e7d53200a60da",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85791773,
-            "region_id":85684441,
+            "localadmin_id":404437543,
+            "locality_id":-1,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860849,
+            "region_id":85684217,
             "venue_id":119402283
         },
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
-            "neighbourhood_id":85860849,
-            "region_id":85684217,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791773,
+            "region_id":-1,
             "venue_id":119402283
         }
     ],
     "wof:id":119402283,
-    "wof:lastmodified":1496967468,
+    "wof:lastmodified":1513992939,
     "wof:name":"Computers for Business & Leisure",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

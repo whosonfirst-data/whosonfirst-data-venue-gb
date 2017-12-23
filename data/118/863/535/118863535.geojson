@@ -42,10 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860241,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,18 @@
     "wof:geomhash":"c245fde2a8a5cfd13d116e1887f4fc44",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860241,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":118863535
         }
     ],
     "wof:id":118863535,
-    "wof:lastmodified":1496966014,
+    "wof:lastmodified":1514000823,
     "wof:name":"Intour Kitchens Ltd",
     "wof:parent_id":85860241,
     "wof:placetype":"venue",

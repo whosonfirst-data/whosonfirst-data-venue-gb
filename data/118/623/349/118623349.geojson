@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787633,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"90c916215bc6d485d7d9df4db15b3a3e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787633,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":118623349
         }
     ],
     "wof:id":118623349,
-    "wof:lastmodified":1496965529,
+    "wof:lastmodified":1513985314,
     "wof:name":"Nirdosh Kumar",
     "wof:parent_id":85787633,
     "wof:placetype":"venue",

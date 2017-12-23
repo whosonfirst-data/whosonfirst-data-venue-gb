@@ -31,9 +31,12 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785225,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:brand_id":1125157259,
     "wof:breaches":[],
@@ -44,14 +47,18 @@
     "wof:geomhash":"f0e8244f4b0df5bc686f2cb70db9db9c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785225,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":118883869
         }
     ],
     "wof:id":118883869,
-    "wof:lastmodified":1511317395,
+    "wof:lastmodified":1513999967,
     "wof:name":"St Marys Church",
     "wof:parent_id":85785225,
     "wof:placetype":"venue",

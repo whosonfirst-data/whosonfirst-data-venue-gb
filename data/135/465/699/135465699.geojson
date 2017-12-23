@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860375,
-        85684071
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"0ea41c9eada0912144a63b99031c2fa0",
     "wof:hierarchy":[
         {
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860375,
-            "region_id":85684071,
+            "region_id":-1,
             "venue_id":135465699
         }
     ],
     "wof:id":135465699,
-    "wof:lastmodified":1496961086,
+    "wof:lastmodified":1513986702,
     "wof:name":"C E D A",
     "wof:parent_id":85860375,
     "wof:placetype":"venue",

@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787633,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"f178dbc09974c360fa2bb676bdd1ebe4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787633,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":102615191
         }
     ],
     "wof:id":102615191,
-    "wof:lastmodified":1496968893,
+    "wof:lastmodified":1513999318,
     "wof:name":"Carpet Matters Ltd.",
     "wof:parent_id":85787633,
     "wof:placetype":"venue",

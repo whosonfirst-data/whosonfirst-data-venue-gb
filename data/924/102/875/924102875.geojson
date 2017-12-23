@@ -31,13 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860827,
-        "102191581",
-        404435563,
-        "85633159",
+        85789115,
+        102191581,
+        1158864717,
+        85633159,
         404227469,
         101750367,
-        85684061
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,20 +48,21 @@
     "wof:geomhash":"ff1a8c8b7470cbd8e82bd0551bf8cbbb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857269,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158864717,
             "macroregion_id":404227469,
-            "neighbourhood_id":85860827,
-            "region_id":85684061,
+            "neighbourhood_id":85789115,
+            "region_id":-1,
             "venue_id":924102875
         }
     ],
     "wof:id":924102875,
-    "wof:lastmodified":1496957194,
+    "wof:lastmodified":1513991252,
     "wof:name":"Telos Bioinformatics Ltd",
-    "wof:parent_id":85860827,
+    "wof:parent_id":85789115,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

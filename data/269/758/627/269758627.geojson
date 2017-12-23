@@ -31,9 +31,12 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85789283,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:brand_id":1125159703,
     "wof:breaches":[],
@@ -44,14 +47,18 @@
     "wof:geomhash":"c86f057142fd1bb45d12c349a3c69502",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789283,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":269758627
         }
     ],
     "wof:id":269758627,
-    "wof:lastmodified":1510613380,
+    "wof:lastmodified":1513989424,
     "wof:name":"Starburger",
     "wof:parent_id":85789283,
     "wof:placetype":"venue",

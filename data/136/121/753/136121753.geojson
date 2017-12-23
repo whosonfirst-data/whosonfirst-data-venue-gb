@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792125,
-        85684289
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,18 @@
     "wof:geomhash":"3b36210d1909c152601e52b71ed0b30b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792125,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":136121753
         }
     ],
     "wof:id":136121753,
-    "wof:lastmodified":1496963841,
+    "wof:lastmodified":1513998913,
     "wof:name":"The Honest Cabbage",
     "wof:parent_id":85792125,
     "wof:placetype":"venue",

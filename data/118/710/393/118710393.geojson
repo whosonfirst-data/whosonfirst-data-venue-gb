@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860185,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"bdcb2794fb49f41690cf3f801aa840cc",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860185,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":118710393
         }
     ],
     "wof:id":118710393,
-    "wof:lastmodified":1501088764,
+    "wof:lastmodified":1513998488,
     "wof:name":"Paxcrest Ltd.",
     "wof:parent_id":85860185,
     "wof:placetype":"venue",

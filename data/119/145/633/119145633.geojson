@@ -36,10 +36,13 @@
     "sg:website":"http://www.oxfam.org.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85790639,
+        102191581,
+        1158859031,
         85633159,
-        85792357,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:brand_id":420574369,
     "wof:breaches":[],
@@ -51,17 +54,21 @@
     "wof:geomhash":"93f1b568397891603c5a8f2715df8519",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792357,
-            "region_id":85684061,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790639,
+            "region_id":-1,
             "venue_id":119145633
         }
     ],
     "wof:id":119145633,
-    "wof:lastmodified":1510941819,
+    "wof:lastmodified":1513986511,
     "wof:name":"Oxfam",
-    "wof:parent_id":85792357,
+    "wof:parent_id":85790639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

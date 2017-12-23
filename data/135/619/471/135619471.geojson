@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860151,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"cd2fa29d066fe8fff8ba6babd5b3cf87",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860151,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":135619471
         }
     ],
     "wof:id":135619471,
-    "wof:lastmodified":1496961098,
+    "wof:lastmodified":1513997661,
     "wof:name":"Spreads Plastering Services",
     "wof:parent_id":85860151,
     "wof:placetype":"venue",

@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792151,
-        85684289
+        102191581,
+        1158884889,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +50,19 @@
     "wof:geomhash":"2df04b7f4fdb3a2fb7ce46b7aced02a1",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158884889,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792151,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":119413689
         }
     ],
     "wof:id":119413689,
-    "wof:lastmodified":1496967819,
+    "wof:lastmodified":1513995377,
     "wof:name":"Bruggemeyer's Osteopathic Practice",
     "wof:parent_id":85792151,
     "wof:placetype":"venue",

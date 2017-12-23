@@ -38,10 +38,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792145,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:brand_id":1125155693,
     "wof:breaches":[],
@@ -52,15 +54,18 @@
     "wof:geomhash":"3ef73bafc071666eb700ada5212acc04",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792145,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":119151699
         }
     ],
     "wof:id":119151699,
-    "wof:lastmodified":1511318452,
+    "wof:lastmodified":1513973273,
     "wof:name":"The Wheatsheaf",
     "wof:parent_id":85792145,
     "wof:placetype":"venue",

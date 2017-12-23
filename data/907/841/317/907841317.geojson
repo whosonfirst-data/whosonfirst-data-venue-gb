@@ -31,13 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882211,
-        "102191581",
-        404435563,
-        "85633159",
+        1158860445,
+        102191581,
+        1158860453,
+        85633159,
         404227469,
         101750367,
-        85684061
+        1158857315
     ],
     "wof:brand_id":1125154007,
     "wof:breaches":[],
@@ -49,20 +49,21 @@
     "wof:geomhash":"dc65c272bfd526955b47e64054df4de6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857315,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158860453,
             "macroregion_id":404227469,
-            "neighbourhood_id":85882211,
-            "region_id":85684061,
+            "neighbourhood_id":1158860445,
+            "region_id":-1,
             "venue_id":907841317
         }
     ],
     "wof:id":907841317,
-    "wof:lastmodified":1511317281,
+    "wof:lastmodified":1513979049,
     "wof:name":"The Flower Shop",
-    "wof:parent_id":85882211,
+    "wof:parent_id":1158860445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

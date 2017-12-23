@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788761,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"cb4677575389caadcdf578d5b1d09245",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788761,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":135451049
         }
     ],
     "wof:id":135451049,
-    "wof:lastmodified":1496960973,
+    "wof:lastmodified":1513987207,
     "wof:name":"Bannas",
     "wof:parent_id":85788761,
     "wof:placetype":"venue",

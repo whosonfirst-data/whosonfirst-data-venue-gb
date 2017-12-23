@@ -31,14 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869861,
-        "102191581",
-        404435563,
-        "85633159",
+        85787621,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85787621
+        1158857285,
+        85869861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,30 +48,30 @@
     "wof:geomhash":"8f44450e1d6ab5abc34c8f9611a64e87",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85869861,
-            "region_id":85684061,
-            "venue_id":923934253
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857285,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85787621,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":923934253
+        },
+        {
+            "borough_id":1158857285,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85869861,
+            "region_id":-1,
             "venue_id":923934253
         }
     ],
     "wof:id":923934253,
-    "wof:lastmodified":1496969541,
+    "wof:lastmodified":1513990722,
     "wof:name":"George H. Kestel Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

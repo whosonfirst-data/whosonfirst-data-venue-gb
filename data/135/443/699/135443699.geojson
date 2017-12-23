@@ -34,12 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85869851,
-        85684289,
-        85860897,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +49,20 @@
     "wof:geomhash":"9787b497bdd60cad5e5b0650c7d59329",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869851,
-            "region_id":85684289,
-            "venue_id":135443699
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85860897,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":135443699
         }
     ],
     "wof:id":135443699,
-    "wof:lastmodified":1496961443,
+    "wof:lastmodified":1514002684,
     "wof:name":"Southwark Roman Catholic Metropolitan Tribunal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861643,
+        85792129,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +45,20 @@
     "wof:geomhash":"11c86a64f13dc6bf8ed86117ebf9469e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861643,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792129,
+            "region_id":-1,
             "venue_id":320575015
         }
     ],
     "wof:id":320575015,
-    "wof:lastmodified":1496962450,
+    "wof:lastmodified":1513981630,
     "wof:name":"21ST Century Communications Ltd",
-    "wof:parent_id":85861643,
+    "wof:parent_id":85792129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -33,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85793305,
+        85791523,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684533,
-        85791523
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +48,20 @@
     "wof:geomhash":"95147f2dfb6bccdb3266d92628dd15cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85793305,
-            "region_id":85684533,
-            "venue_id":287180697
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791523,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":287180697
         }
     ],
     "wof:id":287180697,
-    "wof:lastmodified":1496973768,
+    "wof:lastmodified":1513986642,
     "wof:name":"Fox & Partners Builders & Decorators",
-    "wof:parent_id":-1,
+    "wof:parent_id":85791523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

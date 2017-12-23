@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85861673,
+        102191581,
         85633159,
-        85792171,
-        85684071
+        404227469,
+        101750367,
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,20 @@
     "wof:geomhash":"5c5cdfec707af4342faed73182ebe39c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792171,
-            "region_id":85684071,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861673,
+            "region_id":-1,
             "venue_id":119474913
         }
     ],
     "wof:id":119474913,
-    "wof:lastmodified":1501088754,
+    "wof:lastmodified":1513974005,
     "wof:name":"The Market Research Society",
-    "wof:parent_id":85792171,
+    "wof:parent_id":85861673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

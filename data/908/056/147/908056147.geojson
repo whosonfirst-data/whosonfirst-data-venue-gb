@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785689,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"c45b755918ced7f99c76aeb30d6945d5",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785689,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":908056147
         }
     ],
     "wof:id":908056147,
-    "wof:lastmodified":1496942606,
+    "wof:lastmodified":1513973000,
     "wof:name":"Biggin Hill Social & Sports Club",
     "wof:parent_id":85785689,
     "wof:placetype":"venue",

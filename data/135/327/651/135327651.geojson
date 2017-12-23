@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790873,
-        85684337
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"b44c5fe477d12d06e380ab96f35bce28",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790873,
-            "region_id":85684337,
+            "region_id":-1,
             "venue_id":135327651
         }
     ],
     "wof:id":135327651,
-    "wof:lastmodified":1496961829,
+    "wof:lastmodified":1513972970,
     "wof:name":"New Park Cars",
     "wof:parent_id":85790873,
     "wof:placetype":"venue",

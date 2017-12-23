@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860209,
-        85683683
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"d5b33957423e0ca0589cdc274273f6e9",
     "wof:hierarchy":[
         {
+            "borough_id":1158857273,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860209,
-            "region_id":85683683,
+            "region_id":-1,
             "venue_id":136114351
         }
     ],
     "wof:id":136114351,
-    "wof:lastmodified":1496963946,
+    "wof:lastmodified":1513999805,
     "wof:name":"Abbeyfield Hackney Society",
     "wof:parent_id":85860209,
     "wof:placetype":"venue",

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786511,
-        85683667
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"8d9ec281f903096269481d2ffa807c17",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786511,
-            "region_id":85683667,
+            "region_id":-1,
             "venue_id":118844177
         }
     ],
     "wof:id":118844177,
-    "wof:lastmodified":1496965551,
+    "wof:lastmodified":1513981740,
     "wof:name":"London Irish Rifles",
     "wof:parent_id":85786511,
     "wof:placetype":"venue",

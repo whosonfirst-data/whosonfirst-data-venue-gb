@@ -31,10 +31,12 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861805,
-        85683649
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857303
     ],
     "wof:brand_id":1125154747,
     "wof:breaches":[],
@@ -45,15 +47,18 @@
     "wof:geomhash":"9d296942bae326d0f92abdf94b4ac4c8",
     "wof:hierarchy":[
         {
+            "borough_id":1158857303,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861805,
-            "region_id":85683649,
+            "region_id":-1,
             "venue_id":135288131
         }
     ],
     "wof:id":135288131,
-    "wof:lastmodified":1511318886,
+    "wof:lastmodified":1514000090,
     "wof:name":"Going Places",
     "wof:parent_id":85861805,
     "wof:placetype":"venue",

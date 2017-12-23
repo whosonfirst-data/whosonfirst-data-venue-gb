@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860095,
-        85683763
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"e01b087c57ba18588c3bb3e84e340bc2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857255,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860095,
-            "region_id":85683763,
+            "region_id":-1,
             "venue_id":102695969
         }
     ],
     "wof:id":102695969,
-    "wof:lastmodified":1496969017,
+    "wof:lastmodified":1514002142,
     "wof:name":"Tax Return Consultants Ltd",
     "wof:parent_id":85860095,
     "wof:placetype":"venue",

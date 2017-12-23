@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860669,
-        85684099
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"b7f02597193b4a97d39a556263ba5b7d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857305,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860669,
-            "region_id":85684099,
+            "region_id":-1,
             "venue_id":135315005
         }
     ],
     "wof:id":135315005,
-    "wof:lastmodified":1496961347,
+    "wof:lastmodified":1513988151,
     "wof:name":"Clarke Builders",
     "wof:parent_id":85860669,
     "wof:placetype":"venue",

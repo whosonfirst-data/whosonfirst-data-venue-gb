@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790809,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:brand_id":1125155235,
     "wof:breaches":[],
@@ -45,15 +47,18 @@
     "wof:geomhash":"2018813902f0aed2fca20b67df09e150",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790809,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":118936671
         }
     ],
     "wof:id":118936671,
-    "wof:lastmodified":1511317397,
+    "wof:lastmodified":1514001235,
     "wof:name":"Christine",
     "wof:parent_id":85790809,
     "wof:placetype":"venue",

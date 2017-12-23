@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792357,
-        85684061
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"04028587029bf5ee4077086bf9673b2b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792357,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":119145611
         }
     ],
     "wof:id":119145611,
-    "wof:lastmodified":1496968075,
+    "wof:lastmodified":1513996092,
     "wof:name":"The Green Man",
     "wof:parent_id":85792357,
     "wof:placetype":"venue",

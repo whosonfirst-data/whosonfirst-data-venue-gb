@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158857437,
+        102191581,
         85633159,
-        85859979,
-        85683649
+        404227469,
+        101750367,
+        1158857303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,20 @@
     "wof:geomhash":"cbc74adb4bb3509ad41fd569aa273675",
     "wof:hierarchy":[
         {
+            "borough_id":1158857303,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85859979,
-            "region_id":85683649,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158857437,
+            "region_id":-1,
             "venue_id":118940351
         }
     ],
     "wof:id":118940351,
-    "wof:lastmodified":1496966165,
+    "wof:lastmodified":1513992347,
     "wof:name":"Peter Lambeth",
-    "wof:parent_id":85859979,
+    "wof:parent_id":1158857437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

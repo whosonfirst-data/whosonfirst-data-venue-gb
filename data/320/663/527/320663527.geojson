@@ -35,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785451,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683671,
-        85860651
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +49,20 @@
     "wof:geomhash":"eb7caebe4355b594fa9258a702a30b4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785451,
-            "region_id":85683671,
-            "venue_id":320663527
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85860651,
-            "region_id":85683671,
+            "region_id":-1,
             "venue_id":320663527
         }
     ],
     "wof:id":320663527,
-    "wof:lastmodified":1496962740,
+    "wof:lastmodified":1514002668,
     "wof:name":"Mjk Associates Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85785451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

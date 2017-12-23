@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792151,
+        1158884879,
+        102191581,
+        1158884889,
         85633159,
+        404227469,
         101750367,
-        85684289
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,21 @@
     "wof:geomhash":"a4f98f803cb6ff550812e5823d6b3d1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792151,
-            "region_id":85684289,
+            "macrohood_id":1158884889,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158884879,
+            "region_id":-1,
             "venue_id":286814517
         }
     ],
     "wof:id":286814517,
-    "wof:lastmodified":1501088748,
+    "wof:lastmodified":1513992049,
     "wof:name":"Keyhold Property Management",
-    "wof:parent_id":85792151,
+    "wof:parent_id":1158884879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

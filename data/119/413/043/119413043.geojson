@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860151,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"daa865cd935a0aef7176aa04512b1790",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860151,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":119413043
         }
     ],
     "wof:id":119413043,
-    "wof:lastmodified":1496967821,
+    "wof:lastmodified":1513993726,
     "wof:name":"Garrod,Geoffrey William,",
     "wof:parent_id":85860151,
     "wof:placetype":"venue",

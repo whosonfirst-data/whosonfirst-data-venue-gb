@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102556703,
         85788065,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683711
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +50,21 @@
     "wof:geomhash":"3a435a83f733cc3f050724c32bd7fcf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857261,
+            "campus_id":102556703,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788065,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":303402957
         }
     ],
     "wof:id":303402957,
-    "wof:lastmodified":1496937926,
+    "wof:lastmodified":1513997635,
     "wof:name":"Harlington Consultants Ltd.",
-    "wof:parent_id":85788065,
+    "wof:parent_id":102556703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

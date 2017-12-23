@@ -39,10 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791685,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,18 @@
     "wof:geomhash":"d13657723769c9e820d6e6eeb93a1e86",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791685,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":119317229
         }
     ],
     "wof:id":119317229,
-    "wof:lastmodified":1496967708,
+    "wof:lastmodified":1513994736,
     "wof:name":"Quakers Religious Society Of Friends",
     "wof:parent_id":85791685,
     "wof:placetype":"venue",

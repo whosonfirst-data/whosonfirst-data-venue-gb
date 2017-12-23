@@ -33,12 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860651,
+        85860647,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683671,
-        85790809,
-        85684533
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +48,20 @@
     "wof:geomhash":"84730006042068e038764cdb47038738",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860651,
-            "region_id":85683671,
-            "venue_id":269605605
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85790809,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860647,
+            "region_id":-1,
             "venue_id":269605605
         }
     ],
     "wof:id":269605605,
-    "wof:lastmodified":1496964587,
+    "wof:lastmodified":1513985769,
     "wof:name":"Hirst,Vivien M,",
-    "wof:parent_id":-1,
+    "wof:parent_id":85860647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

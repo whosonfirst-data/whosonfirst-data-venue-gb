@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785259,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"e27be92415390e1ee4ab3867a1832194",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785259,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":119214335
         }
     ],
     "wof:id":119214335,
-    "wof:lastmodified":1496966818,
+    "wof:lastmodified":1514000588,
     "wof:name":"Alpha Kitchens",
     "wof:parent_id":85785259,
     "wof:placetype":"venue",

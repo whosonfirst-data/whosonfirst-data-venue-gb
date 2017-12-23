@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85789319,
+        85787005,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684337
+        1158857299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"4875666b61c7e848d9f730d4c8869eeb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789319,
-            "region_id":85684337,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85787005,
+            "region_id":-1,
             "venue_id":236218847
         }
     ],
     "wof:id":236218847,
-    "wof:lastmodified":1496964046,
+    "wof:lastmodified":1513984800,
     "wof:name":"PC Paper Direct",
-    "wof:parent_id":85789319,
+    "wof:parent_id":85787005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

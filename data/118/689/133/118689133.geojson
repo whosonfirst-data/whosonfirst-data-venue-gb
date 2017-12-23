@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787825,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"ac8c79a5ba55d65247db1e1fa0c31e65",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787825,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":118689133
         }
     ],
     "wof:id":118689133,
-    "wof:lastmodified":1496965573,
+    "wof:lastmodified":1513989984,
     "wof:name":"Chauffeured Elegance",
     "wof:parent_id":85787825,
     "wof:placetype":"venue",

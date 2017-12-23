@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860281,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"fd84e6776432ef6f9949d9808df0e330",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860281,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":135916337
         }
     ],
     "wof:id":135916337,
-    "wof:lastmodified":1496961422,
+    "wof:lastmodified":1513977384,
     "wof:name":"Kashmir Halal Meats",
     "wof:parent_id":85860281,
     "wof:placetype":"venue",

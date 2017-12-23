@@ -34,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85789817,
+        102191581,
         85633159,
-        85792371,
-        85684235,
-        85789817
+        404227469,
+        101750367,
+        1158857297,
+        85792371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +50,30 @@
     "wof:geomhash":"4dd0583c6ac9032b4c3522799c2700df",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792371,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789817,
+            "region_id":-1,
             "venue_id":135580291
         },
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789817,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792371,
+            "region_id":-1,
             "venue_id":135580291
         }
     ],
     "wof:id":135580291,
-    "wof:lastmodified":1496961027,
+    "wof:lastmodified":1513990888,
     "wof:name":"Possibilities",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

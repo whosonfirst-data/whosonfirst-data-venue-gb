@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787423,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"0b3befd86be4af516b205f8a0c4d26d4",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787423,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":135320273
         }
     ],
     "wof:id":135320273,
-    "wof:lastmodified":1496961371,
+    "wof:lastmodified":1513981966,
     "wof:name":"Electrotect Security Systems",
     "wof:parent_id":85787423,
     "wof:placetype":"venue",

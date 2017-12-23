@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85860465,
+        102191581,
         85633159,
-        85860457,
-        85684597
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,20 @@
     "wof:geomhash":"a213b878941b65622ae605ca841f4249",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860457,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860465,
+            "region_id":-1,
             "venue_id":119243253
         }
     ],
     "wof:id":119243253,
-    "wof:lastmodified":1496967157,
+    "wof:lastmodified":1513982370,
     "wof:name":"S Sebarajah",
-    "wof:parent_id":85860457,
+    "wof:parent_id":85860465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

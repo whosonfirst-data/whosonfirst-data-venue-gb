@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787633,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"298fc49f57130b4c35f1a81f9f6f2567",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787633,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":119400295
         }
     ],
     "wof:id":119400295,
-    "wof:lastmodified":1496967041,
+    "wof:lastmodified":1513979362,
     "wof:name":"Fugitive Clothing Co",
     "wof:parent_id":85787633,
     "wof:placetype":"venue",

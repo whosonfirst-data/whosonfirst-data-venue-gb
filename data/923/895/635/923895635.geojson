@@ -31,14 +31,14 @@
     "sg:province":"Kent",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85790339,
-        "102191581",
-        404435563,
-        "85633159",
+        85790647,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85790647
+        1158857297,
+        85790339,
+        1158857255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,30 +49,30 @@
     "wof:geomhash":"175f797d36ff9ae986ed167eca097a35",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85790339,
-            "region_id":85684061,
-            "venue_id":923895635
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857297,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85790647,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":923895635
+        },
+        {
+            "borough_id":1158857255,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790339,
+            "region_id":-1,
             "venue_id":923895635
         }
     ],
     "wof:id":923895635,
-    "wof:lastmodified":1496969080,
+    "wof:lastmodified":1513982663,
     "wof:name":"D F S Furniture Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

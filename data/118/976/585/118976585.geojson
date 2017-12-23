@@ -39,10 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787295,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,18 @@
     "wof:geomhash":"f400b4c5f230eaff51db38284bb61ebe",
     "wof:hierarchy":[
         {
+            "borough_id":1158857255,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787295,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":118976585
         }
     ],
     "wof:id":118976585,
-    "wof:lastmodified":1496965829,
+    "wof:lastmodified":1513981270,
     "wof:name":"Homeleigh",
     "wof:parent_id":85787295,
     "wof:placetype":"venue",

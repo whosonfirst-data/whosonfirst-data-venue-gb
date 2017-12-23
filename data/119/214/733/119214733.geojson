@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860365,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"40d9a4e5b1ed4c2b7944517c2cf027b5",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860365,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":119214733
         }
     ],
     "wof:id":119214733,
-    "wof:lastmodified":1496966819,
+    "wof:lastmodified":1513989298,
     "wof:name":"Chris Andrews",
     "wof:parent_id":85860365,
     "wof:placetype":"venue",

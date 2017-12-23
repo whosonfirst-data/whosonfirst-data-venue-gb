@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787877,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"9bf6a5e94f83ed525870f50eb579d320",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787877,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":119473429
         }
     ],
     "wof:id":119473429,
-    "wof:lastmodified":1501088768,
+    "wof:lastmodified":1513994463,
     "wof:name":"R & D Accountancy",
     "wof:parent_id":85787877,
     "wof:placetype":"venue",

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787149,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"0b0d6ea67d1fbfb5bb6e102e58ead40f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787149,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":135491075
         }
     ],
     "wof:id":135491075,
-    "wof:lastmodified":1496962320,
+    "wof:lastmodified":1513995738,
     "wof:name":"East Barnet School",
     "wof:parent_id":85787149,
     "wof:placetype":"venue",

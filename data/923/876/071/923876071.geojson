@@ -43,9 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85861733,
-        85684141
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +59,18 @@
     "wof:geomhash":"0330156a6fa081943e7f98ec1b7ea248",
     "wof:hierarchy":[
         {
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861733,
-            "region_id":85684141,
+            "region_id":-1,
             "venue_id":923876071
         }
     ],
     "wof:id":923876071,
-    "wof:lastmodified":1496969501,
+    "wof:lastmodified":1513999279,
     "wof:name":"The Raob Hall",
     "wof:parent_id":85861733,
     "wof:placetype":"venue",

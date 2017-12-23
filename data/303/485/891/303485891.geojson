@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860165,
+        85793299,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684467
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +45,20 @@
     "wof:geomhash":"35fa963f4b7a67346318ca111d0e21e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860165,
-            "region_id":85684467,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85793299,
+            "region_id":-1,
             "venue_id":303485891
         }
     ],
     "wof:id":303485891,
-    "wof:lastmodified":1496937342,
+    "wof:lastmodified":1513991377,
     "wof:name":"Painter,Ivan,",
-    "wof:parent_id":85860165,
+    "wof:parent_id":85793299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

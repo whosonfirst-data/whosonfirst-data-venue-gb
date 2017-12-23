@@ -34,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860029,
-        85633159,
-        101750367,
-        85684235,
         85789637,
-        85684363
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297,
+        85860029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +50,30 @@
     "wof:geomhash":"75faec5e0194e68109801bb0a6260465",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860029,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789637,
+            "region_id":-1,
             "venue_id":270149349
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85789637,
-            "region_id":85684363,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860029,
+            "region_id":-1,
             "venue_id":270149349
         }
     ],
     "wof:id":270149349,
-    "wof:lastmodified":1496965350,
+    "wof:lastmodified":1513981230,
     "wof:name":"St.Olave's Grammar School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

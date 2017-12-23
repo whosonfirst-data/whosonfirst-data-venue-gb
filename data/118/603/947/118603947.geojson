@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790243,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"0f5aa79ca7ab532db1df5bc39ed00ea7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790243,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":118603947
         }
     ],
     "wof:id":118603947,
-    "wof:lastmodified":1496966158,
+    "wof:lastmodified":1513996623,
     "wof:name":"Adept Upholsterers",
     "wof:parent_id":85790243,
     "wof:placetype":"venue",

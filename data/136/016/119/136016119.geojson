@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85793297,
-        85684081
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,18 @@
     "wof:geomhash":"74d9bcf1054e76d2e7e07bdcb8471ab6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85793297,
-            "region_id":85684081,
+            "region_id":-1,
             "venue_id":136016119
         }
     ],
     "wof:id":136016119,
-    "wof:lastmodified":1496963718,
+    "wof:lastmodified":1513989132,
     "wof:name":"Insight Investment Management (Global) Ltd.",
     "wof:parent_id":85793297,
     "wof:placetype":"venue",

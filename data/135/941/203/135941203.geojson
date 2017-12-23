@@ -33,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85789795,
+        102191581,
         85633159,
-        85860553,
-        85684235,
-        85789795
+        404227469,
+        101750367,
+        1158857297,
+        85860553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +49,30 @@
     "wof:geomhash":"b6f114155064c908735f36afa00e81c6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860553,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789795,
+            "region_id":-1,
             "venue_id":135941203
         },
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85789795,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860553,
+            "region_id":-1,
             "venue_id":135941203
         }
     ],
     "wof:id":135941203,
-    "wof:lastmodified":1496961940,
+    "wof:lastmodified":1513982474,
     "wof:name":"Alpha Plus Systems Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861767,
-        85684081
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"1e08646ceba2fc423c05c9631fcf9504",
     "wof:hierarchy":[
         {
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861767,
-            "region_id":85684081,
+            "region_id":-1,
             "venue_id":135839963
         }
     ],
     "wof:id":135839963,
-    "wof:lastmodified":1496961093,
+    "wof:lastmodified":1513975647,
     "wof:name":"Long Lane Surgery",
     "wof:parent_id":85861767,
     "wof:placetype":"venue",

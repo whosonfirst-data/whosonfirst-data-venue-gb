@@ -37,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861697,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +53,19 @@
     "wof:geomhash":"fb31eb96dbd2f69ca63a04a5a5175835",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861697,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":119319067
         }
     ],
     "wof:id":119319067,
-    "wof:lastmodified":1496966895,
+    "wof:lastmodified":1513982199,
     "wof:name":"Universal Sound Principles Ltd.",
     "wof:parent_id":85861697,
     "wof:placetype":"venue",

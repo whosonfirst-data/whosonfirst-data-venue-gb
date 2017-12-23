@@ -34,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85861689,
+        102191581,
         85633159,
+        404227469,
+        101750367,
+        1158857269,
         85788761,
-        85684273,
-        85861689
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +52,30 @@
     "wof:geomhash":"c4e060032c5a7abc30c7692bd287c276",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85788761,
-            "region_id":85684273,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861689,
+            "region_id":-1,
             "venue_id":118508497
         },
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861689,
-            "region_id":85684273,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788761,
+            "region_id":-1,
             "venue_id":118508497
         }
     ],
     "wof:id":118508497,
-    "wof:lastmodified":1501088766,
+    "wof:lastmodified":1513998484,
     "wof:name":"Pizer-Macmillan Ltd.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

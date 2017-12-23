@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85788545,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"6cd88b135b862988c1368ef7d8497fae",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788545,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":119459087
         }
     ],
     "wof:id":119459087,
-    "wof:lastmodified":1496968009,
+    "wof:lastmodified":1513984195,
     "wof:name":"Kew West London Ltd.",
     "wof:parent_id":85788545,
     "wof:placetype":"venue",

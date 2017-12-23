@@ -43,10 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860631,
-        85684533
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,18 @@
     "wof:geomhash":"595aeafa9eb5253246e726b013c8bf20",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860631,
-            "region_id":85684533,
+            "region_id":-1,
             "venue_id":119279753
         }
     ],
     "wof:id":119279753,
-    "wof:lastmodified":1496967512,
+    "wof:lastmodified":1513996419,
     "wof:name":"John A Sparks & Co. Ltd.",
     "wof:parent_id":85860631,
     "wof:placetype":"venue",

@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860393,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"be810e15b96b7530f8a0d25e3cea3281",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860393,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":119509103
         }
     ],
     "wof:id":119509103,
-    "wof:lastmodified":1496967993,
+    "wof:lastmodified":1513994449,
     "wof:name":"Wittach,Anthony,",
     "wof:parent_id":85860393,
     "wof:placetype":"venue",

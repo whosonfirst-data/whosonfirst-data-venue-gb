@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792251,
-        85684381
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857281
     ],
     "wof:brand_id":420574265,
     "wof:breaches":[],
@@ -45,15 +47,18 @@
     "wof:geomhash":"f63684e3e3fbe860d6e57dc75aa19455",
     "wof:hierarchy":[
         {
+            "borough_id":1158857281,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792251,
-            "region_id":85684381,
+            "region_id":-1,
             "venue_id":119001343
         }
     ],
     "wof:id":119001343,
-    "wof:lastmodified":1496967254,
+    "wof:lastmodified":1513975454,
     "wof:name":"NatWest",
     "wof:parent_id":85792251,
     "wof:placetype":"venue",

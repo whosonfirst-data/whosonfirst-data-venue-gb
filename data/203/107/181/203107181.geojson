@@ -36,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861741,
+        85789041,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:brand_id":1125153113,
     "wof:breaches":[],
@@ -50,18 +53,21 @@
     "wof:geomhash":"0a00438781397777aefa56d398e63760",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861741,
-            "region_id":85684061,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789041,
+            "region_id":-1,
             "venue_id":203107181
         }
     ],
     "wof:id":203107181,
-    "wof:lastmodified":1510613461,
+    "wof:lastmodified":1513973139,
     "wof:name":"Oddbins Ltd.",
-    "wof:parent_id":85861741,
+    "wof:parent_id":85789041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

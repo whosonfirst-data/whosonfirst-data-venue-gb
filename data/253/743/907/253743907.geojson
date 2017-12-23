@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861617,
+        85861651,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684289
+        1158857257
     ],
     "wof:brand_id":1125152691,
     "wof:breaches":[],
@@ -44,18 +46,20 @@
     "wof:geomhash":"53a8bb8917887d345c75f7f4dce11141",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857257,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861617,
-            "region_id":85684289,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85861651,
+            "region_id":-1,
             "venue_id":253743907
         }
     ],
     "wof:id":253743907,
-    "wof:lastmodified":1510696806,
+    "wof:lastmodified":1513981555,
     "wof:name":"Whitbread Group Plc",
-    "wof:parent_id":85861617,
+    "wof:parent_id":85861651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

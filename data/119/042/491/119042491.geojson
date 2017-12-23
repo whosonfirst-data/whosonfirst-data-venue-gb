@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791605,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:brand_id":1125160825,
     "wof:breaches":[],
@@ -49,15 +51,18 @@
     "wof:geomhash":"673add3a52cda4e7d0d72bbc4f5b0ee7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791605,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":119042491
         }
     ],
     "wof:id":119042491,
-    "wof:lastmodified":1511318449,
+    "wof:lastmodified":1513991534,
     "wof:name":"Finesse",
     "wof:parent_id":85791605,
     "wof:placetype":"venue",

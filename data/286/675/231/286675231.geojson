@@ -31,9 +31,12 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85792433,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,18 @@
     "wof:geomhash":"4cffb1d6dbd0f71388f377309ecf00c3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857319,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792433,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":286675231
         }
     ],
     "wof:id":286675231,
-    "wof:lastmodified":1496939769,
+    "wof:lastmodified":1513992687,
     "wof:name":"Prestige Pet Homes",
     "wof:parent_id":85792433,
     "wof:placetype":"venue",

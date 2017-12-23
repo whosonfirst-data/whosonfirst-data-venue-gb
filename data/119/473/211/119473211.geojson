@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860185,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,18 @@
     "wof:geomhash":"bbc198aac8537216d5987778779a3d16",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860185,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":119473211
         }
     ],
     "wof:id":119473211,
-    "wof:lastmodified":1496967061,
+    "wof:lastmodified":1513984491,
     "wof:name":"Superior Plastering Co Ltd",
     "wof:parent_id":85860185,
     "wof:placetype":"venue",

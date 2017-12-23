@@ -38,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158859437,
+        102191581,
+        1158859439,
         85633159,
-        85860773,
-        85683667
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:brand_id":1125154257,
     "wof:breaches":[],
@@ -52,17 +55,21 @@
     "wof:geomhash":"f351797aa496bd6a087fd12f577ffcb6",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860773,
-            "region_id":85683667,
+            "macrohood_id":1158859439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158859437,
+            "region_id":-1,
             "venue_id":136081995
         }
     ],
     "wof:id":136081995,
-    "wof:lastmodified":1510697448,
+    "wof:lastmodified":1513977187,
     "wof:name":"The Prince of Wales",
-    "wof:parent_id":85860773,
+    "wof:parent_id":1158859437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

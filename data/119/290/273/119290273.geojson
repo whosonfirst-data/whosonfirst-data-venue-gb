@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860893,
-        85684597
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"eb89445fa9de7f33c2a34588d08bcad8",
     "wof:hierarchy":[
         {
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860893,
-            "region_id":85684597,
+            "region_id":-1,
             "venue_id":119290273
         }
     ],
     "wof:id":119290273,
-    "wof:lastmodified":1501088770,
+    "wof:lastmodified":1513991806,
     "wof:name":"Reeves Lund & Co. Ltd.",
     "wof:parent_id":85860893,
     "wof:placetype":"venue",

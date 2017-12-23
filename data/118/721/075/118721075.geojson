@@ -33,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787157,
-        85684289
+        102191581,
+        1158884889,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,19 @@
     "wof:geomhash":"ca4922e1354e8c0d918dfc4d2126932b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158884889,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787157,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":118721075
         }
     ],
     "wof:id":118721075,
-    "wof:lastmodified":1496965804,
+    "wof:lastmodified":1513978274,
     "wof:name":"Aranui Associates Ltd",
     "wof:parent_id":85787157,
     "wof:placetype":"venue",

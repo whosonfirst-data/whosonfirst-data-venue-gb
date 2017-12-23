@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
+        1158894007,
         85791077,
-        85683671
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,21 @@
     "wof:geomhash":"0ab7b8dea5932da7cdd8808bca6ec401",
     "wof:hierarchy":[
         {
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
+            "microhood_id":1158894007,
             "neighbourhood_id":85791077,
-            "region_id":85683671,
+            "region_id":-1,
             "venue_id":118994569
         }
     ],
     "wof:id":118994569,
-    "wof:lastmodified":1496965747,
+    "wof:lastmodified":1513997572,
     "wof:name":"Mr Express",
-    "wof:parent_id":85791077,
+    "wof:parent_id":1158894007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

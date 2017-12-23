@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860725,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"56f95bc4827fa440d5e61c57b2977d99",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860725,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":135465043
         }
     ],
     "wof:id":135465043,
-    "wof:lastmodified":1496961087,
+    "wof:lastmodified":1513977857,
     "wof:name":"G S M Communications",
     "wof:parent_id":85860725,
     "wof:placetype":"venue",

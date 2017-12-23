@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791401,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"e052deb84a763d5a60bdd793972c2a6c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791401,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":135684157
         }
     ],
     "wof:id":135684157,
-    "wof:lastmodified":1496961487,
+    "wof:lastmodified":1513988269,
     "wof:name":"Robin & Sons",
     "wof:parent_id":85791401,
     "wof:placetype":"venue",

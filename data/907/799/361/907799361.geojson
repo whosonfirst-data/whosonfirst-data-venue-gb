@@ -33,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85790695,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"8f8a66dec0e9041eb9ed883e5dc1bd9f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790695,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":907799361
         }
     ],
     "wof:id":907799361,
-    "wof:lastmodified":1496970414,
+    "wof:lastmodified":1513977074,
     "wof:name":"Broughton Tuite Tan & Co.",
     "wof:parent_id":85790695,
     "wof:placetype":"venue",

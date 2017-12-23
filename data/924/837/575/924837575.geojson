@@ -30,14 +30,12 @@
     "sg:website":"http://www.btplc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861729,
-        "102191581",
-        404435563,
-        "85633159",
+        85861767,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85861651
+        1158857257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,30 +46,20 @@
     "wof:geomhash":"522a638c4afe2930301d8fa27ea47a19",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857257,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
-            "neighbourhood_id":85861729,
-            "region_id":85684061,
-            "venue_id":924837575
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85861651,
-            "region_id":85684061,
+            "neighbourhood_id":85861767,
+            "region_id":-1,
             "venue_id":924837575
         }
     ],
     "wof:id":924837575,
-    "wof:lastmodified":1496951406,
+    "wof:lastmodified":1513979230,
     "wof:name":"BT Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":85861767,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

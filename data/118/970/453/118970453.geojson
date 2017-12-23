@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158865993,
+        102191581,
         85633159,
-        85866383,
-        85684337
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:brand_id":1125156251,
     "wof:breaches":[],
@@ -44,17 +46,20 @@
     "wof:geomhash":"33337f137c47dc5a6efe37652894ffcc",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85866383,
-            "region_id":85684337,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158865993,
+            "region_id":-1,
             "venue_id":118970453
         }
     ],
     "wof:id":118970453,
-    "wof:lastmodified":1510696915,
+    "wof:lastmodified":1513988418,
     "wof:name":"H F C Bank Plc",
-    "wof:parent_id":85866383,
+    "wof:parent_id":1158865993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85788413,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"5c7fc2141f657905d5b23c11abd8630f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85788413,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":924715867
         }
     ],
     "wof:id":924715867,
-    "wof:lastmodified":1496945850,
+    "wof:lastmodified":1513992585,
     "wof:name":"Panstar Business Centre",
     "wof:parent_id":85788413,
     "wof:placetype":"venue",

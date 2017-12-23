@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860781,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"fce765b0fbc0ab022e26b993d521fd44",
     "wof:hierarchy":[
         {
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860781,
-            "region_id":85683679,
+            "region_id":-1,
             "venue_id":135841107
         }
     ],
     "wof:id":135841107,
-    "wof:lastmodified":1496961545,
+    "wof:lastmodified":1513980111,
     "wof:name":"Countrywide Surveyors",
     "wof:parent_id":85860781,
     "wof:placetype":"venue",

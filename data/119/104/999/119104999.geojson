@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85792129,
+        102191581,
         85633159,
-        85861643,
-        85684061
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,20 @@
     "wof:geomhash":"ee3a9a8935d76133ab6c679a6f74b838",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861643,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792129,
+            "region_id":-1,
             "venue_id":119104999
         }
     ],
     "wof:id":119104999,
-    "wof:lastmodified":1496966832,
+    "wof:lastmodified":1513984912,
     "wof:name":"Bradleys (Knightsbridge) Ltd.",
-    "wof:parent_id":85861643,
+    "wof:parent_id":85792129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

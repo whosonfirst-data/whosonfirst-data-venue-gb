@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787869,
-        85684597
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:brand_id":1125153061,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"9e032f6dcb1f6d9d95a820b1d63123c7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787869,
-            "region_id":85684597,
+            "region_id":-1,
             "venue_id":119393229
         }
     ],
     "wof:id":119393229,
-    "wof:lastmodified":1511317763,
+    "wof:lastmodified":1514001311,
     "wof:name":"The Post Office",
     "wof:parent_id":85787869,
     "wof:placetype":"venue",

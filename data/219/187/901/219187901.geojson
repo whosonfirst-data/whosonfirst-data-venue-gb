@@ -44,9 +44,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85860161,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684441,
+        1158857291,
         85791773
     ],
     "wof:breaches":[],
@@ -57,26 +59,30 @@
     "wof:geomhash":"925b452d11b825184c72b80175b2f426",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860161,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":219187901
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791773,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":219187901
         }
     ],
     "wof:id":219187901,
-    "wof:lastmodified":1496966535,
+    "wof:lastmodified":1513985378,
     "wof:name":"Churchwood Chauffeur Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

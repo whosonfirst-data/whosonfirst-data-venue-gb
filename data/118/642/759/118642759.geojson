@@ -33,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790639,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,19 @@
     "wof:geomhash":"950bbea3dd224bf62ca64b662e9d3918",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790639,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":118642759
         }
     ],
     "wof:id":118642759,
-    "wof:lastmodified":1496966176,
+    "wof:lastmodified":1513985350,
     "wof:name":"Sandringham Finance Ltd",
     "wof:parent_id":85790639,
     "wof:placetype":"venue",

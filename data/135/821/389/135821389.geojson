@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860505,
-        85683637
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857319
     ],
     "wof:brand_id":1125154545,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"ca43634752dfbb0f1c979c563417b8de",
     "wof:hierarchy":[
         {
+            "borough_id":1158857319,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860505,
-            "region_id":85683637,
+            "region_id":-1,
             "venue_id":135821389
         }
     ],
     "wof:id":135821389,
-    "wof:lastmodified":1510699044,
+    "wof:lastmodified":1513994957,
     "wof:name":"Metropolitan Police Service",
     "wof:parent_id":85860505,
     "wof:placetype":"venue",

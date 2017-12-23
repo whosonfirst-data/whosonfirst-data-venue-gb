@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85859965,
-        85684289
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"82b6900140b5766be3bef48dc1ff2c46",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85859965,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":135844231
         }
     ],
     "wof:id":135844231,
-    "wof:lastmodified":1496961037,
+    "wof:lastmodified":1513986809,
     "wof:name":"Bizcom Computer Services",
     "wof:parent_id":85859965,
     "wof:placetype":"venue",

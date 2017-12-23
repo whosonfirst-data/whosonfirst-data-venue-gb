@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792161,
-        85683683
+        102191581,
+        1158864487,
+        85633159,
+        404227469,
+        101750367,
+        1158857273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +50,19 @@
     "wof:geomhash":"cd450d5123d8cd60cbf028f25dc4ff2a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857273,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158864487,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792161,
-            "region_id":85683683,
+            "region_id":-1,
             "venue_id":119005311
         }
     ],
     "wof:id":119005311,
-    "wof:lastmodified":1496967144,
+    "wof:lastmodified":1514002698,
     "wof:name":"J A Garfoot",
     "wof:parent_id":85792161,
     "wof:placetype":"venue",

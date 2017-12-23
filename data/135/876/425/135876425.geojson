@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791309,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"828e6b69b36dbfd3d7f6778a3c30f1ea",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791309,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":135876425
         }
     ],
     "wof:id":135876425,
-    "wof:lastmodified":1496961506,
+    "wof:lastmodified":1513978978,
     "wof:name":"Uduku, O W",
     "wof:parent_id":85791309,
     "wof:placetype":"venue",

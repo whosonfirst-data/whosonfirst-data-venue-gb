@@ -34,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786059,
-        85633159,
-        85684235,
         85785675,
-        101750367
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297,
+        85786059
     ],
     "wof:brand_id":1125155045,
     "wof:breaches":[],
@@ -49,26 +51,30 @@
     "wof:geomhash":"c87776cf6712e3feb0a6005e250bca10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
-            "locality_id":-1,
-            "neighbourhood_id":85786059,
-            "region_id":85684235,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85785675,
+            "region_id":-1,
             "venue_id":269852469
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85785675,
-            "region_id":85684235,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85786059,
+            "region_id":-1,
             "venue_id":269852469
         }
     ],
     "wof:id":269852469,
-    "wof:lastmodified":1511319220,
+    "wof:lastmodified":1513977169,
     "wof:name":"Phoenix",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

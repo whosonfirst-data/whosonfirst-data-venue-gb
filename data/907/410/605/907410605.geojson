@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785689,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"ca5c15c260dd7cc27f0c36111ac930ed",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785689,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":907410605
         }
     ],
     "wof:id":907410605,
-    "wof:lastmodified":1496970885,
+    "wof:lastmodified":1514001397,
     "wof:name":"Woodkeen Publishers & Advertising Agency",
     "wof:parent_id":85785689,
     "wof:placetype":"venue",

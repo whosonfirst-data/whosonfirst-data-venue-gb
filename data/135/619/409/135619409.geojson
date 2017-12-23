@@ -42,10 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860151,
-        85684273
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,18 @@
     "wof:geomhash":"1e6958b71ecbd25739d33cd4f8321b4b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857287,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860151,
-            "region_id":85684273,
+            "region_id":-1,
             "venue_id":135619409
         }
     ],
     "wof:id":135619409,
-    "wof:lastmodified":1496961100,
+    "wof:lastmodified":1513998491,
     "wof:name":"THE GROVE TAVERN",
     "wof:parent_id":85860151,
     "wof:placetype":"venue",

@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790841,
-        85684387
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"5ad2404ee23d4fc34c6ab995dc7953d7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857309,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790841,
-            "region_id":85684387,
+            "region_id":-1,
             "venue_id":119537195
         }
     ],
     "wof:id":119537195,
-    "wof:lastmodified":1496968027,
+    "wof:lastmodified":1513998120,
     "wof:name":"Profinish",
     "wof:parent_id":85790841,
     "wof:placetype":"venue",

@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860169,
-        85683683
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"8085c9d1ba9a32225dcf2e191bf9edcc",
     "wof:hierarchy":[
         {
+            "borough_id":1158857273,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860169,
-            "region_id":85683683,
+            "region_id":-1,
             "venue_id":136114105
         }
     ],
     "wof:id":136114105,
-    "wof:lastmodified":1496963945,
+    "wof:lastmodified":1514001274,
     "wof:name":"The Overdraught",
     "wof:parent_id":85860169,
     "wof:placetype":"venue",

@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792291,
-        85684003,
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267,
         85860841
     ],
     "wof:breaches":[],
@@ -45,24 +47,30 @@
     "wof:geomhash":"09061c49313714444e5ff998052dd6ee",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792291,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":119196589
         },
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860841,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":119196589
         }
     ],
     "wof:id":119196589,
-    "wof:lastmodified":1496966738,
+    "wof:lastmodified":1513999328,
     "wof:name":"Livingstones General Insurance Consultants",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

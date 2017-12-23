@@ -43,10 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789513,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,18 @@
     "wof:geomhash":"def5d4836bc78fd2e0d2e3d980bfa138",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789513,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":136070157
         }
     ],
     "wof:id":136070157,
-    "wof:lastmodified":1496963933,
+    "wof:lastmodified":1514002513,
     "wof:name":"Farmhouse Pizza",
     "wof:parent_id":85789513,
     "wof:placetype":"venue",

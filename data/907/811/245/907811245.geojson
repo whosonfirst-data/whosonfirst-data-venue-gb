@@ -35,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860493,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,18 @@
     "wof:geomhash":"a0350698b7dfe8fb831bb124bfb2c355",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860493,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":907811245
         }
     ],
     "wof:id":907811245,
-    "wof:lastmodified":1496971554,
+    "wof:lastmodified":1513990342,
     "wof:name":"J A C Plumbing & Heating",
     "wof:parent_id":85860493,
     "wof:placetype":"venue",

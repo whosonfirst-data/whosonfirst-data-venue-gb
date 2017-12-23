@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85860631,
+        102191581,
         85633159,
-        85790809,
-        85684533
+        404227469,
+        101750367,
+        1158857249
     ],
     "wof:brand_id":1125158399,
     "wof:breaches":[],
@@ -45,17 +47,20 @@
     "wof:geomhash":"50b15b20822bea1a0e942c4d8a3a3117",
     "wof:hierarchy":[
         {
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85790809,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860631,
+            "region_id":-1,
             "venue_id":119324707
         }
     ],
     "wof:id":119324707,
-    "wof:lastmodified":1511319495,
+    "wof:lastmodified":1513982157,
     "wof:name":"St Peters Church",
-    "wof:parent_id":85790809,
+    "wof:parent_id":85860631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

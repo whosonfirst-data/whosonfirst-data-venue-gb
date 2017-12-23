@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790111,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:brand_id":1125152275,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"b21b2393aa55cf67cf46876f57c77849",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790111,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":136141159
         }
     ],
     "wof:id":136141159,
-    "wof:lastmodified":1511317212,
+    "wof:lastmodified":1514000495,
     "wof:name":"First Choice",
     "wof:parent_id":85790111,
     "wof:placetype":"venue",

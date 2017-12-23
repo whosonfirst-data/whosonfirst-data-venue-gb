@@ -36,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85789283,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,18 @@
     "wof:geomhash":"fc3b8e5129b19c6b5340e1dcacd16479",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789283,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":924230145
         }
     ],
     "wof:id":924230145,
-    "wof:lastmodified":1496950208,
+    "wof:lastmodified":1514001524,
     "wof:name":"Splendid Trading",
     "wof:parent_id":85789283,
     "wof:placetype":"venue",

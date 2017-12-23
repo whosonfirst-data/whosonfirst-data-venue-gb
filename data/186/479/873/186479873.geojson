@@ -36,10 +36,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860641,
+        85789965,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683671
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +52,20 @@
     "wof:geomhash":"74c427f8ae6244cf359a30f9a5f58f7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860641,
-            "region_id":85683671,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85789965,
+            "region_id":-1,
             "venue_id":186479873
         }
     ],
     "wof:id":186479873,
-    "wof:lastmodified":1501088770,
+    "wof:lastmodified":1513985480,
     "wof:name":"Rider Support Services Ltd.",
-    "wof:parent_id":85860641,
+    "wof:parent_id":85789965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -43,10 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790435,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,18 @@
     "wof:geomhash":"5c80d4755c3859f0021fa202bb33ae31",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790435,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":135919785
         }
     ],
     "wof:id":135919785,
-    "wof:lastmodified":1496961048,
+    "wof:lastmodified":1513994777,
     "wof:name":"H H White & Co. (Wembley) Ltd.",
     "wof:parent_id":85790435,
     "wof:placetype":"venue",

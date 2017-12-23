@@ -34,14 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865129,
-        "102191581",
-        404435563,
-        "85633159",
+        85789715,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85789715
+        1158857281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,30 +50,20 @@
     "wof:geomhash":"a84e2a91c03dba4968b28371fddce8b5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85865129,
-            "region_id":85684061,
-            "venue_id":907357305
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857281,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85789715,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907357305
         }
     ],
     "wof:id":907357305,
-    "wof:lastmodified":1496973642,
+    "wof:lastmodified":1513984018,
     "wof:name":"Landore & Co.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85789715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

@@ -36,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85792439,
-        85683841
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,18 @@
     "wof:geomhash":"bd55c017da2a2f5861b686530f316e64",
     "wof:hierarchy":[
         {
+            "borough_id":1158857313,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792439,
-            "region_id":85683841,
+            "region_id":-1,
             "venue_id":135697601
         }
     ],
     "wof:id":135697601,
-    "wof:lastmodified":1496962069,
+    "wof:lastmodified":1513991795,
     "wof:name":"Keats Avenue Adventure Playground",
     "wof:parent_id":85792439,
     "wof:placetype":"venue",

@@ -33,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861741,
+        85790639,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +49,21 @@
     "wof:geomhash":"35c63985faa9baa6be7ca5b15f79f491",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861741,
-            "region_id":85684061,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790639,
+            "region_id":-1,
             "venue_id":270520253
         }
     ],
     "wof:id":270520253,
-    "wof:lastmodified":1496965364,
+    "wof:lastmodified":1513986135,
     "wof:name":"B P C Taylor Ltd.",
-    "wof:parent_id":85861741,
+    "wof:parent_id":85790639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

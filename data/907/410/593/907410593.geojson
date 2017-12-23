@@ -31,9 +31,12 @@
     "sg:province":"Kent",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785689,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,18 @@
     "wof:geomhash":"c8e7b0ec40c9492bf01bad5750f21a63",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785689,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":907410593
         }
     ],
     "wof:id":907410593,
-    "wof:lastmodified":1496970885,
+    "wof:lastmodified":1513977724,
     "wof:name":"N Nath",
     "wof:parent_id":85785689,
     "wof:placetype":"venue",

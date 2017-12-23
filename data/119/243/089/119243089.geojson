@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85788555,
+        102191581,
         85633159,
-        85860543,
-        85683707
+        404227469,
+        101750367,
+        1158857295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,20 @@
     "wof:geomhash":"036fac71b8552f4165c9c33f3aef28bd",
     "wof:hierarchy":[
         {
+            "borough_id":1158857295,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860543,
-            "region_id":85683707,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85788555,
+            "region_id":-1,
             "venue_id":119243089
         }
     ],
     "wof:id":119243089,
-    "wof:lastmodified":1496967157,
+    "wof:lastmodified":1514000901,
     "wof:name":"Flexotech",
-    "wof:parent_id":85860543,
+    "wof:parent_id":85788555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

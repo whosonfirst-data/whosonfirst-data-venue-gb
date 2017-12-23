@@ -33,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85786055,
+        85785675,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684235,
-        85785675
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,26 +48,20 @@
     "wof:geomhash":"68769eca37bfa4203e5d0568ff1cc212",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85786055,
-            "region_id":85684235,
-            "venue_id":319995521
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785675,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":319995521
         }
     ],
     "wof:id":319995521,
-    "wof:lastmodified":1496960093,
+    "wof:lastmodified":1513989468,
     "wof:name":"Mike Daly Architectural Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85785675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

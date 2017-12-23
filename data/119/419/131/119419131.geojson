@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860343,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"7bf3df0d67d98030249b7453686e0783",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860343,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":119419131
         }
     ],
     "wof:id":119419131,
-    "wof:lastmodified":1496966718,
+    "wof:lastmodified":1513980084,
     "wof:name":"Abc Building & Roofing Co",
     "wof:parent_id":85860343,
     "wof:placetype":"venue",

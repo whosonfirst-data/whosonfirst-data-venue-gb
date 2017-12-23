@@ -33,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85860023,
-        85684235
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"d0c30bf895c8dfb66353450eb1351fba",
     "wof:hierarchy":[
         {
+            "borough_id":1158857297,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860023,
-            "region_id":85684235,
+            "region_id":-1,
             "venue_id":924282259
         }
     ],
     "wof:id":924282259,
-    "wof:lastmodified":1496946734,
+    "wof:lastmodified":1513974574,
     "wof:name":"Jubaea Ltd",
     "wof:parent_id":85860023,
     "wof:placetype":"venue",

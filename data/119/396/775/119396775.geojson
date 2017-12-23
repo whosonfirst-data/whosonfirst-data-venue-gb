@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85869851,
-        85684289
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"2eb957b3d5cbad4e570882bc3e2a6382",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85869851,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":119396775
         }
     ],
     "wof:id":119396775,
-    "wof:lastmodified":1496967670,
+    "wof:lastmodified":1513981323,
     "wof:name":"The Perry Library",
     "wof:parent_id":85869851,
     "wof:placetype":"venue",

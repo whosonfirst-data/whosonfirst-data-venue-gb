@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789513,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:brand_id":420575911,
     "wof:breaches":[],
@@ -45,15 +47,18 @@
     "wof:geomhash":"0315c586ce4e2eeeab4397887e0d1d03",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789513,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":136070261
         }
     ],
     "wof:id":136070261,
-    "wof:lastmodified":1496963933,
+    "wof:lastmodified":1513978297,
     "wof:name":"Bairstow Eves",
     "wof:parent_id":85789513,
     "wof:placetype":"venue",

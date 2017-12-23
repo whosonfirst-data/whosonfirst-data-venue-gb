@@ -31,10 +31,12 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787633,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +46,18 @@
     "wof:geomhash":"9ba7c3642d458152039d9a980b168b70",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787633,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":119285585
         }
     ],
     "wof:id":119285585,
-    "wof:lastmodified":1496966706,
+    "wof:lastmodified":1513981981,
     "wof:name":"B J Brown Business Machines",
     "wof:parent_id":85787633,
     "wof:placetype":"venue",

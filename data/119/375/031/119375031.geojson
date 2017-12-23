@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860505,
-        85683637
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"a3f0d95a54a99efd936e8ddaddb0106d",
     "wof:hierarchy":[
         {
+            "borough_id":1158857319,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860505,
-            "region_id":85683637,
+            "region_id":-1,
             "venue_id":119375031
         }
     ],
     "wof:id":119375031,
-    "wof:lastmodified":1496966844,
+    "wof:lastmodified":1513977002,
     "wof:name":"D & G Repointing & Brickwork",
     "wof:parent_id":85860505,
     "wof:placetype":"venue",

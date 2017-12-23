@@ -42,10 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85882211,
+        102191581,
+        1158860453,
         85633159,
-        85790283,
-        85684299
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +58,21 @@
     "wof:geomhash":"07c86077f6841318370ed4b530ba0ef5",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85790283,
-            "region_id":85684299,
+            "macrohood_id":1158860453,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85882211,
+            "region_id":-1,
             "venue_id":136020607
         }
     ],
     "wof:id":136020607,
-    "wof:lastmodified":1496963673,
+    "wof:lastmodified":1513978084,
     "wof:name":"C W W Engineers Supply Co. Ltd.",
-    "wof:parent_id":85790283,
+    "wof:parent_id":85882211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

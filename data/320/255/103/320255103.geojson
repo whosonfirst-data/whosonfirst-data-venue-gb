@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861693,
+        1158859093,
+        85861801,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +51,21 @@
     "wof:geomhash":"c9dd065928dcaf071c83859a541606bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861693,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "microhood_id":1158859093,
+            "neighbourhood_id":85861801,
+            "region_id":-1,
             "venue_id":320255103
         }
     ],
     "wof:id":320255103,
-    "wof:lastmodified":1496963063,
+    "wof:lastmodified":1513991371,
     "wof:name":"Visix Software (UK) Ltd",
-    "wof:parent_id":85861693,
+    "wof:parent_id":1158859093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

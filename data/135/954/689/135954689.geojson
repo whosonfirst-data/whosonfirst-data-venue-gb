@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85793299,
+        102191581,
         85633159,
-        85860165,
-        85684467
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +46,20 @@
     "wof:geomhash":"3533a01f840b1b65c3081c119a34534e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860165,
-            "region_id":85684467,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85793299,
+            "region_id":-1,
             "venue_id":135954689
         }
     ],
     "wof:id":135954689,
-    "wof:lastmodified":1496962096,
+    "wof:lastmodified":1513994770,
     "wof:name":"Docklands Stationery",
-    "wof:parent_id":85860165,
+    "wof:parent_id":85793299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

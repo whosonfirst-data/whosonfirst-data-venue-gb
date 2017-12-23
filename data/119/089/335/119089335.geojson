@@ -34,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158859037,
+        102191581,
         85633159,
-        85791895,
-        85684061,
-        85866387
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +49,20 @@
     "wof:geomhash":"fbc5aaaf6389d504fb1aa7c4623dea52",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85791895,
-            "region_id":85684061,
-            "venue_id":119089335
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85866387,
-            "region_id":85684061,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158859037,
+            "region_id":-1,
             "venue_id":119089335
         }
     ],
     "wof:id":119089335,
-    "wof:lastmodified":1496967264,
+    "wof:lastmodified":1513995759,
     "wof:name":"Star Dry Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158859037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

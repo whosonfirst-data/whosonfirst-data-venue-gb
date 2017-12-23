@@ -35,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85789041,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +50,19 @@
     "wof:geomhash":"e315d311f2e7c6cc9e2e0d5d9dbfe15d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789041,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":303239495
         }
     ],
     "wof:id":303239495,
-    "wof:lastmodified":1496937222,
+    "wof:lastmodified":1513990491,
     "wof:name":"Bon Appetit",
     "wof:parent_id":85789041,
     "wof:placetype":"venue",

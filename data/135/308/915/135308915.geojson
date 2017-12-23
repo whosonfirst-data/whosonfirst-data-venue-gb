@@ -36,10 +36,12 @@
     "sg:province":"Surrey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789841,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,18 @@
     "wof:geomhash":"a324c5116b9911a0a1073ac5e9fa7168",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789841,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":135308915
         }
     ],
     "wof:id":135308915,
-    "wof:lastmodified":1496961194,
+    "wof:lastmodified":1513982329,
     "wof:name":"Naismith Engineering",
     "wof:parent_id":85789841,
     "wof:placetype":"venue",

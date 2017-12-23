@@ -36,10 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85861759,
+        1158859095,
+        85792067,
+        102191581,
+        1158859031,
         85633159,
+        404227469,
         101750367,
-        85684061
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +53,22 @@
     "wof:geomhash":"9e3229d2387b3e32a21b388351b185f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861759,
-            "region_id":85684061,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
+            "microhood_id":1158859095,
+            "neighbourhood_id":85792067,
+            "region_id":-1,
             "venue_id":336780971
         }
     ],
     "wof:id":336780971,
-    "wof:lastmodified":1496968386,
+    "wof:lastmodified":1513996563,
     "wof:name":"Westminster Race Equality Council",
-    "wof:parent_id":85861759,
+    "wof:parent_id":1158859095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

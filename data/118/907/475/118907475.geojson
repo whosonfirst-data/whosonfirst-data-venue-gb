@@ -34,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792151,
-        85684289
+        102191581,
+        1158884889,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +50,19 @@
     "wof:geomhash":"8c900fc0b91f785b9bf15e9bdec563b3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158884889,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792151,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":118907475
         }
     ],
     "wof:id":118907475,
-    "wof:lastmodified":1496966205,
+    "wof:lastmodified":1513996240,
     "wof:name":"Myria Pieri & Co.",
     "wof:parent_id":85792151,
     "wof:placetype":"venue",

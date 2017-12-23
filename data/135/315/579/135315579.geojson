@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860745,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"a1420e480494d645e271332295260559",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860745,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":135315579
         }
     ],
     "wof:id":135315579,
-    "wof:lastmodified":1496961348,
+    "wof:lastmodified":1513989149,
     "wof:name":"Goshawk Gardeners",
     "wof:parent_id":85860745,
     "wof:placetype":"venue",

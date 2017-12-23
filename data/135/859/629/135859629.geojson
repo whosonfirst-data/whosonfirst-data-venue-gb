@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789245,
-        85684121
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"da72a7a7db8115c890d9483a9c48352c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857279,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789245,
-            "region_id":85684121,
+            "region_id":-1,
             "venue_id":135859629
         }
     ],
     "wof:id":135859629,
-    "wof:lastmodified":1496962337,
+    "wof:lastmodified":1514001332,
     "wof:name":"The Garden Centre At Alexandra Palace",
     "wof:parent_id":85789245,
     "wof:placetype":"venue",

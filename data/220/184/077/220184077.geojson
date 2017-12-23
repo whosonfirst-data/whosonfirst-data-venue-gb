@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85790809,
+        85860631,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684533
+        1158857249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"e17cdbd575bf061ac6cfd96aab9ae1ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857249,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85790809,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860631,
+            "region_id":-1,
             "venue_id":220184077
         }
     ],
     "wof:id":220184077,
-    "wof:lastmodified":1496960631,
+    "wof:lastmodified":1513985679,
     "wof:name":"Emma's Estate Agents",
-    "wof:parent_id":85790809,
+    "wof:parent_id":85860631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

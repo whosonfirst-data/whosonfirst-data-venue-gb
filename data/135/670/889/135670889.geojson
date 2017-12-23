@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792323,
-        85684099
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"a90cc4bfcb2fee8c3493d887d66065e7",
     "wof:hierarchy":[
         {
+            "borough_id":1158857305,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792323,
-            "region_id":85684099,
+            "region_id":-1,
             "venue_id":135670889
         }
     ],
     "wof:id":135670889,
-    "wof:lastmodified":1496962282,
+    "wof:lastmodified":1514000460,
     "wof:name":"The Bridge Cafe",
     "wof:parent_id":85792323,
     "wof:placetype":"venue",

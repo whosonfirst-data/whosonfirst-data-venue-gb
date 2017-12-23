@@ -42,10 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860095,
-        85683763
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,18 @@
     "wof:geomhash":"3286107f633f271c707e8192a29956e0",
     "wof:hierarchy":[
         {
+            "borough_id":1158857255,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860095,
-            "region_id":85683763,
+            "region_id":-1,
             "venue_id":119306665
         }
     ],
     "wof:id":119306665,
-    "wof:lastmodified":1496966782,
+    "wof:lastmodified":1513979305,
     "wof:name":"Sunstop Blinds",
     "wof:parent_id":85860095,
     "wof:placetype":"venue",

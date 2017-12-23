@@ -25,10 +25,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158864405,
+        102191581,
         85633159,
-        85788355,
-        85684071
+        404227469,
+        101750367,
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +40,20 @@
     "wof:geomhash":"74ca0c483a3417862c329341d62e07e3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85788355,
-            "region_id":85684071,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158864405,
+            "region_id":-1,
             "venue_id":135682279
         }
     ],
     "wof:id":135682279,
-    "wof:lastmodified":1496960831,
+    "wof:lastmodified":1513998828,
     "wof:name":"Mk Engineering Services Ltd.",
-    "wof:parent_id":85788355,
+    "wof:parent_id":1158864405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

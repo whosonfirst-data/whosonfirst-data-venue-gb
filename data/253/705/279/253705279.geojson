@@ -35,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866371,
+        85860331,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683683,
-        85860195
+        1158857273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +50,20 @@
     "wof:geomhash":"9634e94e0d8fed4083748f7643d4854f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857273,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85866371,
-            "region_id":85683683,
-            "venue_id":253705279
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85860195,
-            "region_id":85683683,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860331,
+            "region_id":-1,
             "venue_id":253705279
         }
     ],
     "wof:id":253705279,
-    "wof:lastmodified":1496963230,
+    "wof:lastmodified":1513998762,
     "wof:name":"Zion Cars",
-    "wof:parent_id":-1,
+    "wof:parent_id":85860331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

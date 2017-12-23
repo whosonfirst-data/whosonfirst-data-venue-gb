@@ -34,12 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85860461,
+        102191581,
         85633159,
-        85788559,
-        85684003,
-        85792211,
-        85684597
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +49,20 @@
     "wof:geomhash":"f4ca3205b31bb907e2a9f8b8e31923ef",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85788559,
-            "region_id":85684003,
-            "venue_id":119355055
-        },
-        {
-            "country_id":85633159,
-            "locality_id":101750367,
-            "neighbourhood_id":85792211,
-            "region_id":85684597,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860461,
+            "region_id":-1,
             "venue_id":119355055
         }
     ],
     "wof:id":119355055,
-    "wof:lastmodified":1496967006,
+    "wof:lastmodified":1513973051,
     "wof:name":"Roiter Zucker",
-    "wof:parent_id":-1,
+    "wof:parent_id":85860461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

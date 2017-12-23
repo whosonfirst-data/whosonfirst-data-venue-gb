@@ -31,14 +31,14 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792399,
-        "102191581",
-        404435563,
-        "85633159",
+        85788761,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85788761
+        1158857287,
+        85792399,
+        1158857293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,28 +49,28 @@
     "wof:geomhash":"9bf459312b360ec4e6afc2e6f32e89f9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85792399,
-            "region_id":85684061,
-            "venue_id":907223703
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857287,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85788761,
-            "region_id":85684061,
+            "region_id":-1,
+            "venue_id":907223703
+        },
+        {
+            "borough_id":1158857293,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792399,
+            "region_id":-1,
             "venue_id":907223703
         }
     ],
     "wof:id":907223703,
-    "wof:lastmodified":1496973272,
+    "wof:lastmodified":1513989973,
     "wof:name":"Nelson Bros Ltd.",
     "wof:parent_id":-3,
     "wof:placetype":"venue",

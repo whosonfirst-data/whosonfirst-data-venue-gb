@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861645,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:brand_id":1125155445,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"8f37c7a7dabd3b8e1ff44669aec73baf",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861645,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":118989625
         }
     ],
     "wof:id":118989625,
-    "wof:lastmodified":1511316478,
+    "wof:lastmodified":1513973621,
     "wof:name":"Woolworths plc",
     "wof:parent_id":85861645,
     "wof:placetype":"venue",

@@ -36,10 +36,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860635,
+        85790077,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684151
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +51,20 @@
     "wof:geomhash":"de6586cfc68582e62d77746a52ecca0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860635,
-            "region_id":85684151,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790077,
+            "region_id":-1,
             "venue_id":320788347
         }
     ],
     "wof:id":320788347,
-    "wof:lastmodified":1496962512,
+    "wof:lastmodified":1513995598,
     "wof:name":"Rosslyn Park Football Club R F U",
-    "wof:parent_id":85860635,
+    "wof:parent_id":85790077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

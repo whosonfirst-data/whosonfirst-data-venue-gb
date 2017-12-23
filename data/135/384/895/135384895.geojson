@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787481,
-        85684411
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"ad3087a49519292b21f6be798405feab",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787481,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":135384895
         }
     ],
     "wof:id":135384895,
-    "wof:lastmodified":1496962024,
+    "wof:lastmodified":1513996765,
     "wof:name":"Absolute Removals",
     "wof:parent_id":85787481,
     "wof:placetype":"venue",

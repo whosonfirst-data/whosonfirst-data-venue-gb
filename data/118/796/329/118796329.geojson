@@ -49,10 +49,13 @@
     "sg:website":"http://www.wordlink.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158860463,
+        102191581,
+        1158860453,
         85633159,
-        85790283,
-        85684299
+        404227469,
+        101750367,
+        1158857315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +65,21 @@
     "wof:geomhash":"91e0ade7cf61d61bfc9cf2e0cbf5f78f",
     "wof:hierarchy":[
         {
+            "borough_id":1158857315,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85790283,
-            "region_id":85684299,
+            "macrohood_id":1158860453,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158860463,
+            "region_id":-1,
             "venue_id":118796329
         }
     ],
     "wof:id":118796329,
-    "wof:lastmodified":1496966243,
+    "wof:lastmodified":1513997065,
     "wof:name":"Word Link Ltd.",
-    "wof:parent_id":85790283,
+    "wof:parent_id":1158860463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

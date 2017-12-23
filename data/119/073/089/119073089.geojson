@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787873,
-        85684151
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857311
     ],
     "wof:brand_id":420575615,
     "wof:breaches":[],
@@ -47,15 +49,18 @@
     "wof:geomhash":"f63f92adb8e46c07c8da8d3d8a9e224c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787873,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":119073089
         }
     ],
     "wof:id":119073089,
-    "wof:lastmodified":1496967937,
+    "wof:lastmodified":1513990707,
     "wof:name":"Images",
     "wof:parent_id":85787873,
     "wof:placetype":"venue",

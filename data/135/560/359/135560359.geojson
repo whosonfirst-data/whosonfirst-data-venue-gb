@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785657,
-        85684467
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,18 @@
     "wof:geomhash":"36eed558f9a128c1f96d7cb07f1b9592",
     "wof:hierarchy":[
         {
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785657,
-            "region_id":85684467,
+            "region_id":-1,
             "venue_id":135560359
         }
     ],
     "wof:id":135560359,
-    "wof:lastmodified":1496960819,
+    "wof:lastmodified":1513988623,
     "wof:name":"G & P Veneers",
     "wof:parent_id":85785657,
     "wof:placetype":"venue",

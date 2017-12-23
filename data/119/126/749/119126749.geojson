@@ -33,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85860519,
+        102191581,
         85633159,
-        85860581,
-        85684337
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +48,20 @@
     "wof:geomhash":"865f9b45839fe6b5ab4f1cd1da750d9e",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860581,
-            "region_id":85684337,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860519,
+            "region_id":-1,
             "venue_id":119126749
         }
     ],
     "wof:id":119126749,
-    "wof:lastmodified":1496967724,
+    "wof:lastmodified":1513990537,
     "wof:name":"Taylor Milburn Ltd",
-    "wof:parent_id":85860581,
+    "wof:parent_id":85860519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

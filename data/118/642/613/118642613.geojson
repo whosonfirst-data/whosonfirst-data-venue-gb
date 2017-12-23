@@ -31,10 +31,13 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790639,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +47,19 @@
     "wof:geomhash":"c9dc5a91534af5fb4f06c69f621875c5",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790639,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":118642613
         }
     ],
     "wof:id":118642613,
-    "wof:lastmodified":1496966175,
+    "wof:lastmodified":1514002568,
     "wof:name":"Swedish Affar Ltd.",
     "wof:parent_id":85790639,
     "wof:placetype":"venue",

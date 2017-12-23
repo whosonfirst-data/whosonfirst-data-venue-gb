@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860241,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:brand_id":1125154785,
     "wof:breaches":[],
@@ -45,15 +47,18 @@
     "wof:geomhash":"81aa2c50a0d06653a29fe42300d30aea",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860241,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":119186633
         }
     ],
     "wof:id":119186633,
-    "wof:lastmodified":1510698932,
+    "wof:lastmodified":1513999799,
     "wof:name":"National Westminster Bank Plc",
     "wof:parent_id":85860241,
     "wof:placetype":"venue",

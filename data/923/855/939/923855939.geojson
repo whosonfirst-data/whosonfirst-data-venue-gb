@@ -36,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85786819,
-        85683711
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,18 @@
     "wof:geomhash":"3955de21cae221653e132e9d68b586ef",
     "wof:hierarchy":[
         {
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786819,
-            "region_id":85683711,
+            "region_id":-1,
             "venue_id":923855939
         }
     ],
     "wof:id":923855939,
-    "wof:lastmodified":1496969618,
+    "wof:lastmodified":1513999811,
     "wof:name":"Finecraft Engineering Ltd.",
     "wof:parent_id":85786819,
     "wof:placetype":"venue",

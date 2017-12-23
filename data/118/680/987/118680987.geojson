@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861797,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"2547592738fa5f74d34fb4e349b4f1fd",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861797,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":118680987
         }
     ],
     "wof:id":118680987,
-    "wof:lastmodified":1496965977,
+    "wof:lastmodified":1513985332,
     "wof:name":"Stonebridge Adventure Playground",
     "wof:parent_id":85861797,
     "wof:placetype":"venue",

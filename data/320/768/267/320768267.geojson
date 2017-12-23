@@ -35,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792273,
-        85633159,
-        101750367,
-        85684141,
         85792277,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265,
+        85792273,
+        1158857259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +52,30 @@
     "wof:geomhash":"b196d2e6a33c10b4b09cfc2c0362fbfe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792273,
-            "region_id":85684141,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792277,
+            "region_id":-1,
             "venue_id":320768267
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857259,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792277,
-            "region_id":85683679,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792273,
+            "region_id":-1,
             "venue_id":320768267
         }
     ],
     "wof:id":320768267,
-    "wof:lastmodified":1496962893,
+    "wof:lastmodified":1513994766,
     "wof:name":"Kendal & Co.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

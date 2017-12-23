@@ -40,10 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789293,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,18 @@
     "wof:geomhash":"279165ca7f48c191a2bb1bab1cf4f6b8",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789293,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":135330365
         }
     ],
     "wof:id":135330365,
-    "wof:lastmodified":1496962204,
+    "wof:lastmodified":1513998515,
     "wof:name":"Smart Image",
     "wof:parent_id":85789293,
     "wof:placetype":"venue",

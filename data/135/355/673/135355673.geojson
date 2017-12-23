@@ -31,10 +31,11 @@
     "sg:province":"Essex",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        102191581,
         85633159,
-        85860293,
-        85684441
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,20 @@
     "wof:geomhash":"0c7af138f1ab30fdd6062932a5f43127",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860293,
-            "region_id":85684441,
+            "macroregion_id":404227469,
+            "neighbourhood_id":-1,
+            "region_id":-1,
             "venue_id":135355673
         }
     ],
     "wof:id":135355673,
-    "wof:lastmodified":1496961138,
+    "wof:lastmodified":1514001237,
     "wof:name":"Favourites (Ilford) Ltd.",
-    "wof:parent_id":85860293,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

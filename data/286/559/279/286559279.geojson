@@ -35,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85861749,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684151,
+        1158857311,
         85787857
     ],
     "wof:breaches":[],
@@ -48,26 +50,30 @@
     "wof:geomhash":"96d7b03fa7d31d9fbbce910ef5b6d7a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861749,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":286559279
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857311,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787857,
-            "region_id":85684151,
+            "region_id":-1,
             "venue_id":286559279
         }
     ],
     "wof:id":286559279,
-    "wof:lastmodified":1496941507,
+    "wof:lastmodified":1513975674,
     "wof:name":"Period Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

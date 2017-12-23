@@ -34,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792171,
+        85861673,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85684071,
-        85861673
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +49,20 @@
     "wof:geomhash":"a096584781e9954ad8ae5fb71caabad9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792171,
-            "region_id":85684071,
-            "venue_id":253068389
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633159,
-            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861673,
-            "region_id":85684071,
+            "region_id":-1,
             "venue_id":253068389
         }
     ],
     "wof:id":253068389,
-    "wof:lastmodified":1496963489,
+    "wof:lastmodified":1513990916,
     "wof:name":"Andart Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85861673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

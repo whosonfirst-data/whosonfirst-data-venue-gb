@@ -37,10 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792069,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +52,18 @@
     "wof:geomhash":"af5e4949bf87127a3ee3ed31def5bb87",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792069,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":119448599
         }
     ],
     "wof:id":119448599,
-    "wof:lastmodified":1496967199,
+    "wof:lastmodified":1513994983,
     "wof:name":"Kings (Golders Green) Ltd.",
     "wof:parent_id":85792069,
     "wof:placetype":"venue",

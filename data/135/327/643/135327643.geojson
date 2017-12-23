@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85790873,
-        85684337
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857299
     ],
     "wof:brand_id":1125153737,
     "wof:breaches":[],
@@ -45,15 +47,18 @@
     "wof:geomhash":"eb94d1e94aebffda6a980bd72e8a843b",
     "wof:hierarchy":[
         {
+            "borough_id":1158857299,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790873,
-            "region_id":85684337,
+            "region_id":-1,
             "venue_id":135327643
         }
     ],
     "wof:id":135327643,
-    "wof:lastmodified":1510875874,
+    "wof:lastmodified":1513988863,
     "wof:name":"Wimpy International Ltd.",
     "wof:parent_id":85790873,
     "wof:placetype":"venue",

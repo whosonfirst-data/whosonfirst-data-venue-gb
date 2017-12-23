@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860161,
-        85684441
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"fcc455890250e5f6eeee1eca89346f97",
     "wof:hierarchy":[
         {
+            "borough_id":1158857291,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860161,
-            "region_id":85684441,
+            "region_id":-1,
             "venue_id":135655931
         }
     ],
     "wof:id":135655931,
-    "wof:lastmodified":1496962425,
+    "wof:lastmodified":1513999987,
     "wof:name":"Holbeck Consultants Ltd.",
     "wof:parent_id":85860161,
     "wof:placetype":"venue",

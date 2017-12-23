@@ -34,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85792313,
-        85633159,
-        101750367,
-        85683711,
         85790469,
-        85683679
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857265,
+        85792313,
+        1158857261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +51,30 @@
     "wof:geomhash":"7145552a6759602227c42ad09d20026f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857265,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85792313,
-            "region_id":85683711,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790469,
+            "region_id":-1,
             "venue_id":270430319
         },
         {
-            "continent_id":-1,
+            "borough_id":1158857261,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85790469,
-            "region_id":85683679,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85792313,
+            "region_id":-1,
             "venue_id":270430319
         }
     ],
     "wof:id":270430319,
-    "wof:lastmodified":1496965254,
+    "wof:lastmodified":1513986888,
     "wof:name":"Randhwa,D,",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

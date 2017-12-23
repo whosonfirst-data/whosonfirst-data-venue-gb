@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85791497,
-        85684411
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +45,18 @@
     "wof:geomhash":"419141a6d1d8c56994be2452246d1acf",
     "wof:hierarchy":[
         {
+            "borough_id":1158857293,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85791497,
-            "region_id":85684411,
+            "region_id":-1,
             "venue_id":135933541
         }
     ],
     "wof:id":135933541,
-    "wof:lastmodified":1496961212,
+    "wof:lastmodified":1513975329,
     "wof:name":"Kilo Guard Services Ltd",
     "wof:parent_id":85791497,
     "wof:placetype":"venue",

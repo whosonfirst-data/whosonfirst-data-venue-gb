@@ -38,14 +38,12 @@
     "sg:website":"http://www.costello.co.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860293,
-        "102191581",
-        404435563,
-        "85633159",
+        85788439,
+        102191581,
+        85633159,
         404227469,
         101750367,
-        85684061,
-        85788439
+        1158857291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,30 +54,20 @@
     "wof:geomhash":"2e547925b64fad55cb1c4a8ea6d82335",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "neighbourhood_id":85860293,
-            "region_id":85684061,
-            "venue_id":907479957
-        },
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435563,
+            "borough_id":1158857291,
+            "continent_id":102191581,
+            "country_id":85633159,
             "locality_id":101750367,
             "macroregion_id":404227469,
             "neighbourhood_id":85788439,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":907479957
         }
     ],
     "wof:id":907479957,
-    "wof:lastmodified":1496970372,
+    "wof:lastmodified":1514002361,
     "wof:name":"Costello & Sons Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85788439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

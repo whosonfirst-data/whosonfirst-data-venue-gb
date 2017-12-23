@@ -42,10 +42,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85860465,
-        85684597
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,18 @@
     "wof:geomhash":"c83b73259b1fc4b426f3cf7fb9941b5a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857277,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85860465,
-            "region_id":85684597,
+            "region_id":-1,
             "venue_id":119303287
         }
     ],
     "wof:id":119303287,
-    "wof:lastmodified":1501088763,
+    "wof:lastmodified":1513991257,
     "wof:name":"Papa Del's",
     "wof:parent_id":85860465,
     "wof:placetype":"venue",

@@ -36,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85791457,
+        102191581,
+        1158859439,
         85633159,
-        85786511,
-        85683667
+        404227469,
+        101750367,
+        1158857317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,21 @@
     "wof:geomhash":"58d49d8a23325068fd23f473a11f90ea",
     "wof:hierarchy":[
         {
+            "borough_id":1158857317,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85786511,
-            "region_id":85683667,
+            "macrohood_id":1158859439,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791457,
+            "region_id":-1,
             "venue_id":135724009
         }
     ],
     "wof:id":135724009,
-    "wof:lastmodified":1496960947,
+    "wof:lastmodified":1513975395,
     "wof:name":"Mihalarias Stavros Art",
-    "wof:parent_id":85786511,
+    "wof:parent_id":85791457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

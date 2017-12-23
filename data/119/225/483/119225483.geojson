@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85785335,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,18 @@
     "wof:geomhash":"304e5461082d125a27b78eb5aa7951d2",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785335,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":119225483
         }
     ],
     "wof:id":119225483,
-    "wof:lastmodified":1496966677,
+    "wof:lastmodified":1513975452,
     "wof:name":"Navrish Ltd.",
     "wof:parent_id":85785335,
     "wof:placetype":"venue",

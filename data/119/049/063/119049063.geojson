@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792215,
-        85684003
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857267
     ],
     "wof:brand_id":420575457,
     "wof:breaches":[],
@@ -50,15 +52,18 @@
     "wof:geomhash":"7f75ae26d30be32272dee1de2197a804",
     "wof:hierarchy":[
         {
+            "borough_id":1158857267,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792215,
-            "region_id":85684003,
+            "region_id":-1,
             "venue_id":119049063
         }
     ],
     "wof:id":119049063,
-    "wof:lastmodified":1496967406,
+    "wof:lastmodified":1513985338,
     "wof:name":"Unwins Wine Merchants",
     "wof:parent_id":85792215,
     "wof:placetype":"venue",

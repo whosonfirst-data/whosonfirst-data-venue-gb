@@ -36,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        85790613,
+        102191581,
         85633159,
-        85788559,
-        85684003
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +51,20 @@
     "wof:geomhash":"d6dd3f2825ddbd21871080d728791cdd",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85788559,
-            "region_id":85684003,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85790613,
+            "region_id":-1,
             "venue_id":119020759
         }
     ],
     "wof:id":119020759,
-    "wof:lastmodified":1496966783,
+    "wof:lastmodified":1513991701,
     "wof:name":"Curtain Concepts",
-    "wof:parent_id":85788559,
+    "wof:parent_id":85790613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

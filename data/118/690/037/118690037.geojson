@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792067,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,19 @@
     "wof:geomhash":"ccdc063f2c9739f82672562b3a6b4d66",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792067,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":118690037
         }
     ],
     "wof:id":118690037,
-    "wof:lastmodified":1496966042,
+    "wof:lastmodified":1513989416,
     "wof:name":"Cine-Lingual Sound Studios Ltd",
     "wof:parent_id":85792067,
     "wof:placetype":"venue",

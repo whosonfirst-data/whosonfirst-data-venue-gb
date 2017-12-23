@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787971,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:brand_id":1125153731,
     "wof:breaches":[],
@@ -50,15 +52,18 @@
     "wof:geomhash":"d09ea70b91ce6f0d846dd4732c8b4c56",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787971,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":135513883
         }
     ],
     "wof:id":135513883,
-    "wof:lastmodified":1510943156,
+    "wof:lastmodified":1513984955,
     "wof:name":"The White Horse",
     "wof:parent_id":85787971,
     "wof:placetype":"venue",

@@ -39,10 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85789337,
-        85684387
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,18 @@
     "wof:geomhash":"8d44dbb04e9a19161647303cb731a404",
     "wof:hierarchy":[
         {
+            "borough_id":1158857309,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85789337,
-            "region_id":85684387,
+            "region_id":-1,
             "venue_id":135559801
         }
     ],
     "wof:id":135559801,
-    "wof:lastmodified":1496962352,
+    "wof:lastmodified":1513989243,
     "wof:name":"Meritrule Ltd.",
     "wof:parent_id":85789337,
     "wof:placetype":"venue",

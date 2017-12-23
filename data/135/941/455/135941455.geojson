@@ -43,10 +43,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85786795,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +58,18 @@
     "wof:geomhash":"96651a4c89b8350b245ff96b606a5e45",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85786795,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":135941455
         }
     ],
     "wof:id":135941455,
-    "wof:lastmodified":1496961940,
+    "wof:lastmodified":1513974733,
     "wof:name":"C S M Stripping",
     "wof:parent_id":85786795,
     "wof:placetype":"venue",

@@ -34,9 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85787977,
-        85683765
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,18 @@
     "wof:geomhash":"3daddd1ba3e5bfae460e313769311f4a",
     "wof:hierarchy":[
         {
+            "borough_id":1158857263,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787977,
-            "region_id":85683765,
+            "region_id":-1,
             "venue_id":924156321
         }
     ],
     "wof:id":924156321,
-    "wof:lastmodified":1496951753,
+    "wof:lastmodified":1513979275,
     "wof:name":"The Paradigm Partnership Ltd.",
     "wof:parent_id":85787977,
     "wof:placetype":"venue",

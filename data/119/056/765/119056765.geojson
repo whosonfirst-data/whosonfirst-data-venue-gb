@@ -31,10 +31,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
+        1158864395,
+        102191581,
         85633159,
-        85860383,
-        85684121
+        404227469,
+        101750367,
+        1158857275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +46,20 @@
     "wof:geomhash":"08421da92c5a7e96557bdf11f61e9150",
     "wof:hierarchy":[
         {
+            "borough_id":1158857275,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860383,
-            "region_id":85684121,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158864395,
+            "region_id":-1,
             "venue_id":119056765
         }
     ],
     "wof:id":119056765,
-    "wof:lastmodified":1496967919,
+    "wof:lastmodified":1513984953,
     "wof:name":"Food Value",
-    "wof:parent_id":85860383,
+    "wof:parent_id":1158864395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

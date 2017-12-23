@@ -40,9 +40,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633159,
         85790317,
-        85684009
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857301
     ],
     "wof:brand_id":420574841,
     "wof:breaches":[],
@@ -54,14 +57,18 @@
     "wof:geomhash":"cff97c049787c670e14716cc9a9c2576",
     "wof:hierarchy":[
         {
+            "borough_id":1158857301,
+            "continent_id":102191581,
             "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85790317,
-            "region_id":85684009,
+            "region_id":-1,
             "venue_id":907685551
         }
     ],
     "wof:id":907685551,
-    "wof:lastmodified":1511324591,
+    "wof:lastmodified":1513978444,
     "wof:name":"Tesco Stores Ltd.",
     "wof:parent_id":85790317,
     "wof:placetype":"venue",

@@ -35,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792067,
-        85684061
+        102191581,
+        1158859031,
+        85633159,
+        404227469,
+        101750367,
+        1158857245
     ],
     "wof:brand_id":1125162793,
     "wof:breaches":[],
@@ -50,15 +53,19 @@
     "wof:geomhash":"86de21d4c6f37cbee3401d63af2672b3",
     "wof:hierarchy":[
         {
+            "borough_id":1158857245,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macrohood_id":1158859031,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792067,
-            "region_id":85684061,
+            "region_id":-1,
             "venue_id":119294149
         }
     ],
     "wof:id":119294149,
-    "wof:lastmodified":1510941888,
+    "wof:lastmodified":1513998626,
     "wof:name":"Snappy Snaps",
     "wof:parent_id":85792067,
     "wof:placetype":"venue",

@@ -30,10 +30,12 @@
     "sg:province":"Greater London",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860175,
+        1158864657,
+        102191581,
         85633159,
+        404227469,
         101750367,
-        85683683
+        1158857269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +45,20 @@
     "wof:geomhash":"73938cf1c0144e16651b16c6443df9bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":1158857269,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85860175,
-            "region_id":85683683,
+            "macroregion_id":404227469,
+            "neighbourhood_id":1158864657,
+            "region_id":-1,
             "venue_id":336604083
         }
     ],
     "wof:id":336604083,
-    "wof:lastmodified":1496968392,
+    "wof:lastmodified":1513985048,
     "wof:name":"The Showroom Art Gallery",
-    "wof:parent_id":85860175,
+    "wof:parent_id":1158864657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-gb",
     "wof:superseded_by":[],

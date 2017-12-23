@@ -35,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85792125,
-        85684289
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,18 @@
     "wof:geomhash":"32fff3b68fc9f853e390d94f5cd7fc48",
     "wof:hierarchy":[
         {
+            "borough_id":1158857247,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85792125,
-            "region_id":85684289,
+            "region_id":-1,
             "venue_id":102662903
         }
     ],
     "wof:id":102662903,
-    "wof:lastmodified":1496968942,
+    "wof:lastmodified":1514000613,
     "wof:name":"Greenpoint Films Ltd.",
     "wof:parent_id":85792125,
     "wof:placetype":"venue",

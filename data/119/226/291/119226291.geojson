@@ -32,10 +32,12 @@
     "sg:website":"http://www.epbc.org.uk",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85787281,
-        85683707
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +47,18 @@
     "wof:geomhash":"4199e5d76aa5cdcaf90500bc6e2a8886",
     "wof:hierarchy":[
         {
+            "borough_id":1158857295,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85787281,
-            "region_id":85683707,
+            "region_id":-1,
             "venue_id":119226291
         }
     ],
     "wof:id":119226291,
-    "wof:lastmodified":1496967940,
+    "wof:lastmodified":1513983101,
     "wof:name":"Eltham Park baptist Church",
     "wof:parent_id":85787281,
     "wof:placetype":"venue",

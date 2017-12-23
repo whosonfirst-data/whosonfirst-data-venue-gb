@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85785451,
-        85683671
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +49,18 @@
     "wof:geomhash":"a0b71f93615603fde6231e2f69b030cc",
     "wof:hierarchy":[
         {
+            "borough_id":1158857251,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785451,
-            "region_id":85683671,
+            "region_id":-1,
             "venue_id":118755499
         }
     ],
     "wof:id":118755499,
-    "wof:lastmodified":1496965847,
+    "wof:lastmodified":1513992538,
     "wof:name":"Jacks Tailoring",
     "wof:parent_id":85785451,
     "wof:placetype":"venue",

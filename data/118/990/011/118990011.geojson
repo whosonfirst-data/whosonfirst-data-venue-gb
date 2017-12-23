@@ -34,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750367,
-        85633159,
         85861645,
-        85684613
+        102191581,
+        85633159,
+        404227469,
+        101750367,
+        1158857285
     ],
     "wof:brand_id":1125160233,
     "wof:breaches":[],
@@ -48,15 +50,18 @@
     "wof:geomhash":"46bd28c11976ea7b9e70f70a1a1fef1c",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
+            "continent_id":102191581,
             "country_id":85633159,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85861645,
-            "region_id":85684613,
+            "region_id":-1,
             "venue_id":118990011
         }
     ],
     "wof:id":118990011,
-    "wof:lastmodified":1511316663,
+    "wof:lastmodified":1513997523,
     "wof:name":"Interior Concepts",
     "wof:parent_id":85861645,
     "wof:placetype":"venue",
